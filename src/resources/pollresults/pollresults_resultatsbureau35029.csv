@@ -1,0 +1,931 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+35029,"Etobicoke North","Etobicoke-Nord"," 1","Toronto",N,N,"",0,500,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,6
+35029,"Etobicoke North","Etobicoke-Nord"," 1","Toronto",N,N,"",0,500,"Duncan","","Kirsty","Liberal","Libéral",N,Y,81
+35029,"Etobicoke North","Etobicoke-Nord"," 1","Toronto",N,N,"",0,500,"Lamba","","Priti","Conservative","Conservateur",N,N,32
+35029,"Etobicoke North","Etobicoke-Nord"," 1","Toronto",N,N,"",0,500,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35029,"Etobicoke North","Etobicoke-Nord"," 1","Toronto",N,N,"",0,500,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 2","Toronto",N,N,"",0,284,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 2","Toronto",N,N,"",0,284,"Duncan","","Kirsty","Liberal","Libéral",N,Y,69
+35029,"Etobicoke North","Etobicoke-Nord"," 2","Toronto",N,N,"",0,284,"Lamba","","Priti","Conservative","Conservateur",N,N,21
+35029,"Etobicoke North","Etobicoke-Nord"," 2","Toronto",N,N,"",0,284,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35029,"Etobicoke North","Etobicoke-Nord"," 2","Toronto",N,N,"",0,284,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 3","Toronto",N,N,"",2,554,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 3","Toronto",N,N,"",2,554,"Duncan","","Kirsty","Liberal","Libéral",N,Y,106
+35029,"Etobicoke North","Etobicoke-Nord"," 3","Toronto",N,N,"",2,554,"Lamba","","Priti","Conservative","Conservateur",N,N,38
+35029,"Etobicoke North","Etobicoke-Nord"," 3","Toronto",N,N,"",2,554,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35029,"Etobicoke North","Etobicoke-Nord"," 3","Toronto",N,N,"",2,554,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 4","Toronto",N,N,"",1,405,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 4","Toronto",N,N,"",1,405,"Duncan","","Kirsty","Liberal","Libéral",N,Y,83
+35029,"Etobicoke North","Etobicoke-Nord"," 4","Toronto",N,N,"",1,405,"Lamba","","Priti","Conservative","Conservateur",N,N,18
+35029,"Etobicoke North","Etobicoke-Nord"," 4","Toronto",N,N,"",1,405,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35029,"Etobicoke North","Etobicoke-Nord"," 4","Toronto",N,N,"",1,405,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 5","Toronto",N,N,"",0,461,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,10
+35029,"Etobicoke North","Etobicoke-Nord"," 5","Toronto",N,N,"",0,461,"Duncan","","Kirsty","Liberal","Libéral",N,Y,130
+35029,"Etobicoke North","Etobicoke-Nord"," 5","Toronto",N,N,"",0,461,"Lamba","","Priti","Conservative","Conservateur",N,N,32
+35029,"Etobicoke North","Etobicoke-Nord"," 5","Toronto",N,N,"",0,461,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35029,"Etobicoke North","Etobicoke-Nord"," 5","Toronto",N,N,"",0,461,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 6","Toronto",N,N,"",0,371,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,5
+35029,"Etobicoke North","Etobicoke-Nord"," 6","Toronto",N,N,"",0,371,"Duncan","","Kirsty","Liberal","Libéral",N,Y,90
+35029,"Etobicoke North","Etobicoke-Nord"," 6","Toronto",N,N,"",0,371,"Lamba","","Priti","Conservative","Conservateur",N,N,28
+35029,"Etobicoke North","Etobicoke-Nord"," 6","Toronto",N,N,"",0,371,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35029,"Etobicoke North","Etobicoke-Nord"," 6","Toronto",N,N,"",0,371,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 7","Toronto",N,N,"",1,382,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 7","Toronto",N,N,"",1,382,"Duncan","","Kirsty","Liberal","Libéral",N,Y,92
+35029,"Etobicoke North","Etobicoke-Nord"," 7","Toronto",N,N,"",1,382,"Lamba","","Priti","Conservative","Conservateur",N,N,35
+35029,"Etobicoke North","Etobicoke-Nord"," 7","Toronto",N,N,"",1,382,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35029,"Etobicoke North","Etobicoke-Nord"," 7","Toronto",N,N,"",1,382,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 8","Toronto",N,N,"",0,504,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,7
+35029,"Etobicoke North","Etobicoke-Nord"," 8","Toronto",N,N,"",0,504,"Duncan","","Kirsty","Liberal","Libéral",N,Y,148
+35029,"Etobicoke North","Etobicoke-Nord"," 8","Toronto",N,N,"",0,504,"Lamba","","Priti","Conservative","Conservateur",N,N,34
+35029,"Etobicoke North","Etobicoke-Nord"," 8","Toronto",N,N,"",0,504,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35029,"Etobicoke North","Etobicoke-Nord"," 8","Toronto",N,N,"",0,504,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 9","Toronto",N,N,"",1,394,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,8
+35029,"Etobicoke North","Etobicoke-Nord"," 9","Toronto",N,N,"",1,394,"Duncan","","Kirsty","Liberal","Libéral",N,Y,136
+35029,"Etobicoke North","Etobicoke-Nord"," 9","Toronto",N,N,"",1,394,"Lamba","","Priti","Conservative","Conservateur",N,N,39
+35029,"Etobicoke North","Etobicoke-Nord"," 9","Toronto",N,N,"",1,394,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35029,"Etobicoke North","Etobicoke-Nord"," 9","Toronto",N,N,"",1,394,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 10","Toronto",N,N,"",0,385,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,9
+35029,"Etobicoke North","Etobicoke-Nord"," 10","Toronto",N,N,"",0,385,"Duncan","","Kirsty","Liberal","Libéral",N,Y,95
+35029,"Etobicoke North","Etobicoke-Nord"," 10","Toronto",N,N,"",0,385,"Lamba","","Priti","Conservative","Conservateur",N,N,36
+35029,"Etobicoke North","Etobicoke-Nord"," 10","Toronto",N,N,"",0,385,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35029,"Etobicoke North","Etobicoke-Nord"," 10","Toronto",N,N,"",0,385,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 11","Toronto",N,N,"",2,340,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,6
+35029,"Etobicoke North","Etobicoke-Nord"," 11","Toronto",N,N,"",2,340,"Duncan","","Kirsty","Liberal","Libéral",N,Y,136
+35029,"Etobicoke North","Etobicoke-Nord"," 11","Toronto",N,N,"",2,340,"Lamba","","Priti","Conservative","Conservateur",N,N,20
+35029,"Etobicoke North","Etobicoke-Nord"," 11","Toronto",N,N,"",2,340,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35029,"Etobicoke North","Etobicoke-Nord"," 11","Toronto",N,N,"",2,340,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 12","Toronto",N,N,"",8,625,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 12","Toronto",N,N,"",8,625,"Duncan","","Kirsty","Liberal","Libéral",N,Y,90
+35029,"Etobicoke North","Etobicoke-Nord"," 12","Toronto",N,N,"",8,625,"Lamba","","Priti","Conservative","Conservateur",N,N,57
+35029,"Etobicoke North","Etobicoke-Nord"," 12","Toronto",N,N,"",8,625,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35029,"Etobicoke North","Etobicoke-Nord"," 12","Toronto",N,N,"",8,625,"Royer","","Carol","Independent","Indépendant(e)",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 13","Toronto",N,N,"",0,295,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 13","Toronto",N,N,"",0,295,"Duncan","","Kirsty","Liberal","Libéral",N,Y,42
+35029,"Etobicoke North","Etobicoke-Nord"," 13","Toronto",N,N,"",0,295,"Lamba","","Priti","Conservative","Conservateur",N,N,24
+35029,"Etobicoke North","Etobicoke-Nord"," 13","Toronto",N,N,"",0,295,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 13","Toronto",N,N,"",0,295,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 14","Toronto",N,N,"",1,486,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 14","Toronto",N,N,"",1,486,"Duncan","","Kirsty","Liberal","Libéral",N,Y,77
+35029,"Etobicoke North","Etobicoke-Nord"," 14","Toronto",N,N,"",1,486,"Lamba","","Priti","Conservative","Conservateur",N,N,39
+35029,"Etobicoke North","Etobicoke-Nord"," 14","Toronto",N,N,"",1,486,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35029,"Etobicoke North","Etobicoke-Nord"," 14","Toronto",N,N,"",1,486,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 15","Toronto",N,N,"",1,448,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,8
+35029,"Etobicoke North","Etobicoke-Nord"," 15","Toronto",N,N,"",1,448,"Duncan","","Kirsty","Liberal","Libéral",N,Y,36
+35029,"Etobicoke North","Etobicoke-Nord"," 15","Toronto",N,N,"",1,448,"Lamba","","Priti","Conservative","Conservateur",N,N,29
+35029,"Etobicoke North","Etobicoke-Nord"," 15","Toronto",N,N,"",1,448,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35029,"Etobicoke North","Etobicoke-Nord"," 15","Toronto",N,N,"",1,448,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 16","Toronto",N,N,"",0,355,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 16","Toronto",N,N,"",0,355,"Duncan","","Kirsty","Liberal","Libéral",N,Y,61
+35029,"Etobicoke North","Etobicoke-Nord"," 16","Toronto",N,N,"",0,355,"Lamba","","Priti","Conservative","Conservateur",N,N,31
+35029,"Etobicoke North","Etobicoke-Nord"," 16","Toronto",N,N,"",0,355,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35029,"Etobicoke North","Etobicoke-Nord"," 16","Toronto",N,N,"",0,355,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 17","Toronto",N,N,"",1,397,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 17","Toronto",N,N,"",1,397,"Duncan","","Kirsty","Liberal","Libéral",N,Y,46
+35029,"Etobicoke North","Etobicoke-Nord"," 17","Toronto",N,N,"",1,397,"Lamba","","Priti","Conservative","Conservateur",N,N,28
+35029,"Etobicoke North","Etobicoke-Nord"," 17","Toronto",N,N,"",1,397,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35029,"Etobicoke North","Etobicoke-Nord"," 17","Toronto",N,N,"",1,397,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 18","Toronto",N,N,"",4,385,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 18","Toronto",N,N,"",4,385,"Duncan","","Kirsty","Liberal","Libéral",N,Y,58
+35029,"Etobicoke North","Etobicoke-Nord"," 18","Toronto",N,N,"",4,385,"Lamba","","Priti","Conservative","Conservateur",N,N,28
+35029,"Etobicoke North","Etobicoke-Nord"," 18","Toronto",N,N,"",4,385,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35029,"Etobicoke North","Etobicoke-Nord"," 18","Toronto",N,N,"",4,385,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 19","Toronto",N,N,"",1,497,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,6
+35029,"Etobicoke North","Etobicoke-Nord"," 19","Toronto",N,N,"",1,497,"Duncan","","Kirsty","Liberal","Libéral",N,Y,80
+35029,"Etobicoke North","Etobicoke-Nord"," 19","Toronto",N,N,"",1,497,"Lamba","","Priti","Conservative","Conservateur",N,N,49
+35029,"Etobicoke North","Etobicoke-Nord"," 19","Toronto",N,N,"",1,497,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35029,"Etobicoke North","Etobicoke-Nord"," 19","Toronto",N,N,"",1,497,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 20","Toronto",N,N,"",1,388,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,8
+35029,"Etobicoke North","Etobicoke-Nord"," 20","Toronto",N,N,"",1,388,"Duncan","","Kirsty","Liberal","Libéral",N,Y,43
+35029,"Etobicoke North","Etobicoke-Nord"," 20","Toronto",N,N,"",1,388,"Lamba","","Priti","Conservative","Conservateur",N,N,47
+35029,"Etobicoke North","Etobicoke-Nord"," 20","Toronto",N,N,"",1,388,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 20","Toronto",N,N,"",1,388,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 21","Toronto",N,N,"",1,442,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,5
+35029,"Etobicoke North","Etobicoke-Nord"," 21","Toronto",N,N,"",1,442,"Duncan","","Kirsty","Liberal","Libéral",N,Y,61
+35029,"Etobicoke North","Etobicoke-Nord"," 21","Toronto",N,N,"",1,442,"Lamba","","Priti","Conservative","Conservateur",N,N,39
+35029,"Etobicoke North","Etobicoke-Nord"," 21","Toronto",N,N,"",1,442,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35029,"Etobicoke North","Etobicoke-Nord"," 21","Toronto",N,N,"",1,442,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 22","Toronto",N,N,"",2,306,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 22","Toronto",N,N,"",2,306,"Duncan","","Kirsty","Liberal","Libéral",N,Y,62
+35029,"Etobicoke North","Etobicoke-Nord"," 22","Toronto",N,N,"",2,306,"Lamba","","Priti","Conservative","Conservateur",N,N,12
+35029,"Etobicoke North","Etobicoke-Nord"," 22","Toronto",N,N,"",2,306,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35029,"Etobicoke North","Etobicoke-Nord"," 22","Toronto",N,N,"",2,306,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 23","Toronto",N,N,"",0,594,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,9
+35029,"Etobicoke North","Etobicoke-Nord"," 23","Toronto",N,N,"",0,594,"Duncan","","Kirsty","Liberal","Libéral",N,Y,101
+35029,"Etobicoke North","Etobicoke-Nord"," 23","Toronto",N,N,"",0,594,"Lamba","","Priti","Conservative","Conservateur",N,N,50
+35029,"Etobicoke North","Etobicoke-Nord"," 23","Toronto",N,N,"",0,594,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35029,"Etobicoke North","Etobicoke-Nord"," 23","Toronto",N,N,"",0,594,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 24","Toronto",N,N,"",1,469,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 24","Toronto",N,N,"",1,469,"Duncan","","Kirsty","Liberal","Libéral",N,Y,112
+35029,"Etobicoke North","Etobicoke-Nord"," 24","Toronto",N,N,"",1,469,"Lamba","","Priti","Conservative","Conservateur",N,N,29
+35029,"Etobicoke North","Etobicoke-Nord"," 24","Toronto",N,N,"",1,469,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35029,"Etobicoke North","Etobicoke-Nord"," 24","Toronto",N,N,"",1,469,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 25","Toronto",N,N,"",0,530,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,8
+35029,"Etobicoke North","Etobicoke-Nord"," 25","Toronto",N,N,"",0,530,"Duncan","","Kirsty","Liberal","Libéral",N,Y,98
+35029,"Etobicoke North","Etobicoke-Nord"," 25","Toronto",N,N,"",0,530,"Lamba","","Priti","Conservative","Conservateur",N,N,59
+35029,"Etobicoke North","Etobicoke-Nord"," 25","Toronto",N,N,"",0,530,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35029,"Etobicoke North","Etobicoke-Nord"," 25","Toronto",N,N,"",0,530,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 26","Toronto",N,N,"",0,378,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 26","Toronto",N,N,"",0,378,"Duncan","","Kirsty","Liberal","Libéral",N,Y,54
+35029,"Etobicoke North","Etobicoke-Nord"," 26","Toronto",N,N,"",0,378,"Lamba","","Priti","Conservative","Conservateur",N,N,39
+35029,"Etobicoke North","Etobicoke-Nord"," 26","Toronto",N,N,"",0,378,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35029,"Etobicoke North","Etobicoke-Nord"," 26","Toronto",N,N,"",0,378,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 27","Toronto",N,N,"",0,535,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 27","Toronto",N,N,"",0,535,"Duncan","","Kirsty","Liberal","Libéral",N,Y,86
+35029,"Etobicoke North","Etobicoke-Nord"," 27","Toronto",N,N,"",0,535,"Lamba","","Priti","Conservative","Conservateur",N,N,26
+35029,"Etobicoke North","Etobicoke-Nord"," 27","Toronto",N,N,"",0,535,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35029,"Etobicoke North","Etobicoke-Nord"," 27","Toronto",N,N,"",0,535,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 28","Toronto",N,N,"",1,378,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 28","Toronto",N,N,"",1,378,"Duncan","","Kirsty","Liberal","Libéral",N,Y,114
+35029,"Etobicoke North","Etobicoke-Nord"," 28","Toronto",N,N,"",1,378,"Lamba","","Priti","Conservative","Conservateur",N,N,10
+35029,"Etobicoke North","Etobicoke-Nord"," 28","Toronto",N,N,"",1,378,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35029,"Etobicoke North","Etobicoke-Nord"," 28","Toronto",N,N,"",1,378,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 29","Toronto",N,N,"",1,410,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,9
+35029,"Etobicoke North","Etobicoke-Nord"," 29","Toronto",N,N,"",1,410,"Duncan","","Kirsty","Liberal","Libéral",N,Y,73
+35029,"Etobicoke North","Etobicoke-Nord"," 29","Toronto",N,N,"",1,410,"Lamba","","Priti","Conservative","Conservateur",N,N,31
+35029,"Etobicoke North","Etobicoke-Nord"," 29","Toronto",N,N,"",1,410,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35029,"Etobicoke North","Etobicoke-Nord"," 29","Toronto",N,N,"",1,410,"Royer","","Carol","Independent","Indépendant(e)",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 30","Toronto",N,N,"",3,415,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,7
+35029,"Etobicoke North","Etobicoke-Nord"," 30","Toronto",N,N,"",3,415,"Duncan","","Kirsty","Liberal","Libéral",N,Y,80
+35029,"Etobicoke North","Etobicoke-Nord"," 30","Toronto",N,N,"",3,415,"Lamba","","Priti","Conservative","Conservateur",N,N,53
+35029,"Etobicoke North","Etobicoke-Nord"," 30","Toronto",N,N,"",3,415,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35029,"Etobicoke North","Etobicoke-Nord"," 30","Toronto",N,N,"",3,415,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 31","Toronto",N,N,"",2,401,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,6
+35029,"Etobicoke North","Etobicoke-Nord"," 31","Toronto",N,N,"",2,401,"Duncan","","Kirsty","Liberal","Libéral",N,Y,124
+35029,"Etobicoke North","Etobicoke-Nord"," 31","Toronto",N,N,"",2,401,"Lamba","","Priti","Conservative","Conservateur",N,N,57
+35029,"Etobicoke North","Etobicoke-Nord"," 31","Toronto",N,N,"",2,401,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35029,"Etobicoke North","Etobicoke-Nord"," 31","Toronto",N,N,"",2,401,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 32","Toronto",N,N,"",1,340,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,7
+35029,"Etobicoke North","Etobicoke-Nord"," 32","Toronto",N,N,"",1,340,"Duncan","","Kirsty","Liberal","Libéral",N,Y,105
+35029,"Etobicoke North","Etobicoke-Nord"," 32","Toronto",N,N,"",1,340,"Lamba","","Priti","Conservative","Conservateur",N,N,45
+35029,"Etobicoke North","Etobicoke-Nord"," 32","Toronto",N,N,"",1,340,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35029,"Etobicoke North","Etobicoke-Nord"," 32","Toronto",N,N,"",1,340,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 33","Toronto",N,N,"",2,478,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,7
+35029,"Etobicoke North","Etobicoke-Nord"," 33","Toronto",N,N,"",2,478,"Duncan","","Kirsty","Liberal","Libéral",N,Y,97
+35029,"Etobicoke North","Etobicoke-Nord"," 33","Toronto",N,N,"",2,478,"Lamba","","Priti","Conservative","Conservateur",N,N,61
+35029,"Etobicoke North","Etobicoke-Nord"," 33","Toronto",N,N,"",2,478,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35029,"Etobicoke North","Etobicoke-Nord"," 33","Toronto",N,N,"",2,478,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 34","Toronto",N,N,"",1,387,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,21
+35029,"Etobicoke North","Etobicoke-Nord"," 34","Toronto",N,N,"",1,387,"Duncan","","Kirsty","Liberal","Libéral",N,Y,89
+35029,"Etobicoke North","Etobicoke-Nord"," 34","Toronto",N,N,"",1,387,"Lamba","","Priti","Conservative","Conservateur",N,N,34
+35029,"Etobicoke North","Etobicoke-Nord"," 34","Toronto",N,N,"",1,387,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35029,"Etobicoke North","Etobicoke-Nord"," 34","Toronto",N,N,"",1,387,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 35","Toronto",N,N,"",1,405,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 35","Toronto",N,N,"",1,405,"Duncan","","Kirsty","Liberal","Libéral",N,Y,58
+35029,"Etobicoke North","Etobicoke-Nord"," 35","Toronto",N,N,"",1,405,"Lamba","","Priti","Conservative","Conservateur",N,N,39
+35029,"Etobicoke North","Etobicoke-Nord"," 35","Toronto",N,N,"",1,405,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35029,"Etobicoke North","Etobicoke-Nord"," 35","Toronto",N,N,"",1,405,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 36","Toronto",N,N,"",1,314,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 36","Toronto",N,N,"",1,314,"Duncan","","Kirsty","Liberal","Libéral",N,Y,66
+35029,"Etobicoke North","Etobicoke-Nord"," 36","Toronto",N,N,"",1,314,"Lamba","","Priti","Conservative","Conservateur",N,N,20
+35029,"Etobicoke North","Etobicoke-Nord"," 36","Toronto",N,N,"",1,314,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35029,"Etobicoke North","Etobicoke-Nord"," 36","Toronto",N,N,"",1,314,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 37","Toronto",N,N,"",1,452,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,9
+35029,"Etobicoke North","Etobicoke-Nord"," 37","Toronto",N,N,"",1,452,"Duncan","","Kirsty","Liberal","Libéral",N,Y,67
+35029,"Etobicoke North","Etobicoke-Nord"," 37","Toronto",N,N,"",1,452,"Lamba","","Priti","Conservative","Conservateur",N,N,50
+35029,"Etobicoke North","Etobicoke-Nord"," 37","Toronto",N,N,"",1,452,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35029,"Etobicoke North","Etobicoke-Nord"," 37","Toronto",N,N,"",1,452,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 38","Toronto",N,N,"",0,364,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,11
+35029,"Etobicoke North","Etobicoke-Nord"," 38","Toronto",N,N,"",0,364,"Duncan","","Kirsty","Liberal","Libéral",N,Y,46
+35029,"Etobicoke North","Etobicoke-Nord"," 38","Toronto",N,N,"",0,364,"Lamba","","Priti","Conservative","Conservateur",N,N,33
+35029,"Etobicoke North","Etobicoke-Nord"," 38","Toronto",N,N,"",0,364,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35029,"Etobicoke North","Etobicoke-Nord"," 38","Toronto",N,N,"",0,364,"Royer","","Carol","Independent","Indépendant(e)",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 39","Toronto",N,N,"",1,485,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 39","Toronto",N,N,"",1,485,"Duncan","","Kirsty","Liberal","Libéral",N,Y,91
+35029,"Etobicoke North","Etobicoke-Nord"," 39","Toronto",N,N,"",1,485,"Lamba","","Priti","Conservative","Conservateur",N,N,30
+35029,"Etobicoke North","Etobicoke-Nord"," 39","Toronto",N,N,"",1,485,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35029,"Etobicoke North","Etobicoke-Nord"," 39","Toronto",N,N,"",1,485,"Royer","","Carol","Independent","Indépendant(e)",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 40","Toronto",N,N,"",0,406,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,8
+35029,"Etobicoke North","Etobicoke-Nord"," 40","Toronto",N,N,"",0,406,"Duncan","","Kirsty","Liberal","Libéral",N,Y,89
+35029,"Etobicoke North","Etobicoke-Nord"," 40","Toronto",N,N,"",0,406,"Lamba","","Priti","Conservative","Conservateur",N,N,16
+35029,"Etobicoke North","Etobicoke-Nord"," 40","Toronto",N,N,"",0,406,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35029,"Etobicoke North","Etobicoke-Nord"," 40","Toronto",N,N,"",0,406,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 41","Toronto",N,N,"",2,380,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 41","Toronto",N,N,"",2,380,"Duncan","","Kirsty","Liberal","Libéral",N,Y,81
+35029,"Etobicoke North","Etobicoke-Nord"," 41","Toronto",N,N,"",2,380,"Lamba","","Priti","Conservative","Conservateur",N,N,28
+35029,"Etobicoke North","Etobicoke-Nord"," 41","Toronto",N,N,"",2,380,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35029,"Etobicoke North","Etobicoke-Nord"," 41","Toronto",N,N,"",2,380,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 42","Toronto",N,N,"",2,515,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,11
+35029,"Etobicoke North","Etobicoke-Nord"," 42","Toronto",N,N,"",2,515,"Duncan","","Kirsty","Liberal","Libéral",N,Y,69
+35029,"Etobicoke North","Etobicoke-Nord"," 42","Toronto",N,N,"",2,515,"Lamba","","Priti","Conservative","Conservateur",N,N,21
+35029,"Etobicoke North","Etobicoke-Nord"," 42","Toronto",N,N,"",2,515,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35029,"Etobicoke North","Etobicoke-Nord"," 42","Toronto",N,N,"",2,515,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 43","Toronto",N,N,"",1,399,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,7
+35029,"Etobicoke North","Etobicoke-Nord"," 43","Toronto",N,N,"",1,399,"Duncan","","Kirsty","Liberal","Libéral",N,Y,78
+35029,"Etobicoke North","Etobicoke-Nord"," 43","Toronto",N,N,"",1,399,"Lamba","","Priti","Conservative","Conservateur",N,N,19
+35029,"Etobicoke North","Etobicoke-Nord"," 43","Toronto",N,N,"",1,399,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35029,"Etobicoke North","Etobicoke-Nord"," 43","Toronto",N,N,"",1,399,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 44","Toronto",N,N,"",1,443,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 44","Toronto",N,N,"",1,443,"Duncan","","Kirsty","Liberal","Libéral",N,Y,78
+35029,"Etobicoke North","Etobicoke-Nord"," 44","Toronto",N,N,"",1,443,"Lamba","","Priti","Conservative","Conservateur",N,N,15
+35029,"Etobicoke North","Etobicoke-Nord"," 44","Toronto",N,N,"",1,443,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 44","Toronto",N,N,"",1,443,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 45","Toronto",N,N,"",2,373,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 45","Toronto",N,N,"",2,373,"Duncan","","Kirsty","Liberal","Libéral",N,Y,73
+35029,"Etobicoke North","Etobicoke-Nord"," 45","Toronto",N,N,"",2,373,"Lamba","","Priti","Conservative","Conservateur",N,N,30
+35029,"Etobicoke North","Etobicoke-Nord"," 45","Toronto",N,N,"",2,373,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35029,"Etobicoke North","Etobicoke-Nord"," 45","Toronto",N,N,"",2,373,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 46","Toronto",N,N,"",1,478,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 46","Toronto",N,N,"",1,478,"Duncan","","Kirsty","Liberal","Libéral",N,Y,59
+35029,"Etobicoke North","Etobicoke-Nord"," 46","Toronto",N,N,"",1,478,"Lamba","","Priti","Conservative","Conservateur",N,N,56
+35029,"Etobicoke North","Etobicoke-Nord"," 46","Toronto",N,N,"",1,478,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35029,"Etobicoke North","Etobicoke-Nord"," 46","Toronto",N,N,"",1,478,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 47","Toronto",N,N,"",6,484,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 47","Toronto",N,N,"",6,484,"Duncan","","Kirsty","Liberal","Libéral",N,Y,68
+35029,"Etobicoke North","Etobicoke-Nord"," 47","Toronto",N,N,"",6,484,"Lamba","","Priti","Conservative","Conservateur",N,N,18
+35029,"Etobicoke North","Etobicoke-Nord"," 47","Toronto",N,N,"",6,484,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35029,"Etobicoke North","Etobicoke-Nord"," 47","Toronto",N,N,"",6,484,"Royer","","Carol","Independent","Indépendant(e)",N,N,6
+35029,"Etobicoke North","Etobicoke-Nord"," 48","Toronto",N,N,"",1,562,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,7
+35029,"Etobicoke North","Etobicoke-Nord"," 48","Toronto",N,N,"",1,562,"Duncan","","Kirsty","Liberal","Libéral",N,Y,90
+35029,"Etobicoke North","Etobicoke-Nord"," 48","Toronto",N,N,"",1,562,"Lamba","","Priti","Conservative","Conservateur",N,N,53
+35029,"Etobicoke North","Etobicoke-Nord"," 48","Toronto",N,N,"",1,562,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35029,"Etobicoke North","Etobicoke-Nord"," 48","Toronto",N,N,"",1,562,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 49","Toronto",N,N,"",0,952,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 49","Toronto",N,N,"",0,952,"Duncan","","Kirsty","Liberal","Libéral",N,Y,144
+35029,"Etobicoke North","Etobicoke-Nord"," 49","Toronto",N,N,"",0,952,"Lamba","","Priti","Conservative","Conservateur",N,N,32
+35029,"Etobicoke North","Etobicoke-Nord"," 49","Toronto",N,N,"",0,952,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35029,"Etobicoke North","Etobicoke-Nord"," 49","Toronto",N,N,"",0,952,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 50","Toronto",N,N,"",0,514,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,6
+35029,"Etobicoke North","Etobicoke-Nord"," 50","Toronto",N,N,"",0,514,"Duncan","","Kirsty","Liberal","Libéral",N,Y,85
+35029,"Etobicoke North","Etobicoke-Nord"," 50","Toronto",N,N,"",0,514,"Lamba","","Priti","Conservative","Conservateur",N,N,49
+35029,"Etobicoke North","Etobicoke-Nord"," 50","Toronto",N,N,"",0,514,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35029,"Etobicoke North","Etobicoke-Nord"," 50","Toronto",N,N,"",0,514,"Royer","","Carol","Independent","Indépendant(e)",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 51","Toronto",N,N,"",3,574,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,6
+35029,"Etobicoke North","Etobicoke-Nord"," 51","Toronto",N,N,"",3,574,"Duncan","","Kirsty","Liberal","Libéral",N,Y,126
+35029,"Etobicoke North","Etobicoke-Nord"," 51","Toronto",N,N,"",3,574,"Lamba","","Priti","Conservative","Conservateur",N,N,38
+35029,"Etobicoke North","Etobicoke-Nord"," 51","Toronto",N,N,"",3,574,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35029,"Etobicoke North","Etobicoke-Nord"," 51","Toronto",N,N,"",3,574,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 52","Toronto",N,N,"",0,557,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,6
+35029,"Etobicoke North","Etobicoke-Nord"," 52","Toronto",N,N,"",0,557,"Duncan","","Kirsty","Liberal","Libéral",N,Y,96
+35029,"Etobicoke North","Etobicoke-Nord"," 52","Toronto",N,N,"",0,557,"Lamba","","Priti","Conservative","Conservateur",N,N,50
+35029,"Etobicoke North","Etobicoke-Nord"," 52","Toronto",N,N,"",0,557,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35029,"Etobicoke North","Etobicoke-Nord"," 52","Toronto",N,N,"",0,557,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 53","Toronto",N,N,"",1,584,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 53","Toronto",N,N,"",1,584,"Duncan","","Kirsty","Liberal","Libéral",N,Y,136
+35029,"Etobicoke North","Etobicoke-Nord"," 53","Toronto",N,N,"",1,584,"Lamba","","Priti","Conservative","Conservateur",N,N,23
+35029,"Etobicoke North","Etobicoke-Nord"," 53","Toronto",N,N,"",1,584,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35029,"Etobicoke North","Etobicoke-Nord"," 53","Toronto",N,N,"",1,584,"Royer","","Carol","Independent","Indépendant(e)",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 54","Toronto",N,N,"",0,563,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,6
+35029,"Etobicoke North","Etobicoke-Nord"," 54","Toronto",N,N,"",0,563,"Duncan","","Kirsty","Liberal","Libéral",N,Y,91
+35029,"Etobicoke North","Etobicoke-Nord"," 54","Toronto",N,N,"",0,563,"Lamba","","Priti","Conservative","Conservateur",N,N,26
+35029,"Etobicoke North","Etobicoke-Nord"," 54","Toronto",N,N,"",0,563,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35029,"Etobicoke North","Etobicoke-Nord"," 54","Toronto",N,N,"",0,563,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 55","Toronto",N,N,"",1,425,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 55","Toronto",N,N,"",1,425,"Duncan","","Kirsty","Liberal","Libéral",N,Y,101
+35029,"Etobicoke North","Etobicoke-Nord"," 55","Toronto",N,N,"",1,425,"Lamba","","Priti","Conservative","Conservateur",N,N,18
+35029,"Etobicoke North","Etobicoke-Nord"," 55","Toronto",N,N,"",1,425,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35029,"Etobicoke North","Etobicoke-Nord"," 55","Toronto",N,N,"",1,425,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 56","Toronto",N,N,"",1,571,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 56","Toronto",N,N,"",1,571,"Duncan","","Kirsty","Liberal","Libéral",N,Y,118
+35029,"Etobicoke North","Etobicoke-Nord"," 56","Toronto",N,N,"",1,571,"Lamba","","Priti","Conservative","Conservateur",N,N,25
+35029,"Etobicoke North","Etobicoke-Nord"," 56","Toronto",N,N,"",1,571,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35029,"Etobicoke North","Etobicoke-Nord"," 56","Toronto",N,N,"",1,571,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 57","Toronto",N,N,"",2,566,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,11
+35029,"Etobicoke North","Etobicoke-Nord"," 57","Toronto",N,N,"",2,566,"Duncan","","Kirsty","Liberal","Libéral",N,Y,85
+35029,"Etobicoke North","Etobicoke-Nord"," 57","Toronto",N,N,"",2,566,"Lamba","","Priti","Conservative","Conservateur",N,N,28
+35029,"Etobicoke North","Etobicoke-Nord"," 57","Toronto",N,N,"",2,566,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35029,"Etobicoke North","Etobicoke-Nord"," 57","Toronto",N,N,"",2,566,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 58","Toronto",N,N,"",0,401,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,8
+35029,"Etobicoke North","Etobicoke-Nord"," 58","Toronto",N,N,"",0,401,"Duncan","","Kirsty","Liberal","Libéral",N,Y,84
+35029,"Etobicoke North","Etobicoke-Nord"," 58","Toronto",N,N,"",0,401,"Lamba","","Priti","Conservative","Conservateur",N,N,13
+35029,"Etobicoke North","Etobicoke-Nord"," 58","Toronto",N,N,"",0,401,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35029,"Etobicoke North","Etobicoke-Nord"," 58","Toronto",N,N,"",0,401,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 59","Toronto",N,N,"",0,318,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 59","Toronto",N,N,"",0,318,"Duncan","","Kirsty","Liberal","Libéral",N,Y,55
+35029,"Etobicoke North","Etobicoke-Nord"," 59","Toronto",N,N,"",0,318,"Lamba","","Priti","Conservative","Conservateur",N,N,13
+35029,"Etobicoke North","Etobicoke-Nord"," 59","Toronto",N,N,"",0,318,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35029,"Etobicoke North","Etobicoke-Nord"," 59","Toronto",N,N,"",0,318,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 60","Toronto",N,N,"",1,369,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 60","Toronto",N,N,"",1,369,"Duncan","","Kirsty","Liberal","Libéral",N,Y,89
+35029,"Etobicoke North","Etobicoke-Nord"," 60","Toronto",N,N,"",1,369,"Lamba","","Priti","Conservative","Conservateur",N,N,13
+35029,"Etobicoke North","Etobicoke-Nord"," 60","Toronto",N,N,"",1,369,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35029,"Etobicoke North","Etobicoke-Nord"," 60","Toronto",N,N,"",1,369,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 61","Toronto",N,N,"",0,467,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,7
+35029,"Etobicoke North","Etobicoke-Nord"," 61","Toronto",N,N,"",0,467,"Duncan","","Kirsty","Liberal","Libéral",N,Y,63
+35029,"Etobicoke North","Etobicoke-Nord"," 61","Toronto",N,N,"",0,467,"Lamba","","Priti","Conservative","Conservateur",N,N,27
+35029,"Etobicoke North","Etobicoke-Nord"," 61","Toronto",N,N,"",0,467,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35029,"Etobicoke North","Etobicoke-Nord"," 61","Toronto",N,N,"",0,467,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 62","Toronto",N,N,"",0,391,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,13
+35029,"Etobicoke North","Etobicoke-Nord"," 62","Toronto",N,N,"",0,391,"Duncan","","Kirsty","Liberal","Libéral",N,Y,73
+35029,"Etobicoke North","Etobicoke-Nord"," 62","Toronto",N,N,"",0,391,"Lamba","","Priti","Conservative","Conservateur",N,N,49
+35029,"Etobicoke North","Etobicoke-Nord"," 62","Toronto",N,N,"",0,391,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35029,"Etobicoke North","Etobicoke-Nord"," 62","Toronto",N,N,"",0,391,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 63","Toronto",N,N,"",1,471,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,11
+35029,"Etobicoke North","Etobicoke-Nord"," 63","Toronto",N,N,"",1,471,"Duncan","","Kirsty","Liberal","Libéral",N,Y,96
+35029,"Etobicoke North","Etobicoke-Nord"," 63","Toronto",N,N,"",1,471,"Lamba","","Priti","Conservative","Conservateur",N,N,62
+35029,"Etobicoke North","Etobicoke-Nord"," 63","Toronto",N,N,"",1,471,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35029,"Etobicoke North","Etobicoke-Nord"," 63","Toronto",N,N,"",1,471,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 64","Toronto",N,N,"",2,355,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,7
+35029,"Etobicoke North","Etobicoke-Nord"," 64","Toronto",N,N,"",2,355,"Duncan","","Kirsty","Liberal","Libéral",N,Y,76
+35029,"Etobicoke North","Etobicoke-Nord"," 64","Toronto",N,N,"",2,355,"Lamba","","Priti","Conservative","Conservateur",N,N,55
+35029,"Etobicoke North","Etobicoke-Nord"," 64","Toronto",N,N,"",2,355,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35029,"Etobicoke North","Etobicoke-Nord"," 64","Toronto",N,N,"",2,355,"Royer","","Carol","Independent","Indépendant(e)",N,N,6
+35029,"Etobicoke North","Etobicoke-Nord"," 65","Toronto",N,N,"",2,379,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 65","Toronto",N,N,"",2,379,"Duncan","","Kirsty","Liberal","Libéral",N,Y,63
+35029,"Etobicoke North","Etobicoke-Nord"," 65","Toronto",N,N,"",2,379,"Lamba","","Priti","Conservative","Conservateur",N,N,43
+35029,"Etobicoke North","Etobicoke-Nord"," 65","Toronto",N,N,"",2,379,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35029,"Etobicoke North","Etobicoke-Nord"," 65","Toronto",N,N,"",2,379,"Royer","","Carol","Independent","Indépendant(e)",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 66","Toronto",N,N,"",5,492,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 66","Toronto",N,N,"",5,492,"Duncan","","Kirsty","Liberal","Libéral",N,Y,85
+35029,"Etobicoke North","Etobicoke-Nord"," 66","Toronto",N,N,"",5,492,"Lamba","","Priti","Conservative","Conservateur",N,N,70
+35029,"Etobicoke North","Etobicoke-Nord"," 66","Toronto",N,N,"",5,492,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35029,"Etobicoke North","Etobicoke-Nord"," 66","Toronto",N,N,"",5,492,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 67","Toronto",N,N,"",4,470,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,9
+35029,"Etobicoke North","Etobicoke-Nord"," 67","Toronto",N,N,"",4,470,"Duncan","","Kirsty","Liberal","Libéral",N,Y,68
+35029,"Etobicoke North","Etobicoke-Nord"," 67","Toronto",N,N,"",4,470,"Lamba","","Priti","Conservative","Conservateur",N,N,40
+35029,"Etobicoke North","Etobicoke-Nord"," 67","Toronto",N,N,"",4,470,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35029,"Etobicoke North","Etobicoke-Nord"," 67","Toronto",N,N,"",4,470,"Royer","","Carol","Independent","Indépendant(e)",N,N,5
+35029,"Etobicoke North","Etobicoke-Nord"," 68","Toronto",N,N,"",0,275,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 68","Toronto",N,N,"",0,275,"Duncan","","Kirsty","Liberal","Libéral",N,Y,55
+35029,"Etobicoke North","Etobicoke-Nord"," 68","Toronto",N,N,"",0,275,"Lamba","","Priti","Conservative","Conservateur",N,N,23
+35029,"Etobicoke North","Etobicoke-Nord"," 68","Toronto",N,N,"",0,275,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35029,"Etobicoke North","Etobicoke-Nord"," 68","Toronto",N,N,"",0,275,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 69","Toronto",N,N,"",0,354,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 69","Toronto",N,N,"",0,354,"Duncan","","Kirsty","Liberal","Libéral",N,Y,66
+35029,"Etobicoke North","Etobicoke-Nord"," 69","Toronto",N,N,"",0,354,"Lamba","","Priti","Conservative","Conservateur",N,N,16
+35029,"Etobicoke North","Etobicoke-Nord"," 69","Toronto",N,N,"",0,354,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35029,"Etobicoke North","Etobicoke-Nord"," 69","Toronto",N,N,"",0,354,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 70","Toronto",N,N,"",2,509,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 70","Toronto",N,N,"",2,509,"Duncan","","Kirsty","Liberal","Libéral",N,Y,99
+35029,"Etobicoke North","Etobicoke-Nord"," 70","Toronto",N,N,"",2,509,"Lamba","","Priti","Conservative","Conservateur",N,N,49
+35029,"Etobicoke North","Etobicoke-Nord"," 70","Toronto",N,N,"",2,509,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35029,"Etobicoke North","Etobicoke-Nord"," 70","Toronto",N,N,"",2,509,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 71","Toronto",N,N,"",0,472,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,5
+35029,"Etobicoke North","Etobicoke-Nord"," 71","Toronto",N,N,"",0,472,"Duncan","","Kirsty","Liberal","Libéral",N,Y,82
+35029,"Etobicoke North","Etobicoke-Nord"," 71","Toronto",N,N,"",0,472,"Lamba","","Priti","Conservative","Conservateur",N,N,34
+35029,"Etobicoke North","Etobicoke-Nord"," 71","Toronto",N,N,"",0,472,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35029,"Etobicoke North","Etobicoke-Nord"," 71","Toronto",N,N,"",0,472,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 72","Toronto",N,N,"",1,452,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,7
+35029,"Etobicoke North","Etobicoke-Nord"," 72","Toronto",N,N,"",1,452,"Duncan","","Kirsty","Liberal","Libéral",N,Y,97
+35029,"Etobicoke North","Etobicoke-Nord"," 72","Toronto",N,N,"",1,452,"Lamba","","Priti","Conservative","Conservateur",N,N,31
+35029,"Etobicoke North","Etobicoke-Nord"," 72","Toronto",N,N,"",1,452,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35029,"Etobicoke North","Etobicoke-Nord"," 72","Toronto",N,N,"",1,452,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 73","Toronto",N,N,"",1,429,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,6
+35029,"Etobicoke North","Etobicoke-Nord"," 73","Toronto",N,N,"",1,429,"Duncan","","Kirsty","Liberal","Libéral",N,Y,87
+35029,"Etobicoke North","Etobicoke-Nord"," 73","Toronto",N,N,"",1,429,"Lamba","","Priti","Conservative","Conservateur",N,N,43
+35029,"Etobicoke North","Etobicoke-Nord"," 73","Toronto",N,N,"",1,429,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35029,"Etobicoke North","Etobicoke-Nord"," 73","Toronto",N,N,"",1,429,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 74","Toronto",N,N,"",5,487,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 74","Toronto",N,N,"",5,487,"Duncan","","Kirsty","Liberal","Libéral",N,Y,80
+35029,"Etobicoke North","Etobicoke-Nord"," 74","Toronto",N,N,"",5,487,"Lamba","","Priti","Conservative","Conservateur",N,N,54
+35029,"Etobicoke North","Etobicoke-Nord"," 74","Toronto",N,N,"",5,487,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35029,"Etobicoke North","Etobicoke-Nord"," 74","Toronto",N,N,"",5,487,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 75","Toronto",N,N,"",1,516,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,6
+35029,"Etobicoke North","Etobicoke-Nord"," 75","Toronto",N,N,"",1,516,"Duncan","","Kirsty","Liberal","Libéral",N,Y,83
+35029,"Etobicoke North","Etobicoke-Nord"," 75","Toronto",N,N,"",1,516,"Lamba","","Priti","Conservative","Conservateur",N,N,41
+35029,"Etobicoke North","Etobicoke-Nord"," 75","Toronto",N,N,"",1,516,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35029,"Etobicoke North","Etobicoke-Nord"," 75","Toronto",N,N,"",1,516,"Royer","","Carol","Independent","Indépendant(e)",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 76","Toronto",N,N,"",1,498,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 76","Toronto",N,N,"",1,498,"Duncan","","Kirsty","Liberal","Libéral",N,Y,75
+35029,"Etobicoke North","Etobicoke-Nord"," 76","Toronto",N,N,"",1,498,"Lamba","","Priti","Conservative","Conservateur",N,N,15
+35029,"Etobicoke North","Etobicoke-Nord"," 76","Toronto",N,N,"",1,498,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35029,"Etobicoke North","Etobicoke-Nord"," 76","Toronto",N,N,"",1,498,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 77","Toronto",N,N,"",1,530,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,13
+35029,"Etobicoke North","Etobicoke-Nord"," 77","Toronto",N,N,"",1,530,"Duncan","","Kirsty","Liberal","Libéral",N,Y,96
+35029,"Etobicoke North","Etobicoke-Nord"," 77","Toronto",N,N,"",1,530,"Lamba","","Priti","Conservative","Conservateur",N,N,37
+35029,"Etobicoke North","Etobicoke-Nord"," 77","Toronto",N,N,"",1,530,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35029,"Etobicoke North","Etobicoke-Nord"," 77","Toronto",N,N,"",1,530,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 78","Toronto",N,N,"",1,543,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,6
+35029,"Etobicoke North","Etobicoke-Nord"," 78","Toronto",N,N,"",1,543,"Duncan","","Kirsty","Liberal","Libéral",N,Y,72
+35029,"Etobicoke North","Etobicoke-Nord"," 78","Toronto",N,N,"",1,543,"Lamba","","Priti","Conservative","Conservateur",N,N,45
+35029,"Etobicoke North","Etobicoke-Nord"," 78","Toronto",N,N,"",1,543,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35029,"Etobicoke North","Etobicoke-Nord"," 78","Toronto",N,N,"",1,543,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 79","Toronto",N,N,"",12,396,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 79","Toronto",N,N,"",12,396,"Duncan","","Kirsty","Liberal","Libéral",N,Y,48
+35029,"Etobicoke North","Etobicoke-Nord"," 79","Toronto",N,N,"",12,396,"Lamba","","Priti","Conservative","Conservateur",N,N,44
+35029,"Etobicoke North","Etobicoke-Nord"," 79","Toronto",N,N,"",12,396,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 79","Toronto",N,N,"",12,396,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 80","Toronto",N,N,"",0,436,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 80","Toronto",N,N,"",0,436,"Duncan","","Kirsty","Liberal","Libéral",N,Y,46
+35029,"Etobicoke North","Etobicoke-Nord"," 80","Toronto",N,N,"",0,436,"Lamba","","Priti","Conservative","Conservateur",N,N,46
+35029,"Etobicoke North","Etobicoke-Nord"," 80","Toronto",N,N,"",0,436,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35029,"Etobicoke North","Etobicoke-Nord"," 80","Toronto",N,N,"",0,436,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 81","Toronto",N,N,"",3,534,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,8
+35029,"Etobicoke North","Etobicoke-Nord"," 81","Toronto",N,N,"",3,534,"Duncan","","Kirsty","Liberal","Libéral",N,Y,86
+35029,"Etobicoke North","Etobicoke-Nord"," 81","Toronto",N,N,"",3,534,"Lamba","","Priti","Conservative","Conservateur",N,N,47
+35029,"Etobicoke North","Etobicoke-Nord"," 81","Toronto",N,N,"",3,534,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35029,"Etobicoke North","Etobicoke-Nord"," 81","Toronto",N,N,"",3,534,"Royer","","Carol","Independent","Indépendant(e)",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 82","Toronto",N,N,"",1,412,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,9
+35029,"Etobicoke North","Etobicoke-Nord"," 82","Toronto",N,N,"",1,412,"Duncan","","Kirsty","Liberal","Libéral",N,Y,66
+35029,"Etobicoke North","Etobicoke-Nord"," 82","Toronto",N,N,"",1,412,"Lamba","","Priti","Conservative","Conservateur",N,N,38
+35029,"Etobicoke North","Etobicoke-Nord"," 82","Toronto",N,N,"",1,412,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35029,"Etobicoke North","Etobicoke-Nord"," 82","Toronto",N,N,"",1,412,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 83","Toronto",N,N,"",1,429,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,11
+35029,"Etobicoke North","Etobicoke-Nord"," 83","Toronto",N,N,"",1,429,"Duncan","","Kirsty","Liberal","Libéral",N,Y,54
+35029,"Etobicoke North","Etobicoke-Nord"," 83","Toronto",N,N,"",1,429,"Lamba","","Priti","Conservative","Conservateur",N,N,56
+35029,"Etobicoke North","Etobicoke-Nord"," 83","Toronto",N,N,"",1,429,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35029,"Etobicoke North","Etobicoke-Nord"," 83","Toronto",N,N,"",1,429,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 84","Toronto",N,N,"",2,397,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,9
+35029,"Etobicoke North","Etobicoke-Nord"," 84","Toronto",N,N,"",2,397,"Duncan","","Kirsty","Liberal","Libéral",N,Y,69
+35029,"Etobicoke North","Etobicoke-Nord"," 84","Toronto",N,N,"",2,397,"Lamba","","Priti","Conservative","Conservateur",N,N,45
+35029,"Etobicoke North","Etobicoke-Nord"," 84","Toronto",N,N,"",2,397,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35029,"Etobicoke North","Etobicoke-Nord"," 84","Toronto",N,N,"",2,397,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 85","Toronto",N,N,"",1,449,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,7
+35029,"Etobicoke North","Etobicoke-Nord"," 85","Toronto",N,N,"",1,449,"Duncan","","Kirsty","Liberal","Libéral",N,Y,80
+35029,"Etobicoke North","Etobicoke-Nord"," 85","Toronto",N,N,"",1,449,"Lamba","","Priti","Conservative","Conservateur",N,N,55
+35029,"Etobicoke North","Etobicoke-Nord"," 85","Toronto",N,N,"",1,449,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35029,"Etobicoke North","Etobicoke-Nord"," 85","Toronto",N,N,"",1,449,"Royer","","Carol","Independent","Indépendant(e)",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 86","Toronto",N,N,"",1,358,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,10
+35029,"Etobicoke North","Etobicoke-Nord"," 86","Toronto",N,N,"",1,358,"Duncan","","Kirsty","Liberal","Libéral",N,Y,46
+35029,"Etobicoke North","Etobicoke-Nord"," 86","Toronto",N,N,"",1,358,"Lamba","","Priti","Conservative","Conservateur",N,N,43
+35029,"Etobicoke North","Etobicoke-Nord"," 86","Toronto",N,N,"",1,358,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35029,"Etobicoke North","Etobicoke-Nord"," 86","Toronto",N,N,"",1,358,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 87","Toronto",N,N,"",2,364,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,6
+35029,"Etobicoke North","Etobicoke-Nord"," 87","Toronto",N,N,"",2,364,"Duncan","","Kirsty","Liberal","Libéral",N,Y,67
+35029,"Etobicoke North","Etobicoke-Nord"," 87","Toronto",N,N,"",2,364,"Lamba","","Priti","Conservative","Conservateur",N,N,39
+35029,"Etobicoke North","Etobicoke-Nord"," 87","Toronto",N,N,"",2,364,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35029,"Etobicoke North","Etobicoke-Nord"," 87","Toronto",N,N,"",2,364,"Royer","","Carol","Independent","Indépendant(e)",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 88","Toronto",N,N,"",1,414,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,8
+35029,"Etobicoke North","Etobicoke-Nord"," 88","Toronto",N,N,"",1,414,"Duncan","","Kirsty","Liberal","Libéral",N,Y,63
+35029,"Etobicoke North","Etobicoke-Nord"," 88","Toronto",N,N,"",1,414,"Lamba","","Priti","Conservative","Conservateur",N,N,19
+35029,"Etobicoke North","Etobicoke-Nord"," 88","Toronto",N,N,"",1,414,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35029,"Etobicoke North","Etobicoke-Nord"," 88","Toronto",N,N,"",1,414,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 89","Toronto",N,N,"",1,523,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 89","Toronto",N,N,"",1,523,"Duncan","","Kirsty","Liberal","Libéral",N,Y,93
+35029,"Etobicoke North","Etobicoke-Nord"," 89","Toronto",N,N,"",1,523,"Lamba","","Priti","Conservative","Conservateur",N,N,42
+35029,"Etobicoke North","Etobicoke-Nord"," 89","Toronto",N,N,"",1,523,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35029,"Etobicoke North","Etobicoke-Nord"," 89","Toronto",N,N,"",1,523,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 90","Toronto",N,N,"",0,445,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,6
+35029,"Etobicoke North","Etobicoke-Nord"," 90","Toronto",N,N,"",0,445,"Duncan","","Kirsty","Liberal","Libéral",N,Y,64
+35029,"Etobicoke North","Etobicoke-Nord"," 90","Toronto",N,N,"",0,445,"Lamba","","Priti","Conservative","Conservateur",N,N,21
+35029,"Etobicoke North","Etobicoke-Nord"," 90","Toronto",N,N,"",0,445,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35029,"Etobicoke North","Etobicoke-Nord"," 90","Toronto",N,N,"",0,445,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 91","Toronto",N,N,"",0,435,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,6
+35029,"Etobicoke North","Etobicoke-Nord"," 91","Toronto",N,N,"",0,435,"Duncan","","Kirsty","Liberal","Libéral",N,Y,80
+35029,"Etobicoke North","Etobicoke-Nord"," 91","Toronto",N,N,"",0,435,"Lamba","","Priti","Conservative","Conservateur",N,N,27
+35029,"Etobicoke North","Etobicoke-Nord"," 91","Toronto",N,N,"",0,435,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35029,"Etobicoke North","Etobicoke-Nord"," 91","Toronto",N,N,"",0,435,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 92","Toronto",N,N,"",0,404,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 92","Toronto",N,N,"",0,404,"Duncan","","Kirsty","Liberal","Libéral",N,Y,79
+35029,"Etobicoke North","Etobicoke-Nord"," 92","Toronto",N,N,"",0,404,"Lamba","","Priti","Conservative","Conservateur",N,N,19
+35029,"Etobicoke North","Etobicoke-Nord"," 92","Toronto",N,N,"",0,404,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35029,"Etobicoke North","Etobicoke-Nord"," 92","Toronto",N,N,"",0,404,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 93","Toronto",N,N,"",1,446,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 93","Toronto",N,N,"",1,446,"Duncan","","Kirsty","Liberal","Libéral",N,Y,75
+35029,"Etobicoke North","Etobicoke-Nord"," 93","Toronto",N,N,"",1,446,"Lamba","","Priti","Conservative","Conservateur",N,N,19
+35029,"Etobicoke North","Etobicoke-Nord"," 93","Toronto",N,N,"",1,446,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35029,"Etobicoke North","Etobicoke-Nord"," 93","Toronto",N,N,"",1,446,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 94","Toronto",N,N,"",4,613,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,13
+35029,"Etobicoke North","Etobicoke-Nord"," 94","Toronto",N,N,"",4,613,"Duncan","","Kirsty","Liberal","Libéral",N,Y,181
+35029,"Etobicoke North","Etobicoke-Nord"," 94","Toronto",N,N,"",4,613,"Lamba","","Priti","Conservative","Conservateur",N,N,45
+35029,"Etobicoke North","Etobicoke-Nord"," 94","Toronto",N,N,"",4,613,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35029,"Etobicoke North","Etobicoke-Nord"," 94","Toronto",N,N,"",4,613,"Royer","","Carol","Independent","Indépendant(e)",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 95","Toronto",N,N,"",3,364,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 95","Toronto",N,N,"",3,364,"Duncan","","Kirsty","Liberal","Libéral",N,Y,105
+35029,"Etobicoke North","Etobicoke-Nord"," 95","Toronto",N,N,"",3,364,"Lamba","","Priti","Conservative","Conservateur",N,N,35
+35029,"Etobicoke North","Etobicoke-Nord"," 95","Toronto",N,N,"",3,364,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35029,"Etobicoke North","Etobicoke-Nord"," 95","Toronto",N,N,"",3,364,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 96","Toronto",N,N,"",4,314,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 96","Toronto",N,N,"",4,314,"Duncan","","Kirsty","Liberal","Libéral",N,Y,105
+35029,"Etobicoke North","Etobicoke-Nord"," 96","Toronto",N,N,"",4,314,"Lamba","","Priti","Conservative","Conservateur",N,N,11
+35029,"Etobicoke North","Etobicoke-Nord"," 96","Toronto",N,N,"",4,314,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35029,"Etobicoke North","Etobicoke-Nord"," 96","Toronto",N,N,"",4,314,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 97","Toronto",N,N,"",0,563,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,5
+35029,"Etobicoke North","Etobicoke-Nord"," 97","Toronto",N,N,"",0,563,"Duncan","","Kirsty","Liberal","Libéral",N,Y,84
+35029,"Etobicoke North","Etobicoke-Nord"," 97","Toronto",N,N,"",0,563,"Lamba","","Priti","Conservative","Conservateur",N,N,38
+35029,"Etobicoke North","Etobicoke-Nord"," 97","Toronto",N,N,"",0,563,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+35029,"Etobicoke North","Etobicoke-Nord"," 97","Toronto",N,N,"",0,563,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 98","Toronto",N,N,"",4,455,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 98","Toronto",N,N,"",4,455,"Duncan","","Kirsty","Liberal","Libéral",N,Y,117
+35029,"Etobicoke North","Etobicoke-Nord"," 98","Toronto",N,N,"",4,455,"Lamba","","Priti","Conservative","Conservateur",N,N,23
+35029,"Etobicoke North","Etobicoke-Nord"," 98","Toronto",N,N,"",4,455,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35029,"Etobicoke North","Etobicoke-Nord"," 98","Toronto",N,N,"",4,455,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 99","Toronto",N,N,"",4,429,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 99","Toronto",N,N,"",4,429,"Duncan","","Kirsty","Liberal","Libéral",N,Y,95
+35029,"Etobicoke North","Etobicoke-Nord"," 99","Toronto",N,N,"",4,429,"Lamba","","Priti","Conservative","Conservateur",N,N,46
+35029,"Etobicoke North","Etobicoke-Nord"," 99","Toronto",N,N,"",4,429,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35029,"Etobicoke North","Etobicoke-Nord"," 99","Toronto",N,N,"",4,429,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 100","Toronto",N,N,"",1,469,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,8
+35029,"Etobicoke North","Etobicoke-Nord"," 100","Toronto",N,N,"",1,469,"Duncan","","Kirsty","Liberal","Libéral",N,Y,121
+35029,"Etobicoke North","Etobicoke-Nord"," 100","Toronto",N,N,"",1,469,"Lamba","","Priti","Conservative","Conservateur",N,N,41
+35029,"Etobicoke North","Etobicoke-Nord"," 100","Toronto",N,N,"",1,469,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35029,"Etobicoke North","Etobicoke-Nord"," 100","Toronto",N,N,"",1,469,"Royer","","Carol","Independent","Indépendant(e)",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 101","Toronto",N,N,"",3,524,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,9
+35029,"Etobicoke North","Etobicoke-Nord"," 101","Toronto",N,N,"",3,524,"Duncan","","Kirsty","Liberal","Libéral",N,Y,94
+35029,"Etobicoke North","Etobicoke-Nord"," 101","Toronto",N,N,"",3,524,"Lamba","","Priti","Conservative","Conservateur",N,N,79
+35029,"Etobicoke North","Etobicoke-Nord"," 101","Toronto",N,N,"",3,524,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35029,"Etobicoke North","Etobicoke-Nord"," 101","Toronto",N,N,"",3,524,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 102","Toronto",N,N,"",2,399,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,17
+35029,"Etobicoke North","Etobicoke-Nord"," 102","Toronto",N,N,"",2,399,"Duncan","","Kirsty","Liberal","Libéral",N,Y,46
+35029,"Etobicoke North","Etobicoke-Nord"," 102","Toronto",N,N,"",2,399,"Lamba","","Priti","Conservative","Conservateur",N,N,37
+35029,"Etobicoke North","Etobicoke-Nord"," 102","Toronto",N,N,"",2,399,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35029,"Etobicoke North","Etobicoke-Nord"," 102","Toronto",N,N,"",2,399,"Royer","","Carol","Independent","Indépendant(e)",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 103","Toronto",N,N,"",4,331,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,10
+35029,"Etobicoke North","Etobicoke-Nord"," 103","Toronto",N,N,"",4,331,"Duncan","","Kirsty","Liberal","Libéral",N,Y,67
+35029,"Etobicoke North","Etobicoke-Nord"," 103","Toronto",N,N,"",4,331,"Lamba","","Priti","Conservative","Conservateur",N,N,36
+35029,"Etobicoke North","Etobicoke-Nord"," 103","Toronto",N,N,"",4,331,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35029,"Etobicoke North","Etobicoke-Nord"," 103","Toronto",N,N,"",4,331,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 104","Toronto",N,N,"",2,366,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,10
+35029,"Etobicoke North","Etobicoke-Nord"," 104","Toronto",N,N,"",2,366,"Duncan","","Kirsty","Liberal","Libéral",N,Y,64
+35029,"Etobicoke North","Etobicoke-Nord"," 104","Toronto",N,N,"",2,366,"Lamba","","Priti","Conservative","Conservateur",N,N,33
+35029,"Etobicoke North","Etobicoke-Nord"," 104","Toronto",N,N,"",2,366,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35029,"Etobicoke North","Etobicoke-Nord"," 104","Toronto",N,N,"",2,366,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 105","Toronto",N,N,"",3,505,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,8
+35029,"Etobicoke North","Etobicoke-Nord"," 105","Toronto",N,N,"",3,505,"Duncan","","Kirsty","Liberal","Libéral",N,Y,107
+35029,"Etobicoke North","Etobicoke-Nord"," 105","Toronto",N,N,"",3,505,"Lamba","","Priti","Conservative","Conservateur",N,N,45
+35029,"Etobicoke North","Etobicoke-Nord"," 105","Toronto",N,N,"",3,505,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35029,"Etobicoke North","Etobicoke-Nord"," 105","Toronto",N,N,"",3,505,"Royer","","Carol","Independent","Indépendant(e)",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 106","Toronto",N,N,"",4,445,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,6
+35029,"Etobicoke North","Etobicoke-Nord"," 106","Toronto",N,N,"",4,445,"Duncan","","Kirsty","Liberal","Libéral",N,Y,84
+35029,"Etobicoke North","Etobicoke-Nord"," 106","Toronto",N,N,"",4,445,"Lamba","","Priti","Conservative","Conservateur",N,N,40
+35029,"Etobicoke North","Etobicoke-Nord"," 106","Toronto",N,N,"",4,445,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35029,"Etobicoke North","Etobicoke-Nord"," 106","Toronto",N,N,"",4,445,"Royer","","Carol","Independent","Indépendant(e)",N,N,5
+35029,"Etobicoke North","Etobicoke-Nord"," 107","Toronto",N,N,"",4,499,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 107","Toronto",N,N,"",4,499,"Duncan","","Kirsty","Liberal","Libéral",N,Y,87
+35029,"Etobicoke North","Etobicoke-Nord"," 107","Toronto",N,N,"",4,499,"Lamba","","Priti","Conservative","Conservateur",N,N,51
+35029,"Etobicoke North","Etobicoke-Nord"," 107","Toronto",N,N,"",4,499,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35029,"Etobicoke North","Etobicoke-Nord"," 107","Toronto",N,N,"",4,499,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 108","Toronto",N,N,"",5,518,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,13
+35029,"Etobicoke North","Etobicoke-Nord"," 108","Toronto",N,N,"",5,518,"Duncan","","Kirsty","Liberal","Libéral",N,Y,102
+35029,"Etobicoke North","Etobicoke-Nord"," 108","Toronto",N,N,"",5,518,"Lamba","","Priti","Conservative","Conservateur",N,N,42
+35029,"Etobicoke North","Etobicoke-Nord"," 108","Toronto",N,N,"",5,518,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35029,"Etobicoke North","Etobicoke-Nord"," 108","Toronto",N,N,"",5,518,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 109","Toronto",N,N,"",2,517,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,13
+35029,"Etobicoke North","Etobicoke-Nord"," 109","Toronto",N,N,"",2,517,"Duncan","","Kirsty","Liberal","Libéral",N,Y,106
+35029,"Etobicoke North","Etobicoke-Nord"," 109","Toronto",N,N,"",2,517,"Lamba","","Priti","Conservative","Conservateur",N,N,34
+35029,"Etobicoke North","Etobicoke-Nord"," 109","Toronto",N,N,"",2,517,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35029,"Etobicoke North","Etobicoke-Nord"," 109","Toronto",N,N,"",2,517,"Royer","","Carol","Independent","Indépendant(e)",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 110","Toronto",N,N,"",0,511,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,13
+35029,"Etobicoke North","Etobicoke-Nord"," 110","Toronto",N,N,"",0,511,"Duncan","","Kirsty","Liberal","Libéral",N,Y,101
+35029,"Etobicoke North","Etobicoke-Nord"," 110","Toronto",N,N,"",0,511,"Lamba","","Priti","Conservative","Conservateur",N,N,35
+35029,"Etobicoke North","Etobicoke-Nord"," 110","Toronto",N,N,"",0,511,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35029,"Etobicoke North","Etobicoke-Nord"," 110","Toronto",N,N,"",0,511,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 111","Toronto",N,N,"",1,442,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 111","Toronto",N,N,"",1,442,"Duncan","","Kirsty","Liberal","Libéral",N,Y,85
+35029,"Etobicoke North","Etobicoke-Nord"," 111","Toronto",N,N,"",1,442,"Lamba","","Priti","Conservative","Conservateur",N,N,33
+35029,"Etobicoke North","Etobicoke-Nord"," 111","Toronto",N,N,"",1,442,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35029,"Etobicoke North","Etobicoke-Nord"," 111","Toronto",N,N,"",1,442,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 112","Toronto",N,N,"",1,621,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 112","Toronto",N,N,"",1,621,"Duncan","","Kirsty","Liberal","Libéral",N,Y,128
+35029,"Etobicoke North","Etobicoke-Nord"," 112","Toronto",N,N,"",1,621,"Lamba","","Priti","Conservative","Conservateur",N,N,16
+35029,"Etobicoke North","Etobicoke-Nord"," 112","Toronto",N,N,"",1,621,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35029,"Etobicoke North","Etobicoke-Nord"," 112","Toronto",N,N,"",1,621,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 113","Toronto",N,N,"",0,355,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 113","Toronto",N,N,"",0,355,"Duncan","","Kirsty","Liberal","Libéral",N,Y,45
+35029,"Etobicoke North","Etobicoke-Nord"," 113","Toronto",N,N,"",0,355,"Lamba","","Priti","Conservative","Conservateur",N,N,22
+35029,"Etobicoke North","Etobicoke-Nord"," 113","Toronto",N,N,"",0,355,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35029,"Etobicoke North","Etobicoke-Nord"," 113","Toronto",N,N,"",0,355,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 114","Toronto",N,N,"",1,380,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,17
+35029,"Etobicoke North","Etobicoke-Nord"," 114","Toronto",N,N,"",1,380,"Duncan","","Kirsty","Liberal","Libéral",N,Y,80
+35029,"Etobicoke North","Etobicoke-Nord"," 114","Toronto",N,N,"",1,380,"Lamba","","Priti","Conservative","Conservateur",N,N,83
+35029,"Etobicoke North","Etobicoke-Nord"," 114","Toronto",N,N,"",1,380,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35029,"Etobicoke North","Etobicoke-Nord"," 114","Toronto",N,N,"",1,380,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 115","Toronto",N,N,"",1,424,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,10
+35029,"Etobicoke North","Etobicoke-Nord"," 115","Toronto",N,N,"",1,424,"Duncan","","Kirsty","Liberal","Libéral",N,Y,75
+35029,"Etobicoke North","Etobicoke-Nord"," 115","Toronto",N,N,"",1,424,"Lamba","","Priti","Conservative","Conservateur",N,N,69
+35029,"Etobicoke North","Etobicoke-Nord"," 115","Toronto",N,N,"",1,424,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35029,"Etobicoke North","Etobicoke-Nord"," 115","Toronto",N,N,"",1,424,"Royer","","Carol","Independent","Indépendant(e)",N,N,5
+35029,"Etobicoke North","Etobicoke-Nord"," 116","Toronto",N,N,"",1,598,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,10
+35029,"Etobicoke North","Etobicoke-Nord"," 116","Toronto",N,N,"",1,598,"Duncan","","Kirsty","Liberal","Libéral",N,Y,147
+35029,"Etobicoke North","Etobicoke-Nord"," 116","Toronto",N,N,"",1,598,"Lamba","","Priti","Conservative","Conservateur",N,N,62
+35029,"Etobicoke North","Etobicoke-Nord"," 116","Toronto",N,N,"",1,598,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35029,"Etobicoke North","Etobicoke-Nord"," 116","Toronto",N,N,"",1,598,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 117","Toronto",N,N,"",0,317,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,5
+35029,"Etobicoke North","Etobicoke-Nord"," 117","Toronto",N,N,"",0,317,"Duncan","","Kirsty","Liberal","Libéral",N,Y,68
+35029,"Etobicoke North","Etobicoke-Nord"," 117","Toronto",N,N,"",0,317,"Lamba","","Priti","Conservative","Conservateur",N,N,28
+35029,"Etobicoke North","Etobicoke-Nord"," 117","Toronto",N,N,"",0,317,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35029,"Etobicoke North","Etobicoke-Nord"," 117","Toronto",N,N,"",0,317,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 118","Toronto",N,N,"",2,358,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 118","Toronto",N,N,"",2,358,"Duncan","","Kirsty","Liberal","Libéral",N,Y,79
+35029,"Etobicoke North","Etobicoke-Nord"," 118","Toronto",N,N,"",2,358,"Lamba","","Priti","Conservative","Conservateur",N,N,35
+35029,"Etobicoke North","Etobicoke-Nord"," 118","Toronto",N,N,"",2,358,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35029,"Etobicoke North","Etobicoke-Nord"," 118","Toronto",N,N,"",2,358,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 119","Toronto",N,N,"",6,391,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 119","Toronto",N,N,"",6,391,"Duncan","","Kirsty","Liberal","Libéral",N,Y,66
+35029,"Etobicoke North","Etobicoke-Nord"," 119","Toronto",N,N,"",6,391,"Lamba","","Priti","Conservative","Conservateur",N,N,54
+35029,"Etobicoke North","Etobicoke-Nord"," 119","Toronto",N,N,"",6,391,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35029,"Etobicoke North","Etobicoke-Nord"," 119","Toronto",N,N,"",6,391,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 120","Toronto",N,N,"",6,415,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,8
+35029,"Etobicoke North","Etobicoke-Nord"," 120","Toronto",N,N,"",6,415,"Duncan","","Kirsty","Liberal","Libéral",N,Y,61
+35029,"Etobicoke North","Etobicoke-Nord"," 120","Toronto",N,N,"",6,415,"Lamba","","Priti","Conservative","Conservateur",N,N,58
+35029,"Etobicoke North","Etobicoke-Nord"," 120","Toronto",N,N,"",6,415,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35029,"Etobicoke North","Etobicoke-Nord"," 120","Toronto",N,N,"",6,415,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 121","Toronto",N,N,"",0,442,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 121","Toronto",N,N,"",0,442,"Duncan","","Kirsty","Liberal","Libéral",N,Y,59
+35029,"Etobicoke North","Etobicoke-Nord"," 121","Toronto",N,N,"",0,442,"Lamba","","Priti","Conservative","Conservateur",N,N,53
+35029,"Etobicoke North","Etobicoke-Nord"," 121","Toronto",N,N,"",0,442,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35029,"Etobicoke North","Etobicoke-Nord"," 121","Toronto",N,N,"",0,442,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 122","Toronto",N,N,"",4,444,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,8
+35029,"Etobicoke North","Etobicoke-Nord"," 122","Toronto",N,N,"",4,444,"Duncan","","Kirsty","Liberal","Libéral",N,Y,88
+35029,"Etobicoke North","Etobicoke-Nord"," 122","Toronto",N,N,"",4,444,"Lamba","","Priti","Conservative","Conservateur",N,N,42
+35029,"Etobicoke North","Etobicoke-Nord"," 122","Toronto",N,N,"",4,444,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35029,"Etobicoke North","Etobicoke-Nord"," 122","Toronto",N,N,"",4,444,"Royer","","Carol","Independent","Indépendant(e)",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 123","Toronto",N,N,"",2,428,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,8
+35029,"Etobicoke North","Etobicoke-Nord"," 123","Toronto",N,N,"",2,428,"Duncan","","Kirsty","Liberal","Libéral",N,Y,69
+35029,"Etobicoke North","Etobicoke-Nord"," 123","Toronto",N,N,"",2,428,"Lamba","","Priti","Conservative","Conservateur",N,N,40
+35029,"Etobicoke North","Etobicoke-Nord"," 123","Toronto",N,N,"",2,428,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35029,"Etobicoke North","Etobicoke-Nord"," 123","Toronto",N,N,"",2,428,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 124","Toronto",N,N,"",1,414,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,10
+35029,"Etobicoke North","Etobicoke-Nord"," 124","Toronto",N,N,"",1,414,"Duncan","","Kirsty","Liberal","Libéral",N,Y,67
+35029,"Etobicoke North","Etobicoke-Nord"," 124","Toronto",N,N,"",1,414,"Lamba","","Priti","Conservative","Conservateur",N,N,34
+35029,"Etobicoke North","Etobicoke-Nord"," 124","Toronto",N,N,"",1,414,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35029,"Etobicoke North","Etobicoke-Nord"," 124","Toronto",N,N,"",1,414,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 125","Toronto",N,N,"",1,414,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,6
+35029,"Etobicoke North","Etobicoke-Nord"," 125","Toronto",N,N,"",1,414,"Duncan","","Kirsty","Liberal","Libéral",N,Y,68
+35029,"Etobicoke North","Etobicoke-Nord"," 125","Toronto",N,N,"",1,414,"Lamba","","Priti","Conservative","Conservateur",N,N,30
+35029,"Etobicoke North","Etobicoke-Nord"," 125","Toronto",N,N,"",1,414,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35029,"Etobicoke North","Etobicoke-Nord"," 125","Toronto",N,N,"",1,414,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 126","Toronto",N,N,"",2,505,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,7
+35029,"Etobicoke North","Etobicoke-Nord"," 126","Toronto",N,N,"",2,505,"Duncan","","Kirsty","Liberal","Libéral",N,Y,85
+35029,"Etobicoke North","Etobicoke-Nord"," 126","Toronto",N,N,"",2,505,"Lamba","","Priti","Conservative","Conservateur",N,N,36
+35029,"Etobicoke North","Etobicoke-Nord"," 126","Toronto",N,N,"",2,505,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35029,"Etobicoke North","Etobicoke-Nord"," 126","Toronto",N,N,"",2,505,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 127","Toronto",N,N,"",0,531,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,9
+35029,"Etobicoke North","Etobicoke-Nord"," 127","Toronto",N,N,"",0,531,"Duncan","","Kirsty","Liberal","Libéral",N,Y,81
+35029,"Etobicoke North","Etobicoke-Nord"," 127","Toronto",N,N,"",0,531,"Lamba","","Priti","Conservative","Conservateur",N,N,21
+35029,"Etobicoke North","Etobicoke-Nord"," 127","Toronto",N,N,"",0,531,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35029,"Etobicoke North","Etobicoke-Nord"," 127","Toronto",N,N,"",0,531,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 128","Toronto",N,N,"",1,435,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 128","Toronto",N,N,"",1,435,"Duncan","","Kirsty","Liberal","Libéral",N,Y,80
+35029,"Etobicoke North","Etobicoke-Nord"," 128","Toronto",N,N,"",1,435,"Lamba","","Priti","Conservative","Conservateur",N,N,41
+35029,"Etobicoke North","Etobicoke-Nord"," 128","Toronto",N,N,"",1,435,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35029,"Etobicoke North","Etobicoke-Nord"," 128","Toronto",N,N,"",1,435,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 129","Toronto",N,N,"",1,544,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 129","Toronto",N,N,"",1,544,"Duncan","","Kirsty","Liberal","Libéral",N,Y,109
+35029,"Etobicoke North","Etobicoke-Nord"," 129","Toronto",N,N,"",1,544,"Lamba","","Priti","Conservative","Conservateur",N,N,52
+35029,"Etobicoke North","Etobicoke-Nord"," 129","Toronto",N,N,"",1,544,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35029,"Etobicoke North","Etobicoke-Nord"," 129","Toronto",N,N,"",1,544,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 130","Toronto",N,N,"",1,400,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,9
+35029,"Etobicoke North","Etobicoke-Nord"," 130","Toronto",N,N,"",1,400,"Duncan","","Kirsty","Liberal","Libéral",N,Y,76
+35029,"Etobicoke North","Etobicoke-Nord"," 130","Toronto",N,N,"",1,400,"Lamba","","Priti","Conservative","Conservateur",N,N,30
+35029,"Etobicoke North","Etobicoke-Nord"," 130","Toronto",N,N,"",1,400,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35029,"Etobicoke North","Etobicoke-Nord"," 130","Toronto",N,N,"",1,400,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 131","Toronto",N,N,"",1,522,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,6
+35029,"Etobicoke North","Etobicoke-Nord"," 131","Toronto",N,N,"",1,522,"Duncan","","Kirsty","Liberal","Libéral",N,Y,74
+35029,"Etobicoke North","Etobicoke-Nord"," 131","Toronto",N,N,"",1,522,"Lamba","","Priti","Conservative","Conservateur",N,N,48
+35029,"Etobicoke North","Etobicoke-Nord"," 131","Toronto",N,N,"",1,522,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35029,"Etobicoke North","Etobicoke-Nord"," 131","Toronto",N,N,"",1,522,"Royer","","Carol","Independent","Indépendant(e)",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 132","Toronto",N,N,"",1,337,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,13
+35029,"Etobicoke North","Etobicoke-Nord"," 132","Toronto",N,N,"",1,337,"Duncan","","Kirsty","Liberal","Libéral",N,Y,51
+35029,"Etobicoke North","Etobicoke-Nord"," 132","Toronto",N,N,"",1,337,"Lamba","","Priti","Conservative","Conservateur",N,N,46
+35029,"Etobicoke North","Etobicoke-Nord"," 132","Toronto",N,N,"",1,337,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35029,"Etobicoke North","Etobicoke-Nord"," 132","Toronto",N,N,"",1,337,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 133","Toronto",N,N,"",0,414,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,7
+35029,"Etobicoke North","Etobicoke-Nord"," 133","Toronto",N,N,"",0,414,"Duncan","","Kirsty","Liberal","Libéral",N,Y,66
+35029,"Etobicoke North","Etobicoke-Nord"," 133","Toronto",N,N,"",0,414,"Lamba","","Priti","Conservative","Conservateur",N,N,27
+35029,"Etobicoke North","Etobicoke-Nord"," 133","Toronto",N,N,"",0,414,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35029,"Etobicoke North","Etobicoke-Nord"," 133","Toronto",N,N,"",0,414,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 134","Toronto",N,N,"",1,359,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 134","Toronto",N,N,"",1,359,"Duncan","","Kirsty","Liberal","Libéral",N,Y,68
+35029,"Etobicoke North","Etobicoke-Nord"," 134","Toronto",N,N,"",1,359,"Lamba","","Priti","Conservative","Conservateur",N,N,13
+35029,"Etobicoke North","Etobicoke-Nord"," 134","Toronto",N,N,"",1,359,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35029,"Etobicoke North","Etobicoke-Nord"," 134","Toronto",N,N,"",1,359,"Royer","","Carol","Independent","Indépendant(e)",N,N,5
+35029,"Etobicoke North","Etobicoke-Nord"," 135","Toronto",N,N,"",2,410,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 135","Toronto",N,N,"",2,410,"Duncan","","Kirsty","Liberal","Libéral",N,Y,63
+35029,"Etobicoke North","Etobicoke-Nord"," 135","Toronto",N,N,"",2,410,"Lamba","","Priti","Conservative","Conservateur",N,N,34
+35029,"Etobicoke North","Etobicoke-Nord"," 135","Toronto",N,N,"",2,410,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35029,"Etobicoke North","Etobicoke-Nord"," 135","Toronto",N,N,"",2,410,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 400","Toronto",N,N,"",2,387,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 400","Toronto",N,N,"",2,387,"Duncan","","Kirsty","Liberal","Libéral",N,Y,103
+35029,"Etobicoke North","Etobicoke-Nord"," 400","Toronto",N,N,"",2,387,"Lamba","","Priti","Conservative","Conservateur",N,N,12
+35029,"Etobicoke North","Etobicoke-Nord"," 400","Toronto",N,N,"",2,387,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35029,"Etobicoke North","Etobicoke-Nord"," 400","Toronto",N,N,"",2,387,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 401","Toronto",N,N,"",3,544,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 401","Toronto",N,N,"",3,544,"Duncan","","Kirsty","Liberal","Libéral",N,Y,150
+35029,"Etobicoke North","Etobicoke-Nord"," 401","Toronto",N,N,"",3,544,"Lamba","","Priti","Conservative","Conservateur",N,N,15
+35029,"Etobicoke North","Etobicoke-Nord"," 401","Toronto",N,N,"",3,544,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35029,"Etobicoke North","Etobicoke-Nord"," 401","Toronto",N,N,"",3,544,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 402","Toronto",N,N,"",2,396,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,5
+35029,"Etobicoke North","Etobicoke-Nord"," 402","Toronto",N,N,"",2,396,"Duncan","","Kirsty","Liberal","Libéral",N,Y,71
+35029,"Etobicoke North","Etobicoke-Nord"," 402","Toronto",N,N,"",2,396,"Lamba","","Priti","Conservative","Conservateur",N,N,25
+35029,"Etobicoke North","Etobicoke-Nord"," 402","Toronto",N,N,"",2,396,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35029,"Etobicoke North","Etobicoke-Nord"," 402","Toronto",N,N,"",2,396,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 403","Toronto",N,N,"",2,440,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,5
+35029,"Etobicoke North","Etobicoke-Nord"," 403","Toronto",N,N,"",2,440,"Duncan","","Kirsty","Liberal","Libéral",N,Y,126
+35029,"Etobicoke North","Etobicoke-Nord"," 403","Toronto",N,N,"",2,440,"Lamba","","Priti","Conservative","Conservateur",N,N,36
+35029,"Etobicoke North","Etobicoke-Nord"," 403","Toronto",N,N,"",2,440,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35029,"Etobicoke North","Etobicoke-Nord"," 403","Toronto",N,N,"",2,440,"Royer","","Carol","Independent","Indépendant(e)",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 404","Toronto",N,N,"",5,502,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 404","Toronto",N,N,"",5,502,"Duncan","","Kirsty","Liberal","Libéral",N,Y,94
+35029,"Etobicoke North","Etobicoke-Nord"," 404","Toronto",N,N,"",5,502,"Lamba","","Priti","Conservative","Conservateur",N,N,24
+35029,"Etobicoke North","Etobicoke-Nord"," 404","Toronto",N,N,"",5,502,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35029,"Etobicoke North","Etobicoke-Nord"," 404","Toronto",N,N,"",5,502,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 405","Toronto",N,N,"",3,360,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 405","Toronto",N,N,"",3,360,"Duncan","","Kirsty","Liberal","Libéral",N,Y,39
+35029,"Etobicoke North","Etobicoke-Nord"," 405","Toronto",N,N,"",3,360,"Lamba","","Priti","Conservative","Conservateur",N,N,46
+35029,"Etobicoke North","Etobicoke-Nord"," 405","Toronto",N,N,"",3,360,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35029,"Etobicoke North","Etobicoke-Nord"," 405","Toronto",N,N,"",3,360,"Royer","","Carol","Independent","Indépendant(e)",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 406","Toronto",N,N,"",3,392,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,8
+35029,"Etobicoke North","Etobicoke-Nord"," 406","Toronto",N,N,"",3,392,"Duncan","","Kirsty","Liberal","Libéral",N,Y,46
+35029,"Etobicoke North","Etobicoke-Nord"," 406","Toronto",N,N,"",3,392,"Lamba","","Priti","Conservative","Conservateur",N,N,51
+35029,"Etobicoke North","Etobicoke-Nord"," 406","Toronto",N,N,"",3,392,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 406","Toronto",N,N,"",3,392,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 407","Toronto",N,N,"",0,313,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 407","Toronto",N,N,"",0,313,"Duncan","","Kirsty","Liberal","Libéral",N,Y,40
+35029,"Etobicoke North","Etobicoke-Nord"," 407","Toronto",N,N,"",0,313,"Lamba","","Priti","Conservative","Conservateur",N,N,20
+35029,"Etobicoke North","Etobicoke-Nord"," 407","Toronto",N,N,"",0,313,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 407","Toronto",N,N,"",0,313,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 408","Toronto",N,N,"",1,301,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 408","Toronto",N,N,"",1,301,"Duncan","","Kirsty","Liberal","Libéral",N,Y,60
+35029,"Etobicoke North","Etobicoke-Nord"," 408","Toronto",N,N,"",1,301,"Lamba","","Priti","Conservative","Conservateur",N,N,15
+35029,"Etobicoke North","Etobicoke-Nord"," 408","Toronto",N,N,"",1,301,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 408","Toronto",N,N,"",1,301,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 409","Toronto",N,N,"",0,167,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 409","Toronto",N,N,"",0,167,"Duncan","","Kirsty","Liberal","Libéral",N,Y,31
+35029,"Etobicoke North","Etobicoke-Nord"," 409","Toronto",N,N,"",0,167,"Lamba","","Priti","Conservative","Conservateur",N,N,6
+35029,"Etobicoke North","Etobicoke-Nord"," 409","Toronto",N,N,"",0,167,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 409","Toronto",N,N,"",0,167,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 410","Toronto",N,N,"",1,234,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 410","Toronto",N,N,"",1,234,"Duncan","","Kirsty","Liberal","Libéral",N,Y,36
+35029,"Etobicoke North","Etobicoke-Nord"," 410","Toronto",N,N,"",1,234,"Lamba","","Priti","Conservative","Conservateur",N,N,13
+35029,"Etobicoke North","Etobicoke-Nord"," 410","Toronto",N,N,"",1,234,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35029,"Etobicoke North","Etobicoke-Nord"," 410","Toronto",N,N,"",1,234,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 411","Toronto",N,N,"",0,65,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 411","Toronto",N,N,"",0,65,"Duncan","","Kirsty","Liberal","Libéral",N,Y,16
+35029,"Etobicoke North","Etobicoke-Nord"," 411","Toronto",N,N,"",0,65,"Lamba","","Priti","Conservative","Conservateur",N,N,5
+35029,"Etobicoke North","Etobicoke-Nord"," 411","Toronto",N,N,"",0,65,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35029,"Etobicoke North","Etobicoke-Nord"," 411","Toronto",N,N,"",0,65,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 412","Toronto",N,N,"",2,234,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 412","Toronto",N,N,"",2,234,"Duncan","","Kirsty","Liberal","Libéral",N,Y,50
+35029,"Etobicoke North","Etobicoke-Nord"," 412","Toronto",N,N,"",2,234,"Lamba","","Priti","Conservative","Conservateur",N,N,19
+35029,"Etobicoke North","Etobicoke-Nord"," 412","Toronto",N,N,"",2,234,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35029,"Etobicoke North","Etobicoke-Nord"," 412","Toronto",N,N,"",2,234,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 413","Toronto",N,N,"",0,125,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 413","Toronto",N,N,"",0,125,"Duncan","","Kirsty","Liberal","Libéral",N,Y,13
+35029,"Etobicoke North","Etobicoke-Nord"," 413","Toronto",N,N,"",0,125,"Lamba","","Priti","Conservative","Conservateur",N,N,7
+35029,"Etobicoke North","Etobicoke-Nord"," 413","Toronto",N,N,"",0,125,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35029,"Etobicoke North","Etobicoke-Nord"," 413","Toronto",N,N,"",0,125,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 414","Toronto",N,N,"",0,500,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 414","Toronto",N,N,"",0,500,"Duncan","","Kirsty","Liberal","Libéral",N,Y,70
+35029,"Etobicoke North","Etobicoke-Nord"," 414","Toronto",N,N,"",0,500,"Lamba","","Priti","Conservative","Conservateur",N,N,35
+35029,"Etobicoke North","Etobicoke-Nord"," 414","Toronto",N,N,"",0,500,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35029,"Etobicoke North","Etobicoke-Nord"," 414","Toronto",N,N,"",0,500,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 415","Toronto",N,N,"",1,504,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,10
+35029,"Etobicoke North","Etobicoke-Nord"," 415","Toronto",N,N,"",1,504,"Duncan","","Kirsty","Liberal","Libéral",N,Y,79
+35029,"Etobicoke North","Etobicoke-Nord"," 415","Toronto",N,N,"",1,504,"Lamba","","Priti","Conservative","Conservateur",N,N,29
+35029,"Etobicoke North","Etobicoke-Nord"," 415","Toronto",N,N,"",1,504,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35029,"Etobicoke North","Etobicoke-Nord"," 415","Toronto",N,N,"",1,504,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 416","Toronto",N,N,"",7,194,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 416","Toronto",N,N,"",7,194,"Duncan","","Kirsty","Liberal","Libéral",N,Y,69
+35029,"Etobicoke North","Etobicoke-Nord"," 416","Toronto",N,N,"",7,194,"Lamba","","Priti","Conservative","Conservateur",N,N,21
+35029,"Etobicoke North","Etobicoke-Nord"," 416","Toronto",N,N,"",7,194,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35029,"Etobicoke North","Etobicoke-Nord"," 416","Toronto",N,N,"",7,194,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 417","Toronto",N,N,"",1,342,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 417","Toronto",N,N,"",1,342,"Duncan","","Kirsty","Liberal","Libéral",N,Y,69
+35029,"Etobicoke North","Etobicoke-Nord"," 417","Toronto",N,N,"",1,342,"Lamba","","Priti","Conservative","Conservateur",N,N,33
+35029,"Etobicoke North","Etobicoke-Nord"," 417","Toronto",N,N,"",1,342,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35029,"Etobicoke North","Etobicoke-Nord"," 417","Toronto",N,N,"",1,342,"Royer","","Carol","Independent","Indépendant(e)",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 418","Toronto",N,N,"",0,348,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,12
+35029,"Etobicoke North","Etobicoke-Nord"," 418","Toronto",N,N,"",0,348,"Duncan","","Kirsty","Liberal","Libéral",N,Y,68
+35029,"Etobicoke North","Etobicoke-Nord"," 418","Toronto",N,N,"",0,348,"Lamba","","Priti","Conservative","Conservateur",N,N,31
+35029,"Etobicoke North","Etobicoke-Nord"," 418","Toronto",N,N,"",0,348,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35029,"Etobicoke North","Etobicoke-Nord"," 418","Toronto",N,N,"",0,348,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 419","Toronto",N,N,"",0,227,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 419","Toronto",N,N,"",0,227,"Duncan","","Kirsty","Liberal","Libéral",N,Y,41
+35029,"Etobicoke North","Etobicoke-Nord"," 419","Toronto",N,N,"",0,227,"Lamba","","Priti","Conservative","Conservateur",N,N,9
+35029,"Etobicoke North","Etobicoke-Nord"," 419","Toronto",N,N,"",0,227,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35029,"Etobicoke North","Etobicoke-Nord"," 419","Toronto",N,N,"",0,227,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 420","Toronto",N,N,"",2,236,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,6
+35029,"Etobicoke North","Etobicoke-Nord"," 420","Toronto",N,N,"",2,236,"Duncan","","Kirsty","Liberal","Libéral",N,Y,74
+35029,"Etobicoke North","Etobicoke-Nord"," 420","Toronto",N,N,"",2,236,"Lamba","","Priti","Conservative","Conservateur",N,N,43
+35029,"Etobicoke North","Etobicoke-Nord"," 420","Toronto",N,N,"",2,236,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 420","Toronto",N,N,"",2,236,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 421","Toronto",N,N,"",0,250,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 421","Toronto",N,N,"",0,250,"Duncan","","Kirsty","Liberal","Libéral",N,Y,87
+35029,"Etobicoke North","Etobicoke-Nord"," 421","Toronto",N,N,"",0,250,"Lamba","","Priti","Conservative","Conservateur",N,N,75
+35029,"Etobicoke North","Etobicoke-Nord"," 421","Toronto",N,N,"",0,250,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35029,"Etobicoke North","Etobicoke-Nord"," 421","Toronto",N,N,"",0,250,"Royer","","Carol","Independent","Indépendant(e)",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 422","Toronto",N,N,"",2,603,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 422","Toronto",N,N,"",2,603,"Duncan","","Kirsty","Liberal","Libéral",N,Y,139
+35029,"Etobicoke North","Etobicoke-Nord"," 422","Toronto",N,N,"",2,603,"Lamba","","Priti","Conservative","Conservateur",N,N,11
+35029,"Etobicoke North","Etobicoke-Nord"," 422","Toronto",N,N,"",2,603,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35029,"Etobicoke North","Etobicoke-Nord"," 422","Toronto",N,N,"",2,603,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 423","Toronto",N,N,"",3,268,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 423","Toronto",N,N,"",3,268,"Duncan","","Kirsty","Liberal","Libéral",N,Y,47
+35029,"Etobicoke North","Etobicoke-Nord"," 423","Toronto",N,N,"",3,268,"Lamba","","Priti","Conservative","Conservateur",N,N,5
+35029,"Etobicoke North","Etobicoke-Nord"," 423","Toronto",N,N,"",3,268,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35029,"Etobicoke North","Etobicoke-Nord"," 423","Toronto",N,N,"",3,268,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 424","Toronto",N,N,"",5,721,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 424","Toronto",N,N,"",5,721,"Duncan","","Kirsty","Liberal","Libéral",N,Y,182
+35029,"Etobicoke North","Etobicoke-Nord"," 424","Toronto",N,N,"",5,721,"Lamba","","Priti","Conservative","Conservateur",N,N,8
+35029,"Etobicoke North","Etobicoke-Nord"," 424","Toronto",N,N,"",5,721,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35029,"Etobicoke North","Etobicoke-Nord"," 424","Toronto",N,N,"",5,721,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 425","Toronto",N,N,"",2,776,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,8
+35029,"Etobicoke North","Etobicoke-Nord"," 425","Toronto",N,N,"",2,776,"Duncan","","Kirsty","Liberal","Libéral",N,Y,152
+35029,"Etobicoke North","Etobicoke-Nord"," 425","Toronto",N,N,"",2,776,"Lamba","","Priti","Conservative","Conservateur",N,N,23
+35029,"Etobicoke North","Etobicoke-Nord"," 425","Toronto",N,N,"",2,776,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35029,"Etobicoke North","Etobicoke-Nord"," 425","Toronto",N,N,"",2,776,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 426","Toronto",N,N,"",2,300,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 426","Toronto",N,N,"",2,300,"Duncan","","Kirsty","Liberal","Libéral",N,Y,66
+35029,"Etobicoke North","Etobicoke-Nord"," 426","Toronto",N,N,"",2,300,"Lamba","","Priti","Conservative","Conservateur",N,N,19
+35029,"Etobicoke North","Etobicoke-Nord"," 426","Toronto",N,N,"",2,300,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35029,"Etobicoke North","Etobicoke-Nord"," 426","Toronto",N,N,"",2,300,"Royer","","Carol","Independent","Indépendant(e)",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 427","Toronto",N,N,"",6,643,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,6
+35029,"Etobicoke North","Etobicoke-Nord"," 427","Toronto",N,N,"",6,643,"Duncan","","Kirsty","Liberal","Libéral",N,Y,121
+35029,"Etobicoke North","Etobicoke-Nord"," 427","Toronto",N,N,"",6,643,"Lamba","","Priti","Conservative","Conservateur",N,N,17
+35029,"Etobicoke North","Etobicoke-Nord"," 427","Toronto",N,N,"",6,643,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35029,"Etobicoke North","Etobicoke-Nord"," 427","Toronto",N,N,"",6,643,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 428","Toronto",N,N,"",0,392,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,2
+35029,"Etobicoke North","Etobicoke-Nord"," 428","Toronto",N,N,"",0,392,"Duncan","","Kirsty","Liberal","Libéral",N,Y,112
+35029,"Etobicoke North","Etobicoke-Nord"," 428","Toronto",N,N,"",0,392,"Lamba","","Priti","Conservative","Conservateur",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 428","Toronto",N,N,"",0,392,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35029,"Etobicoke North","Etobicoke-Nord"," 428","Toronto",N,N,"",0,392,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 429","Toronto",N,N,"",1,332,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," 429","Toronto",N,N,"",1,332,"Duncan","","Kirsty","Liberal","Libéral",N,Y,77
+35029,"Etobicoke North","Etobicoke-Nord"," 429","Toronto",N,N,"",1,332,"Lamba","","Priti","Conservative","Conservateur",N,N,13
+35029,"Etobicoke North","Etobicoke-Nord"," 429","Toronto",N,N,"",1,332,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 429","Toronto",N,N,"",1,332,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 500","Mobile poll/Bureau itinérant",N,N,"93",0,91,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 500","Mobile poll/Bureau itinérant",N,N,"93",0,91,"Duncan","","Kirsty","Liberal","Libéral",N,Y,0
+35029,"Etobicoke North","Etobicoke-Nord"," 500","Mobile poll/Bureau itinérant",N,N,"93",0,91,"Lamba","","Priti","Conservative","Conservateur",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 500","Mobile poll/Bureau itinérant",N,N,"93",0,91,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 500","Mobile poll/Bureau itinérant",N,N,"93",0,91,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 501","Mobile poll/Bureau itinérant",N,N,"72",0,87,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 501","Mobile poll/Bureau itinérant",N,N,"72",0,87,"Duncan","","Kirsty","Liberal","Libéral",N,Y,0
+35029,"Etobicoke North","Etobicoke-Nord"," 501","Mobile poll/Bureau itinérant",N,N,"72",0,87,"Lamba","","Priti","Conservative","Conservateur",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 501","Mobile poll/Bureau itinérant",N,N,"72",0,87,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 501","Mobile poll/Bureau itinérant",N,N,"72",0,87,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 502","Mobile poll/Bureau itinérant",N,N,"67",0,216,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 502","Mobile poll/Bureau itinérant",N,N,"67",0,216,"Duncan","","Kirsty","Liberal","Libéral",N,Y,0
+35029,"Etobicoke North","Etobicoke-Nord"," 502","Mobile poll/Bureau itinérant",N,N,"67",0,216,"Lamba","","Priti","Conservative","Conservateur",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 502","Mobile poll/Bureau itinérant",N,N,"67",0,216,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 502","Mobile poll/Bureau itinérant",N,N,"67",0,216,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 503","Mobile poll/Bureau itinérant",N,N,"51",0,92,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 503","Mobile poll/Bureau itinérant",N,N,"51",0,92,"Duncan","","Kirsty","Liberal","Libéral",N,Y,0
+35029,"Etobicoke North","Etobicoke-Nord"," 503","Mobile poll/Bureau itinérant",N,N,"51",0,92,"Lamba","","Priti","Conservative","Conservateur",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 503","Mobile poll/Bureau itinérant",N,N,"51",0,92,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 503","Mobile poll/Bureau itinérant",N,N,"51",0,92,"Royer","","Carol","Independent","Indépendant(e)",N,N,0
+35029,"Etobicoke North","Etobicoke-Nord"," 600","Toronto",N,N,"",10,0,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,27
+35029,"Etobicoke North","Etobicoke-Nord"," 600","Toronto",N,N,"",10,0,"Duncan","","Kirsty","Liberal","Libéral",N,Y,521
+35029,"Etobicoke North","Etobicoke-Nord"," 600","Toronto",N,N,"",10,0,"Lamba","","Priti","Conservative","Conservateur",N,N,116
+35029,"Etobicoke North","Etobicoke-Nord"," 600","Toronto",N,N,"",10,0,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35029,"Etobicoke North","Etobicoke-Nord"," 600","Toronto",N,N,"",10,0,"Royer","","Carol","Independent","Indépendant(e)",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 601","Toronto",N,N,"",11,0,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,31
+35029,"Etobicoke North","Etobicoke-Nord"," 601","Toronto",N,N,"",11,0,"Duncan","","Kirsty","Liberal","Libéral",N,Y,534
+35029,"Etobicoke North","Etobicoke-Nord"," 601","Toronto",N,N,"",11,0,"Lamba","","Priti","Conservative","Conservateur",N,N,247
+35029,"Etobicoke North","Etobicoke-Nord"," 601","Toronto",N,N,"",11,0,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+35029,"Etobicoke North","Etobicoke-Nord"," 601","Toronto",N,N,"",11,0,"Royer","","Carol","Independent","Indépendant(e)",N,N,9
+35029,"Etobicoke North","Etobicoke-Nord"," 602","Toronto",N,N,"",1,0,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,30
+35029,"Etobicoke North","Etobicoke-Nord"," 602","Toronto",N,N,"",1,0,"Duncan","","Kirsty","Liberal","Libéral",N,Y,470
+35029,"Etobicoke North","Etobicoke-Nord"," 602","Toronto",N,N,"",1,0,"Lamba","","Priti","Conservative","Conservateur",N,N,160
+35029,"Etobicoke North","Etobicoke-Nord"," 602","Toronto",N,N,"",1,0,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35029,"Etobicoke North","Etobicoke-Nord"," 602","Toronto",N,N,"",1,0,"Royer","","Carol","Independent","Indépendant(e)",N,N,5
+35029,"Etobicoke North","Etobicoke-Nord"," 603","Toronto",N,N,"",9,0,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,18
+35029,"Etobicoke North","Etobicoke-Nord"," 603","Toronto",N,N,"",9,0,"Duncan","","Kirsty","Liberal","Libéral",N,Y,495
+35029,"Etobicoke North","Etobicoke-Nord"," 603","Toronto",N,N,"",9,0,"Lamba","","Priti","Conservative","Conservateur",N,N,128
+35029,"Etobicoke North","Etobicoke-Nord"," 603","Toronto",N,N,"",9,0,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35029,"Etobicoke North","Etobicoke-Nord"," 603","Toronto",N,N,"",9,0,"Royer","","Carol","Independent","Indépendant(e)",N,N,5
+35029,"Etobicoke North","Etobicoke-Nord"," 604","Toronto",N,N,"",0,0,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,23
+35029,"Etobicoke North","Etobicoke-Nord"," 604","Toronto",N,N,"",0,0,"Duncan","","Kirsty","Liberal","Libéral",N,Y,452
+35029,"Etobicoke North","Etobicoke-Nord"," 604","Toronto",N,N,"",0,0,"Lamba","","Priti","Conservative","Conservateur",N,N,282
+35029,"Etobicoke North","Etobicoke-Nord"," 604","Toronto",N,N,"",0,0,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35029,"Etobicoke North","Etobicoke-Nord"," 604","Toronto",N,N,"",0,0,"Royer","","Carol","Independent","Indépendant(e)",N,N,8
+35029,"Etobicoke North","Etobicoke-Nord"," 605","Toronto",N,N,"",9,0,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,20
+35029,"Etobicoke North","Etobicoke-Nord"," 605","Toronto",N,N,"",9,0,"Duncan","","Kirsty","Liberal","Libéral",N,Y,539
+35029,"Etobicoke North","Etobicoke-Nord"," 605","Toronto",N,N,"",9,0,"Lamba","","Priti","Conservative","Conservateur",N,N,152
+35029,"Etobicoke North","Etobicoke-Nord"," 605","Toronto",N,N,"",9,0,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+35029,"Etobicoke North","Etobicoke-Nord"," 605","Toronto",N,N,"",9,0,"Royer","","Carol","Independent","Indépendant(e)",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 606","Toronto",N,N,"",6,0,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,32
+35029,"Etobicoke North","Etobicoke-Nord"," 606","Toronto",N,N,"",6,0,"Duncan","","Kirsty","Liberal","Libéral",N,Y,671
+35029,"Etobicoke North","Etobicoke-Nord"," 606","Toronto",N,N,"",6,0,"Lamba","","Priti","Conservative","Conservateur",N,N,244
+35029,"Etobicoke North","Etobicoke-Nord"," 606","Toronto",N,N,"",6,0,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,116
+35029,"Etobicoke North","Etobicoke-Nord"," 606","Toronto",N,N,"",6,0,"Royer","","Carol","Independent","Indépendant(e)",N,N,6
+35029,"Etobicoke North","Etobicoke-Nord"," 607","Toronto",N,N,"",4,0,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,36
+35029,"Etobicoke North","Etobicoke-Nord"," 607","Toronto",N,N,"",4,0,"Duncan","","Kirsty","Liberal","Libéral",N,Y,470
+35029,"Etobicoke North","Etobicoke-Nord"," 607","Toronto",N,N,"",4,0,"Lamba","","Priti","Conservative","Conservateur",N,N,278
+35029,"Etobicoke North","Etobicoke-Nord"," 607","Toronto",N,N,"",4,0,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,93
+35029,"Etobicoke North","Etobicoke-Nord"," 607","Toronto",N,N,"",4,0,"Royer","","Carol","Independent","Indépendant(e)",N,N,4
+35029,"Etobicoke North","Etobicoke-Nord"," 608","Toronto",N,N,"",7,0,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,62
+35029,"Etobicoke North","Etobicoke-Nord"," 608","Toronto",N,N,"",7,0,"Duncan","","Kirsty","Liberal","Libéral",N,Y,558
+35029,"Etobicoke North","Etobicoke-Nord"," 608","Toronto",N,N,"",7,0,"Lamba","","Priti","Conservative","Conservateur",N,N,279
+35029,"Etobicoke North","Etobicoke-Nord"," 608","Toronto",N,N,"",7,0,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,87
+35029,"Etobicoke North","Etobicoke-Nord"," 608","Toronto",N,N,"",7,0,"Royer","","Carol","Independent","Indépendant(e)",N,N,9
+35029,"Etobicoke North","Etobicoke-Nord"," 609","Toronto",N,N,"",3,0,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,50
+35029,"Etobicoke North","Etobicoke-Nord"," 609","Toronto",N,N,"",3,0,"Duncan","","Kirsty","Liberal","Libéral",N,Y,390
+35029,"Etobicoke North","Etobicoke-Nord"," 609","Toronto",N,N,"",3,0,"Lamba","","Priti","Conservative","Conservateur",N,N,187
+35029,"Etobicoke North","Etobicoke-Nord"," 609","Toronto",N,N,"",3,0,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+35029,"Etobicoke North","Etobicoke-Nord"," 609","Toronto",N,N,"",3,0,"Royer","","Carol","Independent","Indépendant(e)",N,N,5
+35029,"Etobicoke North","Etobicoke-Nord"," 610","Toronto",N,N,"",0,0,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,51
+35029,"Etobicoke North","Etobicoke-Nord"," 610","Toronto",N,N,"",0,0,"Duncan","","Kirsty","Liberal","Libéral",N,Y,321
+35029,"Etobicoke North","Etobicoke-Nord"," 610","Toronto",N,N,"",0,0,"Lamba","","Priti","Conservative","Conservateur",N,N,164
+35029,"Etobicoke North","Etobicoke-Nord"," 610","Toronto",N,N,"",0,0,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35029,"Etobicoke North","Etobicoke-Nord"," 610","Toronto",N,N,"",0,0,"Royer","","Carol","Independent","Indépendant(e)",N,N,3
+35029,"Etobicoke North","Etobicoke-Nord"," 611","Toronto",N,N,"",4,0,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,49
+35029,"Etobicoke North","Etobicoke-Nord"," 611","Toronto",N,N,"",4,0,"Duncan","","Kirsty","Liberal","Libéral",N,Y,396
+35029,"Etobicoke North","Etobicoke-Nord"," 611","Toronto",N,N,"",4,0,"Lamba","","Priti","Conservative","Conservateur",N,N,279
+35029,"Etobicoke North","Etobicoke-Nord"," 611","Toronto",N,N,"",4,0,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,82
+35029,"Etobicoke North","Etobicoke-Nord"," 611","Toronto",N,N,"",4,0,"Royer","","Carol","Independent","Indépendant(e)",N,N,5
+35029,"Etobicoke North","Etobicoke-Nord"," 612","Toronto",N,N,"",6,0,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,31
+35029,"Etobicoke North","Etobicoke-Nord"," 612","Toronto",N,N,"",6,0,"Duncan","","Kirsty","Liberal","Libéral",N,Y,465
+35029,"Etobicoke North","Etobicoke-Nord"," 612","Toronto",N,N,"",6,0,"Lamba","","Priti","Conservative","Conservateur",N,N,184
+35029,"Etobicoke North","Etobicoke-Nord"," 612","Toronto",N,N,"",6,0,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+35029,"Etobicoke North","Etobicoke-Nord"," 612","Toronto",N,N,"",6,0,"Royer","","Carol","Independent","Indépendant(e)",N,N,8
+35029,"Etobicoke North","Etobicoke-Nord"," 613","Toronto",N,N,"",2,0,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,39
+35029,"Etobicoke North","Etobicoke-Nord"," 613","Toronto",N,N,"",2,0,"Duncan","","Kirsty","Liberal","Libéral",N,Y,532
+35029,"Etobicoke North","Etobicoke-Nord"," 613","Toronto",N,N,"",2,0,"Lamba","","Priti","Conservative","Conservateur",N,N,165
+35029,"Etobicoke North","Etobicoke-Nord"," 613","Toronto",N,N,"",2,0,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35029,"Etobicoke North","Etobicoke-Nord"," 613","Toronto",N,N,"",2,0,"Royer","","Carol","Independent","Indépendant(e)",N,N,5
+35029,"Etobicoke North","Etobicoke-Nord"," 614","Toronto",N,N,"",2,0,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,23
+35029,"Etobicoke North","Etobicoke-Nord"," 614","Toronto",N,N,"",2,0,"Duncan","","Kirsty","Liberal","Libéral",N,Y,126
+35029,"Etobicoke North","Etobicoke-Nord"," 614","Toronto",N,N,"",2,0,"Lamba","","Priti","Conservative","Conservateur",N,N,97
+35029,"Etobicoke North","Etobicoke-Nord"," 614","Toronto",N,N,"",2,0,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35029,"Etobicoke North","Etobicoke-Nord"," 614","Toronto",N,N,"",2,0,"Royer","","Carol","Independent","Indépendant(e)",N,N,1
+35029,"Etobicoke North","Etobicoke-Nord"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",42,149,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,5
+35029,"Etobicoke North","Etobicoke-Nord"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",42,149,"Duncan","","Kirsty","Liberal","Libéral",N,Y,157
+35029,"Etobicoke North","Etobicoke-Nord"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",42,149,"Lamba","","Priti","Conservative","Conservateur",N,N,41
+35029,"Etobicoke North","Etobicoke-Nord"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",42,149,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35029,"Etobicoke North","Etobicoke-Nord"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",42,149,"Royer","","Carol","Independent","Indépendant(e)",N,N,5
+35029,"Etobicoke North","Etobicoke-Nord"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",115,0,"Boutsikakis","","Jim","People's Party - PPC","Parti populaire - PPC",N,N,34
+35029,"Etobicoke North","Etobicoke-Nord"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",115,0,"Duncan","","Kirsty","Liberal","Libéral",N,Y,562
+35029,"Etobicoke North","Etobicoke-Nord"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",115,0,"Lamba","","Priti","Conservative","Conservateur",N,N,258
+35029,"Etobicoke North","Etobicoke-Nord"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",115,0,"Peter","","Cecil","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,128
+35029,"Etobicoke North","Etobicoke-Nord"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",115,0,"Royer","","Carol","Independent","Indépendant(e)",N,N,11

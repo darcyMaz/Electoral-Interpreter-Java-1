@@ -1,0 +1,921 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+46013,"Winnipeg South","Winnipeg-Sud"," 1","Winnipeg",N,N,"",0,426,"Boettcher","","Greg","Green Party","Parti Vert",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 1","Winnipeg",N,N,"",0,426,"Duguid","","Terry","Liberal","Libéral",Y,Y,59
+46013,"Winnipeg South","Winnipeg-Sud"," 1","Winnipeg",N,N,"",0,426,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 1","Winnipeg",N,N,"",0,426,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+46013,"Winnipeg South","Winnipeg-Sud"," 1","Winnipeg",N,N,"",0,426,"Maher","","Melanie","Conservative","Conservateur",N,N,38
+46013,"Winnipeg South","Winnipeg-Sud"," 2","Winnipeg",N,N,"",0,533,"Boettcher","","Greg","Green Party","Parti Vert",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 2","Winnipeg",N,N,"",0,533,"Duguid","","Terry","Liberal","Libéral",Y,Y,94
+46013,"Winnipeg South","Winnipeg-Sud"," 2","Winnipeg",N,N,"",0,533,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,16
+46013,"Winnipeg South","Winnipeg-Sud"," 2","Winnipeg",N,N,"",0,533,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+46013,"Winnipeg South","Winnipeg-Sud"," 2","Winnipeg",N,N,"",0,533,"Maher","","Melanie","Conservative","Conservateur",N,N,40
+46013,"Winnipeg South","Winnipeg-Sud"," 3","Winnipeg",N,N,"",0,370,"Boettcher","","Greg","Green Party","Parti Vert",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 3","Winnipeg",N,N,"",0,370,"Duguid","","Terry","Liberal","Libéral",Y,Y,61
+46013,"Winnipeg South","Winnipeg-Sud"," 3","Winnipeg",N,N,"",0,370,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,17
+46013,"Winnipeg South","Winnipeg-Sud"," 3","Winnipeg",N,N,"",0,370,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+46013,"Winnipeg South","Winnipeg-Sud"," 3","Winnipeg",N,N,"",0,370,"Maher","","Melanie","Conservative","Conservateur",N,N,56
+46013,"Winnipeg South","Winnipeg-Sud"," 4","Winnipeg",N,N,"",1,344,"Boettcher","","Greg","Green Party","Parti Vert",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 4","Winnipeg",N,N,"",1,344,"Duguid","","Terry","Liberal","Libéral",Y,Y,66
+46013,"Winnipeg South","Winnipeg-Sud"," 4","Winnipeg",N,N,"",1,344,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,9
+46013,"Winnipeg South","Winnipeg-Sud"," 4","Winnipeg",N,N,"",1,344,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+46013,"Winnipeg South","Winnipeg-Sud"," 4","Winnipeg",N,N,"",1,344,"Maher","","Melanie","Conservative","Conservateur",N,N,50
+46013,"Winnipeg South","Winnipeg-Sud"," 5","Winnipeg",N,N,"",0,340,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 5","Winnipeg",N,N,"",0,340,"Duguid","","Terry","Liberal","Libéral",Y,Y,65
+46013,"Winnipeg South","Winnipeg-Sud"," 5","Winnipeg",N,N,"",0,340,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,8
+46013,"Winnipeg South","Winnipeg-Sud"," 5","Winnipeg",N,N,"",0,340,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46013,"Winnipeg South","Winnipeg-Sud"," 5","Winnipeg",N,N,"",0,340,"Maher","","Melanie","Conservative","Conservateur",N,N,35
+46013,"Winnipeg South","Winnipeg-Sud"," 6","Winnipeg",N,N,"",1,341,"Boettcher","","Greg","Green Party","Parti Vert",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 6","Winnipeg",N,N,"",1,341,"Duguid","","Terry","Liberal","Libéral",Y,Y,42
+46013,"Winnipeg South","Winnipeg-Sud"," 6","Winnipeg",N,N,"",1,341,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 6","Winnipeg",N,N,"",1,341,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+46013,"Winnipeg South","Winnipeg-Sud"," 6","Winnipeg",N,N,"",1,341,"Maher","","Melanie","Conservative","Conservateur",N,N,31
+46013,"Winnipeg South","Winnipeg-Sud"," 7","Winnipeg",N,N,"",0,418,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 7","Winnipeg",N,N,"",0,418,"Duguid","","Terry","Liberal","Libéral",Y,Y,96
+46013,"Winnipeg South","Winnipeg-Sud"," 7","Winnipeg",N,N,"",0,418,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 7","Winnipeg",N,N,"",0,418,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+46013,"Winnipeg South","Winnipeg-Sud"," 7","Winnipeg",N,N,"",0,418,"Maher","","Melanie","Conservative","Conservateur",N,N,42
+46013,"Winnipeg South","Winnipeg-Sud"," 8","Winnipeg",N,N,"",0,350,"Boettcher","","Greg","Green Party","Parti Vert",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 8","Winnipeg",N,N,"",0,350,"Duguid","","Terry","Liberal","Libéral",Y,Y,36
+46013,"Winnipeg South","Winnipeg-Sud"," 8","Winnipeg",N,N,"",0,350,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 8","Winnipeg",N,N,"",0,350,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+46013,"Winnipeg South","Winnipeg-Sud"," 8","Winnipeg",N,N,"",0,350,"Maher","","Melanie","Conservative","Conservateur",N,N,22
+46013,"Winnipeg South","Winnipeg-Sud"," 9","Winnipeg",N,N,"",0,444,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 9","Winnipeg",N,N,"",0,444,"Duguid","","Terry","Liberal","Libéral",Y,Y,93
+46013,"Winnipeg South","Winnipeg-Sud"," 9","Winnipeg",N,N,"",0,444,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,10
+46013,"Winnipeg South","Winnipeg-Sud"," 9","Winnipeg",N,N,"",0,444,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+46013,"Winnipeg South","Winnipeg-Sud"," 9","Winnipeg",N,N,"",0,444,"Maher","","Melanie","Conservative","Conservateur",N,N,57
+46013,"Winnipeg South","Winnipeg-Sud"," 10","Winnipeg",N,N,"",1,463,"Boettcher","","Greg","Green Party","Parti Vert",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 10","Winnipeg",N,N,"",1,463,"Duguid","","Terry","Liberal","Libéral",Y,Y,89
+46013,"Winnipeg South","Winnipeg-Sud"," 10","Winnipeg",N,N,"",1,463,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,9
+46013,"Winnipeg South","Winnipeg-Sud"," 10","Winnipeg",N,N,"",1,463,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+46013,"Winnipeg South","Winnipeg-Sud"," 10","Winnipeg",N,N,"",1,463,"Maher","","Melanie","Conservative","Conservateur",N,N,63
+46013,"Winnipeg South","Winnipeg-Sud"," 11","Winnipeg",N,N,"",0,358,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 11","Winnipeg",N,N,"",0,358,"Duguid","","Terry","Liberal","Libéral",Y,Y,48
+46013,"Winnipeg South","Winnipeg-Sud"," 11","Winnipeg",N,N,"",0,358,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,11
+46013,"Winnipeg South","Winnipeg-Sud"," 11","Winnipeg",N,N,"",0,358,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46013,"Winnipeg South","Winnipeg-Sud"," 11","Winnipeg",N,N,"",0,358,"Maher","","Melanie","Conservative","Conservateur",N,N,41
+46013,"Winnipeg South","Winnipeg-Sud"," 12","Winnipeg",N,N,"",4,402,"Boettcher","","Greg","Green Party","Parti Vert",N,N,6
+46013,"Winnipeg South","Winnipeg-Sud"," 12","Winnipeg",N,N,"",4,402,"Duguid","","Terry","Liberal","Libéral",Y,Y,89
+46013,"Winnipeg South","Winnipeg-Sud"," 12","Winnipeg",N,N,"",4,402,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,7
+46013,"Winnipeg South","Winnipeg-Sud"," 12","Winnipeg",N,N,"",4,402,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46013,"Winnipeg South","Winnipeg-Sud"," 12","Winnipeg",N,N,"",4,402,"Maher","","Melanie","Conservative","Conservateur",N,N,40
+46013,"Winnipeg South","Winnipeg-Sud"," 13","Winnipeg",N,N,"",1,384,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 13","Winnipeg",N,N,"",1,384,"Duguid","","Terry","Liberal","Libéral",Y,Y,50
+46013,"Winnipeg South","Winnipeg-Sud"," 13","Winnipeg",N,N,"",1,384,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,6
+46013,"Winnipeg South","Winnipeg-Sud"," 13","Winnipeg",N,N,"",1,384,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+46013,"Winnipeg South","Winnipeg-Sud"," 13","Winnipeg",N,N,"",1,384,"Maher","","Melanie","Conservative","Conservateur",N,N,42
+46013,"Winnipeg South","Winnipeg-Sud"," 14","Winnipeg",N,N,"",1,385,"Boettcher","","Greg","Green Party","Parti Vert",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 14","Winnipeg",N,N,"",1,385,"Duguid","","Terry","Liberal","Libéral",Y,Y,65
+46013,"Winnipeg South","Winnipeg-Sud"," 14","Winnipeg",N,N,"",1,385,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 14","Winnipeg",N,N,"",1,385,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46013,"Winnipeg South","Winnipeg-Sud"," 14","Winnipeg",N,N,"",1,385,"Maher","","Melanie","Conservative","Conservateur",N,N,48
+46013,"Winnipeg South","Winnipeg-Sud"," 15","Winnipeg",N,N,"",0,387,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 15","Winnipeg",N,N,"",0,387,"Duguid","","Terry","Liberal","Libéral",Y,Y,74
+46013,"Winnipeg South","Winnipeg-Sud"," 15","Winnipeg",N,N,"",0,387,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 15","Winnipeg",N,N,"",0,387,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+46013,"Winnipeg South","Winnipeg-Sud"," 15","Winnipeg",N,N,"",0,387,"Maher","","Melanie","Conservative","Conservateur",N,N,51
+46013,"Winnipeg South","Winnipeg-Sud"," 16","Winnipeg",N,N,"",0,385,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 16","Winnipeg",N,N,"",0,385,"Duguid","","Terry","Liberal","Libéral",Y,Y,56
+46013,"Winnipeg South","Winnipeg-Sud"," 16","Winnipeg",N,N,"",0,385,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 16","Winnipeg",N,N,"",0,385,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46013,"Winnipeg South","Winnipeg-Sud"," 16","Winnipeg",N,N,"",0,385,"Maher","","Melanie","Conservative","Conservateur",N,N,63
+46013,"Winnipeg South","Winnipeg-Sud"," 17","Winnipeg",N,N,"",4,478,"Boettcher","","Greg","Green Party","Parti Vert",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 17","Winnipeg",N,N,"",4,478,"Duguid","","Terry","Liberal","Libéral",Y,Y,71
+46013,"Winnipeg South","Winnipeg-Sud"," 17","Winnipeg",N,N,"",4,478,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,7
+46013,"Winnipeg South","Winnipeg-Sud"," 17","Winnipeg",N,N,"",4,478,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46013,"Winnipeg South","Winnipeg-Sud"," 17","Winnipeg",N,N,"",4,478,"Maher","","Melanie","Conservative","Conservateur",N,N,43
+46013,"Winnipeg South","Winnipeg-Sud"," 18","Winnipeg",N,N,"",0,417,"Boettcher","","Greg","Green Party","Parti Vert",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 18","Winnipeg",N,N,"",0,417,"Duguid","","Terry","Liberal","Libéral",Y,Y,44
+46013,"Winnipeg South","Winnipeg-Sud"," 18","Winnipeg",N,N,"",0,417,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,6
+46013,"Winnipeg South","Winnipeg-Sud"," 18","Winnipeg",N,N,"",0,417,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+46013,"Winnipeg South","Winnipeg-Sud"," 18","Winnipeg",N,N,"",0,417,"Maher","","Melanie","Conservative","Conservateur",N,N,39
+46013,"Winnipeg South","Winnipeg-Sud"," 19","Winnipeg",N,N,"",1,436,"Boettcher","","Greg","Green Party","Parti Vert",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 19","Winnipeg",N,N,"",1,436,"Duguid","","Terry","Liberal","Libéral",Y,Y,77
+46013,"Winnipeg South","Winnipeg-Sud"," 19","Winnipeg",N,N,"",1,436,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 19","Winnipeg",N,N,"",1,436,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46013,"Winnipeg South","Winnipeg-Sud"," 19","Winnipeg",N,N,"",1,436,"Maher","","Melanie","Conservative","Conservateur",N,N,45
+46013,"Winnipeg South","Winnipeg-Sud"," 20","Winnipeg",N,N,"",1,376,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 20","Winnipeg",N,N,"",1,376,"Duguid","","Terry","Liberal","Libéral",Y,Y,70
+46013,"Winnipeg South","Winnipeg-Sud"," 20","Winnipeg",N,N,"",1,376,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,10
+46013,"Winnipeg South","Winnipeg-Sud"," 20","Winnipeg",N,N,"",1,376,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46013,"Winnipeg South","Winnipeg-Sud"," 20","Winnipeg",N,N,"",1,376,"Maher","","Melanie","Conservative","Conservateur",N,N,39
+46013,"Winnipeg South","Winnipeg-Sud"," 21","Winnipeg",N,N,"",2,485,"Boettcher","","Greg","Green Party","Parti Vert",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 21","Winnipeg",N,N,"",2,485,"Duguid","","Terry","Liberal","Libéral",Y,Y,48
+46013,"Winnipeg South","Winnipeg-Sud"," 21","Winnipeg",N,N,"",2,485,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,8
+46013,"Winnipeg South","Winnipeg-Sud"," 21","Winnipeg",N,N,"",2,485,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46013,"Winnipeg South","Winnipeg-Sud"," 21","Winnipeg",N,N,"",2,485,"Maher","","Melanie","Conservative","Conservateur",N,N,61
+46013,"Winnipeg South","Winnipeg-Sud"," 22","Winnipeg",N,N,"",3,446,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 22","Winnipeg",N,N,"",3,446,"Duguid","","Terry","Liberal","Libéral",Y,Y,78
+46013,"Winnipeg South","Winnipeg-Sud"," 22","Winnipeg",N,N,"",3,446,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,8
+46013,"Winnipeg South","Winnipeg-Sud"," 22","Winnipeg",N,N,"",3,446,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+46013,"Winnipeg South","Winnipeg-Sud"," 22","Winnipeg",N,N,"",3,446,"Maher","","Melanie","Conservative","Conservateur",N,N,36
+46013,"Winnipeg South","Winnipeg-Sud"," 23","Winnipeg",N,N,"",1,494,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 23","Winnipeg",N,N,"",1,494,"Duguid","","Terry","Liberal","Libéral",Y,Y,108
+46013,"Winnipeg South","Winnipeg-Sud"," 23","Winnipeg",N,N,"",1,494,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,8
+46013,"Winnipeg South","Winnipeg-Sud"," 23","Winnipeg",N,N,"",1,494,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+46013,"Winnipeg South","Winnipeg-Sud"," 23","Winnipeg",N,N,"",1,494,"Maher","","Melanie","Conservative","Conservateur",N,N,46
+46013,"Winnipeg South","Winnipeg-Sud"," 24","Winnipeg",N,N,"",0,481,"Boettcher","","Greg","Green Party","Parti Vert",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 24","Winnipeg",N,N,"",0,481,"Duguid","","Terry","Liberal","Libéral",Y,Y,69
+46013,"Winnipeg South","Winnipeg-Sud"," 24","Winnipeg",N,N,"",0,481,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,7
+46013,"Winnipeg South","Winnipeg-Sud"," 24","Winnipeg",N,N,"",0,481,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+46013,"Winnipeg South","Winnipeg-Sud"," 24","Winnipeg",N,N,"",0,481,"Maher","","Melanie","Conservative","Conservateur",N,N,64
+46013,"Winnipeg South","Winnipeg-Sud"," 25","Winnipeg",N,N,"",0,566,"Boettcher","","Greg","Green Party","Parti Vert",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 25","Winnipeg",N,N,"",0,566,"Duguid","","Terry","Liberal","Libéral",Y,Y,71
+46013,"Winnipeg South","Winnipeg-Sud"," 25","Winnipeg",N,N,"",0,566,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,19
+46013,"Winnipeg South","Winnipeg-Sud"," 25","Winnipeg",N,N,"",0,566,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+46013,"Winnipeg South","Winnipeg-Sud"," 25","Winnipeg",N,N,"",0,566,"Maher","","Melanie","Conservative","Conservateur",N,N,51
+46013,"Winnipeg South","Winnipeg-Sud"," 26","Winnipeg",N,N,"",0,457,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 26","Winnipeg",N,N,"",0,457,"Duguid","","Terry","Liberal","Libéral",Y,Y,85
+46013,"Winnipeg South","Winnipeg-Sud"," 26","Winnipeg",N,N,"",0,457,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,10
+46013,"Winnipeg South","Winnipeg-Sud"," 26","Winnipeg",N,N,"",0,457,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46013,"Winnipeg South","Winnipeg-Sud"," 26","Winnipeg",N,N,"",0,457,"Maher","","Melanie","Conservative","Conservateur",N,N,73
+46013,"Winnipeg South","Winnipeg-Sud"," 27","Winnipeg",N,N,"",2,568,"Boettcher","","Greg","Green Party","Parti Vert",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 27","Winnipeg",N,N,"",2,568,"Duguid","","Terry","Liberal","Libéral",Y,Y,99
+46013,"Winnipeg South","Winnipeg-Sud"," 27","Winnipeg",N,N,"",2,568,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,9
+46013,"Winnipeg South","Winnipeg-Sud"," 27","Winnipeg",N,N,"",2,568,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46013,"Winnipeg South","Winnipeg-Sud"," 27","Winnipeg",N,N,"",2,568,"Maher","","Melanie","Conservative","Conservateur",N,N,79
+46013,"Winnipeg South","Winnipeg-Sud"," 28","Winnipeg",N,N,"",2,531,"Boettcher","","Greg","Green Party","Parti Vert",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 28","Winnipeg",N,N,"",2,531,"Duguid","","Terry","Liberal","Libéral",Y,Y,105
+46013,"Winnipeg South","Winnipeg-Sud"," 28","Winnipeg",N,N,"",2,531,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,10
+46013,"Winnipeg South","Winnipeg-Sud"," 28","Winnipeg",N,N,"",2,531,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+46013,"Winnipeg South","Winnipeg-Sud"," 28","Winnipeg",N,N,"",2,531,"Maher","","Melanie","Conservative","Conservateur",N,N,73
+46013,"Winnipeg South","Winnipeg-Sud"," 29","Winnipeg",N,N,"",1,445,"Boettcher","","Greg","Green Party","Parti Vert",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 29","Winnipeg",N,N,"",1,445,"Duguid","","Terry","Liberal","Libéral",Y,Y,75
+46013,"Winnipeg South","Winnipeg-Sud"," 29","Winnipeg",N,N,"",1,445,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 29","Winnipeg",N,N,"",1,445,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46013,"Winnipeg South","Winnipeg-Sud"," 29","Winnipeg",N,N,"",1,445,"Maher","","Melanie","Conservative","Conservateur",N,N,66
+46013,"Winnipeg South","Winnipeg-Sud"," 30","Winnipeg",N,N,"",0,520,"Boettcher","","Greg","Green Party","Parti Vert",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 30","Winnipeg",N,N,"",0,520,"Duguid","","Terry","Liberal","Libéral",Y,Y,91
+46013,"Winnipeg South","Winnipeg-Sud"," 30","Winnipeg",N,N,"",0,520,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 30","Winnipeg",N,N,"",0,520,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46013,"Winnipeg South","Winnipeg-Sud"," 30","Winnipeg",N,N,"",0,520,"Maher","","Melanie","Conservative","Conservateur",N,N,58
+46013,"Winnipeg South","Winnipeg-Sud"," 31","Winnipeg",N,N,"",0,435,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 31","Winnipeg",N,N,"",0,435,"Duguid","","Terry","Liberal","Libéral",Y,Y,94
+46013,"Winnipeg South","Winnipeg-Sud"," 31","Winnipeg",N,N,"",0,435,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,9
+46013,"Winnipeg South","Winnipeg-Sud"," 31","Winnipeg",N,N,"",0,435,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46013,"Winnipeg South","Winnipeg-Sud"," 31","Winnipeg",N,N,"",0,435,"Maher","","Melanie","Conservative","Conservateur",N,N,64
+46013,"Winnipeg South","Winnipeg-Sud"," 32","Winnipeg",N,N,"",0,451,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 32","Winnipeg",N,N,"",0,451,"Duguid","","Terry","Liberal","Libéral",Y,Y,57
+46013,"Winnipeg South","Winnipeg-Sud"," 32","Winnipeg",N,N,"",0,451,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 32","Winnipeg",N,N,"",0,451,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+46013,"Winnipeg South","Winnipeg-Sud"," 32","Winnipeg",N,N,"",0,451,"Maher","","Melanie","Conservative","Conservateur",N,N,12
+46013,"Winnipeg South","Winnipeg-Sud"," 33A","Winnipeg",N,N,"",2,297,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 33A","Winnipeg",N,N,"",2,297,"Duguid","","Terry","Liberal","Libéral",Y,Y,28
+46013,"Winnipeg South","Winnipeg-Sud"," 33A","Winnipeg",N,N,"",2,297,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 33A","Winnipeg",N,N,"",2,297,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46013,"Winnipeg South","Winnipeg-Sud"," 33A","Winnipeg",N,N,"",2,297,"Maher","","Melanie","Conservative","Conservateur",N,N,19
+46013,"Winnipeg South","Winnipeg-Sud"," 33B","Winnipeg",N,N,"",0,323,"Boettcher","","Greg","Green Party","Parti Vert",N,N,8
+46013,"Winnipeg South","Winnipeg-Sud"," 33B","Winnipeg",N,N,"",0,323,"Duguid","","Terry","Liberal","Libéral",Y,Y,44
+46013,"Winnipeg South","Winnipeg-Sud"," 33B","Winnipeg",N,N,"",0,323,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 33B","Winnipeg",N,N,"",0,323,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46013,"Winnipeg South","Winnipeg-Sud"," 33B","Winnipeg",N,N,"",0,323,"Maher","","Melanie","Conservative","Conservateur",N,N,29
+46013,"Winnipeg South","Winnipeg-Sud"," 34A","Winnipeg",N,N,"",0,351,"Boettcher","","Greg","Green Party","Parti Vert",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 34A","Winnipeg",N,N,"",0,351,"Duguid","","Terry","Liberal","Libéral",Y,Y,52
+46013,"Winnipeg South","Winnipeg-Sud"," 34A","Winnipeg",N,N,"",0,351,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,9
+46013,"Winnipeg South","Winnipeg-Sud"," 34A","Winnipeg",N,N,"",0,351,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46013,"Winnipeg South","Winnipeg-Sud"," 34A","Winnipeg",N,N,"",0,351,"Maher","","Melanie","Conservative","Conservateur",N,N,40
+46013,"Winnipeg South","Winnipeg-Sud"," 34B","Winnipeg",N,N,"",0,133,"Boettcher","","Greg","Green Party","Parti Vert",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 34B","Winnipeg",N,N,"",0,133,"Duguid","","Terry","Liberal","Libéral",Y,Y,60
+46013,"Winnipeg South","Winnipeg-Sud"," 34B","Winnipeg",N,N,"",0,133,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 34B","Winnipeg",N,N,"",0,133,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 34B","Winnipeg",N,N,"",0,133,"Maher","","Melanie","Conservative","Conservateur",N,N,25
+46013,"Winnipeg South","Winnipeg-Sud"," 35","Winnipeg",N,N,"",0,295,"Boettcher","","Greg","Green Party","Parti Vert",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 35","Winnipeg",N,N,"",0,295,"Duguid","","Terry","Liberal","Libéral",Y,Y,46
+46013,"Winnipeg South","Winnipeg-Sud"," 35","Winnipeg",N,N,"",0,295,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 35","Winnipeg",N,N,"",0,295,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+46013,"Winnipeg South","Winnipeg-Sud"," 35","Winnipeg",N,N,"",0,295,"Maher","","Melanie","Conservative","Conservateur",N,N,34
+46013,"Winnipeg South","Winnipeg-Sud"," 36","Winnipeg",N,N,"",0,303,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 36","Winnipeg",N,N,"",0,303,"Duguid","","Terry","Liberal","Libéral",Y,Y,47
+46013,"Winnipeg South","Winnipeg-Sud"," 36","Winnipeg",N,N,"",0,303,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 36","Winnipeg",N,N,"",0,303,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46013,"Winnipeg South","Winnipeg-Sud"," 36","Winnipeg",N,N,"",0,303,"Maher","","Melanie","Conservative","Conservateur",N,N,43
+46013,"Winnipeg South","Winnipeg-Sud"," 37","Winnipeg",N,N,"",0,399,"Boettcher","","Greg","Green Party","Parti Vert",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 37","Winnipeg",N,N,"",0,399,"Duguid","","Terry","Liberal","Libéral",Y,Y,86
+46013,"Winnipeg South","Winnipeg-Sud"," 37","Winnipeg",N,N,"",0,399,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 37","Winnipeg",N,N,"",0,399,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+46013,"Winnipeg South","Winnipeg-Sud"," 37","Winnipeg",N,N,"",0,399,"Maher","","Melanie","Conservative","Conservateur",N,N,32
+46013,"Winnipeg South","Winnipeg-Sud"," 38","Winnipeg",N,N,"",0,381,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 38","Winnipeg",N,N,"",0,381,"Duguid","","Terry","Liberal","Libéral",Y,Y,64
+46013,"Winnipeg South","Winnipeg-Sud"," 38","Winnipeg",N,N,"",0,381,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 38","Winnipeg",N,N,"",0,381,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46013,"Winnipeg South","Winnipeg-Sud"," 38","Winnipeg",N,N,"",0,381,"Maher","","Melanie","Conservative","Conservateur",N,N,72
+46013,"Winnipeg South","Winnipeg-Sud"," 39","Winnipeg",N,N,"",0,395,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 39","Winnipeg",N,N,"",0,395,"Duguid","","Terry","Liberal","Libéral",Y,Y,42
+46013,"Winnipeg South","Winnipeg-Sud"," 39","Winnipeg",N,N,"",0,395,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 39","Winnipeg",N,N,"",0,395,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 39","Winnipeg",N,N,"",0,395,"Maher","","Melanie","Conservative","Conservateur",N,N,42
+46013,"Winnipeg South","Winnipeg-Sud"," 40","Winnipeg",N,N,"",2,348,"Boettcher","","Greg","Green Party","Parti Vert",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 40","Winnipeg",N,N,"",2,348,"Duguid","","Terry","Liberal","Libéral",Y,Y,46
+46013,"Winnipeg South","Winnipeg-Sud"," 40","Winnipeg",N,N,"",2,348,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 40","Winnipeg",N,N,"",2,348,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+46013,"Winnipeg South","Winnipeg-Sud"," 40","Winnipeg",N,N,"",2,348,"Maher","","Melanie","Conservative","Conservateur",N,N,83
+46013,"Winnipeg South","Winnipeg-Sud"," 41","Winnipeg",N,N,"",0,666,"Boettcher","","Greg","Green Party","Parti Vert",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 41","Winnipeg",N,N,"",0,666,"Duguid","","Terry","Liberal","Libéral",Y,Y,112
+46013,"Winnipeg South","Winnipeg-Sud"," 41","Winnipeg",N,N,"",0,666,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,9
+46013,"Winnipeg South","Winnipeg-Sud"," 41","Winnipeg",N,N,"",0,666,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+46013,"Winnipeg South","Winnipeg-Sud"," 41","Winnipeg",N,N,"",0,666,"Maher","","Melanie","Conservative","Conservateur",N,N,76
+46013,"Winnipeg South","Winnipeg-Sud"," 42A","Winnipeg",N,N,"",0,454,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 42A","Winnipeg",N,N,"",0,454,"Duguid","","Terry","Liberal","Libéral",Y,Y,83
+46013,"Winnipeg South","Winnipeg-Sud"," 42A","Winnipeg",N,N,"",0,454,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 42A","Winnipeg",N,N,"",0,454,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46013,"Winnipeg South","Winnipeg-Sud"," 42A","Winnipeg",N,N,"",0,454,"Maher","","Melanie","Conservative","Conservateur",N,N,53
+46013,"Winnipeg South","Winnipeg-Sud"," 42B","Winnipeg",N,N,"",0,413,"Boettcher","","Greg","Green Party","Parti Vert",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 42B","Winnipeg",N,N,"",0,413,"Duguid","","Terry","Liberal","Libéral",Y,Y,62
+46013,"Winnipeg South","Winnipeg-Sud"," 42B","Winnipeg",N,N,"",0,413,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 42B","Winnipeg",N,N,"",0,413,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46013,"Winnipeg South","Winnipeg-Sud"," 42B","Winnipeg",N,N,"",0,413,"Maher","","Melanie","Conservative","Conservateur",N,N,56
+46013,"Winnipeg South","Winnipeg-Sud"," 43","Winnipeg",N,N,"",0,403,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 43","Winnipeg",N,N,"",0,403,"Duguid","","Terry","Liberal","Libéral",Y,Y,80
+46013,"Winnipeg South","Winnipeg-Sud"," 43","Winnipeg",N,N,"",0,403,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,9
+46013,"Winnipeg South","Winnipeg-Sud"," 43","Winnipeg",N,N,"",0,403,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46013,"Winnipeg South","Winnipeg-Sud"," 43","Winnipeg",N,N,"",0,403,"Maher","","Melanie","Conservative","Conservateur",N,N,38
+46013,"Winnipeg South","Winnipeg-Sud"," 44","Winnipeg",N,N,"",1,469,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 44","Winnipeg",N,N,"",1,469,"Duguid","","Terry","Liberal","Libéral",Y,Y,66
+46013,"Winnipeg South","Winnipeg-Sud"," 44","Winnipeg",N,N,"",1,469,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,6
+46013,"Winnipeg South","Winnipeg-Sud"," 44","Winnipeg",N,N,"",1,469,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+46013,"Winnipeg South","Winnipeg-Sud"," 44","Winnipeg",N,N,"",1,469,"Maher","","Melanie","Conservative","Conservateur",N,N,58
+46013,"Winnipeg South","Winnipeg-Sud"," 45","Winnipeg",N,N,"",1,345,"Boettcher","","Greg","Green Party","Parti Vert",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 45","Winnipeg",N,N,"",1,345,"Duguid","","Terry","Liberal","Libéral",Y,Y,53
+46013,"Winnipeg South","Winnipeg-Sud"," 45","Winnipeg",N,N,"",1,345,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 45","Winnipeg",N,N,"",1,345,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46013,"Winnipeg South","Winnipeg-Sud"," 45","Winnipeg",N,N,"",1,345,"Maher","","Melanie","Conservative","Conservateur",N,N,44
+46013,"Winnipeg South","Winnipeg-Sud"," 46","Winnipeg",N,N,"",2,400,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 46","Winnipeg",N,N,"",2,400,"Duguid","","Terry","Liberal","Libéral",Y,Y,103
+46013,"Winnipeg South","Winnipeg-Sud"," 46","Winnipeg",N,N,"",2,400,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 46","Winnipeg",N,N,"",2,400,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46013,"Winnipeg South","Winnipeg-Sud"," 46","Winnipeg",N,N,"",2,400,"Maher","","Melanie","Conservative","Conservateur",N,N,42
+46013,"Winnipeg South","Winnipeg-Sud"," 47","Winnipeg",N,N,"",0,320,"Boettcher","","Greg","Green Party","Parti Vert",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 47","Winnipeg",N,N,"",0,320,"Duguid","","Terry","Liberal","Libéral",Y,Y,62
+46013,"Winnipeg South","Winnipeg-Sud"," 47","Winnipeg",N,N,"",0,320,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,7
+46013,"Winnipeg South","Winnipeg-Sud"," 47","Winnipeg",N,N,"",0,320,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46013,"Winnipeg South","Winnipeg-Sud"," 47","Winnipeg",N,N,"",0,320,"Maher","","Melanie","Conservative","Conservateur",N,N,39
+46013,"Winnipeg South","Winnipeg-Sud"," 48","Winnipeg",N,N,"",0,542,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 48","Winnipeg",N,N,"",0,542,"Duguid","","Terry","Liberal","Libéral",Y,Y,120
+46013,"Winnipeg South","Winnipeg-Sud"," 48","Winnipeg",N,N,"",0,542,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 48","Winnipeg",N,N,"",0,542,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+46013,"Winnipeg South","Winnipeg-Sud"," 48","Winnipeg",N,N,"",0,542,"Maher","","Melanie","Conservative","Conservateur",N,N,64
+46013,"Winnipeg South","Winnipeg-Sud"," 49","Winnipeg",N,N,"",0,499,"Boettcher","","Greg","Green Party","Parti Vert",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 49","Winnipeg",N,N,"",0,499,"Duguid","","Terry","Liberal","Libéral",Y,Y,100
+46013,"Winnipeg South","Winnipeg-Sud"," 49","Winnipeg",N,N,"",0,499,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,10
+46013,"Winnipeg South","Winnipeg-Sud"," 49","Winnipeg",N,N,"",0,499,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+46013,"Winnipeg South","Winnipeg-Sud"," 49","Winnipeg",N,N,"",0,499,"Maher","","Melanie","Conservative","Conservateur",N,N,62
+46013,"Winnipeg South","Winnipeg-Sud"," 50","Winnipeg",N,N,"",0,340,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 50","Winnipeg",N,N,"",0,340,"Duguid","","Terry","Liberal","Libéral",Y,Y,71
+46013,"Winnipeg South","Winnipeg-Sud"," 50","Winnipeg",N,N,"",0,340,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,6
+46013,"Winnipeg South","Winnipeg-Sud"," 50","Winnipeg",N,N,"",0,340,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+46013,"Winnipeg South","Winnipeg-Sud"," 50","Winnipeg",N,N,"",0,340,"Maher","","Melanie","Conservative","Conservateur",N,N,32
+46013,"Winnipeg South","Winnipeg-Sud"," 51","Winnipeg",N,N,"",0,369,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 51","Winnipeg",N,N,"",0,369,"Duguid","","Terry","Liberal","Libéral",Y,Y,79
+46013,"Winnipeg South","Winnipeg-Sud"," 51","Winnipeg",N,N,"",0,369,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,8
+46013,"Winnipeg South","Winnipeg-Sud"," 51","Winnipeg",N,N,"",0,369,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+46013,"Winnipeg South","Winnipeg-Sud"," 51","Winnipeg",N,N,"",0,369,"Maher","","Melanie","Conservative","Conservateur",N,N,36
+46013,"Winnipeg South","Winnipeg-Sud"," 52","Winnipeg",N,N,"",0,432,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 52","Winnipeg",N,N,"",0,432,"Duguid","","Terry","Liberal","Libéral",Y,Y,75
+46013,"Winnipeg South","Winnipeg-Sud"," 52","Winnipeg",N,N,"",0,432,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 52","Winnipeg",N,N,"",0,432,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+46013,"Winnipeg South","Winnipeg-Sud"," 52","Winnipeg",N,N,"",0,432,"Maher","","Melanie","Conservative","Conservateur",N,N,44
+46013,"Winnipeg South","Winnipeg-Sud"," 53","Winnipeg",N,N,"",0,425,"Boettcher","","Greg","Green Party","Parti Vert",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 53","Winnipeg",N,N,"",0,425,"Duguid","","Terry","Liberal","Libéral",Y,Y,85
+46013,"Winnipeg South","Winnipeg-Sud"," 53","Winnipeg",N,N,"",0,425,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 53","Winnipeg",N,N,"",0,425,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+46013,"Winnipeg South","Winnipeg-Sud"," 53","Winnipeg",N,N,"",0,425,"Maher","","Melanie","Conservative","Conservateur",N,N,52
+46013,"Winnipeg South","Winnipeg-Sud"," 54","Winnipeg",N,N,"",0,321,"Boettcher","","Greg","Green Party","Parti Vert",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 54","Winnipeg",N,N,"",0,321,"Duguid","","Terry","Liberal","Libéral",Y,Y,63
+46013,"Winnipeg South","Winnipeg-Sud"," 54","Winnipeg",N,N,"",0,321,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,8
+46013,"Winnipeg South","Winnipeg-Sud"," 54","Winnipeg",N,N,"",0,321,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46013,"Winnipeg South","Winnipeg-Sud"," 54","Winnipeg",N,N,"",0,321,"Maher","","Melanie","Conservative","Conservateur",N,N,44
+46013,"Winnipeg South","Winnipeg-Sud"," 55","Winnipeg",N,N,"",0,547,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 55","Winnipeg",N,N,"",0,547,"Duguid","","Terry","Liberal","Libéral",Y,Y,80
+46013,"Winnipeg South","Winnipeg-Sud"," 55","Winnipeg",N,N,"",0,547,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 55","Winnipeg",N,N,"",0,547,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+46013,"Winnipeg South","Winnipeg-Sud"," 55","Winnipeg",N,N,"",0,547,"Maher","","Melanie","Conservative","Conservateur",N,N,82
+46013,"Winnipeg South","Winnipeg-Sud"," 56","Winnipeg",N,N,"",0,533,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 56","Winnipeg",N,N,"",0,533,"Duguid","","Terry","Liberal","Libéral",Y,Y,99
+46013,"Winnipeg South","Winnipeg-Sud"," 56","Winnipeg",N,N,"",0,533,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,9
+46013,"Winnipeg South","Winnipeg-Sud"," 56","Winnipeg",N,N,"",0,533,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+46013,"Winnipeg South","Winnipeg-Sud"," 56","Winnipeg",N,N,"",0,533,"Maher","","Melanie","Conservative","Conservateur",N,N,77
+46013,"Winnipeg South","Winnipeg-Sud"," 57","Winnipeg",N,N,"",0,466,"Boettcher","","Greg","Green Party","Parti Vert",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 57","Winnipeg",N,N,"",0,466,"Duguid","","Terry","Liberal","Libéral",Y,Y,84
+46013,"Winnipeg South","Winnipeg-Sud"," 57","Winnipeg",N,N,"",0,466,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,13
+46013,"Winnipeg South","Winnipeg-Sud"," 57","Winnipeg",N,N,"",0,466,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46013,"Winnipeg South","Winnipeg-Sud"," 57","Winnipeg",N,N,"",0,466,"Maher","","Melanie","Conservative","Conservateur",N,N,61
+46013,"Winnipeg South","Winnipeg-Sud"," 58","Winnipeg",N,N,"",0,426,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 58","Winnipeg",N,N,"",0,426,"Duguid","","Terry","Liberal","Libéral",Y,Y,84
+46013,"Winnipeg South","Winnipeg-Sud"," 58","Winnipeg",N,N,"",0,426,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 58","Winnipeg",N,N,"",0,426,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46013,"Winnipeg South","Winnipeg-Sud"," 58","Winnipeg",N,N,"",0,426,"Maher","","Melanie","Conservative","Conservateur",N,N,102
+46013,"Winnipeg South","Winnipeg-Sud"," 59","Winnipeg",N,N,"",0,433,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 59","Winnipeg",N,N,"",0,433,"Duguid","","Terry","Liberal","Libéral",Y,Y,93
+46013,"Winnipeg South","Winnipeg-Sud"," 59","Winnipeg",N,N,"",0,433,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 59","Winnipeg",N,N,"",0,433,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+46013,"Winnipeg South","Winnipeg-Sud"," 59","Winnipeg",N,N,"",0,433,"Maher","","Melanie","Conservative","Conservateur",N,N,86
+46013,"Winnipeg South","Winnipeg-Sud"," 60","Winnipeg",N,N,"",0,356,"Boettcher","","Greg","Green Party","Parti Vert",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 60","Winnipeg",N,N,"",0,356,"Duguid","","Terry","Liberal","Libéral",Y,Y,73
+46013,"Winnipeg South","Winnipeg-Sud"," 60","Winnipeg",N,N,"",0,356,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 60","Winnipeg",N,N,"",0,356,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46013,"Winnipeg South","Winnipeg-Sud"," 60","Winnipeg",N,N,"",0,356,"Maher","","Melanie","Conservative","Conservateur",N,N,53
+46013,"Winnipeg South","Winnipeg-Sud"," 61A","Winnipeg",N,N,"",0,423,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 61A","Winnipeg",N,N,"",0,423,"Duguid","","Terry","Liberal","Libéral",Y,Y,64
+46013,"Winnipeg South","Winnipeg-Sud"," 61A","Winnipeg",N,N,"",0,423,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,6
+46013,"Winnipeg South","Winnipeg-Sud"," 61A","Winnipeg",N,N,"",0,423,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+46013,"Winnipeg South","Winnipeg-Sud"," 61A","Winnipeg",N,N,"",0,423,"Maher","","Melanie","Conservative","Conservateur",N,N,53
+46013,"Winnipeg South","Winnipeg-Sud"," 61B","Winnipeg",N,N,"",0,415,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 61B","Winnipeg",N,N,"",0,415,"Duguid","","Terry","Liberal","Libéral",Y,Y,64
+46013,"Winnipeg South","Winnipeg-Sud"," 61B","Winnipeg",N,N,"",0,415,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,6
+46013,"Winnipeg South","Winnipeg-Sud"," 61B","Winnipeg",N,N,"",0,415,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46013,"Winnipeg South","Winnipeg-Sud"," 61B","Winnipeg",N,N,"",0,415,"Maher","","Melanie","Conservative","Conservateur",N,N,67
+46013,"Winnipeg South","Winnipeg-Sud"," 62","Winnipeg",N,N,"",0,488,"Boettcher","","Greg","Green Party","Parti Vert",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 62","Winnipeg",N,N,"",0,488,"Duguid","","Terry","Liberal","Libéral",Y,Y,109
+46013,"Winnipeg South","Winnipeg-Sud"," 62","Winnipeg",N,N,"",0,488,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,13
+46013,"Winnipeg South","Winnipeg-Sud"," 62","Winnipeg",N,N,"",0,488,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+46013,"Winnipeg South","Winnipeg-Sud"," 62","Winnipeg",N,N,"",0,488,"Maher","","Melanie","Conservative","Conservateur",N,N,61
+46013,"Winnipeg South","Winnipeg-Sud"," 63","Winnipeg",N,N,"",1,414,"Boettcher","","Greg","Green Party","Parti Vert",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 63","Winnipeg",N,N,"",1,414,"Duguid","","Terry","Liberal","Libéral",Y,Y,78
+46013,"Winnipeg South","Winnipeg-Sud"," 63","Winnipeg",N,N,"",1,414,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 63","Winnipeg",N,N,"",1,414,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46013,"Winnipeg South","Winnipeg-Sud"," 63","Winnipeg",N,N,"",1,414,"Maher","","Melanie","Conservative","Conservateur",N,N,66
+46013,"Winnipeg South","Winnipeg-Sud"," 64","Winnipeg",N,N,"",1,646,"Boettcher","","Greg","Green Party","Parti Vert",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 64","Winnipeg",N,N,"",1,646,"Duguid","","Terry","Liberal","Libéral",Y,Y,121
+46013,"Winnipeg South","Winnipeg-Sud"," 64","Winnipeg",N,N,"",1,646,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,10
+46013,"Winnipeg South","Winnipeg-Sud"," 64","Winnipeg",N,N,"",1,646,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46013,"Winnipeg South","Winnipeg-Sud"," 64","Winnipeg",N,N,"",1,646,"Maher","","Melanie","Conservative","Conservateur",N,N,65
+46013,"Winnipeg South","Winnipeg-Sud"," 65","Winnipeg",N,N,"",0,379,"Boettcher","","Greg","Green Party","Parti Vert",N,N,6
+46013,"Winnipeg South","Winnipeg-Sud"," 65","Winnipeg",N,N,"",0,379,"Duguid","","Terry","Liberal","Libéral",Y,Y,51
+46013,"Winnipeg South","Winnipeg-Sud"," 65","Winnipeg",N,N,"",0,379,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,8
+46013,"Winnipeg South","Winnipeg-Sud"," 65","Winnipeg",N,N,"",0,379,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+46013,"Winnipeg South","Winnipeg-Sud"," 65","Winnipeg",N,N,"",0,379,"Maher","","Melanie","Conservative","Conservateur",N,N,35
+46013,"Winnipeg South","Winnipeg-Sud"," 66","Winnipeg",N,N,"",1,409,"Boettcher","","Greg","Green Party","Parti Vert",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 66","Winnipeg",N,N,"",1,409,"Duguid","","Terry","Liberal","Libéral",Y,Y,73
+46013,"Winnipeg South","Winnipeg-Sud"," 66","Winnipeg",N,N,"",1,409,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 66","Winnipeg",N,N,"",1,409,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46013,"Winnipeg South","Winnipeg-Sud"," 66","Winnipeg",N,N,"",1,409,"Maher","","Melanie","Conservative","Conservateur",N,N,61
+46013,"Winnipeg South","Winnipeg-Sud"," 67","Winnipeg",N,N,"",1,504,"Boettcher","","Greg","Green Party","Parti Vert",N,N,7
+46013,"Winnipeg South","Winnipeg-Sud"," 67","Winnipeg",N,N,"",1,504,"Duguid","","Terry","Liberal","Libéral",Y,Y,99
+46013,"Winnipeg South","Winnipeg-Sud"," 67","Winnipeg",N,N,"",1,504,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 67","Winnipeg",N,N,"",1,504,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+46013,"Winnipeg South","Winnipeg-Sud"," 67","Winnipeg",N,N,"",1,504,"Maher","","Melanie","Conservative","Conservateur",N,N,64
+46013,"Winnipeg South","Winnipeg-Sud"," 68","Winnipeg",N,N,"",4,545,"Boettcher","","Greg","Green Party","Parti Vert",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 68","Winnipeg",N,N,"",4,545,"Duguid","","Terry","Liberal","Libéral",Y,Y,127
+46013,"Winnipeg South","Winnipeg-Sud"," 68","Winnipeg",N,N,"",4,545,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 68","Winnipeg",N,N,"",4,545,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+46013,"Winnipeg South","Winnipeg-Sud"," 68","Winnipeg",N,N,"",4,545,"Maher","","Melanie","Conservative","Conservateur",N,N,64
+46013,"Winnipeg South","Winnipeg-Sud"," 69","Winnipeg",N,N,"",1,350,"Boettcher","","Greg","Green Party","Parti Vert",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 69","Winnipeg",N,N,"",1,350,"Duguid","","Terry","Liberal","Libéral",Y,Y,63
+46013,"Winnipeg South","Winnipeg-Sud"," 69","Winnipeg",N,N,"",1,350,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 69","Winnipeg",N,N,"",1,350,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46013,"Winnipeg South","Winnipeg-Sud"," 69","Winnipeg",N,N,"",1,350,"Maher","","Melanie","Conservative","Conservateur",N,N,47
+46013,"Winnipeg South","Winnipeg-Sud"," 70A","Winnipeg",N,N,"",1,312,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 70A","Winnipeg",N,N,"",1,312,"Duguid","","Terry","Liberal","Libéral",Y,Y,85
+46013,"Winnipeg South","Winnipeg-Sud"," 70A","Winnipeg",N,N,"",1,312,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 70A","Winnipeg",N,N,"",1,312,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46013,"Winnipeg South","Winnipeg-Sud"," 70A","Winnipeg",N,N,"",1,312,"Maher","","Melanie","Conservative","Conservateur",N,N,38
+46013,"Winnipeg South","Winnipeg-Sud"," 70B","Winnipeg",N,N,"",0,307,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 70B","Winnipeg",N,N,"",0,307,"Duguid","","Terry","Liberal","Libéral",Y,Y,54
+46013,"Winnipeg South","Winnipeg-Sud"," 70B","Winnipeg",N,N,"",0,307,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 70B","Winnipeg",N,N,"",0,307,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46013,"Winnipeg South","Winnipeg-Sud"," 70B","Winnipeg",N,N,"",0,307,"Maher","","Melanie","Conservative","Conservateur",N,N,53
+46013,"Winnipeg South","Winnipeg-Sud"," 71A","Winnipeg",N,N,"",0,439,"Boettcher","","Greg","Green Party","Parti Vert",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 71A","Winnipeg",N,N,"",0,439,"Duguid","","Terry","Liberal","Libéral",Y,Y,91
+46013,"Winnipeg South","Winnipeg-Sud"," 71A","Winnipeg",N,N,"",0,439,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,7
+46013,"Winnipeg South","Winnipeg-Sud"," 71A","Winnipeg",N,N,"",0,439,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+46013,"Winnipeg South","Winnipeg-Sud"," 71A","Winnipeg",N,N,"",0,439,"Maher","","Melanie","Conservative","Conservateur",N,N,54
+46013,"Winnipeg South","Winnipeg-Sud"," 71B","Winnipeg",N,N,"",0,169,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 71B","Winnipeg",N,N,"",0,169,"Duguid","","Terry","Liberal","Libéral",Y,Y,55
+46013,"Winnipeg South","Winnipeg-Sud"," 71B","Winnipeg",N,N,"",0,169,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 71B","Winnipeg",N,N,"",0,169,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+46013,"Winnipeg South","Winnipeg-Sud"," 71B","Winnipeg",N,N,"",0,169,"Maher","","Melanie","Conservative","Conservateur",N,N,45
+46013,"Winnipeg South","Winnipeg-Sud"," 72","Winnipeg",N,N,"",1,480,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 72","Winnipeg",N,N,"",1,480,"Duguid","","Terry","Liberal","Libéral",Y,Y,93
+46013,"Winnipeg South","Winnipeg-Sud"," 72","Winnipeg",N,N,"",1,480,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 72","Winnipeg",N,N,"",1,480,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+46013,"Winnipeg South","Winnipeg-Sud"," 72","Winnipeg",N,N,"",1,480,"Maher","","Melanie","Conservative","Conservateur",N,N,57
+46013,"Winnipeg South","Winnipeg-Sud"," 73A","Winnipeg",N,N,"",2,455,"Boettcher","","Greg","Green Party","Parti Vert",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 73A","Winnipeg",N,N,"",2,455,"Duguid","","Terry","Liberal","Libéral",Y,Y,97
+46013,"Winnipeg South","Winnipeg-Sud"," 73A","Winnipeg",N,N,"",2,455,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 73A","Winnipeg",N,N,"",2,455,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46013,"Winnipeg South","Winnipeg-Sud"," 73A","Winnipeg",N,N,"",2,455,"Maher","","Melanie","Conservative","Conservateur",N,N,81
+46013,"Winnipeg South","Winnipeg-Sud"," 73B","Winnipeg",N,N,"",0,443,"Boettcher","","Greg","Green Party","Parti Vert",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 73B","Winnipeg",N,N,"",0,443,"Duguid","","Terry","Liberal","Libéral",Y,Y,110
+46013,"Winnipeg South","Winnipeg-Sud"," 73B","Winnipeg",N,N,"",0,443,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,6
+46013,"Winnipeg South","Winnipeg-Sud"," 73B","Winnipeg",N,N,"",0,443,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+46013,"Winnipeg South","Winnipeg-Sud"," 73B","Winnipeg",N,N,"",0,443,"Maher","","Melanie","Conservative","Conservateur",N,N,89
+46013,"Winnipeg South","Winnipeg-Sud"," 74","Winnipeg",N,N,"",2,553,"Boettcher","","Greg","Green Party","Parti Vert",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 74","Winnipeg",N,N,"",2,553,"Duguid","","Terry","Liberal","Libéral",Y,Y,107
+46013,"Winnipeg South","Winnipeg-Sud"," 74","Winnipeg",N,N,"",2,553,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,8
+46013,"Winnipeg South","Winnipeg-Sud"," 74","Winnipeg",N,N,"",2,553,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+46013,"Winnipeg South","Winnipeg-Sud"," 74","Winnipeg",N,N,"",2,553,"Maher","","Melanie","Conservative","Conservateur",N,N,44
+46013,"Winnipeg South","Winnipeg-Sud"," 75","Winnipeg",N,N,"",0,441,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 75","Winnipeg",N,N,"",0,441,"Duguid","","Terry","Liberal","Libéral",Y,Y,86
+46013,"Winnipeg South","Winnipeg-Sud"," 75","Winnipeg",N,N,"",0,441,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 75","Winnipeg",N,N,"",0,441,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+46013,"Winnipeg South","Winnipeg-Sud"," 75","Winnipeg",N,N,"",0,441,"Maher","","Melanie","Conservative","Conservateur",N,N,63
+46013,"Winnipeg South","Winnipeg-Sud"," 76","Winnipeg",N,N,"",0,429,"Boettcher","","Greg","Green Party","Parti Vert",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 76","Winnipeg",N,N,"",0,429,"Duguid","","Terry","Liberal","Libéral",Y,Y,79
+46013,"Winnipeg South","Winnipeg-Sud"," 76","Winnipeg",N,N,"",0,429,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 76","Winnipeg",N,N,"",0,429,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46013,"Winnipeg South","Winnipeg-Sud"," 76","Winnipeg",N,N,"",0,429,"Maher","","Melanie","Conservative","Conservateur",N,N,66
+46013,"Winnipeg South","Winnipeg-Sud"," 77","Winnipeg",N,N,"",0,476,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 77","Winnipeg",N,N,"",0,476,"Duguid","","Terry","Liberal","Libéral",Y,Y,87
+46013,"Winnipeg South","Winnipeg-Sud"," 77","Winnipeg",N,N,"",0,476,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 77","Winnipeg",N,N,"",0,476,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46013,"Winnipeg South","Winnipeg-Sud"," 77","Winnipeg",N,N,"",0,476,"Maher","","Melanie","Conservative","Conservateur",N,N,41
+46013,"Winnipeg South","Winnipeg-Sud"," 78","Winnipeg",N,N,"",0,325,"Boettcher","","Greg","Green Party","Parti Vert",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 78","Winnipeg",N,N,"",0,325,"Duguid","","Terry","Liberal","Libéral",Y,Y,61
+46013,"Winnipeg South","Winnipeg-Sud"," 78","Winnipeg",N,N,"",0,325,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 78","Winnipeg",N,N,"",0,325,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46013,"Winnipeg South","Winnipeg-Sud"," 78","Winnipeg",N,N,"",0,325,"Maher","","Melanie","Conservative","Conservateur",N,N,40
+46013,"Winnipeg South","Winnipeg-Sud"," 79","Winnipeg",N,N,"",1,381,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 79","Winnipeg",N,N,"",1,381,"Duguid","","Terry","Liberal","Libéral",Y,Y,67
+46013,"Winnipeg South","Winnipeg-Sud"," 79","Winnipeg",N,N,"",1,381,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,9
+46013,"Winnipeg South","Winnipeg-Sud"," 79","Winnipeg",N,N,"",1,381,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+46013,"Winnipeg South","Winnipeg-Sud"," 79","Winnipeg",N,N,"",1,381,"Maher","","Melanie","Conservative","Conservateur",N,N,32
+46013,"Winnipeg South","Winnipeg-Sud"," 80","Winnipeg",N,N,"",0,480,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 80","Winnipeg",N,N,"",0,480,"Duguid","","Terry","Liberal","Libéral",Y,Y,52
+46013,"Winnipeg South","Winnipeg-Sud"," 80","Winnipeg",N,N,"",0,480,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 80","Winnipeg",N,N,"",0,480,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+46013,"Winnipeg South","Winnipeg-Sud"," 80","Winnipeg",N,N,"",0,480,"Maher","","Melanie","Conservative","Conservateur",N,N,32
+46013,"Winnipeg South","Winnipeg-Sud"," 81","Winnipeg",N,N,"",2,352,"Boettcher","","Greg","Green Party","Parti Vert",N,N,6
+46013,"Winnipeg South","Winnipeg-Sud"," 81","Winnipeg",N,N,"",2,352,"Duguid","","Terry","Liberal","Libéral",Y,Y,42
+46013,"Winnipeg South","Winnipeg-Sud"," 81","Winnipeg",N,N,"",2,352,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 81","Winnipeg",N,N,"",2,352,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+46013,"Winnipeg South","Winnipeg-Sud"," 81","Winnipeg",N,N,"",2,352,"Maher","","Melanie","Conservative","Conservateur",N,N,27
+46013,"Winnipeg South","Winnipeg-Sud"," 82","Winnipeg",N,N,"",0,595,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 82","Winnipeg",N,N,"",0,595,"Duguid","","Terry","Liberal","Libéral",Y,Y,74
+46013,"Winnipeg South","Winnipeg-Sud"," 82","Winnipeg",N,N,"",0,595,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,9
+46013,"Winnipeg South","Winnipeg-Sud"," 82","Winnipeg",N,N,"",0,595,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+46013,"Winnipeg South","Winnipeg-Sud"," 82","Winnipeg",N,N,"",0,595,"Maher","","Melanie","Conservative","Conservateur",N,N,70
+46013,"Winnipeg South","Winnipeg-Sud"," 83","Winnipeg",N,N,"",0,511,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 83","Winnipeg",N,N,"",0,511,"Duguid","","Terry","Liberal","Libéral",Y,Y,90
+46013,"Winnipeg South","Winnipeg-Sud"," 83","Winnipeg",N,N,"",0,511,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,8
+46013,"Winnipeg South","Winnipeg-Sud"," 83","Winnipeg",N,N,"",0,511,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+46013,"Winnipeg South","Winnipeg-Sud"," 83","Winnipeg",N,N,"",0,511,"Maher","","Melanie","Conservative","Conservateur",N,N,53
+46013,"Winnipeg South","Winnipeg-Sud"," 84","Winnipeg",N,N,"",0,376,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 84","Winnipeg",N,N,"",0,376,"Duguid","","Terry","Liberal","Libéral",Y,Y,78
+46013,"Winnipeg South","Winnipeg-Sud"," 84","Winnipeg",N,N,"",0,376,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 84","Winnipeg",N,N,"",0,376,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46013,"Winnipeg South","Winnipeg-Sud"," 84","Winnipeg",N,N,"",0,376,"Maher","","Melanie","Conservative","Conservateur",N,N,47
+46013,"Winnipeg South","Winnipeg-Sud"," 85","Winnipeg",N,N,"",0,391,"Boettcher","","Greg","Green Party","Parti Vert",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 85","Winnipeg",N,N,"",0,391,"Duguid","","Terry","Liberal","Libéral",Y,Y,78
+46013,"Winnipeg South","Winnipeg-Sud"," 85","Winnipeg",N,N,"",0,391,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,9
+46013,"Winnipeg South","Winnipeg-Sud"," 85","Winnipeg",N,N,"",0,391,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+46013,"Winnipeg South","Winnipeg-Sud"," 85","Winnipeg",N,N,"",0,391,"Maher","","Melanie","Conservative","Conservateur",N,N,54
+46013,"Winnipeg South","Winnipeg-Sud"," 86","Winnipeg",N,N,"",2,552,"Boettcher","","Greg","Green Party","Parti Vert",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 86","Winnipeg",N,N,"",2,552,"Duguid","","Terry","Liberal","Libéral",Y,Y,69
+46013,"Winnipeg South","Winnipeg-Sud"," 86","Winnipeg",N,N,"",2,552,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 86","Winnipeg",N,N,"",2,552,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+46013,"Winnipeg South","Winnipeg-Sud"," 86","Winnipeg",N,N,"",2,552,"Maher","","Melanie","Conservative","Conservateur",N,N,45
+46013,"Winnipeg South","Winnipeg-Sud"," 87","Winnipeg",N,N,"",1,298,"Boettcher","","Greg","Green Party","Parti Vert",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 87","Winnipeg",N,N,"",1,298,"Duguid","","Terry","Liberal","Libéral",Y,Y,51
+46013,"Winnipeg South","Winnipeg-Sud"," 87","Winnipeg",N,N,"",1,298,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 87","Winnipeg",N,N,"",1,298,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46013,"Winnipeg South","Winnipeg-Sud"," 87","Winnipeg",N,N,"",1,298,"Maher","","Melanie","Conservative","Conservateur",N,N,28
+46013,"Winnipeg South","Winnipeg-Sud"," 88","Winnipeg",N,N,"",0,449,"Boettcher","","Greg","Green Party","Parti Vert",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 88","Winnipeg",N,N,"",0,449,"Duguid","","Terry","Liberal","Libéral",Y,Y,57
+46013,"Winnipeg South","Winnipeg-Sud"," 88","Winnipeg",N,N,"",0,449,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 88","Winnipeg",N,N,"",0,449,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+46013,"Winnipeg South","Winnipeg-Sud"," 88","Winnipeg",N,N,"",0,449,"Maher","","Melanie","Conservative","Conservateur",N,N,74
+46013,"Winnipeg South","Winnipeg-Sud"," 89","Winnipeg",N,N,"",0,557,"Boettcher","","Greg","Green Party","Parti Vert",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 89","Winnipeg",N,N,"",0,557,"Duguid","","Terry","Liberal","Libéral",Y,Y,118
+46013,"Winnipeg South","Winnipeg-Sud"," 89","Winnipeg",N,N,"",0,557,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 89","Winnipeg",N,N,"",0,557,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+46013,"Winnipeg South","Winnipeg-Sud"," 89","Winnipeg",N,N,"",0,557,"Maher","","Melanie","Conservative","Conservateur",N,N,65
+46013,"Winnipeg South","Winnipeg-Sud"," 90","Winnipeg",N,N,"",1,485,"Boettcher","","Greg","Green Party","Parti Vert",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 90","Winnipeg",N,N,"",1,485,"Duguid","","Terry","Liberal","Libéral",Y,Y,98
+46013,"Winnipeg South","Winnipeg-Sud"," 90","Winnipeg",N,N,"",1,485,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 90","Winnipeg",N,N,"",1,485,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+46013,"Winnipeg South","Winnipeg-Sud"," 90","Winnipeg",N,N,"",1,485,"Maher","","Melanie","Conservative","Conservateur",N,N,64
+46013,"Winnipeg South","Winnipeg-Sud"," 91A","Winnipeg",N,N,"",0,361,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 91A","Winnipeg",N,N,"",0,361,"Duguid","","Terry","Liberal","Libéral",Y,Y,74
+46013,"Winnipeg South","Winnipeg-Sud"," 91A","Winnipeg",N,N,"",0,361,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 91A","Winnipeg",N,N,"",0,361,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46013,"Winnipeg South","Winnipeg-Sud"," 91A","Winnipeg",N,N,"",0,361,"Maher","","Melanie","Conservative","Conservateur",N,N,51
+46013,"Winnipeg South","Winnipeg-Sud"," 91B","Winnipeg",N,N,"",5,362,"Boettcher","","Greg","Green Party","Parti Vert",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 91B","Winnipeg",N,N,"",5,362,"Duguid","","Terry","Liberal","Libéral",Y,Y,77
+46013,"Winnipeg South","Winnipeg-Sud"," 91B","Winnipeg",N,N,"",5,362,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 91B","Winnipeg",N,N,"",5,362,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46013,"Winnipeg South","Winnipeg-Sud"," 91B","Winnipeg",N,N,"",5,362,"Maher","","Melanie","Conservative","Conservateur",N,N,58
+46013,"Winnipeg South","Winnipeg-Sud"," 92","Winnipeg",N,N,"",1,428,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 92","Winnipeg",N,N,"",1,428,"Duguid","","Terry","Liberal","Libéral",Y,Y,98
+46013,"Winnipeg South","Winnipeg-Sud"," 92","Winnipeg",N,N,"",1,428,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 92","Winnipeg",N,N,"",1,428,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46013,"Winnipeg South","Winnipeg-Sud"," 92","Winnipeg",N,N,"",1,428,"Maher","","Melanie","Conservative","Conservateur",N,N,48
+46013,"Winnipeg South","Winnipeg-Sud"," 93A","Winnipeg",N,N,"",1,395,"Boettcher","","Greg","Green Party","Parti Vert",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 93A","Winnipeg",N,N,"",1,395,"Duguid","","Terry","Liberal","Libéral",Y,Y,63
+46013,"Winnipeg South","Winnipeg-Sud"," 93A","Winnipeg",N,N,"",1,395,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,7
+46013,"Winnipeg South","Winnipeg-Sud"," 93A","Winnipeg",N,N,"",1,395,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46013,"Winnipeg South","Winnipeg-Sud"," 93A","Winnipeg",N,N,"",1,395,"Maher","","Melanie","Conservative","Conservateur",N,N,57
+46013,"Winnipeg South","Winnipeg-Sud"," 93B","Winnipeg",N,N,"",2,392,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 93B","Winnipeg",N,N,"",2,392,"Duguid","","Terry","Liberal","Libéral",Y,Y,81
+46013,"Winnipeg South","Winnipeg-Sud"," 93B","Winnipeg",N,N,"",2,392,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 93B","Winnipeg",N,N,"",2,392,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46013,"Winnipeg South","Winnipeg-Sud"," 93B","Winnipeg",N,N,"",2,392,"Maher","","Melanie","Conservative","Conservateur",N,N,54
+46013,"Winnipeg South","Winnipeg-Sud"," 94","Winnipeg",N,N,"",0,421,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 94","Winnipeg",N,N,"",0,421,"Duguid","","Terry","Liberal","Libéral",Y,Y,91
+46013,"Winnipeg South","Winnipeg-Sud"," 94","Winnipeg",N,N,"",0,421,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,20
+46013,"Winnipeg South","Winnipeg-Sud"," 94","Winnipeg",N,N,"",0,421,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46013,"Winnipeg South","Winnipeg-Sud"," 94","Winnipeg",N,N,"",0,421,"Maher","","Melanie","Conservative","Conservateur",N,N,52
+46013,"Winnipeg South","Winnipeg-Sud"," 95","Winnipeg",N,N,"",0,415,"Boettcher","","Greg","Green Party","Parti Vert",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 95","Winnipeg",N,N,"",0,415,"Duguid","","Terry","Liberal","Libéral",Y,Y,99
+46013,"Winnipeg South","Winnipeg-Sud"," 95","Winnipeg",N,N,"",0,415,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,7
+46013,"Winnipeg South","Winnipeg-Sud"," 95","Winnipeg",N,N,"",0,415,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46013,"Winnipeg South","Winnipeg-Sud"," 95","Winnipeg",N,N,"",0,415,"Maher","","Melanie","Conservative","Conservateur",N,N,43
+46013,"Winnipeg South","Winnipeg-Sud"," 96","Winnipeg",N,N,"",0,333,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 96","Winnipeg",N,N,"",0,333,"Duguid","","Terry","Liberal","Libéral",Y,Y,79
+46013,"Winnipeg South","Winnipeg-Sud"," 96","Winnipeg",N,N,"",0,333,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,7
+46013,"Winnipeg South","Winnipeg-Sud"," 96","Winnipeg",N,N,"",0,333,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46013,"Winnipeg South","Winnipeg-Sud"," 96","Winnipeg",N,N,"",0,333,"Maher","","Melanie","Conservative","Conservateur",N,N,35
+46013,"Winnipeg South","Winnipeg-Sud"," 97","Winnipeg",N,N,"",0,368,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 97","Winnipeg",N,N,"",0,368,"Duguid","","Terry","Liberal","Libéral",Y,Y,80
+46013,"Winnipeg South","Winnipeg-Sud"," 97","Winnipeg",N,N,"",0,368,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 97","Winnipeg",N,N,"",0,368,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+46013,"Winnipeg South","Winnipeg-Sud"," 97","Winnipeg",N,N,"",0,368,"Maher","","Melanie","Conservative","Conservateur",N,N,28
+46013,"Winnipeg South","Winnipeg-Sud"," 98","Winnipeg",N,N,"",0,366,"Boettcher","","Greg","Green Party","Parti Vert",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 98","Winnipeg",N,N,"",0,366,"Duguid","","Terry","Liberal","Libéral",Y,Y,84
+46013,"Winnipeg South","Winnipeg-Sud"," 98","Winnipeg",N,N,"",0,366,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,6
+46013,"Winnipeg South","Winnipeg-Sud"," 98","Winnipeg",N,N,"",0,366,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+46013,"Winnipeg South","Winnipeg-Sud"," 98","Winnipeg",N,N,"",0,366,"Maher","","Melanie","Conservative","Conservateur",N,N,39
+46013,"Winnipeg South","Winnipeg-Sud"," 99","Winnipeg",N,N,"",2,420,"Boettcher","","Greg","Green Party","Parti Vert",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 99","Winnipeg",N,N,"",2,420,"Duguid","","Terry","Liberal","Libéral",Y,Y,68
+46013,"Winnipeg South","Winnipeg-Sud"," 99","Winnipeg",N,N,"",2,420,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 99","Winnipeg",N,N,"",2,420,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+46013,"Winnipeg South","Winnipeg-Sud"," 99","Winnipeg",N,N,"",2,420,"Maher","","Melanie","Conservative","Conservateur",N,N,20
+46013,"Winnipeg South","Winnipeg-Sud"," 100","Winnipeg",N,N,"",0,331,"Boettcher","","Greg","Green Party","Parti Vert",N,N,8
+46013,"Winnipeg South","Winnipeg-Sud"," 100","Winnipeg",N,N,"",0,331,"Duguid","","Terry","Liberal","Libéral",Y,Y,67
+46013,"Winnipeg South","Winnipeg-Sud"," 100","Winnipeg",N,N,"",0,331,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 100","Winnipeg",N,N,"",0,331,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46013,"Winnipeg South","Winnipeg-Sud"," 100","Winnipeg",N,N,"",0,331,"Maher","","Melanie","Conservative","Conservateur",N,N,29
+46013,"Winnipeg South","Winnipeg-Sud"," 101","Winnipeg",N,N,"",2,316,"Boettcher","","Greg","Green Party","Parti Vert",N,N,8
+46013,"Winnipeg South","Winnipeg-Sud"," 101","Winnipeg",N,N,"",2,316,"Duguid","","Terry","Liberal","Libéral",Y,Y,74
+46013,"Winnipeg South","Winnipeg-Sud"," 101","Winnipeg",N,N,"",2,316,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,8
+46013,"Winnipeg South","Winnipeg-Sud"," 101","Winnipeg",N,N,"",2,316,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46013,"Winnipeg South","Winnipeg-Sud"," 101","Winnipeg",N,N,"",2,316,"Maher","","Melanie","Conservative","Conservateur",N,N,55
+46013,"Winnipeg South","Winnipeg-Sud"," 102","Winnipeg",N,N,"",1,311,"Boettcher","","Greg","Green Party","Parti Vert",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 102","Winnipeg",N,N,"",1,311,"Duguid","","Terry","Liberal","Libéral",Y,Y,68
+46013,"Winnipeg South","Winnipeg-Sud"," 102","Winnipeg",N,N,"",1,311,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 102","Winnipeg",N,N,"",1,311,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46013,"Winnipeg South","Winnipeg-Sud"," 102","Winnipeg",N,N,"",1,311,"Maher","","Melanie","Conservative","Conservateur",N,N,48
+46013,"Winnipeg South","Winnipeg-Sud"," 103","Winnipeg",N,N,"",0,338,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 103","Winnipeg",N,N,"",0,338,"Duguid","","Terry","Liberal","Libéral",Y,Y,78
+46013,"Winnipeg South","Winnipeg-Sud"," 103","Winnipeg",N,N,"",0,338,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 103","Winnipeg",N,N,"",0,338,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46013,"Winnipeg South","Winnipeg-Sud"," 103","Winnipeg",N,N,"",0,338,"Maher","","Melanie","Conservative","Conservateur",N,N,53
+46013,"Winnipeg South","Winnipeg-Sud"," 104","Winnipeg",N,N,"",2,487,"Boettcher","","Greg","Green Party","Parti Vert",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 104","Winnipeg",N,N,"",2,487,"Duguid","","Terry","Liberal","Libéral",Y,Y,102
+46013,"Winnipeg South","Winnipeg-Sud"," 104","Winnipeg",N,N,"",2,487,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 104","Winnipeg",N,N,"",2,487,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+46013,"Winnipeg South","Winnipeg-Sud"," 104","Winnipeg",N,N,"",2,487,"Maher","","Melanie","Conservative","Conservateur",N,N,84
+46013,"Winnipeg South","Winnipeg-Sud"," 105","Winnipeg",N,N,"",1,405,"Boettcher","","Greg","Green Party","Parti Vert",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 105","Winnipeg",N,N,"",1,405,"Duguid","","Terry","Liberal","Libéral",Y,Y,91
+46013,"Winnipeg South","Winnipeg-Sud"," 105","Winnipeg",N,N,"",1,405,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,10
+46013,"Winnipeg South","Winnipeg-Sud"," 105","Winnipeg",N,N,"",1,405,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+46013,"Winnipeg South","Winnipeg-Sud"," 105","Winnipeg",N,N,"",1,405,"Maher","","Melanie","Conservative","Conservateur",N,N,48
+46013,"Winnipeg South","Winnipeg-Sud"," 106","Winnipeg",N,N,"",2,470,"Boettcher","","Greg","Green Party","Parti Vert",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 106","Winnipeg",N,N,"",2,470,"Duguid","","Terry","Liberal","Libéral",Y,Y,119
+46013,"Winnipeg South","Winnipeg-Sud"," 106","Winnipeg",N,N,"",2,470,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 106","Winnipeg",N,N,"",2,470,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+46013,"Winnipeg South","Winnipeg-Sud"," 106","Winnipeg",N,N,"",2,470,"Maher","","Melanie","Conservative","Conservateur",N,N,41
+46013,"Winnipeg South","Winnipeg-Sud"," 107","Winnipeg",N,N,"",0,408,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 107","Winnipeg",N,N,"",0,408,"Duguid","","Terry","Liberal","Libéral",Y,Y,97
+46013,"Winnipeg South","Winnipeg-Sud"," 107","Winnipeg",N,N,"",0,408,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 107","Winnipeg",N,N,"",0,408,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46013,"Winnipeg South","Winnipeg-Sud"," 107","Winnipeg",N,N,"",0,408,"Maher","","Melanie","Conservative","Conservateur",N,N,24
+46013,"Winnipeg South","Winnipeg-Sud"," 108","Winnipeg",N,N,"",1,376,"Boettcher","","Greg","Green Party","Parti Vert",N,N,8
+46013,"Winnipeg South","Winnipeg-Sud"," 108","Winnipeg",N,N,"",1,376,"Duguid","","Terry","Liberal","Libéral",Y,Y,88
+46013,"Winnipeg South","Winnipeg-Sud"," 108","Winnipeg",N,N,"",1,376,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 108","Winnipeg",N,N,"",1,376,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+46013,"Winnipeg South","Winnipeg-Sud"," 108","Winnipeg",N,N,"",1,376,"Maher","","Melanie","Conservative","Conservateur",N,N,55
+46013,"Winnipeg South","Winnipeg-Sud"," 109","Winnipeg",N,N,"",1,468,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 109","Winnipeg",N,N,"",1,468,"Duguid","","Terry","Liberal","Libéral",Y,Y,94
+46013,"Winnipeg South","Winnipeg-Sud"," 109","Winnipeg",N,N,"",1,468,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 109","Winnipeg",N,N,"",1,468,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+46013,"Winnipeg South","Winnipeg-Sud"," 109","Winnipeg",N,N,"",1,468,"Maher","","Melanie","Conservative","Conservateur",N,N,67
+46013,"Winnipeg South","Winnipeg-Sud"," 110","Winnipeg",N,N,"",0,625,"Boettcher","","Greg","Green Party","Parti Vert",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 110","Winnipeg",N,N,"",0,625,"Duguid","","Terry","Liberal","Libéral",Y,Y,112
+46013,"Winnipeg South","Winnipeg-Sud"," 110","Winnipeg",N,N,"",0,625,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 110","Winnipeg",N,N,"",0,625,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+46013,"Winnipeg South","Winnipeg-Sud"," 110","Winnipeg",N,N,"",0,625,"Maher","","Melanie","Conservative","Conservateur",N,N,61
+46013,"Winnipeg South","Winnipeg-Sud"," 111","Winnipeg",N,N,"",0,404,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 111","Winnipeg",N,N,"",0,404,"Duguid","","Terry","Liberal","Libéral",Y,Y,105
+46013,"Winnipeg South","Winnipeg-Sud"," 111","Winnipeg",N,N,"",0,404,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 111","Winnipeg",N,N,"",0,404,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46013,"Winnipeg South","Winnipeg-Sud"," 111","Winnipeg",N,N,"",0,404,"Maher","","Melanie","Conservative","Conservateur",N,N,44
+46013,"Winnipeg South","Winnipeg-Sud"," 112","Winnipeg",N,N,"",3,495,"Boettcher","","Greg","Green Party","Parti Vert",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 112","Winnipeg",N,N,"",3,495,"Duguid","","Terry","Liberal","Libéral",Y,Y,79
+46013,"Winnipeg South","Winnipeg-Sud"," 112","Winnipeg",N,N,"",3,495,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,8
+46013,"Winnipeg South","Winnipeg-Sud"," 112","Winnipeg",N,N,"",3,495,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+46013,"Winnipeg South","Winnipeg-Sud"," 112","Winnipeg",N,N,"",3,495,"Maher","","Melanie","Conservative","Conservateur",N,N,49
+46013,"Winnipeg South","Winnipeg-Sud"," 113","Winnipeg",N,N,"",1,312,"Boettcher","","Greg","Green Party","Parti Vert",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 113","Winnipeg",N,N,"",1,312,"Duguid","","Terry","Liberal","Libéral",Y,Y,59
+46013,"Winnipeg South","Winnipeg-Sud"," 113","Winnipeg",N,N,"",1,312,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 113","Winnipeg",N,N,"",1,312,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+46013,"Winnipeg South","Winnipeg-Sud"," 113","Winnipeg",N,N,"",1,312,"Maher","","Melanie","Conservative","Conservateur",N,N,34
+46013,"Winnipeg South","Winnipeg-Sud"," 114A","Winnipeg",N,N,"",0,593,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 114A","Winnipeg",N,N,"",0,593,"Duguid","","Terry","Liberal","Libéral",Y,Y,115
+46013,"Winnipeg South","Winnipeg-Sud"," 114A","Winnipeg",N,N,"",0,593,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,14
+46013,"Winnipeg South","Winnipeg-Sud"," 114A","Winnipeg",N,N,"",0,593,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+46013,"Winnipeg South","Winnipeg-Sud"," 114A","Winnipeg",N,N,"",0,593,"Maher","","Melanie","Conservative","Conservateur",N,N,64
+46013,"Winnipeg South","Winnipeg-Sud"," 114B","Winnipeg",N,N,"",0,598,"Boettcher","","Greg","Green Party","Parti Vert",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 114B","Winnipeg",N,N,"",0,598,"Duguid","","Terry","Liberal","Libéral",Y,Y,92
+46013,"Winnipeg South","Winnipeg-Sud"," 114B","Winnipeg",N,N,"",0,598,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,8
+46013,"Winnipeg South","Winnipeg-Sud"," 114B","Winnipeg",N,N,"",0,598,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+46013,"Winnipeg South","Winnipeg-Sud"," 114B","Winnipeg",N,N,"",0,598,"Maher","","Melanie","Conservative","Conservateur",N,N,65
+46013,"Winnipeg South","Winnipeg-Sud"," 115","Winnipeg",N,N,"",1,748,"Boettcher","","Greg","Green Party","Parti Vert",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 115","Winnipeg",N,N,"",1,748,"Duguid","","Terry","Liberal","Libéral",Y,Y,130
+46013,"Winnipeg South","Winnipeg-Sud"," 115","Winnipeg",N,N,"",1,748,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,7
+46013,"Winnipeg South","Winnipeg-Sud"," 115","Winnipeg",N,N,"",1,748,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+46013,"Winnipeg South","Winnipeg-Sud"," 115","Winnipeg",N,N,"",1,748,"Maher","","Melanie","Conservative","Conservateur",N,N,62
+46013,"Winnipeg South","Winnipeg-Sud"," 116A","Winnipeg",N,N,"",0,588,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 116A","Winnipeg",N,N,"",0,588,"Duguid","","Terry","Liberal","Libéral",Y,Y,96
+46013,"Winnipeg South","Winnipeg-Sud"," 116A","Winnipeg",N,N,"",0,588,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 116A","Winnipeg",N,N,"",0,588,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+46013,"Winnipeg South","Winnipeg-Sud"," 116A","Winnipeg",N,N,"",0,588,"Maher","","Melanie","Conservative","Conservateur",N,N,67
+46013,"Winnipeg South","Winnipeg-Sud"," 116B","Winnipeg",N,N,"",3,579,"Boettcher","","Greg","Green Party","Parti Vert",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 116B","Winnipeg",N,N,"",3,579,"Duguid","","Terry","Liberal","Libéral",Y,Y,117
+46013,"Winnipeg South","Winnipeg-Sud"," 116B","Winnipeg",N,N,"",3,579,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 116B","Winnipeg",N,N,"",3,579,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+46013,"Winnipeg South","Winnipeg-Sud"," 116B","Winnipeg",N,N,"",3,579,"Maher","","Melanie","Conservative","Conservateur",N,N,72
+46013,"Winnipeg South","Winnipeg-Sud"," 117","Winnipeg",N,N,"",2,563,"Boettcher","","Greg","Green Party","Parti Vert",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 117","Winnipeg",N,N,"",2,563,"Duguid","","Terry","Liberal","Libéral",Y,Y,115
+46013,"Winnipeg South","Winnipeg-Sud"," 117","Winnipeg",N,N,"",2,563,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 117","Winnipeg",N,N,"",2,563,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46013,"Winnipeg South","Winnipeg-Sud"," 117","Winnipeg",N,N,"",2,563,"Maher","","Melanie","Conservative","Conservateur",N,N,37
+46013,"Winnipeg South","Winnipeg-Sud"," 118","Winnipeg",N,N,"",0,619,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 118","Winnipeg",N,N,"",0,619,"Duguid","","Terry","Liberal","Libéral",Y,Y,106
+46013,"Winnipeg South","Winnipeg-Sud"," 118","Winnipeg",N,N,"",0,619,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 118","Winnipeg",N,N,"",0,619,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+46013,"Winnipeg South","Winnipeg-Sud"," 118","Winnipeg",N,N,"",0,619,"Maher","","Melanie","Conservative","Conservateur",N,N,86
+46013,"Winnipeg South","Winnipeg-Sud"," 119A","Winnipeg",N,N,"",0,568,"Boettcher","","Greg","Green Party","Parti Vert",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 119A","Winnipeg",N,N,"",0,568,"Duguid","","Terry","Liberal","Libéral",Y,Y,125
+46013,"Winnipeg South","Winnipeg-Sud"," 119A","Winnipeg",N,N,"",0,568,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 119A","Winnipeg",N,N,"",0,568,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+46013,"Winnipeg South","Winnipeg-Sud"," 119A","Winnipeg",N,N,"",0,568,"Maher","","Melanie","Conservative","Conservateur",N,N,43
+46013,"Winnipeg South","Winnipeg-Sud"," 119B","Winnipeg",N,N,"",2,521,"Boettcher","","Greg","Green Party","Parti Vert",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 119B","Winnipeg",N,N,"",2,521,"Duguid","","Terry","Liberal","Libéral",Y,Y,104
+46013,"Winnipeg South","Winnipeg-Sud"," 119B","Winnipeg",N,N,"",2,521,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 119B","Winnipeg",N,N,"",2,521,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46013,"Winnipeg South","Winnipeg-Sud"," 119B","Winnipeg",N,N,"",2,521,"Maher","","Melanie","Conservative","Conservateur",N,N,60
+46013,"Winnipeg South","Winnipeg-Sud"," 119C","Winnipeg",N,N,"",2,552,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 119C","Winnipeg",N,N,"",2,552,"Duguid","","Terry","Liberal","Libéral",Y,Y,112
+46013,"Winnipeg South","Winnipeg-Sud"," 119C","Winnipeg",N,N,"",2,552,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 119C","Winnipeg",N,N,"",2,552,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+46013,"Winnipeg South","Winnipeg-Sud"," 119C","Winnipeg",N,N,"",2,552,"Maher","","Melanie","Conservative","Conservateur",N,N,49
+46013,"Winnipeg South","Winnipeg-Sud"," 120","Winnipeg",N,N,"",2,446,"Boettcher","","Greg","Green Party","Parti Vert",N,N,7
+46013,"Winnipeg South","Winnipeg-Sud"," 120","Winnipeg",N,N,"",2,446,"Duguid","","Terry","Liberal","Libéral",Y,Y,69
+46013,"Winnipeg South","Winnipeg-Sud"," 120","Winnipeg",N,N,"",2,446,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,12
+46013,"Winnipeg South","Winnipeg-Sud"," 120","Winnipeg",N,N,"",2,446,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+46013,"Winnipeg South","Winnipeg-Sud"," 120","Winnipeg",N,N,"",2,446,"Maher","","Melanie","Conservative","Conservateur",N,N,41
+46013,"Winnipeg South","Winnipeg-Sud"," 121","Winnipeg",N,N,"",1,379,"Boettcher","","Greg","Green Party","Parti Vert",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 121","Winnipeg",N,N,"",1,379,"Duguid","","Terry","Liberal","Libéral",Y,Y,72
+46013,"Winnipeg South","Winnipeg-Sud"," 121","Winnipeg",N,N,"",1,379,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 121","Winnipeg",N,N,"",1,379,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+46013,"Winnipeg South","Winnipeg-Sud"," 121","Winnipeg",N,N,"",1,379,"Maher","","Melanie","Conservative","Conservateur",N,N,39
+46013,"Winnipeg South","Winnipeg-Sud"," 122","Winnipeg",N,N,"",0,345,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 122","Winnipeg",N,N,"",0,345,"Duguid","","Terry","Liberal","Libéral",Y,Y,69
+46013,"Winnipeg South","Winnipeg-Sud"," 122","Winnipeg",N,N,"",0,345,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 122","Winnipeg",N,N,"",0,345,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46013,"Winnipeg South","Winnipeg-Sud"," 122","Winnipeg",N,N,"",0,345,"Maher","","Melanie","Conservative","Conservateur",N,N,38
+46013,"Winnipeg South","Winnipeg-Sud"," 123","Winnipeg",N,N,"",1,324,"Boettcher","","Greg","Green Party","Parti Vert",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 123","Winnipeg",N,N,"",1,324,"Duguid","","Terry","Liberal","Libéral",Y,Y,66
+46013,"Winnipeg South","Winnipeg-Sud"," 123","Winnipeg",N,N,"",1,324,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 123","Winnipeg",N,N,"",1,324,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46013,"Winnipeg South","Winnipeg-Sud"," 123","Winnipeg",N,N,"",1,324,"Maher","","Melanie","Conservative","Conservateur",N,N,12
+46013,"Winnipeg South","Winnipeg-Sud"," 124","Winnipeg",N,N,"",0,372,"Boettcher","","Greg","Green Party","Parti Vert",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 124","Winnipeg",N,N,"",0,372,"Duguid","","Terry","Liberal","Libéral",Y,Y,59
+46013,"Winnipeg South","Winnipeg-Sud"," 124","Winnipeg",N,N,"",0,372,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 124","Winnipeg",N,N,"",0,372,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+46013,"Winnipeg South","Winnipeg-Sud"," 124","Winnipeg",N,N,"",0,372,"Maher","","Melanie","Conservative","Conservateur",N,N,42
+46013,"Winnipeg South","Winnipeg-Sud"," 125","Winnipeg",N,N,"",1,424,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 125","Winnipeg",N,N,"",1,424,"Duguid","","Terry","Liberal","Libéral",Y,Y,55
+46013,"Winnipeg South","Winnipeg-Sud"," 125","Winnipeg",N,N,"",1,424,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 125","Winnipeg",N,N,"",1,424,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+46013,"Winnipeg South","Winnipeg-Sud"," 125","Winnipeg",N,N,"",1,424,"Maher","","Melanie","Conservative","Conservateur",N,N,30
+46013,"Winnipeg South","Winnipeg-Sud"," 126","Winnipeg",N,N,"",0,453,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 126","Winnipeg",N,N,"",0,453,"Duguid","","Terry","Liberal","Libéral",Y,Y,77
+46013,"Winnipeg South","Winnipeg-Sud"," 126","Winnipeg",N,N,"",0,453,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 126","Winnipeg",N,N,"",0,453,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46013,"Winnipeg South","Winnipeg-Sud"," 126","Winnipeg",N,N,"",0,453,"Maher","","Melanie","Conservative","Conservateur",N,N,58
+46013,"Winnipeg South","Winnipeg-Sud"," 127","Winnipeg",N,N,"",0,382,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 127","Winnipeg",N,N,"",0,382,"Duguid","","Terry","Liberal","Libéral",Y,Y,82
+46013,"Winnipeg South","Winnipeg-Sud"," 127","Winnipeg",N,N,"",0,382,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 127","Winnipeg",N,N,"",0,382,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+46013,"Winnipeg South","Winnipeg-Sud"," 127","Winnipeg",N,N,"",0,382,"Maher","","Melanie","Conservative","Conservateur",N,N,31
+46013,"Winnipeg South","Winnipeg-Sud"," 128","Winnipeg",N,N,"",1,511,"Boettcher","","Greg","Green Party","Parti Vert",N,N,6
+46013,"Winnipeg South","Winnipeg-Sud"," 128","Winnipeg",N,N,"",1,511,"Duguid","","Terry","Liberal","Libéral",Y,Y,56
+46013,"Winnipeg South","Winnipeg-Sud"," 128","Winnipeg",N,N,"",1,511,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,10
+46013,"Winnipeg South","Winnipeg-Sud"," 128","Winnipeg",N,N,"",1,511,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+46013,"Winnipeg South","Winnipeg-Sud"," 128","Winnipeg",N,N,"",1,511,"Maher","","Melanie","Conservative","Conservateur",N,N,34
+46013,"Winnipeg South","Winnipeg-Sud"," 129","Winnipeg",N,N,"",0,382,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 129","Winnipeg",N,N,"",0,382,"Duguid","","Terry","Liberal","Libéral",Y,Y,55
+46013,"Winnipeg South","Winnipeg-Sud"," 129","Winnipeg",N,N,"",0,382,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 129","Winnipeg",N,N,"",0,382,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+46013,"Winnipeg South","Winnipeg-Sud"," 129","Winnipeg",N,N,"",0,382,"Maher","","Melanie","Conservative","Conservateur",N,N,57
+46013,"Winnipeg South","Winnipeg-Sud"," 130","Winnipeg",N,N,"",0,539,"Boettcher","","Greg","Green Party","Parti Vert",N,N,6
+46013,"Winnipeg South","Winnipeg-Sud"," 130","Winnipeg",N,N,"",0,539,"Duguid","","Terry","Liberal","Libéral",Y,Y,89
+46013,"Winnipeg South","Winnipeg-Sud"," 130","Winnipeg",N,N,"",0,539,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 130","Winnipeg",N,N,"",0,539,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46013,"Winnipeg South","Winnipeg-Sud"," 130","Winnipeg",N,N,"",0,539,"Maher","","Melanie","Conservative","Conservateur",N,N,63
+46013,"Winnipeg South","Winnipeg-Sud"," 131","Winnipeg",N,N,"",3,650,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 131","Winnipeg",N,N,"",3,650,"Duguid","","Terry","Liberal","Libéral",Y,Y,129
+46013,"Winnipeg South","Winnipeg-Sud"," 131","Winnipeg",N,N,"",3,650,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,7
+46013,"Winnipeg South","Winnipeg-Sud"," 131","Winnipeg",N,N,"",3,650,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+46013,"Winnipeg South","Winnipeg-Sud"," 131","Winnipeg",N,N,"",3,650,"Maher","","Melanie","Conservative","Conservateur",N,N,85
+46013,"Winnipeg South","Winnipeg-Sud"," 132","Winnipeg",N,N,"",1,440,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 132","Winnipeg",N,N,"",1,440,"Duguid","","Terry","Liberal","Libéral",Y,Y,93
+46013,"Winnipeg South","Winnipeg-Sud"," 132","Winnipeg",N,N,"",1,440,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,10
+46013,"Winnipeg South","Winnipeg-Sud"," 132","Winnipeg",N,N,"",1,440,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46013,"Winnipeg South","Winnipeg-Sud"," 132","Winnipeg",N,N,"",1,440,"Maher","","Melanie","Conservative","Conservateur",N,N,68
+46013,"Winnipeg South","Winnipeg-Sud"," 133","Winnipeg",N,N,"",2,610,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 133","Winnipeg",N,N,"",2,610,"Duguid","","Terry","Liberal","Libéral",Y,Y,96
+46013,"Winnipeg South","Winnipeg-Sud"," 133","Winnipeg",N,N,"",2,610,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,8
+46013,"Winnipeg South","Winnipeg-Sud"," 133","Winnipeg",N,N,"",2,610,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+46013,"Winnipeg South","Winnipeg-Sud"," 133","Winnipeg",N,N,"",2,610,"Maher","","Melanie","Conservative","Conservateur",N,N,127
+46013,"Winnipeg South","Winnipeg-Sud"," 134","Winnipeg",N,N,"",1,387,"Boettcher","","Greg","Green Party","Parti Vert",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 134","Winnipeg",N,N,"",1,387,"Duguid","","Terry","Liberal","Libéral",Y,Y,74
+46013,"Winnipeg South","Winnipeg-Sud"," 134","Winnipeg",N,N,"",1,387,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,19
+46013,"Winnipeg South","Winnipeg-Sud"," 134","Winnipeg",N,N,"",1,387,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+46013,"Winnipeg South","Winnipeg-Sud"," 134","Winnipeg",N,N,"",1,387,"Maher","","Melanie","Conservative","Conservateur",N,N,86
+46013,"Winnipeg South","Winnipeg-Sud"," 135","Winnipeg",N,N,"",2,384,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 135","Winnipeg",N,N,"",2,384,"Duguid","","Terry","Liberal","Libéral",Y,Y,80
+46013,"Winnipeg South","Winnipeg-Sud"," 135","Winnipeg",N,N,"",2,384,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,17
+46013,"Winnipeg South","Winnipeg-Sud"," 135","Winnipeg",N,N,"",2,384,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+46013,"Winnipeg South","Winnipeg-Sud"," 135","Winnipeg",N,N,"",2,384,"Maher","","Melanie","Conservative","Conservateur",N,N,69
+46013,"Winnipeg South","Winnipeg-Sud"," 136","Winnipeg",N,N,"",1,523,"Boettcher","","Greg","Green Party","Parti Vert",N,N,8
+46013,"Winnipeg South","Winnipeg-Sud"," 136","Winnipeg",N,N,"",1,523,"Duguid","","Terry","Liberal","Libéral",Y,Y,100
+46013,"Winnipeg South","Winnipeg-Sud"," 136","Winnipeg",N,N,"",1,523,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,9
+46013,"Winnipeg South","Winnipeg-Sud"," 136","Winnipeg",N,N,"",1,523,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+46013,"Winnipeg South","Winnipeg-Sud"," 136","Winnipeg",N,N,"",1,523,"Maher","","Melanie","Conservative","Conservateur",N,N,95
+46013,"Winnipeg South","Winnipeg-Sud"," 137","Winnipeg",N,N,"",0,589,"Boettcher","","Greg","Green Party","Parti Vert",N,N,7
+46013,"Winnipeg South","Winnipeg-Sud"," 137","Winnipeg",N,N,"",0,589,"Duguid","","Terry","Liberal","Libéral",Y,Y,70
+46013,"Winnipeg South","Winnipeg-Sud"," 137","Winnipeg",N,N,"",0,589,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 137","Winnipeg",N,N,"",0,589,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+46013,"Winnipeg South","Winnipeg-Sud"," 137","Winnipeg",N,N,"",0,589,"Maher","","Melanie","Conservative","Conservateur",N,N,62
+46013,"Winnipeg South","Winnipeg-Sud"," 138","Winnipeg",N,N,"",0,345,"Boettcher","","Greg","Green Party","Parti Vert",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 138","Winnipeg",N,N,"",0,345,"Duguid","","Terry","Liberal","Libéral",Y,Y,46
+46013,"Winnipeg South","Winnipeg-Sud"," 138","Winnipeg",N,N,"",0,345,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,9
+46013,"Winnipeg South","Winnipeg-Sud"," 138","Winnipeg",N,N,"",0,345,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+46013,"Winnipeg South","Winnipeg-Sud"," 138","Winnipeg",N,N,"",0,345,"Maher","","Melanie","Conservative","Conservateur",N,N,33
+46013,"Winnipeg South","Winnipeg-Sud"," 139","Winnipeg",N,N,"",2,500,"Boettcher","","Greg","Green Party","Parti Vert",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 139","Winnipeg",N,N,"",2,500,"Duguid","","Terry","Liberal","Libéral",Y,Y,92
+46013,"Winnipeg South","Winnipeg-Sud"," 139","Winnipeg",N,N,"",2,500,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,21
+46013,"Winnipeg South","Winnipeg-Sud"," 139","Winnipeg",N,N,"",2,500,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+46013,"Winnipeg South","Winnipeg-Sud"," 139","Winnipeg",N,N,"",2,500,"Maher","","Melanie","Conservative","Conservateur",N,N,70
+46013,"Winnipeg South","Winnipeg-Sud"," 140","Winnipeg",N,N,"",2,478,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 140","Winnipeg",N,N,"",2,478,"Duguid","","Terry","Liberal","Libéral",Y,Y,67
+46013,"Winnipeg South","Winnipeg-Sud"," 140","Winnipeg",N,N,"",2,478,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,6
+46013,"Winnipeg South","Winnipeg-Sud"," 140","Winnipeg",N,N,"",2,478,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+46013,"Winnipeg South","Winnipeg-Sud"," 140","Winnipeg",N,N,"",2,478,"Maher","","Melanie","Conservative","Conservateur",N,N,53
+46013,"Winnipeg South","Winnipeg-Sud"," 141","Winnipeg",N,N,"",1,390,"Boettcher","","Greg","Green Party","Parti Vert",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 141","Winnipeg",N,N,"",1,390,"Duguid","","Terry","Liberal","Libéral",Y,Y,54
+46013,"Winnipeg South","Winnipeg-Sud"," 141","Winnipeg",N,N,"",1,390,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 141","Winnipeg",N,N,"",1,390,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46013,"Winnipeg South","Winnipeg-Sud"," 141","Winnipeg",N,N,"",1,390,"Maher","","Melanie","Conservative","Conservateur",N,N,27
+46013,"Winnipeg South","Winnipeg-Sud"," 142","Winnipeg",N,N,"",0,469,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 142","Winnipeg",N,N,"",0,469,"Duguid","","Terry","Liberal","Libéral",Y,Y,50
+46013,"Winnipeg South","Winnipeg-Sud"," 142","Winnipeg",N,N,"",0,469,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,10
+46013,"Winnipeg South","Winnipeg-Sud"," 142","Winnipeg",N,N,"",0,469,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+46013,"Winnipeg South","Winnipeg-Sud"," 142","Winnipeg",N,N,"",0,469,"Maher","","Melanie","Conservative","Conservateur",N,N,50
+46013,"Winnipeg South","Winnipeg-Sud"," 143","Winnipeg",N,N,"",0,413,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 143","Winnipeg",N,N,"",0,413,"Duguid","","Terry","Liberal","Libéral",Y,Y,50
+46013,"Winnipeg South","Winnipeg-Sud"," 143","Winnipeg",N,N,"",0,413,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,12
+46013,"Winnipeg South","Winnipeg-Sud"," 143","Winnipeg",N,N,"",0,413,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+46013,"Winnipeg South","Winnipeg-Sud"," 143","Winnipeg",N,N,"",0,413,"Maher","","Melanie","Conservative","Conservateur",N,N,36
+46013,"Winnipeg South","Winnipeg-Sud"," 144","Winnipeg",N,N,"",1,545,"Boettcher","","Greg","Green Party","Parti Vert",N,N,6
+46013,"Winnipeg South","Winnipeg-Sud"," 144","Winnipeg",N,N,"",1,545,"Duguid","","Terry","Liberal","Libéral",Y,Y,99
+46013,"Winnipeg South","Winnipeg-Sud"," 144","Winnipeg",N,N,"",1,545,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,16
+46013,"Winnipeg South","Winnipeg-Sud"," 144","Winnipeg",N,N,"",1,545,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+46013,"Winnipeg South","Winnipeg-Sud"," 144","Winnipeg",N,N,"",1,545,"Maher","","Melanie","Conservative","Conservateur",N,N,64
+46013,"Winnipeg South","Winnipeg-Sud"," 145","Winnipeg",N,N,"",0,333,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 145","Winnipeg",N,N,"",0,333,"Duguid","","Terry","Liberal","Libéral",Y,Y,58
+46013,"Winnipeg South","Winnipeg-Sud"," 145","Winnipeg",N,N,"",0,333,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,11
+46013,"Winnipeg South","Winnipeg-Sud"," 145","Winnipeg",N,N,"",0,333,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+46013,"Winnipeg South","Winnipeg-Sud"," 145","Winnipeg",N,N,"",0,333,"Maher","","Melanie","Conservative","Conservateur",N,N,36
+46013,"Winnipeg South","Winnipeg-Sud"," 400","Winnipeg",Y,N,"",0,0,"Boettcher","","Greg","Green Party","Parti Vert",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 400","Winnipeg",Y,N,"",0,0,"Duguid","","Terry","Liberal","Libéral",Y,Y,0
+46013,"Winnipeg South","Winnipeg-Sud"," 400","Winnipeg",Y,N,"",0,0,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 400","Winnipeg",Y,N,"",0,0,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 400","Winnipeg",Y,N,"",0,0,"Maher","","Melanie","Conservative","Conservateur",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 401","Winnipeg",N,N,"",3,209,"Boettcher","","Greg","Green Party","Parti Vert",N,N,6
+46013,"Winnipeg South","Winnipeg-Sud"," 401","Winnipeg",N,N,"",3,209,"Duguid","","Terry","Liberal","Libéral",Y,Y,75
+46013,"Winnipeg South","Winnipeg-Sud"," 401","Winnipeg",N,N,"",3,209,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 401","Winnipeg",N,N,"",3,209,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+46013,"Winnipeg South","Winnipeg-Sud"," 401","Winnipeg",N,N,"",3,209,"Maher","","Melanie","Conservative","Conservateur",N,N,60
+46013,"Winnipeg South","Winnipeg-Sud"," 402","Winnipeg",N,N,"",4,299,"Boettcher","","Greg","Green Party","Parti Vert",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 402","Winnipeg",N,N,"",4,299,"Duguid","","Terry","Liberal","Libéral",Y,Y,98
+46013,"Winnipeg South","Winnipeg-Sud"," 402","Winnipeg",N,N,"",4,299,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 402","Winnipeg",N,N,"",4,299,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+46013,"Winnipeg South","Winnipeg-Sud"," 402","Winnipeg",N,N,"",4,299,"Maher","","Melanie","Conservative","Conservateur",N,N,44
+46013,"Winnipeg South","Winnipeg-Sud"," 500","Mobile poll/Bureau itinérant",N,N,"83",0,37,"Boettcher","","Greg","Green Party","Parti Vert",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 500","Mobile poll/Bureau itinérant",N,N,"83",0,37,"Duguid","","Terry","Liberal","Libéral",Y,Y,0
+46013,"Winnipeg South","Winnipeg-Sud"," 500","Mobile poll/Bureau itinérant",N,N,"83",0,37,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 500","Mobile poll/Bureau itinérant",N,N,"83",0,37,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 500","Mobile poll/Bureau itinérant",N,N,"83",0,37,"Maher","","Melanie","Conservative","Conservateur",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 501","Mobile poll/Bureau itinérant",N,N,"",10,123,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 501","Mobile poll/Bureau itinérant",N,N,"",10,123,"Duguid","","Terry","Liberal","Libéral",Y,Y,2
+46013,"Winnipeg South","Winnipeg-Sud"," 501","Mobile poll/Bureau itinérant",N,N,"",10,123,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,3
+46013,"Winnipeg South","Winnipeg-Sud"," 501","Mobile poll/Bureau itinérant",N,N,"",10,123,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 501","Mobile poll/Bureau itinérant",N,N,"",10,123,"Maher","","Melanie","Conservative","Conservateur",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 502","Mobile poll/Bureau itinérant",N,N,"",2,161,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 502","Mobile poll/Bureau itinérant",N,N,"",2,161,"Duguid","","Terry","Liberal","Libéral",Y,Y,39
+46013,"Winnipeg South","Winnipeg-Sud"," 502","Mobile poll/Bureau itinérant",N,N,"",2,161,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 502","Mobile poll/Bureau itinérant",N,N,"",2,161,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 502","Mobile poll/Bureau itinérant",N,N,"",2,161,"Maher","","Melanie","Conservative","Conservateur",N,N,5
+46013,"Winnipeg South","Winnipeg-Sud"," 503","Mobile poll/Bureau itinérant",N,N,"",0,49,"Boettcher","","Greg","Green Party","Parti Vert",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 503","Mobile poll/Bureau itinérant",N,N,"",0,49,"Duguid","","Terry","Liberal","Libéral",Y,Y,11
+46013,"Winnipeg South","Winnipeg-Sud"," 503","Mobile poll/Bureau itinérant",N,N,"",0,49,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 503","Mobile poll/Bureau itinérant",N,N,"",0,49,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 503","Mobile poll/Bureau itinérant",N,N,"",0,49,"Maher","","Melanie","Conservative","Conservateur",N,N,7
+46013,"Winnipeg South","Winnipeg-Sud"," 504","Mobile poll/Bureau itinérant",N,N,"",1,106,"Boettcher","","Greg","Green Party","Parti Vert",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 504","Mobile poll/Bureau itinérant",N,N,"",1,106,"Duguid","","Terry","Liberal","Libéral",Y,Y,14
+46013,"Winnipeg South","Winnipeg-Sud"," 504","Mobile poll/Bureau itinérant",N,N,"",1,106,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 504","Mobile poll/Bureau itinérant",N,N,"",1,106,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+46013,"Winnipeg South","Winnipeg-Sud"," 504","Mobile poll/Bureau itinérant",N,N,"",1,106,"Maher","","Melanie","Conservative","Conservateur",N,N,8
+46013,"Winnipeg South","Winnipeg-Sud"," 505","Mobile poll/Bureau itinérant",N,N,"",3,97,"Boettcher","","Greg","Green Party","Parti Vert",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 505","Mobile poll/Bureau itinérant",N,N,"",3,97,"Duguid","","Terry","Liberal","Libéral",Y,Y,32
+46013,"Winnipeg South","Winnipeg-Sud"," 505","Mobile poll/Bureau itinérant",N,N,"",3,97,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,6
+46013,"Winnipeg South","Winnipeg-Sud"," 505","Mobile poll/Bureau itinérant",N,N,"",3,97,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 505","Mobile poll/Bureau itinérant",N,N,"",3,97,"Maher","","Melanie","Conservative","Conservateur",N,N,14
+46013,"Winnipeg South","Winnipeg-Sud"," 506","Mobile poll/Bureau itinérant",N,N,"",0,81,"Boettcher","","Greg","Green Party","Parti Vert",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 506","Mobile poll/Bureau itinérant",N,N,"",0,81,"Duguid","","Terry","Liberal","Libéral",Y,Y,11
+46013,"Winnipeg South","Winnipeg-Sud"," 506","Mobile poll/Bureau itinérant",N,N,"",0,81,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 506","Mobile poll/Bureau itinérant",N,N,"",0,81,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+46013,"Winnipeg South","Winnipeg-Sud"," 506","Mobile poll/Bureau itinérant",N,N,"",0,81,"Maher","","Melanie","Conservative","Conservateur",N,N,4
+46013,"Winnipeg South","Winnipeg-Sud"," 507","Mobile poll/Bureau itinérant",N,N,"",1,211,"Boettcher","","Greg","Green Party","Parti Vert",N,N,0
+46013,"Winnipeg South","Winnipeg-Sud"," 507","Mobile poll/Bureau itinérant",N,N,"",1,211,"Duguid","","Terry","Liberal","Libéral",Y,Y,24
+46013,"Winnipeg South","Winnipeg-Sud"," 507","Mobile poll/Bureau itinérant",N,N,"",1,211,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,1
+46013,"Winnipeg South","Winnipeg-Sud"," 507","Mobile poll/Bureau itinérant",N,N,"",1,211,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+46013,"Winnipeg South","Winnipeg-Sud"," 507","Mobile poll/Bureau itinérant",N,N,"",1,211,"Maher","","Melanie","Conservative","Conservateur",N,N,19
+46013,"Winnipeg South","Winnipeg-Sud"," 600","Winnipeg",N,N,"",0,0,"Boettcher","","Greg","Green Party","Parti Vert",N,N,9
+46013,"Winnipeg South","Winnipeg-Sud"," 600","Winnipeg",N,N,"",0,0,"Duguid","","Terry","Liberal","Libéral",Y,Y,548
+46013,"Winnipeg South","Winnipeg-Sud"," 600","Winnipeg",N,N,"",0,0,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,35
+46013,"Winnipeg South","Winnipeg-Sud"," 600","Winnipeg",N,N,"",0,0,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,103
+46013,"Winnipeg South","Winnipeg-Sud"," 600","Winnipeg",N,N,"",0,0,"Maher","","Melanie","Conservative","Conservateur",N,N,787
+46013,"Winnipeg South","Winnipeg-Sud"," 601","Winnipeg",N,N,"",1,0,"Boettcher","","Greg","Green Party","Parti Vert",N,N,12
+46013,"Winnipeg South","Winnipeg-Sud"," 601","Winnipeg",N,N,"",1,0,"Duguid","","Terry","Liberal","Libéral",Y,Y,519
+46013,"Winnipeg South","Winnipeg-Sud"," 601","Winnipeg",N,N,"",1,0,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,25
+46013,"Winnipeg South","Winnipeg-Sud"," 601","Winnipeg",N,N,"",1,0,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,99
+46013,"Winnipeg South","Winnipeg-Sud"," 601","Winnipeg",N,N,"",1,0,"Maher","","Melanie","Conservative","Conservateur",N,N,549
+46013,"Winnipeg South","Winnipeg-Sud"," 602","Winnipeg",N,N,"",1,0,"Boettcher","","Greg","Green Party","Parti Vert",N,N,10
+46013,"Winnipeg South","Winnipeg-Sud"," 602","Winnipeg",N,N,"",1,0,"Duguid","","Terry","Liberal","Libéral",Y,Y,415
+46013,"Winnipeg South","Winnipeg-Sud"," 602","Winnipeg",N,N,"",1,0,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,20
+46013,"Winnipeg South","Winnipeg-Sud"," 602","Winnipeg",N,N,"",1,0,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,85
+46013,"Winnipeg South","Winnipeg-Sud"," 602","Winnipeg",N,N,"",1,0,"Maher","","Melanie","Conservative","Conservateur",N,N,277
+46013,"Winnipeg South","Winnipeg-Sud"," 603","Winnipeg",N,N,"",31,0,"Boettcher","","Greg","Green Party","Parti Vert",N,N,29
+46013,"Winnipeg South","Winnipeg-Sud"," 603","Winnipeg",N,N,"",31,0,"Duguid","","Terry","Liberal","Libéral",Y,Y,690
+46013,"Winnipeg South","Winnipeg-Sud"," 603","Winnipeg",N,N,"",31,0,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,42
+46013,"Winnipeg South","Winnipeg-Sud"," 603","Winnipeg",N,N,"",31,0,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,163
+46013,"Winnipeg South","Winnipeg-Sud"," 603","Winnipeg",N,N,"",31,0,"Maher","","Melanie","Conservative","Conservateur",N,N,484
+46013,"Winnipeg South","Winnipeg-Sud"," 604","Winnipeg",N,N,"",9,0,"Boettcher","","Greg","Green Party","Parti Vert",N,N,25
+46013,"Winnipeg South","Winnipeg-Sud"," 604","Winnipeg",N,N,"",9,0,"Duguid","","Terry","Liberal","Libéral",Y,Y,684
+46013,"Winnipeg South","Winnipeg-Sud"," 604","Winnipeg",N,N,"",9,0,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,46
+46013,"Winnipeg South","Winnipeg-Sud"," 604","Winnipeg",N,N,"",9,0,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,208
+46013,"Winnipeg South","Winnipeg-Sud"," 604","Winnipeg",N,N,"",9,0,"Maher","","Melanie","Conservative","Conservateur",N,N,487
+46013,"Winnipeg South","Winnipeg-Sud"," 605","Winnipeg",N,N,"",1,0,"Boettcher","","Greg","Green Party","Parti Vert",N,N,8
+46013,"Winnipeg South","Winnipeg-Sud"," 605","Winnipeg",N,N,"",1,0,"Duguid","","Terry","Liberal","Libéral",Y,Y,643
+46013,"Winnipeg South","Winnipeg-Sud"," 605","Winnipeg",N,N,"",1,0,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,50
+46013,"Winnipeg South","Winnipeg-Sud"," 605","Winnipeg",N,N,"",1,0,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,178
+46013,"Winnipeg South","Winnipeg-Sud"," 605","Winnipeg",N,N,"",1,0,"Maher","","Melanie","Conservative","Conservateur",N,N,563
+46013,"Winnipeg South","Winnipeg-Sud"," 606","Winnipeg",N,N,"",6,0,"Boettcher","","Greg","Green Party","Parti Vert",N,N,15
+46013,"Winnipeg South","Winnipeg-Sud"," 606","Winnipeg",N,N,"",6,0,"Duguid","","Terry","Liberal","Libéral",Y,Y,682
+46013,"Winnipeg South","Winnipeg-Sud"," 606","Winnipeg",N,N,"",6,0,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,41
+46013,"Winnipeg South","Winnipeg-Sud"," 606","Winnipeg",N,N,"",6,0,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,162
+46013,"Winnipeg South","Winnipeg-Sud"," 606","Winnipeg",N,N,"",6,0,"Maher","","Melanie","Conservative","Conservateur",N,N,505
+46013,"Winnipeg South","Winnipeg-Sud"," 607","Winnipeg",N,N,"",13,0,"Boettcher","","Greg","Green Party","Parti Vert",N,N,13
+46013,"Winnipeg South","Winnipeg-Sud"," 607","Winnipeg",N,N,"",13,0,"Duguid","","Terry","Liberal","Libéral",Y,Y,736
+46013,"Winnipeg South","Winnipeg-Sud"," 607","Winnipeg",N,N,"",13,0,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,39
+46013,"Winnipeg South","Winnipeg-Sud"," 607","Winnipeg",N,N,"",13,0,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,142
+46013,"Winnipeg South","Winnipeg-Sud"," 607","Winnipeg",N,N,"",13,0,"Maher","","Melanie","Conservative","Conservateur",N,N,602
+46013,"Winnipeg South","Winnipeg-Sud"," 608","Winnipeg",N,N,"",3,0,"Boettcher","","Greg","Green Party","Parti Vert",N,N,7
+46013,"Winnipeg South","Winnipeg-Sud"," 608","Winnipeg",N,N,"",3,0,"Duguid","","Terry","Liberal","Libéral",Y,Y,369
+46013,"Winnipeg South","Winnipeg-Sud"," 608","Winnipeg",N,N,"",3,0,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,38
+46013,"Winnipeg South","Winnipeg-Sud"," 608","Winnipeg",N,N,"",3,0,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,98
+46013,"Winnipeg South","Winnipeg-Sud"," 608","Winnipeg",N,N,"",3,0,"Maher","","Melanie","Conservative","Conservateur",N,N,251
+46013,"Winnipeg South","Winnipeg-Sud"," 609","Winnipeg",N,N,"",8,0,"Boettcher","","Greg","Green Party","Parti Vert",N,N,7
+46013,"Winnipeg South","Winnipeg-Sud"," 609","Winnipeg",N,N,"",8,0,"Duguid","","Terry","Liberal","Libéral",Y,Y,640
+46013,"Winnipeg South","Winnipeg-Sud"," 609","Winnipeg",N,N,"",8,0,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,15
+46013,"Winnipeg South","Winnipeg-Sud"," 609","Winnipeg",N,N,"",8,0,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,121
+46013,"Winnipeg South","Winnipeg-Sud"," 609","Winnipeg",N,N,"",8,0,"Maher","","Melanie","Conservative","Conservateur",N,N,452
+46013,"Winnipeg South","Winnipeg-Sud"," 610","Winnipeg",N,N,"",2,0,"Boettcher","","Greg","Green Party","Parti Vert",N,N,12
+46013,"Winnipeg South","Winnipeg-Sud"," 610","Winnipeg",N,N,"",2,0,"Duguid","","Terry","Liberal","Libéral",Y,Y,674
+46013,"Winnipeg South","Winnipeg-Sud"," 610","Winnipeg",N,N,"",2,0,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,41
+46013,"Winnipeg South","Winnipeg-Sud"," 610","Winnipeg",N,N,"",2,0,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,119
+46013,"Winnipeg South","Winnipeg-Sud"," 610","Winnipeg",N,N,"",2,0,"Maher","","Melanie","Conservative","Conservateur",N,N,456
+46013,"Winnipeg South","Winnipeg-Sud"," 611","Winnipeg",N,N,"",5,0,"Boettcher","","Greg","Green Party","Parti Vert",N,N,22
+46013,"Winnipeg South","Winnipeg-Sud"," 611","Winnipeg",N,N,"",5,0,"Duguid","","Terry","Liberal","Libéral",Y,Y,876
+46013,"Winnipeg South","Winnipeg-Sud"," 611","Winnipeg",N,N,"",5,0,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,75
+46013,"Winnipeg South","Winnipeg-Sud"," 611","Winnipeg",N,N,"",5,0,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,176
+46013,"Winnipeg South","Winnipeg-Sud"," 611","Winnipeg",N,N,"",5,0,"Maher","","Melanie","Conservative","Conservateur",N,N,681
+46013,"Winnipeg South","Winnipeg-Sud"," 612","Winnipeg",N,N,"",1,0,"Boettcher","","Greg","Green Party","Parti Vert",N,N,14
+46013,"Winnipeg South","Winnipeg-Sud"," 612","Winnipeg",N,N,"",1,0,"Duguid","","Terry","Liberal","Libéral",Y,Y,475
+46013,"Winnipeg South","Winnipeg-Sud"," 612","Winnipeg",N,N,"",1,0,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,65
+46013,"Winnipeg South","Winnipeg-Sud"," 612","Winnipeg",N,N,"",1,0,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,118
+46013,"Winnipeg South","Winnipeg-Sud"," 612","Winnipeg",N,N,"",1,0,"Maher","","Melanie","Conservative","Conservateur",N,N,472
+46013,"Winnipeg South","Winnipeg-Sud"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",30,199,"Boettcher","","Greg","Green Party","Parti Vert",N,N,12
+46013,"Winnipeg South","Winnipeg-Sud"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",30,199,"Duguid","","Terry","Liberal","Libéral",Y,Y,208
+46013,"Winnipeg South","Winnipeg-Sud"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",30,199,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,9
+46013,"Winnipeg South","Winnipeg-Sud"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",30,199,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,82
+46013,"Winnipeg South","Winnipeg-Sud"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",30,199,"Maher","","Melanie","Conservative","Conservateur",N,N,171
+46013,"Winnipeg South","Winnipeg-Sud"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",98,0,"Boettcher","","Greg","Green Party","Parti Vert",N,N,22
+46013,"Winnipeg South","Winnipeg-Sud"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",98,0,"Duguid","","Terry","Liberal","Libéral",Y,Y,1517
+46013,"Winnipeg South","Winnipeg-Sud"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",98,0,"Gryba","","Byron Curtis","People's Party - PPC","Parti populaire - PPC",N,N,34
+46013,"Winnipeg South","Winnipeg-Sud"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",98,0,"Kahanovitch","","Aiden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,310
+46013,"Winnipeg South","Winnipeg-Sud"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",98,0,"Maher","","Melanie","Conservative","Conservateur",N,N,844

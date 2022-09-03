@@ -1,0 +1,1285 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+12005,"Halifax","Halifax"," 1","Halifax",N,N,"13",0,1,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 1","Halifax",N,N,"13",0,1,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 1","Halifax",N,N,"13",0,1,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 1","Halifax",N,N,"13",0,1,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 1","Halifax",N,N,"13",0,1,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 1","Halifax",N,N,"13",0,1,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 2","Williamswood",N,N,"",0,344,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 2","Williamswood",N,N,"",0,344,"Ells","","Cameron","Conservative","Conservateur",N,N,34
+12005,"Halifax","Halifax"," 2","Williamswood",N,N,"",0,344,"Fillmore","","Andy","Liberal","Libéral",Y,Y,42
+12005,"Halifax","Halifax"," 2","Williamswood",N,N,"",0,344,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,3
+12005,"Halifax","Halifax"," 2","Williamswood",N,N,"",0,344,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 2","Williamswood",N,N,"",0,344,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+12005,"Halifax","Halifax"," 3","Sambro Head",N,N,"",2,431,"Campbell","","Katie","Communist","Communiste",N,N,2
+12005,"Halifax","Halifax"," 3","Sambro Head",N,N,"",2,431,"Ells","","Cameron","Conservative","Conservateur",N,N,53
+12005,"Halifax","Halifax"," 3","Sambro Head",N,N,"",2,431,"Fillmore","","Andy","Liberal","Libéral",Y,Y,76
+12005,"Halifax","Halifax"," 3","Sambro Head",N,N,"",2,431,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,4
+12005,"Halifax","Halifax"," 3","Sambro Head",N,N,"",2,431,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,6
+12005,"Halifax","Halifax"," 3","Sambro Head",N,N,"",2,431,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12005,"Halifax","Halifax"," 4","East Pennant",N,N,"",1,304,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 4","East Pennant",N,N,"",1,304,"Ells","","Cameron","Conservative","Conservateur",N,N,26
+12005,"Halifax","Halifax"," 4","East Pennant",N,N,"",1,304,"Fillmore","","Andy","Liberal","Libéral",Y,Y,51
+12005,"Halifax","Halifax"," 4","East Pennant",N,N,"",1,304,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,5
+12005,"Halifax","Halifax"," 4","East Pennant",N,N,"",1,304,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,4
+12005,"Halifax","Halifax"," 4","East Pennant",N,N,"",1,304,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12005,"Halifax","Halifax"," 5","Halifax",N,N,"",0,414,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 5","Halifax",N,N,"",0,414,"Ells","","Cameron","Conservative","Conservateur",N,N,13
+12005,"Halifax","Halifax"," 5","Halifax",N,N,"",0,414,"Fillmore","","Andy","Liberal","Libéral",Y,Y,55
+12005,"Halifax","Halifax"," 5","Halifax",N,N,"",0,414,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,10
+12005,"Halifax","Halifax"," 5","Halifax",N,N,"",0,414,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,2
+12005,"Halifax","Halifax"," 5","Halifax",N,N,"",0,414,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,79
+12005,"Halifax","Halifax"," 6","Halifax",N,N,"",0,391,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 6","Halifax",N,N,"",0,391,"Ells","","Cameron","Conservative","Conservateur",N,N,13
+12005,"Halifax","Halifax"," 6","Halifax",N,N,"",0,391,"Fillmore","","Andy","Liberal","Libéral",Y,Y,48
+12005,"Halifax","Halifax"," 6","Halifax",N,N,"",0,391,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,5
+12005,"Halifax","Halifax"," 6","Halifax",N,N,"",0,391,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,1
+12005,"Halifax","Halifax"," 6","Halifax",N,N,"",0,391,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+12005,"Halifax","Halifax"," 7","Halifax",N,N,"9",0,430,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 7","Halifax",N,N,"9",0,430,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 7","Halifax",N,N,"9",0,430,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 7","Halifax",N,N,"9",0,430,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 7","Halifax",N,N,"9",0,430,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 7","Halifax",N,N,"9",0,430,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 8","Halifax",N,N,"",0,726,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 8","Halifax",N,N,"",0,726,"Ells","","Cameron","Conservative","Conservateur",N,N,28
+12005,"Halifax","Halifax"," 8","Halifax",N,N,"",0,726,"Fillmore","","Andy","Liberal","Libéral",Y,Y,80
+12005,"Halifax","Halifax"," 8","Halifax",N,N,"",0,726,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,7
+12005,"Halifax","Halifax"," 8","Halifax",N,N,"",0,726,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,3
+12005,"Halifax","Halifax"," 8","Halifax",N,N,"",0,726,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,123
+12005,"Halifax","Halifax"," 9","Halifax",N,N,"",0,548,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 9","Halifax",N,N,"",0,548,"Ells","","Cameron","Conservative","Conservateur",N,N,27
+12005,"Halifax","Halifax"," 9","Halifax",N,N,"",0,548,"Fillmore","","Andy","Liberal","Libéral",Y,Y,88
+12005,"Halifax","Halifax"," 9","Halifax",N,N,"",0,548,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,10
+12005,"Halifax","Halifax"," 9","Halifax",N,N,"",0,548,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,11
+12005,"Halifax","Halifax"," 9","Halifax",N,N,"",0,548,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,187
+12005,"Halifax","Halifax"," 10","Halifax",N,N,"",1,373,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 10","Halifax",N,N,"",1,373,"Ells","","Cameron","Conservative","Conservateur",N,N,12
+12005,"Halifax","Halifax"," 10","Halifax",N,N,"",1,373,"Fillmore","","Andy","Liberal","Libéral",Y,Y,50
+12005,"Halifax","Halifax"," 10","Halifax",N,N,"",1,373,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,4
+12005,"Halifax","Halifax"," 10","Halifax",N,N,"",1,373,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,4
+12005,"Halifax","Halifax"," 10","Halifax",N,N,"",1,373,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+12005,"Halifax","Halifax"," 11","Halifax",N,N,"",0,352,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 11","Halifax",N,N,"",0,352,"Ells","","Cameron","Conservative","Conservateur",N,N,14
+12005,"Halifax","Halifax"," 11","Halifax",N,N,"",0,352,"Fillmore","","Andy","Liberal","Libéral",Y,Y,70
+12005,"Halifax","Halifax"," 11","Halifax",N,N,"",0,352,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,1
+12005,"Halifax","Halifax"," 11","Halifax",N,N,"",0,352,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,3
+12005,"Halifax","Halifax"," 11","Halifax",N,N,"",0,352,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+12005,"Halifax","Halifax"," 12","Halifax",N,N,"",0,368,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 12","Halifax",N,N,"",0,368,"Ells","","Cameron","Conservative","Conservateur",N,N,12
+12005,"Halifax","Halifax"," 12","Halifax",N,N,"",0,368,"Fillmore","","Andy","Liberal","Libéral",Y,Y,69
+12005,"Halifax","Halifax"," 12","Halifax",N,N,"",0,368,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,7
+12005,"Halifax","Halifax"," 12","Halifax",N,N,"",0,368,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,7
+12005,"Halifax","Halifax"," 12","Halifax",N,N,"",0,368,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+12005,"Halifax","Halifax"," 13","Halifax",N,N,"",0,493,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 13","Halifax",N,N,"",0,493,"Ells","","Cameron","Conservative","Conservateur",N,N,18
+12005,"Halifax","Halifax"," 13","Halifax",N,N,"",0,493,"Fillmore","","Andy","Liberal","Libéral",Y,Y,81
+12005,"Halifax","Halifax"," 13","Halifax",N,N,"",0,493,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,7
+12005,"Halifax","Halifax"," 13","Halifax",N,N,"",0,493,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,1
+12005,"Halifax","Halifax"," 13","Halifax",N,N,"",0,493,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+12005,"Halifax","Halifax"," 14","Halifax",N,N,"",1,563,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 14","Halifax",N,N,"",1,563,"Ells","","Cameron","Conservative","Conservateur",N,N,16
+12005,"Halifax","Halifax"," 14","Halifax",N,N,"",1,563,"Fillmore","","Andy","Liberal","Libéral",Y,Y,90
+12005,"Halifax","Halifax"," 14","Halifax",N,N,"",1,563,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,6
+12005,"Halifax","Halifax"," 14","Halifax",N,N,"",1,563,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,4
+12005,"Halifax","Halifax"," 14","Halifax",N,N,"",1,563,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+12005,"Halifax","Halifax"," 15","Halifax",N,N,"",0,391,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 15","Halifax",N,N,"",0,391,"Ells","","Cameron","Conservative","Conservateur",N,N,9
+12005,"Halifax","Halifax"," 15","Halifax",N,N,"",0,391,"Fillmore","","Andy","Liberal","Libéral",Y,Y,70
+12005,"Halifax","Halifax"," 15","Halifax",N,N,"",0,391,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,2
+12005,"Halifax","Halifax"," 15","Halifax",N,N,"",0,391,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,7
+12005,"Halifax","Halifax"," 15","Halifax",N,N,"",0,391,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+12005,"Halifax","Halifax"," 16","Halifax",N,N,"",1,403,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 16","Halifax",N,N,"",1,403,"Ells","","Cameron","Conservative","Conservateur",N,N,18
+12005,"Halifax","Halifax"," 16","Halifax",N,N,"",1,403,"Fillmore","","Andy","Liberal","Libéral",Y,Y,44
+12005,"Halifax","Halifax"," 16","Halifax",N,N,"",1,403,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,6
+12005,"Halifax","Halifax"," 16","Halifax",N,N,"",1,403,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,2
+12005,"Halifax","Halifax"," 16","Halifax",N,N,"",1,403,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,94
+12005,"Halifax","Halifax"," 17","Halifax",N,N,"",1,494,"Campbell","","Katie","Communist","Communiste",N,N,6
+12005,"Halifax","Halifax"," 17","Halifax",N,N,"",1,494,"Ells","","Cameron","Conservative","Conservateur",N,N,6
+12005,"Halifax","Halifax"," 17","Halifax",N,N,"",1,494,"Fillmore","","Andy","Liberal","Libéral",Y,Y,58
+12005,"Halifax","Halifax"," 17","Halifax",N,N,"",1,494,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,3
+12005,"Halifax","Halifax"," 17","Halifax",N,N,"",1,494,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,1
+12005,"Halifax","Halifax"," 17","Halifax",N,N,"",1,494,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,107
+12005,"Halifax","Halifax"," 18","Halifax",N,N,"",1,466,"Campbell","","Katie","Communist","Communiste",N,N,2
+12005,"Halifax","Halifax"," 18","Halifax",N,N,"",1,466,"Ells","","Cameron","Conservative","Conservateur",N,N,15
+12005,"Halifax","Halifax"," 18","Halifax",N,N,"",1,466,"Fillmore","","Andy","Liberal","Libéral",Y,Y,55
+12005,"Halifax","Halifax"," 18","Halifax",N,N,"",1,466,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,7
+12005,"Halifax","Halifax"," 18","Halifax",N,N,"",1,466,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,4
+12005,"Halifax","Halifax"," 18","Halifax",N,N,"",1,466,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,94
+12005,"Halifax","Halifax"," 19","Halifax",N,N,"",0,530,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 19","Halifax",N,N,"",0,530,"Ells","","Cameron","Conservative","Conservateur",N,N,5
+12005,"Halifax","Halifax"," 19","Halifax",N,N,"",0,530,"Fillmore","","Andy","Liberal","Libéral",Y,Y,40
+12005,"Halifax","Halifax"," 19","Halifax",N,N,"",0,530,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,6
+12005,"Halifax","Halifax"," 19","Halifax",N,N,"",0,530,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,1
+12005,"Halifax","Halifax"," 19","Halifax",N,N,"",0,530,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,107
+12005,"Halifax","Halifax"," 20","Halifax",N,N,"",0,604,"Campbell","","Katie","Communist","Communiste",N,N,2
+12005,"Halifax","Halifax"," 20","Halifax",N,N,"",0,604,"Ells","","Cameron","Conservative","Conservateur",N,N,12
+12005,"Halifax","Halifax"," 20","Halifax",N,N,"",0,604,"Fillmore","","Andy","Liberal","Libéral",Y,Y,56
+12005,"Halifax","Halifax"," 20","Halifax",N,N,"",0,604,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 20","Halifax",N,N,"",0,604,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,2
+12005,"Halifax","Halifax"," 20","Halifax",N,N,"",0,604,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,161
+12005,"Halifax","Halifax"," 21","Halifax",N,N,"",0,328,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 21","Halifax",N,N,"",0,328,"Ells","","Cameron","Conservative","Conservateur",N,N,11
+12005,"Halifax","Halifax"," 21","Halifax",N,N,"",0,328,"Fillmore","","Andy","Liberal","Libéral",Y,Y,41
+12005,"Halifax","Halifax"," 21","Halifax",N,N,"",0,328,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,4
+12005,"Halifax","Halifax"," 21","Halifax",N,N,"",0,328,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,6
+12005,"Halifax","Halifax"," 21","Halifax",N,N,"",0,328,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,82
+12005,"Halifax","Halifax"," 22","Halifax",N,N,"",3,421,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 22","Halifax",N,N,"",3,421,"Ells","","Cameron","Conservative","Conservateur",N,N,11
+12005,"Halifax","Halifax"," 22","Halifax",N,N,"",3,421,"Fillmore","","Andy","Liberal","Libéral",Y,Y,66
+12005,"Halifax","Halifax"," 22","Halifax",N,N,"",3,421,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,1
+12005,"Halifax","Halifax"," 22","Halifax",N,N,"",3,421,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,3
+12005,"Halifax","Halifax"," 22","Halifax",N,N,"",3,421,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,101
+12005,"Halifax","Halifax"," 23","Halifax",N,N,"",0,548,"Campbell","","Katie","Communist","Communiste",N,N,2
+12005,"Halifax","Halifax"," 23","Halifax",N,N,"",0,548,"Ells","","Cameron","Conservative","Conservateur",N,N,16
+12005,"Halifax","Halifax"," 23","Halifax",N,N,"",0,548,"Fillmore","","Andy","Liberal","Libéral",Y,Y,93
+12005,"Halifax","Halifax"," 23","Halifax",N,N,"",0,548,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,9
+12005,"Halifax","Halifax"," 23","Halifax",N,N,"",0,548,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,13
+12005,"Halifax","Halifax"," 23","Halifax",N,N,"",0,548,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,112
+12005,"Halifax","Halifax"," 24","Halifax",N,N,"",0,468,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 24","Halifax",N,N,"",0,468,"Ells","","Cameron","Conservative","Conservateur",N,N,18
+12005,"Halifax","Halifax"," 24","Halifax",N,N,"",0,468,"Fillmore","","Andy","Liberal","Libéral",Y,Y,79
+12005,"Halifax","Halifax"," 24","Halifax",N,N,"",0,468,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,5
+12005,"Halifax","Halifax"," 24","Halifax",N,N,"",0,468,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,9
+12005,"Halifax","Halifax"," 24","Halifax",N,N,"",0,468,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,105
+12005,"Halifax","Halifax"," 25","Halifax",N,N,"",1,501,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 25","Halifax",N,N,"",1,501,"Ells","","Cameron","Conservative","Conservateur",N,N,23
+12005,"Halifax","Halifax"," 25","Halifax",N,N,"",1,501,"Fillmore","","Andy","Liberal","Libéral",Y,Y,54
+12005,"Halifax","Halifax"," 25","Halifax",N,N,"",1,501,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,6
+12005,"Halifax","Halifax"," 25","Halifax",N,N,"",1,501,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,2
+12005,"Halifax","Halifax"," 25","Halifax",N,N,"",1,501,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,101
+12005,"Halifax","Halifax"," 26","Halifax",N,N,"",0,536,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 26","Halifax",N,N,"",0,536,"Ells","","Cameron","Conservative","Conservateur",N,N,28
+12005,"Halifax","Halifax"," 26","Halifax",N,N,"",0,536,"Fillmore","","Andy","Liberal","Libéral",Y,Y,99
+12005,"Halifax","Halifax"," 26","Halifax",N,N,"",0,536,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,6
+12005,"Halifax","Halifax"," 26","Halifax",N,N,"",0,536,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,2
+12005,"Halifax","Halifax"," 26","Halifax",N,N,"",0,536,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,83
+12005,"Halifax","Halifax"," 27","Halifax",N,N,"",1,446,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 27","Halifax",N,N,"",1,446,"Ells","","Cameron","Conservative","Conservateur",N,N,9
+12005,"Halifax","Halifax"," 27","Halifax",N,N,"",1,446,"Fillmore","","Andy","Liberal","Libéral",Y,Y,64
+12005,"Halifax","Halifax"," 27","Halifax",N,N,"",1,446,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,5
+12005,"Halifax","Halifax"," 27","Halifax",N,N,"",1,446,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,9
+12005,"Halifax","Halifax"," 27","Halifax",N,N,"",1,446,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,123
+12005,"Halifax","Halifax"," 28","Halifax",N,N,"",0,206,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 28","Halifax",N,N,"",0,206,"Ells","","Cameron","Conservative","Conservateur",N,N,5
+12005,"Halifax","Halifax"," 28","Halifax",N,N,"",0,206,"Fillmore","","Andy","Liberal","Libéral",Y,Y,35
+12005,"Halifax","Halifax"," 28","Halifax",N,N,"",0,206,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,2
+12005,"Halifax","Halifax"," 28","Halifax",N,N,"",0,206,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,1
+12005,"Halifax","Halifax"," 28","Halifax",N,N,"",0,206,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+12005,"Halifax","Halifax"," 29","Halifax",N,N,"28",0,97,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 29","Halifax",N,N,"28",0,97,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 29","Halifax",N,N,"28",0,97,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 29","Halifax",N,N,"28",0,97,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 29","Halifax",N,N,"28",0,97,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 29","Halifax",N,N,"28",0,97,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 30","Halifax",N,N,"",1,340,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 30","Halifax",N,N,"",1,340,"Ells","","Cameron","Conservative","Conservateur",N,N,4
+12005,"Halifax","Halifax"," 30","Halifax",N,N,"",1,340,"Fillmore","","Andy","Liberal","Libéral",Y,Y,43
+12005,"Halifax","Halifax"," 30","Halifax",N,N,"",1,340,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,2
+12005,"Halifax","Halifax"," 30","Halifax",N,N,"",1,340,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,1
+12005,"Halifax","Halifax"," 30","Halifax",N,N,"",1,340,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,95
+12005,"Halifax","Halifax"," 31","Halifax",N,N,"",2,465,"Campbell","","Katie","Communist","Communiste",N,N,2
+12005,"Halifax","Halifax"," 31","Halifax",N,N,"",2,465,"Ells","","Cameron","Conservative","Conservateur",N,N,11
+12005,"Halifax","Halifax"," 31","Halifax",N,N,"",2,465,"Fillmore","","Andy","Liberal","Libéral",Y,Y,71
+12005,"Halifax","Halifax"," 31","Halifax",N,N,"",2,465,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,1
+12005,"Halifax","Halifax"," 31","Halifax",N,N,"",2,465,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,6
+12005,"Halifax","Halifax"," 31","Halifax",N,N,"",2,465,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,116
+12005,"Halifax","Halifax"," 32","Halifax",N,N,"",0,488,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 32","Halifax",N,N,"",0,488,"Ells","","Cameron","Conservative","Conservateur",N,N,10
+12005,"Halifax","Halifax"," 32","Halifax",N,N,"",0,488,"Fillmore","","Andy","Liberal","Libéral",Y,Y,60
+12005,"Halifax","Halifax"," 32","Halifax",N,N,"",0,488,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,4
+12005,"Halifax","Halifax"," 32","Halifax",N,N,"",0,488,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,1
+12005,"Halifax","Halifax"," 32","Halifax",N,N,"",0,488,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,91
+12005,"Halifax","Halifax"," 33","Halifax",N,N,"",0,409,"Campbell","","Katie","Communist","Communiste",N,N,3
+12005,"Halifax","Halifax"," 33","Halifax",N,N,"",0,409,"Ells","","Cameron","Conservative","Conservateur",N,N,16
+12005,"Halifax","Halifax"," 33","Halifax",N,N,"",0,409,"Fillmore","","Andy","Liberal","Libéral",Y,Y,61
+12005,"Halifax","Halifax"," 33","Halifax",N,N,"",0,409,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,2
+12005,"Halifax","Halifax"," 33","Halifax",N,N,"",0,409,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,4
+12005,"Halifax","Halifax"," 33","Halifax",N,N,"",0,409,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,84
+12005,"Halifax","Halifax"," 34","Halifax",N,N,"",0,336,"Campbell","","Katie","Communist","Communiste",N,N,2
+12005,"Halifax","Halifax"," 34","Halifax",N,N,"",0,336,"Ells","","Cameron","Conservative","Conservateur",N,N,42
+12005,"Halifax","Halifax"," 34","Halifax",N,N,"",0,336,"Fillmore","","Andy","Liberal","Libéral",Y,Y,107
+12005,"Halifax","Halifax"," 34","Halifax",N,N,"",0,336,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,3
+12005,"Halifax","Halifax"," 34","Halifax",N,N,"",0,336,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,2
+12005,"Halifax","Halifax"," 34","Halifax",N,N,"",0,336,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,104
+12005,"Halifax","Halifax"," 35","Halifax",N,N,"",0,500,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 35","Halifax",N,N,"",0,500,"Ells","","Cameron","Conservative","Conservateur",N,N,31
+12005,"Halifax","Halifax"," 35","Halifax",N,N,"",0,500,"Fillmore","","Andy","Liberal","Libéral",Y,Y,74
+12005,"Halifax","Halifax"," 35","Halifax",N,N,"",0,500,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,6
+12005,"Halifax","Halifax"," 35","Halifax",N,N,"",0,500,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,1
+12005,"Halifax","Halifax"," 35","Halifax",N,N,"",0,500,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,78
+12005,"Halifax","Halifax"," 36","Halifax",N,N,"",0,554,"Campbell","","Katie","Communist","Communiste",N,N,2
+12005,"Halifax","Halifax"," 36","Halifax",N,N,"",0,554,"Ells","","Cameron","Conservative","Conservateur",N,N,29
+12005,"Halifax","Halifax"," 36","Halifax",N,N,"",0,554,"Fillmore","","Andy","Liberal","Libéral",Y,Y,65
+12005,"Halifax","Halifax"," 36","Halifax",N,N,"",0,554,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,4
+12005,"Halifax","Halifax"," 36","Halifax",N,N,"",0,554,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,8
+12005,"Halifax","Halifax"," 36","Halifax",N,N,"",0,554,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,120
+12005,"Halifax","Halifax"," 37","Halifax",N,N,"",0,484,"Campbell","","Katie","Communist","Communiste",N,N,3
+12005,"Halifax","Halifax"," 37","Halifax",N,N,"",0,484,"Ells","","Cameron","Conservative","Conservateur",N,N,23
+12005,"Halifax","Halifax"," 37","Halifax",N,N,"",0,484,"Fillmore","","Andy","Liberal","Libéral",Y,Y,70
+12005,"Halifax","Halifax"," 37","Halifax",N,N,"",0,484,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,5
+12005,"Halifax","Halifax"," 37","Halifax",N,N,"",0,484,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,3
+12005,"Halifax","Halifax"," 37","Halifax",N,N,"",0,484,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,93
+12005,"Halifax","Halifax"," 38","Halifax",N,N,"",0,577,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 38","Halifax",N,N,"",0,577,"Ells","","Cameron","Conservative","Conservateur",N,N,21
+12005,"Halifax","Halifax"," 38","Halifax",N,N,"",0,577,"Fillmore","","Andy","Liberal","Libéral",Y,Y,79
+12005,"Halifax","Halifax"," 38","Halifax",N,N,"",0,577,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,5
+12005,"Halifax","Halifax"," 38","Halifax",N,N,"",0,577,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 38","Halifax",N,N,"",0,577,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,128
+12005,"Halifax","Halifax"," 39","Halifax",N,N,"",1,625,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 39","Halifax",N,N,"",1,625,"Ells","","Cameron","Conservative","Conservateur",N,N,20
+12005,"Halifax","Halifax"," 39","Halifax",N,N,"",1,625,"Fillmore","","Andy","Liberal","Libéral",Y,Y,80
+12005,"Halifax","Halifax"," 39","Halifax",N,N,"",1,625,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,3
+12005,"Halifax","Halifax"," 39","Halifax",N,N,"",1,625,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,3
+12005,"Halifax","Halifax"," 39","Halifax",N,N,"",1,625,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,137
+12005,"Halifax","Halifax"," 40","Halifax",N,N,"",1,348,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 40","Halifax",N,N,"",1,348,"Ells","","Cameron","Conservative","Conservateur",N,N,10
+12005,"Halifax","Halifax"," 40","Halifax",N,N,"",1,348,"Fillmore","","Andy","Liberal","Libéral",Y,Y,72
+12005,"Halifax","Halifax"," 40","Halifax",N,N,"",1,348,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,2
+12005,"Halifax","Halifax"," 40","Halifax",N,N,"",1,348,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 40","Halifax",N,N,"",1,348,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+12005,"Halifax","Halifax"," 41","Halifax",N,N,"",0,352,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 41","Halifax",N,N,"",0,352,"Ells","","Cameron","Conservative","Conservateur",N,N,19
+12005,"Halifax","Halifax"," 41","Halifax",N,N,"",0,352,"Fillmore","","Andy","Liberal","Libéral",Y,Y,84
+12005,"Halifax","Halifax"," 41","Halifax",N,N,"",0,352,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,2
+12005,"Halifax","Halifax"," 41","Halifax",N,N,"",0,352,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,1
+12005,"Halifax","Halifax"," 41","Halifax",N,N,"",0,352,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,78
+12005,"Halifax","Halifax"," 42","Halifax",N,N,"",1,357,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 42","Halifax",N,N,"",1,357,"Ells","","Cameron","Conservative","Conservateur",N,N,12
+12005,"Halifax","Halifax"," 42","Halifax",N,N,"",1,357,"Fillmore","","Andy","Liberal","Libéral",Y,Y,53
+12005,"Halifax","Halifax"," 42","Halifax",N,N,"",1,357,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,2
+12005,"Halifax","Halifax"," 42","Halifax",N,N,"",1,357,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,3
+12005,"Halifax","Halifax"," 42","Halifax",N,N,"",1,357,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+12005,"Halifax","Halifax"," 43","Halifax",N,N,"",1,419,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 43","Halifax",N,N,"",1,419,"Ells","","Cameron","Conservative","Conservateur",N,N,32
+12005,"Halifax","Halifax"," 43","Halifax",N,N,"",1,419,"Fillmore","","Andy","Liberal","Libéral",Y,Y,119
+12005,"Halifax","Halifax"," 43","Halifax",N,N,"",1,419,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,6
+12005,"Halifax","Halifax"," 43","Halifax",N,N,"",1,419,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,8
+12005,"Halifax","Halifax"," 43","Halifax",N,N,"",1,419,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,143
+12005,"Halifax","Halifax"," 44","Halifax",N,N,"",0,454,"Campbell","","Katie","Communist","Communiste",N,N,2
+12005,"Halifax","Halifax"," 44","Halifax",N,N,"",0,454,"Ells","","Cameron","Conservative","Conservateur",N,N,13
+12005,"Halifax","Halifax"," 44","Halifax",N,N,"",0,454,"Fillmore","","Andy","Liberal","Libéral",Y,Y,58
+12005,"Halifax","Halifax"," 44","Halifax",N,N,"",0,454,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,1
+12005,"Halifax","Halifax"," 44","Halifax",N,N,"",0,454,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,3
+12005,"Halifax","Halifax"," 44","Halifax",N,N,"",0,454,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,89
+12005,"Halifax","Halifax"," 45","Halifax",N,N,"43",0,344,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 45","Halifax",N,N,"43",0,344,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 45","Halifax",N,N,"43",0,344,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 45","Halifax",N,N,"43",0,344,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 45","Halifax",N,N,"43",0,344,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 45","Halifax",N,N,"43",0,344,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 46","Halifax",N,N,"",0,430,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 46","Halifax",N,N,"",0,430,"Ells","","Cameron","Conservative","Conservateur",N,N,19
+12005,"Halifax","Halifax"," 46","Halifax",N,N,"",0,430,"Fillmore","","Andy","Liberal","Libéral",Y,Y,62
+12005,"Halifax","Halifax"," 46","Halifax",N,N,"",0,430,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,4
+12005,"Halifax","Halifax"," 46","Halifax",N,N,"",0,430,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,10
+12005,"Halifax","Halifax"," 46","Halifax",N,N,"",0,430,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,88
+12005,"Halifax","Halifax"," 47","Halifax",N,N,"",2,410,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 47","Halifax",N,N,"",2,410,"Ells","","Cameron","Conservative","Conservateur",N,N,19
+12005,"Halifax","Halifax"," 47","Halifax",N,N,"",2,410,"Fillmore","","Andy","Liberal","Libéral",Y,Y,64
+12005,"Halifax","Halifax"," 47","Halifax",N,N,"",2,410,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 47","Halifax",N,N,"",2,410,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,4
+12005,"Halifax","Halifax"," 47","Halifax",N,N,"",2,410,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+12005,"Halifax","Halifax"," 48","Halifax",N,N,"",1,422,"Campbell","","Katie","Communist","Communiste",N,N,2
+12005,"Halifax","Halifax"," 48","Halifax",N,N,"",1,422,"Ells","","Cameron","Conservative","Conservateur",N,N,14
+12005,"Halifax","Halifax"," 48","Halifax",N,N,"",1,422,"Fillmore","","Andy","Liberal","Libéral",Y,Y,66
+12005,"Halifax","Halifax"," 48","Halifax",N,N,"",1,422,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,4
+12005,"Halifax","Halifax"," 48","Halifax",N,N,"",1,422,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,3
+12005,"Halifax","Halifax"," 48","Halifax",N,N,"",1,422,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,82
+12005,"Halifax","Halifax"," 49","Halifax",N,N,"",0,386,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 49","Halifax",N,N,"",0,386,"Ells","","Cameron","Conservative","Conservateur",N,N,9
+12005,"Halifax","Halifax"," 49","Halifax",N,N,"",0,386,"Fillmore","","Andy","Liberal","Libéral",Y,Y,47
+12005,"Halifax","Halifax"," 49","Halifax",N,N,"",0,386,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,1
+12005,"Halifax","Halifax"," 49","Halifax",N,N,"",0,386,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,6
+12005,"Halifax","Halifax"," 49","Halifax",N,N,"",0,386,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,116
+12005,"Halifax","Halifax"," 50","Halifax",N,N,"",1,532,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 50","Halifax",N,N,"",1,532,"Ells","","Cameron","Conservative","Conservateur",N,N,25
+12005,"Halifax","Halifax"," 50","Halifax",N,N,"",1,532,"Fillmore","","Andy","Liberal","Libéral",Y,Y,95
+12005,"Halifax","Halifax"," 50","Halifax",N,N,"",1,532,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,11
+12005,"Halifax","Halifax"," 50","Halifax",N,N,"",1,532,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,3
+12005,"Halifax","Halifax"," 50","Halifax",N,N,"",1,532,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,104
+12005,"Halifax","Halifax"," 51","Halifax",N,N,"",0,494,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 51","Halifax",N,N,"",0,494,"Ells","","Cameron","Conservative","Conservateur",N,N,18
+12005,"Halifax","Halifax"," 51","Halifax",N,N,"",0,494,"Fillmore","","Andy","Liberal","Libéral",Y,Y,51
+12005,"Halifax","Halifax"," 51","Halifax",N,N,"",0,494,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,3
+12005,"Halifax","Halifax"," 51","Halifax",N,N,"",0,494,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,6
+12005,"Halifax","Halifax"," 51","Halifax",N,N,"",0,494,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,147
+12005,"Halifax","Halifax"," 52","Halifax",N,N,"",1,528,"Campbell","","Katie","Communist","Communiste",N,N,2
+12005,"Halifax","Halifax"," 52","Halifax",N,N,"",1,528,"Ells","","Cameron","Conservative","Conservateur",N,N,9
+12005,"Halifax","Halifax"," 52","Halifax",N,N,"",1,528,"Fillmore","","Andy","Liberal","Libéral",Y,Y,79
+12005,"Halifax","Halifax"," 52","Halifax",N,N,"",1,528,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,3
+12005,"Halifax","Halifax"," 52","Halifax",N,N,"",1,528,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,4
+12005,"Halifax","Halifax"," 52","Halifax",N,N,"",1,528,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,138
+12005,"Halifax","Halifax"," 53","Halifax",N,N,"",0,463,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 53","Halifax",N,N,"",0,463,"Ells","","Cameron","Conservative","Conservateur",N,N,33
+12005,"Halifax","Halifax"," 53","Halifax",N,N,"",0,463,"Fillmore","","Andy","Liberal","Libéral",Y,Y,76
+12005,"Halifax","Halifax"," 53","Halifax",N,N,"",0,463,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,6
+12005,"Halifax","Halifax"," 53","Halifax",N,N,"",0,463,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,7
+12005,"Halifax","Halifax"," 53","Halifax",N,N,"",0,463,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,103
+12005,"Halifax","Halifax"," 54","Halifax",N,N,"",1,471,"Campbell","","Katie","Communist","Communiste",N,N,2
+12005,"Halifax","Halifax"," 54","Halifax",N,N,"",1,471,"Ells","","Cameron","Conservative","Conservateur",N,N,18
+12005,"Halifax","Halifax"," 54","Halifax",N,N,"",1,471,"Fillmore","","Andy","Liberal","Libéral",Y,Y,50
+12005,"Halifax","Halifax"," 54","Halifax",N,N,"",1,471,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,9
+12005,"Halifax","Halifax"," 54","Halifax",N,N,"",1,471,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,5
+12005,"Halifax","Halifax"," 54","Halifax",N,N,"",1,471,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,98
+12005,"Halifax","Halifax"," 55","Halifax",N,N,"",1,535,"Campbell","","Katie","Communist","Communiste",N,N,2
+12005,"Halifax","Halifax"," 55","Halifax",N,N,"",1,535,"Ells","","Cameron","Conservative","Conservateur",N,N,23
+12005,"Halifax","Halifax"," 55","Halifax",N,N,"",1,535,"Fillmore","","Andy","Liberal","Libéral",Y,Y,81
+12005,"Halifax","Halifax"," 55","Halifax",N,N,"",1,535,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,11
+12005,"Halifax","Halifax"," 55","Halifax",N,N,"",1,535,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,9
+12005,"Halifax","Halifax"," 55","Halifax",N,N,"",1,535,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+12005,"Halifax","Halifax"," 56","Halifax",N,N,"",0,552,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 56","Halifax",N,N,"",0,552,"Ells","","Cameron","Conservative","Conservateur",N,N,24
+12005,"Halifax","Halifax"," 56","Halifax",N,N,"",0,552,"Fillmore","","Andy","Liberal","Libéral",Y,Y,95
+12005,"Halifax","Halifax"," 56","Halifax",N,N,"",0,552,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,1
+12005,"Halifax","Halifax"," 56","Halifax",N,N,"",0,552,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,4
+12005,"Halifax","Halifax"," 56","Halifax",N,N,"",0,552,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,115
+12005,"Halifax","Halifax"," 57","Halifax",N,N,"",0,404,"Campbell","","Katie","Communist","Communiste",N,N,3
+12005,"Halifax","Halifax"," 57","Halifax",N,N,"",0,404,"Ells","","Cameron","Conservative","Conservateur",N,N,25
+12005,"Halifax","Halifax"," 57","Halifax",N,N,"",0,404,"Fillmore","","Andy","Liberal","Libéral",Y,Y,56
+12005,"Halifax","Halifax"," 57","Halifax",N,N,"",0,404,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,7
+12005,"Halifax","Halifax"," 57","Halifax",N,N,"",0,404,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,4
+12005,"Halifax","Halifax"," 57","Halifax",N,N,"",0,404,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,138
+12005,"Halifax","Halifax"," 58","Halifax",N,N,"",1,589,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 58","Halifax",N,N,"",1,589,"Ells","","Cameron","Conservative","Conservateur",N,N,27
+12005,"Halifax","Halifax"," 58","Halifax",N,N,"",1,589,"Fillmore","","Andy","Liberal","Libéral",Y,Y,87
+12005,"Halifax","Halifax"," 58","Halifax",N,N,"",1,589,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,5
+12005,"Halifax","Halifax"," 58","Halifax",N,N,"",1,589,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,7
+12005,"Halifax","Halifax"," 58","Halifax",N,N,"",1,589,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,185
+12005,"Halifax","Halifax"," 59","Halifax",N,N,"",1,456,"Campbell","","Katie","Communist","Communiste",N,N,4
+12005,"Halifax","Halifax"," 59","Halifax",N,N,"",1,456,"Ells","","Cameron","Conservative","Conservateur",N,N,10
+12005,"Halifax","Halifax"," 59","Halifax",N,N,"",1,456,"Fillmore","","Andy","Liberal","Libéral",Y,Y,54
+12005,"Halifax","Halifax"," 59","Halifax",N,N,"",1,456,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,6
+12005,"Halifax","Halifax"," 59","Halifax",N,N,"",1,456,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 59","Halifax",N,N,"",1,456,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,104
+12005,"Halifax","Halifax"," 60","Halifax",N,N,"",0,469,"Campbell","","Katie","Communist","Communiste",N,N,2
+12005,"Halifax","Halifax"," 60","Halifax",N,N,"",0,469,"Ells","","Cameron","Conservative","Conservateur",N,N,9
+12005,"Halifax","Halifax"," 60","Halifax",N,N,"",0,469,"Fillmore","","Andy","Liberal","Libéral",Y,Y,84
+12005,"Halifax","Halifax"," 60","Halifax",N,N,"",0,469,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,5
+12005,"Halifax","Halifax"," 60","Halifax",N,N,"",0,469,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,3
+12005,"Halifax","Halifax"," 60","Halifax",N,N,"",0,469,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,161
+12005,"Halifax","Halifax"," 61","Halifax",N,N,"",0,496,"Campbell","","Katie","Communist","Communiste",N,N,3
+12005,"Halifax","Halifax"," 61","Halifax",N,N,"",0,496,"Ells","","Cameron","Conservative","Conservateur",N,N,14
+12005,"Halifax","Halifax"," 61","Halifax",N,N,"",0,496,"Fillmore","","Andy","Liberal","Libéral",Y,Y,73
+12005,"Halifax","Halifax"," 61","Halifax",N,N,"",0,496,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,3
+12005,"Halifax","Halifax"," 61","Halifax",N,N,"",0,496,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,2
+12005,"Halifax","Halifax"," 61","Halifax",N,N,"",0,496,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,110
+12005,"Halifax","Halifax"," 62","Halifax",N,N,"",0,395,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 62","Halifax",N,N,"",0,395,"Ells","","Cameron","Conservative","Conservateur",N,N,15
+12005,"Halifax","Halifax"," 62","Halifax",N,N,"",0,395,"Fillmore","","Andy","Liberal","Libéral",Y,Y,70
+12005,"Halifax","Halifax"," 62","Halifax",N,N,"",0,395,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,3
+12005,"Halifax","Halifax"," 62","Halifax",N,N,"",0,395,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,7
+12005,"Halifax","Halifax"," 62","Halifax",N,N,"",0,395,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,82
+12005,"Halifax","Halifax"," 63","Halifax",N,N,"",1,501,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 63","Halifax",N,N,"",1,501,"Ells","","Cameron","Conservative","Conservateur",N,N,60
+12005,"Halifax","Halifax"," 63","Halifax",N,N,"",1,501,"Fillmore","","Andy","Liberal","Libéral",Y,Y,165
+12005,"Halifax","Halifax"," 63","Halifax",N,N,"",1,501,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,6
+12005,"Halifax","Halifax"," 63","Halifax",N,N,"",1,501,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,9
+12005,"Halifax","Halifax"," 63","Halifax",N,N,"",1,501,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,169
+12005,"Halifax","Halifax"," 64","Halifax",N,N,"66",0,344,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 64","Halifax",N,N,"66",0,344,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 64","Halifax",N,N,"66",0,344,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 64","Halifax",N,N,"66",0,344,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 64","Halifax",N,N,"66",0,344,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 64","Halifax",N,N,"66",0,344,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 65","Halifax",N,N,"",0,459,"Campbell","","Katie","Communist","Communiste",N,N,2
+12005,"Halifax","Halifax"," 65","Halifax",N,N,"",0,459,"Ells","","Cameron","Conservative","Conservateur",N,N,30
+12005,"Halifax","Halifax"," 65","Halifax",N,N,"",0,459,"Fillmore","","Andy","Liberal","Libéral",Y,Y,74
+12005,"Halifax","Halifax"," 65","Halifax",N,N,"",0,459,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,1
+12005,"Halifax","Halifax"," 65","Halifax",N,N,"",0,459,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,10
+12005,"Halifax","Halifax"," 65","Halifax",N,N,"",0,459,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,169
+12005,"Halifax","Halifax"," 66","Halifax",N,N,"",0,519,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 66","Halifax",N,N,"",0,519,"Ells","","Cameron","Conservative","Conservateur",N,N,73
+12005,"Halifax","Halifax"," 66","Halifax",N,N,"",0,519,"Fillmore","","Andy","Liberal","Libéral",Y,Y,169
+12005,"Halifax","Halifax"," 66","Halifax",N,N,"",0,519,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,3
+12005,"Halifax","Halifax"," 66","Halifax",N,N,"",0,519,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,9
+12005,"Halifax","Halifax"," 66","Halifax",N,N,"",0,519,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,124
+12005,"Halifax","Halifax"," 67","Halifax",N,N,"63",0,402,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 67","Halifax",N,N,"63",0,402,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 67","Halifax",N,N,"63",0,402,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 67","Halifax",N,N,"63",0,402,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 67","Halifax",N,N,"63",0,402,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 67","Halifax",N,N,"63",0,402,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 68","Halifax",N,N,"",1,397,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 68","Halifax",N,N,"",1,397,"Ells","","Cameron","Conservative","Conservateur",N,N,14
+12005,"Halifax","Halifax"," 68","Halifax",N,N,"",1,397,"Fillmore","","Andy","Liberal","Libéral",Y,Y,75
+12005,"Halifax","Halifax"," 68","Halifax",N,N,"",1,397,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,6
+12005,"Halifax","Halifax"," 68","Halifax",N,N,"",1,397,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,3
+12005,"Halifax","Halifax"," 68","Halifax",N,N,"",1,397,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,82
+12005,"Halifax","Halifax"," 69","Halifax",N,N,"",0,542,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 69","Halifax",N,N,"",0,542,"Ells","","Cameron","Conservative","Conservateur",N,N,27
+12005,"Halifax","Halifax"," 69","Halifax",N,N,"",0,542,"Fillmore","","Andy","Liberal","Libéral",Y,Y,91
+12005,"Halifax","Halifax"," 69","Halifax",N,N,"",0,542,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,8
+12005,"Halifax","Halifax"," 69","Halifax",N,N,"",0,542,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,4
+12005,"Halifax","Halifax"," 69","Halifax",N,N,"",0,542,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,113
+12005,"Halifax","Halifax"," 70","Halifax",N,N,"",3,438,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 70","Halifax",N,N,"",3,438,"Ells","","Cameron","Conservative","Conservateur",N,N,20
+12005,"Halifax","Halifax"," 70","Halifax",N,N,"",3,438,"Fillmore","","Andy","Liberal","Libéral",Y,Y,87
+12005,"Halifax","Halifax"," 70","Halifax",N,N,"",3,438,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,7
+12005,"Halifax","Halifax"," 70","Halifax",N,N,"",3,438,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,2
+12005,"Halifax","Halifax"," 70","Halifax",N,N,"",3,438,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,83
+12005,"Halifax","Halifax"," 71","Halifax",N,N,"",0,409,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 71","Halifax",N,N,"",0,409,"Ells","","Cameron","Conservative","Conservateur",N,N,14
+12005,"Halifax","Halifax"," 71","Halifax",N,N,"",0,409,"Fillmore","","Andy","Liberal","Libéral",Y,Y,44
+12005,"Halifax","Halifax"," 71","Halifax",N,N,"",0,409,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,3
+12005,"Halifax","Halifax"," 71","Halifax",N,N,"",0,409,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,2
+12005,"Halifax","Halifax"," 71","Halifax",N,N,"",0,409,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,108
+12005,"Halifax","Halifax"," 72","Halifax",N,N,"",2,527,"Campbell","","Katie","Communist","Communiste",N,N,3
+12005,"Halifax","Halifax"," 72","Halifax",N,N,"",2,527,"Ells","","Cameron","Conservative","Conservateur",N,N,24
+12005,"Halifax","Halifax"," 72","Halifax",N,N,"",2,527,"Fillmore","","Andy","Liberal","Libéral",Y,Y,92
+12005,"Halifax","Halifax"," 72","Halifax",N,N,"",2,527,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,9
+12005,"Halifax","Halifax"," 72","Halifax",N,N,"",2,527,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,6
+12005,"Halifax","Halifax"," 72","Halifax",N,N,"",2,527,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,140
+12005,"Halifax","Halifax"," 73","Halifax",N,N,"",0,424,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 73","Halifax",N,N,"",0,424,"Ells","","Cameron","Conservative","Conservateur",N,N,18
+12005,"Halifax","Halifax"," 73","Halifax",N,N,"",0,424,"Fillmore","","Andy","Liberal","Libéral",Y,Y,68
+12005,"Halifax","Halifax"," 73","Halifax",N,N,"",0,424,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,4
+12005,"Halifax","Halifax"," 73","Halifax",N,N,"",0,424,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,5
+12005,"Halifax","Halifax"," 73","Halifax",N,N,"",0,424,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,113
+12005,"Halifax","Halifax"," 74","Halifax",N,N,"",1,445,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 74","Halifax",N,N,"",1,445,"Ells","","Cameron","Conservative","Conservateur",N,N,14
+12005,"Halifax","Halifax"," 74","Halifax",N,N,"",1,445,"Fillmore","","Andy","Liberal","Libéral",Y,Y,46
+12005,"Halifax","Halifax"," 74","Halifax",N,N,"",1,445,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 74","Halifax",N,N,"",1,445,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,3
+12005,"Halifax","Halifax"," 74","Halifax",N,N,"",1,445,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,92
+12005,"Halifax","Halifax"," 75","Halifax",N,N,"",2,556,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 75","Halifax",N,N,"",2,556,"Ells","","Cameron","Conservative","Conservateur",N,N,19
+12005,"Halifax","Halifax"," 75","Halifax",N,N,"",2,556,"Fillmore","","Andy","Liberal","Libéral",Y,Y,98
+12005,"Halifax","Halifax"," 75","Halifax",N,N,"",2,556,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,6
+12005,"Halifax","Halifax"," 75","Halifax",N,N,"",2,556,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,7
+12005,"Halifax","Halifax"," 75","Halifax",N,N,"",2,556,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,128
+12005,"Halifax","Halifax"," 76","Halifax",N,N,"",2,570,"Campbell","","Katie","Communist","Communiste",N,N,3
+12005,"Halifax","Halifax"," 76","Halifax",N,N,"",2,570,"Ells","","Cameron","Conservative","Conservateur",N,N,25
+12005,"Halifax","Halifax"," 76","Halifax",N,N,"",2,570,"Fillmore","","Andy","Liberal","Libéral",Y,Y,113
+12005,"Halifax","Halifax"," 76","Halifax",N,N,"",2,570,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,2
+12005,"Halifax","Halifax"," 76","Halifax",N,N,"",2,570,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,9
+12005,"Halifax","Halifax"," 76","Halifax",N,N,"",2,570,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,163
+12005,"Halifax","Halifax"," 77","Halifax",N,N,"",0,469,"Campbell","","Katie","Communist","Communiste",N,N,4
+12005,"Halifax","Halifax"," 77","Halifax",N,N,"",0,469,"Ells","","Cameron","Conservative","Conservateur",N,N,16
+12005,"Halifax","Halifax"," 77","Halifax",N,N,"",0,469,"Fillmore","","Andy","Liberal","Libéral",Y,Y,71
+12005,"Halifax","Halifax"," 77","Halifax",N,N,"",0,469,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,5
+12005,"Halifax","Halifax"," 77","Halifax",N,N,"",0,469,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,10
+12005,"Halifax","Halifax"," 77","Halifax",N,N,"",0,469,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,161
+12005,"Halifax","Halifax"," 78A","Halifax",N,N,"",0,664,"Campbell","","Katie","Communist","Communiste",N,N,2
+12005,"Halifax","Halifax"," 78A","Halifax",N,N,"",0,664,"Ells","","Cameron","Conservative","Conservateur",N,N,34
+12005,"Halifax","Halifax"," 78A","Halifax",N,N,"",0,664,"Fillmore","","Andy","Liberal","Libéral",Y,Y,81
+12005,"Halifax","Halifax"," 78A","Halifax",N,N,"",0,664,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,2
+12005,"Halifax","Halifax"," 78A","Halifax",N,N,"",0,664,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,8
+12005,"Halifax","Halifax"," 78A","Halifax",N,N,"",0,664,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,145
+12005,"Halifax","Halifax"," 78B","Mobile poll/Bureau itinérant",N,N,"503",0,28,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 78B","Mobile poll/Bureau itinérant",N,N,"503",0,28,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 78B","Mobile poll/Bureau itinérant",N,N,"503",0,28,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 78B","Mobile poll/Bureau itinérant",N,N,"503",0,28,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 78B","Mobile poll/Bureau itinérant",N,N,"503",0,28,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 78B","Mobile poll/Bureau itinérant",N,N,"503",0,28,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 79","Halifax",N,N,"",0,537,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 79","Halifax",N,N,"",0,537,"Ells","","Cameron","Conservative","Conservateur",N,N,40
+12005,"Halifax","Halifax"," 79","Halifax",N,N,"",0,537,"Fillmore","","Andy","Liberal","Libéral",Y,Y,86
+12005,"Halifax","Halifax"," 79","Halifax",N,N,"",0,537,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,4
+12005,"Halifax","Halifax"," 79","Halifax",N,N,"",0,537,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,2
+12005,"Halifax","Halifax"," 79","Halifax",N,N,"",0,537,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+12005,"Halifax","Halifax"," 80","Halifax",N,N,"",0,350,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 80","Halifax",N,N,"",0,350,"Ells","","Cameron","Conservative","Conservateur",N,N,23
+12005,"Halifax","Halifax"," 80","Halifax",N,N,"",0,350,"Fillmore","","Andy","Liberal","Libéral",Y,Y,47
+12005,"Halifax","Halifax"," 80","Halifax",N,N,"",0,350,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,3
+12005,"Halifax","Halifax"," 80","Halifax",N,N,"",0,350,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,6
+12005,"Halifax","Halifax"," 80","Halifax",N,N,"",0,350,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+12005,"Halifax","Halifax"," 81","Halifax",N,N,"",1,480,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 81","Halifax",N,N,"",1,480,"Ells","","Cameron","Conservative","Conservateur",N,N,16
+12005,"Halifax","Halifax"," 81","Halifax",N,N,"",1,480,"Fillmore","","Andy","Liberal","Libéral",Y,Y,105
+12005,"Halifax","Halifax"," 81","Halifax",N,N,"",1,480,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,4
+12005,"Halifax","Halifax"," 81","Halifax",N,N,"",1,480,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,9
+12005,"Halifax","Halifax"," 81","Halifax",N,N,"",1,480,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,138
+12005,"Halifax","Halifax"," 82","Halifax",N,N,"",0,429,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 82","Halifax",N,N,"",0,429,"Ells","","Cameron","Conservative","Conservateur",N,N,29
+12005,"Halifax","Halifax"," 82","Halifax",N,N,"",0,429,"Fillmore","","Andy","Liberal","Libéral",Y,Y,78
+12005,"Halifax","Halifax"," 82","Halifax",N,N,"",0,429,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,12
+12005,"Halifax","Halifax"," 82","Halifax",N,N,"",0,429,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,5
+12005,"Halifax","Halifax"," 82","Halifax",N,N,"",0,429,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,100
+12005,"Halifax","Halifax"," 83","Halifax",N,N,"",0,405,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 83","Halifax",N,N,"",0,405,"Ells","","Cameron","Conservative","Conservateur",N,N,28
+12005,"Halifax","Halifax"," 83","Halifax",N,N,"",0,405,"Fillmore","","Andy","Liberal","Libéral",Y,Y,56
+12005,"Halifax","Halifax"," 83","Halifax",N,N,"",0,405,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,2
+12005,"Halifax","Halifax"," 83","Halifax",N,N,"",0,405,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,8
+12005,"Halifax","Halifax"," 83","Halifax",N,N,"",0,405,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,102
+12005,"Halifax","Halifax"," 84","Halifax",N,N,"",1,478,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 84","Halifax",N,N,"",1,478,"Ells","","Cameron","Conservative","Conservateur",N,N,62
+12005,"Halifax","Halifax"," 84","Halifax",N,N,"",1,478,"Fillmore","","Andy","Liberal","Libéral",Y,Y,64
+12005,"Halifax","Halifax"," 84","Halifax",N,N,"",1,478,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,6
+12005,"Halifax","Halifax"," 84","Halifax",N,N,"",1,478,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,6
+12005,"Halifax","Halifax"," 84","Halifax",N,N,"",1,478,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,128
+12005,"Halifax","Halifax"," 85","Halifax",N,N,"",0,648,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 85","Halifax",N,N,"",0,648,"Ells","","Cameron","Conservative","Conservateur",N,N,42
+12005,"Halifax","Halifax"," 85","Halifax",N,N,"",0,648,"Fillmore","","Andy","Liberal","Libéral",Y,Y,85
+12005,"Halifax","Halifax"," 85","Halifax",N,N,"",0,648,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,3
+12005,"Halifax","Halifax"," 85","Halifax",N,N,"",0,648,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,13
+12005,"Halifax","Halifax"," 85","Halifax",N,N,"",0,648,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,168
+12005,"Halifax","Halifax"," 86","Halifax",N,N,"",2,541,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 86","Halifax",N,N,"",2,541,"Ells","","Cameron","Conservative","Conservateur",N,N,45
+12005,"Halifax","Halifax"," 86","Halifax",N,N,"",2,541,"Fillmore","","Andy","Liberal","Libéral",Y,Y,70
+12005,"Halifax","Halifax"," 86","Halifax",N,N,"",2,541,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,3
+12005,"Halifax","Halifax"," 86","Halifax",N,N,"",2,541,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,13
+12005,"Halifax","Halifax"," 86","Halifax",N,N,"",2,541,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,189
+12005,"Halifax","Halifax"," 87","Halifax",N,N,"",0,369,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 87","Halifax",N,N,"",0,369,"Ells","","Cameron","Conservative","Conservateur",N,N,21
+12005,"Halifax","Halifax"," 87","Halifax",N,N,"",0,369,"Fillmore","","Andy","Liberal","Libéral",Y,Y,77
+12005,"Halifax","Halifax"," 87","Halifax",N,N,"",0,369,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,2
+12005,"Halifax","Halifax"," 87","Halifax",N,N,"",0,369,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,1
+12005,"Halifax","Halifax"," 87","Halifax",N,N,"",0,369,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+12005,"Halifax","Halifax"," 88","Halifax",N,N,"",1,498,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 88","Halifax",N,N,"",1,498,"Ells","","Cameron","Conservative","Conservateur",N,N,19
+12005,"Halifax","Halifax"," 88","Halifax",N,N,"",1,498,"Fillmore","","Andy","Liberal","Libéral",Y,Y,62
+12005,"Halifax","Halifax"," 88","Halifax",N,N,"",1,498,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,2
+12005,"Halifax","Halifax"," 88","Halifax",N,N,"",1,498,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,3
+12005,"Halifax","Halifax"," 88","Halifax",N,N,"",1,498,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,89
+12005,"Halifax","Halifax"," 89","Halifax",N,N,"",0,445,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 89","Halifax",N,N,"",0,445,"Ells","","Cameron","Conservative","Conservateur",N,N,13
+12005,"Halifax","Halifax"," 89","Halifax",N,N,"",0,445,"Fillmore","","Andy","Liberal","Libéral",Y,Y,35
+12005,"Halifax","Halifax"," 89","Halifax",N,N,"",0,445,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 89","Halifax",N,N,"",0,445,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,4
+12005,"Halifax","Halifax"," 89","Halifax",N,N,"",0,445,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+12005,"Halifax","Halifax"," 90","Halifax",N,N,"",2,377,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 90","Halifax",N,N,"",2,377,"Ells","","Cameron","Conservative","Conservateur",N,N,22
+12005,"Halifax","Halifax"," 90","Halifax",N,N,"",2,377,"Fillmore","","Andy","Liberal","Libéral",Y,Y,75
+12005,"Halifax","Halifax"," 90","Halifax",N,N,"",2,377,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,1
+12005,"Halifax","Halifax"," 90","Halifax",N,N,"",2,377,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,8
+12005,"Halifax","Halifax"," 90","Halifax",N,N,"",2,377,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+12005,"Halifax","Halifax"," 91","Halifax",N,N,"",1,528,"Campbell","","Katie","Communist","Communiste",N,N,2
+12005,"Halifax","Halifax"," 91","Halifax",N,N,"",1,528,"Ells","","Cameron","Conservative","Conservateur",N,N,35
+12005,"Halifax","Halifax"," 91","Halifax",N,N,"",1,528,"Fillmore","","Andy","Liberal","Libéral",Y,Y,60
+12005,"Halifax","Halifax"," 91","Halifax",N,N,"",1,528,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,5
+12005,"Halifax","Halifax"," 91","Halifax",N,N,"",1,528,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,3
+12005,"Halifax","Halifax"," 91","Halifax",N,N,"",1,528,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,135
+12005,"Halifax","Halifax"," 92","Halifax",N,N,"",0,543,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 92","Halifax",N,N,"",0,543,"Ells","","Cameron","Conservative","Conservateur",N,N,31
+12005,"Halifax","Halifax"," 92","Halifax",N,N,"",0,543,"Fillmore","","Andy","Liberal","Libéral",Y,Y,77
+12005,"Halifax","Halifax"," 92","Halifax",N,N,"",0,543,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,6
+12005,"Halifax","Halifax"," 92","Halifax",N,N,"",0,543,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,3
+12005,"Halifax","Halifax"," 92","Halifax",N,N,"",0,543,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,129
+12005,"Halifax","Halifax"," 93","Halifax",N,N,"",0,424,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 93","Halifax",N,N,"",0,424,"Ells","","Cameron","Conservative","Conservateur",N,N,45
+12005,"Halifax","Halifax"," 93","Halifax",N,N,"",0,424,"Fillmore","","Andy","Liberal","Libéral",Y,Y,74
+12005,"Halifax","Halifax"," 93","Halifax",N,N,"",0,424,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,8
+12005,"Halifax","Halifax"," 93","Halifax",N,N,"",0,424,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,5
+12005,"Halifax","Halifax"," 93","Halifax",N,N,"",0,424,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+12005,"Halifax","Halifax"," 94","Halifax",N,N,"",0,461,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 94","Halifax",N,N,"",0,461,"Ells","","Cameron","Conservative","Conservateur",N,N,19
+12005,"Halifax","Halifax"," 94","Halifax",N,N,"",0,461,"Fillmore","","Andy","Liberal","Libéral",Y,Y,70
+12005,"Halifax","Halifax"," 94","Halifax",N,N,"",0,461,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,2
+12005,"Halifax","Halifax"," 94","Halifax",N,N,"",0,461,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,1
+12005,"Halifax","Halifax"," 94","Halifax",N,N,"",0,461,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,88
+12005,"Halifax","Halifax"," 95","Halifax",N,N,"",0,453,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 95","Halifax",N,N,"",0,453,"Ells","","Cameron","Conservative","Conservateur",N,N,27
+12005,"Halifax","Halifax"," 95","Halifax",N,N,"",0,453,"Fillmore","","Andy","Liberal","Libéral",Y,Y,56
+12005,"Halifax","Halifax"," 95","Halifax",N,N,"",0,453,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,7
+12005,"Halifax","Halifax"," 95","Halifax",N,N,"",0,453,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,9
+12005,"Halifax","Halifax"," 95","Halifax",N,N,"",0,453,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,150
+12005,"Halifax","Halifax"," 96","Halifax",N,N,"",0,430,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 96","Halifax",N,N,"",0,430,"Ells","","Cameron","Conservative","Conservateur",N,N,25
+12005,"Halifax","Halifax"," 96","Halifax",N,N,"",0,430,"Fillmore","","Andy","Liberal","Libéral",Y,Y,48
+12005,"Halifax","Halifax"," 96","Halifax",N,N,"",0,430,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,2
+12005,"Halifax","Halifax"," 96","Halifax",N,N,"",0,430,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,6
+12005,"Halifax","Halifax"," 96","Halifax",N,N,"",0,430,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,102
+12005,"Halifax","Halifax"," 97","Halifax",N,N,"",0,442,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 97","Halifax",N,N,"",0,442,"Ells","","Cameron","Conservative","Conservateur",N,N,34
+12005,"Halifax","Halifax"," 97","Halifax",N,N,"",0,442,"Fillmore","","Andy","Liberal","Libéral",Y,Y,101
+12005,"Halifax","Halifax"," 97","Halifax",N,N,"",0,442,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,3
+12005,"Halifax","Halifax"," 97","Halifax",N,N,"",0,442,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,4
+12005,"Halifax","Halifax"," 97","Halifax",N,N,"",0,442,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+12005,"Halifax","Halifax"," 98","Halifax",N,N,"",1,336,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 98","Halifax",N,N,"",1,336,"Ells","","Cameron","Conservative","Conservateur",N,N,24
+12005,"Halifax","Halifax"," 98","Halifax",N,N,"",1,336,"Fillmore","","Andy","Liberal","Libéral",Y,Y,90
+12005,"Halifax","Halifax"," 98","Halifax",N,N,"",1,336,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 98","Halifax",N,N,"",1,336,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,5
+12005,"Halifax","Halifax"," 98","Halifax",N,N,"",1,336,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+12005,"Halifax","Halifax"," 99","Halifax",N,N,"",0,408,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 99","Halifax",N,N,"",0,408,"Ells","","Cameron","Conservative","Conservateur",N,N,24
+12005,"Halifax","Halifax"," 99","Halifax",N,N,"",0,408,"Fillmore","","Andy","Liberal","Libéral",Y,Y,100
+12005,"Halifax","Halifax"," 99","Halifax",N,N,"",0,408,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,2
+12005,"Halifax","Halifax"," 99","Halifax",N,N,"",0,408,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,5
+12005,"Halifax","Halifax"," 99","Halifax",N,N,"",0,408,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+12005,"Halifax","Halifax"," 100","Halifax",N,N,"",0,434,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 100","Halifax",N,N,"",0,434,"Ells","","Cameron","Conservative","Conservateur",N,N,8
+12005,"Halifax","Halifax"," 100","Halifax",N,N,"",0,434,"Fillmore","","Andy","Liberal","Libéral",Y,Y,87
+12005,"Halifax","Halifax"," 100","Halifax",N,N,"",0,434,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,4
+12005,"Halifax","Halifax"," 100","Halifax",N,N,"",0,434,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,9
+12005,"Halifax","Halifax"," 100","Halifax",N,N,"",0,434,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+12005,"Halifax","Halifax"," 101","Halifax",N,N,"",0,379,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 101","Halifax",N,N,"",0,379,"Ells","","Cameron","Conservative","Conservateur",N,N,13
+12005,"Halifax","Halifax"," 101","Halifax",N,N,"",0,379,"Fillmore","","Andy","Liberal","Libéral",Y,Y,73
+12005,"Halifax","Halifax"," 101","Halifax",N,N,"",0,379,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,2
+12005,"Halifax","Halifax"," 101","Halifax",N,N,"",0,379,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,7
+12005,"Halifax","Halifax"," 101","Halifax",N,N,"",0,379,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+12005,"Halifax","Halifax"," 102","Halifax",N,N,"",0,380,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 102","Halifax",N,N,"",0,380,"Ells","","Cameron","Conservative","Conservateur",N,N,21
+12005,"Halifax","Halifax"," 102","Halifax",N,N,"",0,380,"Fillmore","","Andy","Liberal","Libéral",Y,Y,62
+12005,"Halifax","Halifax"," 102","Halifax",N,N,"",0,380,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,3
+12005,"Halifax","Halifax"," 102","Halifax",N,N,"",0,380,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,4
+12005,"Halifax","Halifax"," 102","Halifax",N,N,"",0,380,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+12005,"Halifax","Halifax"," 103","Halifax",N,N,"",0,464,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 103","Halifax",N,N,"",0,464,"Ells","","Cameron","Conservative","Conservateur",N,N,44
+12005,"Halifax","Halifax"," 103","Halifax",N,N,"",0,464,"Fillmore","","Andy","Liberal","Libéral",Y,Y,147
+12005,"Halifax","Halifax"," 103","Halifax",N,N,"",0,464,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,4
+12005,"Halifax","Halifax"," 103","Halifax",N,N,"",0,464,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,2
+12005,"Halifax","Halifax"," 103","Halifax",N,N,"",0,464,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,120
+12005,"Halifax","Halifax"," 104","Halifax",N,N,"",0,366,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 104","Halifax",N,N,"",0,366,"Ells","","Cameron","Conservative","Conservateur",N,N,18
+12005,"Halifax","Halifax"," 104","Halifax",N,N,"",0,366,"Fillmore","","Andy","Liberal","Libéral",Y,Y,70
+12005,"Halifax","Halifax"," 104","Halifax",N,N,"",0,366,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,1
+12005,"Halifax","Halifax"," 104","Halifax",N,N,"",0,366,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,1
+12005,"Halifax","Halifax"," 104","Halifax",N,N,"",0,366,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+12005,"Halifax","Halifax"," 105","Halifax",N,N,"103",0,443,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 105","Halifax",N,N,"103",0,443,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 105","Halifax",N,N,"103",0,443,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 105","Halifax",N,N,"103",0,443,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 105","Halifax",N,N,"103",0,443,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 105","Halifax",N,N,"103",0,443,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 106","Halifax",N,N,"",0,415,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 106","Halifax",N,N,"",0,415,"Ells","","Cameron","Conservative","Conservateur",N,N,43
+12005,"Halifax","Halifax"," 106","Halifax",N,N,"",0,415,"Fillmore","","Andy","Liberal","Libéral",Y,Y,97
+12005,"Halifax","Halifax"," 106","Halifax",N,N,"",0,415,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,1
+12005,"Halifax","Halifax"," 106","Halifax",N,N,"",0,415,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,1
+12005,"Halifax","Halifax"," 106","Halifax",N,N,"",0,415,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+12005,"Halifax","Halifax"," 107","Halifax",N,N,"",0,665,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 107","Halifax",N,N,"",0,665,"Ells","","Cameron","Conservative","Conservateur",N,N,60
+12005,"Halifax","Halifax"," 107","Halifax",N,N,"",0,665,"Fillmore","","Andy","Liberal","Libéral",Y,Y,97
+12005,"Halifax","Halifax"," 107","Halifax",N,N,"",0,665,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,7
+12005,"Halifax","Halifax"," 107","Halifax",N,N,"",0,665,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,20
+12005,"Halifax","Halifax"," 107","Halifax",N,N,"",0,665,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,178
+12005,"Halifax","Halifax"," 108","Halifax",N,N,"",0,406,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 108","Halifax",N,N,"",0,406,"Ells","","Cameron","Conservative","Conservateur",N,N,33
+12005,"Halifax","Halifax"," 108","Halifax",N,N,"",0,406,"Fillmore","","Andy","Liberal","Libéral",Y,Y,74
+12005,"Halifax","Halifax"," 108","Halifax",N,N,"",0,406,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 108","Halifax",N,N,"",0,406,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,4
+12005,"Halifax","Halifax"," 108","Halifax",N,N,"",0,406,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12005,"Halifax","Halifax"," 109","Halifax",N,N,"",1,378,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 109","Halifax",N,N,"",1,378,"Ells","","Cameron","Conservative","Conservateur",N,N,36
+12005,"Halifax","Halifax"," 109","Halifax",N,N,"",1,378,"Fillmore","","Andy","Liberal","Libéral",Y,Y,98
+12005,"Halifax","Halifax"," 109","Halifax",N,N,"",1,378,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,2
+12005,"Halifax","Halifax"," 109","Halifax",N,N,"",1,378,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,11
+12005,"Halifax","Halifax"," 109","Halifax",N,N,"",1,378,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+12005,"Halifax","Halifax"," 110","Halifax",N,N,"",2,351,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 110","Halifax",N,N,"",2,351,"Ells","","Cameron","Conservative","Conservateur",N,N,23
+12005,"Halifax","Halifax"," 110","Halifax",N,N,"",2,351,"Fillmore","","Andy","Liberal","Libéral",Y,Y,72
+12005,"Halifax","Halifax"," 110","Halifax",N,N,"",2,351,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,1
+12005,"Halifax","Halifax"," 110","Halifax",N,N,"",2,351,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,4
+12005,"Halifax","Halifax"," 110","Halifax",N,N,"",2,351,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+12005,"Halifax","Halifax"," 111","Halifax",N,N,"",0,444,"Campbell","","Katie","Communist","Communiste",N,N,2
+12005,"Halifax","Halifax"," 111","Halifax",N,N,"",0,444,"Ells","","Cameron","Conservative","Conservateur",N,N,26
+12005,"Halifax","Halifax"," 111","Halifax",N,N,"",0,444,"Fillmore","","Andy","Liberal","Libéral",Y,Y,83
+12005,"Halifax","Halifax"," 111","Halifax",N,N,"",0,444,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,1
+12005,"Halifax","Halifax"," 111","Halifax",N,N,"",0,444,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,6
+12005,"Halifax","Halifax"," 111","Halifax",N,N,"",0,444,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+12005,"Halifax","Halifax"," 112","Halifax",N,N,"",0,413,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 112","Halifax",N,N,"",0,413,"Ells","","Cameron","Conservative","Conservateur",N,N,42
+12005,"Halifax","Halifax"," 112","Halifax",N,N,"",0,413,"Fillmore","","Andy","Liberal","Libéral",Y,Y,76
+12005,"Halifax","Halifax"," 112","Halifax",N,N,"",0,413,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,1
+12005,"Halifax","Halifax"," 112","Halifax",N,N,"",0,413,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,5
+12005,"Halifax","Halifax"," 112","Halifax",N,N,"",0,413,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+12005,"Halifax","Halifax"," 113","Halifax",N,N,"",0,353,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 113","Halifax",N,N,"",0,353,"Ells","","Cameron","Conservative","Conservateur",N,N,36
+12005,"Halifax","Halifax"," 113","Halifax",N,N,"",0,353,"Fillmore","","Andy","Liberal","Libéral",Y,Y,85
+12005,"Halifax","Halifax"," 113","Halifax",N,N,"",0,353,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,1
+12005,"Halifax","Halifax"," 113","Halifax",N,N,"",0,353,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,6
+12005,"Halifax","Halifax"," 113","Halifax",N,N,"",0,353,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12005,"Halifax","Halifax"," 114","Halifax",N,N,"",0,506,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 114","Halifax",N,N,"",0,506,"Ells","","Cameron","Conservative","Conservateur",N,N,41
+12005,"Halifax","Halifax"," 114","Halifax",N,N,"",0,506,"Fillmore","","Andy","Liberal","Libéral",Y,Y,81
+12005,"Halifax","Halifax"," 114","Halifax",N,N,"",0,506,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,6
+12005,"Halifax","Halifax"," 114","Halifax",N,N,"",0,506,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,4
+12005,"Halifax","Halifax"," 114","Halifax",N,N,"",0,506,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+12005,"Halifax","Halifax"," 115","Halifax",N,N,"",0,498,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 115","Halifax",N,N,"",0,498,"Ells","","Cameron","Conservative","Conservateur",N,N,30
+12005,"Halifax","Halifax"," 115","Halifax",N,N,"",0,498,"Fillmore","","Andy","Liberal","Libéral",Y,Y,78
+12005,"Halifax","Halifax"," 115","Halifax",N,N,"",0,498,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,5
+12005,"Halifax","Halifax"," 115","Halifax",N,N,"",0,498,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,7
+12005,"Halifax","Halifax"," 115","Halifax",N,N,"",0,498,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+12005,"Halifax","Halifax"," 116","Halifax",N,N,"",0,526,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 116","Halifax",N,N,"",0,526,"Ells","","Cameron","Conservative","Conservateur",N,N,20
+12005,"Halifax","Halifax"," 116","Halifax",N,N,"",0,526,"Fillmore","","Andy","Liberal","Libéral",Y,Y,78
+12005,"Halifax","Halifax"," 116","Halifax",N,N,"",0,526,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,5
+12005,"Halifax","Halifax"," 116","Halifax",N,N,"",0,526,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,5
+12005,"Halifax","Halifax"," 116","Halifax",N,N,"",0,526,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+12005,"Halifax","Halifax"," 117","Halifax",N,N,"",1,427,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 117","Halifax",N,N,"",1,427,"Ells","","Cameron","Conservative","Conservateur",N,N,20
+12005,"Halifax","Halifax"," 117","Halifax",N,N,"",1,427,"Fillmore","","Andy","Liberal","Libéral",Y,Y,63
+12005,"Halifax","Halifax"," 117","Halifax",N,N,"",1,427,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,14
+12005,"Halifax","Halifax"," 117","Halifax",N,N,"",1,427,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,5
+12005,"Halifax","Halifax"," 117","Halifax",N,N,"",1,427,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+12005,"Halifax","Halifax"," 118","Halifax",N,N,"",0,503,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 118","Halifax",N,N,"",0,503,"Ells","","Cameron","Conservative","Conservateur",N,N,30
+12005,"Halifax","Halifax"," 118","Halifax",N,N,"",0,503,"Fillmore","","Andy","Liberal","Libéral",Y,Y,114
+12005,"Halifax","Halifax"," 118","Halifax",N,N,"",0,503,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,2
+12005,"Halifax","Halifax"," 118","Halifax",N,N,"",0,503,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,5
+12005,"Halifax","Halifax"," 118","Halifax",N,N,"",0,503,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12005,"Halifax","Halifax"," 119","Halifax",N,N,"",0,486,"Campbell","","Katie","Communist","Communiste",N,N,2
+12005,"Halifax","Halifax"," 119","Halifax",N,N,"",0,486,"Ells","","Cameron","Conservative","Conservateur",N,N,32
+12005,"Halifax","Halifax"," 119","Halifax",N,N,"",0,486,"Fillmore","","Andy","Liberal","Libéral",Y,Y,108
+12005,"Halifax","Halifax"," 119","Halifax",N,N,"",0,486,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,6
+12005,"Halifax","Halifax"," 119","Halifax",N,N,"",0,486,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,9
+12005,"Halifax","Halifax"," 119","Halifax",N,N,"",0,486,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+12005,"Halifax","Halifax"," 120","Halifax",N,N,"",1,419,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 120","Halifax",N,N,"",1,419,"Ells","","Cameron","Conservative","Conservateur",N,N,26
+12005,"Halifax","Halifax"," 120","Halifax",N,N,"",1,419,"Fillmore","","Andy","Liberal","Libéral",Y,Y,104
+12005,"Halifax","Halifax"," 120","Halifax",N,N,"",1,419,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,2
+12005,"Halifax","Halifax"," 120","Halifax",N,N,"",1,419,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,4
+12005,"Halifax","Halifax"," 120","Halifax",N,N,"",1,419,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+12005,"Halifax","Halifax"," 121","Halifax",N,N,"",2,228,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 121","Halifax",N,N,"",2,228,"Ells","","Cameron","Conservative","Conservateur",N,N,13
+12005,"Halifax","Halifax"," 121","Halifax",N,N,"",2,228,"Fillmore","","Andy","Liberal","Libéral",Y,Y,36
+12005,"Halifax","Halifax"," 121","Halifax",N,N,"",2,228,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,2
+12005,"Halifax","Halifax"," 121","Halifax",N,N,"",2,228,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 121","Halifax",N,N,"",2,228,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12005,"Halifax","Halifax"," 122","Halifax",N,N,"",0,468,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 122","Halifax",N,N,"",0,468,"Ells","","Cameron","Conservative","Conservateur",N,N,24
+12005,"Halifax","Halifax"," 122","Halifax",N,N,"",0,468,"Fillmore","","Andy","Liberal","Libéral",Y,Y,74
+12005,"Halifax","Halifax"," 122","Halifax",N,N,"",0,468,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,4
+12005,"Halifax","Halifax"," 122","Halifax",N,N,"",0,468,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,3
+12005,"Halifax","Halifax"," 122","Halifax",N,N,"",0,468,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,80
+12005,"Halifax","Halifax"," 123","Halifax",N,N,"",0,334,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 123","Halifax",N,N,"",0,334,"Ells","","Cameron","Conservative","Conservateur",N,N,19
+12005,"Halifax","Halifax"," 123","Halifax",N,N,"",0,334,"Fillmore","","Andy","Liberal","Libéral",Y,Y,80
+12005,"Halifax","Halifax"," 123","Halifax",N,N,"",0,334,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,2
+12005,"Halifax","Halifax"," 123","Halifax",N,N,"",0,334,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 123","Halifax",N,N,"",0,334,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12005,"Halifax","Halifax"," 124","Halifax",N,N,"",1,366,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 124","Halifax",N,N,"",1,366,"Ells","","Cameron","Conservative","Conservateur",N,N,30
+12005,"Halifax","Halifax"," 124","Halifax",N,N,"",1,366,"Fillmore","","Andy","Liberal","Libéral",Y,Y,69
+12005,"Halifax","Halifax"," 124","Halifax",N,N,"",1,366,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,4
+12005,"Halifax","Halifax"," 124","Halifax",N,N,"",1,366,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,3
+12005,"Halifax","Halifax"," 124","Halifax",N,N,"",1,366,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12005,"Halifax","Halifax"," 125","Halifax",N,N,"",2,398,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 125","Halifax",N,N,"",2,398,"Ells","","Cameron","Conservative","Conservateur",N,N,49
+12005,"Halifax","Halifax"," 125","Halifax",N,N,"",2,398,"Fillmore","","Andy","Liberal","Libéral",Y,Y,85
+12005,"Halifax","Halifax"," 125","Halifax",N,N,"",2,398,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,1
+12005,"Halifax","Halifax"," 125","Halifax",N,N,"",2,398,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,1
+12005,"Halifax","Halifax"," 125","Halifax",N,N,"",2,398,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12005,"Halifax","Halifax"," 126","Halifax",N,N,"",4,535,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 126","Halifax",N,N,"",4,535,"Ells","","Cameron","Conservative","Conservateur",N,N,25
+12005,"Halifax","Halifax"," 126","Halifax",N,N,"",4,535,"Fillmore","","Andy","Liberal","Libéral",Y,Y,59
+12005,"Halifax","Halifax"," 126","Halifax",N,N,"",4,535,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,10
+12005,"Halifax","Halifax"," 126","Halifax",N,N,"",4,535,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,6
+12005,"Halifax","Halifax"," 126","Halifax",N,N,"",4,535,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+12005,"Halifax","Halifax"," 127","Halifax",N,N,"",1,478,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 127","Halifax",N,N,"",1,478,"Ells","","Cameron","Conservative","Conservateur",N,N,30
+12005,"Halifax","Halifax"," 127","Halifax",N,N,"",1,478,"Fillmore","","Andy","Liberal","Libéral",Y,Y,75
+12005,"Halifax","Halifax"," 127","Halifax",N,N,"",1,478,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,8
+12005,"Halifax","Halifax"," 127","Halifax",N,N,"",1,478,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,3
+12005,"Halifax","Halifax"," 127","Halifax",N,N,"",1,478,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+12005,"Halifax","Halifax"," 128","Halifax",N,N,"",1,491,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 128","Halifax",N,N,"",1,491,"Ells","","Cameron","Conservative","Conservateur",N,N,37
+12005,"Halifax","Halifax"," 128","Halifax",N,N,"",1,491,"Fillmore","","Andy","Liberal","Libéral",Y,Y,59
+12005,"Halifax","Halifax"," 128","Halifax",N,N,"",1,491,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,10
+12005,"Halifax","Halifax"," 128","Halifax",N,N,"",1,491,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,3
+12005,"Halifax","Halifax"," 128","Halifax",N,N,"",1,491,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,99
+12005,"Halifax","Halifax"," 129A","Halifax",N,N,"131A",0,198,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 129A","Halifax",N,N,"131A",0,198,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 129A","Halifax",N,N,"131A",0,198,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 129A","Halifax",N,N,"131A",0,198,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 129A","Halifax",N,N,"131A",0,198,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 129A","Halifax",N,N,"131A",0,198,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 129B","Halifax",N,N,"",0,188,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 129B","Halifax",N,N,"",0,188,"Ells","","Cameron","Conservative","Conservateur",N,N,25
+12005,"Halifax","Halifax"," 129B","Halifax",N,N,"",0,188,"Fillmore","","Andy","Liberal","Libéral",Y,Y,119
+12005,"Halifax","Halifax"," 129B","Halifax",N,N,"",0,188,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,14
+12005,"Halifax","Halifax"," 129B","Halifax",N,N,"",0,188,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,4
+12005,"Halifax","Halifax"," 129B","Halifax",N,N,"",0,188,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,78
+12005,"Halifax","Halifax"," 130A","Halifax",N,N,"131A",0,173,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 130A","Halifax",N,N,"131A",0,173,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 130A","Halifax",N,N,"131A",0,173,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 130A","Halifax",N,N,"131A",0,173,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 130A","Halifax",N,N,"131A",0,173,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 130A","Halifax",N,N,"131A",0,173,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 130B","Halifax",N,N,"129B",0,153,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 130B","Halifax",N,N,"129B",0,153,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 130B","Halifax",N,N,"129B",0,153,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 130B","Halifax",N,N,"129B",0,153,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 130B","Halifax",N,N,"129B",0,153,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 130B","Halifax",N,N,"129B",0,153,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 131A","Halifax",N,N,"",2,243,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 131A","Halifax",N,N,"",2,243,"Ells","","Cameron","Conservative","Conservateur",N,N,50
+12005,"Halifax","Halifax"," 131A","Halifax",N,N,"",2,243,"Fillmore","","Andy","Liberal","Libéral",Y,Y,108
+12005,"Halifax","Halifax"," 131A","Halifax",N,N,"",2,243,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,7
+12005,"Halifax","Halifax"," 131A","Halifax",N,N,"",2,243,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,8
+12005,"Halifax","Halifax"," 131A","Halifax",N,N,"",2,243,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,95
+12005,"Halifax","Halifax"," 131B","Halifax",N,N,"129B",0,278,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 131B","Halifax",N,N,"129B",0,278,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 131B","Halifax",N,N,"129B",0,278,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 131B","Halifax",N,N,"129B",0,278,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 131B","Halifax",N,N,"129B",0,278,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 131B","Halifax",N,N,"129B",0,278,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 132","Halifax",N,N,"",1,523,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 132","Halifax",N,N,"",1,523,"Ells","","Cameron","Conservative","Conservateur",N,N,48
+12005,"Halifax","Halifax"," 132","Halifax",N,N,"",1,523,"Fillmore","","Andy","Liberal","Libéral",Y,Y,129
+12005,"Halifax","Halifax"," 132","Halifax",N,N,"",1,523,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,2
+12005,"Halifax","Halifax"," 132","Halifax",N,N,"",1,523,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,6
+12005,"Halifax","Halifax"," 132","Halifax",N,N,"",1,523,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+12005,"Halifax","Halifax"," 133","Halifax",N,N,"",0,462,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 133","Halifax",N,N,"",0,462,"Ells","","Cameron","Conservative","Conservateur",N,N,40
+12005,"Halifax","Halifax"," 133","Halifax",N,N,"",0,462,"Fillmore","","Andy","Liberal","Libéral",Y,Y,94
+12005,"Halifax","Halifax"," 133","Halifax",N,N,"",0,462,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,5
+12005,"Halifax","Halifax"," 133","Halifax",N,N,"",0,462,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,5
+12005,"Halifax","Halifax"," 133","Halifax",N,N,"",0,462,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+12005,"Halifax","Halifax"," 134","Halifax",N,N,"",1,547,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 134","Halifax",N,N,"",1,547,"Ells","","Cameron","Conservative","Conservateur",N,N,24
+12005,"Halifax","Halifax"," 134","Halifax",N,N,"",1,547,"Fillmore","","Andy","Liberal","Libéral",Y,Y,109
+12005,"Halifax","Halifax"," 134","Halifax",N,N,"",1,547,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,9
+12005,"Halifax","Halifax"," 134","Halifax",N,N,"",1,547,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,9
+12005,"Halifax","Halifax"," 134","Halifax",N,N,"",1,547,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+12005,"Halifax","Halifax"," 135","Halifax",N,N,"",0,460,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 135","Halifax",N,N,"",0,460,"Ells","","Cameron","Conservative","Conservateur",N,N,20
+12005,"Halifax","Halifax"," 135","Halifax",N,N,"",0,460,"Fillmore","","Andy","Liberal","Libéral",Y,Y,74
+12005,"Halifax","Halifax"," 135","Halifax",N,N,"",0,460,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,3
+12005,"Halifax","Halifax"," 135","Halifax",N,N,"",0,460,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,4
+12005,"Halifax","Halifax"," 135","Halifax",N,N,"",0,460,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+12005,"Halifax","Halifax"," 136","Halifax",N,N,"137",0,272,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 136","Halifax",N,N,"137",0,272,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 136","Halifax",N,N,"137",0,272,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 136","Halifax",N,N,"137",0,272,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 136","Halifax",N,N,"137",0,272,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 136","Halifax",N,N,"137",0,272,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 137","Halifax",N,N,"",1,499,"Campbell","","Katie","Communist","Communiste",N,N,4
+12005,"Halifax","Halifax"," 137","Halifax",N,N,"",1,499,"Ells","","Cameron","Conservative","Conservateur",N,N,29
+12005,"Halifax","Halifax"," 137","Halifax",N,N,"",1,499,"Fillmore","","Andy","Liberal","Libéral",Y,Y,94
+12005,"Halifax","Halifax"," 137","Halifax",N,N,"",1,499,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,10
+12005,"Halifax","Halifax"," 137","Halifax",N,N,"",1,499,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,3
+12005,"Halifax","Halifax"," 137","Halifax",N,N,"",1,499,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,81
+12005,"Halifax","Halifax"," 138","Halifax",N,N,"",0,562,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 138","Halifax",N,N,"",0,562,"Ells","","Cameron","Conservative","Conservateur",N,N,37
+12005,"Halifax","Halifax"," 138","Halifax",N,N,"",0,562,"Fillmore","","Andy","Liberal","Libéral",Y,Y,82
+12005,"Halifax","Halifax"," 138","Halifax",N,N,"",0,562,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,6
+12005,"Halifax","Halifax"," 138","Halifax",N,N,"",0,562,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,2
+12005,"Halifax","Halifax"," 138","Halifax",N,N,"",0,562,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+12005,"Halifax","Halifax"," 139","Halifax",N,N,"",0,491,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 139","Halifax",N,N,"",0,491,"Ells","","Cameron","Conservative","Conservateur",N,N,27
+12005,"Halifax","Halifax"," 139","Halifax",N,N,"",0,491,"Fillmore","","Andy","Liberal","Libéral",Y,Y,100
+12005,"Halifax","Halifax"," 139","Halifax",N,N,"",0,491,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,4
+12005,"Halifax","Halifax"," 139","Halifax",N,N,"",0,491,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,3
+12005,"Halifax","Halifax"," 139","Halifax",N,N,"",0,491,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+12005,"Halifax","Halifax"," 140","Halifax",N,N,"",1,362,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 140","Halifax",N,N,"",1,362,"Ells","","Cameron","Conservative","Conservateur",N,N,23
+12005,"Halifax","Halifax"," 140","Halifax",N,N,"",1,362,"Fillmore","","Andy","Liberal","Libéral",Y,Y,59
+12005,"Halifax","Halifax"," 140","Halifax",N,N,"",1,362,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,8
+12005,"Halifax","Halifax"," 140","Halifax",N,N,"",1,362,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,5
+12005,"Halifax","Halifax"," 140","Halifax",N,N,"",1,362,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+12005,"Halifax","Halifax"," 141","Halifax",N,N,"",0,573,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 141","Halifax",N,N,"",0,573,"Ells","","Cameron","Conservative","Conservateur",N,N,38
+12005,"Halifax","Halifax"," 141","Halifax",N,N,"",0,573,"Fillmore","","Andy","Liberal","Libéral",Y,Y,124
+12005,"Halifax","Halifax"," 141","Halifax",N,N,"",0,573,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,10
+12005,"Halifax","Halifax"," 141","Halifax",N,N,"",0,573,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,2
+12005,"Halifax","Halifax"," 141","Halifax",N,N,"",0,573,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,96
+12005,"Halifax","Halifax"," 142","Halifax",N,N,"",1,470,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 142","Halifax",N,N,"",1,470,"Ells","","Cameron","Conservative","Conservateur",N,N,18
+12005,"Halifax","Halifax"," 142","Halifax",N,N,"",1,470,"Fillmore","","Andy","Liberal","Libéral",Y,Y,70
+12005,"Halifax","Halifax"," 142","Halifax",N,N,"",1,470,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,8
+12005,"Halifax","Halifax"," 142","Halifax",N,N,"",1,470,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,8
+12005,"Halifax","Halifax"," 142","Halifax",N,N,"",1,470,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+12005,"Halifax","Halifax"," 143","Halifax",N,N,"",2,451,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 143","Halifax",N,N,"",2,451,"Ells","","Cameron","Conservative","Conservateur",N,N,29
+12005,"Halifax","Halifax"," 143","Halifax",N,N,"",2,451,"Fillmore","","Andy","Liberal","Libéral",Y,Y,83
+12005,"Halifax","Halifax"," 143","Halifax",N,N,"",2,451,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,9
+12005,"Halifax","Halifax"," 143","Halifax",N,N,"",2,451,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,2
+12005,"Halifax","Halifax"," 143","Halifax",N,N,"",2,451,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+12005,"Halifax","Halifax"," 144","Halifax",N,N,"",0,348,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 144","Halifax",N,N,"",0,348,"Ells","","Cameron","Conservative","Conservateur",N,N,17
+12005,"Halifax","Halifax"," 144","Halifax",N,N,"",0,348,"Fillmore","","Andy","Liberal","Libéral",Y,Y,32
+12005,"Halifax","Halifax"," 144","Halifax",N,N,"",0,348,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,10
+12005,"Halifax","Halifax"," 144","Halifax",N,N,"",0,348,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,2
+12005,"Halifax","Halifax"," 144","Halifax",N,N,"",0,348,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+12005,"Halifax","Halifax"," 145","Halifax",N,N,"",0,533,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 145","Halifax",N,N,"",0,533,"Ells","","Cameron","Conservative","Conservateur",N,N,41
+12005,"Halifax","Halifax"," 145","Halifax",N,N,"",0,533,"Fillmore","","Andy","Liberal","Libéral",Y,Y,97
+12005,"Halifax","Halifax"," 145","Halifax",N,N,"",0,533,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,8
+12005,"Halifax","Halifax"," 145","Halifax",N,N,"",0,533,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,9
+12005,"Halifax","Halifax"," 145","Halifax",N,N,"",0,533,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+12005,"Halifax","Halifax"," 146","Halifax",N,N,"",0,940,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 146","Halifax",N,N,"",0,940,"Ells","","Cameron","Conservative","Conservateur",N,N,64
+12005,"Halifax","Halifax"," 146","Halifax",N,N,"",0,940,"Fillmore","","Andy","Liberal","Libéral",Y,Y,189
+12005,"Halifax","Halifax"," 146","Halifax",N,N,"",0,940,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,6
+12005,"Halifax","Halifax"," 146","Halifax",N,N,"",0,940,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,6
+12005,"Halifax","Halifax"," 146","Halifax",N,N,"",0,940,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,166
+12005,"Halifax","Halifax"," 147","Halifax",N,N,"",1,496,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 147","Halifax",N,N,"",1,496,"Ells","","Cameron","Conservative","Conservateur",N,N,15
+12005,"Halifax","Halifax"," 147","Halifax",N,N,"",1,496,"Fillmore","","Andy","Liberal","Libéral",Y,Y,49
+12005,"Halifax","Halifax"," 147","Halifax",N,N,"",1,496,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,5
+12005,"Halifax","Halifax"," 147","Halifax",N,N,"",1,496,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,1
+12005,"Halifax","Halifax"," 147","Halifax",N,N,"",1,496,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+12005,"Halifax","Halifax"," 148","Halifax",N,N,"",1,501,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 148","Halifax",N,N,"",1,501,"Ells","","Cameron","Conservative","Conservateur",N,N,14
+12005,"Halifax","Halifax"," 148","Halifax",N,N,"",1,501,"Fillmore","","Andy","Liberal","Libéral",Y,Y,45
+12005,"Halifax","Halifax"," 148","Halifax",N,N,"",1,501,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,7
+12005,"Halifax","Halifax"," 148","Halifax",N,N,"",1,501,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,2
+12005,"Halifax","Halifax"," 148","Halifax",N,N,"",1,501,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+12005,"Halifax","Halifax"," 149","Halifax",N,N,"",0,492,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 149","Halifax",N,N,"",0,492,"Ells","","Cameron","Conservative","Conservateur",N,N,18
+12005,"Halifax","Halifax"," 149","Halifax",N,N,"",0,492,"Fillmore","","Andy","Liberal","Libéral",Y,Y,49
+12005,"Halifax","Halifax"," 149","Halifax",N,N,"",0,492,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,7
+12005,"Halifax","Halifax"," 149","Halifax",N,N,"",0,492,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,1
+12005,"Halifax","Halifax"," 149","Halifax",N,N,"",0,492,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+12005,"Halifax","Halifax"," 150","Halifax",N,N,"",0,524,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 150","Halifax",N,N,"",0,524,"Ells","","Cameron","Conservative","Conservateur",N,N,5
+12005,"Halifax","Halifax"," 150","Halifax",N,N,"",0,524,"Fillmore","","Andy","Liberal","Libéral",Y,Y,45
+12005,"Halifax","Halifax"," 150","Halifax",N,N,"",0,524,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,4
+12005,"Halifax","Halifax"," 150","Halifax",N,N,"",0,524,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 150","Halifax",N,N,"",0,524,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+12005,"Halifax","Halifax"," 151","Halifax",N,N,"",1,532,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 151","Halifax",N,N,"",1,532,"Ells","","Cameron","Conservative","Conservateur",N,N,27
+12005,"Halifax","Halifax"," 151","Halifax",N,N,"",1,532,"Fillmore","","Andy","Liberal","Libéral",Y,Y,109
+12005,"Halifax","Halifax"," 151","Halifax",N,N,"",1,532,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,6
+12005,"Halifax","Halifax"," 151","Halifax",N,N,"",1,532,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,4
+12005,"Halifax","Halifax"," 151","Halifax",N,N,"",1,532,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+12005,"Halifax","Halifax"," 152","Halifax",N,N,"",0,572,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 152","Halifax",N,N,"",0,572,"Ells","","Cameron","Conservative","Conservateur",N,N,22
+12005,"Halifax","Halifax"," 152","Halifax",N,N,"",0,572,"Fillmore","","Andy","Liberal","Libéral",Y,Y,53
+12005,"Halifax","Halifax"," 152","Halifax",N,N,"",0,572,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,8
+12005,"Halifax","Halifax"," 152","Halifax",N,N,"",0,572,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,5
+12005,"Halifax","Halifax"," 152","Halifax",N,N,"",0,572,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+12005,"Halifax","Halifax"," 153","Halifax",N,N,"154",0,298,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 153","Halifax",N,N,"154",0,298,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 153","Halifax",N,N,"154",0,298,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 153","Halifax",N,N,"154",0,298,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 153","Halifax",N,N,"154",0,298,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 153","Halifax",N,N,"154",0,298,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 154","Halifax",N,N,"",0,335,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 154","Halifax",N,N,"",0,335,"Ells","","Cameron","Conservative","Conservateur",N,N,47
+12005,"Halifax","Halifax"," 154","Halifax",N,N,"",0,335,"Fillmore","","Andy","Liberal","Libéral",Y,Y,124
+12005,"Halifax","Halifax"," 154","Halifax",N,N,"",0,335,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,12
+12005,"Halifax","Halifax"," 154","Halifax",N,N,"",0,335,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,10
+12005,"Halifax","Halifax"," 154","Halifax",N,N,"",0,335,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,79
+12005,"Halifax","Halifax"," 155","Halifax",N,N,"",1,479,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 155","Halifax",N,N,"",1,479,"Ells","","Cameron","Conservative","Conservateur",N,N,34
+12005,"Halifax","Halifax"," 155","Halifax",N,N,"",1,479,"Fillmore","","Andy","Liberal","Libéral",Y,Y,91
+12005,"Halifax","Halifax"," 155","Halifax",N,N,"",1,479,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,10
+12005,"Halifax","Halifax"," 155","Halifax",N,N,"",1,479,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,4
+12005,"Halifax","Halifax"," 155","Halifax",N,N,"",1,479,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+12005,"Halifax","Halifax"," 156","Halifax",N,N,"",0,329,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 156","Halifax",N,N,"",0,329,"Ells","","Cameron","Conservative","Conservateur",N,N,6
+12005,"Halifax","Halifax"," 156","Halifax",N,N,"",0,329,"Fillmore","","Andy","Liberal","Libéral",Y,Y,43
+12005,"Halifax","Halifax"," 156","Halifax",N,N,"",0,329,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,4
+12005,"Halifax","Halifax"," 156","Halifax",N,N,"",0,329,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,4
+12005,"Halifax","Halifax"," 156","Halifax",N,N,"",0,329,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+12005,"Halifax","Halifax"," 157","Halifax",N,N,"158",0,371,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 157","Halifax",N,N,"158",0,371,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 157","Halifax",N,N,"158",0,371,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 157","Halifax",N,N,"158",0,371,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 157","Halifax",N,N,"158",0,371,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 157","Halifax",N,N,"158",0,371,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 158","Halifax",N,N,"",4,483,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 158","Halifax",N,N,"",4,483,"Ells","","Cameron","Conservative","Conservateur",N,N,58
+12005,"Halifax","Halifax"," 158","Halifax",N,N,"",4,483,"Fillmore","","Andy","Liberal","Libéral",Y,Y,176
+12005,"Halifax","Halifax"," 158","Halifax",N,N,"",4,483,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,14
+12005,"Halifax","Halifax"," 158","Halifax",N,N,"",4,483,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,3
+12005,"Halifax","Halifax"," 158","Halifax",N,N,"",4,483,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,91
+12005,"Halifax","Halifax"," 159","Halifax",N,N,"161",0,336,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 159","Halifax",N,N,"161",0,336,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 159","Halifax",N,N,"161",0,336,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 159","Halifax",N,N,"161",0,336,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 159","Halifax",N,N,"161",0,336,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 159","Halifax",N,N,"161",0,336,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 160","Halifax",N,N,"",3,478,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 160","Halifax",N,N,"",3,478,"Ells","","Cameron","Conservative","Conservateur",N,N,30
+12005,"Halifax","Halifax"," 160","Halifax",N,N,"",3,478,"Fillmore","","Andy","Liberal","Libéral",Y,Y,102
+12005,"Halifax","Halifax"," 160","Halifax",N,N,"",3,478,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,8
+12005,"Halifax","Halifax"," 160","Halifax",N,N,"",3,478,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,2
+12005,"Halifax","Halifax"," 160","Halifax",N,N,"",3,478,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+12005,"Halifax","Halifax"," 161","Halifax",N,N,"",2,364,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 161","Halifax",N,N,"",2,364,"Ells","","Cameron","Conservative","Conservateur",N,N,51
+12005,"Halifax","Halifax"," 161","Halifax",N,N,"",2,364,"Fillmore","","Andy","Liberal","Libéral",Y,Y,120
+12005,"Halifax","Halifax"," 161","Halifax",N,N,"",2,364,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,16
+12005,"Halifax","Halifax"," 161","Halifax",N,N,"",2,364,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,4
+12005,"Halifax","Halifax"," 161","Halifax",N,N,"",2,364,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,89
+12005,"Halifax","Halifax"," 162","Harrietsfield",N,N,"",1,343,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 162","Harrietsfield",N,N,"",1,343,"Ells","","Cameron","Conservative","Conservateur",N,N,61
+12005,"Halifax","Halifax"," 162","Harrietsfield",N,N,"",1,343,"Fillmore","","Andy","Liberal","Libéral",Y,Y,89
+12005,"Halifax","Halifax"," 162","Harrietsfield",N,N,"",1,343,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,11
+12005,"Halifax","Halifax"," 162","Harrietsfield",N,N,"",1,343,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,3
+12005,"Halifax","Halifax"," 162","Harrietsfield",N,N,"",1,343,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+12005,"Halifax","Halifax"," 163","Harrietsfield",N,N,"165",0,323,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 163","Harrietsfield",N,N,"165",0,323,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 163","Harrietsfield",N,N,"165",0,323,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 163","Harrietsfield",N,N,"165",0,323,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 163","Harrietsfield",N,N,"165",0,323,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 163","Harrietsfield",N,N,"165",0,323,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 164","Harrietsfield--Williamswood",N,N,"",0,387,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 164","Harrietsfield--Williamswood",N,N,"",0,387,"Ells","","Cameron","Conservative","Conservateur",N,N,34
+12005,"Halifax","Halifax"," 164","Harrietsfield--Williamswood",N,N,"",0,387,"Fillmore","","Andy","Liberal","Libéral",Y,Y,55
+12005,"Halifax","Halifax"," 164","Harrietsfield--Williamswood",N,N,"",0,387,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,8
+12005,"Halifax","Halifax"," 164","Harrietsfield--Williamswood",N,N,"",0,387,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,5
+12005,"Halifax","Halifax"," 164","Harrietsfield--Williamswood",N,N,"",0,387,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+12005,"Halifax","Halifax"," 165","Harrietsfield--Williamswood",N,N,"",0,353,"Campbell","","Katie","Communist","Communiste",N,N,2
+12005,"Halifax","Halifax"," 165","Harrietsfield--Williamswood",N,N,"",0,353,"Ells","","Cameron","Conservative","Conservateur",N,N,45
+12005,"Halifax","Halifax"," 165","Harrietsfield--Williamswood",N,N,"",0,353,"Fillmore","","Andy","Liberal","Libéral",Y,Y,80
+12005,"Halifax","Halifax"," 165","Harrietsfield--Williamswood",N,N,"",0,353,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,8
+12005,"Halifax","Halifax"," 165","Harrietsfield--Williamswood",N,N,"",0,353,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,5
+12005,"Halifax","Halifax"," 165","Harrietsfield--Williamswood",N,N,"",0,353,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+12005,"Halifax","Halifax"," 166","Williamswood",N,N,"162",0,308,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 166","Williamswood",N,N,"162",0,308,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 166","Williamswood",N,N,"162",0,308,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 166","Williamswood",N,N,"162",0,308,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 166","Williamswood",N,N,"162",0,308,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 166","Williamswood",N,N,"162",0,308,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 167","Portuguese Cove",N,N,"",0,414,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 167","Portuguese Cove",N,N,"",0,414,"Ells","","Cameron","Conservative","Conservateur",N,N,33
+12005,"Halifax","Halifax"," 167","Portuguese Cove",N,N,"",0,414,"Fillmore","","Andy","Liberal","Libéral",Y,Y,73
+12005,"Halifax","Halifax"," 167","Portuguese Cove",N,N,"",0,414,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,4
+12005,"Halifax","Halifax"," 167","Portuguese Cove",N,N,"",0,414,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,5
+12005,"Halifax","Halifax"," 167","Portuguese Cove",N,N,"",0,414,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+12005,"Halifax","Halifax"," 168","Halifax",N,N,"",1,464,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 168","Halifax",N,N,"",1,464,"Ells","","Cameron","Conservative","Conservateur",N,N,31
+12005,"Halifax","Halifax"," 168","Halifax",N,N,"",1,464,"Fillmore","","Andy","Liberal","Libéral",Y,Y,108
+12005,"Halifax","Halifax"," 168","Halifax",N,N,"",1,464,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,5
+12005,"Halifax","Halifax"," 168","Halifax",N,N,"",1,464,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,6
+12005,"Halifax","Halifax"," 168","Halifax",N,N,"",1,464,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+12005,"Halifax","Halifax"," 400","Halifax",N,N,"10",0,123,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 400","Halifax",N,N,"10",0,123,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 400","Halifax",N,N,"10",0,123,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 400","Halifax",N,N,"10",0,123,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 400","Halifax",N,N,"10",0,123,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 400","Halifax",N,N,"10",0,123,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 401","Halifax",N,N,"18",0,121,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 401","Halifax",N,N,"18",0,121,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 401","Halifax",N,N,"18",0,121,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 401","Halifax",N,N,"18",0,121,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 401","Halifax",N,N,"18",0,121,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 401","Halifax",N,N,"18",0,121,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 402","Halifax",N,N,"27",0,210,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 402","Halifax",N,N,"27",0,210,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 402","Halifax",N,N,"27",0,210,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 402","Halifax",N,N,"27",0,210,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 402","Halifax",N,N,"27",0,210,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 402","Halifax",N,N,"27",0,210,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 403","Halifax",N,N,"34",0,215,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 403","Halifax",N,N,"34",0,215,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 403","Halifax",N,N,"34",0,215,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 403","Halifax",N,N,"34",0,215,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 403","Halifax",N,N,"34",0,215,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 403","Halifax",N,N,"34",0,215,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 404","Halifax",N,N,"405",0,91,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 404","Halifax",N,N,"405",0,91,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 404","Halifax",N,N,"405",0,91,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 404","Halifax",N,N,"405",0,91,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 404","Halifax",N,N,"405",0,91,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 404","Halifax",N,N,"405",0,91,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 405","Halifax",N,N,"",0,185,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 405","Halifax",N,N,"",0,185,"Ells","","Cameron","Conservative","Conservateur",N,N,18
+12005,"Halifax","Halifax"," 405","Halifax",N,N,"",0,185,"Fillmore","","Andy","Liberal","Libéral",Y,Y,48
+12005,"Halifax","Halifax"," 405","Halifax",N,N,"",0,185,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 405","Halifax",N,N,"",0,185,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,1
+12005,"Halifax","Halifax"," 405","Halifax",N,N,"",0,185,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12005,"Halifax","Halifax"," 406","Halifax",N,N,"77",0,132,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 406","Halifax",N,N,"77",0,132,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 406","Halifax",N,N,"77",0,132,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 406","Halifax",N,N,"77",0,132,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 406","Halifax",N,N,"77",0,132,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 406","Halifax",N,N,"77",0,132,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 407","Halifax",N,N,"65",0,184,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 407","Halifax",N,N,"65",0,184,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 407","Halifax",N,N,"65",0,184,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 407","Halifax",N,N,"65",0,184,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 407","Halifax",N,N,"65",0,184,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 407","Halifax",N,N,"65",0,184,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 408","Halifax",N,N,"57",0,29,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 408","Halifax",N,N,"57",0,29,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 408","Halifax",N,N,"57",0,29,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 408","Halifax",N,N,"57",0,29,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 408","Halifax",N,N,"57",0,29,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 408","Halifax",N,N,"57",0,29,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 409","Halifax",N,N,"139",0,194,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 409","Halifax",N,N,"139",0,194,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 409","Halifax",N,N,"139",0,194,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 409","Halifax",N,N,"139",0,194,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 409","Halifax",N,N,"139",0,194,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 409","Halifax",N,N,"139",0,194,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 410","Halifax",N,N,"55",0,102,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 410","Halifax",N,N,"55",0,102,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 410","Halifax",N,N,"55",0,102,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 410","Halifax",N,N,"55",0,102,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 410","Halifax",N,N,"55",0,102,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 410","Halifax",N,N,"55",0,102,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 411","Halifax",N,N,"70",0,135,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 411","Halifax",N,N,"70",0,135,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 411","Halifax",N,N,"70",0,135,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 411","Halifax",N,N,"70",0,135,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 411","Halifax",N,N,"70",0,135,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 411","Halifax",N,N,"70",0,135,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 412","Halifax",N,N,"",3,203,"Campbell","","Katie","Communist","Communiste",N,N,4
+12005,"Halifax","Halifax"," 412","Halifax",N,N,"",3,203,"Ells","","Cameron","Conservative","Conservateur",N,N,17
+12005,"Halifax","Halifax"," 412","Halifax",N,N,"",3,203,"Fillmore","","Andy","Liberal","Libéral",Y,Y,54
+12005,"Halifax","Halifax"," 412","Halifax",N,N,"",3,203,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,10
+12005,"Halifax","Halifax"," 412","Halifax",N,N,"",3,203,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,4
+12005,"Halifax","Halifax"," 412","Halifax",N,N,"",3,203,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12005,"Halifax","Halifax"," 413","Halifax",N,N,"414",0,65,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 413","Halifax",N,N,"414",0,65,"Ells","","Cameron","Conservative","Conservateur",N,N,0
+12005,"Halifax","Halifax"," 413","Halifax",N,N,"414",0,65,"Fillmore","","Andy","Liberal","Libéral",Y,Y,0
+12005,"Halifax","Halifax"," 413","Halifax",N,N,"414",0,65,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 413","Halifax",N,N,"414",0,65,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 413","Halifax",N,N,"414",0,65,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 414","Halifax",N,N,"",6,83,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 414","Halifax",N,N,"",6,83,"Ells","","Cameron","Conservative","Conservateur",N,N,9
+12005,"Halifax","Halifax"," 414","Halifax",N,N,"",6,83,"Fillmore","","Andy","Liberal","Libéral",Y,Y,36
+12005,"Halifax","Halifax"," 414","Halifax",N,N,"",6,83,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,2
+12005,"Halifax","Halifax"," 414","Halifax",N,N,"",6,83,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,2
+12005,"Halifax","Halifax"," 414","Halifax",N,N,"",6,83,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12005,"Halifax","Halifax"," 500","Mobile poll/Bureau itinérant",N,N,"",4,64,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 500","Mobile poll/Bureau itinérant",N,N,"",4,64,"Ells","","Cameron","Conservative","Conservateur",N,N,8
+12005,"Halifax","Halifax"," 500","Mobile poll/Bureau itinérant",N,N,"",4,64,"Fillmore","","Andy","Liberal","Libéral",Y,Y,34
+12005,"Halifax","Halifax"," 500","Mobile poll/Bureau itinérant",N,N,"",4,64,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,1
+12005,"Halifax","Halifax"," 500","Mobile poll/Bureau itinérant",N,N,"",4,64,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 500","Mobile poll/Bureau itinérant",N,N,"",4,64,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+12005,"Halifax","Halifax"," 501","Mobile poll/Bureau itinérant",N,N,"",1,76,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 501","Mobile poll/Bureau itinérant",N,N,"",1,76,"Ells","","Cameron","Conservative","Conservateur",N,N,5
+12005,"Halifax","Halifax"," 501","Mobile poll/Bureau itinérant",N,N,"",1,76,"Fillmore","","Andy","Liberal","Libéral",Y,Y,16
+12005,"Halifax","Halifax"," 501","Mobile poll/Bureau itinérant",N,N,"",1,76,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,1
+12005,"Halifax","Halifax"," 501","Mobile poll/Bureau itinérant",N,N,"",1,76,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 501","Mobile poll/Bureau itinérant",N,N,"",1,76,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12005,"Halifax","Halifax"," 502","Mobile poll/Bureau itinérant",N,N,"",0,121,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 502","Mobile poll/Bureau itinérant",N,N,"",0,121,"Ells","","Cameron","Conservative","Conservateur",N,N,16
+12005,"Halifax","Halifax"," 502","Mobile poll/Bureau itinérant",N,N,"",0,121,"Fillmore","","Andy","Liberal","Libéral",Y,Y,41
+12005,"Halifax","Halifax"," 502","Mobile poll/Bureau itinérant",N,N,"",0,121,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 502","Mobile poll/Bureau itinérant",N,N,"",0,121,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 502","Mobile poll/Bureau itinérant",N,N,"",0,121,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12005,"Halifax","Halifax"," 503","Mobile poll/Bureau itinérant",N,N,"",0,23,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 503","Mobile poll/Bureau itinérant",N,N,"",0,23,"Ells","","Cameron","Conservative","Conservateur",N,N,3
+12005,"Halifax","Halifax"," 503","Mobile poll/Bureau itinérant",N,N,"",0,23,"Fillmore","","Andy","Liberal","Libéral",Y,Y,21
+12005,"Halifax","Halifax"," 503","Mobile poll/Bureau itinérant",N,N,"",0,23,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 503","Mobile poll/Bureau itinérant",N,N,"",0,23,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 503","Mobile poll/Bureau itinérant",N,N,"",0,23,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+12005,"Halifax","Halifax"," 504","Mobile poll/Bureau itinérant",N,N,"",3,46,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 504","Mobile poll/Bureau itinérant",N,N,"",3,46,"Ells","","Cameron","Conservative","Conservateur",N,N,3
+12005,"Halifax","Halifax"," 504","Mobile poll/Bureau itinérant",N,N,"",3,46,"Fillmore","","Andy","Liberal","Libéral",Y,Y,17
+12005,"Halifax","Halifax"," 504","Mobile poll/Bureau itinérant",N,N,"",3,46,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 504","Mobile poll/Bureau itinérant",N,N,"",3,46,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 504","Mobile poll/Bureau itinérant",N,N,"",3,46,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+12005,"Halifax","Halifax"," 505","Mobile poll/Bureau itinérant",N,N,"",3,48,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 505","Mobile poll/Bureau itinérant",N,N,"",3,48,"Ells","","Cameron","Conservative","Conservateur",N,N,5
+12005,"Halifax","Halifax"," 505","Mobile poll/Bureau itinérant",N,N,"",3,48,"Fillmore","","Andy","Liberal","Libéral",Y,Y,9
+12005,"Halifax","Halifax"," 505","Mobile poll/Bureau itinérant",N,N,"",3,48,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 505","Mobile poll/Bureau itinérant",N,N,"",3,48,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 505","Mobile poll/Bureau itinérant",N,N,"",3,48,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+12005,"Halifax","Halifax"," 506","Mobile poll/Bureau itinérant",N,N,"",4,87,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 506","Mobile poll/Bureau itinérant",N,N,"",4,87,"Ells","","Cameron","Conservative","Conservateur",N,N,20
+12005,"Halifax","Halifax"," 506","Mobile poll/Bureau itinérant",N,N,"",4,87,"Fillmore","","Andy","Liberal","Libéral",Y,Y,35
+12005,"Halifax","Halifax"," 506","Mobile poll/Bureau itinérant",N,N,"",4,87,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 506","Mobile poll/Bureau itinérant",N,N,"",4,87,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,0
+12005,"Halifax","Halifax"," 506","Mobile poll/Bureau itinérant",N,N,"",4,87,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+12005,"Halifax","Halifax"," 507","Mobile poll/Bureau itinérant",N,N,"",4,41,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 507","Mobile poll/Bureau itinérant",N,N,"",4,41,"Ells","","Cameron","Conservative","Conservateur",N,N,6
+12005,"Halifax","Halifax"," 507","Mobile poll/Bureau itinérant",N,N,"",4,41,"Fillmore","","Andy","Liberal","Libéral",Y,Y,14
+12005,"Halifax","Halifax"," 507","Mobile poll/Bureau itinérant",N,N,"",4,41,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,0
+12005,"Halifax","Halifax"," 507","Mobile poll/Bureau itinérant",N,N,"",4,41,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,1
+12005,"Halifax","Halifax"," 507","Mobile poll/Bureau itinérant",N,N,"",4,41,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+12005,"Halifax","Halifax"," 508","Mobile poll/Bureau itinérant",N,N,"",4,75,"Campbell","","Katie","Communist","Communiste",N,N,0
+12005,"Halifax","Halifax"," 508","Mobile poll/Bureau itinérant",N,N,"",4,75,"Ells","","Cameron","Conservative","Conservateur",N,N,17
+12005,"Halifax","Halifax"," 508","Mobile poll/Bureau itinérant",N,N,"",4,75,"Fillmore","","Andy","Liberal","Libéral",Y,Y,25
+12005,"Halifax","Halifax"," 508","Mobile poll/Bureau itinérant",N,N,"",4,75,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,1
+12005,"Halifax","Halifax"," 508","Mobile poll/Bureau itinérant",N,N,"",4,75,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,1
+12005,"Halifax","Halifax"," 508","Mobile poll/Bureau itinérant",N,N,"",4,75,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+12005,"Halifax","Halifax"," 600","Halifax",N,N,"",6,0,"Campbell","","Katie","Communist","Communiste",N,N,4
+12005,"Halifax","Halifax"," 600","Halifax",N,N,"",6,0,"Ells","","Cameron","Conservative","Conservateur",N,N,104
+12005,"Halifax","Halifax"," 600","Halifax",N,N,"",6,0,"Fillmore","","Andy","Liberal","Libéral",Y,Y,644
+12005,"Halifax","Halifax"," 600","Halifax",N,N,"",6,0,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,19
+12005,"Halifax","Halifax"," 600","Halifax",N,N,"",6,0,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,20
+12005,"Halifax","Halifax"," 600","Halifax",N,N,"",6,0,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,588
+12005,"Halifax","Halifax"," 601","Halifax",N,N,"",8,0,"Campbell","","Katie","Communist","Communiste",N,N,6
+12005,"Halifax","Halifax"," 601","Halifax",N,N,"",8,0,"Ells","","Cameron","Conservative","Conservateur",N,N,88
+12005,"Halifax","Halifax"," 601","Halifax",N,N,"",8,0,"Fillmore","","Andy","Liberal","Libéral",Y,Y,528
+12005,"Halifax","Halifax"," 601","Halifax",N,N,"",8,0,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,12
+12005,"Halifax","Halifax"," 601","Halifax",N,N,"",8,0,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,23
+12005,"Halifax","Halifax"," 601","Halifax",N,N,"",8,0,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,566
+12005,"Halifax","Halifax"," 602","Halifax",N,N,"",3,0,"Campbell","","Katie","Communist","Communiste",N,N,5
+12005,"Halifax","Halifax"," 602","Halifax",N,N,"",3,0,"Ells","","Cameron","Conservative","Conservateur",N,N,61
+12005,"Halifax","Halifax"," 602","Halifax",N,N,"",3,0,"Fillmore","","Andy","Liberal","Libéral",Y,Y,312
+12005,"Halifax","Halifax"," 602","Halifax",N,N,"",3,0,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,16
+12005,"Halifax","Halifax"," 602","Halifax",N,N,"",3,0,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,25
+12005,"Halifax","Halifax"," 602","Halifax",N,N,"",3,0,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,513
+12005,"Halifax","Halifax"," 603","Halifax",N,N,"",5,0,"Campbell","","Katie","Communist","Communiste",N,N,5
+12005,"Halifax","Halifax"," 603","Halifax",N,N,"",5,0,"Ells","","Cameron","Conservative","Conservateur",N,N,84
+12005,"Halifax","Halifax"," 603","Halifax",N,N,"",5,0,"Fillmore","","Andy","Liberal","Libéral",Y,Y,446
+12005,"Halifax","Halifax"," 603","Halifax",N,N,"",5,0,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,10
+12005,"Halifax","Halifax"," 603","Halifax",N,N,"",5,0,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,23
+12005,"Halifax","Halifax"," 603","Halifax",N,N,"",5,0,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,423
+12005,"Halifax","Halifax"," 604","Halifax",N,N,"",3,0,"Campbell","","Katie","Communist","Communiste",N,N,3
+12005,"Halifax","Halifax"," 604","Halifax",N,N,"",3,0,"Ells","","Cameron","Conservative","Conservateur",N,N,118
+12005,"Halifax","Halifax"," 604","Halifax",N,N,"",3,0,"Fillmore","","Andy","Liberal","Libéral",Y,Y,436
+12005,"Halifax","Halifax"," 604","Halifax",N,N,"",3,0,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,12
+12005,"Halifax","Halifax"," 604","Halifax",N,N,"",3,0,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,9
+12005,"Halifax","Halifax"," 604","Halifax",N,N,"",3,0,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,306
+12005,"Halifax","Halifax"," 605","Halifax",N,N,"",2,0,"Campbell","","Katie","Communist","Communiste",N,N,3
+12005,"Halifax","Halifax"," 605","Halifax",N,N,"",2,0,"Ells","","Cameron","Conservative","Conservateur",N,N,150
+12005,"Halifax","Halifax"," 605","Halifax",N,N,"",2,0,"Fillmore","","Andy","Liberal","Libéral",Y,Y,407
+12005,"Halifax","Halifax"," 605","Halifax",N,N,"",2,0,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,13
+12005,"Halifax","Halifax"," 605","Halifax",N,N,"",2,0,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,22
+12005,"Halifax","Halifax"," 605","Halifax",N,N,"",2,0,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,454
+12005,"Halifax","Halifax"," 606","Halifax",N,N,"",4,0,"Campbell","","Katie","Communist","Communiste",N,N,9
+12005,"Halifax","Halifax"," 606","Halifax",N,N,"",4,0,"Ells","","Cameron","Conservative","Conservateur",N,N,101
+12005,"Halifax","Halifax"," 606","Halifax",N,N,"",4,0,"Fillmore","","Andy","Liberal","Libéral",Y,Y,489
+12005,"Halifax","Halifax"," 606","Halifax",N,N,"",4,0,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,10
+12005,"Halifax","Halifax"," 606","Halifax",N,N,"",4,0,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,33
+12005,"Halifax","Halifax"," 606","Halifax",N,N,"",4,0,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,492
+12005,"Halifax","Halifax"," 607","Halifax",N,N,"",2,0,"Campbell","","Katie","Communist","Communiste",N,N,2
+12005,"Halifax","Halifax"," 607","Halifax",N,N,"",2,0,"Ells","","Cameron","Conservative","Conservateur",N,N,86
+12005,"Halifax","Halifax"," 607","Halifax",N,N,"",2,0,"Fillmore","","Andy","Liberal","Libéral",Y,Y,480
+12005,"Halifax","Halifax"," 607","Halifax",N,N,"",2,0,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,16
+12005,"Halifax","Halifax"," 607","Halifax",N,N,"",2,0,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,22
+12005,"Halifax","Halifax"," 607","Halifax",N,N,"",2,0,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,355
+12005,"Halifax","Halifax"," 608","Halifax",N,N,"",2,0,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 608","Halifax",N,N,"",2,0,"Ells","","Cameron","Conservative","Conservateur",N,N,131
+12005,"Halifax","Halifax"," 608","Halifax",N,N,"",2,0,"Fillmore","","Andy","Liberal","Libéral",Y,Y,626
+12005,"Halifax","Halifax"," 608","Halifax",N,N,"",2,0,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,7
+12005,"Halifax","Halifax"," 608","Halifax",N,N,"",2,0,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,28
+12005,"Halifax","Halifax"," 608","Halifax",N,N,"",2,0,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,349
+12005,"Halifax","Halifax"," 609","Halifax",N,N,"",4,0,"Campbell","","Katie","Communist","Communiste",N,N,4
+12005,"Halifax","Halifax"," 609","Halifax",N,N,"",4,0,"Ells","","Cameron","Conservative","Conservateur",N,N,155
+12005,"Halifax","Halifax"," 609","Halifax",N,N,"",4,0,"Fillmore","","Andy","Liberal","Libéral",Y,Y,505
+12005,"Halifax","Halifax"," 609","Halifax",N,N,"",4,0,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,9
+12005,"Halifax","Halifax"," 609","Halifax",N,N,"",4,0,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,16
+12005,"Halifax","Halifax"," 609","Halifax",N,N,"",4,0,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,312
+12005,"Halifax","Halifax"," 610","Halifax",N,N,"",4,0,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 610","Halifax",N,N,"",4,0,"Ells","","Cameron","Conservative","Conservateur",N,N,258
+12005,"Halifax","Halifax"," 610","Halifax",N,N,"",4,0,"Fillmore","","Andy","Liberal","Libéral",Y,Y,917
+12005,"Halifax","Halifax"," 610","Halifax",N,N,"",4,0,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,17
+12005,"Halifax","Halifax"," 610","Halifax",N,N,"",4,0,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,34
+12005,"Halifax","Halifax"," 610","Halifax",N,N,"",4,0,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,325
+12005,"Halifax","Halifax"," 611","Halifax",N,N,"",5,0,"Campbell","","Katie","Communist","Communiste",N,N,3
+12005,"Halifax","Halifax"," 611","Halifax",N,N,"",5,0,"Ells","","Cameron","Conservative","Conservateur",N,N,149
+12005,"Halifax","Halifax"," 611","Halifax",N,N,"",5,0,"Fillmore","","Andy","Liberal","Libéral",Y,Y,500
+12005,"Halifax","Halifax"," 611","Halifax",N,N,"",5,0,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,21
+12005,"Halifax","Halifax"," 611","Halifax",N,N,"",5,0,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,12
+12005,"Halifax","Halifax"," 611","Halifax",N,N,"",5,0,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,283
+12005,"Halifax","Halifax"," 612","Halifax",N,N,"",2,0,"Campbell","","Katie","Communist","Communiste",N,N,3
+12005,"Halifax","Halifax"," 612","Halifax",N,N,"",2,0,"Ells","","Cameron","Conservative","Conservateur",N,N,193
+12005,"Halifax","Halifax"," 612","Halifax",N,N,"",2,0,"Fillmore","","Andy","Liberal","Libéral",Y,Y,688
+12005,"Halifax","Halifax"," 612","Halifax",N,N,"",2,0,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,16
+12005,"Halifax","Halifax"," 612","Halifax",N,N,"",2,0,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,17
+12005,"Halifax","Halifax"," 612","Halifax",N,N,"",2,0,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,303
+12005,"Halifax","Halifax"," 613","Halifax",N,N,"",8,0,"Campbell","","Katie","Communist","Communiste",N,N,3
+12005,"Halifax","Halifax"," 613","Halifax",N,N,"",8,0,"Ells","","Cameron","Conservative","Conservateur",N,N,159
+12005,"Halifax","Halifax"," 613","Halifax",N,N,"",8,0,"Fillmore","","Andy","Liberal","Libéral",Y,Y,437
+12005,"Halifax","Halifax"," 613","Halifax",N,N,"",8,0,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,34
+12005,"Halifax","Halifax"," 613","Halifax",N,N,"",8,0,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,8
+12005,"Halifax","Halifax"," 613","Halifax",N,N,"",8,0,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,266
+12005,"Halifax","Halifax"," 614","Halifax",N,N,"",5,0,"Campbell","","Katie","Communist","Communiste",N,N,2
+12005,"Halifax","Halifax"," 614","Halifax",N,N,"",5,0,"Ells","","Cameron","Conservative","Conservateur",N,N,112
+12005,"Halifax","Halifax"," 614","Halifax",N,N,"",5,0,"Fillmore","","Andy","Liberal","Libéral",Y,Y,356
+12005,"Halifax","Halifax"," 614","Halifax",N,N,"",5,0,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,7
+12005,"Halifax","Halifax"," 614","Halifax",N,N,"",5,0,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,9
+12005,"Halifax","Halifax"," 614","Halifax",N,N,"",5,0,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,159
+12005,"Halifax","Halifax"," 615","Harrietsfield",N,N,"",3,0,"Campbell","","Katie","Communist","Communiste",N,N,1
+12005,"Halifax","Halifax"," 615","Harrietsfield",N,N,"",3,0,"Ells","","Cameron","Conservative","Conservateur",N,N,144
+12005,"Halifax","Halifax"," 615","Harrietsfield",N,N,"",3,0,"Fillmore","","Andy","Liberal","Libéral",Y,Y,295
+12005,"Halifax","Halifax"," 615","Harrietsfield",N,N,"",3,0,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,29
+12005,"Halifax","Halifax"," 615","Harrietsfield",N,N,"",3,0,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,16
+12005,"Halifax","Halifax"," 615","Harrietsfield",N,N,"",3,0,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,137
+12005,"Halifax","Halifax"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",68,413,"Campbell","","Katie","Communist","Communiste",N,N,2
+12005,"Halifax","Halifax"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",68,413,"Ells","","Cameron","Conservative","Conservateur",N,N,201
+12005,"Halifax","Halifax"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",68,413,"Fillmore","","Andy","Liberal","Libéral",Y,Y,369
+12005,"Halifax","Halifax"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",68,413,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,15
+12005,"Halifax","Halifax"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",68,413,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,37
+12005,"Halifax","Halifax"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",68,413,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,388
+12005,"Halifax","Halifax"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",66,0,"Campbell","","Katie","Communist","Communiste",N,N,5
+12005,"Halifax","Halifax"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",66,0,"Ells","","Cameron","Conservative","Conservateur",N,N,222
+12005,"Halifax","Halifax"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",66,0,"Fillmore","","Andy","Liberal","Libéral",Y,Y,1132
+12005,"Halifax","Halifax"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",66,0,"Hébert","","B. Alexander","People's Party - PPC","Parti populaire - PPC",N,N,26
+12005,"Halifax","Halifax"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",66,0,"Roberts","","Jo-Ann","Green Party","Parti Vert",N,N,43
+12005,"Halifax","Halifax"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",66,0,"Roberts","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,839

@@ -1,0 +1,1085 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 1","Upper Tantallon",N,N,"",2,407,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 1","Upper Tantallon",N,N,"",2,407,"Jordan","","Bernadette","Liberal","Libéral",Y,N,79
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 1","Upper Tantallon",N,N,"",2,407,"Perkins","","Rick","Conservative","Conservateur",N,Y,72
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 1","Upper Tantallon",N,N,"",2,407,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,6
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 2","Upper Tantallon",N,N,"",1,399,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 2","Upper Tantallon",N,N,"",1,399,"Jordan","","Bernadette","Liberal","Libéral",Y,N,99
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 2","Upper Tantallon",N,N,"",1,399,"Perkins","","Rick","Conservative","Conservateur",N,Y,73
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 2","Upper Tantallon",N,N,"",1,399,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,2
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 3","Upper Tantallon",N,N,"",0,325,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 3","Upper Tantallon",N,N,"",0,325,"Jordan","","Bernadette","Liberal","Libéral",Y,N,66
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 3","Upper Tantallon",N,N,"",0,325,"Perkins","","Rick","Conservative","Conservateur",N,Y,34
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 3","Upper Tantallon",N,N,"",0,325,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,1
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 4","Upper Tantallon",N,N,"",1,373,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 4","Upper Tantallon",N,N,"",1,373,"Jordan","","Bernadette","Liberal","Libéral",Y,N,75
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 4","Upper Tantallon",N,N,"",1,373,"Perkins","","Rick","Conservative","Conservateur",N,Y,58
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 4","Upper Tantallon",N,N,"",1,373,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 5","Head of St. Margarets Bay",N,N,"",2,380,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 5","Head of St. Margarets Bay",N,N,"",2,380,"Jordan","","Bernadette","Liberal","Libéral",Y,N,63
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 5","Head of St. Margarets Bay",N,N,"",2,380,"Perkins","","Rick","Conservative","Conservateur",N,Y,38
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 5","Head of St. Margarets Bay",N,N,"",2,380,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,8
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 6","Masons Point",N,N,"",0,353,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 6","Masons Point",N,N,"",0,353,"Jordan","","Bernadette","Liberal","Libéral",Y,N,54
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 6","Masons Point",N,N,"",0,353,"Perkins","","Rick","Conservative","Conservateur",N,Y,41
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 6","Masons Point",N,N,"",0,353,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 7","Boutiliers Point",N,N,"",0,419,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 7","Boutiliers Point",N,N,"",0,419,"Jordan","","Bernadette","Liberal","Libéral",Y,N,72
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 7","Boutiliers Point",N,N,"",0,419,"Perkins","","Rick","Conservative","Conservateur",N,Y,34
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 7","Boutiliers Point",N,N,"",0,419,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 8","Upper Tantallon",N,N,"",1,382,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 8","Upper Tantallon",N,N,"",1,382,"Jordan","","Bernadette","Liberal","Libéral",Y,N,70
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 8","Upper Tantallon",N,N,"",1,382,"Perkins","","Rick","Conservative","Conservateur",N,Y,48
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 8","Upper Tantallon",N,N,"",1,382,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 9","Upper Tantallon",N,N,"",2,303,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 9","Upper Tantallon",N,N,"",2,303,"Jordan","","Bernadette","Liberal","Libéral",Y,N,54
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 9","Upper Tantallon",N,N,"",2,303,"Perkins","","Rick","Conservative","Conservateur",N,Y,37
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 9","Upper Tantallon",N,N,"",2,303,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 10","Upper Tantallon",N,N,"",4,391,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 10","Upper Tantallon",N,N,"",4,391,"Jordan","","Bernadette","Liberal","Libéral",Y,N,55
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 10","Upper Tantallon",N,N,"",4,391,"Perkins","","Rick","Conservative","Conservateur",N,Y,26
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 10","Upper Tantallon",N,N,"",4,391,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 11","Allen Heights",N,N,"",0,341,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 11","Allen Heights",N,N,"",0,341,"Jordan","","Bernadette","Liberal","Libéral",Y,N,74
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 11","Allen Heights",N,N,"",0,341,"Perkins","","Rick","Conservative","Conservateur",N,Y,31
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 11","Allen Heights",N,N,"",0,341,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 12","Whynachts Point",N,N,"",1,406,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 12","Whynachts Point",N,N,"",1,406,"Jordan","","Bernadette","Liberal","Libéral",Y,N,68
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 12","Whynachts Point",N,N,"",1,406,"Perkins","","Rick","Conservative","Conservateur",N,Y,42
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 12","Whynachts Point",N,N,"",1,406,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 13","Queensland",N,N,"",3,318,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 13","Queensland",N,N,"",3,318,"Jordan","","Bernadette","Liberal","Libéral",Y,N,38
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 13","Queensland",N,N,"",3,318,"Perkins","","Rick","Conservative","Conservateur",N,Y,27
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 13","Queensland",N,N,"",3,318,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,15
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 14","Boutiliers Point",N,N,"",1,358,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 14","Boutiliers Point",N,N,"",1,358,"Jordan","","Bernadette","Liberal","Libéral",Y,N,56
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 14","Boutiliers Point",N,N,"",1,358,"Perkins","","Rick","Conservative","Conservateur",N,Y,38
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 14","Boutiliers Point",N,N,"",1,358,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 15","Black Point",N,N,"",3,396,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 15","Black Point",N,N,"",3,396,"Jordan","","Bernadette","Liberal","Libéral",Y,N,81
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 15","Black Point",N,N,"",3,396,"Perkins","","Rick","Conservative","Conservateur",N,Y,43
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 15","Black Point",N,N,"",3,396,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 16","Hubley",N,N,"",1,415,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 16","Hubley",N,N,"",1,415,"Jordan","","Bernadette","Liberal","Libéral",Y,N,71
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 16","Hubley",N,N,"",1,415,"Perkins","","Rick","Conservative","Conservateur",N,Y,30
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 16","Hubley",N,N,"",1,415,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 17","Five Island Lake",N,N,"",0,277,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 17","Five Island Lake",N,N,"",0,277,"Jordan","","Bernadette","Liberal","Libéral",Y,N,47
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 17","Five Island Lake",N,N,"",0,277,"Perkins","","Rick","Conservative","Conservateur",N,Y,32
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 17","Five Island Lake",N,N,"",0,277,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 18","Lake of the Woods",N,N,"",0,295,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 18","Lake of the Woods",N,N,"",0,295,"Jordan","","Bernadette","Liberal","Libéral",Y,N,62
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 18","Lake of the Woods",N,N,"",0,295,"Perkins","","Rick","Conservative","Conservateur",N,Y,34
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 18","Lake of the Woods",N,N,"",0,295,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,1
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 19","Hubley",N,N,"",3,492,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 19","Hubley",N,N,"",3,492,"Jordan","","Bernadette","Liberal","Libéral",Y,N,95
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 19","Hubley",N,N,"",3,492,"Perkins","","Rick","Conservative","Conservateur",N,Y,47
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 19","Hubley",N,N,"",3,492,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 20","Hubley",N,N,"",2,363,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 20","Hubley",N,N,"",2,363,"Jordan","","Bernadette","Liberal","Libéral",Y,N,58
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 20","Hubley",N,N,"",2,363,"Perkins","","Rick","Conservative","Conservateur",N,Y,27
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 20","Hubley",N,N,"",2,363,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 21","Hubley",N,N,"",0,260,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 21","Hubley",N,N,"",0,260,"Jordan","","Bernadette","Liberal","Libéral",Y,N,56
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 21","Hubley",N,N,"",0,260,"Perkins","","Rick","Conservative","Conservateur",N,Y,35
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 21","Hubley",N,N,"",0,260,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 22","Goodwood",N,N,"",2,377,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 22","Goodwood",N,N,"",2,377,"Jordan","","Bernadette","Liberal","Libéral",Y,N,45
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 22","Goodwood",N,N,"",2,377,"Perkins","","Rick","Conservative","Conservateur",N,Y,45
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 22","Goodwood",N,N,"",2,377,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,6
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 23","Hatchet Lake",N,N,"",2,415,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 23","Hatchet Lake",N,N,"",2,415,"Jordan","","Bernadette","Liberal","Libéral",Y,N,69
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 23","Hatchet Lake",N,N,"",2,415,"Perkins","","Rick","Conservative","Conservateur",N,Y,43
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 23","Hatchet Lake",N,N,"",2,415,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 24","Brookside",N,N,"",2,389,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 24","Brookside",N,N,"",2,389,"Jordan","","Bernadette","Liberal","Libéral",Y,N,74
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 24","Brookside",N,N,"",2,389,"Perkins","","Rick","Conservative","Conservateur",N,Y,32
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 24","Brookside",N,N,"",2,389,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,6
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 25","Brookside",N,N,"",1,436,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 25","Brookside",N,N,"",1,436,"Jordan","","Bernadette","Liberal","Libéral",Y,N,66
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 25","Brookside",N,N,"",1,436,"Perkins","","Rick","Conservative","Conservateur",N,Y,56
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 25","Brookside",N,N,"",1,436,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,7
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 26","Whites Lake",N,N,"",0,392,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 26","Whites Lake",N,N,"",0,392,"Jordan","","Bernadette","Liberal","Libéral",Y,N,70
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 26","Whites Lake",N,N,"",0,392,"Perkins","","Rick","Conservative","Conservateur",N,Y,36
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 26","Whites Lake",N,N,"",0,392,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,10
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 27","Brookside",N,N,"",1,509,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 27","Brookside",N,N,"",1,509,"Jordan","","Bernadette","Liberal","Libéral",Y,N,94
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 27","Brookside",N,N,"",1,509,"Perkins","","Rick","Conservative","Conservateur",N,Y,61
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 27","Brookside",N,N,"",1,509,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 28","Brookside--Whites Lake",N,N,"",1,426,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 28","Brookside--Whites Lake",N,N,"",1,426,"Jordan","","Bernadette","Liberal","Libéral",Y,N,71
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 28","Brookside--Whites Lake",N,N,"",1,426,"Perkins","","Rick","Conservative","Conservateur",N,Y,58
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 28","Brookside--Whites Lake",N,N,"",1,426,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 29","Simms Settlement",N,N,"",2,451,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 29","Simms Settlement",N,N,"",2,451,"Jordan","","Bernadette","Liberal","Libéral",Y,N,50
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 29","Simms Settlement",N,N,"",2,451,"Perkins","","Rick","Conservative","Conservateur",N,Y,66
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 29","Simms Settlement",N,N,"",2,451,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,7
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 30","Simms Settlement",N,N,"",2,264,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 30","Simms Settlement",N,N,"",2,264,"Jordan","","Bernadette","Liberal","Libéral",Y,N,37
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 30","Simms Settlement",N,N,"",2,264,"Perkins","","Rick","Conservative","Conservateur",N,Y,41
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 30","Simms Settlement",N,N,"",2,264,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,8
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 31","Fox Point",N,N,"",1,388,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 31","Fox Point",N,N,"",1,388,"Jordan","","Bernadette","Liberal","Libéral",Y,N,76
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 31","Fox Point",N,N,"",1,388,"Perkins","","Rick","Conservative","Conservateur",N,Y,51
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 31","Fox Point",N,N,"",1,388,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 32","Tantallon",N,N,"",2,306,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 32","Tantallon",N,N,"",2,306,"Jordan","","Bernadette","Liberal","Libéral",Y,N,50
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 32","Tantallon",N,N,"",2,306,"Perkins","","Rick","Conservative","Conservateur",N,Y,31
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 32","Tantallon",N,N,"",2,306,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,6
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 33","Glen Haven",N,N,"",4,369,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 33","Glen Haven",N,N,"",4,369,"Jordan","","Bernadette","Liberal","Libéral",Y,N,59
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 33","Glen Haven",N,N,"",4,369,"Perkins","","Rick","Conservative","Conservateur",N,Y,46
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 33","Glen Haven",N,N,"",4,369,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 34","Glen Haven",N,N,"",0,353,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 34","Glen Haven",N,N,"",0,353,"Jordan","","Bernadette","Liberal","Libéral",Y,N,68
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 34","Glen Haven",N,N,"",0,353,"Perkins","","Rick","Conservative","Conservateur",N,Y,53
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 34","Glen Haven",N,N,"",0,353,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,2
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 35","Seabright",N,N,"",0,338,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 35","Seabright",N,N,"",0,338,"Jordan","","Bernadette","Liberal","Libéral",Y,N,59
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 35","Seabright",N,N,"",0,338,"Perkins","","Rick","Conservative","Conservateur",N,Y,44
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 35","Seabright",N,N,"",0,338,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,9
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 36","Seabright--French Village",N,N,"",0,309,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 36","Seabright--French Village",N,N,"",0,309,"Jordan","","Bernadette","Liberal","Libéral",Y,N,47
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 36","Seabright--French Village",N,N,"",0,309,"Perkins","","Rick","Conservative","Conservateur",N,Y,35
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 36","Seabright--French Village",N,N,"",0,309,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,9
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 37","Hubbards",N,N,"",1,458,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 37","Hubbards",N,N,"",1,458,"Jordan","","Bernadette","Liberal","Libéral",Y,N,86
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 37","Hubbards",N,N,"",1,458,"Perkins","","Rick","Conservative","Conservateur",N,Y,40
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 37","Hubbards",N,N,"",1,458,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,8
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 38","Mill Road",N,N,"",0,418,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 38","Mill Road",N,N,"",0,418,"Jordan","","Bernadette","Liberal","Libéral",Y,N,52
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 38","Mill Road",N,N,"",0,418,"Perkins","","Rick","Conservative","Conservateur",N,Y,95
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 38","Mill Road",N,N,"",0,418,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,8
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 39","Leville",N,N,"",0,282,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 39","Leville",N,N,"",0,282,"Jordan","","Bernadette","Liberal","Libéral",Y,N,37
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 39","Leville",N,N,"",0,282,"Perkins","","Rick","Conservative","Conservateur",N,Y,55
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 39","Leville",N,N,"",0,282,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 40","Seffernsville",N,N,"",0,311,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 40","Seffernsville",N,N,"",0,311,"Jordan","","Bernadette","Liberal","Libéral",Y,N,48
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 40","Seffernsville",N,N,"",0,311,"Perkins","","Rick","Conservative","Conservateur",N,Y,54
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 40","Seffernsville",N,N,"",0,311,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,2
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 41","Canaan",N,N,"",2,325,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 41","Canaan",N,N,"",2,325,"Jordan","","Bernadette","Liberal","Libéral",Y,N,56
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 41","Canaan",N,N,"",2,325,"Perkins","","Rick","Conservative","Conservateur",N,Y,59
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 41","Canaan",N,N,"",2,325,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,7
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 42","Glen Margaret",N,N,"",1,370,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 42","Glen Margaret",N,N,"",1,370,"Jordan","","Bernadette","Liberal","Libéral",Y,N,59
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 42","Glen Margaret",N,N,"",1,370,"Perkins","","Rick","Conservative","Conservateur",N,Y,42
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 42","Glen Margaret",N,N,"",1,370,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,9
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 43","Hacketts Cove",N,N,"",0,263,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 43","Hacketts Cove",N,N,"",0,263,"Jordan","","Bernadette","Liberal","Libéral",Y,N,36
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 43","Hacketts Cove",N,N,"",0,263,"Perkins","","Rick","Conservative","Conservateur",N,Y,28
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 43","Hacketts Cove",N,N,"",0,263,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,2
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 44","Indian Harbour--Peggys Cove",N,N,"",1,252,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 44","Indian Harbour--Peggys Cove",N,N,"",1,252,"Jordan","","Bernadette","Liberal","Libéral",Y,N,20
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 44","Indian Harbour--Peggys Cove",N,N,"",1,252,"Perkins","","Rick","Conservative","Conservateur",N,Y,28
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 44","Indian Harbour--Peggys Cove",N,N,"",1,252,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 45","Terence Bay",N,N,"",1,419,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 45","Terence Bay",N,N,"",1,419,"Jordan","","Bernadette","Liberal","Libéral",Y,N,53
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 45","Terence Bay",N,N,"",1,419,"Perkins","","Rick","Conservative","Conservateur",N,Y,57
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 45","Terence Bay",N,N,"",1,419,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 46","Lower Prospect",N,N,"",0,381,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 46","Lower Prospect",N,N,"",0,381,"Jordan","","Bernadette","Liberal","Libéral",Y,N,56
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 46","Lower Prospect",N,N,"",0,381,"Perkins","","Rick","Conservative","Conservateur",N,Y,37
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 46","Lower Prospect",N,N,"",0,381,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,1
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 47","Whites Lake",N,N,"",5,370,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 47","Whites Lake",N,N,"",5,370,"Jordan","","Bernadette","Liberal","Libéral",Y,N,58
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 47","Whites Lake",N,N,"",5,370,"Perkins","","Rick","Conservative","Conservateur",N,Y,47
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 47","Whites Lake",N,N,"",5,370,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 48","Shad Bay",N,N,"",0,410,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 48","Shad Bay",N,N,"",0,410,"Jordan","","Bernadette","Liberal","Libéral",Y,N,71
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 48","Shad Bay",N,N,"",0,410,"Perkins","","Rick","Conservative","Conservateur",N,Y,37
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 48","Shad Bay",N,N,"",0,410,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,2
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 49","Whites Lake",N,N,"",1,470,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 49","Whites Lake",N,N,"",1,470,"Jordan","","Bernadette","Liberal","Libéral",Y,N,81
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 49","Whites Lake",N,N,"",1,470,"Perkins","","Rick","Conservative","Conservateur",N,Y,62
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 49","Whites Lake",N,N,"",1,470,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 50","Shad Bay",N,N,"",1,395,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 50","Shad Bay",N,N,"",1,395,"Jordan","","Bernadette","Liberal","Libéral",Y,N,69
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 50","Shad Bay",N,N,"",1,395,"Perkins","","Rick","Conservative","Conservateur",N,Y,35
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 50","Shad Bay",N,N,"",1,395,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,7
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 51","Bayside",N,N,"",0,332,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 51","Bayside",N,N,"",0,332,"Jordan","","Bernadette","Liberal","Libéral",Y,N,44
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 51","Bayside",N,N,"",0,332,"Perkins","","Rick","Conservative","Conservateur",N,Y,36
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 51","Bayside",N,N,"",0,332,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,7
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 52","Prospect",N,N,"",1,408,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 52","Prospect",N,N,"",1,408,"Jordan","","Bernadette","Liberal","Libéral",Y,N,62
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 52","Prospect",N,N,"",1,408,"Perkins","","Rick","Conservative","Conservateur",N,Y,25
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 52","Prospect",N,N,"",1,408,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 53","Prospect",N,N,"",0,230,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 53","Prospect",N,N,"",0,230,"Jordan","","Bernadette","Liberal","Libéral",Y,N,55
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 53","Prospect",N,N,"",0,230,"Perkins","","Rick","Conservative","Conservateur",N,Y,15
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 53","Prospect",N,N,"",0,230,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,2
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 54","Mill Cove",N,N,"",3,373,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 54","Mill Cove",N,N,"",3,373,"Jordan","","Bernadette","Liberal","Libéral",Y,N,55
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 54","Mill Cove",N,N,"",3,373,"Perkins","","Rick","Conservative","Conservateur",N,Y,40
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 54","Mill Cove",N,N,"",3,373,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,7
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 55","West Dover--Middle Village",N,N,"",0,255,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 55","West Dover--Middle Village",N,N,"",0,255,"Jordan","","Bernadette","Liberal","Libéral",Y,N,47
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 55","West Dover--Middle Village",N,N,"",0,255,"Perkins","","Rick","Conservative","Conservateur",N,Y,38
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 55","West Dover--Middle Village",N,N,"",0,255,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 56","East Dover--McGraths Cove",N,N,"",1,219,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 56","East Dover--McGraths Cove",N,N,"",1,219,"Jordan","","Bernadette","Liberal","Libéral",Y,N,72
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 56","East Dover--McGraths Cove",N,N,"",1,219,"Perkins","","Rick","Conservative","Conservateur",N,Y,36
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 56","East Dover--McGraths Cove",N,N,"",1,219,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,6
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 57","Lake Ramsay",N,N,"",1,279,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 57","Lake Ramsay",N,N,"",1,279,"Jordan","","Bernadette","Liberal","Libéral",Y,N,25
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 57","Lake Ramsay",N,N,"",1,279,"Perkins","","Rick","Conservative","Conservateur",N,Y,67
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 57","Lake Ramsay",N,N,"",1,279,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,1
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 58","Northwest Cove--Aspotogan",N,N,"",0,287,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 58","Northwest Cove--Aspotogan",N,N,"",0,287,"Jordan","","Bernadette","Liberal","Libéral",Y,N,50
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 58","Northwest Cove--Aspotogan",N,N,"",0,287,"Perkins","","Rick","Conservative","Conservateur",N,Y,64
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 58","Northwest Cove--Aspotogan",N,N,"",0,287,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,14
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 59","East River",N,N,"",0,286,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 59","East River",N,N,"",0,286,"Jordan","","Bernadette","Liberal","Libéral",Y,N,52
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 59","East River",N,N,"",0,286,"Perkins","","Rick","Conservative","Conservateur",N,Y,66
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 59","East River",N,N,"",0,286,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,6
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 60","East Chester",N,N,"",3,430,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 60","East Chester",N,N,"",3,430,"Jordan","","Bernadette","Liberal","Libéral",Y,N,54
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 60","East Chester",N,N,"",3,430,"Perkins","","Rick","Conservative","Conservateur",N,Y,45
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 60","East Chester",N,N,"",3,430,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,7
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 61","Chester",N,N,"",1,344,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 61","Chester",N,N,"",1,344,"Jordan","","Bernadette","Liberal","Libéral",Y,N,39
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 61","Chester",N,N,"",1,344,"Perkins","","Rick","Conservative","Conservateur",N,Y,39
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 61","Chester",N,N,"",1,344,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 62","Chester Grant",N,N,"",1,482,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 62","Chester Grant",N,N,"",1,482,"Jordan","","Bernadette","Liberal","Libéral",Y,N,55
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 62","Chester Grant",N,N,"",1,482,"Perkins","","Rick","Conservative","Conservateur",N,Y,60
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 62","Chester Grant",N,N,"",1,482,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,11
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 63","Chester",N,N,"",0,369,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 63","Chester",N,N,"",0,369,"Jordan","","Bernadette","Liberal","Libéral",Y,N,36
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 63","Chester",N,N,"",0,369,"Perkins","","Rick","Conservative","Conservateur",N,Y,43
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 63","Chester",N,N,"",0,369,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 64","Lower Grant Road--Shaw Island",N,N,"",0,407,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 64","Lower Grant Road--Shaw Island",N,N,"",0,407,"Jordan","","Bernadette","Liberal","Libéral",Y,N,61
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 64","Lower Grant Road--Shaw Island",N,N,"",0,407,"Perkins","","Rick","Conservative","Conservateur",N,Y,66
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 64","Lower Grant Road--Shaw Island",N,N,"",0,407,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,2
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 65","Chester Basin--Borgels Point",N,N,"",0,407,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 65","Chester Basin--Borgels Point",N,N,"",0,407,"Jordan","","Bernadette","Liberal","Libéral",Y,N,53
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 65","Chester Basin--Borgels Point",N,N,"",0,407,"Perkins","","Rick","Conservative","Conservateur",N,Y,42
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 65","Chester Basin--Borgels Point",N,N,"",0,407,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,2
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 66","Robinsons Corner",N,N,"",3,367,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 66","Robinsons Corner",N,N,"",3,367,"Jordan","","Bernadette","Liberal","Libéral",Y,N,47
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 66","Robinsons Corner",N,N,"",3,367,"Perkins","","Rick","Conservative","Conservateur",N,Y,50
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 66","Robinsons Corner",N,N,"",3,367,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,6
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 67","Chester",N,N,"",1,301,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 67","Chester",N,N,"",1,301,"Jordan","","Bernadette","Liberal","Libéral",Y,N,40
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 67","Chester",N,N,"",1,301,"Perkins","","Rick","Conservative","Conservateur",N,Y,41
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 67","Chester",N,N,"",1,301,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 68","Chester",N,N,"",1,291,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 68","Chester",N,N,"",1,291,"Jordan","","Bernadette","Liberal","Libéral",Y,N,54
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 68","Chester",N,N,"",1,291,"Perkins","","Rick","Conservative","Conservateur",N,Y,35
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 68","Chester",N,N,"",1,291,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,6
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 69","Chester",N,N,"",1,420,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 69","Chester",N,N,"",1,420,"Jordan","","Bernadette","Liberal","Libéral",Y,N,62
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 69","Chester",N,N,"",1,420,"Perkins","","Rick","Conservative","Conservateur",N,Y,52
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 69","Chester",N,N,"",1,420,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,7
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 70","Maplewood",N,N,"",1,410,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 70","Maplewood",N,N,"",1,410,"Jordan","","Bernadette","Liberal","Libéral",Y,N,57
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 70","Maplewood",N,N,"",1,410,"Perkins","","Rick","Conservative","Conservateur",N,Y,62
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 70","Maplewood",N,N,"",1,410,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,2
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 71","Blandford--Bayswater",N,N,"",1,369,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 71","Blandford--Bayswater",N,N,"",1,369,"Jordan","","Bernadette","Liberal","Libéral",Y,N,73
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 71","Blandford--Bayswater",N,N,"",1,369,"Perkins","","Rick","Conservative","Conservateur",N,Y,73
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 71","Blandford--Bayswater",N,N,"",1,369,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,7
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 72","Gold River",N,N,"",0,383,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 72","Gold River",N,N,"",0,383,"Jordan","","Bernadette","Liberal","Libéral",Y,N,22
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 72","Gold River",N,N,"",0,383,"Perkins","","Rick","Conservative","Conservateur",N,Y,58
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 72","Gold River",N,N,"",0,383,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,7
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 73","Western Shore",N,N,"",1,378,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 73","Western Shore",N,N,"",1,378,"Jordan","","Bernadette","Liberal","Libéral",Y,N,57
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 73","Western Shore",N,N,"",1,378,"Perkins","","Rick","Conservative","Conservateur",N,Y,74
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 73","Western Shore",N,N,"",1,378,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 74","Western Shore",N,N,"",1,371,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 74","Western Shore",N,N,"",1,371,"Jordan","","Bernadette","Liberal","Libéral",Y,N,56
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 74","Western Shore",N,N,"",1,371,"Perkins","","Rick","Conservative","Conservateur",N,Y,74
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 74","Western Shore",N,N,"",1,371,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,9
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 75","Tancook Island",N,N,"",2,144,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 75","Tancook Island",N,N,"",2,144,"Jordan","","Bernadette","Liberal","Libéral",Y,N,36
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 75","Tancook Island",N,N,"",2,144,"Perkins","","Rick","Conservative","Conservateur",N,Y,33
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 75","Tancook Island",N,N,"",2,144,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,7
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 76","Barss Corner",N,N,"",2,415,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 76","Barss Corner",N,N,"",2,415,"Jordan","","Bernadette","Liberal","Libéral",Y,N,54
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 76","Barss Corner",N,N,"",2,415,"Perkins","","Rick","Conservative","Conservateur",N,Y,74
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 76","Barss Corner",N,N,"",2,415,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 77","Newburne",N,N,"",2,306,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 77","Newburne",N,N,"",2,306,"Jordan","","Bernadette","Liberal","Libéral",Y,N,62
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 77","Newburne",N,N,"",2,306,"Perkins","","Rick","Conservative","Conservateur",N,Y,51
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 77","Newburne",N,N,"",2,306,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,9
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 78","Martins Point--Martins River",N,N,"",1,275,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 78","Martins Point--Martins River",N,N,"",1,275,"Jordan","","Bernadette","Liberal","Libéral",Y,N,46
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 78","Martins Point--Martins River",N,N,"",1,275,"Perkins","","Rick","Conservative","Conservateur",N,Y,47
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 78","Martins Point--Martins River",N,N,"",1,275,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,7
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 79","Martins River",N,N,"",0,420,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 79","Martins River",N,N,"",0,420,"Jordan","","Bernadette","Liberal","Libéral",Y,N,67
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 79","Martins River",N,N,"",0,420,"Perkins","","Rick","Conservative","Conservateur",N,Y,64
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 79","Martins River",N,N,"",0,420,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,6
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 80","Clearland",N,N,"",2,383,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 80","Clearland",N,N,"",2,383,"Jordan","","Bernadette","Liberal","Libéral",Y,N,46
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 80","Clearland",N,N,"",2,383,"Perkins","","Rick","Conservative","Conservateur",N,Y,38
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 80","Clearland",N,N,"",2,383,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,8
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 81","Mahone Bay",N,N,"",0,437,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 81","Mahone Bay",N,N,"",0,437,"Jordan","","Bernadette","Liberal","Libéral",Y,N,58
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 81","Mahone Bay",N,N,"",0,437,"Perkins","","Rick","Conservative","Conservateur",N,Y,24
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 81","Mahone Bay",N,N,"",0,437,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,6
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 82","Indian Point",N,N,"",0,270,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 82","Indian Point",N,N,"",0,270,"Jordan","","Bernadette","Liberal","Libéral",Y,N,76
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 82","Indian Point",N,N,"",0,270,"Perkins","","Rick","Conservative","Conservateur",N,Y,46
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 82","Indian Point",N,N,"",0,270,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 83","North River",N,N,"",0,262,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 83","North River",N,N,"",0,262,"Jordan","","Bernadette","Liberal","Libéral",Y,N,33
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 83","North River",N,N,"",0,262,"Perkins","","Rick","Conservative","Conservateur",N,Y,34
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 83","North River",N,N,"",0,262,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,6
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 84","New Cornwall",N,N,"",1,413,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 84","New Cornwall",N,N,"",1,413,"Jordan","","Bernadette","Liberal","Libéral",Y,N,62
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 84","New Cornwall",N,N,"",1,413,"Perkins","","Rick","Conservative","Conservateur",N,Y,75
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 84","New Cornwall",N,N,"",1,413,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 85","Lilydale--Northwest",N,N,"",0,457,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 85","Lilydale--Northwest",N,N,"",0,457,"Jordan","","Bernadette","Liberal","Libéral",Y,N,44
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 85","Lilydale--Northwest",N,N,"",0,457,"Perkins","","Rick","Conservative","Conservateur",N,Y,35
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 85","Lilydale--Northwest",N,N,"",0,457,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,9
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 86","Lunenburg",N,N,"",0,360,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 86","Lunenburg",N,N,"",0,360,"Jordan","","Bernadette","Liberal","Libéral",Y,N,59
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 86","Lunenburg",N,N,"",0,360,"Perkins","","Rick","Conservative","Conservateur",N,Y,14
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 86","Lunenburg",N,N,"",0,360,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 87","Lunenburg",N,N,"",2,395,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 87","Lunenburg",N,N,"",2,395,"Jordan","","Bernadette","Liberal","Libéral",Y,N,68
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 87","Lunenburg",N,N,"",2,395,"Perkins","","Rick","Conservative","Conservateur",N,Y,35
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 87","Lunenburg",N,N,"",2,395,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 88","Lunenburg",N,N,"",0,328,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 88","Lunenburg",N,N,"",0,328,"Jordan","","Bernadette","Liberal","Libéral",Y,N,49
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 88","Lunenburg",N,N,"",0,328,"Perkins","","Rick","Conservative","Conservateur",N,Y,21
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 88","Lunenburg",N,N,"",0,328,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 89","Mahone Bay",N,N,"",1,440,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 89","Mahone Bay",N,N,"",1,440,"Jordan","","Bernadette","Liberal","Libéral",Y,N,67
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 89","Mahone Bay",N,N,"",1,440,"Perkins","","Rick","Conservative","Conservateur",N,Y,46
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 89","Mahone Bay",N,N,"",1,440,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 90","Maders Cove",N,N,"",0,383,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 90","Maders Cove",N,N,"",0,383,"Jordan","","Bernadette","Liberal","Libéral",Y,N,76
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 90","Maders Cove",N,N,"",0,383,"Perkins","","Rick","Conservative","Conservateur",N,Y,42
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 90","Maders Cove",N,N,"",0,383,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 91","Garden Lots--Heckmans Island",N,N,"",1,422,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 91","Garden Lots--Heckmans Island",N,N,"",1,422,"Jordan","","Bernadette","Liberal","Libéral",Y,N,88
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 91","Garden Lots--Heckmans Island",N,N,"",1,422,"Perkins","","Rick","Conservative","Conservateur",N,Y,43
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 91","Garden Lots--Heckmans Island",N,N,"",1,422,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 92","Blue Rock",N,N,"",0,232,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 92","Blue Rock",N,N,"",0,232,"Jordan","","Bernadette","Liberal","Libéral",Y,N,51
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 92","Blue Rock",N,N,"",0,232,"Perkins","","Rick","Conservative","Conservateur",N,Y,48
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 92","Blue Rock",N,N,"",0,232,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,7
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 93","New Germany",N,N,"",1,353,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 93","New Germany",N,N,"",1,353,"Jordan","","Bernadette","Liberal","Libéral",Y,N,16
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 93","New Germany",N,N,"",1,353,"Perkins","","Rick","Conservative","Conservateur",N,Y,36
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 93","New Germany",N,N,"",1,353,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,7
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 94","Simpsons Corner",N,N,"",2,377,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 94","Simpsons Corner",N,N,"",2,377,"Jordan","","Bernadette","Liberal","Libéral",Y,N,16
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 94","Simpsons Corner",N,N,"",2,377,"Perkins","","Rick","Conservative","Conservateur",N,Y,36
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 94","Simpsons Corner",N,N,"",2,377,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,2
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 95","Stanley Section--Watford",N,N,"",3,342,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 95","Stanley Section--Watford",N,N,"",3,342,"Jordan","","Bernadette","Liberal","Libéral",Y,N,22
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 95","Stanley Section--Watford",N,N,"",3,342,"Perkins","","Rick","Conservative","Conservateur",N,Y,46
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 95","Stanley Section--Watford",N,N,"",3,342,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 96","Upper Northfield",N,N,"",1,414,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 96","Upper Northfield",N,N,"",1,414,"Jordan","","Bernadette","Liberal","Libéral",Y,N,50
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 96","Upper Northfield",N,N,"",1,414,"Perkins","","Rick","Conservative","Conservateur",N,Y,87
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 96","Upper Northfield",N,N,"",1,414,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 97","Blockhouse--Farmville",N,N,"",3,321,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 97","Blockhouse--Farmville",N,N,"",3,321,"Jordan","","Bernadette","Liberal","Libéral",Y,N,35
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 97","Blockhouse--Farmville",N,N,"",3,321,"Perkins","","Rick","Conservative","Conservateur",N,Y,49
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 97","Blockhouse--Farmville",N,N,"",3,321,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,7
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 98","Fauxburg",N,N,"",2,354,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 98","Fauxburg",N,N,"",2,354,"Jordan","","Bernadette","Liberal","Libéral",Y,N,30
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 98","Fauxburg",N,N,"",2,354,"Perkins","","Rick","Conservative","Conservateur",N,Y,54
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 98","Fauxburg",N,N,"",2,354,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 99","Maitland",N,N,"",1,287,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 99","Maitland",N,N,"",1,287,"Jordan","","Bernadette","Liberal","Libéral",Y,N,23
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 99","Maitland",N,N,"",1,287,"Perkins","","Rick","Conservative","Conservateur",N,Y,43
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 99","Maitland",N,N,"",1,287,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 100","Maitland",N,N,"",0,445,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 100","Maitland",N,N,"",0,445,"Jordan","","Bernadette","Liberal","Libéral",Y,N,73
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 100","Maitland",N,N,"",0,445,"Perkins","","Rick","Conservative","Conservateur",N,Y,100
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 100","Maitland",N,N,"",0,445,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,10
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 101","Lower Northfield",N,N,"",1,298,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 101","Lower Northfield",N,N,"",1,298,"Jordan","","Bernadette","Liberal","Libéral",Y,N,43
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 101","Lower Northfield",N,N,"",1,298,"Perkins","","Rick","Conservative","Conservateur",N,Y,63
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 101","Lower Northfield",N,N,"",1,298,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 102","West Northfield--Cookville",N,N,"",0,275,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 102","West Northfield--Cookville",N,N,"",0,275,"Jordan","","Bernadette","Liberal","Libéral",Y,N,26
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 102","West Northfield--Cookville",N,N,"",0,275,"Perkins","","Rick","Conservative","Conservateur",N,Y,39
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 102","West Northfield--Cookville",N,N,"",0,275,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 103","Lunenburg",N,N,"",0,384,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 103","Lunenburg",N,N,"",0,384,"Jordan","","Bernadette","Liberal","Libéral",Y,N,62
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 103","Lunenburg",N,N,"",0,384,"Perkins","","Rick","Conservative","Conservateur",N,Y,46
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 103","Lunenburg",N,N,"",0,384,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,1
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 104","Lunenburg",N,N,"",1,411,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 104","Lunenburg",N,N,"",1,411,"Jordan","","Bernadette","Liberal","Libéral",Y,N,48
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 104","Lunenburg",N,N,"",1,411,"Perkins","","Rick","Conservative","Conservateur",N,Y,38
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 104","Lunenburg",N,N,"",1,411,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,2
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 105","Centre",N,N,"",1,412,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 105","Centre",N,N,"",1,412,"Jordan","","Bernadette","Liberal","Libéral",Y,N,76
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 105","Centre",N,N,"",1,412,"Perkins","","Rick","Conservative","Conservateur",N,Y,53
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 105","Centre",N,N,"",1,412,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,7
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 106","Masons Beach",N,N,"",0,423,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 106","Masons Beach",N,N,"",0,423,"Jordan","","Bernadette","Liberal","Libéral",Y,N,76
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 106","Masons Beach",N,N,"",0,423,"Perkins","","Rick","Conservative","Conservateur",N,Y,54
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 106","Masons Beach",N,N,"",0,423,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 107","Branch LaHave--New Canada",N,N,"",3,366,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 107","Branch LaHave--New Canada",N,N,"",3,366,"Jordan","","Bernadette","Liberal","Libéral",Y,N,51
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 107","Branch LaHave--New Canada",N,N,"",3,366,"Perkins","","Rick","Conservative","Conservateur",N,Y,70
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 107","Branch LaHave--New Canada",N,N,"",3,366,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 108","Lower Branch",N,N,"",4,253,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 108","Lower Branch",N,N,"",4,253,"Jordan","","Bernadette","Liberal","Libéral",Y,N,35
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 108","Lower Branch",N,N,"",4,253,"Perkins","","Rick","Conservative","Conservateur",N,Y,44
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 108","Lower Branch",N,N,"",4,253,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 109","Pine Grove",N,N,"",0,333,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 109","Pine Grove",N,N,"",0,333,"Jordan","","Bernadette","Liberal","Libéral",Y,N,48
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 109","Pine Grove",N,N,"",0,333,"Perkins","","Rick","Conservative","Conservateur",N,Y,55
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 109","Pine Grove",N,N,"",0,333,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,6
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 110","Pine Grove",N,N,"",0,290,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 110","Pine Grove",N,N,"",0,290,"Jordan","","Bernadette","Liberal","Libéral",Y,N,49
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 110","Pine Grove",N,N,"",0,290,"Perkins","","Rick","Conservative","Conservateur",N,Y,38
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 110","Pine Grove",N,N,"",0,290,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 111","Oak Hill",N,N,"",3,272,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 111","Oak Hill",N,N,"",3,272,"Jordan","","Bernadette","Liberal","Libéral",Y,N,27
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 111","Oak Hill",N,N,"",3,272,"Perkins","","Rick","Conservative","Conservateur",N,Y,54
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 111","Oak Hill",N,N,"",3,272,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 112","Oak Hill",N,N,"",2,243,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 112","Oak Hill",N,N,"",2,243,"Jordan","","Bernadette","Liberal","Libéral",Y,N,41
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 112","Oak Hill",N,N,"",2,243,"Perkins","","Rick","Conservative","Conservateur",N,Y,50
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 112","Oak Hill",N,N,"",2,243,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 113","Rhodes Corner",N,N,"",5,440,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 113","Rhodes Corner",N,N,"",5,440,"Jordan","","Bernadette","Liberal","Libéral",Y,N,75
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 113","Rhodes Corner",N,N,"",5,440,"Perkins","","Rick","Conservative","Conservateur",N,Y,72
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 113","Rhodes Corner",N,N,"",5,440,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,6
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 114","Hemford--Nineveh",N,N,"",2,402,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 114","Hemford--Nineveh",N,N,"",2,402,"Jordan","","Bernadette","Liberal","Libéral",Y,N,62
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 114","Hemford--Nineveh",N,N,"",2,402,"Perkins","","Rick","Conservative","Conservateur",N,Y,79
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 114","Hemford--Nineveh",N,N,"",2,402,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,6
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 115","Bridgewater",N,N,"",0,334,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 115","Bridgewater",N,N,"",0,334,"Jordan","","Bernadette","Liberal","Libéral",Y,N,41
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 115","Bridgewater",N,N,"",0,334,"Perkins","","Rick","Conservative","Conservateur",N,Y,38
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 115","Bridgewater",N,N,"",0,334,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 116","Bridgewater",N,N,"",1,376,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 116","Bridgewater",N,N,"",1,376,"Jordan","","Bernadette","Liberal","Libéral",Y,N,59
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 116","Bridgewater",N,N,"",1,376,"Perkins","","Rick","Conservative","Conservateur",N,Y,41
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 116","Bridgewater",N,N,"",1,376,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 117","Bridgewater",N,N,"",0,389,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 117","Bridgewater",N,N,"",0,389,"Jordan","","Bernadette","Liberal","Libéral",Y,N,43
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 117","Bridgewater",N,N,"",0,389,"Perkins","","Rick","Conservative","Conservateur",N,Y,42
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 117","Bridgewater",N,N,"",0,389,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,2
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 118","Bridgewater",N,N,"",2,361,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 118","Bridgewater",N,N,"",2,361,"Jordan","","Bernadette","Liberal","Libéral",Y,N,59
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 118","Bridgewater",N,N,"",2,361,"Perkins","","Rick","Conservative","Conservateur",N,Y,67
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 118","Bridgewater",N,N,"",2,361,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 119","Bridgewater",N,N,"",0,468,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 119","Bridgewater",N,N,"",0,468,"Jordan","","Bernadette","Liberal","Libéral",Y,N,46
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 119","Bridgewater",N,N,"",0,468,"Perkins","","Rick","Conservative","Conservateur",N,Y,36
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 119","Bridgewater",N,N,"",0,468,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,6
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 120","Bridgewater",N,N,"",0,346,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 120","Bridgewater",N,N,"",0,346,"Jordan","","Bernadette","Liberal","Libéral",Y,N,52
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 120","Bridgewater",N,N,"",0,346,"Perkins","","Rick","Conservative","Conservateur",N,Y,47
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 120","Bridgewater",N,N,"",0,346,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 121","Bridgewater",N,N,"",2,406,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 121","Bridgewater",N,N,"",2,406,"Jordan","","Bernadette","Liberal","Libéral",Y,N,85
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 121","Bridgewater",N,N,"",2,406,"Perkins","","Rick","Conservative","Conservateur",N,Y,75
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 121","Bridgewater",N,N,"",2,406,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,1
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 122","Bridgewater",N,N,"",5,442,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 122","Bridgewater",N,N,"",5,442,"Jordan","","Bernadette","Liberal","Libéral",Y,N,41
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 122","Bridgewater",N,N,"",5,442,"Perkins","","Rick","Conservative","Conservateur",N,Y,55
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 122","Bridgewater",N,N,"",5,442,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,1
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 123","Midville Branch--Upper Branch",N,N,"",0,288,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 123","Midville Branch--Upper Branch",N,N,"",0,288,"Jordan","","Bernadette","Liberal","Libéral",Y,N,41
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 123","Midville Branch--Upper Branch",N,N,"",0,288,"Perkins","","Rick","Conservative","Conservateur",N,Y,65
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 123","Midville Branch--Upper Branch",N,N,"",0,288,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 124","Auburndale",N,N,"",0,288,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 124","Auburndale",N,N,"",0,288,"Jordan","","Bernadette","Liberal","Libéral",Y,N,41
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 124","Auburndale",N,N,"",0,288,"Perkins","","Rick","Conservative","Conservateur",N,Y,44
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 124","Auburndale",N,N,"",0,288,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,1
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 125","Dayspring",N,N,"",2,391,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 125","Dayspring",N,N,"",2,391,"Jordan","","Bernadette","Liberal","Libéral",Y,N,32
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 125","Dayspring",N,N,"",2,391,"Perkins","","Rick","Conservative","Conservateur",N,Y,37
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 125","Dayspring",N,N,"",2,391,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 126","Upper LaHave--Crouses Settlement",N,N,"",1,427,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 126","Upper LaHave--Crouses Settlement",N,N,"",1,427,"Jordan","","Bernadette","Liberal","Libéral",Y,N,88
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 126","Upper LaHave--Crouses Settlement",N,N,"",1,427,"Perkins","","Rick","Conservative","Conservateur",N,Y,56
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 126","Upper LaHave--Crouses Settlement",N,N,"",1,427,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,6
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 127","Indian Path--Rosebay",N,N,"",0,313,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 127","Indian Path--Rosebay",N,N,"",0,313,"Jordan","","Bernadette","Liberal","Libéral",Y,N,68
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 127","Indian Path--Rosebay",N,N,"",0,313,"Perkins","","Rick","Conservative","Conservateur",N,Y,40
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 127","Indian Path--Rosebay",N,N,"",0,313,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 128","Middle LaHave--East LaHave",N,N,"",2,345,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 128","Middle LaHave--East LaHave",N,N,"",2,345,"Jordan","","Bernadette","Liberal","Libéral",Y,N,61
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 128","Middle LaHave--East LaHave",N,N,"",2,345,"Perkins","","Rick","Conservative","Conservateur",N,Y,43
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 128","Middle LaHave--East LaHave",N,N,"",2,345,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,6
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 129","Bridgewater",N,N,"",1,472,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 129","Bridgewater",N,N,"",1,472,"Jordan","","Bernadette","Liberal","Libéral",Y,N,66
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 129","Bridgewater",N,N,"",1,472,"Perkins","","Rick","Conservative","Conservateur",N,Y,41
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 129","Bridgewater",N,N,"",1,472,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 130","Bridgewater",N,N,"",1,426,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 130","Bridgewater",N,N,"",1,426,"Jordan","","Bernadette","Liberal","Libéral",Y,N,49
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 130","Bridgewater",N,N,"",1,426,"Perkins","","Rick","Conservative","Conservateur",N,Y,41
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 130","Bridgewater",N,N,"",1,426,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 131","Bridgewater",N,N,"",1,388,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 131","Bridgewater",N,N,"",1,388,"Jordan","","Bernadette","Liberal","Libéral",Y,N,34
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 131","Bridgewater",N,N,"",1,388,"Perkins","","Rick","Conservative","Conservateur",N,Y,31
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 131","Bridgewater",N,N,"",1,388,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,1
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 132","Bridgewater",N,N,"",0,484,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 132","Bridgewater",N,N,"",0,484,"Jordan","","Bernadette","Liberal","Libéral",Y,N,56
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 132","Bridgewater",N,N,"",0,484,"Perkins","","Rick","Conservative","Conservateur",N,Y,76
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 132","Bridgewater",N,N,"",0,484,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 133","Conquerall Bank",N,N,"",1,264,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 133","Conquerall Bank",N,N,"",1,264,"Jordan","","Bernadette","Liberal","Libéral",Y,N,38
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 133","Conquerall Bank",N,N,"",1,264,"Perkins","","Rick","Conservative","Conservateur",N,Y,41
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 133","Conquerall Bank",N,N,"",1,264,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,1
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 134","Conquerall Bank",N,N,"",2,250,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 134","Conquerall Bank",N,N,"",2,250,"Jordan","","Bernadette","Liberal","Libéral",Y,N,28
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 134","Conquerall Bank",N,N,"",2,250,"Perkins","","Rick","Conservative","Conservateur",N,Y,43
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 134","Conquerall Bank",N,N,"",2,250,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 135","Bridgewater",N,N,"",0,464,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 135","Bridgewater",N,N,"",0,464,"Jordan","","Bernadette","Liberal","Libéral",Y,N,79
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 135","Bridgewater",N,N,"",0,464,"Perkins","","Rick","Conservative","Conservateur",N,Y,58
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 135","Bridgewater",N,N,"",0,464,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 136","Bridgewater",N,N,"",2,403,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 136","Bridgewater",N,N,"",2,403,"Jordan","","Bernadette","Liberal","Libéral",Y,N,57
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 136","Bridgewater",N,N,"",2,403,"Perkins","","Rick","Conservative","Conservateur",N,Y,64
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 136","Bridgewater",N,N,"",2,403,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,1
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 137","Bridgewater",N,N,"",0,477,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 137","Bridgewater",N,N,"",0,477,"Jordan","","Bernadette","Liberal","Libéral",Y,N,75
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 137","Bridgewater",N,N,"",0,477,"Perkins","","Rick","Conservative","Conservateur",N,Y,68
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 137","Bridgewater",N,N,"",0,477,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,2
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 138","Bridgewater",N,N,"",1,406,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 138","Bridgewater",N,N,"",1,406,"Jordan","","Bernadette","Liberal","Libéral",Y,N,69
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 138","Bridgewater",N,N,"",1,406,"Perkins","","Rick","Conservative","Conservateur",N,Y,28
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 138","Bridgewater",N,N,"",1,406,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 139","Bridgewater",N,N,"",3,377,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 139","Bridgewater",N,N,"",3,377,"Jordan","","Bernadette","Liberal","Libéral",Y,N,41
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 139","Bridgewater",N,N,"",3,377,"Perkins","","Rick","Conservative","Conservateur",N,Y,32
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 139","Bridgewater",N,N,"",3,377,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,7
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 140","Bridgewater",N,N,"",2,418,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 140","Bridgewater",N,N,"",2,418,"Jordan","","Bernadette","Liberal","Libéral",Y,N,38
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 140","Bridgewater",N,N,"",2,418,"Perkins","","Rick","Conservative","Conservateur",N,Y,37
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 140","Bridgewater",N,N,"",2,418,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 141","Bakers Settlement",N,N,"",0,406,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 141","Bakers Settlement",N,N,"",0,406,"Jordan","","Bernadette","Liberal","Libéral",Y,N,44
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 141","Bakers Settlement",N,N,"",0,406,"Perkins","","Rick","Conservative","Conservateur",N,Y,73
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 141","Bakers Settlement",N,N,"",0,406,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 142","Upper Kingsburg",N,N,"",1,315,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 142","Upper Kingsburg",N,N,"",1,315,"Jordan","","Bernadette","Liberal","Libéral",Y,N,75
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 142","Upper Kingsburg",N,N,"",1,315,"Perkins","","Rick","Conservative","Conservateur",N,Y,42
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 142","Upper Kingsburg",N,N,"",1,315,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 143","Riverport",N,N,"",0,208,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 143","Riverport",N,N,"",0,208,"Jordan","","Bernadette","Liberal","Libéral",Y,N,36
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 143","Riverport",N,N,"",0,208,"Perkins","","Rick","Conservative","Conservateur",N,Y,30
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 143","Riverport",N,N,"",0,208,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 144","Wileville",N,N,"",0,313,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 144","Wileville",N,N,"",0,313,"Jordan","","Bernadette","Liberal","Libéral",Y,N,44
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 144","Wileville",N,N,"",0,313,"Perkins","","Rick","Conservative","Conservateur",N,Y,54
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 144","Wileville",N,N,"",0,313,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 145","Wileville",N,N,"",1,419,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 145","Wileville",N,N,"",1,419,"Jordan","","Bernadette","Liberal","Libéral",Y,N,52
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 145","Wileville",N,N,"",1,419,"Perkins","","Rick","Conservative","Conservateur",N,Y,56
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 145","Wileville",N,N,"",1,419,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,8
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 146","Hebbville",N,N,"",1,465,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 146","Hebbville",N,N,"",1,465,"Jordan","","Bernadette","Liberal","Libéral",Y,N,100
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 146","Hebbville",N,N,"",1,465,"Perkins","","Rick","Conservative","Conservateur",N,Y,76
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 146","Hebbville",N,N,"",1,465,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,7
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 147","Pleasantville",N,N,"",0,355,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 147","Pleasantville",N,N,"",0,355,"Jordan","","Bernadette","Liberal","Libéral",Y,N,56
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 147","Pleasantville",N,N,"",0,355,"Perkins","","Rick","Conservative","Conservateur",N,Y,54
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 147","Pleasantville",N,N,"",0,355,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,2
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 148","Pleasantville--West LaHave",N,N,"",2,383,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 148","Pleasantville--West LaHave",N,N,"",2,383,"Jordan","","Bernadette","Liberal","Libéral",Y,N,58
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 148","Pleasantville--West LaHave",N,N,"",2,383,"Perkins","","Rick","Conservative","Conservateur",N,Y,44
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 148","Pleasantville--West LaHave",N,N,"",2,383,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 149","LaHave--Dublin Shore--Pentz",N,N,"",0,356,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 149","LaHave--Dublin Shore--Pentz",N,N,"",0,356,"Jordan","","Bernadette","Liberal","Libéral",Y,N,90
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 149","LaHave--Dublin Shore--Pentz",N,N,"",0,356,"Perkins","","Rick","Conservative","Conservateur",N,Y,33
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 149","LaHave--Dublin Shore--Pentz",N,N,"",0,356,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,7
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 150","West Dublin",N,N,"",1,319,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 150","West Dublin",N,N,"",1,319,"Jordan","","Bernadette","Liberal","Libéral",Y,N,63
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 150","West Dublin",N,N,"",1,319,"Perkins","","Rick","Conservative","Conservateur",N,Y,39
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 150","West Dublin",N,N,"",1,319,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 151","Conquerall Mills",N,N,"",0,427,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 151","Conquerall Mills",N,N,"",0,427,"Jordan","","Bernadette","Liberal","Libéral",Y,N,84
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 151","Conquerall Mills",N,N,"",0,427,"Perkins","","Rick","Conservative","Conservateur",N,Y,83
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 151","Conquerall Mills",N,N,"",0,427,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 152","Conquerall Mills",N,N,"",3,342,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 152","Conquerall Mills",N,N,"",3,342,"Jordan","","Bernadette","Liberal","Libéral",Y,N,41
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 152","Conquerall Mills",N,N,"",3,342,"Perkins","","Rick","Conservative","Conservateur",N,Y,53
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 152","Conquerall Mills",N,N,"",3,342,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,13
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 153","Chelsea",N,N,"",2,442,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 153","Chelsea",N,N,"",2,442,"Jordan","","Bernadette","Liberal","Libéral",Y,N,60
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 153","Chelsea",N,N,"",2,442,"Perkins","","Rick","Conservative","Conservateur",N,Y,112
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 153","Chelsea",N,N,"",2,442,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 154","Newcombville",N,N,"",2,291,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 154","Newcombville",N,N,"",2,291,"Jordan","","Bernadette","Liberal","Libéral",Y,N,40
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 154","Newcombville",N,N,"",2,291,"Perkins","","Rick","Conservative","Conservateur",N,Y,72
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 154","Newcombville",N,N,"",2,291,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 155","Waterloo",N,N,"",1,202,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 155","Waterloo",N,N,"",1,202,"Jordan","","Bernadette","Liberal","Libéral",Y,N,28
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 155","Waterloo",N,N,"",1,202,"Perkins","","Rick","Conservative","Conservateur",N,Y,36
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 155","Waterloo",N,N,"",1,202,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,1
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 156","North Brookfield--Westfield",N,N,"",0,291,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 156","North Brookfield--Westfield",N,N,"",0,291,"Jordan","","Bernadette","Liberal","Libéral",Y,N,31
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 156","North Brookfield--Westfield",N,N,"",0,291,"Perkins","","Rick","Conservative","Conservateur",N,Y,56
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 156","North Brookfield--Westfield",N,N,"",0,291,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 157","Wildcat 12--North Brookfield",N,N,"",0,317,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 157","Wildcat 12--North Brookfield",N,N,"",0,317,"Jordan","","Bernadette","Liberal","Libéral",Y,N,32
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 157","Wildcat 12--North Brookfield",N,N,"",0,317,"Perkins","","Rick","Conservative","Conservateur",N,Y,84
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 157","Wildcat 12--North Brookfield",N,N,"",0,317,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,2
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 158","Hebbs Cross",N,N,"",0,268,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 158","Hebbs Cross",N,N,"",0,268,"Jordan","","Bernadette","Liberal","Libéral",Y,N,43
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 158","Hebbs Cross",N,N,"",0,268,"Perkins","","Rick","Conservative","Conservateur",N,Y,33
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 158","Hebbs Cross",N,N,"",0,268,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 159","Hebbs Cross",N,N,"",0,236,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 159","Hebbs Cross",N,N,"",0,236,"Jordan","","Bernadette","Liberal","Libéral",Y,N,25
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 159","Hebbs Cross",N,N,"",0,236,"Perkins","","Rick","Conservative","Conservateur",N,Y,29
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 159","Hebbs Cross",N,N,"",0,236,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 160","Crousetown--LaHave Islands",N,N,"",0,435,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 160","Crousetown--LaHave Islands",N,N,"",0,435,"Jordan","","Bernadette","Liberal","Libéral",Y,N,95
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 160","Crousetown--LaHave Islands",N,N,"",0,435,"Perkins","","Rick","Conservative","Conservateur",N,Y,59
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 160","Crousetown--LaHave Islands",N,N,"",0,435,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,6
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 161","Camperdown",N,N,"",0,292,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 161","Camperdown",N,N,"",0,292,"Jordan","","Bernadette","Liberal","Libéral",Y,N,31
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 161","Camperdown",N,N,"",0,292,"Perkins","","Rick","Conservative","Conservateur",N,Y,53
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 161","Camperdown",N,N,"",0,292,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 162","Italy Cross",N,N,"",2,285,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 162","Italy Cross",N,N,"",2,285,"Jordan","","Bernadette","Liberal","Libéral",Y,N,32
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 162","Italy Cross",N,N,"",2,285,"Perkins","","Rick","Conservative","Conservateur",N,Y,54
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 162","Italy Cross",N,N,"",2,285,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 163","Middlewood",N,N,"",1,327,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 163","Middlewood",N,N,"",1,327,"Jordan","","Bernadette","Liberal","Libéral",Y,N,42
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 163","Middlewood",N,N,"",1,327,"Perkins","","Rick","Conservative","Conservateur",N,Y,49
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 163","Middlewood",N,N,"",1,327,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,7
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 164","Voglers Cove--Broad Cove--Cherry Hill",N,N,"",0,392,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 164","Voglers Cove--Broad Cove--Cherry Hill",N,N,"",0,392,"Jordan","","Bernadette","Liberal","Libéral",Y,N,89
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 164","Voglers Cove--Broad Cove--Cherry Hill",N,N,"",0,392,"Perkins","","Rick","Conservative","Conservateur",N,Y,78
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 164","Voglers Cove--Broad Cove--Cherry Hill",N,N,"",0,392,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,8
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 165","Kempt",N,N,"",2,204,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 165","Kempt",N,N,"",2,204,"Jordan","","Bernadette","Liberal","Libéral",Y,N,38
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 165","Kempt",N,N,"",2,204,"Perkins","","Rick","Conservative","Conservateur",N,Y,31
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 165","Kempt",N,N,"",2,204,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 166","Greenfield--LaBelle",N,N,"",4,365,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 166","Greenfield--LaBelle",N,N,"",4,365,"Jordan","","Bernadette","Liberal","Libéral",Y,N,73
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 166","Greenfield--LaBelle",N,N,"",4,365,"Perkins","","Rick","Conservative","Conservateur",N,Y,79
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 166","Greenfield--LaBelle",N,N,"",4,365,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 167","Greenfield--Middlefield",N,N,"",3,269,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 167","Greenfield--Middlefield",N,N,"",3,269,"Jordan","","Bernadette","Liberal","Libéral",Y,N,35
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 167","Greenfield--Middlefield",N,N,"",3,269,"Perkins","","Rick","Conservative","Conservateur",N,Y,50
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 167","Greenfield--Middlefield",N,N,"",3,269,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 168","Port Medway",N,N,"",0,230,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 168","Port Medway",N,N,"",0,230,"Jordan","","Bernadette","Liberal","Libéral",Y,N,36
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 168","Port Medway",N,N,"",0,230,"Perkins","","Rick","Conservative","Conservateur",N,Y,59
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 168","Port Medway",N,N,"",0,230,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 169","Mill Village--East Port Medway",N,N,"",0,333,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 169","Mill Village--East Port Medway",N,N,"",0,333,"Jordan","","Bernadette","Liberal","Libéral",Y,N,58
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 169","Mill Village--East Port Medway",N,N,"",0,333,"Perkins","","Rick","Conservative","Conservateur",N,Y,67
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 169","Mill Village--East Port Medway",N,N,"",0,333,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 170","Charleston",N,N,"",0,281,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 170","Charleston",N,N,"",0,281,"Jordan","","Bernadette","Liberal","Libéral",Y,N,35
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 170","Charleston",N,N,"",0,281,"Perkins","","Rick","Conservative","Conservateur",N,Y,58
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 170","Charleston",N,N,"",0,281,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 171","Beach Meadows",N,N,"",3,414,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 171","Beach Meadows",N,N,"",3,414,"Jordan","","Bernadette","Liberal","Libéral",Y,N,49
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 171","Beach Meadows",N,N,"",3,414,"Perkins","","Rick","Conservative","Conservateur",N,Y,66
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 171","Beach Meadows",N,N,"",3,414,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,9
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 172","Caledonia",N,N,"",0,423,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 172","Caledonia",N,N,"",0,423,"Jordan","","Bernadette","Liberal","Libéral",Y,N,40
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 172","Caledonia",N,N,"",0,423,"Perkins","","Rick","Conservative","Conservateur",N,Y,73
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 172","Caledonia",N,N,"",0,423,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,2
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 173","Sandy Cove",N,N,"",0,358,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 173","Sandy Cove",N,N,"",0,358,"Jordan","","Bernadette","Liberal","Libéral",Y,N,38
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 173","Sandy Cove",N,N,"",0,358,"Perkins","","Rick","Conservative","Conservateur",N,Y,50
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 173","Sandy Cove",N,N,"",0,358,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 174","Brooklyn",N,N,"",0,259,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 174","Brooklyn",N,N,"",0,259,"Jordan","","Bernadette","Liberal","Libéral",Y,N,24
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 174","Brooklyn",N,N,"",0,259,"Perkins","","Rick","Conservative","Conservateur",N,Y,44
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 174","Brooklyn",N,N,"",0,259,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 175","Brooklyn",N,N,"",1,323,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 175","Brooklyn",N,N,"",1,323,"Jordan","","Bernadette","Liberal","Libéral",Y,N,45
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 175","Brooklyn",N,N,"",1,323,"Perkins","","Rick","Conservative","Conservateur",N,Y,58
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 175","Brooklyn",N,N,"",1,323,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 176","Liverpool",N,N,"",0,363,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 176","Liverpool",N,N,"",0,363,"Jordan","","Bernadette","Liberal","Libéral",Y,N,51
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 176","Liverpool",N,N,"",0,363,"Perkins","","Rick","Conservative","Conservateur",N,Y,39
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 176","Liverpool",N,N,"",0,363,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,6
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 177","Liverpool",N,N,"",2,395,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 177","Liverpool",N,N,"",2,395,"Jordan","","Bernadette","Liberal","Libéral",Y,N,45
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 177","Liverpool",N,N,"",2,395,"Perkins","","Rick","Conservative","Conservateur",N,Y,33
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 177","Liverpool",N,N,"",2,395,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 178","Liverpool",N,N,"",4,408,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 178","Liverpool",N,N,"",4,408,"Jordan","","Bernadette","Liberal","Libéral",Y,N,29
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 178","Liverpool",N,N,"",4,408,"Perkins","","Rick","Conservative","Conservateur",N,Y,46
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 178","Liverpool",N,N,"",4,408,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 179","Western Head",N,N,"",9,340,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 179","Western Head",N,N,"",9,340,"Jordan","","Bernadette","Liberal","Libéral",Y,N,34
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 179","Western Head",N,N,"",9,340,"Perkins","","Rick","Conservative","Conservateur",N,Y,72
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 179","Western Head",N,N,"",9,340,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 180","Western Head",N,N,"",3,271,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 180","Western Head",N,N,"",3,271,"Jordan","","Bernadette","Liberal","Libéral",Y,N,34
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 180","Western Head",N,N,"",3,271,"Perkins","","Rick","Conservative","Conservateur",N,Y,56
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 180","Western Head",N,N,"",3,271,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 181","Liverpool",N,N,"",0,298,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 181","Liverpool",N,N,"",0,298,"Jordan","","Bernadette","Liberal","Libéral",Y,N,21
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 181","Liverpool",N,N,"",0,298,"Perkins","","Rick","Conservative","Conservateur",N,Y,38
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 181","Liverpool",N,N,"",0,298,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,1
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 182","Liverpool",N,N,"",2,334,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 182","Liverpool",N,N,"",2,334,"Jordan","","Bernadette","Liberal","Libéral",Y,N,19
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 182","Liverpool",N,N,"",2,334,"Perkins","","Rick","Conservative","Conservateur",N,Y,45
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 182","Liverpool",N,N,"",2,334,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 183","Liverpool",N,N,"",0,437,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 183","Liverpool",N,N,"",0,437,"Jordan","","Bernadette","Liberal","Libéral",Y,N,35
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 183","Liverpool",N,N,"",0,437,"Perkins","","Rick","Conservative","Conservateur",N,Y,49
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 183","Liverpool",N,N,"",0,437,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 184","Milton",N,N,"",1,382,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 184","Milton",N,N,"",1,382,"Jordan","","Bernadette","Liberal","Libéral",Y,N,33
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 184","Milton",N,N,"",1,382,"Perkins","","Rick","Conservative","Conservateur",N,Y,47
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 184","Milton",N,N,"",1,382,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,2
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 185","Milton",N,N,"",1,274,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 185","Milton",N,N,"",1,274,"Jordan","","Bernadette","Liberal","Libéral",Y,N,21
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 185","Milton",N,N,"",1,274,"Perkins","","Rick","Conservative","Conservateur",N,Y,48
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 185","Milton",N,N,"",1,274,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,6
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 186","Milton",N,N,"",0,346,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 186","Milton",N,N,"",0,346,"Jordan","","Bernadette","Liberal","Libéral",Y,N,44
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 186","Milton",N,N,"",0,346,"Perkins","","Rick","Conservative","Conservateur",N,Y,67
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 186","Milton",N,N,"",0,346,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,2
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 187","Hunts Point--Summerville Centre",N,N,"",4,484,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 187","Hunts Point--Summerville Centre",N,N,"",4,484,"Jordan","","Bernadette","Liberal","Libéral",Y,N,73
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 187","Hunts Point--Summerville Centre",N,N,"",4,484,"Perkins","","Rick","Conservative","Conservateur",N,Y,105
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 187","Hunts Point--Summerville Centre",N,N,"",4,484,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,8
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 188","South West Port Mouton",N,N,"",2,419,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 188","South West Port Mouton",N,N,"",2,419,"Jordan","","Bernadette","Liberal","Libéral",Y,N,59
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 188","South West Port Mouton",N,N,"",2,419,"Perkins","","Rick","Conservative","Conservateur",N,Y,100
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 188","South West Port Mouton",N,N,"",2,419,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 189","Port Joli--East Port L'Hebert",N,N,"",0,127,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 189","Port Joli--East Port L'Hebert",N,N,"",0,127,"Jordan","","Bernadette","Liberal","Libéral",Y,N,13
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 189","Port Joli--East Port L'Hebert",N,N,"",0,127,"Perkins","","Rick","Conservative","Conservateur",N,Y,34
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 189","Port Joli--East Port L'Hebert",N,N,"",0,127,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 190","Jordan Falls",N,N,"",1,273,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 190","Jordan Falls",N,N,"",1,273,"Jordan","","Bernadette","Liberal","Libéral",Y,N,38
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 190","Jordan Falls",N,N,"",1,273,"Perkins","","Rick","Conservative","Conservateur",N,Y,70
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 190","Jordan Falls",N,N,"",1,273,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,2
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 191","Jordan Falls--Jordan Bay",N,N,"",0,318,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 191","Jordan Falls--Jordan Bay",N,N,"",0,318,"Jordan","","Bernadette","Liberal","Libéral",Y,N,25
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 191","Jordan Falls--Jordan Bay",N,N,"",0,318,"Perkins","","Rick","Conservative","Conservateur",N,Y,66
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 191","Jordan Falls--Jordan Bay",N,N,"",0,318,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 192","Middle Ohio",N,N,"",1,380,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 192","Middle Ohio",N,N,"",1,380,"Jordan","","Bernadette","Liberal","Libéral",Y,N,42
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 192","Middle Ohio",N,N,"",1,380,"Perkins","","Rick","Conservative","Conservateur",N,Y,107
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 192","Middle Ohio",N,N,"",1,380,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,7
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 193","Sable River",N,N,"",0,250,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 193","Sable River",N,N,"",0,250,"Jordan","","Bernadette","Liberal","Libéral",Y,N,22
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 193","Sable River",N,N,"",0,250,"Perkins","","Rick","Conservative","Conservateur",N,Y,76
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 193","Sable River",N,N,"",0,250,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 194","Little Harbour",N,N,"",0,178,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 194","Little Harbour",N,N,"",0,178,"Jordan","","Bernadette","Liberal","Libéral",Y,N,33
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 194","Little Harbour",N,N,"",0,178,"Perkins","","Rick","Conservative","Conservateur",N,Y,30
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 194","Little Harbour",N,N,"",0,178,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,7
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 195","West Green Harbour",N,N,"",0,258,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 195","West Green Harbour",N,N,"",0,258,"Jordan","","Bernadette","Liberal","Libéral",Y,N,28
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 195","West Green Harbour",N,N,"",0,258,"Perkins","","Rick","Conservative","Conservateur",N,Y,67
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 195","West Green Harbour",N,N,"",0,258,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 196","Shelburne",N,N,"",0,337,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 196","Shelburne",N,N,"",0,337,"Jordan","","Bernadette","Liberal","Libéral",Y,N,20
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 196","Shelburne",N,N,"",0,337,"Perkins","","Rick","Conservative","Conservateur",N,Y,62
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 196","Shelburne",N,N,"",0,337,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 197","Shelburne",N,N,"",2,335,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 197","Shelburne",N,N,"",2,335,"Jordan","","Bernadette","Liberal","Libéral",Y,N,43
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 197","Shelburne",N,N,"",2,335,"Perkins","","Rick","Conservative","Conservateur",N,Y,54
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 197","Shelburne",N,N,"",2,335,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,1
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 198","Shelburne",N,N,"",0,269,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 198","Shelburne",N,N,"",0,269,"Jordan","","Bernadette","Liberal","Libéral",Y,N,29
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 198","Shelburne",N,N,"",0,269,"Perkins","","Rick","Conservative","Conservateur",N,Y,42
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 198","Shelburne",N,N,"",0,269,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 199","Shelburne",N,N,"",3,394,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 199","Shelburne",N,N,"",3,394,"Jordan","","Bernadette","Liberal","Libéral",Y,N,38
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 199","Shelburne",N,N,"",3,394,"Perkins","","Rick","Conservative","Conservateur",N,Y,53
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 199","Shelburne",N,N,"",3,394,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 200","Shelburne",N,N,"",2,367,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 200","Shelburne",N,N,"",2,367,"Jordan","","Bernadette","Liberal","Libéral",Y,N,30
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 200","Shelburne",N,N,"",2,367,"Perkins","","Rick","Conservative","Conservateur",N,Y,59
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 200","Shelburne",N,N,"",2,367,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 201","East Green Harbour",N,N,"",2,304,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 201","East Green Harbour",N,N,"",2,304,"Jordan","","Bernadette","Liberal","Libéral",Y,N,12
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 201","East Green Harbour",N,N,"",2,304,"Perkins","","Rick","Conservative","Conservateur",N,Y,69
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 201","East Green Harbour",N,N,"",2,304,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 202","Lockeport",N,N,"",1,255,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 202","Lockeport",N,N,"",1,255,"Jordan","","Bernadette","Liberal","Libéral",Y,N,25
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 202","Lockeport",N,N,"",1,255,"Perkins","","Rick","Conservative","Conservateur",N,Y,45
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 202","Lockeport",N,N,"",1,255,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 203","Lockeport",N,N,"",0,261,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 203","Lockeport",N,N,"",0,261,"Jordan","","Bernadette","Liberal","Libéral",Y,N,24
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 203","Lockeport",N,N,"",0,261,"Perkins","","Rick","Conservative","Conservateur",N,Y,59
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 203","Lockeport",N,N,"",0,261,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,1
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 204","Sandy Point",N,N,"",0,406,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 204","Sandy Point",N,N,"",0,406,"Jordan","","Bernadette","Liberal","Libéral",Y,N,35
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 204","Sandy Point",N,N,"",0,406,"Perkins","","Rick","Conservative","Conservateur",N,Y,94
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 204","Sandy Point",N,N,"",0,406,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,6
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 205","Birchtown--Gunning Cove",N,N,"",1,447,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 205","Birchtown--Gunning Cove",N,N,"",1,447,"Jordan","","Bernadette","Liberal","Libéral",Y,N,51
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 205","Birchtown--Gunning Cove",N,N,"",1,447,"Perkins","","Rick","Conservative","Conservateur",N,Y,116
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 205","Birchtown--Gunning Cove",N,N,"",1,447,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 206","Thomasville",N,N,"",1,305,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 206","Thomasville",N,N,"",1,305,"Jordan","","Bernadette","Liberal","Libéral",Y,N,28
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 206","Thomasville",N,N,"",1,305,"Perkins","","Rick","Conservative","Conservateur",N,Y,68
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 206","Thomasville",N,N,"",1,305,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,1
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 207","Clyde River--Port Saxon",N,N,"",2,257,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 207","Clyde River--Port Saxon",N,N,"",2,257,"Jordan","","Bernadette","Liberal","Libéral",Y,N,36
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 207","Clyde River--Port Saxon",N,N,"",2,257,"Perkins","","Rick","Conservative","Conservateur",N,Y,81
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 207","Clyde River--Port Saxon",N,N,"",2,257,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 208","North West Harbour--Ingomar",N,N,"",2,292,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 208","North West Harbour--Ingomar",N,N,"",2,292,"Jordan","","Bernadette","Liberal","Libéral",Y,N,34
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 208","North West Harbour--Ingomar",N,N,"",2,292,"Perkins","","Rick","Conservative","Conservateur",N,Y,111
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 208","North West Harbour--Ingomar",N,N,"",2,292,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,6
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 209","Barrington",N,N,"",1,423,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 209","Barrington",N,N,"",1,423,"Jordan","","Bernadette","Liberal","Libéral",Y,N,14
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 209","Barrington",N,N,"",1,423,"Perkins","","Rick","Conservative","Conservateur",N,Y,99
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 209","Barrington",N,N,"",1,423,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,1
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 210","Barrington",N,N,"",1,379,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 210","Barrington",N,N,"",1,379,"Jordan","","Bernadette","Liberal","Libéral",Y,N,14
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 210","Barrington",N,N,"",1,379,"Perkins","","Rick","Conservative","Conservateur",N,Y,84
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 210","Barrington",N,N,"",1,379,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 211","Crowell",N,N,"",0,333,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 211","Crowell",N,N,"",0,333,"Jordan","","Bernadette","Liberal","Libéral",Y,N,17
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 211","Crowell",N,N,"",0,333,"Perkins","","Rick","Conservative","Conservateur",N,Y,93
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 211","Crowell",N,N,"",0,333,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 212","Port La Tour--Baccaro",N,N,"",2,464,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 212","Port La Tour--Baccaro",N,N,"",2,464,"Jordan","","Bernadette","Liberal","Libéral",Y,N,32
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 212","Port La Tour--Baccaro",N,N,"",2,464,"Perkins","","Rick","Conservative","Conservateur",N,Y,118
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 212","Port La Tour--Baccaro",N,N,"",2,464,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,8
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 213","Barrington Passage",N,N,"",0,417,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 213","Barrington Passage",N,N,"",0,417,"Jordan","","Bernadette","Liberal","Libéral",Y,N,31
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 213","Barrington Passage",N,N,"",0,417,"Perkins","","Rick","Conservative","Conservateur",N,Y,107
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 213","Barrington Passage",N,N,"",0,417,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,6
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 214","Barrington",N,N,"",2,339,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 214","Barrington",N,N,"",2,339,"Jordan","","Bernadette","Liberal","Libéral",Y,N,18
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 214","Barrington",N,N,"",2,339,"Perkins","","Rick","Conservative","Conservateur",N,Y,112
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 214","Barrington",N,N,"",2,339,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 215","North East Point",N,N,"",1,349,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 215","North East Point",N,N,"",1,349,"Jordan","","Bernadette","Liberal","Libéral",Y,N,15
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 215","North East Point",N,N,"",1,349,"Perkins","","Rick","Conservative","Conservateur",N,Y,131
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 215","North East Point",N,N,"",1,349,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 216","Newellton",N,N,"",1,345,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 216","Newellton",N,N,"",1,345,"Jordan","","Bernadette","Liberal","Libéral",Y,N,20
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 216","Newellton",N,N,"",1,345,"Perkins","","Rick","Conservative","Conservateur",N,Y,130
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 216","Newellton",N,N,"",1,345,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,6
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 217","Stoney Island",N,N,"",0,411,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 217","Stoney Island",N,N,"",0,411,"Jordan","","Bernadette","Liberal","Libéral",Y,N,14
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 217","Stoney Island",N,N,"",0,411,"Perkins","","Rick","Conservative","Conservateur",N,Y,197
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 217","Stoney Island",N,N,"",0,411,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 218","Clark's Harbour",N,N,"",0,354,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 218","Clark's Harbour",N,N,"",0,354,"Jordan","","Bernadette","Liberal","Libéral",Y,N,18
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 218","Clark's Harbour",N,N,"",0,354,"Perkins","","Rick","Conservative","Conservateur",N,Y,127
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 218","Clark's Harbour",N,N,"",0,354,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 219","Clark's Harbour",N,N,"",0,295,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 219","Clark's Harbour",N,N,"",0,295,"Jordan","","Bernadette","Liberal","Libéral",Y,N,8
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 219","Clark's Harbour",N,N,"",0,295,"Perkins","","Rick","Conservative","Conservateur",N,Y,103
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 219","Clark's Harbour",N,N,"",0,295,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 220","Barrington",N,N,"",0,409,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 220","Barrington",N,N,"",0,409,"Jordan","","Bernadette","Liberal","Libéral",Y,N,19
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 220","Barrington",N,N,"",0,409,"Perkins","","Rick","Conservative","Conservateur",N,Y,116
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 220","Barrington",N,N,"",0,409,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,2
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 221","Upper Woods Harbour--Central Woods Harbour",N,N,"",2,308,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 221","Upper Woods Harbour--Central Woods Harbour",N,N,"",2,308,"Jordan","","Bernadette","Liberal","Libéral",Y,N,14
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 221","Upper Woods Harbour--Central Woods Harbour",N,N,"",2,308,"Perkins","","Rick","Conservative","Conservateur",N,Y,135
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 221","Upper Woods Harbour--Central Woods Harbour",N,N,"",2,308,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,2
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 222","Lower Shag Harbour",N,N,"",0,271,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 222","Lower Shag Harbour",N,N,"",0,271,"Jordan","","Bernadette","Liberal","Libéral",Y,N,9
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 222","Lower Shag Harbour",N,N,"",0,271,"Perkins","","Rick","Conservative","Conservateur",N,Y,57
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 222","Lower Shag Harbour",N,N,"",0,271,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,2
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 223","Lower Wood Harbour",N,N,"",1,253,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 223","Lower Wood Harbour",N,N,"",1,253,"Jordan","","Bernadette","Liberal","Libéral",Y,N,6
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 223","Lower Wood Harbour",N,N,"",1,253,"Perkins","","Rick","Conservative","Conservateur",N,Y,85
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 223","Lower Wood Harbour",N,N,"",1,253,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 224","Shag Harbour",N,N,"",4,301,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 224","Shag Harbour",N,N,"",4,301,"Jordan","","Bernadette","Liberal","Libéral",Y,N,15
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 224","Shag Harbour",N,N,"",4,301,"Perkins","","Rick","Conservative","Conservateur",N,Y,88
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 224","Shag Harbour",N,N,"",4,301,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,1
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 225","Charlesville--Lower Woods Harbour",N,N,"",0,250,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 225","Charlesville--Lower Woods Harbour",N,N,"",0,250,"Jordan","","Bernadette","Liberal","Libéral",Y,N,9
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 225","Charlesville--Lower Woods Harbour",N,N,"",0,250,"Perkins","","Rick","Conservative","Conservateur",N,Y,116
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 225","Charlesville--Lower Woods Harbour",N,N,"",0,250,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 500","Mobile poll/Bureau itinérant",N,N,"",3,85,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 500","Mobile poll/Bureau itinérant",N,N,"",3,85,"Jordan","","Bernadette","Liberal","Libéral",Y,N,22
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 500","Mobile poll/Bureau itinérant",N,N,"",3,85,"Perkins","","Rick","Conservative","Conservateur",N,Y,11
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 500","Mobile poll/Bureau itinérant",N,N,"",3,85,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,1
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 501","Mobile poll/Bureau itinérant",N,N,"",0,58,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 501","Mobile poll/Bureau itinérant",N,N,"",0,58,"Jordan","","Bernadette","Liberal","Libéral",Y,N,23
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 501","Mobile poll/Bureau itinérant",N,N,"",0,58,"Perkins","","Rick","Conservative","Conservateur",N,Y,12
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 501","Mobile poll/Bureau itinérant",N,N,"",0,58,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,2
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 502","Mobile poll/Bureau itinérant",N,N,"",2,130,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 502","Mobile poll/Bureau itinérant",N,N,"",2,130,"Jordan","","Bernadette","Liberal","Libéral",Y,N,13
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 502","Mobile poll/Bureau itinérant",N,N,"",2,130,"Perkins","","Rick","Conservative","Conservateur",N,Y,8
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 502","Mobile poll/Bureau itinérant",N,N,"",2,130,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 503","Mobile poll/Bureau itinérant",N,N,"",0,7,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 503","Mobile poll/Bureau itinérant",N,N,"",0,7,"Jordan","","Bernadette","Liberal","Libéral",Y,N,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 503","Mobile poll/Bureau itinérant",N,N,"",0,7,"Perkins","","Rick","Conservative","Conservateur",N,Y,2
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 503","Mobile poll/Bureau itinérant",N,N,"",0,7,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,1
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 504","Mobile poll/Bureau itinérant",N,N,"",2,60,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 504","Mobile poll/Bureau itinérant",N,N,"",2,60,"Jordan","","Bernadette","Liberal","Libéral",Y,N,10
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 504","Mobile poll/Bureau itinérant",N,N,"",2,60,"Perkins","","Rick","Conservative","Conservateur",N,Y,7
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 504","Mobile poll/Bureau itinérant",N,N,"",2,60,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 505","Mobile poll/Bureau itinérant",N,N,"",2,54,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 505","Mobile poll/Bureau itinérant",N,N,"",2,54,"Jordan","","Bernadette","Liberal","Libéral",Y,N,13
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 505","Mobile poll/Bureau itinérant",N,N,"",2,54,"Perkins","","Rick","Conservative","Conservateur",N,Y,7
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 505","Mobile poll/Bureau itinérant",N,N,"",2,54,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 506","Mobile poll/Bureau itinérant",N,N,"",0,56,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 506","Mobile poll/Bureau itinérant",N,N,"",0,56,"Jordan","","Bernadette","Liberal","Libéral",Y,N,12
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 506","Mobile poll/Bureau itinérant",N,N,"",0,56,"Perkins","","Rick","Conservative","Conservateur",N,Y,12
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 506","Mobile poll/Bureau itinérant",N,N,"",0,56,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,1
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 507","Mobile poll/Bureau itinérant",N,N,"135",0,24,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 507","Mobile poll/Bureau itinérant",N,N,"135",0,24,"Jordan","","Bernadette","Liberal","Libéral",Y,N,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 507","Mobile poll/Bureau itinérant",N,N,"135",0,24,"Perkins","","Rick","Conservative","Conservateur",N,Y,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 507","Mobile poll/Bureau itinérant",N,N,"135",0,24,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 508","Mobile poll/Bureau itinérant",N,N,"",1,45,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 508","Mobile poll/Bureau itinérant",N,N,"",1,45,"Jordan","","Bernadette","Liberal","Libéral",Y,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 508","Mobile poll/Bureau itinérant",N,N,"",1,45,"Perkins","","Rick","Conservative","Conservateur",N,Y,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 508","Mobile poll/Bureau itinérant",N,N,"",1,45,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,2
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 509","Mobile poll/Bureau itinérant",N,N,"",0,24,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 509","Mobile poll/Bureau itinérant",N,N,"",0,24,"Jordan","","Bernadette","Liberal","Libéral",Y,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 509","Mobile poll/Bureau itinérant",N,N,"",0,24,"Perkins","","Rick","Conservative","Conservateur",N,Y,11
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 509","Mobile poll/Bureau itinérant",N,N,"",0,24,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 510","Mobile poll/Bureau itinérant",N,N,"",4,43,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 510","Mobile poll/Bureau itinérant",N,N,"",4,43,"Jordan","","Bernadette","Liberal","Libéral",Y,N,10
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 510","Mobile poll/Bureau itinérant",N,N,"",4,43,"Perkins","","Rick","Conservative","Conservateur",N,Y,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 510","Mobile poll/Bureau itinérant",N,N,"",4,43,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,1
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 511","Mobile poll/Bureau itinérant",N,N,"",0,22,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 511","Mobile poll/Bureau itinérant",N,N,"",0,22,"Jordan","","Bernadette","Liberal","Libéral",Y,N,10
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 511","Mobile poll/Bureau itinérant",N,N,"",0,22,"Perkins","","Rick","Conservative","Conservateur",N,Y,6
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 511","Mobile poll/Bureau itinérant",N,N,"",0,22,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 512","Mobile poll/Bureau itinérant",N,N,"",2,58,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 512","Mobile poll/Bureau itinérant",N,N,"",2,58,"Jordan","","Bernadette","Liberal","Libéral",Y,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 512","Mobile poll/Bureau itinérant",N,N,"",2,58,"Perkins","","Rick","Conservative","Conservateur",N,Y,13
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 512","Mobile poll/Bureau itinérant",N,N,"",2,58,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 513","Mobile poll/Bureau itinérant",N,N,"",0,31,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 513","Mobile poll/Bureau itinérant",N,N,"",0,31,"Jordan","","Bernadette","Liberal","Libéral",Y,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 513","Mobile poll/Bureau itinérant",N,N,"",0,31,"Perkins","","Rick","Conservative","Conservateur",N,Y,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 513","Mobile poll/Bureau itinérant",N,N,"",0,31,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 514","Mobile poll/Bureau itinérant",N,N,"",0,10,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 514","Mobile poll/Bureau itinérant",N,N,"",0,10,"Jordan","","Bernadette","Liberal","Libéral",Y,N,1
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 514","Mobile poll/Bureau itinérant",N,N,"",0,10,"Perkins","","Rick","Conservative","Conservateur",N,Y,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 514","Mobile poll/Bureau itinérant",N,N,"",0,10,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,2
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 515","Mobile poll/Bureau itinérant",N,N,"",0,10,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 515","Mobile poll/Bureau itinérant",N,N,"",0,10,"Jordan","","Bernadette","Liberal","Libéral",Y,N,3
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 515","Mobile poll/Bureau itinérant",N,N,"",0,10,"Perkins","","Rick","Conservative","Conservateur",N,Y,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 515","Mobile poll/Bureau itinérant",N,N,"",0,10,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,1
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 516","Mobile poll/Bureau itinérant",N,N,"",0,60,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 516","Mobile poll/Bureau itinérant",N,N,"",0,60,"Jordan","","Bernadette","Liberal","Libéral",Y,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 516","Mobile poll/Bureau itinérant",N,N,"",0,60,"Perkins","","Rick","Conservative","Conservateur",N,Y,7
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 516","Mobile poll/Bureau itinérant",N,N,"",0,60,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 517","Mobile poll/Bureau itinérant",N,N,"",0,62,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 517","Mobile poll/Bureau itinérant",N,N,"",0,62,"Jordan","","Bernadette","Liberal","Libéral",Y,N,7
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 517","Mobile poll/Bureau itinérant",N,N,"",0,62,"Perkins","","Rick","Conservative","Conservateur",N,Y,14
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 517","Mobile poll/Bureau itinérant",N,N,"",0,62,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,0
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 600","Upper Tantallon",N,N,"",1,0,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,150
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 600","Upper Tantallon",N,N,"",1,0,"Jordan","","Bernadette","Liberal","Libéral",Y,N,443
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 600","Upper Tantallon",N,N,"",1,0,"Perkins","","Rick","Conservative","Conservateur",N,Y,322
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 600","Upper Tantallon",N,N,"",1,0,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,21
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 601","Hubley",N,N,"",5,0,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,174
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 601","Hubley",N,N,"",5,0,"Jordan","","Bernadette","Liberal","Libéral",Y,N,473
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 601","Hubley",N,N,"",5,0,"Perkins","","Rick","Conservative","Conservateur",N,Y,271
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 601","Hubley",N,N,"",5,0,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,17
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 602","Hatchet Lake",N,N,"",1,0,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,150
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 602","Hatchet Lake",N,N,"",1,0,"Jordan","","Bernadette","Liberal","Libéral",Y,N,325
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 602","Hatchet Lake",N,N,"",1,0,"Perkins","","Rick","Conservative","Conservateur",N,Y,179
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 602","Hatchet Lake",N,N,"",1,0,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,16
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 603","Shad Bay--Terence Bay",N,N,"",5,0,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,206
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 603","Shad Bay--Terence Bay",N,N,"",5,0,"Jordan","","Bernadette","Liberal","Libéral",Y,N,382
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 603","Shad Bay--Terence Bay",N,N,"",5,0,"Perkins","","Rick","Conservative","Conservateur",N,Y,251
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 603","Shad Bay--Terence Bay",N,N,"",5,0,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,32
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 604","Indian Harbour",N,N,"",6,0,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,132
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 604","Indian Harbour",N,N,"",6,0,"Jordan","","Bernadette","Liberal","Libéral",Y,N,324
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 604","Indian Harbour",N,N,"",6,0,"Perkins","","Rick","Conservative","Conservateur",N,Y,194
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 604","Indian Harbour",N,N,"",6,0,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,18
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 605","Hubbards",N,N,"",2,0,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,135
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 605","Hubbards",N,N,"",2,0,"Jordan","","Bernadette","Liberal","Libéral",Y,N,352
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 605","Hubbards",N,N,"",2,0,"Perkins","","Rick","Conservative","Conservateur",N,Y,296
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 605","Hubbards",N,N,"",2,0,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,29
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 606","New Ross",N,N,"",2,0,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 606","New Ross",N,N,"",2,0,"Jordan","","Bernadette","Liberal","Libéral",Y,N,76
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 606","New Ross",N,N,"",2,0,"Perkins","","Rick","Conservative","Conservateur",N,Y,142
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 606","New Ross",N,N,"",2,0,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,4
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 607","Chester",N,N,"",3,0,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,114
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 607","Chester",N,N,"",3,0,"Jordan","","Bernadette","Liberal","Libéral",Y,N,335
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 607","Chester",N,N,"",3,0,"Perkins","","Rick","Conservative","Conservateur",N,Y,288
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 607","Chester",N,N,"",3,0,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,19
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 608","Chester",N,N,"",4,0,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,94
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 608","Chester",N,N,"",4,0,"Jordan","","Bernadette","Liberal","Libéral",Y,N,212
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 608","Chester",N,N,"",4,0,"Perkins","","Rick","Conservative","Conservateur",N,Y,309
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 608","Chester",N,N,"",4,0,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,18
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 609","Lunenburg",N,N,"",2,0,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,174
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 609","Lunenburg",N,N,"",2,0,"Jordan","","Bernadette","Liberal","Libéral",Y,N,467
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 609","Lunenburg",N,N,"",2,0,"Perkins","","Rick","Conservative","Conservateur",N,Y,248
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 609","Lunenburg",N,N,"",2,0,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,17
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 610","Mahone Bay",N,N,"",4,0,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,131
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 610","Mahone Bay",N,N,"",4,0,"Jordan","","Bernadette","Liberal","Libéral",Y,N,341
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 610","Mahone Bay",N,N,"",4,0,"Perkins","","Rick","Conservative","Conservateur",N,Y,263
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 610","Mahone Bay",N,N,"",4,0,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,17
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 611","New Germany",N,N,"",10,0,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,91
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 611","New Germany",N,N,"",10,0,"Jordan","","Bernadette","Liberal","Libéral",Y,N,243
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 611","New Germany",N,N,"",10,0,"Perkins","","Rick","Conservative","Conservateur",N,Y,345
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 611","New Germany",N,N,"",10,0,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,16
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 612","Dayspring",N,N,"",4,0,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,100
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 612","Dayspring",N,N,"",4,0,"Jordan","","Bernadette","Liberal","Libéral",Y,N,181
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 612","Dayspring",N,N,"",4,0,"Perkins","","Rick","Conservative","Conservateur",N,Y,242
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 612","Dayspring",N,N,"",4,0,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,7
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 613","Bridgewater",N,N,"",3,0,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,136
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 613","Bridgewater",N,N,"",3,0,"Jordan","","Bernadette","Liberal","Libéral",Y,N,359
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 613","Bridgewater",N,N,"",3,0,"Perkins","","Rick","Conservative","Conservateur",N,Y,377
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 613","Bridgewater",N,N,"",3,0,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,21
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 614","Lunenburg",N,N,"",4,0,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,97
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 614","Lunenburg",N,N,"",4,0,"Jordan","","Bernadette","Liberal","Libéral",Y,N,243
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 614","Lunenburg",N,N,"",4,0,"Perkins","","Rick","Conservative","Conservateur",N,Y,185
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 614","Lunenburg",N,N,"",4,0,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,20
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 615","Lake Centre--New Cumberland",N,N,"",5,0,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 615","Lake Centre--New Cumberland",N,N,"",5,0,"Jordan","","Bernadette","Liberal","Libéral",Y,N,287
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 615","Lake Centre--New Cumberland",N,N,"",5,0,"Perkins","","Rick","Conservative","Conservateur",N,Y,217
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 615","Lake Centre--New Cumberland",N,N,"",5,0,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,16
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 616","Bridgewater",N,N,"",0,0,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,160
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 616","Bridgewater",N,N,"",0,0,"Jordan","","Bernadette","Liberal","Libéral",Y,N,400
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 616","Bridgewater",N,N,"",0,0,"Perkins","","Rick","Conservative","Conservateur",N,Y,331
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 616","Bridgewater",N,N,"",0,0,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,11
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 617","Bakers Settlement",N,N,"",1,0,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 617","Bakers Settlement",N,N,"",1,0,"Jordan","","Bernadette","Liberal","Libéral",Y,N,137
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 617","Bakers Settlement",N,N,"",1,0,"Perkins","","Rick","Conservative","Conservateur",N,Y,174
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 617","Bakers Settlement",N,N,"",1,0,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,9
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 618","Queens",N,N,"",3,0,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 618","Queens",N,N,"",3,0,"Jordan","","Bernadette","Liberal","Libéral",Y,N,94
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 618","Queens",N,N,"",3,0,"Perkins","","Rick","Conservative","Conservateur",N,Y,129
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 618","Queens",N,N,"",3,0,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 619","Middlewood",N,N,"",3,0,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 619","Middlewood",N,N,"",3,0,"Jordan","","Bernadette","Liberal","Libéral",Y,N,136
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 619","Middlewood",N,N,"",3,0,"Perkins","","Rick","Conservative","Conservateur",N,Y,187
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 619","Middlewood",N,N,"",3,0,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,10
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 620","Liverpool",N,N,"",8,0,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,84
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 620","Liverpool",N,N,"",8,0,"Jordan","","Bernadette","Liberal","Libéral",Y,N,226
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 620","Liverpool",N,N,"",8,0,"Perkins","","Rick","Conservative","Conservateur",N,Y,346
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 620","Liverpool",N,N,"",8,0,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,11
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 621","Liverpool",N,N,"",3,0,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,92
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 621","Liverpool",N,N,"",3,0,"Jordan","","Bernadette","Liberal","Libéral",Y,N,210
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 621","Liverpool",N,N,"",3,0,"Perkins","","Rick","Conservative","Conservateur",N,Y,314
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 621","Liverpool",N,N,"",3,0,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,8
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 622","Shelburne",N,N,"",3,0,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 622","Shelburne",N,N,"",3,0,"Jordan","","Bernadette","Liberal","Libéral",Y,N,205
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 622","Shelburne",N,N,"",3,0,"Perkins","","Rick","Conservative","Conservateur",N,Y,307
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 622","Shelburne",N,N,"",3,0,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,15
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 623","Sable River",N,N,"",2,0,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 623","Sable River",N,N,"",2,0,"Jordan","","Bernadette","Liberal","Libéral",Y,N,84
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 623","Sable River",N,N,"",2,0,"Perkins","","Rick","Conservative","Conservateur",N,Y,179
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 623","Sable River",N,N,"",2,0,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,7
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 624","Port Clyde",N,N,"",1,0,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 624","Port Clyde",N,N,"",1,0,"Jordan","","Bernadette","Liberal","Libéral",Y,N,97
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 624","Port Clyde",N,N,"",1,0,"Perkins","","Rick","Conservative","Conservateur",N,Y,416
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 624","Port Clyde",N,N,"",1,0,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,5
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 625","Shag Harbour",N,N,"",4,0,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 625","Shag Harbour",N,N,"",4,0,"Jordan","","Bernadette","Liberal","Libéral",Y,N,59
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 625","Shag Harbour",N,N,"",4,0,"Perkins","","Rick","Conservative","Conservateur",N,Y,397
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," 625","Shag Harbour",N,N,"",4,0,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,10
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",20,152,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,106
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",20,152,"Jordan","","Bernadette","Liberal","Libéral",Y,N,131
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",20,152,"Perkins","","Rick","Conservative","Conservateur",N,Y,127
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",20,152,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,12
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",25,0,"Dorey","","Olivia","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,257
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",25,0,"Jordan","","Bernadette","Liberal","Libéral",Y,N,716
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",25,0,"Perkins","","Rick","Conservative","Conservateur",N,Y,656
+12009,"South Shore--St. Margarets","South Shore--St. Margarets"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",25,0,"Trappenberg","","Thomas","Green Party","Parti Vert",N,N,39

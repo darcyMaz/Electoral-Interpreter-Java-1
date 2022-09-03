@@ -1,0 +1,966 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 1","Toronto",N,N,"",1,413,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 1","Toronto",N,N,"",1,413,"Johnson","","Mark","Conservative","Conservateur",N,N,62
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 1","Toronto",N,N,"",1,413,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 1","Toronto",N,N,"",1,413,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,6
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 1","Toronto",N,N,"",1,413,"Yip","","Jean","Liberal","Libéral",Y,Y,107
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 2","Toronto",N,N,"",4,422,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,6
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 2","Toronto",N,N,"",4,422,"Johnson","","Mark","Conservative","Conservateur",N,N,87
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 2","Toronto",N,N,"",4,422,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 2","Toronto",N,N,"",4,422,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,9
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 2","Toronto",N,N,"",4,422,"Yip","","Jean","Liberal","Libéral",Y,Y,158
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 3","Toronto",N,N,"",3,490,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 3","Toronto",N,N,"",3,490,"Johnson","","Mark","Conservative","Conservateur",N,N,32
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 3","Toronto",N,N,"",3,490,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 3","Toronto",N,N,"",3,490,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 3","Toronto",N,N,"",3,490,"Yip","","Jean","Liberal","Libéral",Y,Y,97
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 4","Toronto",N,N,"",2,498,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 4","Toronto",N,N,"",2,498,"Johnson","","Mark","Conservative","Conservateur",N,N,45
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 4","Toronto",N,N,"",2,498,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 4","Toronto",N,N,"",2,498,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 4","Toronto",N,N,"",2,498,"Yip","","Jean","Liberal","Libéral",Y,Y,97
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 5","Toronto",N,N,"1",0,265,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 5","Toronto",N,N,"1",0,265,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 5","Toronto",N,N,"1",0,265,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 5","Toronto",N,N,"1",0,265,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 5","Toronto",N,N,"1",0,265,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 6","Toronto",N,N,"2",0,414,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 6","Toronto",N,N,"2",0,414,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 6","Toronto",N,N,"2",0,414,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 6","Toronto",N,N,"2",0,414,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 6","Toronto",N,N,"2",0,414,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 7","Toronto",N,N,"",0,453,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 7","Toronto",N,N,"",0,453,"Johnson","","Mark","Conservative","Conservateur",N,N,34
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 7","Toronto",N,N,"",0,453,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 7","Toronto",N,N,"",0,453,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 7","Toronto",N,N,"",0,453,"Yip","","Jean","Liberal","Libéral",Y,Y,56
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 8","Toronto",N,N,"",1,428,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 8","Toronto",N,N,"",1,428,"Johnson","","Mark","Conservative","Conservateur",N,N,24
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 8","Toronto",N,N,"",1,428,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 8","Toronto",N,N,"",1,428,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 8","Toronto",N,N,"",1,428,"Yip","","Jean","Liberal","Libéral",Y,Y,91
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 9","Toronto",N,N,"",3,457,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 9","Toronto",N,N,"",3,457,"Johnson","","Mark","Conservative","Conservateur",N,N,44
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 9","Toronto",N,N,"",3,457,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 9","Toronto",N,N,"",3,457,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 9","Toronto",N,N,"",3,457,"Yip","","Jean","Liberal","Libéral",Y,Y,101
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 10","Toronto",N,N,"11",0,255,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 10","Toronto",N,N,"11",0,255,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 10","Toronto",N,N,"11",0,255,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 10","Toronto",N,N,"11",0,255,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 10","Toronto",N,N,"11",0,255,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 11","Toronto",N,N,"",3,313,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 11","Toronto",N,N,"",3,313,"Johnson","","Mark","Conservative","Conservateur",N,N,69
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 11","Toronto",N,N,"",3,313,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 11","Toronto",N,N,"",3,313,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,10
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 11","Toronto",N,N,"",3,313,"Yip","","Jean","Liberal","Libéral",Y,Y,99
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 12","Toronto",N,N,"",0,335,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,8
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 12","Toronto",N,N,"",0,335,"Johnson","","Mark","Conservative","Conservateur",N,N,49
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 12","Toronto",N,N,"",0,335,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 12","Toronto",N,N,"",0,335,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 12","Toronto",N,N,"",0,335,"Yip","","Jean","Liberal","Libéral",Y,Y,107
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 13","Toronto",N,N,"",3,467,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 13","Toronto",N,N,"",3,467,"Johnson","","Mark","Conservative","Conservateur",N,N,48
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 13","Toronto",N,N,"",3,467,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 13","Toronto",N,N,"",3,467,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 13","Toronto",N,N,"",3,467,"Yip","","Jean","Liberal","Libéral",Y,Y,90
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 14","Toronto",N,N,"12",0,324,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 14","Toronto",N,N,"12",0,324,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 14","Toronto",N,N,"12",0,324,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 14","Toronto",N,N,"12",0,324,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 14","Toronto",N,N,"12",0,324,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 15","Toronto",N,N,"",2,529,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 15","Toronto",N,N,"",2,529,"Johnson","","Mark","Conservative","Conservateur",N,N,33
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 15","Toronto",N,N,"",2,529,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 15","Toronto",N,N,"",2,529,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 15","Toronto",N,N,"",2,529,"Yip","","Jean","Liberal","Libéral",Y,Y,73
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 16","Toronto",N,N,"",0,489,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 16","Toronto",N,N,"",0,489,"Johnson","","Mark","Conservative","Conservateur",N,N,49
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 16","Toronto",N,N,"",0,489,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 16","Toronto",N,N,"",0,489,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 16","Toronto",N,N,"",0,489,"Yip","","Jean","Liberal","Libéral",Y,Y,108
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 17","Toronto",N,N,"77",0,339,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 17","Toronto",N,N,"77",0,339,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 17","Toronto",N,N,"77",0,339,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 17","Toronto",N,N,"77",0,339,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 17","Toronto",N,N,"77",0,339,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 18","Toronto",N,N,"",3,415,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,1
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 18","Toronto",N,N,"",3,415,"Johnson","","Mark","Conservative","Conservateur",N,N,32
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 18","Toronto",N,N,"",3,415,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 18","Toronto",N,N,"",3,415,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 18","Toronto",N,N,"",3,415,"Yip","","Jean","Liberal","Libéral",Y,Y,103
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 19","Toronto",N,N,"",1,534,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 19","Toronto",N,N,"",1,534,"Johnson","","Mark","Conservative","Conservateur",N,N,10
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 19","Toronto",N,N,"",1,534,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 19","Toronto",N,N,"",1,534,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 19","Toronto",N,N,"",1,534,"Yip","","Jean","Liberal","Libéral",Y,Y,64
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 20","Toronto",N,N,"",0,334,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 20","Toronto",N,N,"",0,334,"Johnson","","Mark","Conservative","Conservateur",N,N,17
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 20","Toronto",N,N,"",0,334,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 20","Toronto",N,N,"",0,334,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 20","Toronto",N,N,"",0,334,"Yip","","Jean","Liberal","Libéral",Y,Y,30
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 21","Toronto",N,N,"",0,394,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 21","Toronto",N,N,"",0,394,"Johnson","","Mark","Conservative","Conservateur",N,N,67
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 21","Toronto",N,N,"",0,394,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 21","Toronto",N,N,"",0,394,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 21","Toronto",N,N,"",0,394,"Yip","","Jean","Liberal","Libéral",Y,Y,115
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 22","Toronto",N,N,"21",0,226,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 22","Toronto",N,N,"21",0,226,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 22","Toronto",N,N,"21",0,226,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 22","Toronto",N,N,"21",0,226,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 22","Toronto",N,N,"21",0,226,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 23","Toronto",N,N,"410",0,306,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 23","Toronto",N,N,"410",0,306,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 23","Toronto",N,N,"410",0,306,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 23","Toronto",N,N,"410",0,306,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 23","Toronto",N,N,"410",0,306,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 24","Toronto",N,N,"",2,485,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 24","Toronto",N,N,"",2,485,"Johnson","","Mark","Conservative","Conservateur",N,N,65
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 24","Toronto",N,N,"",2,485,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 24","Toronto",N,N,"",2,485,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,8
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 24","Toronto",N,N,"",2,485,"Yip","","Jean","Liberal","Libéral",Y,Y,75
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 25","Toronto",N,N,"",2,418,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 25","Toronto",N,N,"",2,418,"Johnson","","Mark","Conservative","Conservateur",N,N,38
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 25","Toronto",N,N,"",2,418,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 25","Toronto",N,N,"",2,418,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 25","Toronto",N,N,"",2,418,"Yip","","Jean","Liberal","Libéral",Y,Y,95
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 26","Toronto",N,N,"",6,400,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 26","Toronto",N,N,"",6,400,"Johnson","","Mark","Conservative","Conservateur",N,N,44
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 26","Toronto",N,N,"",6,400,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 26","Toronto",N,N,"",6,400,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,6
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 26","Toronto",N,N,"",6,400,"Yip","","Jean","Liberal","Libéral",Y,Y,114
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 27","Toronto",N,N,"",1,448,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,6
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 27","Toronto",N,N,"",1,448,"Johnson","","Mark","Conservative","Conservateur",N,N,39
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 27","Toronto",N,N,"",1,448,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 27","Toronto",N,N,"",1,448,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 27","Toronto",N,N,"",1,448,"Yip","","Jean","Liberal","Libéral",Y,Y,102
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 28","Toronto",N,N,"",1,418,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,7
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 28","Toronto",N,N,"",1,418,"Johnson","","Mark","Conservative","Conservateur",N,N,65
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 28","Toronto",N,N,"",1,418,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 28","Toronto",N,N,"",1,418,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 28","Toronto",N,N,"",1,418,"Yip","","Jean","Liberal","Libéral",Y,Y,162
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 29","Toronto",N,N,"28",0,354,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 29","Toronto",N,N,"28",0,354,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 29","Toronto",N,N,"28",0,354,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 29","Toronto",N,N,"28",0,354,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 29","Toronto",N,N,"28",0,354,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 30","Toronto",N,N,"26",0,377,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 30","Toronto",N,N,"26",0,377,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 30","Toronto",N,N,"26",0,377,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 30","Toronto",N,N,"26",0,377,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 30","Toronto",N,N,"26",0,377,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 31","Toronto",N,N,"",3,603,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 31","Toronto",N,N,"",3,603,"Johnson","","Mark","Conservative","Conservateur",N,N,58
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 31","Toronto",N,N,"",3,603,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 31","Toronto",N,N,"",3,603,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 31","Toronto",N,N,"",3,603,"Yip","","Jean","Liberal","Libéral",Y,Y,98
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 32","Toronto",N,N,"",0,436,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 32","Toronto",N,N,"",0,436,"Johnson","","Mark","Conservative","Conservateur",N,N,59
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 32","Toronto",N,N,"",0,436,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 32","Toronto",N,N,"",0,436,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 32","Toronto",N,N,"",0,436,"Yip","","Jean","Liberal","Libéral",Y,Y,109
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 33","Toronto",N,N,"",0,360,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,7
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 33","Toronto",N,N,"",0,360,"Johnson","","Mark","Conservative","Conservateur",N,N,100
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 33","Toronto",N,N,"",0,360,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 33","Toronto",N,N,"",0,360,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 33","Toronto",N,N,"",0,360,"Yip","","Jean","Liberal","Libéral",Y,Y,137
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 34","Toronto",N,N,"33",0,336,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 34","Toronto",N,N,"33",0,336,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 34","Toronto",N,N,"33",0,336,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 34","Toronto",N,N,"33",0,336,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 34","Toronto",N,N,"33",0,336,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 35","Toronto",N,N,"38",0,317,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 35","Toronto",N,N,"38",0,317,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 35","Toronto",N,N,"38",0,317,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 35","Toronto",N,N,"38",0,317,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 35","Toronto",N,N,"38",0,317,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 36","Toronto",N,N,"37",0,360,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 36","Toronto",N,N,"37",0,360,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 36","Toronto",N,N,"37",0,360,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 36","Toronto",N,N,"37",0,360,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 36","Toronto",N,N,"37",0,360,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 37","Toronto",N,N,"",8,440,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,8
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 37","Toronto",N,N,"",8,440,"Johnson","","Mark","Conservative","Conservateur",N,N,74
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 37","Toronto",N,N,"",8,440,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 37","Toronto",N,N,"",8,440,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 37","Toronto",N,N,"",8,440,"Yip","","Jean","Liberal","Libéral",Y,Y,165
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 38","Toronto",N,N,"",3,318,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 38","Toronto",N,N,"",3,318,"Johnson","","Mark","Conservative","Conservateur",N,N,59
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 38","Toronto",N,N,"",3,318,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 38","Toronto",N,N,"",3,318,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,6
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 38","Toronto",N,N,"",3,318,"Yip","","Jean","Liberal","Libéral",Y,Y,127
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 39","Toronto",N,N,"",8,554,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,7
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 39","Toronto",N,N,"",8,554,"Johnson","","Mark","Conservative","Conservateur",N,N,35
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 39","Toronto",N,N,"",8,554,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 39","Toronto",N,N,"",8,554,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 39","Toronto",N,N,"",8,554,"Yip","","Jean","Liberal","Libéral",Y,Y,129
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 40","Toronto",N,N,"",1,425,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,1
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 40","Toronto",N,N,"",1,425,"Johnson","","Mark","Conservative","Conservateur",N,N,64
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 40","Toronto",N,N,"",1,425,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 40","Toronto",N,N,"",1,425,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 40","Toronto",N,N,"",1,425,"Yip","","Jean","Liberal","Libéral",Y,Y,102
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 41","Toronto",N,N,"417",0,321,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 41","Toronto",N,N,"417",0,321,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 41","Toronto",N,N,"417",0,321,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 41","Toronto",N,N,"417",0,321,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 41","Toronto",N,N,"417",0,321,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 42","Toronto",N,N,"",5,541,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 42","Toronto",N,N,"",5,541,"Johnson","","Mark","Conservative","Conservateur",N,N,45
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 42","Toronto",N,N,"",5,541,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 42","Toronto",N,N,"",5,541,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,7
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 42","Toronto",N,N,"",5,541,"Yip","","Jean","Liberal","Libéral",Y,Y,92
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 43","Toronto",N,N,"",2,479,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 43","Toronto",N,N,"",2,479,"Johnson","","Mark","Conservative","Conservateur",N,N,39
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 43","Toronto",N,N,"",2,479,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 43","Toronto",N,N,"",2,479,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 43","Toronto",N,N,"",2,479,"Yip","","Jean","Liberal","Libéral",Y,Y,57
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 44","Toronto",N,N,"47",0,388,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 44","Toronto",N,N,"47",0,388,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 44","Toronto",N,N,"47",0,388,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 44","Toronto",N,N,"47",0,388,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 44","Toronto",N,N,"47",0,388,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 45","Toronto",N,N,"",0,389,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 45","Toronto",N,N,"",0,389,"Johnson","","Mark","Conservative","Conservateur",N,N,73
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 45","Toronto",N,N,"",0,389,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 45","Toronto",N,N,"",0,389,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 45","Toronto",N,N,"",0,389,"Yip","","Jean","Liberal","Libéral",Y,Y,121
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 46","Toronto",N,N,"",3,440,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 46","Toronto",N,N,"",3,440,"Johnson","","Mark","Conservative","Conservateur",N,N,38
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 46","Toronto",N,N,"",3,440,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 46","Toronto",N,N,"",3,440,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 46","Toronto",N,N,"",3,440,"Yip","","Jean","Liberal","Libéral",Y,Y,59
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 47","Toronto",N,N,"",5,423,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,8
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 47","Toronto",N,N,"",5,423,"Johnson","","Mark","Conservative","Conservateur",N,N,109
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 47","Toronto",N,N,"",5,423,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 47","Toronto",N,N,"",5,423,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 47","Toronto",N,N,"",5,423,"Yip","","Jean","Liberal","Libéral",Y,Y,152
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 48","Toronto",N,N,"45",0,331,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 48","Toronto",N,N,"45",0,331,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 48","Toronto",N,N,"45",0,331,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 48","Toronto",N,N,"45",0,331,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 48","Toronto",N,N,"45",0,331,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 49","Toronto",N,N,"",1,435,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 49","Toronto",N,N,"",1,435,"Johnson","","Mark","Conservative","Conservateur",N,N,28
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 49","Toronto",N,N,"",1,435,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 49","Toronto",N,N,"",1,435,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 49","Toronto",N,N,"",1,435,"Yip","","Jean","Liberal","Libéral",Y,Y,67
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 50","Toronto",N,N,"",5,363,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 50","Toronto",N,N,"",5,363,"Johnson","","Mark","Conservative","Conservateur",N,N,68
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 50","Toronto",N,N,"",5,363,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 50","Toronto",N,N,"",5,363,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,7
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 50","Toronto",N,N,"",5,363,"Yip","","Jean","Liberal","Libéral",Y,Y,133
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 51","Toronto",N,N,"",3,363,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 51","Toronto",N,N,"",3,363,"Johnson","","Mark","Conservative","Conservateur",N,N,89
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 51","Toronto",N,N,"",3,363,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 51","Toronto",N,N,"",3,363,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,14
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 51","Toronto",N,N,"",3,363,"Yip","","Jean","Liberal","Libéral",Y,Y,121
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 52","Toronto",N,N,"",1,406,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 52","Toronto",N,N,"",1,406,"Johnson","","Mark","Conservative","Conservateur",N,N,49
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 52","Toronto",N,N,"",1,406,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 52","Toronto",N,N,"",1,406,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 52","Toronto",N,N,"",1,406,"Yip","","Jean","Liberal","Libéral",Y,Y,67
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 53","Toronto",N,N,"50",0,362,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 53","Toronto",N,N,"50",0,362,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 53","Toronto",N,N,"50",0,362,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 53","Toronto",N,N,"50",0,362,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 53","Toronto",N,N,"50",0,362,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 54","Toronto",N,N,"51",0,353,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 54","Toronto",N,N,"51",0,353,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 54","Toronto",N,N,"51",0,353,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 54","Toronto",N,N,"51",0,353,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 54","Toronto",N,N,"51",0,353,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 55","Toronto",N,N,"",0,495,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,6
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 55","Toronto",N,N,"",0,495,"Johnson","","Mark","Conservative","Conservateur",N,N,44
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 55","Toronto",N,N,"",0,495,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 55","Toronto",N,N,"",0,495,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,12
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 55","Toronto",N,N,"",0,495,"Yip","","Jean","Liberal","Libéral",Y,Y,102
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 56","Toronto",N,N,"",1,557,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 56","Toronto",N,N,"",1,557,"Johnson","","Mark","Conservative","Conservateur",N,N,60
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 56","Toronto",N,N,"",1,557,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 56","Toronto",N,N,"",1,557,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,6
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 56","Toronto",N,N,"",1,557,"Yip","","Jean","Liberal","Libéral",Y,Y,135
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 57","Toronto",N,N,"",4,446,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,7
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 57","Toronto",N,N,"",4,446,"Johnson","","Mark","Conservative","Conservateur",N,N,74
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 57","Toronto",N,N,"",4,446,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 57","Toronto",N,N,"",4,446,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 57","Toronto",N,N,"",4,446,"Yip","","Jean","Liberal","Libéral",Y,Y,207
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 58","Toronto",N,N,"57",0,389,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 58","Toronto",N,N,"57",0,389,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 58","Toronto",N,N,"57",0,389,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 58","Toronto",N,N,"57",0,389,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 58","Toronto",N,N,"57",0,389,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 59","Toronto",N,N,"",1,393,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 59","Toronto",N,N,"",1,393,"Johnson","","Mark","Conservative","Conservateur",N,N,28
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 59","Toronto",N,N,"",1,393,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 59","Toronto",N,N,"",1,393,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,6
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 59","Toronto",N,N,"",1,393,"Yip","","Jean","Liberal","Libéral",Y,Y,102
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 60","Toronto",N,N,"420",0,333,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 60","Toronto",N,N,"420",0,333,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 60","Toronto",N,N,"420",0,333,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 60","Toronto",N,N,"420",0,333,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 60","Toronto",N,N,"420",0,333,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 61","Toronto",N,N,"62",0,363,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 61","Toronto",N,N,"62",0,363,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 61","Toronto",N,N,"62",0,363,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 61","Toronto",N,N,"62",0,363,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 61","Toronto",N,N,"62",0,363,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 62","Toronto",N,N,"",0,369,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,9
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 62","Toronto",N,N,"",0,369,"Johnson","","Mark","Conservative","Conservateur",N,N,40
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 62","Toronto",N,N,"",0,369,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 62","Toronto",N,N,"",0,369,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,13
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 62","Toronto",N,N,"",0,369,"Yip","","Jean","Liberal","Libéral",Y,Y,186
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 63","Toronto",N,N,"68",0,344,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 63","Toronto",N,N,"68",0,344,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 63","Toronto",N,N,"68",0,344,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 63","Toronto",N,N,"68",0,344,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 63","Toronto",N,N,"68",0,344,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 64","Toronto",N,N,"",1,411,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 64","Toronto",N,N,"",1,411,"Johnson","","Mark","Conservative","Conservateur",N,N,21
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 64","Toronto",N,N,"",1,411,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 64","Toronto",N,N,"",1,411,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 64","Toronto",N,N,"",1,411,"Yip","","Jean","Liberal","Libéral",Y,Y,95
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 65","Toronto",N,N,"",2,458,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 65","Toronto",N,N,"",2,458,"Johnson","","Mark","Conservative","Conservateur",N,N,35
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 65","Toronto",N,N,"",2,458,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 65","Toronto",N,N,"",2,458,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,1
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 65","Toronto",N,N,"",2,458,"Yip","","Jean","Liberal","Libéral",Y,Y,70
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 66","Toronto",N,N,"78",0,328,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 66","Toronto",N,N,"78",0,328,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 66","Toronto",N,N,"78",0,328,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 66","Toronto",N,N,"78",0,328,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 66","Toronto",N,N,"78",0,328,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 67","Toronto",N,N,"",1,634,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 67","Toronto",N,N,"",1,634,"Johnson","","Mark","Conservative","Conservateur",N,N,50
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 67","Toronto",N,N,"",1,634,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 67","Toronto",N,N,"",1,634,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 67","Toronto",N,N,"",1,634,"Yip","","Jean","Liberal","Libéral",Y,Y,109
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 68","Toronto",N,N,"",1,394,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 68","Toronto",N,N,"",1,394,"Johnson","","Mark","Conservative","Conservateur",N,N,41
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 68","Toronto",N,N,"",1,394,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 68","Toronto",N,N,"",1,394,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,6
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 68","Toronto",N,N,"",1,394,"Yip","","Jean","Liberal","Libéral",Y,Y,114
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 69","Toronto",N,N,"",0,382,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 69","Toronto",N,N,"",0,382,"Johnson","","Mark","Conservative","Conservateur",N,N,26
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 69","Toronto",N,N,"",0,382,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 69","Toronto",N,N,"",0,382,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,6
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 69","Toronto",N,N,"",0,382,"Yip","","Jean","Liberal","Libéral",Y,Y,70
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 70","Toronto",N,N,"",1,436,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,6
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 70","Toronto",N,N,"",1,436,"Johnson","","Mark","Conservative","Conservateur",N,N,114
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 70","Toronto",N,N,"",1,436,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 70","Toronto",N,N,"",1,436,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,9
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 70","Toronto",N,N,"",1,436,"Yip","","Jean","Liberal","Libéral",Y,Y,165
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 71","Toronto",N,N,"",3,446,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,1
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 71","Toronto",N,N,"",3,446,"Johnson","","Mark","Conservative","Conservateur",N,N,78
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 71","Toronto",N,N,"",3,446,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 71","Toronto",N,N,"",3,446,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,8
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 71","Toronto",N,N,"",3,446,"Yip","","Jean","Liberal","Libéral",Y,Y,96
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 72","Toronto",N,N,"70",0,407,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 72","Toronto",N,N,"70",0,407,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 72","Toronto",N,N,"70",0,407,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 72","Toronto",N,N,"70",0,407,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 72","Toronto",N,N,"70",0,407,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 73","Toronto",N,N,"",0,355,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 73","Toronto",N,N,"",0,355,"Johnson","","Mark","Conservative","Conservateur",N,N,32
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 73","Toronto",N,N,"",0,355,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 73","Toronto",N,N,"",0,355,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 73","Toronto",N,N,"",0,355,"Yip","","Jean","Liberal","Libéral",Y,Y,66
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 74","Toronto",N,N,"",0,344,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 74","Toronto",N,N,"",0,344,"Johnson","","Mark","Conservative","Conservateur",N,N,30
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 74","Toronto",N,N,"",0,344,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 74","Toronto",N,N,"",0,344,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 74","Toronto",N,N,"",0,344,"Yip","","Jean","Liberal","Libéral",Y,Y,120
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 75","Toronto",N,N,"",2,485,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,1
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 75","Toronto",N,N,"",2,485,"Johnson","","Mark","Conservative","Conservateur",N,N,26
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 75","Toronto",N,N,"",2,485,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 75","Toronto",N,N,"",2,485,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 75","Toronto",N,N,"",2,485,"Yip","","Jean","Liberal","Libéral",Y,Y,68
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 76","Toronto",N,N,"",1,477,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,7
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 76","Toronto",N,N,"",1,477,"Johnson","","Mark","Conservative","Conservateur",N,N,57
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 76","Toronto",N,N,"",1,477,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 76","Toronto",N,N,"",1,477,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 76","Toronto",N,N,"",1,477,"Yip","","Jean","Liberal","Libéral",Y,Y,83
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 77","Toronto",N,N,"",3,419,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 77","Toronto",N,N,"",3,419,"Johnson","","Mark","Conservative","Conservateur",N,N,48
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 77","Toronto",N,N,"",3,419,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 77","Toronto",N,N,"",3,419,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,8
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 77","Toronto",N,N,"",3,419,"Yip","","Jean","Liberal","Libéral",Y,Y,61
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 78","Toronto",N,N,"",5,417,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,1
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 78","Toronto",N,N,"",5,417,"Johnson","","Mark","Conservative","Conservateur",N,N,74
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 78","Toronto",N,N,"",5,417,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 78","Toronto",N,N,"",5,417,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 78","Toronto",N,N,"",5,417,"Yip","","Jean","Liberal","Libéral",Y,Y,99
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 79","Toronto",N,N,"",1,410,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 79","Toronto",N,N,"",1,410,"Johnson","","Mark","Conservative","Conservateur",N,N,74
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 79","Toronto",N,N,"",1,410,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 79","Toronto",N,N,"",1,410,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 79","Toronto",N,N,"",1,410,"Yip","","Jean","Liberal","Libéral",Y,Y,127
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 80","Toronto",N,N,"436",0,247,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 80","Toronto",N,N,"436",0,247,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 80","Toronto",N,N,"436",0,247,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 80","Toronto",N,N,"436",0,247,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 80","Toronto",N,N,"436",0,247,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 81","Toronto",N,N,"",11,624,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,8
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 81","Toronto",N,N,"",11,624,"Johnson","","Mark","Conservative","Conservateur",N,N,147
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 81","Toronto",N,N,"",11,624,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 81","Toronto",N,N,"",11,624,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,12
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 81","Toronto",N,N,"",11,624,"Yip","","Jean","Liberal","Libéral",Y,Y,273
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 82","Toronto",N,N,"438",0,272,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 82","Toronto",N,N,"438",0,272,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 82","Toronto",N,N,"438",0,272,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 82","Toronto",N,N,"438",0,272,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 82","Toronto",N,N,"438",0,272,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 83","Toronto",N,N,"",3,502,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,1
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 83","Toronto",N,N,"",3,502,"Johnson","","Mark","Conservative","Conservateur",N,N,31
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 83","Toronto",N,N,"",3,502,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 83","Toronto",N,N,"",3,502,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,6
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 83","Toronto",N,N,"",3,502,"Yip","","Jean","Liberal","Libéral",Y,Y,68
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 84","Toronto",N,N,"",2,955,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 84","Toronto",N,N,"",2,955,"Johnson","","Mark","Conservative","Conservateur",N,N,68
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 84","Toronto",N,N,"",2,955,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 84","Toronto",N,N,"",2,955,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,10
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 84","Toronto",N,N,"",2,955,"Yip","","Jean","Liberal","Libéral",Y,Y,165
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 85","Toronto",N,N,"",2,470,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 85","Toronto",N,N,"",2,470,"Johnson","","Mark","Conservative","Conservateur",N,N,17
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 85","Toronto",N,N,"",2,470,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 85","Toronto",N,N,"",2,470,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 85","Toronto",N,N,"",2,470,"Yip","","Jean","Liberal","Libéral",Y,Y,85
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 86","Toronto",N,N,"",1,438,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,1
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 86","Toronto",N,N,"",1,438,"Johnson","","Mark","Conservative","Conservateur",N,N,39
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 86","Toronto",N,N,"",1,438,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 86","Toronto",N,N,"",1,438,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 86","Toronto",N,N,"",1,438,"Yip","","Jean","Liberal","Libéral",Y,Y,47
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 87","Toronto",N,N,"",1,513,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 87","Toronto",N,N,"",1,513,"Johnson","","Mark","Conservative","Conservateur",N,N,25
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 87","Toronto",N,N,"",1,513,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 87","Toronto",N,N,"",1,513,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 87","Toronto",N,N,"",1,513,"Yip","","Jean","Liberal","Libéral",Y,Y,78
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 88","Toronto",N,N,"",10,339,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 88","Toronto",N,N,"",10,339,"Johnson","","Mark","Conservative","Conservateur",N,N,46
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 88","Toronto",N,N,"",10,339,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 88","Toronto",N,N,"",10,339,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 88","Toronto",N,N,"",10,339,"Yip","","Jean","Liberal","Libéral",Y,Y,101
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 89","Toronto",N,N,"",6,412,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 89","Toronto",N,N,"",6,412,"Johnson","","Mark","Conservative","Conservateur",N,N,48
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 89","Toronto",N,N,"",6,412,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 89","Toronto",N,N,"",6,412,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 89","Toronto",N,N,"",6,412,"Yip","","Jean","Liberal","Libéral",Y,Y,141
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 90","Toronto",N,N,"89",0,377,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 90","Toronto",N,N,"89",0,377,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 90","Toronto",N,N,"89",0,377,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 90","Toronto",N,N,"89",0,377,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 90","Toronto",N,N,"89",0,377,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 91","Toronto",N,N,"",3,303,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 91","Toronto",N,N,"",3,303,"Johnson","","Mark","Conservative","Conservateur",N,N,74
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 91","Toronto",N,N,"",3,303,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 91","Toronto",N,N,"",3,303,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,9
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 91","Toronto",N,N,"",3,303,"Yip","","Jean","Liberal","Libéral",Y,Y,106
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 92","Toronto",N,N,"95",0,409,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 92","Toronto",N,N,"95",0,409,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 92","Toronto",N,N,"95",0,409,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 92","Toronto",N,N,"95",0,409,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 92","Toronto",N,N,"95",0,409,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 93","Toronto",N,N,"91",0,287,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 93","Toronto",N,N,"91",0,287,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 93","Toronto",N,N,"91",0,287,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 93","Toronto",N,N,"91",0,287,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 93","Toronto",N,N,"91",0,287,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 94","Toronto",N,N,"96",0,340,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 94","Toronto",N,N,"96",0,340,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 94","Toronto",N,N,"96",0,340,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 94","Toronto",N,N,"96",0,340,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 94","Toronto",N,N,"96",0,340,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 95","Toronto",N,N,"",3,452,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 95","Toronto",N,N,"",3,452,"Johnson","","Mark","Conservative","Conservateur",N,N,111
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 95","Toronto",N,N,"",3,452,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 95","Toronto",N,N,"",3,452,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,10
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 95","Toronto",N,N,"",3,452,"Yip","","Jean","Liberal","Libéral",Y,Y,162
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 96","Toronto",N,N,"",4,371,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 96","Toronto",N,N,"",4,371,"Johnson","","Mark","Conservative","Conservateur",N,N,105
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 96","Toronto",N,N,"",4,371,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 96","Toronto",N,N,"",4,371,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,12
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 96","Toronto",N,N,"",4,371,"Yip","","Jean","Liberal","Libéral",Y,Y,106
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 97","Toronto",N,N,"",3,531,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,1
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 97","Toronto",N,N,"",3,531,"Johnson","","Mark","Conservative","Conservateur",N,N,50
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 97","Toronto",N,N,"",3,531,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 97","Toronto",N,N,"",3,531,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,6
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 97","Toronto",N,N,"",3,531,"Yip","","Jean","Liberal","Libéral",Y,Y,88
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 98","Toronto",N,N,"",3,528,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 98","Toronto",N,N,"",3,528,"Johnson","","Mark","Conservative","Conservateur",N,N,25
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 98","Toronto",N,N,"",3,528,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 98","Toronto",N,N,"",3,528,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 98","Toronto",N,N,"",3,528,"Yip","","Jean","Liberal","Libéral",Y,Y,66
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 99","Toronto",N,N,"",5,1006,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,8
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 99","Toronto",N,N,"",5,1006,"Johnson","","Mark","Conservative","Conservateur",N,N,81
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 99","Toronto",N,N,"",5,1006,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 99","Toronto",N,N,"",5,1006,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,8
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 99","Toronto",N,N,"",5,1006,"Yip","","Jean","Liberal","Libéral",Y,Y,164
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 100","Toronto",N,N,"105",0,349,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 100","Toronto",N,N,"105",0,349,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 100","Toronto",N,N,"105",0,349,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 100","Toronto",N,N,"105",0,349,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 100","Toronto",N,N,"105",0,349,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 101","Toronto",N,N,"103",0,362,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 101","Toronto",N,N,"103",0,362,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 101","Toronto",N,N,"103",0,362,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 101","Toronto",N,N,"103",0,362,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 101","Toronto",N,N,"103",0,362,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 102","Toronto",N,N,"104",0,428,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 102","Toronto",N,N,"104",0,428,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 102","Toronto",N,N,"104",0,428,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 102","Toronto",N,N,"104",0,428,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 102","Toronto",N,N,"104",0,428,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 103","Toronto",N,N,"",4,408,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,10
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 103","Toronto",N,N,"",4,408,"Johnson","","Mark","Conservative","Conservateur",N,N,73
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 103","Toronto",N,N,"",4,408,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 103","Toronto",N,N,"",4,408,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,10
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 103","Toronto",N,N,"",4,408,"Yip","","Jean","Liberal","Libéral",Y,Y,169
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 104","Toronto",N,N,"",5,434,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,1
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 104","Toronto",N,N,"",5,434,"Johnson","","Mark","Conservative","Conservateur",N,N,83
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 104","Toronto",N,N,"",5,434,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 104","Toronto",N,N,"",5,434,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,11
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 104","Toronto",N,N,"",5,434,"Yip","","Jean","Liberal","Libéral",Y,Y,141
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 105","Toronto",N,N,"",3,353,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,9
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 105","Toronto",N,N,"",3,353,"Johnson","","Mark","Conservative","Conservateur",N,N,56
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 105","Toronto",N,N,"",3,353,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 105","Toronto",N,N,"",3,353,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,7
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 105","Toronto",N,N,"",3,353,"Yip","","Jean","Liberal","Libéral",Y,Y,151
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 106","Toronto",N,N,"444",0,108,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 106","Toronto",N,N,"444",0,108,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 106","Toronto",N,N,"444",0,108,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 106","Toronto",N,N,"444",0,108,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 106","Toronto",N,N,"444",0,108,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 107","Toronto",N,N,"112",0,443,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 107","Toronto",N,N,"112",0,443,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 107","Toronto",N,N,"112",0,443,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 107","Toronto",N,N,"112",0,443,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 107","Toronto",N,N,"112",0,443,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 108","Toronto",N,N,"",4,484,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 108","Toronto",N,N,"",4,484,"Johnson","","Mark","Conservative","Conservateur",N,N,99
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 108","Toronto",N,N,"",4,484,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 108","Toronto",N,N,"",4,484,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,8
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 108","Toronto",N,N,"",4,484,"Yip","","Jean","Liberal","Libéral",Y,Y,94
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 109","Toronto",N,N,"",3,587,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 109","Toronto",N,N,"",3,587,"Johnson","","Mark","Conservative","Conservateur",N,N,55
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 109","Toronto",N,N,"",3,587,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 109","Toronto",N,N,"",3,587,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,12
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 109","Toronto",N,N,"",3,587,"Yip","","Jean","Liberal","Libéral",Y,Y,132
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 110","Toronto",N,N,"",1,483,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 110","Toronto",N,N,"",1,483,"Johnson","","Mark","Conservative","Conservateur",N,N,32
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 110","Toronto",N,N,"",1,483,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 110","Toronto",N,N,"",1,483,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,6
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 110","Toronto",N,N,"",1,483,"Yip","","Jean","Liberal","Libéral",Y,Y,58
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 111","Toronto",N,N,"",3,518,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,1
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 111","Toronto",N,N,"",3,518,"Johnson","","Mark","Conservative","Conservateur",N,N,13
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 111","Toronto",N,N,"",3,518,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 111","Toronto",N,N,"",3,518,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 111","Toronto",N,N,"",3,518,"Yip","","Jean","Liberal","Libéral",Y,Y,65
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 112","Toronto",N,N,"",1,450,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 112","Toronto",N,N,"",1,450,"Johnson","","Mark","Conservative","Conservateur",N,N,94
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 112","Toronto",N,N,"",1,450,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 112","Toronto",N,N,"",1,450,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,7
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 112","Toronto",N,N,"",1,450,"Yip","","Jean","Liberal","Libéral",Y,Y,187
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 113","Toronto",N,N,"",1,410,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 113","Toronto",N,N,"",1,410,"Johnson","","Mark","Conservative","Conservateur",N,N,57
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 113","Toronto",N,N,"",1,410,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 113","Toronto",N,N,"",1,410,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,1
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 113","Toronto",N,N,"",1,410,"Yip","","Jean","Liberal","Libéral",Y,Y,70
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 114","Toronto",N,N,"",0,414,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,1
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 114","Toronto",N,N,"",0,414,"Johnson","","Mark","Conservative","Conservateur",N,N,53
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 114","Toronto",N,N,"",0,414,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 114","Toronto",N,N,"",0,414,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,7
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 114","Toronto",N,N,"",0,414,"Yip","","Jean","Liberal","Libéral",Y,Y,83
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 115","Toronto",N,N,"",4,535,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 115","Toronto",N,N,"",4,535,"Johnson","","Mark","Conservative","Conservateur",N,N,56
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 115","Toronto",N,N,"",4,535,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 115","Toronto",N,N,"",4,535,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,10
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 115","Toronto",N,N,"",4,535,"Yip","","Jean","Liberal","Libéral",Y,Y,114
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 116","Toronto",N,N,"117",0,356,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 116","Toronto",N,N,"117",0,356,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 116","Toronto",N,N,"117",0,356,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 116","Toronto",N,N,"117",0,356,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 116","Toronto",N,N,"117",0,356,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 117","Toronto",N,N,"",2,366,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,8
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 117","Toronto",N,N,"",2,366,"Johnson","","Mark","Conservative","Conservateur",N,N,81
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 117","Toronto",N,N,"",2,366,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 117","Toronto",N,N,"",2,366,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,7
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 117","Toronto",N,N,"",2,366,"Yip","","Jean","Liberal","Libéral",Y,Y,144
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 118","Toronto",N,N,"",2,358,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,7
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 118","Toronto",N,N,"",2,358,"Johnson","","Mark","Conservative","Conservateur",N,N,75
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 118","Toronto",N,N,"",2,358,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 118","Toronto",N,N,"",2,358,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 118","Toronto",N,N,"",2,358,"Yip","","Jean","Liberal","Libéral",Y,Y,173
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 119","Toronto",N,N,"118",0,337,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 119","Toronto",N,N,"118",0,337,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 119","Toronto",N,N,"118",0,337,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 119","Toronto",N,N,"118",0,337,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 119","Toronto",N,N,"118",0,337,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 120","Toronto",N,N,"",0,485,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 120","Toronto",N,N,"",0,485,"Johnson","","Mark","Conservative","Conservateur",N,N,37
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 120","Toronto",N,N,"",0,485,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 120","Toronto",N,N,"",0,485,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 120","Toronto",N,N,"",0,485,"Yip","","Jean","Liberal","Libéral",Y,Y,109
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 121","Toronto",N,N,"123",0,284,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 121","Toronto",N,N,"123",0,284,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 121","Toronto",N,N,"123",0,284,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 121","Toronto",N,N,"123",0,284,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 121","Toronto",N,N,"123",0,284,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 122","Toronto",N,N,"",7,417,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 122","Toronto",N,N,"",7,417,"Johnson","","Mark","Conservative","Conservateur",N,N,114
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 122","Toronto",N,N,"",7,417,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 122","Toronto",N,N,"",7,417,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,13
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 122","Toronto",N,N,"",7,417,"Yip","","Jean","Liberal","Libéral",Y,Y,199
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 123","Toronto",N,N,"",3,319,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,9
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 123","Toronto",N,N,"",3,319,"Johnson","","Mark","Conservative","Conservateur",N,N,92
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 123","Toronto",N,N,"",3,319,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 123","Toronto",N,N,"",3,319,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,9
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 123","Toronto",N,N,"",3,319,"Yip","","Jean","Liberal","Libéral",Y,Y,145
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 124","Toronto",N,N,"122",0,368,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 124","Toronto",N,N,"122",0,368,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 124","Toronto",N,N,"122",0,368,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 124","Toronto",N,N,"122",0,368,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 124","Toronto",N,N,"122",0,368,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 125","Toronto",N,N,"",1,575,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 125","Toronto",N,N,"",1,575,"Johnson","","Mark","Conservative","Conservateur",N,N,57
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 125","Toronto",N,N,"",1,575,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 125","Toronto",N,N,"",1,575,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,6
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 125","Toronto",N,N,"",1,575,"Yip","","Jean","Liberal","Libéral",Y,Y,88
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 126","Toronto",N,N,"",2,438,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 126","Toronto",N,N,"",2,438,"Johnson","","Mark","Conservative","Conservateur",N,N,47
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 126","Toronto",N,N,"",2,438,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 126","Toronto",N,N,"",2,438,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,6
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 126","Toronto",N,N,"",2,438,"Yip","","Jean","Liberal","Libéral",Y,Y,68
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 127","Toronto",N,N,"",1,450,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 127","Toronto",N,N,"",1,450,"Johnson","","Mark","Conservative","Conservateur",N,N,65
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 127","Toronto",N,N,"",1,450,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 127","Toronto",N,N,"",1,450,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 127","Toronto",N,N,"",1,450,"Yip","","Jean","Liberal","Libéral",Y,Y,62
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 400","Toronto",N,N,"",1,437,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,9
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 400","Toronto",N,N,"",1,437,"Johnson","","Mark","Conservative","Conservateur",N,N,54
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 400","Toronto",N,N,"",1,437,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 400","Toronto",N,N,"",1,437,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 400","Toronto",N,N,"",1,437,"Yip","","Jean","Liberal","Libéral",Y,Y,106
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 401","Toronto",N,N,"400",0,392,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 401","Toronto",N,N,"400",0,392,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 401","Toronto",N,N,"400",0,392,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 401","Toronto",N,N,"400",0,392,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 401","Toronto",N,N,"400",0,392,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 402","Toronto",N,N,"",0,326,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 402","Toronto",N,N,"",0,326,"Johnson","","Mark","Conservative","Conservateur",N,N,42
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 402","Toronto",N,N,"",0,326,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 402","Toronto",N,N,"",0,326,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 402","Toronto",N,N,"",0,326,"Yip","","Jean","Liberal","Libéral",Y,Y,104
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 403","Toronto",N,N,"",1,466,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 403","Toronto",N,N,"",1,466,"Johnson","","Mark","Conservative","Conservateur",N,N,69
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 403","Toronto",N,N,"",1,466,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 403","Toronto",N,N,"",1,466,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 403","Toronto",N,N,"",1,466,"Yip","","Jean","Liberal","Libéral",Y,Y,86
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 404","Toronto",N,N,"",2,472,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 404","Toronto",N,N,"",2,472,"Johnson","","Mark","Conservative","Conservateur",N,N,54
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 404","Toronto",N,N,"",2,472,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 404","Toronto",N,N,"",2,472,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 404","Toronto",N,N,"",2,472,"Yip","","Jean","Liberal","Libéral",Y,Y,110
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 405","Toronto",N,N,"",0,462,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 405","Toronto",N,N,"",0,462,"Johnson","","Mark","Conservative","Conservateur",N,N,61
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 405","Toronto",N,N,"",0,462,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 405","Toronto",N,N,"",0,462,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 405","Toronto",N,N,"",0,462,"Yip","","Jean","Liberal","Libéral",Y,Y,118
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 406","Toronto",N,N,"408",0,345,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 406","Toronto",N,N,"408",0,345,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 406","Toronto",N,N,"408",0,345,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 406","Toronto",N,N,"408",0,345,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 406","Toronto",N,N,"408",0,345,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 407","Toronto",N,N,"",2,421,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,6
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 407","Toronto",N,N,"",2,421,"Johnson","","Mark","Conservative","Conservateur",N,N,77
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 407","Toronto",N,N,"",2,421,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 407","Toronto",N,N,"",2,421,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 407","Toronto",N,N,"",2,421,"Yip","","Jean","Liberal","Libéral",Y,Y,107
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 408","Toronto",N,N,"",1,356,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,9
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 408","Toronto",N,N,"",1,356,"Johnson","","Mark","Conservative","Conservateur",N,N,111
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 408","Toronto",N,N,"",1,356,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 408","Toronto",N,N,"",1,356,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 408","Toronto",N,N,"",1,356,"Yip","","Jean","Liberal","Libéral",Y,Y,181
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 409","Toronto",N,N,"",5,557,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,6
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 409","Toronto",N,N,"",5,557,"Johnson","","Mark","Conservative","Conservateur",N,N,103
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 409","Toronto",N,N,"",5,557,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 409","Toronto",N,N,"",5,557,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 409","Toronto",N,N,"",5,557,"Yip","","Jean","Liberal","Libéral",Y,Y,123
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 410","Toronto",N,N,"",3,356,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 410","Toronto",N,N,"",3,356,"Johnson","","Mark","Conservative","Conservateur",N,N,50
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 410","Toronto",N,N,"",3,356,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 410","Toronto",N,N,"",3,356,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 410","Toronto",N,N,"",3,356,"Yip","","Jean","Liberal","Libéral",Y,Y,103
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 411","Toronto",N,N,"",1,112,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,1
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 411","Toronto",N,N,"",1,112,"Johnson","","Mark","Conservative","Conservateur",N,N,14
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 411","Toronto",N,N,"",1,112,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 411","Toronto",N,N,"",1,112,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,1
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 411","Toronto",N,N,"",1,112,"Yip","","Jean","Liberal","Libéral",Y,Y,24
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 412","Toronto",N,N,"435",0,362,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 412","Toronto",N,N,"435",0,362,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 412","Toronto",N,N,"435",0,362,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 412","Toronto",N,N,"435",0,362,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 412","Toronto",N,N,"435",0,362,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 413","Toronto",N,N,"79",0,330,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 413","Toronto",N,N,"79",0,330,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 413","Toronto",N,N,"79",0,330,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 413","Toronto",N,N,"79",0,330,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 413","Toronto",N,N,"79",0,330,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 414","Toronto",N,N,"",4,467,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 414","Toronto",N,N,"",4,467,"Johnson","","Mark","Conservative","Conservateur",N,N,86
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 414","Toronto",N,N,"",4,467,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 414","Toronto",N,N,"",4,467,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,6
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 414","Toronto",N,N,"",4,467,"Yip","","Jean","Liberal","Libéral",Y,Y,155
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 415","Toronto",N,N,"",3,447,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 415","Toronto",N,N,"",3,447,"Johnson","","Mark","Conservative","Conservateur",N,N,89
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 415","Toronto",N,N,"",3,447,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 415","Toronto",N,N,"",3,447,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,7
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 415","Toronto",N,N,"",3,447,"Yip","","Jean","Liberal","Libéral",Y,Y,134
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 416","Toronto",N,N,"",0,489,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 416","Toronto",N,N,"",0,489,"Johnson","","Mark","Conservative","Conservateur",N,N,38
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 416","Toronto",N,N,"",0,489,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 416","Toronto",N,N,"",0,489,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 416","Toronto",N,N,"",0,489,"Yip","","Jean","Liberal","Libéral",Y,Y,124
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 417","Toronto",N,N,"",4,485,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,8
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 417","Toronto",N,N,"",4,485,"Johnson","","Mark","Conservative","Conservateur",N,N,78
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 417","Toronto",N,N,"",4,485,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 417","Toronto",N,N,"",4,485,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,11
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 417","Toronto",N,N,"",4,485,"Yip","","Jean","Liberal","Libéral",Y,Y,189
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 418","Toronto",N,N,"419",0,289,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 418","Toronto",N,N,"419",0,289,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 418","Toronto",N,N,"419",0,289,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 418","Toronto",N,N,"419",0,289,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 418","Toronto",N,N,"419",0,289,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 419","Toronto",N,N,"",2,319,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 419","Toronto",N,N,"",2,319,"Johnson","","Mark","Conservative","Conservateur",N,N,73
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 419","Toronto",N,N,"",2,319,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 419","Toronto",N,N,"",2,319,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,7
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 419","Toronto",N,N,"",2,319,"Yip","","Jean","Liberal","Libéral",Y,Y,165
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 420","Toronto",N,N,"",4,384,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,7
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 420","Toronto",N,N,"",4,384,"Johnson","","Mark","Conservative","Conservateur",N,N,72
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 420","Toronto",N,N,"",4,384,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 420","Toronto",N,N,"",4,384,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,12
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 420","Toronto",N,N,"",4,384,"Yip","","Jean","Liberal","Libéral",Y,Y,160
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 421","Toronto",N,N,"18",0,289,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 421","Toronto",N,N,"18",0,289,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 421","Toronto",N,N,"18",0,289,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 421","Toronto",N,N,"18",0,289,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 421","Toronto",N,N,"18",0,289,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 422","Toronto",N,N,"40",0,304,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 422","Toronto",N,N,"40",0,304,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 422","Toronto",N,N,"40",0,304,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 422","Toronto",N,N,"40",0,304,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 422","Toronto",N,N,"40",0,304,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 423","Toronto",N,N,"",4,254,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 423","Toronto",N,N,"",4,254,"Johnson","","Mark","Conservative","Conservateur",N,N,38
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 423","Toronto",N,N,"",4,254,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 423","Toronto",N,N,"",4,254,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,6
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 423","Toronto",N,N,"",4,254,"Yip","","Jean","Liberal","Libéral",Y,Y,97
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 424","Toronto",N,N,"",8,302,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,6
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 424","Toronto",N,N,"",8,302,"Johnson","","Mark","Conservative","Conservateur",N,N,146
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 424","Toronto",N,N,"",8,302,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 424","Toronto",N,N,"",8,302,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,24
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 424","Toronto",N,N,"",8,302,"Yip","","Jean","Liberal","Libéral",Y,Y,223
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 425","Toronto",N,N,"424",0,281,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 425","Toronto",N,N,"424",0,281,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 425","Toronto",N,N,"424",0,281,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 425","Toronto",N,N,"424",0,281,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 425","Toronto",N,N,"424",0,281,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 426","Toronto",N,N,"424",0,287,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 426","Toronto",N,N,"424",0,287,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 426","Toronto",N,N,"424",0,287,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 426","Toronto",N,N,"424",0,287,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 426","Toronto",N,N,"424",0,287,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 427","Toronto",N,N,"",0,251,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 427","Toronto",N,N,"",0,251,"Johnson","","Mark","Conservative","Conservateur",N,N,27
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 427","Toronto",N,N,"",0,251,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 427","Toronto",N,N,"",0,251,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 427","Toronto",N,N,"",0,251,"Yip","","Jean","Liberal","Libéral",Y,Y,56
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 428","Toronto",N,N,"427",0,243,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 428","Toronto",N,N,"427",0,243,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 428","Toronto",N,N,"427",0,243,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 428","Toronto",N,N,"427",0,243,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 428","Toronto",N,N,"427",0,243,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 429","Toronto",N,N,"430",0,215,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 429","Toronto",N,N,"430",0,215,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 429","Toronto",N,N,"430",0,215,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 429","Toronto",N,N,"430",0,215,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 429","Toronto",N,N,"430",0,215,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 430","Toronto",N,N,"",0,246,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 430","Toronto",N,N,"",0,246,"Johnson","","Mark","Conservative","Conservateur",N,N,16
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 430","Toronto",N,N,"",0,246,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 430","Toronto",N,N,"",0,246,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 430","Toronto",N,N,"",0,246,"Yip","","Jean","Liberal","Libéral",Y,Y,59
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 431","Toronto",N,N,"69",0,201,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 431","Toronto",N,N,"69",0,201,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 431","Toronto",N,N,"69",0,201,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 431","Toronto",N,N,"69",0,201,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 431","Toronto",N,N,"69",0,201,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 432","Toronto",N,N,"74",0,261,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 432","Toronto",N,N,"74",0,261,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 432","Toronto",N,N,"74",0,261,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 432","Toronto",N,N,"74",0,261,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 432","Toronto",N,N,"74",0,261,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 433","Toronto",N,N,"434",0,201,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 433","Toronto",N,N,"434",0,201,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 433","Toronto",N,N,"434",0,201,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 433","Toronto",N,N,"434",0,201,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 433","Toronto",N,N,"434",0,201,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 434","Toronto",N,N,"",2,247,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 434","Toronto",N,N,"",2,247,"Johnson","","Mark","Conservative","Conservateur",N,N,21
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 434","Toronto",N,N,"",2,247,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 434","Toronto",N,N,"",2,247,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,7
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 434","Toronto",N,N,"",2,247,"Yip","","Jean","Liberal","Libéral",Y,Y,86
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 435","Toronto",N,N,"",2,366,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 435","Toronto",N,N,"",2,366,"Johnson","","Mark","Conservative","Conservateur",N,N,55
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 435","Toronto",N,N,"",2,366,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 435","Toronto",N,N,"",2,366,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 435","Toronto",N,N,"",2,366,"Yip","","Jean","Liberal","Libéral",Y,Y,121
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 436","Toronto",N,N,"",2,497,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,6
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 436","Toronto",N,N,"",2,497,"Johnson","","Mark","Conservative","Conservateur",N,N,91
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 436","Toronto",N,N,"",2,497,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 436","Toronto",N,N,"",2,497,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 436","Toronto",N,N,"",2,497,"Yip","","Jean","Liberal","Libéral",Y,Y,201
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 437","Toronto",N,N,"81",0,351,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 437","Toronto",N,N,"81",0,351,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 437","Toronto",N,N,"81",0,351,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 437","Toronto",N,N,"81",0,351,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 437","Toronto",N,N,"81",0,351,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 438","Toronto",N,N,"",1,343,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 438","Toronto",N,N,"",1,343,"Johnson","","Mark","Conservative","Conservateur",N,N,52
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 438","Toronto",N,N,"",1,343,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 438","Toronto",N,N,"",1,343,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 438","Toronto",N,N,"",1,343,"Yip","","Jean","Liberal","Libéral",Y,Y,105
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 439","Toronto",N,N,"438",0,185,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 439","Toronto",N,N,"438",0,185,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 439","Toronto",N,N,"438",0,185,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 439","Toronto",N,N,"438",0,185,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 439","Toronto",N,N,"438",0,185,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 440","Toronto",N,N,"",1,293,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 440","Toronto",N,N,"",1,293,"Johnson","","Mark","Conservative","Conservateur",N,N,85
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 440","Toronto",N,N,"",1,293,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 440","Toronto",N,N,"",1,293,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,6
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 440","Toronto",N,N,"",1,293,"Yip","","Jean","Liberal","Libéral",Y,Y,95
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 441","Toronto",N,N,"",2,129,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,1
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 441","Toronto",N,N,"",2,129,"Johnson","","Mark","Conservative","Conservateur",N,N,46
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 441","Toronto",N,N,"",2,129,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 441","Toronto",N,N,"",2,129,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 441","Toronto",N,N,"",2,129,"Yip","","Jean","Liberal","Libéral",Y,Y,38
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 442","Toronto",N,N,"",20,280,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,4
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 442","Toronto",N,N,"",20,280,"Johnson","","Mark","Conservative","Conservateur",N,N,43
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 442","Toronto",N,N,"",20,280,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 442","Toronto",N,N,"",20,280,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,7
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 442","Toronto",N,N,"",20,280,"Yip","","Jean","Liberal","Libéral",Y,Y,82
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 443","Toronto",N,N,"88",0,327,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 443","Toronto",N,N,"88",0,327,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 443","Toronto",N,N,"88",0,327,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 443","Toronto",N,N,"88",0,327,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 443","Toronto",N,N,"88",0,327,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 444","Toronto",N,N,"",6,432,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,6
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 444","Toronto",N,N,"",6,432,"Johnson","","Mark","Conservative","Conservateur",N,N,95
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 444","Toronto",N,N,"",6,432,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 444","Toronto",N,N,"",6,432,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,14
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 444","Toronto",N,N,"",6,432,"Yip","","Jean","Liberal","Libéral",Y,Y,211
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 445","Toronto",N,N,"444",0,392,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 445","Toronto",N,N,"444",0,392,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 445","Toronto",N,N,"444",0,392,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 445","Toronto",N,N,"444",0,392,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 445","Toronto",N,N,"444",0,392,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 446","Toronto",N,N,"",0,259,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,5
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 446","Toronto",N,N,"",0,259,"Johnson","","Mark","Conservative","Conservateur",N,N,67
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 446","Toronto",N,N,"",0,259,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 446","Toronto",N,N,"",0,259,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,6
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 446","Toronto",N,N,"",0,259,"Yip","","Jean","Liberal","Libéral",Y,Y,141
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 447","Toronto",N,N,"446",0,251,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 447","Toronto",N,N,"446",0,251,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 447","Toronto",N,N,"446",0,251,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 447","Toronto",N,N,"446",0,251,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 447","Toronto",N,N,"446",0,251,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 448","Toronto",N,N,"113",0,265,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 448","Toronto",N,N,"113",0,265,"Johnson","","Mark","Conservative","Conservateur",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 448","Toronto",N,N,"113",0,265,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 448","Toronto",N,N,"113",0,265,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 448","Toronto",N,N,"113",0,265,"Yip","","Jean","Liberal","Libéral",Y,Y,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 500","Mobile poll/Bureau itinérant",N,N,"",1,90,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 500","Mobile poll/Bureau itinérant",N,N,"",1,90,"Johnson","","Mark","Conservative","Conservateur",N,N,8
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 500","Mobile poll/Bureau itinérant",N,N,"",1,90,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 500","Mobile poll/Bureau itinérant",N,N,"",1,90,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 500","Mobile poll/Bureau itinérant",N,N,"",1,90,"Yip","","Jean","Liberal","Libéral",Y,Y,19
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 501","Mobile poll/Bureau itinérant",N,N,"",0,160,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,1
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 501","Mobile poll/Bureau itinérant",N,N,"",0,160,"Johnson","","Mark","Conservative","Conservateur",N,N,7
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 501","Mobile poll/Bureau itinérant",N,N,"",0,160,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 501","Mobile poll/Bureau itinérant",N,N,"",0,160,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,1
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 501","Mobile poll/Bureau itinérant",N,N,"",0,160,"Yip","","Jean","Liberal","Libéral",Y,Y,84
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 502","Mobile poll/Bureau itinérant",N,N,"",0,113,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 502","Mobile poll/Bureau itinérant",N,N,"",0,113,"Johnson","","Mark","Conservative","Conservateur",N,N,22
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 502","Mobile poll/Bureau itinérant",N,N,"",0,113,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 502","Mobile poll/Bureau itinérant",N,N,"",0,113,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,1
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 502","Mobile poll/Bureau itinérant",N,N,"",0,113,"Yip","","Jean","Liberal","Libéral",Y,Y,28
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 503","Mobile poll/Bureau itinérant",N,N,"",1,77,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,1
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 503","Mobile poll/Bureau itinérant",N,N,"",1,77,"Johnson","","Mark","Conservative","Conservateur",N,N,15
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 503","Mobile poll/Bureau itinérant",N,N,"",1,77,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 503","Mobile poll/Bureau itinérant",N,N,"",1,77,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,0
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 503","Mobile poll/Bureau itinérant",N,N,"",1,77,"Yip","","Jean","Liberal","Libéral",Y,Y,22
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 600","Toronto",N,N,"",5,0,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,10
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 600","Toronto",N,N,"",5,0,"Johnson","","Mark","Conservative","Conservateur",N,N,180
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 600","Toronto",N,N,"",5,0,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 600","Toronto",N,N,"",5,0,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,9
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 600","Toronto",N,N,"",5,0,"Yip","","Jean","Liberal","Libéral",Y,Y,311
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 601","Toronto",N,N,"",4,0,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,18
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 601","Toronto",N,N,"",4,0,"Johnson","","Mark","Conservative","Conservateur",N,N,295
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 601","Toronto",N,N,"",4,0,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 601","Toronto",N,N,"",4,0,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,31
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 601","Toronto",N,N,"",4,0,"Yip","","Jean","Liberal","Libéral",Y,Y,558
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 602","Toronto",N,N,"",3,0,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,9
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 602","Toronto",N,N,"",3,0,"Johnson","","Mark","Conservative","Conservateur",N,N,171
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 602","Toronto",N,N,"",3,0,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 602","Toronto",N,N,"",3,0,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,18
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 602","Toronto",N,N,"",3,0,"Yip","","Jean","Liberal","Libéral",Y,Y,464
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 603","Toronto",N,N,"",0,0,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,7
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 603","Toronto",N,N,"",0,0,"Johnson","","Mark","Conservative","Conservateur",N,N,230
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 603","Toronto",N,N,"",0,0,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 603","Toronto",N,N,"",0,0,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,10
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 603","Toronto",N,N,"",0,0,"Yip","","Jean","Liberal","Libéral",Y,Y,404
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 604","Toronto",N,N,"",7,0,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,17
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 604","Toronto",N,N,"",7,0,"Johnson","","Mark","Conservative","Conservateur",N,N,212
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 604","Toronto",N,N,"",7,0,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 604","Toronto",N,N,"",7,0,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,26
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 604","Toronto",N,N,"",7,0,"Yip","","Jean","Liberal","Libéral",Y,Y,434
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 605","Toronto",N,N,"",2,0,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,7
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 605","Toronto",N,N,"",2,0,"Johnson","","Mark","Conservative","Conservateur",N,N,234
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 605","Toronto",N,N,"",2,0,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,91
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 605","Toronto",N,N,"",2,0,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,38
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 605","Toronto",N,N,"",2,0,"Yip","","Jean","Liberal","Libéral",Y,Y,537
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 606","Toronto",N,N,"",16,0,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,15
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 606","Toronto",N,N,"",16,0,"Johnson","","Mark","Conservative","Conservateur",N,N,425
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 606","Toronto",N,N,"",16,0,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 606","Toronto",N,N,"",16,0,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,41
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 606","Toronto",N,N,"",16,0,"Yip","","Jean","Liberal","Libéral",Y,Y,745
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 607","Toronto",N,N,"",4,0,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,16
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 607","Toronto",N,N,"",4,0,"Johnson","","Mark","Conservative","Conservateur",N,N,323
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 607","Toronto",N,N,"",4,0,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,102
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 607","Toronto",N,N,"",4,0,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,30
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 607","Toronto",N,N,"",4,0,"Yip","","Jean","Liberal","Libéral",Y,Y,637
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 608","Toronto",N,N,"",1,0,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,11
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 608","Toronto",N,N,"",1,0,"Johnson","","Mark","Conservative","Conservateur",N,N,297
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 608","Toronto",N,N,"",1,0,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 608","Toronto",N,N,"",1,0,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,19
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 608","Toronto",N,N,"",1,0,"Yip","","Jean","Liberal","Libéral",Y,Y,434
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 609","Toronto",N,N,"",4,0,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,19
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 609","Toronto",N,N,"",4,0,"Johnson","","Mark","Conservative","Conservateur",N,N,375
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 609","Toronto",N,N,"",4,0,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,117
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 609","Toronto",N,N,"",4,0,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,20
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 609","Toronto",N,N,"",4,0,"Yip","","Jean","Liberal","Libéral",Y,Y,663
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 610","Toronto",N,N,"",3,0,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,12
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 610","Toronto",N,N,"",3,0,"Johnson","","Mark","Conservative","Conservateur",N,N,281
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 610","Toronto",N,N,"",3,0,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,82
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 610","Toronto",N,N,"",3,0,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,32
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," 610","Toronto",N,N,"",3,0,"Yip","","Jean","Liberal","Libéral",Y,Y,556
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",13,259,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,3
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",13,259,"Johnson","","Mark","Conservative","Conservateur",N,N,88
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",13,259,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",13,259,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,9
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",13,259,"Yip","","Jean","Liberal","Libéral",Y,Y,163
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",60,0,"Balasingham","","Arjun","Green Party","Parti Vert",N,N,30
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",60,0,"Johnson","","Mark","Conservative","Conservateur",N,N,616
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",60,0,"Julius","","Larisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,235
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",60,0,"Muraven","","Eric","People's Party - PPC","Parti populaire - PPC",N,N,26
+35093,"Scarborough--Agincourt","Scarborough--Agincourt"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",60,0,"Yip","","Jean","Liberal","Libéral",Y,Y,1392

@@ -1,0 +1,1231 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+12010,"Sydney--Victoria","Sydney--Victoria"," 1","St. Margaret Village",N,N,"",0,320,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,10
+12010,"Sydney--Victoria","Sydney--Victoria"," 1","St. Margaret Village",N,N,"",0,320,"Battiste","","Jaime","Liberal","Libéral",Y,Y,57
+12010,"Sydney--Victoria","Sydney--Victoria"," 1","St. Margaret Village",N,N,"",0,320,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 1","St. Margaret Village",N,N,"",0,320,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 1","St. Margaret Village",N,N,"",0,320,"Orrell","","Eddie","Conservative","Conservateur",N,N,22
+12010,"Sydney--Victoria","Sydney--Victoria"," 1","St. Margaret Village",N,N,"",0,320,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12010,"Sydney--Victoria","Sydney--Victoria"," 2","Neils Harbour",N,N,"",0,246,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 2","Neils Harbour",N,N,"",0,246,"Battiste","","Jaime","Liberal","Libéral",Y,Y,39
+12010,"Sydney--Victoria","Sydney--Victoria"," 2","Neils Harbour",N,N,"",0,246,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 2","Neils Harbour",N,N,"",0,246,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 2","Neils Harbour",N,N,"",0,246,"Orrell","","Eddie","Conservative","Conservateur",N,N,52
+12010,"Sydney--Victoria","Sydney--Victoria"," 2","Neils Harbour",N,N,"",0,246,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12010,"Sydney--Victoria","Sydney--Victoria"," 3","Cape North",N,N,"",0,478,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,15
+12010,"Sydney--Victoria","Sydney--Victoria"," 3","Cape North",N,N,"",0,478,"Battiste","","Jaime","Liberal","Libéral",Y,Y,59
+12010,"Sydney--Victoria","Sydney--Victoria"," 3","Cape North",N,N,"",0,478,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 3","Cape North",N,N,"",0,478,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 3","Cape North",N,N,"",0,478,"Orrell","","Eddie","Conservative","Conservateur",N,N,61
+12010,"Sydney--Victoria","Sydney--Victoria"," 3","Cape North",N,N,"",0,478,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12010,"Sydney--Victoria","Sydney--Victoria"," 4","White Point",N,N,"",1,138,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 4","White Point",N,N,"",1,138,"Battiste","","Jaime","Liberal","Libéral",Y,Y,21
+12010,"Sydney--Victoria","Sydney--Victoria"," 4","White Point",N,N,"",1,138,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 4","White Point",N,N,"",1,138,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 4","White Point",N,N,"",1,138,"Orrell","","Eddie","Conservative","Conservateur",N,N,23
+12010,"Sydney--Victoria","Sydney--Victoria"," 4","White Point",N,N,"",1,138,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 5","Ingonish",N,N,"",1,521,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,12
+12010,"Sydney--Victoria","Sydney--Victoria"," 5","Ingonish",N,N,"",1,521,"Battiste","","Jaime","Liberal","Libéral",Y,Y,94
+12010,"Sydney--Victoria","Sydney--Victoria"," 5","Ingonish",N,N,"",1,521,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 5","Ingonish",N,N,"",1,521,"Embrett","","Mark","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 5","Ingonish",N,N,"",1,521,"Orrell","","Eddie","Conservative","Conservateur",N,N,108
+12010,"Sydney--Victoria","Sydney--Victoria"," 5","Ingonish",N,N,"",1,521,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+12010,"Sydney--Victoria","Sydney--Victoria"," 6","Pleasant Bay",N,N,"",0,138,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 6","Pleasant Bay",N,N,"",0,138,"Battiste","","Jaime","Liberal","Libéral",Y,Y,20
+12010,"Sydney--Victoria","Sydney--Victoria"," 6","Pleasant Bay",N,N,"",0,138,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 6","Pleasant Bay",N,N,"",0,138,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 6","Pleasant Bay",N,N,"",0,138,"Orrell","","Eddie","Conservative","Conservateur",N,N,12
+12010,"Sydney--Victoria","Sydney--Victoria"," 6","Pleasant Bay",N,N,"",0,138,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 7","Ingonish Beach",N,N,"",9,325,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,8
+12010,"Sydney--Victoria","Sydney--Victoria"," 7","Ingonish Beach",N,N,"",9,325,"Battiste","","Jaime","Liberal","Libéral",Y,Y,68
+12010,"Sydney--Victoria","Sydney--Victoria"," 7","Ingonish Beach",N,N,"",9,325,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 7","Ingonish Beach",N,N,"",9,325,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 7","Ingonish Beach",N,N,"",9,325,"Orrell","","Eddie","Conservative","Conservateur",N,N,81
+12010,"Sydney--Victoria","Sydney--Victoria"," 7","Ingonish Beach",N,N,"",9,325,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12010,"Sydney--Victoria","Sydney--Victoria"," 8","Little River",N,N,"",2,306,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 8","Little River",N,N,"",2,306,"Battiste","","Jaime","Liberal","Libéral",Y,Y,59
+12010,"Sydney--Victoria","Sydney--Victoria"," 8","Little River",N,N,"",2,306,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 8","Little River",N,N,"",2,306,"Embrett","","Mark","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 8","Little River",N,N,"",2,306,"Orrell","","Eddie","Conservative","Conservateur",N,N,51
+12010,"Sydney--Victoria","Sydney--Victoria"," 8","Little River",N,N,"",2,306,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12010,"Sydney--Victoria","Sydney--Victoria"," 9","Cape Breton",N,N,"",1,410,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 9","Cape Breton",N,N,"",1,410,"Battiste","","Jaime","Liberal","Libéral",Y,Y,40
+12010,"Sydney--Victoria","Sydney--Victoria"," 9","Cape Breton",N,N,"",1,410,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 9","Cape Breton",N,N,"",1,410,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 9","Cape Breton",N,N,"",1,410,"Orrell","","Eddie","Conservative","Conservateur",N,N,43
+12010,"Sydney--Victoria","Sydney--Victoria"," 9","Cape Breton",N,N,"",1,410,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12010,"Sydney--Victoria","Sydney--Victoria"," 10","Cape Breton",N,N,"",2,371,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 10","Cape Breton",N,N,"",2,371,"Battiste","","Jaime","Liberal","Libéral",Y,Y,54
+12010,"Sydney--Victoria","Sydney--Victoria"," 10","Cape Breton",N,N,"",2,371,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 10","Cape Breton",N,N,"",2,371,"Embrett","","Mark","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 10","Cape Breton",N,N,"",2,371,"Orrell","","Eddie","Conservative","Conservateur",N,N,76
+12010,"Sydney--Victoria","Sydney--Victoria"," 10","Cape Breton",N,N,"",2,371,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+12010,"Sydney--Victoria","Sydney--Victoria"," 11","Cape Breton",N,N,"",1,358,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 11","Cape Breton",N,N,"",1,358,"Battiste","","Jaime","Liberal","Libéral",Y,Y,47
+12010,"Sydney--Victoria","Sydney--Victoria"," 11","Cape Breton",N,N,"",1,358,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 11","Cape Breton",N,N,"",1,358,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 11","Cape Breton",N,N,"",1,358,"Orrell","","Eddie","Conservative","Conservateur",N,N,52
+12010,"Sydney--Victoria","Sydney--Victoria"," 11","Cape Breton",N,N,"",1,358,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12010,"Sydney--Victoria","Sydney--Victoria"," 12","Cape Breton",N,N,"",3,420,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,11
+12010,"Sydney--Victoria","Sydney--Victoria"," 12","Cape Breton",N,N,"",3,420,"Battiste","","Jaime","Liberal","Libéral",Y,Y,54
+12010,"Sydney--Victoria","Sydney--Victoria"," 12","Cape Breton",N,N,"",3,420,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 12","Cape Breton",N,N,"",3,420,"Embrett","","Mark","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 12","Cape Breton",N,N,"",3,420,"Orrell","","Eddie","Conservative","Conservateur",N,N,58
+12010,"Sydney--Victoria","Sydney--Victoria"," 12","Cape Breton",N,N,"",3,420,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12010,"Sydney--Victoria","Sydney--Victoria"," 13","Cape Breton",N,N,"",2,393,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 13","Cape Breton",N,N,"",2,393,"Battiste","","Jaime","Liberal","Libéral",Y,Y,40
+12010,"Sydney--Victoria","Sydney--Victoria"," 13","Cape Breton",N,N,"",2,393,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 13","Cape Breton",N,N,"",2,393,"Embrett","","Mark","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 13","Cape Breton",N,N,"",2,393,"Orrell","","Eddie","Conservative","Conservateur",N,N,54
+12010,"Sydney--Victoria","Sydney--Victoria"," 13","Cape Breton",N,N,"",2,393,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+12010,"Sydney--Victoria","Sydney--Victoria"," 14","Cape Breton",N,N,"",0,338,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 14","Cape Breton",N,N,"",0,338,"Battiste","","Jaime","Liberal","Libéral",Y,Y,33
+12010,"Sydney--Victoria","Sydney--Victoria"," 14","Cape Breton",N,N,"",0,338,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 14","Cape Breton",N,N,"",0,338,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 14","Cape Breton",N,N,"",0,338,"Orrell","","Eddie","Conservative","Conservateur",N,N,35
+12010,"Sydney--Victoria","Sydney--Victoria"," 14","Cape Breton",N,N,"",0,338,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12010,"Sydney--Victoria","Sydney--Victoria"," 15","Cape Breton",N,N,"",2,397,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 15","Cape Breton",N,N,"",2,397,"Battiste","","Jaime","Liberal","Libéral",Y,Y,53
+12010,"Sydney--Victoria","Sydney--Victoria"," 15","Cape Breton",N,N,"",2,397,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 15","Cape Breton",N,N,"",2,397,"Embrett","","Mark","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 15","Cape Breton",N,N,"",2,397,"Orrell","","Eddie","Conservative","Conservateur",N,N,60
+12010,"Sydney--Victoria","Sydney--Victoria"," 15","Cape Breton",N,N,"",2,397,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12010,"Sydney--Victoria","Sydney--Victoria"," 16","Cape Breton",N,N,"",0,399,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,10
+12010,"Sydney--Victoria","Sydney--Victoria"," 16","Cape Breton",N,N,"",0,399,"Battiste","","Jaime","Liberal","Libéral",Y,Y,53
+12010,"Sydney--Victoria","Sydney--Victoria"," 16","Cape Breton",N,N,"",0,399,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 16","Cape Breton",N,N,"",0,399,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 16","Cape Breton",N,N,"",0,399,"Orrell","","Eddie","Conservative","Conservateur",N,N,39
+12010,"Sydney--Victoria","Sydney--Victoria"," 16","Cape Breton",N,N,"",0,399,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12010,"Sydney--Victoria","Sydney--Victoria"," 17","Cape Breton",N,N,"",1,303,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 17","Cape Breton",N,N,"",1,303,"Battiste","","Jaime","Liberal","Libéral",Y,Y,31
+12010,"Sydney--Victoria","Sydney--Victoria"," 17","Cape Breton",N,N,"",1,303,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 17","Cape Breton",N,N,"",1,303,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 17","Cape Breton",N,N,"",1,303,"Orrell","","Eddie","Conservative","Conservateur",N,N,21
+12010,"Sydney--Victoria","Sydney--Victoria"," 17","Cape Breton",N,N,"",1,303,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12010,"Sydney--Victoria","Sydney--Victoria"," 18","Cape Breton",N,N,"",1,428,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,12
+12010,"Sydney--Victoria","Sydney--Victoria"," 18","Cape Breton",N,N,"",1,428,"Battiste","","Jaime","Liberal","Libéral",Y,Y,68
+12010,"Sydney--Victoria","Sydney--Victoria"," 18","Cape Breton",N,N,"",1,428,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 18","Cape Breton",N,N,"",1,428,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 18","Cape Breton",N,N,"",1,428,"Orrell","","Eddie","Conservative","Conservateur",N,N,40
+12010,"Sydney--Victoria","Sydney--Victoria"," 18","Cape Breton",N,N,"",1,428,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+12010,"Sydney--Victoria","Sydney--Victoria"," 19","Cape Breton",N,N,"",4,405,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,11
+12010,"Sydney--Victoria","Sydney--Victoria"," 19","Cape Breton",N,N,"",4,405,"Battiste","","Jaime","Liberal","Libéral",Y,Y,65
+12010,"Sydney--Victoria","Sydney--Victoria"," 19","Cape Breton",N,N,"",4,405,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 19","Cape Breton",N,N,"",4,405,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 19","Cape Breton",N,N,"",4,405,"Orrell","","Eddie","Conservative","Conservateur",N,N,40
+12010,"Sydney--Victoria","Sydney--Victoria"," 19","Cape Breton",N,N,"",4,405,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12010,"Sydney--Victoria","Sydney--Victoria"," 20","Cape Breton",N,N,"",1,357,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 20","Cape Breton",N,N,"",1,357,"Battiste","","Jaime","Liberal","Libéral",Y,Y,32
+12010,"Sydney--Victoria","Sydney--Victoria"," 20","Cape Breton",N,N,"",1,357,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 20","Cape Breton",N,N,"",1,357,"Embrett","","Mark","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 20","Cape Breton",N,N,"",1,357,"Orrell","","Eddie","Conservative","Conservateur",N,N,44
+12010,"Sydney--Victoria","Sydney--Victoria"," 20","Cape Breton",N,N,"",1,357,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12010,"Sydney--Victoria","Sydney--Victoria"," 21","Cape Breton",N,N,"",1,390,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 21","Cape Breton",N,N,"",1,390,"Battiste","","Jaime","Liberal","Libéral",Y,Y,59
+12010,"Sydney--Victoria","Sydney--Victoria"," 21","Cape Breton",N,N,"",1,390,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 21","Cape Breton",N,N,"",1,390,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 21","Cape Breton",N,N,"",1,390,"Orrell","","Eddie","Conservative","Conservateur",N,N,41
+12010,"Sydney--Victoria","Sydney--Victoria"," 21","Cape Breton",N,N,"",1,390,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+12010,"Sydney--Victoria","Sydney--Victoria"," 22","Cape Breton",N,N,"",1,304,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 22","Cape Breton",N,N,"",1,304,"Battiste","","Jaime","Liberal","Libéral",Y,Y,33
+12010,"Sydney--Victoria","Sydney--Victoria"," 22","Cape Breton",N,N,"",1,304,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 22","Cape Breton",N,N,"",1,304,"Embrett","","Mark","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 22","Cape Breton",N,N,"",1,304,"Orrell","","Eddie","Conservative","Conservateur",N,N,31
+12010,"Sydney--Victoria","Sydney--Victoria"," 22","Cape Breton",N,N,"",1,304,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12010,"Sydney--Victoria","Sydney--Victoria"," 23","Cape Breton",N,N,"",1,303,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 23","Cape Breton",N,N,"",1,303,"Battiste","","Jaime","Liberal","Libéral",Y,Y,36
+12010,"Sydney--Victoria","Sydney--Victoria"," 23","Cape Breton",N,N,"",1,303,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 23","Cape Breton",N,N,"",1,303,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 23","Cape Breton",N,N,"",1,303,"Orrell","","Eddie","Conservative","Conservateur",N,N,32
+12010,"Sydney--Victoria","Sydney--Victoria"," 23","Cape Breton",N,N,"",1,303,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12010,"Sydney--Victoria","Sydney--Victoria"," 24","Alder Point",N,N,"",3,338,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 24","Alder Point",N,N,"",3,338,"Battiste","","Jaime","Liberal","Libéral",Y,Y,32
+12010,"Sydney--Victoria","Sydney--Victoria"," 24","Alder Point",N,N,"",3,338,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 24","Alder Point",N,N,"",3,338,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 24","Alder Point",N,N,"",3,338,"Orrell","","Eddie","Conservative","Conservateur",N,N,90
+12010,"Sydney--Victoria","Sydney--Victoria"," 24","Alder Point",N,N,"",3,338,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12010,"Sydney--Victoria","Sydney--Victoria"," 25","Little Bras d'Or South Side",N,N,"",4,291,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,11
+12010,"Sydney--Victoria","Sydney--Victoria"," 25","Little Bras d'Or South Side",N,N,"",4,291,"Battiste","","Jaime","Liberal","Libéral",Y,Y,40
+12010,"Sydney--Victoria","Sydney--Victoria"," 25","Little Bras d'Or South Side",N,N,"",4,291,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 25","Little Bras d'Or South Side",N,N,"",4,291,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 25","Little Bras d'Or South Side",N,N,"",4,291,"Orrell","","Eddie","Conservative","Conservateur",N,N,62
+12010,"Sydney--Victoria","Sydney--Victoria"," 25","Little Bras d'Or South Side",N,N,"",4,291,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12010,"Sydney--Victoria","Sydney--Victoria"," 26","Cape Breton",N,N,"",1,380,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 26","Cape Breton",N,N,"",1,380,"Battiste","","Jaime","Liberal","Libéral",Y,Y,31
+12010,"Sydney--Victoria","Sydney--Victoria"," 26","Cape Breton",N,N,"",1,380,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 26","Cape Breton",N,N,"",1,380,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 26","Cape Breton",N,N,"",1,380,"Orrell","","Eddie","Conservative","Conservateur",N,N,69
+12010,"Sydney--Victoria","Sydney--Victoria"," 26","Cape Breton",N,N,"",1,380,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12010,"Sydney--Victoria","Sydney--Victoria"," 27","Cape Breton",N,N,"",0,345,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,8
+12010,"Sydney--Victoria","Sydney--Victoria"," 27","Cape Breton",N,N,"",0,345,"Battiste","","Jaime","Liberal","Libéral",Y,Y,46
+12010,"Sydney--Victoria","Sydney--Victoria"," 27","Cape Breton",N,N,"",0,345,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 27","Cape Breton",N,N,"",0,345,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 27","Cape Breton",N,N,"",0,345,"Orrell","","Eddie","Conservative","Conservateur",N,N,50
+12010,"Sydney--Victoria","Sydney--Victoria"," 27","Cape Breton",N,N,"",0,345,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12010,"Sydney--Victoria","Sydney--Victoria"," 28","Cape Breton",N,N,"",3,483,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,13
+12010,"Sydney--Victoria","Sydney--Victoria"," 28","Cape Breton",N,N,"",3,483,"Battiste","","Jaime","Liberal","Libéral",Y,Y,37
+12010,"Sydney--Victoria","Sydney--Victoria"," 28","Cape Breton",N,N,"",3,483,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 28","Cape Breton",N,N,"",3,483,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 28","Cape Breton",N,N,"",3,483,"Orrell","","Eddie","Conservative","Conservateur",N,N,84
+12010,"Sydney--Victoria","Sydney--Victoria"," 28","Cape Breton",N,N,"",3,483,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12010,"Sydney--Victoria","Sydney--Victoria"," 29","Cape Breton",N,N,"",3,368,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 29","Cape Breton",N,N,"",3,368,"Battiste","","Jaime","Liberal","Libéral",Y,Y,31
+12010,"Sydney--Victoria","Sydney--Victoria"," 29","Cape Breton",N,N,"",3,368,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 29","Cape Breton",N,N,"",3,368,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 29","Cape Breton",N,N,"",3,368,"Orrell","","Eddie","Conservative","Conservateur",N,N,46
+12010,"Sydney--Victoria","Sydney--Victoria"," 29","Cape Breton",N,N,"",3,368,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12010,"Sydney--Victoria","Sydney--Victoria"," 30","Cape Breton",N,N,"",0,412,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,8
+12010,"Sydney--Victoria","Sydney--Victoria"," 30","Cape Breton",N,N,"",0,412,"Battiste","","Jaime","Liberal","Libéral",Y,Y,29
+12010,"Sydney--Victoria","Sydney--Victoria"," 30","Cape Breton",N,N,"",0,412,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 30","Cape Breton",N,N,"",0,412,"Embrett","","Mark","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 30","Cape Breton",N,N,"",0,412,"Orrell","","Eddie","Conservative","Conservateur",N,N,74
+12010,"Sydney--Victoria","Sydney--Victoria"," 30","Cape Breton",N,N,"",0,412,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12010,"Sydney--Victoria","Sydney--Victoria"," 31","Point Aconi",N,N,"",1,314,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 31","Point Aconi",N,N,"",1,314,"Battiste","","Jaime","Liberal","Libéral",Y,Y,30
+12010,"Sydney--Victoria","Sydney--Victoria"," 31","Point Aconi",N,N,"",1,314,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 31","Point Aconi",N,N,"",1,314,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 31","Point Aconi",N,N,"",1,314,"Orrell","","Eddie","Conservative","Conservateur",N,N,56
+12010,"Sydney--Victoria","Sydney--Victoria"," 31","Point Aconi",N,N,"",1,314,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12010,"Sydney--Victoria","Sydney--Victoria"," 32","Mill Creek",N,N,"",0,206,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 32","Mill Creek",N,N,"",0,206,"Battiste","","Jaime","Liberal","Libéral",Y,Y,23
+12010,"Sydney--Victoria","Sydney--Victoria"," 32","Mill Creek",N,N,"",0,206,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 32","Mill Creek",N,N,"",0,206,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 32","Mill Creek",N,N,"",0,206,"Orrell","","Eddie","Conservative","Conservateur",N,N,36
+12010,"Sydney--Victoria","Sydney--Victoria"," 32","Mill Creek",N,N,"",0,206,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12010,"Sydney--Victoria","Sydney--Victoria"," 33","Little Bras d'Or",N,N,"",2,342,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 33","Little Bras d'Or",N,N,"",2,342,"Battiste","","Jaime","Liberal","Libéral",Y,Y,42
+12010,"Sydney--Victoria","Sydney--Victoria"," 33","Little Bras d'Or",N,N,"",2,342,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 33","Little Bras d'Or",N,N,"",2,342,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 33","Little Bras d'Or",N,N,"",2,342,"Orrell","","Eddie","Conservative","Conservateur",N,N,44
+12010,"Sydney--Victoria","Sydney--Victoria"," 33","Little Bras d'Or",N,N,"",2,342,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12010,"Sydney--Victoria","Sydney--Victoria"," 34","Cape Breton",N,N,"",0,293,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 34","Cape Breton",N,N,"",0,293,"Battiste","","Jaime","Liberal","Libéral",Y,Y,51
+12010,"Sydney--Victoria","Sydney--Victoria"," 34","Cape Breton",N,N,"",0,293,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 34","Cape Breton",N,N,"",0,293,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 34","Cape Breton",N,N,"",0,293,"Orrell","","Eddie","Conservative","Conservateur",N,N,57
+12010,"Sydney--Victoria","Sydney--Victoria"," 34","Cape Breton",N,N,"",0,293,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12010,"Sydney--Victoria","Sydney--Victoria"," 35","New Victoria",N,N,"",4,299,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 35","New Victoria",N,N,"",4,299,"Battiste","","Jaime","Liberal","Libéral",Y,Y,45
+12010,"Sydney--Victoria","Sydney--Victoria"," 35","New Victoria",N,N,"",4,299,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 35","New Victoria",N,N,"",4,299,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 35","New Victoria",N,N,"",4,299,"Orrell","","Eddie","Conservative","Conservateur",N,N,31
+12010,"Sydney--Victoria","Sydney--Victoria"," 35","New Victoria",N,N,"",4,299,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12010,"Sydney--Victoria","Sydney--Victoria"," 36","Victoria Mines",N,N,"",3,295,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 36","Victoria Mines",N,N,"",3,295,"Battiste","","Jaime","Liberal","Libéral",Y,Y,39
+12010,"Sydney--Victoria","Sydney--Victoria"," 36","Victoria Mines",N,N,"",3,295,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 36","Victoria Mines",N,N,"",3,295,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 36","Victoria Mines",N,N,"",3,295,"Orrell","","Eddie","Conservative","Conservateur",N,N,43
+12010,"Sydney--Victoria","Sydney--Victoria"," 36","Victoria Mines",N,N,"",3,295,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12010,"Sydney--Victoria","Sydney--Victoria"," 37","Scotchtown",N,N,"",1,259,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 37","Scotchtown",N,N,"",1,259,"Battiste","","Jaime","Liberal","Libéral",Y,Y,30
+12010,"Sydney--Victoria","Sydney--Victoria"," 37","Scotchtown",N,N,"",1,259,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 37","Scotchtown",N,N,"",1,259,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 37","Scotchtown",N,N,"",1,259,"Orrell","","Eddie","Conservative","Conservateur",N,N,18
+12010,"Sydney--Victoria","Sydney--Victoria"," 37","Scotchtown",N,N,"",1,259,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12010,"Sydney--Victoria","Sydney--Victoria"," 38","Scotchtown",N,N,"",2,365,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 38","Scotchtown",N,N,"",2,365,"Battiste","","Jaime","Liberal","Libéral",Y,Y,44
+12010,"Sydney--Victoria","Sydney--Victoria"," 38","Scotchtown",N,N,"",2,365,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 38","Scotchtown",N,N,"",2,365,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 38","Scotchtown",N,N,"",2,365,"Orrell","","Eddie","Conservative","Conservateur",N,N,41
+12010,"Sydney--Victoria","Sydney--Victoria"," 38","Scotchtown",N,N,"",2,365,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12010,"Sydney--Victoria","Sydney--Victoria"," 39","Scotchtown",N,N,"",0,381,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 39","Scotchtown",N,N,"",0,381,"Battiste","","Jaime","Liberal","Libéral",Y,Y,42
+12010,"Sydney--Victoria","Sydney--Victoria"," 39","Scotchtown",N,N,"",0,381,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 39","Scotchtown",N,N,"",0,381,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 39","Scotchtown",N,N,"",0,381,"Orrell","","Eddie","Conservative","Conservateur",N,N,57
+12010,"Sydney--Victoria","Sydney--Victoria"," 39","Scotchtown",N,N,"",0,381,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12010,"Sydney--Victoria","Sydney--Victoria"," 40","River Ryan",N,N,"",1,274,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 40","River Ryan",N,N,"",1,274,"Battiste","","Jaime","Liberal","Libéral",Y,Y,42
+12010,"Sydney--Victoria","Sydney--Victoria"," 40","River Ryan",N,N,"",1,274,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 40","River Ryan",N,N,"",1,274,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 40","River Ryan",N,N,"",1,274,"Orrell","","Eddie","Conservative","Conservateur",N,N,56
+12010,"Sydney--Victoria","Sydney--Victoria"," 40","River Ryan",N,N,"",1,274,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12010,"Sydney--Victoria","Sydney--Victoria"," 41","River Ryan",N,N,"",1,370,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 41","River Ryan",N,N,"",1,370,"Battiste","","Jaime","Liberal","Libéral",Y,Y,41
+12010,"Sydney--Victoria","Sydney--Victoria"," 41","River Ryan",N,N,"",1,370,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 41","River Ryan",N,N,"",1,370,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 41","River Ryan",N,N,"",1,370,"Orrell","","Eddie","Conservative","Conservateur",N,N,54
+12010,"Sydney--Victoria","Sydney--Victoria"," 41","River Ryan",N,N,"",1,370,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12010,"Sydney--Victoria","Sydney--Victoria"," 42","Florence",N,N,"",0,273,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 42","Florence",N,N,"",0,273,"Battiste","","Jaime","Liberal","Libéral",Y,Y,30
+12010,"Sydney--Victoria","Sydney--Victoria"," 42","Florence",N,N,"",0,273,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 42","Florence",N,N,"",0,273,"Embrett","","Mark","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 42","Florence",N,N,"",0,273,"Orrell","","Eddie","Conservative","Conservateur",N,N,31
+12010,"Sydney--Victoria","Sydney--Victoria"," 42","Florence",N,N,"",0,273,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12010,"Sydney--Victoria","Sydney--Victoria"," 43","Florence",N,N,"",0,292,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 43","Florence",N,N,"",0,292,"Battiste","","Jaime","Liberal","Libéral",Y,Y,30
+12010,"Sydney--Victoria","Sydney--Victoria"," 43","Florence",N,N,"",0,292,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 43","Florence",N,N,"",0,292,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 43","Florence",N,N,"",0,292,"Orrell","","Eddie","Conservative","Conservateur",N,N,43
+12010,"Sydney--Victoria","Sydney--Victoria"," 43","Florence",N,N,"",0,292,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12010,"Sydney--Victoria","Sydney--Victoria"," 44","Florence",N,N,"",5,356,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 44","Florence",N,N,"",5,356,"Battiste","","Jaime","Liberal","Libéral",Y,Y,43
+12010,"Sydney--Victoria","Sydney--Victoria"," 44","Florence",N,N,"",5,356,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 44","Florence",N,N,"",5,356,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 44","Florence",N,N,"",5,356,"Orrell","","Eddie","Conservative","Conservateur",N,N,46
+12010,"Sydney--Victoria","Sydney--Victoria"," 44","Florence",N,N,"",5,356,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12010,"Sydney--Victoria","Sydney--Victoria"," 45","Bras d'Or",N,N,"",2,276,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 45","Bras d'Or",N,N,"",2,276,"Battiste","","Jaime","Liberal","Libéral",Y,Y,34
+12010,"Sydney--Victoria","Sydney--Victoria"," 45","Bras d'Or",N,N,"",2,276,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 45","Bras d'Or",N,N,"",2,276,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 45","Bras d'Or",N,N,"",2,276,"Orrell","","Eddie","Conservative","Conservateur",N,N,42
+12010,"Sydney--Victoria","Sydney--Victoria"," 45","Bras d'Or",N,N,"",2,276,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12010,"Sydney--Victoria","Sydney--Victoria"," 46","Florence",N,N,"",1,285,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 46","Florence",N,N,"",1,285,"Battiste","","Jaime","Liberal","Libéral",Y,Y,24
+12010,"Sydney--Victoria","Sydney--Victoria"," 46","Florence",N,N,"",1,285,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 46","Florence",N,N,"",1,285,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 46","Florence",N,N,"",1,285,"Orrell","","Eddie","Conservative","Conservateur",N,N,42
+12010,"Sydney--Victoria","Sydney--Victoria"," 46","Florence",N,N,"",1,285,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12010,"Sydney--Victoria","Sydney--Victoria"," 47","Englishtown",N,N,"",0,181,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 47","Englishtown",N,N,"",0,181,"Battiste","","Jaime","Liberal","Libéral",Y,Y,32
+12010,"Sydney--Victoria","Sydney--Victoria"," 47","Englishtown",N,N,"",0,181,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 47","Englishtown",N,N,"",0,181,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 47","Englishtown",N,N,"",0,181,"Orrell","","Eddie","Conservative","Conservateur",N,N,15
+12010,"Sydney--Victoria","Sydney--Victoria"," 47","Englishtown",N,N,"",0,181,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12010,"Sydney--Victoria","Sydney--Victoria"," 48","Cape Breton",N,N,"",2,413,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,12
+12010,"Sydney--Victoria","Sydney--Victoria"," 48","Cape Breton",N,N,"",2,413,"Battiste","","Jaime","Liberal","Libéral",Y,Y,63
+12010,"Sydney--Victoria","Sydney--Victoria"," 48","Cape Breton",N,N,"",2,413,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 48","Cape Breton",N,N,"",2,413,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 48","Cape Breton",N,N,"",2,413,"Orrell","","Eddie","Conservative","Conservateur",N,N,61
+12010,"Sydney--Victoria","Sydney--Victoria"," 48","Cape Breton",N,N,"",2,413,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12010,"Sydney--Victoria","Sydney--Victoria"," 49","Cape Breton",N,N,"",0,474,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 49","Cape Breton",N,N,"",0,474,"Battiste","","Jaime","Liberal","Libéral",Y,Y,56
+12010,"Sydney--Victoria","Sydney--Victoria"," 49","Cape Breton",N,N,"",0,474,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 49","Cape Breton",N,N,"",0,474,"Embrett","","Mark","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 49","Cape Breton",N,N,"",0,474,"Orrell","","Eddie","Conservative","Conservateur",N,N,61
+12010,"Sydney--Victoria","Sydney--Victoria"," 49","Cape Breton",N,N,"",0,474,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12010,"Sydney--Victoria","Sydney--Victoria"," 50","Cape Breton",N,N,"",8,422,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 50","Cape Breton",N,N,"",8,422,"Battiste","","Jaime","Liberal","Libéral",Y,Y,41
+12010,"Sydney--Victoria","Sydney--Victoria"," 50","Cape Breton",N,N,"",8,422,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 50","Cape Breton",N,N,"",8,422,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 50","Cape Breton",N,N,"",8,422,"Orrell","","Eddie","Conservative","Conservateur",N,N,80
+12010,"Sydney--Victoria","Sydney--Victoria"," 50","Cape Breton",N,N,"",8,422,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12010,"Sydney--Victoria","Sydney--Victoria"," 51","Cape Breton",N,N,"",5,431,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 51","Cape Breton",N,N,"",5,431,"Battiste","","Jaime","Liberal","Libéral",Y,Y,49
+12010,"Sydney--Victoria","Sydney--Victoria"," 51","Cape Breton",N,N,"",5,431,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 51","Cape Breton",N,N,"",5,431,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 51","Cape Breton",N,N,"",5,431,"Orrell","","Eddie","Conservative","Conservateur",N,N,98
+12010,"Sydney--Victoria","Sydney--Victoria"," 51","Cape Breton",N,N,"",5,431,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12010,"Sydney--Victoria","Sydney--Victoria"," 52","Cape Breton",N,N,"",1,406,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,11
+12010,"Sydney--Victoria","Sydney--Victoria"," 52","Cape Breton",N,N,"",1,406,"Battiste","","Jaime","Liberal","Libéral",Y,Y,52
+12010,"Sydney--Victoria","Sydney--Victoria"," 52","Cape Breton",N,N,"",1,406,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 52","Cape Breton",N,N,"",1,406,"Embrett","","Mark","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 52","Cape Breton",N,N,"",1,406,"Orrell","","Eddie","Conservative","Conservateur",N,N,69
+12010,"Sydney--Victoria","Sydney--Victoria"," 52","Cape Breton",N,N,"",1,406,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12010,"Sydney--Victoria","Sydney--Victoria"," 53","Cape Breton",N,N,"",0,410,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,8
+12010,"Sydney--Victoria","Sydney--Victoria"," 53","Cape Breton",N,N,"",0,410,"Battiste","","Jaime","Liberal","Libéral",Y,Y,42
+12010,"Sydney--Victoria","Sydney--Victoria"," 53","Cape Breton",N,N,"",0,410,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 53","Cape Breton",N,N,"",0,410,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 53","Cape Breton",N,N,"",0,410,"Orrell","","Eddie","Conservative","Conservateur",N,N,72
+12010,"Sydney--Victoria","Sydney--Victoria"," 53","Cape Breton",N,N,"",0,410,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12010,"Sydney--Victoria","Sydney--Victoria"," 54","Cape Breton",N,N,"",4,436,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 54","Cape Breton",N,N,"",4,436,"Battiste","","Jaime","Liberal","Libéral",Y,Y,53
+12010,"Sydney--Victoria","Sydney--Victoria"," 54","Cape Breton",N,N,"",4,436,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 54","Cape Breton",N,N,"",4,436,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 54","Cape Breton",N,N,"",4,436,"Orrell","","Eddie","Conservative","Conservateur",N,N,114
+12010,"Sydney--Victoria","Sydney--Victoria"," 54","Cape Breton",N,N,"",4,436,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12010,"Sydney--Victoria","Sydney--Victoria"," 55","Millville Boularderie",N,N,"",3,362,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,8
+12010,"Sydney--Victoria","Sydney--Victoria"," 55","Millville Boularderie",N,N,"",3,362,"Battiste","","Jaime","Liberal","Libéral",Y,Y,57
+12010,"Sydney--Victoria","Sydney--Victoria"," 55","Millville Boularderie",N,N,"",3,362,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 55","Millville Boularderie",N,N,"",3,362,"Embrett","","Mark","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 55","Millville Boularderie",N,N,"",3,362,"Orrell","","Eddie","Conservative","Conservateur",N,N,53
+12010,"Sydney--Victoria","Sydney--Victoria"," 55","Millville Boularderie",N,N,"",3,362,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12010,"Sydney--Victoria","Sydney--Victoria"," 56","Groves Point",N,N,"",1,354,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 56","Groves Point",N,N,"",1,354,"Battiste","","Jaime","Liberal","Libéral",Y,Y,64
+12010,"Sydney--Victoria","Sydney--Victoria"," 56","Groves Point",N,N,"",1,354,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 56","Groves Point",N,N,"",1,354,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 56","Groves Point",N,N,"",1,354,"Orrell","","Eddie","Conservative","Conservateur",N,N,68
+12010,"Sydney--Victoria","Sydney--Victoria"," 56","Groves Point",N,N,"",1,354,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12010,"Sydney--Victoria","Sydney--Victoria"," 57","South Bar",N,N,"",4,269,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,8
+12010,"Sydney--Victoria","Sydney--Victoria"," 57","South Bar",N,N,"",4,269,"Battiste","","Jaime","Liberal","Libéral",Y,Y,73
+12010,"Sydney--Victoria","Sydney--Victoria"," 57","South Bar",N,N,"",4,269,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 57","South Bar",N,N,"",4,269,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 57","South Bar",N,N,"",4,269,"Orrell","","Eddie","Conservative","Conservateur",N,N,39
+12010,"Sydney--Victoria","Sydney--Victoria"," 57","South Bar",N,N,"",4,269,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12010,"Sydney--Victoria","Sydney--Victoria"," 58","South Bar",N,N,"",2,321,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 58","South Bar",N,N,"",2,321,"Battiste","","Jaime","Liberal","Libéral",Y,Y,53
+12010,"Sydney--Victoria","Sydney--Victoria"," 58","South Bar",N,N,"",2,321,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 58","South Bar",N,N,"",2,321,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 58","South Bar",N,N,"",2,321,"Orrell","","Eddie","Conservative","Conservateur",N,N,40
+12010,"Sydney--Victoria","Sydney--Victoria"," 58","South Bar",N,N,"",2,321,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12010,"Sydney--Victoria","Sydney--Victoria"," 59","Cape Breton",N,N,"",2,289,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 59","Cape Breton",N,N,"",2,289,"Battiste","","Jaime","Liberal","Libéral",Y,Y,29
+12010,"Sydney--Victoria","Sydney--Victoria"," 59","Cape Breton",N,N,"",2,289,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 59","Cape Breton",N,N,"",2,289,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 59","Cape Breton",N,N,"",2,289,"Orrell","","Eddie","Conservative","Conservateur",N,N,48
+12010,"Sydney--Victoria","Sydney--Victoria"," 59","Cape Breton",N,N,"",2,289,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12010,"Sydney--Victoria","Sydney--Victoria"," 60","Cape Breton",N,N,"",3,336,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 60","Cape Breton",N,N,"",3,336,"Battiste","","Jaime","Liberal","Libéral",Y,Y,24
+12010,"Sydney--Victoria","Sydney--Victoria"," 60","Cape Breton",N,N,"",3,336,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 60","Cape Breton",N,N,"",3,336,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 60","Cape Breton",N,N,"",3,336,"Orrell","","Eddie","Conservative","Conservateur",N,N,71
+12010,"Sydney--Victoria","Sydney--Victoria"," 60","Cape Breton",N,N,"",3,336,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12010,"Sydney--Victoria","Sydney--Victoria"," 61","Cape Breton",N,N,"",1,347,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 61","Cape Breton",N,N,"",1,347,"Battiste","","Jaime","Liberal","Libéral",Y,Y,16
+12010,"Sydney--Victoria","Sydney--Victoria"," 61","Cape Breton",N,N,"",1,347,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 61","Cape Breton",N,N,"",1,347,"Embrett","","Mark","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 61","Cape Breton",N,N,"",1,347,"Orrell","","Eddie","Conservative","Conservateur",N,N,36
+12010,"Sydney--Victoria","Sydney--Victoria"," 61","Cape Breton",N,N,"",1,347,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+12010,"Sydney--Victoria","Sydney--Victoria"," 62","Lingan Road",N,N,"",3,370,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,10
+12010,"Sydney--Victoria","Sydney--Victoria"," 62","Lingan Road",N,N,"",3,370,"Battiste","","Jaime","Liberal","Libéral",Y,Y,62
+12010,"Sydney--Victoria","Sydney--Victoria"," 62","Lingan Road",N,N,"",3,370,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 62","Lingan Road",N,N,"",3,370,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 62","Lingan Road",N,N,"",3,370,"Orrell","","Eddie","Conservative","Conservateur",N,N,42
+12010,"Sydney--Victoria","Sydney--Victoria"," 62","Lingan Road",N,N,"",3,370,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+12010,"Sydney--Victoria","Sydney--Victoria"," 63","Big Bras d'Or",N,N,"",3,421,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 63","Big Bras d'Or",N,N,"",3,421,"Battiste","","Jaime","Liberal","Libéral",Y,Y,78
+12010,"Sydney--Victoria","Sydney--Victoria"," 63","Big Bras d'Or",N,N,"",3,421,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 63","Big Bras d'Or",N,N,"",3,421,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 63","Big Bras d'Or",N,N,"",3,421,"Orrell","","Eddie","Conservative","Conservateur",N,N,86
+12010,"Sydney--Victoria","Sydney--Victoria"," 63","Big Bras d'Or",N,N,"",3,421,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12010,"Sydney--Victoria","Sydney--Victoria"," 64","Cape Breton",N,N,"",1,326,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 64","Cape Breton",N,N,"",1,326,"Battiste","","Jaime","Liberal","Libéral",Y,Y,49
+12010,"Sydney--Victoria","Sydney--Victoria"," 64","Cape Breton",N,N,"",1,326,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 64","Cape Breton",N,N,"",1,326,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 64","Cape Breton",N,N,"",1,326,"Orrell","","Eddie","Conservative","Conservateur",N,N,23
+12010,"Sydney--Victoria","Sydney--Victoria"," 64","Cape Breton",N,N,"",1,326,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+12010,"Sydney--Victoria","Sydney--Victoria"," 65","Cape Breton",N,N,"",1,373,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 65","Cape Breton",N,N,"",1,373,"Battiste","","Jaime","Liberal","Libéral",Y,Y,51
+12010,"Sydney--Victoria","Sydney--Victoria"," 65","Cape Breton",N,N,"",1,373,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 65","Cape Breton",N,N,"",1,373,"Embrett","","Mark","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 65","Cape Breton",N,N,"",1,373,"Orrell","","Eddie","Conservative","Conservateur",N,N,20
+12010,"Sydney--Victoria","Sydney--Victoria"," 65","Cape Breton",N,N,"",1,373,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12010,"Sydney--Victoria","Sydney--Victoria"," 66","Cape Breton",N,N,"",2,349,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 66","Cape Breton",N,N,"",2,349,"Battiste","","Jaime","Liberal","Libéral",Y,Y,21
+12010,"Sydney--Victoria","Sydney--Victoria"," 66","Cape Breton",N,N,"",2,349,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 66","Cape Breton",N,N,"",2,349,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 66","Cape Breton",N,N,"",2,349,"Orrell","","Eddie","Conservative","Conservateur",N,N,24
+12010,"Sydney--Victoria","Sydney--Victoria"," 66","Cape Breton",N,N,"",2,349,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+12010,"Sydney--Victoria","Sydney--Victoria"," 67","Cape Breton",N,N,"",3,511,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 67","Cape Breton",N,N,"",3,511,"Battiste","","Jaime","Liberal","Libéral",Y,Y,52
+12010,"Sydney--Victoria","Sydney--Victoria"," 67","Cape Breton",N,N,"",3,511,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 67","Cape Breton",N,N,"",3,511,"Embrett","","Mark","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 67","Cape Breton",N,N,"",3,511,"Orrell","","Eddie","Conservative","Conservateur",N,N,82
+12010,"Sydney--Victoria","Sydney--Victoria"," 67","Cape Breton",N,N,"",3,511,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12010,"Sydney--Victoria","Sydney--Victoria"," 68","Cape Breton",N,N,"",0,350,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 68","Cape Breton",N,N,"",0,350,"Battiste","","Jaime","Liberal","Libéral",Y,Y,34
+12010,"Sydney--Victoria","Sydney--Victoria"," 68","Cape Breton",N,N,"",0,350,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 68","Cape Breton",N,N,"",0,350,"Embrett","","Mark","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 68","Cape Breton",N,N,"",0,350,"Orrell","","Eddie","Conservative","Conservateur",N,N,25
+12010,"Sydney--Victoria","Sydney--Victoria"," 68","Cape Breton",N,N,"",0,350,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12010,"Sydney--Victoria","Sydney--Victoria"," 69","Cape Breton",N,N,"",0,368,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 69","Cape Breton",N,N,"",0,368,"Battiste","","Jaime","Liberal","Libéral",Y,Y,55
+12010,"Sydney--Victoria","Sydney--Victoria"," 69","Cape Breton",N,N,"",0,368,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 69","Cape Breton",N,N,"",0,368,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 69","Cape Breton",N,N,"",0,368,"Orrell","","Eddie","Conservative","Conservateur",N,N,20
+12010,"Sydney--Victoria","Sydney--Victoria"," 69","Cape Breton",N,N,"",0,368,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12010,"Sydney--Victoria","Sydney--Victoria"," 70","Cape Breton",N,N,"",0,357,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 70","Cape Breton",N,N,"",0,357,"Battiste","","Jaime","Liberal","Libéral",Y,Y,36
+12010,"Sydney--Victoria","Sydney--Victoria"," 70","Cape Breton",N,N,"",0,357,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 70","Cape Breton",N,N,"",0,357,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 70","Cape Breton",N,N,"",0,357,"Orrell","","Eddie","Conservative","Conservateur",N,N,24
+12010,"Sydney--Victoria","Sydney--Victoria"," 70","Cape Breton",N,N,"",0,357,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12010,"Sydney--Victoria","Sydney--Victoria"," 71","Cape Breton",N,N,"",1,338,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 71","Cape Breton",N,N,"",1,338,"Battiste","","Jaime","Liberal","Libéral",Y,Y,39
+12010,"Sydney--Victoria","Sydney--Victoria"," 71","Cape Breton",N,N,"",1,338,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 71","Cape Breton",N,N,"",1,338,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 71","Cape Breton",N,N,"",1,338,"Orrell","","Eddie","Conservative","Conservateur",N,N,27
+12010,"Sydney--Victoria","Sydney--Victoria"," 71","Cape Breton",N,N,"",1,338,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+12010,"Sydney--Victoria","Sydney--Victoria"," 72","Cape Breton",N,N,"",0,313,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 72","Cape Breton",N,N,"",0,313,"Battiste","","Jaime","Liberal","Libéral",Y,Y,37
+12010,"Sydney--Victoria","Sydney--Victoria"," 72","Cape Breton",N,N,"",0,313,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 72","Cape Breton",N,N,"",0,313,"Embrett","","Mark","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 72","Cape Breton",N,N,"",0,313,"Orrell","","Eddie","Conservative","Conservateur",N,N,26
+12010,"Sydney--Victoria","Sydney--Victoria"," 72","Cape Breton",N,N,"",0,313,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+12010,"Sydney--Victoria","Sydney--Victoria"," 73","Cape Breton",N,N,"",3,325,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 73","Cape Breton",N,N,"",3,325,"Battiste","","Jaime","Liberal","Libéral",Y,Y,32
+12010,"Sydney--Victoria","Sydney--Victoria"," 73","Cape Breton",N,N,"",3,325,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 73","Cape Breton",N,N,"",3,325,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 73","Cape Breton",N,N,"",3,325,"Orrell","","Eddie","Conservative","Conservateur",N,N,33
+12010,"Sydney--Victoria","Sydney--Victoria"," 73","Cape Breton",N,N,"",3,325,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12010,"Sydney--Victoria","Sydney--Victoria"," 74","Cape Breton",N,N,"",2,354,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 74","Cape Breton",N,N,"",2,354,"Battiste","","Jaime","Liberal","Libéral",Y,Y,39
+12010,"Sydney--Victoria","Sydney--Victoria"," 74","Cape Breton",N,N,"",2,354,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 74","Cape Breton",N,N,"",2,354,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 74","Cape Breton",N,N,"",2,354,"Orrell","","Eddie","Conservative","Conservateur",N,N,35
+12010,"Sydney--Victoria","Sydney--Victoria"," 74","Cape Breton",N,N,"",2,354,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+12010,"Sydney--Victoria","Sydney--Victoria"," 75","Cape Breton",N,N,"",0,372,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 75","Cape Breton",N,N,"",0,372,"Battiste","","Jaime","Liberal","Libéral",Y,Y,40
+12010,"Sydney--Victoria","Sydney--Victoria"," 75","Cape Breton",N,N,"",0,372,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 75","Cape Breton",N,N,"",0,372,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 75","Cape Breton",N,N,"",0,372,"Orrell","","Eddie","Conservative","Conservateur",N,N,32
+12010,"Sydney--Victoria","Sydney--Victoria"," 75","Cape Breton",N,N,"",0,372,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12010,"Sydney--Victoria","Sydney--Victoria"," 76","Cape Breton",N,N,"",2,323,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 76","Cape Breton",N,N,"",2,323,"Battiste","","Jaime","Liberal","Libéral",Y,Y,38
+12010,"Sydney--Victoria","Sydney--Victoria"," 76","Cape Breton",N,N,"",2,323,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 76","Cape Breton",N,N,"",2,323,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 76","Cape Breton",N,N,"",2,323,"Orrell","","Eddie","Conservative","Conservateur",N,N,16
+12010,"Sydney--Victoria","Sydney--Victoria"," 76","Cape Breton",N,N,"",2,323,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12010,"Sydney--Victoria","Sydney--Victoria"," 77","Cape Breton",N,N,"",1,317,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 77","Cape Breton",N,N,"",1,317,"Battiste","","Jaime","Liberal","Libéral",Y,Y,31
+12010,"Sydney--Victoria","Sydney--Victoria"," 77","Cape Breton",N,N,"",1,317,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 77","Cape Breton",N,N,"",1,317,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 77","Cape Breton",N,N,"",1,317,"Orrell","","Eddie","Conservative","Conservateur",N,N,17
+12010,"Sydney--Victoria","Sydney--Victoria"," 77","Cape Breton",N,N,"",1,317,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12010,"Sydney--Victoria","Sydney--Victoria"," 78","Cape Breton",N,N,"",1,337,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 78","Cape Breton",N,N,"",1,337,"Battiste","","Jaime","Liberal","Libéral",Y,Y,30
+12010,"Sydney--Victoria","Sydney--Victoria"," 78","Cape Breton",N,N,"",1,337,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 78","Cape Breton",N,N,"",1,337,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 78","Cape Breton",N,N,"",1,337,"Orrell","","Eddie","Conservative","Conservateur",N,N,33
+12010,"Sydney--Victoria","Sydney--Victoria"," 78","Cape Breton",N,N,"",1,337,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+12010,"Sydney--Victoria","Sydney--Victoria"," 79","Cape Breton",N,N,"",1,313,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 79","Cape Breton",N,N,"",1,313,"Battiste","","Jaime","Liberal","Libéral",Y,Y,48
+12010,"Sydney--Victoria","Sydney--Victoria"," 79","Cape Breton",N,N,"",1,313,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 79","Cape Breton",N,N,"",1,313,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 79","Cape Breton",N,N,"",1,313,"Orrell","","Eddie","Conservative","Conservateur",N,N,27
+12010,"Sydney--Victoria","Sydney--Victoria"," 79","Cape Breton",N,N,"",1,313,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12010,"Sydney--Victoria","Sydney--Victoria"," 80","Cape Breton",N,N,"",0,324,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 80","Cape Breton",N,N,"",0,324,"Battiste","","Jaime","Liberal","Libéral",Y,Y,31
+12010,"Sydney--Victoria","Sydney--Victoria"," 80","Cape Breton",N,N,"",0,324,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 80","Cape Breton",N,N,"",0,324,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 80","Cape Breton",N,N,"",0,324,"Orrell","","Eddie","Conservative","Conservateur",N,N,20
+12010,"Sydney--Victoria","Sydney--Victoria"," 80","Cape Breton",N,N,"",0,324,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12010,"Sydney--Victoria","Sydney--Victoria"," 81","Cape Breton",N,N,"",0,342,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 81","Cape Breton",N,N,"",0,342,"Battiste","","Jaime","Liberal","Libéral",Y,Y,53
+12010,"Sydney--Victoria","Sydney--Victoria"," 81","Cape Breton",N,N,"",0,342,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 81","Cape Breton",N,N,"",0,342,"Embrett","","Mark","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 81","Cape Breton",N,N,"",0,342,"Orrell","","Eddie","Conservative","Conservateur",N,N,30
+12010,"Sydney--Victoria","Sydney--Victoria"," 81","Cape Breton",N,N,"",0,342,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12010,"Sydney--Victoria","Sydney--Victoria"," 82","Cape Breton",N,N,"",0,358,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 82","Cape Breton",N,N,"",0,358,"Battiste","","Jaime","Liberal","Libéral",Y,Y,64
+12010,"Sydney--Victoria","Sydney--Victoria"," 82","Cape Breton",N,N,"",0,358,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 82","Cape Breton",N,N,"",0,358,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 82","Cape Breton",N,N,"",0,358,"Orrell","","Eddie","Conservative","Conservateur",N,N,36
+12010,"Sydney--Victoria","Sydney--Victoria"," 82","Cape Breton",N,N,"",0,358,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12010,"Sydney--Victoria","Sydney--Victoria"," 83","Cape Breton",N,N,"",0,357,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 83","Cape Breton",N,N,"",0,357,"Battiste","","Jaime","Liberal","Libéral",Y,Y,59
+12010,"Sydney--Victoria","Sydney--Victoria"," 83","Cape Breton",N,N,"",0,357,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 83","Cape Breton",N,N,"",0,357,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 83","Cape Breton",N,N,"",0,357,"Orrell","","Eddie","Conservative","Conservateur",N,N,41
+12010,"Sydney--Victoria","Sydney--Victoria"," 83","Cape Breton",N,N,"",0,357,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12010,"Sydney--Victoria","Sydney--Victoria"," 84","Cape Breton",N,N,"",2,341,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 84","Cape Breton",N,N,"",2,341,"Battiste","","Jaime","Liberal","Libéral",Y,Y,58
+12010,"Sydney--Victoria","Sydney--Victoria"," 84","Cape Breton",N,N,"",2,341,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 84","Cape Breton",N,N,"",2,341,"Embrett","","Mark","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 84","Cape Breton",N,N,"",2,341,"Orrell","","Eddie","Conservative","Conservateur",N,N,35
+12010,"Sydney--Victoria","Sydney--Victoria"," 84","Cape Breton",N,N,"",2,341,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+12010,"Sydney--Victoria","Sydney--Victoria"," 85","Cape Breton",N,N,"",0,326,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 85","Cape Breton",N,N,"",0,326,"Battiste","","Jaime","Liberal","Libéral",Y,Y,19
+12010,"Sydney--Victoria","Sydney--Victoria"," 85","Cape Breton",N,N,"",0,326,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 85","Cape Breton",N,N,"",0,326,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 85","Cape Breton",N,N,"",0,326,"Orrell","","Eddie","Conservative","Conservateur",N,N,36
+12010,"Sydney--Victoria","Sydney--Victoria"," 85","Cape Breton",N,N,"",0,326,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12010,"Sydney--Victoria","Sydney--Victoria"," 86","Cape Breton",N,N,"",2,457,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 86","Cape Breton",N,N,"",2,457,"Battiste","","Jaime","Liberal","Libéral",Y,Y,69
+12010,"Sydney--Victoria","Sydney--Victoria"," 86","Cape Breton",N,N,"",2,457,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 86","Cape Breton",N,N,"",2,457,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 86","Cape Breton",N,N,"",2,457,"Orrell","","Eddie","Conservative","Conservateur",N,N,71
+12010,"Sydney--Victoria","Sydney--Victoria"," 86","Cape Breton",N,N,"",2,457,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12010,"Sydney--Victoria","Sydney--Victoria"," 87","Upper North Sydney",N,N,"",2,399,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 87","Upper North Sydney",N,N,"",2,399,"Battiste","","Jaime","Liberal","Libéral",Y,Y,62
+12010,"Sydney--Victoria","Sydney--Victoria"," 87","Upper North Sydney",N,N,"",2,399,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 87","Upper North Sydney",N,N,"",2,399,"Embrett","","Mark","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 87","Upper North Sydney",N,N,"",2,399,"Orrell","","Eddie","Conservative","Conservateur",N,N,69
+12010,"Sydney--Victoria","Sydney--Victoria"," 87","Upper North Sydney",N,N,"",2,399,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12010,"Sydney--Victoria","Sydney--Victoria"," 88","Edwardsville",N,N,"",1,289,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 88","Edwardsville",N,N,"",1,289,"Battiste","","Jaime","Liberal","Libéral",Y,Y,46
+12010,"Sydney--Victoria","Sydney--Victoria"," 88","Edwardsville",N,N,"",1,289,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 88","Edwardsville",N,N,"",1,289,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 88","Edwardsville",N,N,"",1,289,"Orrell","","Eddie","Conservative","Conservateur",N,N,51
+12010,"Sydney--Victoria","Sydney--Victoria"," 88","Edwardsville",N,N,"",1,289,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+12010,"Sydney--Victoria","Sydney--Victoria"," 89","Westmount",N,N,"",0,409,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 89","Westmount",N,N,"",0,409,"Battiste","","Jaime","Liberal","Libéral",Y,Y,70
+12010,"Sydney--Victoria","Sydney--Victoria"," 89","Westmount",N,N,"",0,409,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 89","Westmount",N,N,"",0,409,"Embrett","","Mark","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 89","Westmount",N,N,"",0,409,"Orrell","","Eddie","Conservative","Conservateur",N,N,60
+12010,"Sydney--Victoria","Sydney--Victoria"," 89","Westmount",N,N,"",0,409,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+12010,"Sydney--Victoria","Sydney--Victoria"," 90","Westmount",N,N,"",1,376,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 90","Westmount",N,N,"",1,376,"Battiste","","Jaime","Liberal","Libéral",Y,Y,62
+12010,"Sydney--Victoria","Sydney--Victoria"," 90","Westmount",N,N,"",1,376,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 90","Westmount",N,N,"",1,376,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 90","Westmount",N,N,"",1,376,"Orrell","","Eddie","Conservative","Conservateur",N,N,42
+12010,"Sydney--Victoria","Sydney--Victoria"," 90","Westmount",N,N,"",1,376,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+12010,"Sydney--Victoria","Sydney--Victoria"," 91","Westmount",N,N,"",1,381,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 91","Westmount",N,N,"",1,381,"Battiste","","Jaime","Liberal","Libéral",Y,Y,54
+12010,"Sydney--Victoria","Sydney--Victoria"," 91","Westmount",N,N,"",1,381,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 91","Westmount",N,N,"",1,381,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 91","Westmount",N,N,"",1,381,"Orrell","","Eddie","Conservative","Conservateur",N,N,51
+12010,"Sydney--Victoria","Sydney--Victoria"," 91","Westmount",N,N,"",1,381,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+12010,"Sydney--Victoria","Sydney--Victoria"," 92","Cape Breton",N,N,"",1,421,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 92","Cape Breton",N,N,"",1,421,"Battiste","","Jaime","Liberal","Libéral",Y,Y,74
+12010,"Sydney--Victoria","Sydney--Victoria"," 92","Cape Breton",N,N,"",1,421,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 92","Cape Breton",N,N,"",1,421,"Embrett","","Mark","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 92","Cape Breton",N,N,"",1,421,"Orrell","","Eddie","Conservative","Conservateur",N,N,54
+12010,"Sydney--Victoria","Sydney--Victoria"," 92","Cape Breton",N,N,"",1,421,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12010,"Sydney--Victoria","Sydney--Victoria"," 93","Cape Breton",N,N,"",0,460,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 93","Cape Breton",N,N,"",0,460,"Battiste","","Jaime","Liberal","Libéral",Y,Y,86
+12010,"Sydney--Victoria","Sydney--Victoria"," 93","Cape Breton",N,N,"",0,460,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 93","Cape Breton",N,N,"",0,460,"Embrett","","Mark","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 93","Cape Breton",N,N,"",0,460,"Orrell","","Eddie","Conservative","Conservateur",N,N,59
+12010,"Sydney--Victoria","Sydney--Victoria"," 93","Cape Breton",N,N,"",0,460,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+12010,"Sydney--Victoria","Sydney--Victoria"," 94","Cape Breton",N,N,"",4,357,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,8
+12010,"Sydney--Victoria","Sydney--Victoria"," 94","Cape Breton",N,N,"",4,357,"Battiste","","Jaime","Liberal","Libéral",Y,Y,46
+12010,"Sydney--Victoria","Sydney--Victoria"," 94","Cape Breton",N,N,"",4,357,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 94","Cape Breton",N,N,"",4,357,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 94","Cape Breton",N,N,"",4,357,"Orrell","","Eddie","Conservative","Conservateur",N,N,26
+12010,"Sydney--Victoria","Sydney--Victoria"," 94","Cape Breton",N,N,"",4,357,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+12010,"Sydney--Victoria","Sydney--Victoria"," 95","Cape Breton",N,N,"",1,339,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,8
+12010,"Sydney--Victoria","Sydney--Victoria"," 95","Cape Breton",N,N,"",1,339,"Battiste","","Jaime","Liberal","Libéral",Y,Y,50
+12010,"Sydney--Victoria","Sydney--Victoria"," 95","Cape Breton",N,N,"",1,339,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 95","Cape Breton",N,N,"",1,339,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 95","Cape Breton",N,N,"",1,339,"Orrell","","Eddie","Conservative","Conservateur",N,N,28
+12010,"Sydney--Victoria","Sydney--Victoria"," 95","Cape Breton",N,N,"",1,339,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+12010,"Sydney--Victoria","Sydney--Victoria"," 96","Cape Breton",N,N,"",1,367,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 96","Cape Breton",N,N,"",1,367,"Battiste","","Jaime","Liberal","Libéral",Y,Y,43
+12010,"Sydney--Victoria","Sydney--Victoria"," 96","Cape Breton",N,N,"",1,367,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 96","Cape Breton",N,N,"",1,367,"Embrett","","Mark","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 96","Cape Breton",N,N,"",1,367,"Orrell","","Eddie","Conservative","Conservateur",N,N,40
+12010,"Sydney--Victoria","Sydney--Victoria"," 96","Cape Breton",N,N,"",1,367,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+12010,"Sydney--Victoria","Sydney--Victoria"," 97","Cape Breton",N,N,"",0,291,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 97","Cape Breton",N,N,"",0,291,"Battiste","","Jaime","Liberal","Libéral",Y,Y,65
+12010,"Sydney--Victoria","Sydney--Victoria"," 97","Cape Breton",N,N,"",0,291,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 97","Cape Breton",N,N,"",0,291,"Embrett","","Mark","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 97","Cape Breton",N,N,"",0,291,"Orrell","","Eddie","Conservative","Conservateur",N,N,16
+12010,"Sydney--Victoria","Sydney--Victoria"," 97","Cape Breton",N,N,"",0,291,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+12010,"Sydney--Victoria","Sydney--Victoria"," 98","Cape Breton",N,N,"",0,339,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 98","Cape Breton",N,N,"",0,339,"Battiste","","Jaime","Liberal","Libéral",Y,Y,72
+12010,"Sydney--Victoria","Sydney--Victoria"," 98","Cape Breton",N,N,"",0,339,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 98","Cape Breton",N,N,"",0,339,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 98","Cape Breton",N,N,"",0,339,"Orrell","","Eddie","Conservative","Conservateur",N,N,26
+12010,"Sydney--Victoria","Sydney--Victoria"," 98","Cape Breton",N,N,"",0,339,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+12010,"Sydney--Victoria","Sydney--Victoria"," 99","Cape Breton",N,N,"",0,352,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 99","Cape Breton",N,N,"",0,352,"Battiste","","Jaime","Liberal","Libéral",Y,Y,56
+12010,"Sydney--Victoria","Sydney--Victoria"," 99","Cape Breton",N,N,"",0,352,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 99","Cape Breton",N,N,"",0,352,"Embrett","","Mark","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 99","Cape Breton",N,N,"",0,352,"Orrell","","Eddie","Conservative","Conservateur",N,N,35
+12010,"Sydney--Victoria","Sydney--Victoria"," 99","Cape Breton",N,N,"",0,352,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+12010,"Sydney--Victoria","Sydney--Victoria"," 100","Cape Breton",N,N,"",3,365,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 100","Cape Breton",N,N,"",3,365,"Battiste","","Jaime","Liberal","Libéral",Y,Y,59
+12010,"Sydney--Victoria","Sydney--Victoria"," 100","Cape Breton",N,N,"",3,365,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 100","Cape Breton",N,N,"",3,365,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 100","Cape Breton",N,N,"",3,365,"Orrell","","Eddie","Conservative","Conservateur",N,N,36
+12010,"Sydney--Victoria","Sydney--Victoria"," 100","Cape Breton",N,N,"",3,365,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+12010,"Sydney--Victoria","Sydney--Victoria"," 101","Cape Breton",N,N,"",2,298,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 101","Cape Breton",N,N,"",2,298,"Battiste","","Jaime","Liberal","Libéral",Y,Y,40
+12010,"Sydney--Victoria","Sydney--Victoria"," 101","Cape Breton",N,N,"",2,298,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 101","Cape Breton",N,N,"",2,298,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 101","Cape Breton",N,N,"",2,298,"Orrell","","Eddie","Conservative","Conservateur",N,N,20
+12010,"Sydney--Victoria","Sydney--Victoria"," 101","Cape Breton",N,N,"",2,298,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+12010,"Sydney--Victoria","Sydney--Victoria"," 102","Cape Breton",N,N,"",1,284,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 102","Cape Breton",N,N,"",1,284,"Battiste","","Jaime","Liberal","Libéral",Y,Y,37
+12010,"Sydney--Victoria","Sydney--Victoria"," 102","Cape Breton",N,N,"",1,284,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 102","Cape Breton",N,N,"",1,284,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 102","Cape Breton",N,N,"",1,284,"Orrell","","Eddie","Conservative","Conservateur",N,N,18
+12010,"Sydney--Victoria","Sydney--Victoria"," 102","Cape Breton",N,N,"",1,284,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12010,"Sydney--Victoria","Sydney--Victoria"," 103","Cape Breton",N,N,"",1,403,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 103","Cape Breton",N,N,"",1,403,"Battiste","","Jaime","Liberal","Libéral",Y,Y,53
+12010,"Sydney--Victoria","Sydney--Victoria"," 103","Cape Breton",N,N,"",1,403,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 103","Cape Breton",N,N,"",1,403,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 103","Cape Breton",N,N,"",1,403,"Orrell","","Eddie","Conservative","Conservateur",N,N,30
+12010,"Sydney--Victoria","Sydney--Victoria"," 103","Cape Breton",N,N,"",1,403,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12010,"Sydney--Victoria","Sydney--Victoria"," 104","Cape Breton",N,N,"",1,275,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,8
+12010,"Sydney--Victoria","Sydney--Victoria"," 104","Cape Breton",N,N,"",1,275,"Battiste","","Jaime","Liberal","Libéral",Y,Y,48
+12010,"Sydney--Victoria","Sydney--Victoria"," 104","Cape Breton",N,N,"",1,275,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 104","Cape Breton",N,N,"",1,275,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 104","Cape Breton",N,N,"",1,275,"Orrell","","Eddie","Conservative","Conservateur",N,N,20
+12010,"Sydney--Victoria","Sydney--Victoria"," 104","Cape Breton",N,N,"",1,275,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12010,"Sydney--Victoria","Sydney--Victoria"," 105","Cape Breton",N,N,"",3,275,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,8
+12010,"Sydney--Victoria","Sydney--Victoria"," 105","Cape Breton",N,N,"",3,275,"Battiste","","Jaime","Liberal","Libéral",Y,Y,51
+12010,"Sydney--Victoria","Sydney--Victoria"," 105","Cape Breton",N,N,"",3,275,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 105","Cape Breton",N,N,"",3,275,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 105","Cape Breton",N,N,"",3,275,"Orrell","","Eddie","Conservative","Conservateur",N,N,24
+12010,"Sydney--Victoria","Sydney--Victoria"," 105","Cape Breton",N,N,"",3,275,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+12010,"Sydney--Victoria","Sydney--Victoria"," 106","Cape Breton",N,N,"",0,343,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 106","Cape Breton",N,N,"",0,343,"Battiste","","Jaime","Liberal","Libéral",Y,Y,64
+12010,"Sydney--Victoria","Sydney--Victoria"," 106","Cape Breton",N,N,"",0,343,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 106","Cape Breton",N,N,"",0,343,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 106","Cape Breton",N,N,"",0,343,"Orrell","","Eddie","Conservative","Conservateur",N,N,42
+12010,"Sydney--Victoria","Sydney--Victoria"," 106","Cape Breton",N,N,"",0,343,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12010,"Sydney--Victoria","Sydney--Victoria"," 107","Cape Breton",N,N,"",1,340,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 107","Cape Breton",N,N,"",1,340,"Battiste","","Jaime","Liberal","Libéral",Y,Y,73
+12010,"Sydney--Victoria","Sydney--Victoria"," 107","Cape Breton",N,N,"",1,340,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 107","Cape Breton",N,N,"",1,340,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 107","Cape Breton",N,N,"",1,340,"Orrell","","Eddie","Conservative","Conservateur",N,N,34
+12010,"Sydney--Victoria","Sydney--Victoria"," 107","Cape Breton",N,N,"",1,340,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12010,"Sydney--Victoria","Sydney--Victoria"," 108","Cape Breton",N,N,"",1,348,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 108","Cape Breton",N,N,"",1,348,"Battiste","","Jaime","Liberal","Libéral",Y,Y,58
+12010,"Sydney--Victoria","Sydney--Victoria"," 108","Cape Breton",N,N,"",1,348,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 108","Cape Breton",N,N,"",1,348,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 108","Cape Breton",N,N,"",1,348,"Orrell","","Eddie","Conservative","Conservateur",N,N,30
+12010,"Sydney--Victoria","Sydney--Victoria"," 108","Cape Breton",N,N,"",1,348,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+12010,"Sydney--Victoria","Sydney--Victoria"," 109","Cape Breton",N,N,"",0,311,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 109","Cape Breton",N,N,"",0,311,"Battiste","","Jaime","Liberal","Libéral",Y,Y,41
+12010,"Sydney--Victoria","Sydney--Victoria"," 109","Cape Breton",N,N,"",0,311,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 109","Cape Breton",N,N,"",0,311,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 109","Cape Breton",N,N,"",0,311,"Orrell","","Eddie","Conservative","Conservateur",N,N,27
+12010,"Sydney--Victoria","Sydney--Victoria"," 109","Cape Breton",N,N,"",0,311,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+12010,"Sydney--Victoria","Sydney--Victoria"," 110","Cape Breton",N,N,"",1,295,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 110","Cape Breton",N,N,"",1,295,"Battiste","","Jaime","Liberal","Libéral",Y,Y,37
+12010,"Sydney--Victoria","Sydney--Victoria"," 110","Cape Breton",N,N,"",1,295,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 110","Cape Breton",N,N,"",1,295,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 110","Cape Breton",N,N,"",1,295,"Orrell","","Eddie","Conservative","Conservateur",N,N,42
+12010,"Sydney--Victoria","Sydney--Victoria"," 110","Cape Breton",N,N,"",1,295,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+12010,"Sydney--Victoria","Sydney--Victoria"," 111","Hillside Boularderie",N,N,"",0,380,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 111","Hillside Boularderie",N,N,"",0,380,"Battiste","","Jaime","Liberal","Libéral",Y,Y,37
+12010,"Sydney--Victoria","Sydney--Victoria"," 111","Hillside Boularderie",N,N,"",0,380,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 111","Hillside Boularderie",N,N,"",0,380,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 111","Hillside Boularderie",N,N,"",0,380,"Orrell","","Eddie","Conservative","Conservateur",N,N,67
+12010,"Sydney--Victoria","Sydney--Victoria"," 111","Hillside Boularderie",N,N,"",0,380,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12010,"Sydney--Victoria","Sydney--Victoria"," 112","Cape Breton",N,N,"",2,282,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 112","Cape Breton",N,N,"",2,282,"Battiste","","Jaime","Liberal","Libéral",Y,Y,48
+12010,"Sydney--Victoria","Sydney--Victoria"," 112","Cape Breton",N,N,"",2,282,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 112","Cape Breton",N,N,"",2,282,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 112","Cape Breton",N,N,"",2,282,"Orrell","","Eddie","Conservative","Conservateur",N,N,31
+12010,"Sydney--Victoria","Sydney--Victoria"," 112","Cape Breton",N,N,"",2,282,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+12010,"Sydney--Victoria","Sydney--Victoria"," 113","Cape Breton",N,N,"",2,332,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 113","Cape Breton",N,N,"",2,332,"Battiste","","Jaime","Liberal","Libéral",Y,Y,66
+12010,"Sydney--Victoria","Sydney--Victoria"," 113","Cape Breton",N,N,"",2,332,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 113","Cape Breton",N,N,"",2,332,"Embrett","","Mark","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 113","Cape Breton",N,N,"",2,332,"Orrell","","Eddie","Conservative","Conservateur",N,N,30
+12010,"Sydney--Victoria","Sydney--Victoria"," 113","Cape Breton",N,N,"",2,332,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+12010,"Sydney--Victoria","Sydney--Victoria"," 114","Cape Breton",N,N,"",1,379,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 114","Cape Breton",N,N,"",1,379,"Battiste","","Jaime","Liberal","Libéral",Y,Y,46
+12010,"Sydney--Victoria","Sydney--Victoria"," 114","Cape Breton",N,N,"",1,379,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 114","Cape Breton",N,N,"",1,379,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 114","Cape Breton",N,N,"",1,379,"Orrell","","Eddie","Conservative","Conservateur",N,N,53
+12010,"Sydney--Victoria","Sydney--Victoria"," 114","Cape Breton",N,N,"",1,379,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12010,"Sydney--Victoria","Sydney--Victoria"," 115","Cape Breton",N,N,"",0,399,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 115","Cape Breton",N,N,"",0,399,"Battiste","","Jaime","Liberal","Libéral",Y,Y,67
+12010,"Sydney--Victoria","Sydney--Victoria"," 115","Cape Breton",N,N,"",0,399,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 115","Cape Breton",N,N,"",0,399,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 115","Cape Breton",N,N,"",0,399,"Orrell","","Eddie","Conservative","Conservateur",N,N,26
+12010,"Sydney--Victoria","Sydney--Victoria"," 115","Cape Breton",N,N,"",0,399,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+12010,"Sydney--Victoria","Sydney--Victoria"," 116","Cape Breton",N,N,"",2,361,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 116","Cape Breton",N,N,"",2,361,"Battiste","","Jaime","Liberal","Libéral",Y,Y,38
+12010,"Sydney--Victoria","Sydney--Victoria"," 116","Cape Breton",N,N,"",2,361,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 116","Cape Breton",N,N,"",2,361,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 116","Cape Breton",N,N,"",2,361,"Orrell","","Eddie","Conservative","Conservateur",N,N,29
+12010,"Sydney--Victoria","Sydney--Victoria"," 116","Cape Breton",N,N,"",2,361,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+12010,"Sydney--Victoria","Sydney--Victoria"," 117","Cape Breton",N,N,"",3,350,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 117","Cape Breton",N,N,"",3,350,"Battiste","","Jaime","Liberal","Libéral",Y,Y,51
+12010,"Sydney--Victoria","Sydney--Victoria"," 117","Cape Breton",N,N,"",3,350,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 117","Cape Breton",N,N,"",3,350,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 117","Cape Breton",N,N,"",3,350,"Orrell","","Eddie","Conservative","Conservateur",N,N,30
+12010,"Sydney--Victoria","Sydney--Victoria"," 117","Cape Breton",N,N,"",3,350,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12010,"Sydney--Victoria","Sydney--Victoria"," 118","Georges River",N,N,"",1,308,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 118","Georges River",N,N,"",1,308,"Battiste","","Jaime","Liberal","Libéral",Y,Y,26
+12010,"Sydney--Victoria","Sydney--Victoria"," 118","Georges River",N,N,"",1,308,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 118","Georges River",N,N,"",1,308,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 118","Georges River",N,N,"",1,308,"Orrell","","Eddie","Conservative","Conservateur",N,N,86
+12010,"Sydney--Victoria","Sydney--Victoria"," 118","Georges River",N,N,"",1,308,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12010,"Sydney--Victoria","Sydney--Victoria"," 119","Scotch Lake",N,N,"",0,338,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 119","Scotch Lake",N,N,"",0,338,"Battiste","","Jaime","Liberal","Libéral",Y,Y,68
+12010,"Sydney--Victoria","Sydney--Victoria"," 119","Scotch Lake",N,N,"",0,338,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 119","Scotch Lake",N,N,"",0,338,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 119","Scotch Lake",N,N,"",0,338,"Orrell","","Eddie","Conservative","Conservateur",N,N,95
+12010,"Sydney--Victoria","Sydney--Victoria"," 119","Scotch Lake",N,N,"",0,338,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+12010,"Sydney--Victoria","Sydney--Victoria"," 120","Cape Breton",N,N,"",2,658,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 120","Cape Breton",N,N,"",2,658,"Battiste","","Jaime","Liberal","Libéral",Y,Y,93
+12010,"Sydney--Victoria","Sydney--Victoria"," 120","Cape Breton",N,N,"",2,658,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 120","Cape Breton",N,N,"",2,658,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 120","Cape Breton",N,N,"",2,658,"Orrell","","Eddie","Conservative","Conservateur",N,N,45
+12010,"Sydney--Victoria","Sydney--Victoria"," 120","Cape Breton",N,N,"",2,658,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+12010,"Sydney--Victoria","Sydney--Victoria"," 121","Cape Breton",N,N,"",2,323,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 121","Cape Breton",N,N,"",2,323,"Battiste","","Jaime","Liberal","Libéral",Y,Y,44
+12010,"Sydney--Victoria","Sydney--Victoria"," 121","Cape Breton",N,N,"",2,323,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 121","Cape Breton",N,N,"",2,323,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 121","Cape Breton",N,N,"",2,323,"Orrell","","Eddie","Conservative","Conservateur",N,N,28
+12010,"Sydney--Victoria","Sydney--Victoria"," 121","Cape Breton",N,N,"",2,323,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12010,"Sydney--Victoria","Sydney--Victoria"," 122","Membertou 28B",N,N,"",0,369,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 122","Membertou 28B",N,N,"",0,369,"Battiste","","Jaime","Liberal","Libéral",Y,Y,48
+12010,"Sydney--Victoria","Sydney--Victoria"," 122","Membertou 28B",N,N,"",0,369,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 122","Membertou 28B",N,N,"",0,369,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 122","Membertou 28B",N,N,"",0,369,"Orrell","","Eddie","Conservative","Conservateur",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 122","Membertou 28B",N,N,"",0,369,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,98
+12010,"Sydney--Victoria","Sydney--Victoria"," 123","Cape Breton",N,N,"",2,411,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 123","Cape Breton",N,N,"",2,411,"Battiste","","Jaime","Liberal","Libéral",Y,Y,72
+12010,"Sydney--Victoria","Sydney--Victoria"," 123","Cape Breton",N,N,"",2,411,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 123","Cape Breton",N,N,"",2,411,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 123","Cape Breton",N,N,"",2,411,"Orrell","","Eddie","Conservative","Conservateur",N,N,44
+12010,"Sydney--Victoria","Sydney--Victoria"," 123","Cape Breton",N,N,"",2,411,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12010,"Sydney--Victoria","Sydney--Victoria"," 124","Membertou 28B",N,N,"",0,574,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 124","Membertou 28B",N,N,"",0,574,"Battiste","","Jaime","Liberal","Libéral",Y,Y,85
+12010,"Sydney--Victoria","Sydney--Victoria"," 124","Membertou 28B",N,N,"",0,574,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 124","Membertou 28B",N,N,"",0,574,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 124","Membertou 28B",N,N,"",0,574,"Orrell","","Eddie","Conservative","Conservateur",N,N,23
+12010,"Sydney--Victoria","Sydney--Victoria"," 124","Membertou 28B",N,N,"",0,574,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,104
+12010,"Sydney--Victoria","Sydney--Victoria"," 125","Cape Breton",N,N,"",1,369,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,8
+12010,"Sydney--Victoria","Sydney--Victoria"," 125","Cape Breton",N,N,"",1,369,"Battiste","","Jaime","Liberal","Libéral",Y,Y,66
+12010,"Sydney--Victoria","Sydney--Victoria"," 125","Cape Breton",N,N,"",1,369,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 125","Cape Breton",N,N,"",1,369,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 125","Cape Breton",N,N,"",1,369,"Orrell","","Eddie","Conservative","Conservateur",N,N,34
+12010,"Sydney--Victoria","Sydney--Victoria"," 125","Cape Breton",N,N,"",1,369,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12010,"Sydney--Victoria","Sydney--Victoria"," 126","Cape Breton",N,N,"",1,322,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 126","Cape Breton",N,N,"",1,322,"Battiste","","Jaime","Liberal","Libéral",Y,Y,48
+12010,"Sydney--Victoria","Sydney--Victoria"," 126","Cape Breton",N,N,"",1,322,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 126","Cape Breton",N,N,"",1,322,"Embrett","","Mark","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 126","Cape Breton",N,N,"",1,322,"Orrell","","Eddie","Conservative","Conservateur",N,N,40
+12010,"Sydney--Victoria","Sydney--Victoria"," 126","Cape Breton",N,N,"",1,322,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12010,"Sydney--Victoria","Sydney--Victoria"," 127","Cape Breton",N,N,"",0,364,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 127","Cape Breton",N,N,"",0,364,"Battiste","","Jaime","Liberal","Libéral",Y,Y,52
+12010,"Sydney--Victoria","Sydney--Victoria"," 127","Cape Breton",N,N,"",0,364,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 127","Cape Breton",N,N,"",0,364,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 127","Cape Breton",N,N,"",0,364,"Orrell","","Eddie","Conservative","Conservateur",N,N,29
+12010,"Sydney--Victoria","Sydney--Victoria"," 127","Cape Breton",N,N,"",0,364,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12010,"Sydney--Victoria","Sydney--Victoria"," 128","Cape Breton",N,N,"",0,351,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 128","Cape Breton",N,N,"",0,351,"Battiste","","Jaime","Liberal","Libéral",Y,Y,57
+12010,"Sydney--Victoria","Sydney--Victoria"," 128","Cape Breton",N,N,"",0,351,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 128","Cape Breton",N,N,"",0,351,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 128","Cape Breton",N,N,"",0,351,"Orrell","","Eddie","Conservative","Conservateur",N,N,38
+12010,"Sydney--Victoria","Sydney--Victoria"," 128","Cape Breton",N,N,"",0,351,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12010,"Sydney--Victoria","Sydney--Victoria"," 129","Cape Breton",N,N,"",3,503,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 129","Cape Breton",N,N,"",3,503,"Battiste","","Jaime","Liberal","Libéral",Y,Y,86
+12010,"Sydney--Victoria","Sydney--Victoria"," 129","Cape Breton",N,N,"",3,503,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 129","Cape Breton",N,N,"",3,503,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 129","Cape Breton",N,N,"",3,503,"Orrell","","Eddie","Conservative","Conservateur",N,N,56
+12010,"Sydney--Victoria","Sydney--Victoria"," 129","Cape Breton",N,N,"",3,503,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+12010,"Sydney--Victoria","Sydney--Victoria"," 130","Cape Breton",N,N,"",0,434,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 130","Cape Breton",N,N,"",0,434,"Battiste","","Jaime","Liberal","Libéral",Y,Y,55
+12010,"Sydney--Victoria","Sydney--Victoria"," 130","Cape Breton",N,N,"",0,434,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 130","Cape Breton",N,N,"",0,434,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 130","Cape Breton",N,N,"",0,434,"Orrell","","Eddie","Conservative","Conservateur",N,N,80
+12010,"Sydney--Victoria","Sydney--Victoria"," 130","Cape Breton",N,N,"",0,434,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12010,"Sydney--Victoria","Sydney--Victoria"," 131","Cape Breton",N,N,"",0,478,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,11
+12010,"Sydney--Victoria","Sydney--Victoria"," 131","Cape Breton",N,N,"",0,478,"Battiste","","Jaime","Liberal","Libéral",Y,Y,58
+12010,"Sydney--Victoria","Sydney--Victoria"," 131","Cape Breton",N,N,"",0,478,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 131","Cape Breton",N,N,"",0,478,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 131","Cape Breton",N,N,"",0,478,"Orrell","","Eddie","Conservative","Conservateur",N,N,70
+12010,"Sydney--Victoria","Sydney--Victoria"," 131","Cape Breton",N,N,"",0,478,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+12010,"Sydney--Victoria","Sydney--Victoria"," 132","Cape Breton",N,N,"",0,295,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 132","Cape Breton",N,N,"",0,295,"Battiste","","Jaime","Liberal","Libéral",Y,Y,22
+12010,"Sydney--Victoria","Sydney--Victoria"," 132","Cape Breton",N,N,"",0,295,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 132","Cape Breton",N,N,"",0,295,"Embrett","","Mark","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 132","Cape Breton",N,N,"",0,295,"Orrell","","Eddie","Conservative","Conservateur",N,N,52
+12010,"Sydney--Victoria","Sydney--Victoria"," 132","Cape Breton",N,N,"",0,295,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12010,"Sydney--Victoria","Sydney--Victoria"," 133","Cape Breton",N,N,"",2,402,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,8
+12010,"Sydney--Victoria","Sydney--Victoria"," 133","Cape Breton",N,N,"",2,402,"Battiste","","Jaime","Liberal","Libéral",Y,Y,38
+12010,"Sydney--Victoria","Sydney--Victoria"," 133","Cape Breton",N,N,"",2,402,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 133","Cape Breton",N,N,"",2,402,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 133","Cape Breton",N,N,"",2,402,"Orrell","","Eddie","Conservative","Conservateur",N,N,50
+12010,"Sydney--Victoria","Sydney--Victoria"," 133","Cape Breton",N,N,"",2,402,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12010,"Sydney--Victoria","Sydney--Victoria"," 134","Cape Breton",N,N,"",0,370,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 134","Cape Breton",N,N,"",0,370,"Battiste","","Jaime","Liberal","Libéral",Y,Y,27
+12010,"Sydney--Victoria","Sydney--Victoria"," 134","Cape Breton",N,N,"",0,370,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 134","Cape Breton",N,N,"",0,370,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 134","Cape Breton",N,N,"",0,370,"Orrell","","Eddie","Conservative","Conservateur",N,N,61
+12010,"Sydney--Victoria","Sydney--Victoria"," 134","Cape Breton",N,N,"",0,370,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12010,"Sydney--Victoria","Sydney--Victoria"," 135","Cape Breton",N,N,"",2,438,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,8
+12010,"Sydney--Victoria","Sydney--Victoria"," 135","Cape Breton",N,N,"",2,438,"Battiste","","Jaime","Liberal","Libéral",Y,Y,34
+12010,"Sydney--Victoria","Sydney--Victoria"," 135","Cape Breton",N,N,"",2,438,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 135","Cape Breton",N,N,"",2,438,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 135","Cape Breton",N,N,"",2,438,"Orrell","","Eddie","Conservative","Conservateur",N,N,76
+12010,"Sydney--Victoria","Sydney--Victoria"," 135","Cape Breton",N,N,"",2,438,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12010,"Sydney--Victoria","Sydney--Victoria"," 136","Cape Breton",N,N,"",2,419,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 136","Cape Breton",N,N,"",2,419,"Battiste","","Jaime","Liberal","Libéral",Y,Y,53
+12010,"Sydney--Victoria","Sydney--Victoria"," 136","Cape Breton",N,N,"",2,419,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 136","Cape Breton",N,N,"",2,419,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 136","Cape Breton",N,N,"",2,419,"Orrell","","Eddie","Conservative","Conservateur",N,N,93
+12010,"Sydney--Victoria","Sydney--Victoria"," 136","Cape Breton",N,N,"",2,419,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12010,"Sydney--Victoria","Sydney--Victoria"," 137","Leitches Creek",N,N,"",2,298,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 137","Leitches Creek",N,N,"",2,298,"Battiste","","Jaime","Liberal","Libéral",Y,Y,69
+12010,"Sydney--Victoria","Sydney--Victoria"," 137","Leitches Creek",N,N,"",2,298,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 137","Leitches Creek",N,N,"",2,298,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 137","Leitches Creek",N,N,"",2,298,"Orrell","","Eddie","Conservative","Conservateur",N,N,53
+12010,"Sydney--Victoria","Sydney--Victoria"," 137","Leitches Creek",N,N,"",2,298,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+12010,"Sydney--Victoria","Sydney--Victoria"," 138","Westmount",N,N,"",1,315,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 138","Westmount",N,N,"",1,315,"Battiste","","Jaime","Liberal","Libéral",Y,Y,51
+12010,"Sydney--Victoria","Sydney--Victoria"," 138","Westmount",N,N,"",1,315,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 138","Westmount",N,N,"",1,315,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 138","Westmount",N,N,"",1,315,"Orrell","","Eddie","Conservative","Conservateur",N,N,49
+12010,"Sydney--Victoria","Sydney--Victoria"," 138","Westmount",N,N,"",1,315,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12010,"Sydney--Victoria","Sydney--Victoria"," 139","Coxheath",N,N,"",1,232,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 139","Coxheath",N,N,"",1,232,"Battiste","","Jaime","Liberal","Libéral",Y,Y,31
+12010,"Sydney--Victoria","Sydney--Victoria"," 139","Coxheath",N,N,"",1,232,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 139","Coxheath",N,N,"",1,232,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 139","Coxheath",N,N,"",1,232,"Orrell","","Eddie","Conservative","Conservateur",N,N,31
+12010,"Sydney--Victoria","Sydney--Victoria"," 139","Coxheath",N,N,"",1,232,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12010,"Sydney--Victoria","Sydney--Victoria"," 140","Coxheath",N,N,"",1,373,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 140","Coxheath",N,N,"",1,373,"Battiste","","Jaime","Liberal","Libéral",Y,Y,57
+12010,"Sydney--Victoria","Sydney--Victoria"," 140","Coxheath",N,N,"",1,373,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 140","Coxheath",N,N,"",1,373,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 140","Coxheath",N,N,"",1,373,"Orrell","","Eddie","Conservative","Conservateur",N,N,67
+12010,"Sydney--Victoria","Sydney--Victoria"," 140","Coxheath",N,N,"",1,373,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+12010,"Sydney--Victoria","Sydney--Victoria"," 141","Coxheath",N,N,"",0,352,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 141","Coxheath",N,N,"",0,352,"Battiste","","Jaime","Liberal","Libéral",Y,Y,55
+12010,"Sydney--Victoria","Sydney--Victoria"," 141","Coxheath",N,N,"",0,352,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 141","Coxheath",N,N,"",0,352,"Embrett","","Mark","Green Party","Parti Vert",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 141","Coxheath",N,N,"",0,352,"Orrell","","Eddie","Conservative","Conservateur",N,N,37
+12010,"Sydney--Victoria","Sydney--Victoria"," 141","Coxheath",N,N,"",0,352,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+12010,"Sydney--Victoria","Sydney--Victoria"," 142","Coxheath",N,N,"",0,348,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 142","Coxheath",N,N,"",0,348,"Battiste","","Jaime","Liberal","Libéral",Y,Y,62
+12010,"Sydney--Victoria","Sydney--Victoria"," 142","Coxheath",N,N,"",0,348,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 142","Coxheath",N,N,"",0,348,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 142","Coxheath",N,N,"",0,348,"Orrell","","Eddie","Conservative","Conservateur",N,N,42
+12010,"Sydney--Victoria","Sydney--Victoria"," 142","Coxheath",N,N,"",0,348,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12010,"Sydney--Victoria","Sydney--Victoria"," 143","Coxheath",N,N,"",0,446,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 143","Coxheath",N,N,"",0,446,"Battiste","","Jaime","Liberal","Libéral",Y,Y,59
+12010,"Sydney--Victoria","Sydney--Victoria"," 143","Coxheath",N,N,"",0,446,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 143","Coxheath",N,N,"",0,446,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 143","Coxheath",N,N,"",0,446,"Orrell","","Eddie","Conservative","Conservateur",N,N,60
+12010,"Sydney--Victoria","Sydney--Victoria"," 143","Coxheath",N,N,"",0,446,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12010,"Sydney--Victoria","Sydney--Victoria"," 144","Coxheath",N,N,"",1,342,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 144","Coxheath",N,N,"",1,342,"Battiste","","Jaime","Liberal","Libéral",Y,Y,45
+12010,"Sydney--Victoria","Sydney--Victoria"," 144","Coxheath",N,N,"",1,342,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 144","Coxheath",N,N,"",1,342,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 144","Coxheath",N,N,"",1,342,"Orrell","","Eddie","Conservative","Conservateur",N,N,42
+12010,"Sydney--Victoria","Sydney--Victoria"," 144","Coxheath",N,N,"",1,342,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12010,"Sydney--Victoria","Sydney--Victoria"," 145","Blacketts Lake",N,N,"",0,255,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 145","Blacketts Lake",N,N,"",0,255,"Battiste","","Jaime","Liberal","Libéral",Y,Y,40
+12010,"Sydney--Victoria","Sydney--Victoria"," 145","Blacketts Lake",N,N,"",0,255,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 145","Blacketts Lake",N,N,"",0,255,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 145","Blacketts Lake",N,N,"",0,255,"Orrell","","Eddie","Conservative","Conservateur",N,N,30
+12010,"Sydney--Victoria","Sydney--Victoria"," 145","Blacketts Lake",N,N,"",0,255,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12010,"Sydney--Victoria","Sydney--Victoria"," 146","South Haven",N,N,"",0,358,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 146","South Haven",N,N,"",0,358,"Battiste","","Jaime","Liberal","Libéral",Y,Y,73
+12010,"Sydney--Victoria","Sydney--Victoria"," 146","South Haven",N,N,"",0,358,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 146","South Haven",N,N,"",0,358,"Embrett","","Mark","Green Party","Parti Vert",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 146","South Haven",N,N,"",0,358,"Orrell","","Eddie","Conservative","Conservateur",N,N,50
+12010,"Sydney--Victoria","Sydney--Victoria"," 146","South Haven",N,N,"",0,358,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12010,"Sydney--Victoria","Sydney--Victoria"," 147","Balls Creek",N,N,"",4,385,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 147","Balls Creek",N,N,"",4,385,"Battiste","","Jaime","Liberal","Libéral",Y,Y,84
+12010,"Sydney--Victoria","Sydney--Victoria"," 147","Balls Creek",N,N,"",4,385,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 147","Balls Creek",N,N,"",4,385,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 147","Balls Creek",N,N,"",4,385,"Orrell","","Eddie","Conservative","Conservateur",N,N,69
+12010,"Sydney--Victoria","Sydney--Victoria"," 147","Balls Creek",N,N,"",4,385,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+12010,"Sydney--Victoria","Sydney--Victoria"," 148","Frenchvale",N,N,"",5,378,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,11
+12010,"Sydney--Victoria","Sydney--Victoria"," 148","Frenchvale",N,N,"",5,378,"Battiste","","Jaime","Liberal","Libéral",Y,Y,78
+12010,"Sydney--Victoria","Sydney--Victoria"," 148","Frenchvale",N,N,"",5,378,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 148","Frenchvale",N,N,"",5,378,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 148","Frenchvale",N,N,"",5,378,"Orrell","","Eddie","Conservative","Conservateur",N,N,44
+12010,"Sydney--Victoria","Sydney--Victoria"," 148","Frenchvale",N,N,"",5,378,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12010,"Sydney--Victoria","Sydney--Victoria"," 149","Baddeck",N,N,"",0,502,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 149","Baddeck",N,N,"",0,502,"Battiste","","Jaime","Liberal","Libéral",Y,Y,94
+12010,"Sydney--Victoria","Sydney--Victoria"," 149","Baddeck",N,N,"",0,502,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 149","Baddeck",N,N,"",0,502,"Embrett","","Mark","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 149","Baddeck",N,N,"",0,502,"Orrell","","Eddie","Conservative","Conservateur",N,N,61
+12010,"Sydney--Victoria","Sydney--Victoria"," 149","Baddeck",N,N,"",0,502,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12010,"Sydney--Victoria","Sydney--Victoria"," 150","Boularderie",N,N,"",4,341,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 150","Boularderie",N,N,"",4,341,"Battiste","","Jaime","Liberal","Libéral",Y,Y,72
+12010,"Sydney--Victoria","Sydney--Victoria"," 150","Boularderie",N,N,"",4,341,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 150","Boularderie",N,N,"",4,341,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 150","Boularderie",N,N,"",4,341,"Orrell","","Eddie","Conservative","Conservateur",N,N,102
+12010,"Sydney--Victoria","Sydney--Victoria"," 150","Boularderie",N,N,"",4,341,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12010,"Sydney--Victoria","Sydney--Victoria"," 151","Boisdale",N,N,"",3,244,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 151","Boisdale",N,N,"",3,244,"Battiste","","Jaime","Liberal","Libéral",Y,Y,54
+12010,"Sydney--Victoria","Sydney--Victoria"," 151","Boisdale",N,N,"",3,244,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 151","Boisdale",N,N,"",3,244,"Embrett","","Mark","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 151","Boisdale",N,N,"",3,244,"Orrell","","Eddie","Conservative","Conservateur",N,N,28
+12010,"Sydney--Victoria","Sydney--Victoria"," 151","Boisdale",N,N,"",3,244,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 152","Middle River",N,N,"",3,378,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 152","Middle River",N,N,"",3,378,"Battiste","","Jaime","Liberal","Libéral",Y,Y,81
+12010,"Sydney--Victoria","Sydney--Victoria"," 152","Middle River",N,N,"",3,378,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 152","Middle River",N,N,"",3,378,"Embrett","","Mark","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 152","Middle River",N,N,"",3,378,"Orrell","","Eddie","Conservative","Conservateur",N,N,69
+12010,"Sydney--Victoria","Sydney--Victoria"," 152","Middle River",N,N,"",3,378,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+12010,"Sydney--Victoria","Sydney--Victoria"," 153","Baddeck",N,N,"",2,405,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 153","Baddeck",N,N,"",2,405,"Battiste","","Jaime","Liberal","Libéral",Y,Y,59
+12010,"Sydney--Victoria","Sydney--Victoria"," 153","Baddeck",N,N,"",2,405,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 153","Baddeck",N,N,"",2,405,"Embrett","","Mark","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 153","Baddeck",N,N,"",2,405,"Orrell","","Eddie","Conservative","Conservateur",N,N,54
+12010,"Sydney--Victoria","Sydney--Victoria"," 153","Baddeck",N,N,"",2,405,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12010,"Sydney--Victoria","Sydney--Victoria"," 154","Baddeck",N,N,"",0,313,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 154","Baddeck",N,N,"",0,313,"Battiste","","Jaime","Liberal","Libéral",Y,Y,51
+12010,"Sydney--Victoria","Sydney--Victoria"," 154","Baddeck",N,N,"",0,313,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 154","Baddeck",N,N,"",0,313,"Embrett","","Mark","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 154","Baddeck",N,N,"",0,313,"Orrell","","Eddie","Conservative","Conservateur",N,N,31
+12010,"Sydney--Victoria","Sydney--Victoria"," 154","Baddeck",N,N,"",0,313,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12010,"Sydney--Victoria","Sydney--Victoria"," 155","Northside East Bay",N,N,"",2,464,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 155","Northside East Bay",N,N,"",2,464,"Battiste","","Jaime","Liberal","Libéral",Y,Y,131
+12010,"Sydney--Victoria","Sydney--Victoria"," 155","Northside East Bay",N,N,"",2,464,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 155","Northside East Bay",N,N,"",2,464,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 155","Northside East Bay",N,N,"",2,464,"Orrell","","Eddie","Conservative","Conservateur",N,N,79
+12010,"Sydney--Victoria","Sydney--Victoria"," 155","Northside East Bay",N,N,"",2,464,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+12010,"Sydney--Victoria","Sydney--Victoria"," 156","Eskasoni 3",N,N,"",2,479,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 156","Eskasoni 3",N,N,"",2,479,"Battiste","","Jaime","Liberal","Libéral",Y,Y,94
+12010,"Sydney--Victoria","Sydney--Victoria"," 156","Eskasoni 3",N,N,"",2,479,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 156","Eskasoni 3",N,N,"",2,479,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 156","Eskasoni 3",N,N,"",2,479,"Orrell","","Eddie","Conservative","Conservateur",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 156","Eskasoni 3",N,N,"",2,479,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+12010,"Sydney--Victoria","Sydney--Victoria"," 157","Eskasoni 3",N,N,"",2,477,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 157","Eskasoni 3",N,N,"",2,477,"Battiste","","Jaime","Liberal","Libéral",Y,Y,93
+12010,"Sydney--Victoria","Sydney--Victoria"," 157","Eskasoni 3",N,N,"",2,477,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 157","Eskasoni 3",N,N,"",2,477,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 157","Eskasoni 3",N,N,"",2,477,"Orrell","","Eddie","Conservative","Conservateur",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 157","Eskasoni 3",N,N,"",2,477,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+12010,"Sydney--Victoria","Sydney--Victoria"," 158","Eskasoni 3",N,N,"",7,415,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 158","Eskasoni 3",N,N,"",7,415,"Battiste","","Jaime","Liberal","Libéral",Y,Y,91
+12010,"Sydney--Victoria","Sydney--Victoria"," 158","Eskasoni 3",N,N,"",7,415,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 158","Eskasoni 3",N,N,"",7,415,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 158","Eskasoni 3",N,N,"",7,415,"Orrell","","Eddie","Conservative","Conservateur",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 158","Eskasoni 3",N,N,"",7,415,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+12010,"Sydney--Victoria","Sydney--Victoria"," 159","Eskasoni 3",N,N,"",1,569,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 159","Eskasoni 3",N,N,"",1,569,"Battiste","","Jaime","Liberal","Libéral",Y,Y,109
+12010,"Sydney--Victoria","Sydney--Victoria"," 159","Eskasoni 3",N,N,"",1,569,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 159","Eskasoni 3",N,N,"",1,569,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 159","Eskasoni 3",N,N,"",1,569,"Orrell","","Eddie","Conservative","Conservateur",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 159","Eskasoni 3",N,N,"",1,569,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+12010,"Sydney--Victoria","Sydney--Victoria"," 160","Eskasoni 3",N,N,"",2,467,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 160","Eskasoni 3",N,N,"",2,467,"Battiste","","Jaime","Liberal","Libéral",Y,Y,109
+12010,"Sydney--Victoria","Sydney--Victoria"," 160","Eskasoni 3",N,N,"",2,467,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 160","Eskasoni 3",N,N,"",2,467,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 160","Eskasoni 3",N,N,"",2,467,"Orrell","","Eddie","Conservative","Conservateur",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 160","Eskasoni 3",N,N,"",2,467,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+12010,"Sydney--Victoria","Sydney--Victoria"," 161","Wagmatcook 1",N,N,"",2,416,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 161","Wagmatcook 1",N,N,"",2,416,"Battiste","","Jaime","Liberal","Libéral",Y,Y,35
+12010,"Sydney--Victoria","Sydney--Victoria"," 161","Wagmatcook 1",N,N,"",2,416,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 161","Wagmatcook 1",N,N,"",2,416,"Embrett","","Mark","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 161","Wagmatcook 1",N,N,"",2,416,"Orrell","","Eddie","Conservative","Conservateur",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 161","Wagmatcook 1",N,N,"",2,416,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+12010,"Sydney--Victoria","Sydney--Victoria"," 162","Grand Narrows",N,N,"",0,235,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 162","Grand Narrows",N,N,"",0,235,"Battiste","","Jaime","Liberal","Libéral",Y,Y,45
+12010,"Sydney--Victoria","Sydney--Victoria"," 162","Grand Narrows",N,N,"",0,235,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 162","Grand Narrows",N,N,"",0,235,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 162","Grand Narrows",N,N,"",0,235,"Orrell","","Eddie","Conservative","Conservateur",N,N,21
+12010,"Sydney--Victoria","Sydney--Victoria"," 162","Grand Narrows",N,N,"",0,235,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 163","Iona",N,N,"",1,279,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 163","Iona",N,N,"",1,279,"Battiste","","Jaime","Liberal","Libéral",Y,Y,52
+12010,"Sydney--Victoria","Sydney--Victoria"," 163","Iona",N,N,"",1,279,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 163","Iona",N,N,"",1,279,"Embrett","","Mark","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 163","Iona",N,N,"",1,279,"Orrell","","Eddie","Conservative","Conservateur",N,N,66
+12010,"Sydney--Victoria","Sydney--Victoria"," 163","Iona",N,N,"",1,279,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12010,"Sydney--Victoria","Sydney--Victoria"," 164","Little Narrows",N,N,"",2,135,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 164","Little Narrows",N,N,"",2,135,"Battiste","","Jaime","Liberal","Libéral",Y,Y,42
+12010,"Sydney--Victoria","Sydney--Victoria"," 164","Little Narrows",N,N,"",2,135,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 164","Little Narrows",N,N,"",2,135,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 164","Little Narrows",N,N,"",2,135,"Orrell","","Eddie","Conservative","Conservateur",N,N,23
+12010,"Sydney--Victoria","Sydney--Victoria"," 164","Little Narrows",N,N,"",2,135,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12010,"Sydney--Victoria","Sydney--Victoria"," 400","Cape Breton",N,N,"",2,138,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 400","Cape Breton",N,N,"",2,138,"Battiste","","Jaime","Liberal","Libéral",Y,Y,46
+12010,"Sydney--Victoria","Sydney--Victoria"," 400","Cape Breton",N,N,"",2,138,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 400","Cape Breton",N,N,"",2,138,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 400","Cape Breton",N,N,"",2,138,"Orrell","","Eddie","Conservative","Conservateur",N,N,25
+12010,"Sydney--Victoria","Sydney--Victoria"," 400","Cape Breton",N,N,"",2,138,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12010,"Sydney--Victoria","Sydney--Victoria"," 401","Cape Breton",N,N,"",10,89,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 401","Cape Breton",N,N,"",10,89,"Battiste","","Jaime","Liberal","Libéral",Y,Y,39
+12010,"Sydney--Victoria","Sydney--Victoria"," 401","Cape Breton",N,N,"",10,89,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 401","Cape Breton",N,N,"",10,89,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 401","Cape Breton",N,N,"",10,89,"Orrell","","Eddie","Conservative","Conservateur",N,N,26
+12010,"Sydney--Victoria","Sydney--Victoria"," 401","Cape Breton",N,N,"",10,89,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12010,"Sydney--Victoria","Sydney--Victoria"," 402","Cape Breton",N,N,"",1,273,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 402","Cape Breton",N,N,"",1,273,"Battiste","","Jaime","Liberal","Libéral",Y,Y,30
+12010,"Sydney--Victoria","Sydney--Victoria"," 402","Cape Breton",N,N,"",1,273,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 402","Cape Breton",N,N,"",1,273,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 402","Cape Breton",N,N,"",1,273,"Orrell","","Eddie","Conservative","Conservateur",N,N,31
+12010,"Sydney--Victoria","Sydney--Victoria"," 402","Cape Breton",N,N,"",1,273,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 500","Mobile poll/Bureau itinérant",N,N,"",0,11,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 500","Mobile poll/Bureau itinérant",N,N,"",0,11,"Battiste","","Jaime","Liberal","Libéral",Y,Y,16
+12010,"Sydney--Victoria","Sydney--Victoria"," 500","Mobile poll/Bureau itinérant",N,N,"",0,11,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 500","Mobile poll/Bureau itinérant",N,N,"",0,11,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 500","Mobile poll/Bureau itinérant",N,N,"",0,11,"Orrell","","Eddie","Conservative","Conservateur",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 500","Mobile poll/Bureau itinérant",N,N,"",0,11,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 501","Mobile poll/Bureau itinérant",N,N,"",2,56,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 501","Mobile poll/Bureau itinérant",N,N,"",2,56,"Battiste","","Jaime","Liberal","Libéral",Y,Y,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 501","Mobile poll/Bureau itinérant",N,N,"",2,56,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 501","Mobile poll/Bureau itinérant",N,N,"",2,56,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 501","Mobile poll/Bureau itinérant",N,N,"",2,56,"Orrell","","Eddie","Conservative","Conservateur",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 501","Mobile poll/Bureau itinérant",N,N,"",2,56,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 502","Mobile poll/Bureau itinérant",N,Y,"",0,7,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 502","Mobile poll/Bureau itinérant",N,Y,"",0,7,"Battiste","","Jaime","Liberal","Libéral",Y,Y,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 502","Mobile poll/Bureau itinérant",N,Y,"",0,7,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 502","Mobile poll/Bureau itinérant",N,Y,"",0,7,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 502","Mobile poll/Bureau itinérant",N,Y,"",0,7,"Orrell","","Eddie","Conservative","Conservateur",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 502","Mobile poll/Bureau itinérant",N,Y,"",0,7,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 503","Mobile poll/Bureau itinérant",N,N,"",1,51,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 503","Mobile poll/Bureau itinérant",N,N,"",1,51,"Battiste","","Jaime","Liberal","Libéral",Y,Y,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 503","Mobile poll/Bureau itinérant",N,N,"",1,51,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 503","Mobile poll/Bureau itinérant",N,N,"",1,51,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 503","Mobile poll/Bureau itinérant",N,N,"",1,51,"Orrell","","Eddie","Conservative","Conservateur",N,N,18
+12010,"Sydney--Victoria","Sydney--Victoria"," 503","Mobile poll/Bureau itinérant",N,N,"",1,51,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 504","Mobile poll/Bureau itinérant",N,N,"",0,2,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 504","Mobile poll/Bureau itinérant",N,N,"",0,2,"Battiste","","Jaime","Liberal","Libéral",Y,Y,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 504","Mobile poll/Bureau itinérant",N,N,"",0,2,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 504","Mobile poll/Bureau itinérant",N,N,"",0,2,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 504","Mobile poll/Bureau itinérant",N,N,"",0,2,"Orrell","","Eddie","Conservative","Conservateur",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 504","Mobile poll/Bureau itinérant",N,N,"",0,2,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 505","Mobile poll/Bureau itinérant",N,N,"",0,1,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 505","Mobile poll/Bureau itinérant",N,N,"",0,1,"Battiste","","Jaime","Liberal","Libéral",Y,Y,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 505","Mobile poll/Bureau itinérant",N,N,"",0,1,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 505","Mobile poll/Bureau itinérant",N,N,"",0,1,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 505","Mobile poll/Bureau itinérant",N,N,"",0,1,"Orrell","","Eddie","Conservative","Conservateur",N,N,11
+12010,"Sydney--Victoria","Sydney--Victoria"," 505","Mobile poll/Bureau itinérant",N,N,"",0,1,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 506","Mobile poll/Bureau itinérant",N,Y,"",0,3,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 506","Mobile poll/Bureau itinérant",N,Y,"",0,3,"Battiste","","Jaime","Liberal","Libéral",Y,Y,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 506","Mobile poll/Bureau itinérant",N,Y,"",0,3,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 506","Mobile poll/Bureau itinérant",N,Y,"",0,3,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 506","Mobile poll/Bureau itinérant",N,Y,"",0,3,"Orrell","","Eddie","Conservative","Conservateur",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 506","Mobile poll/Bureau itinérant",N,Y,"",0,3,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 507","Mobile poll/Bureau itinérant",N,N,"",1,105,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 507","Mobile poll/Bureau itinérant",N,N,"",1,105,"Battiste","","Jaime","Liberal","Libéral",Y,Y,23
+12010,"Sydney--Victoria","Sydney--Victoria"," 507","Mobile poll/Bureau itinérant",N,N,"",1,105,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 507","Mobile poll/Bureau itinérant",N,N,"",1,105,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 507","Mobile poll/Bureau itinérant",N,N,"",1,105,"Orrell","","Eddie","Conservative","Conservateur",N,N,16
+12010,"Sydney--Victoria","Sydney--Victoria"," 507","Mobile poll/Bureau itinérant",N,N,"",1,105,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 508","Mobile poll/Bureau itinérant",N,N,"",0,29,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 508","Mobile poll/Bureau itinérant",N,N,"",0,29,"Battiste","","Jaime","Liberal","Libéral",Y,Y,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 508","Mobile poll/Bureau itinérant",N,N,"",0,29,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 508","Mobile poll/Bureau itinérant",N,N,"",0,29,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 508","Mobile poll/Bureau itinérant",N,N,"",0,29,"Orrell","","Eddie","Conservative","Conservateur",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 508","Mobile poll/Bureau itinérant",N,N,"",0,29,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 509","Mobile poll/Bureau itinérant",N,N,"",0,97,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 509","Mobile poll/Bureau itinérant",N,N,"",0,97,"Battiste","","Jaime","Liberal","Libéral",Y,Y,40
+12010,"Sydney--Victoria","Sydney--Victoria"," 509","Mobile poll/Bureau itinérant",N,N,"",0,97,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 509","Mobile poll/Bureau itinérant",N,N,"",0,97,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 509","Mobile poll/Bureau itinérant",N,N,"",0,97,"Orrell","","Eddie","Conservative","Conservateur",N,N,12
+12010,"Sydney--Victoria","Sydney--Victoria"," 509","Mobile poll/Bureau itinérant",N,N,"",0,97,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+12010,"Sydney--Victoria","Sydney--Victoria"," 510","Mobile poll/Bureau itinérant",N,N,"",0,111,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 510","Mobile poll/Bureau itinérant",N,N,"",0,111,"Battiste","","Jaime","Liberal","Libéral",Y,Y,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 510","Mobile poll/Bureau itinérant",N,N,"",0,111,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 510","Mobile poll/Bureau itinérant",N,N,"",0,111,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 510","Mobile poll/Bureau itinérant",N,N,"",0,111,"Orrell","","Eddie","Conservative","Conservateur",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 510","Mobile poll/Bureau itinérant",N,N,"",0,111,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 511","Mobile poll/Bureau itinérant",N,N,"",1,69,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 511","Mobile poll/Bureau itinérant",N,N,"",1,69,"Battiste","","Jaime","Liberal","Libéral",Y,Y,19
+12010,"Sydney--Victoria","Sydney--Victoria"," 511","Mobile poll/Bureau itinérant",N,N,"",1,69,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 511","Mobile poll/Bureau itinérant",N,N,"",1,69,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 511","Mobile poll/Bureau itinérant",N,N,"",1,69,"Orrell","","Eddie","Conservative","Conservateur",N,N,15
+12010,"Sydney--Victoria","Sydney--Victoria"," 511","Mobile poll/Bureau itinérant",N,N,"",1,69,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 512","Mobile poll/Bureau itinérant",N,N,"",0,12,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 512","Mobile poll/Bureau itinérant",N,N,"",0,12,"Battiste","","Jaime","Liberal","Libéral",Y,Y,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 512","Mobile poll/Bureau itinérant",N,N,"",0,12,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 512","Mobile poll/Bureau itinérant",N,N,"",0,12,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 512","Mobile poll/Bureau itinérant",N,N,"",0,12,"Orrell","","Eddie","Conservative","Conservateur",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 512","Mobile poll/Bureau itinérant",N,N,"",0,12,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 600","Cape North",N,N,"",1,0,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 600","Cape North",N,N,"",1,0,"Battiste","","Jaime","Liberal","Libéral",Y,Y,60
+12010,"Sydney--Victoria","Sydney--Victoria"," 600","Cape North",N,N,"",1,0,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 600","Cape North",N,N,"",1,0,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 600","Cape North",N,N,"",1,0,"Orrell","","Eddie","Conservative","Conservateur",N,N,59
+12010,"Sydney--Victoria","Sydney--Victoria"," 600","Cape North",N,N,"",1,0,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12010,"Sydney--Victoria","Sydney--Victoria"," 601","Pleasant Bay",N,N,"",1,0,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 601","Pleasant Bay",N,N,"",1,0,"Battiste","","Jaime","Liberal","Libéral",Y,Y,12
+12010,"Sydney--Victoria","Sydney--Victoria"," 601","Pleasant Bay",N,N,"",1,0,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 601","Pleasant Bay",N,N,"",1,0,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 601","Pleasant Bay",N,N,"",1,0,"Orrell","","Eddie","Conservative","Conservateur",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 601","Pleasant Bay",N,N,"",1,0,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 602","Ingonish",N,N,"",2,0,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 602","Ingonish",N,N,"",2,0,"Battiste","","Jaime","Liberal","Libéral",Y,Y,35
+12010,"Sydney--Victoria","Sydney--Victoria"," 602","Ingonish",N,N,"",2,0,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 602","Ingonish",N,N,"",2,0,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 602","Ingonish",N,N,"",2,0,"Orrell","","Eddie","Conservative","Conservateur",N,N,41
+12010,"Sydney--Victoria","Sydney--Victoria"," 602","Ingonish",N,N,"",2,0,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 603","Englishtown",N,N,"",0,0,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 603","Englishtown",N,N,"",0,0,"Battiste","","Jaime","Liberal","Libéral",Y,Y,53
+12010,"Sydney--Victoria","Sydney--Victoria"," 603","Englishtown",N,N,"",0,0,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 603","Englishtown",N,N,"",0,0,"Embrett","","Mark","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 603","Englishtown",N,N,"",0,0,"Orrell","","Eddie","Conservative","Conservateur",N,N,82
+12010,"Sydney--Victoria","Sydney--Victoria"," 603","Englishtown",N,N,"",0,0,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12010,"Sydney--Victoria","Sydney--Victoria"," 604","Cape Breton",N,N,"",10,0,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,17
+12010,"Sydney--Victoria","Sydney--Victoria"," 604","Cape Breton",N,N,"",10,0,"Battiste","","Jaime","Liberal","Libéral",Y,Y,183
+12010,"Sydney--Victoria","Sydney--Victoria"," 604","Cape Breton",N,N,"",10,0,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 604","Cape Breton",N,N,"",10,0,"Embrett","","Mark","Green Party","Parti Vert",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 604","Cape Breton",N,N,"",10,0,"Orrell","","Eddie","Conservative","Conservateur",N,N,383
+12010,"Sydney--Victoria","Sydney--Victoria"," 604","Cape Breton",N,N,"",10,0,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+12010,"Sydney--Victoria","Sydney--Victoria"," 605","Cape Breton",N,N,"",7,0,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,18
+12010,"Sydney--Victoria","Sydney--Victoria"," 605","Cape Breton",N,N,"",7,0,"Battiste","","Jaime","Liberal","Libéral",Y,Y,256
+12010,"Sydney--Victoria","Sydney--Victoria"," 605","Cape Breton",N,N,"",7,0,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 605","Cape Breton",N,N,"",7,0,"Embrett","","Mark","Green Party","Parti Vert",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 605","Cape Breton",N,N,"",7,0,"Orrell","","Eddie","Conservative","Conservateur",N,N,392
+12010,"Sydney--Victoria","Sydney--Victoria"," 605","Cape Breton",N,N,"",7,0,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+12010,"Sydney--Victoria","Sydney--Victoria"," 606","Cape Breton",N,N,"",16,0,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,13
+12010,"Sydney--Victoria","Sydney--Victoria"," 606","Cape Breton",N,N,"",16,0,"Battiste","","Jaime","Liberal","Libéral",Y,Y,201
+12010,"Sydney--Victoria","Sydney--Victoria"," 606","Cape Breton",N,N,"",16,0,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 606","Cape Breton",N,N,"",16,0,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 606","Cape Breton",N,N,"",16,0,"Orrell","","Eddie","Conservative","Conservateur",N,N,375
+12010,"Sydney--Victoria","Sydney--Victoria"," 606","Cape Breton",N,N,"",16,0,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+12010,"Sydney--Victoria","Sydney--Victoria"," 607","Cape Breton",N,N,"",22,0,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,19
+12010,"Sydney--Victoria","Sydney--Victoria"," 607","Cape Breton",N,N,"",22,0,"Battiste","","Jaime","Liberal","Libéral",Y,Y,313
+12010,"Sydney--Victoria","Sydney--Victoria"," 607","Cape Breton",N,N,"",22,0,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 607","Cape Breton",N,N,"",22,0,"Embrett","","Mark","Green Party","Parti Vert",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 607","Cape Breton",N,N,"",22,0,"Orrell","","Eddie","Conservative","Conservateur",N,N,375
+12010,"Sydney--Victoria","Sydney--Victoria"," 607","Cape Breton",N,N,"",22,0,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,168
+12010,"Sydney--Victoria","Sydney--Victoria"," 608","Cape Breton",N,N,"",11,0,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,16
+12010,"Sydney--Victoria","Sydney--Victoria"," 608","Cape Breton",N,N,"",11,0,"Battiste","","Jaime","Liberal","Libéral",Y,Y,264
+12010,"Sydney--Victoria","Sydney--Victoria"," 608","Cape Breton",N,N,"",11,0,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 608","Cape Breton",N,N,"",11,0,"Embrett","","Mark","Green Party","Parti Vert",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 608","Cape Breton",N,N,"",11,0,"Orrell","","Eddie","Conservative","Conservateur",N,N,302
+12010,"Sydney--Victoria","Sydney--Victoria"," 608","Cape Breton",N,N,"",11,0,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,136
+12010,"Sydney--Victoria","Sydney--Victoria"," 609","Cape Breton",N,N,"",9,0,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,26
+12010,"Sydney--Victoria","Sydney--Victoria"," 609","Cape Breton",N,N,"",9,0,"Battiste","","Jaime","Liberal","Libéral",Y,Y,360
+12010,"Sydney--Victoria","Sydney--Victoria"," 609","Cape Breton",N,N,"",9,0,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 609","Cape Breton",N,N,"",9,0,"Embrett","","Mark","Green Party","Parti Vert",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 609","Cape Breton",N,N,"",9,0,"Orrell","","Eddie","Conservative","Conservateur",N,N,262
+12010,"Sydney--Victoria","Sydney--Victoria"," 609","Cape Breton",N,N,"",9,0,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,209
+12010,"Sydney--Victoria","Sydney--Victoria"," 610","Cape Breton",N,N,"",17,0,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,22
+12010,"Sydney--Victoria","Sydney--Victoria"," 610","Cape Breton",N,N,"",17,0,"Battiste","","Jaime","Liberal","Libéral",Y,Y,442
+12010,"Sydney--Victoria","Sydney--Victoria"," 610","Cape Breton",N,N,"",17,0,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 610","Cape Breton",N,N,"",17,0,"Embrett","","Mark","Green Party","Parti Vert",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 610","Cape Breton",N,N,"",17,0,"Orrell","","Eddie","Conservative","Conservateur",N,N,240
+12010,"Sydney--Victoria","Sydney--Victoria"," 610","Cape Breton",N,N,"",17,0,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,143
+12010,"Sydney--Victoria","Sydney--Victoria"," 611","Cape Breton",N,N,"",8,0,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,23
+12010,"Sydney--Victoria","Sydney--Victoria"," 611","Cape Breton",N,N,"",8,0,"Battiste","","Jaime","Liberal","Libéral",Y,Y,432
+12010,"Sydney--Victoria","Sydney--Victoria"," 611","Cape Breton",N,N,"",8,0,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 611","Cape Breton",N,N,"",8,0,"Embrett","","Mark","Green Party","Parti Vert",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 611","Cape Breton",N,N,"",8,0,"Orrell","","Eddie","Conservative","Conservateur",N,N,257
+12010,"Sydney--Victoria","Sydney--Victoria"," 611","Cape Breton",N,N,"",8,0,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,168
+12010,"Sydney--Victoria","Sydney--Victoria"," 612","Cape Breton",N,N,"",9,0,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,26
+12010,"Sydney--Victoria","Sydney--Victoria"," 612","Cape Breton",N,N,"",9,0,"Battiste","","Jaime","Liberal","Libéral",Y,Y,352
+12010,"Sydney--Victoria","Sydney--Victoria"," 612","Cape Breton",N,N,"",9,0,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 612","Cape Breton",N,N,"",9,0,"Embrett","","Mark","Green Party","Parti Vert",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 612","Cape Breton",N,N,"",9,0,"Orrell","","Eddie","Conservative","Conservateur",N,N,201
+12010,"Sydney--Victoria","Sydney--Victoria"," 612","Cape Breton",N,N,"",9,0,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,160
+12010,"Sydney--Victoria","Sydney--Victoria"," 613","Cape Breton",N,N,"",6,0,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 613","Cape Breton",N,N,"",6,0,"Battiste","","Jaime","Liberal","Libéral",Y,Y,487
+12010,"Sydney--Victoria","Sydney--Victoria"," 613","Cape Breton",N,N,"",6,0,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 613","Cape Breton",N,N,"",6,0,"Embrett","","Mark","Green Party","Parti Vert",N,N,7
+12010,"Sydney--Victoria","Sydney--Victoria"," 613","Cape Breton",N,N,"",6,0,"Orrell","","Eddie","Conservative","Conservateur",N,N,273
+12010,"Sydney--Victoria","Sydney--Victoria"," 613","Cape Breton",N,N,"",6,0,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,175
+12010,"Sydney--Victoria","Sydney--Victoria"," 614","Cape Breton",N,N,"",18,0,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,24
+12010,"Sydney--Victoria","Sydney--Victoria"," 614","Cape Breton",N,N,"",18,0,"Battiste","","Jaime","Liberal","Libéral",Y,Y,599
+12010,"Sydney--Victoria","Sydney--Victoria"," 614","Cape Breton",N,N,"",18,0,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 614","Cape Breton",N,N,"",18,0,"Embrett","","Mark","Green Party","Parti Vert",N,N,10
+12010,"Sydney--Victoria","Sydney--Victoria"," 614","Cape Breton",N,N,"",18,0,"Orrell","","Eddie","Conservative","Conservateur",N,N,523
+12010,"Sydney--Victoria","Sydney--Victoria"," 614","Cape Breton",N,N,"",18,0,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,168
+12010,"Sydney--Victoria","Sydney--Victoria"," 615","Cape Breton",N,N,"",6,0,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,30
+12010,"Sydney--Victoria","Sydney--Victoria"," 615","Cape Breton",N,N,"",6,0,"Battiste","","Jaime","Liberal","Libéral",Y,Y,419
+12010,"Sydney--Victoria","Sydney--Victoria"," 615","Cape Breton",N,N,"",6,0,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 615","Cape Breton",N,N,"",6,0,"Embrett","","Mark","Green Party","Parti Vert",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 615","Cape Breton",N,N,"",6,0,"Orrell","","Eddie","Conservative","Conservateur",N,N,774
+12010,"Sydney--Victoria","Sydney--Victoria"," 615","Cape Breton",N,N,"",6,0,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,126
+12010,"Sydney--Victoria","Sydney--Victoria"," 616","Boisdale",N,N,"",0,0,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 616","Boisdale",N,N,"",0,0,"Battiste","","Jaime","Liberal","Libéral",Y,Y,84
+12010,"Sydney--Victoria","Sydney--Victoria"," 616","Boisdale",N,N,"",0,0,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 616","Boisdale",N,N,"",0,0,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 616","Boisdale",N,N,"",0,0,"Orrell","","Eddie","Conservative","Conservateur",N,N,72
+12010,"Sydney--Victoria","Sydney--Victoria"," 616","Boisdale",N,N,"",0,0,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12010,"Sydney--Victoria","Sydney--Victoria"," 617","Cape Breton",N,N,"",3,0,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,9
+12010,"Sydney--Victoria","Sydney--Victoria"," 617","Cape Breton",N,N,"",3,0,"Battiste","","Jaime","Liberal","Libéral",Y,Y,76
+12010,"Sydney--Victoria","Sydney--Victoria"," 617","Cape Breton",N,N,"",3,0,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 617","Cape Breton",N,N,"",3,0,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 617","Cape Breton",N,N,"",3,0,"Orrell","","Eddie","Conservative","Conservateur",N,N,199
+12010,"Sydney--Victoria","Sydney--Victoria"," 617","Cape Breton",N,N,"",3,0,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12010,"Sydney--Victoria","Sydney--Victoria"," 618","Boularderie East",N,N,"",2,0,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 618","Boularderie East",N,N,"",2,0,"Battiste","","Jaime","Liberal","Libéral",Y,Y,31
+12010,"Sydney--Victoria","Sydney--Victoria"," 618","Boularderie East",N,N,"",2,0,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 618","Boularderie East",N,N,"",2,0,"Embrett","","Mark","Green Party","Parti Vert",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 618","Boularderie East",N,N,"",2,0,"Orrell","","Eddie","Conservative","Conservateur",N,N,99
+12010,"Sydney--Victoria","Sydney--Victoria"," 618","Boularderie East",N,N,"",2,0,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12010,"Sydney--Victoria","Sydney--Victoria"," 619","Baddeck",N,N,"",4,0,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 619","Baddeck",N,N,"",4,0,"Battiste","","Jaime","Liberal","Libéral",Y,Y,155
+12010,"Sydney--Victoria","Sydney--Victoria"," 619","Baddeck",N,N,"",4,0,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 619","Baddeck",N,N,"",4,0,"Embrett","","Mark","Green Party","Parti Vert",N,N,6
+12010,"Sydney--Victoria","Sydney--Victoria"," 619","Baddeck",N,N,"",4,0,"Orrell","","Eddie","Conservative","Conservateur",N,N,128
+12010,"Sydney--Victoria","Sydney--Victoria"," 619","Baddeck",N,N,"",4,0,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+12010,"Sydney--Victoria","Sydney--Victoria"," 620","Wagmatcook 1",N,N,"",3,0,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," 620","Wagmatcook 1",N,N,"",3,0,"Battiste","","Jaime","Liberal","Libéral",Y,Y,47
+12010,"Sydney--Victoria","Sydney--Victoria"," 620","Wagmatcook 1",N,N,"",3,0,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 620","Wagmatcook 1",N,N,"",3,0,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 620","Wagmatcook 1",N,N,"",3,0,"Orrell","","Eddie","Conservative","Conservateur",N,N,19
+12010,"Sydney--Victoria","Sydney--Victoria"," 620","Wagmatcook 1",N,N,"",3,0,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+12010,"Sydney--Victoria","Sydney--Victoria"," 621","Iona",N,N,"",0,0,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,5
+12010,"Sydney--Victoria","Sydney--Victoria"," 621","Iona",N,N,"",0,0,"Battiste","","Jaime","Liberal","Libéral",Y,Y,54
+12010,"Sydney--Victoria","Sydney--Victoria"," 621","Iona",N,N,"",0,0,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 621","Iona",N,N,"",0,0,"Embrett","","Mark","Green Party","Parti Vert",N,N,1
+12010,"Sydney--Victoria","Sydney--Victoria"," 621","Iona",N,N,"",0,0,"Orrell","","Eddie","Conservative","Conservateur",N,N,50
+12010,"Sydney--Victoria","Sydney--Victoria"," 621","Iona",N,N,"",0,0,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12010,"Sydney--Victoria","Sydney--Victoria"," 622","Eskasoni 3",N,N,"",0,0,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 622","Eskasoni 3",N,N,"",0,0,"Battiste","","Jaime","Liberal","Libéral",Y,Y,174
+12010,"Sydney--Victoria","Sydney--Victoria"," 622","Eskasoni 3",N,N,"",0,0,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," 622","Eskasoni 3",N,N,"",0,0,"Embrett","","Mark","Green Party","Parti Vert",N,N,3
+12010,"Sydney--Victoria","Sydney--Victoria"," 622","Eskasoni 3",N,N,"",0,0,"Orrell","","Eddie","Conservative","Conservateur",N,N,4
+12010,"Sydney--Victoria","Sydney--Victoria"," 622","Eskasoni 3",N,N,"",0,0,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,105
+12010,"Sydney--Victoria","Sydney--Victoria"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",32,87,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,20
+12010,"Sydney--Victoria","Sydney--Victoria"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",32,87,"Battiste","","Jaime","Liberal","Libéral",Y,Y,76
+12010,"Sydney--Victoria","Sydney--Victoria"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",32,87,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",32,87,"Embrett","","Mark","Green Party","Parti Vert",N,N,0
+12010,"Sydney--Victoria","Sydney--Victoria"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",32,87,"Orrell","","Eddie","Conservative","Conservateur",N,N,133
+12010,"Sydney--Victoria","Sydney--Victoria"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",32,87,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+12010,"Sydney--Victoria","Sydney--Victoria"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",30,0,"Barron","","Ronald Angus","People's Party - PPC","Parti populaire - PPC",N,N,17
+12010,"Sydney--Victoria","Sydney--Victoria"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",30,0,"Battiste","","Jaime","Liberal","Libéral",Y,Y,407
+12010,"Sydney--Victoria","Sydney--Victoria"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",30,0,"Boisvert","","Nikki","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+12010,"Sydney--Victoria","Sydney--Victoria"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",30,0,"Embrett","","Mark","Green Party","Parti Vert",N,N,12
+12010,"Sydney--Victoria","Sydney--Victoria"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",30,0,"Orrell","","Eddie","Conservative","Conservateur",N,N,436
+12010,"Sydney--Victoria","Sydney--Victoria"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",30,0,"Ward","","Jeff","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,172

@@ -1,0 +1,893 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 1","Temiskaming Shores",N,N,"",1,583,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,15
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 1","Temiskaming Shores",N,N,"",1,583,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 1","Temiskaming Shores",N,N,"",1,583,"Rota","","Anthony","Liberal","Libéral",Y,Y,103
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 1","Temiskaming Shores",N,N,"",1,583,"Trahan","","Steven","Conservative","Conservateur",N,N,82
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 2","Temiskaming Shores",N,N,"",2,496,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,13
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 2","Temiskaming Shores",N,N,"",2,496,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 2","Temiskaming Shores",N,N,"",2,496,"Rota","","Anthony","Liberal","Libéral",Y,Y,96
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 2","Temiskaming Shores",N,N,"",2,496,"Trahan","","Steven","Conservative","Conservateur",N,N,63
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 3","Temiskaming Shores",N,N,"",0,419,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,10
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 3","Temiskaming Shores",N,N,"",0,419,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 3","Temiskaming Shores",N,N,"",0,419,"Rota","","Anthony","Liberal","Libéral",Y,Y,72
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 3","Temiskaming Shores",N,N,"",0,419,"Trahan","","Steven","Conservative","Conservateur",N,N,58
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 4","Temiskaming Shores",N,N,"",2,422,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,9
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 4","Temiskaming Shores",N,N,"",2,422,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 4","Temiskaming Shores",N,N,"",2,422,"Rota","","Anthony","Liberal","Libéral",Y,Y,84
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 4","Temiskaming Shores",N,N,"",2,422,"Trahan","","Steven","Conservative","Conservateur",N,N,49
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 5","Temiskaming Shores",N,N,"",2,496,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,25
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 5","Temiskaming Shores",N,N,"",2,496,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 5","Temiskaming Shores",N,N,"",2,496,"Rota","","Anthony","Liberal","Libéral",Y,Y,67
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 5","Temiskaming Shores",N,N,"",2,496,"Trahan","","Steven","Conservative","Conservateur",N,N,53
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 6","Temiskaming Shores",N,N,"",1,519,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,14
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 6","Temiskaming Shores",N,N,"",1,519,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 6","Temiskaming Shores",N,N,"",1,519,"Rota","","Anthony","Liberal","Libéral",Y,Y,79
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 6","Temiskaming Shores",N,N,"",1,519,"Trahan","","Steven","Conservative","Conservateur",N,N,50
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 7","Temiskaming Shores",N,N,"",1,581,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,23
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 7","Temiskaming Shores",N,N,"",1,581,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 7","Temiskaming Shores",N,N,"",1,581,"Rota","","Anthony","Liberal","Libéral",Y,Y,100
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 7","Temiskaming Shores",N,N,"",1,581,"Trahan","","Steven","Conservative","Conservateur",N,N,55
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 8","Temiskaming Shores",N,N,"",2,379,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,14
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 8","Temiskaming Shores",N,N,"",2,379,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 8","Temiskaming Shores",N,N,"",2,379,"Rota","","Anthony","Liberal","Libéral",Y,Y,45
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 8","Temiskaming Shores",N,N,"",2,379,"Trahan","","Steven","Conservative","Conservateur",N,N,45
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 9","Temiskaming Shores",N,N,"",1,304,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,9
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 9","Temiskaming Shores",N,N,"",1,304,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 9","Temiskaming Shores",N,N,"",1,304,"Rota","","Anthony","Liberal","Libéral",Y,Y,50
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 9","Temiskaming Shores",N,N,"",1,304,"Trahan","","Steven","Conservative","Conservateur",N,N,33
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 10","Temiskaming Shores",N,N,"",1,439,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,15
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 10","Temiskaming Shores",N,N,"",1,439,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 10","Temiskaming Shores",N,N,"",1,439,"Rota","","Anthony","Liberal","Libéral",Y,Y,75
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 10","Temiskaming Shores",N,N,"",1,439,"Trahan","","Steven","Conservative","Conservateur",N,N,61
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 11","Cobalt",N,N,"",2,301,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,14
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 11","Cobalt",N,N,"",2,301,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 11","Cobalt",N,N,"",2,301,"Rota","","Anthony","Liberal","Libéral",Y,Y,15
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 11","Cobalt",N,N,"",2,301,"Trahan","","Steven","Conservative","Conservateur",N,N,18
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 12","Coleman",N,N,"",1,397,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,22
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 12","Coleman",N,N,"",1,397,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 12","Coleman",N,N,"",1,397,"Rota","","Anthony","Liberal","Libéral",Y,Y,47
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 12","Coleman",N,N,"",1,397,"Trahan","","Steven","Conservative","Conservateur",N,N,33
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 13","Coleman",N,N,"",2,571,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,20
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 13","Coleman",N,N,"",2,571,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 13","Coleman",N,N,"",2,571,"Rota","","Anthony","Liberal","Libéral",Y,Y,72
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 13","Coleman",N,N,"",2,571,"Trahan","","Steven","Conservative","Conservateur",N,N,58
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 14","Dane",Y,N,"",0,0,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 14","Dane",Y,N,"",0,0,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 14","Dane",Y,N,"",0,0,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 14","Dane",Y,N,"",0,0,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 15","Temiskaming Shores",N,N,"",0,450,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,18
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 15","Temiskaming Shores",N,N,"",0,450,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 15","Temiskaming Shores",N,N,"",0,450,"Rota","","Anthony","Liberal","Libéral",Y,Y,46
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 15","Temiskaming Shores",N,N,"",0,450,"Trahan","","Steven","Conservative","Conservateur",N,N,28
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 16","Temiskaming Shores",N,N,"",1,594,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,21
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 16","Temiskaming Shores",N,N,"",1,594,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 16","Temiskaming Shores",N,N,"",1,594,"Rota","","Anthony","Liberal","Libéral",Y,Y,68
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 16","Temiskaming Shores",N,N,"",1,594,"Trahan","","Steven","Conservative","Conservateur",N,N,78
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 17","Temiskaming Shores",N,N,"",0,465,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,21
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 17","Temiskaming Shores",N,N,"",0,465,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 17","Temiskaming Shores",N,N,"",0,465,"Rota","","Anthony","Liberal","Libéral",Y,Y,47
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 17","Temiskaming Shores",N,N,"",0,465,"Trahan","","Steven","Conservative","Conservateur",N,N,25
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 18","Temiskaming Shores",N,N,"",1,477,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,25
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 18","Temiskaming Shores",N,N,"",1,477,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 18","Temiskaming Shores",N,N,"",1,477,"Rota","","Anthony","Liberal","Libéral",Y,Y,39
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 18","Temiskaming Shores",N,N,"",1,477,"Trahan","","Steven","Conservative","Conservateur",N,N,40
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 19","Temiskaming Shores",N,N,"",1,399,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,8
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 19","Temiskaming Shores",N,N,"",1,399,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 19","Temiskaming Shores",N,N,"",1,399,"Rota","","Anthony","Liberal","Libéral",Y,Y,53
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 19","Temiskaming Shores",N,N,"",1,399,"Trahan","","Steven","Conservative","Conservateur",N,N,33
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 20","Temiskaming Shores",N,N,"",1,509,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,31
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 20","Temiskaming Shores",N,N,"",1,509,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 20","Temiskaming Shores",N,N,"",1,509,"Rota","","Anthony","Liberal","Libéral",Y,Y,60
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 20","Temiskaming Shores",N,N,"",1,509,"Trahan","","Steven","Conservative","Conservateur",N,N,51
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 21","Temiskaming Shores",N,N,"",1,636,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,34
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 21","Temiskaming Shores",N,N,"",1,636,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 21","Temiskaming Shores",N,N,"",1,636,"Rota","","Anthony","Liberal","Libéral",Y,Y,80
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 21","Temiskaming Shores",N,N,"",1,636,"Trahan","","Steven","Conservative","Conservateur",N,N,59
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 22","Latchford",N,N,"",0,569,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,34
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 22","Latchford",N,N,"",0,569,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 22","Latchford",N,N,"",0,569,"Rota","","Anthony","Liberal","Libéral",Y,Y,92
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 22","Latchford",N,N,"",0,569,"Trahan","","Steven","Conservative","Conservateur",N,N,104
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 23","Temagami",N,N,"",0,315,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,7
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 23","Temagami",N,N,"",0,315,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 23","Temagami",N,N,"",0,315,"Rota","","Anthony","Liberal","Libéral",Y,Y,38
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 23","Temagami",N,N,"",0,315,"Trahan","","Steven","Conservative","Conservateur",N,N,43
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 24","Bear Island 1",N,N,"",0,177,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,8
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 24","Bear Island 1",N,N,"",0,177,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 24","Bear Island 1",N,N,"",0,177,"Rota","","Anthony","Liberal","Libéral",Y,Y,57
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 24","Bear Island 1",N,N,"",0,177,"Trahan","","Steven","Conservative","Conservateur",N,N,7
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 25","Temagami",N,N,"",0,513,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,20
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 25","Temagami",N,N,"",0,513,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 25","Temagami",N,N,"",0,513,"Rota","","Anthony","Liberal","Libéral",Y,Y,64
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 25","Temagami",N,N,"",0,513,"Trahan","","Steven","Conservative","Conservateur",N,N,70
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 26","Thorne",N,N,"",2,391,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,25
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 26","Thorne",N,N,"",2,391,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 26","Thorne",N,N,"",2,391,"Rota","","Anthony","Liberal","Libéral",Y,Y,40
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 26","Thorne",N,N,"",2,391,"Trahan","","Steven","Conservative","Conservateur",N,N,40
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 27","North Bay",N,N,"",2,169,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,11
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 27","North Bay",N,N,"",2,169,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 27","North Bay",N,N,"",2,169,"Rota","","Anthony","Liberal","Libéral",Y,Y,35
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 27","North Bay",N,N,"",2,169,"Trahan","","Steven","Conservative","Conservateur",N,N,42
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 28","Balsam Creek",N,N,"",0,342,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,9
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 28","Balsam Creek",N,N,"",0,342,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 28","Balsam Creek",N,N,"",0,342,"Rota","","Anthony","Liberal","Libéral",Y,Y,31
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 28","Balsam Creek",N,N,"",0,342,"Trahan","","Steven","Conservative","Conservateur",N,N,44
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 29","Songis--Redbridge",N,N,"",0,537,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,21
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 29","Songis--Redbridge",N,N,"",0,537,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 29","Songis--Redbridge",N,N,"",0,537,"Rota","","Anthony","Liberal","Libéral",Y,Y,43
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 29","Songis--Redbridge",N,N,"",0,537,"Trahan","","Steven","Conservative","Conservateur",N,N,66
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 30","North Bay",N,N,"",0,238,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,4
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 30","North Bay",N,N,"",0,238,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 30","North Bay",N,N,"",0,238,"Rota","","Anthony","Liberal","Libéral",Y,Y,19
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 30","North Bay",N,N,"",0,238,"Trahan","","Steven","Conservative","Conservateur",N,N,18
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 31","Mattawa",N,N,"",2,408,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,11
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 31","Mattawa",N,N,"",2,408,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 31","Mattawa",N,N,"",2,408,"Rota","","Anthony","Liberal","Libéral",Y,Y,48
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 31","Mattawa",N,N,"",2,408,"Trahan","","Steven","Conservative","Conservateur",N,N,61
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 32","Mattawa",N,N,"",1,297,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,10
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 32","Mattawa",N,N,"",1,297,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 32","Mattawa",N,N,"",1,297,"Rota","","Anthony","Liberal","Libéral",Y,Y,17
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 32","Mattawa",N,N,"",1,297,"Trahan","","Steven","Conservative","Conservateur",N,N,35
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 33","Mattawa",N,N,"",5,401,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,9
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 33","Mattawa",N,N,"",5,401,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 33","Mattawa",N,N,"",5,401,"Rota","","Anthony","Liberal","Libéral",Y,Y,48
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 33","Mattawa",N,N,"",5,401,"Trahan","","Steven","Conservative","Conservateur",N,N,40
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 34","Mattawa",N,N,"35",0,319,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 34","Mattawa",N,N,"35",0,319,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 34","Mattawa",N,N,"35",0,319,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 34","Mattawa",N,N,"35",0,319,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 35","Mattawa",N,N,"",1,368,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,22
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 35","Mattawa",N,N,"",1,368,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 35","Mattawa",N,N,"",1,368,"Rota","","Anthony","Liberal","Libéral",Y,Y,25
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 35","Mattawa",N,N,"",1,368,"Trahan","","Steven","Conservative","Conservateur",N,N,24
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 36","Mattawa",N,N,"",0,430,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,15
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 36","Mattawa",N,N,"",0,430,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 36","Mattawa",N,N,"",0,430,"Rota","","Anthony","Liberal","Libéral",Y,Y,55
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 36","Mattawa",N,N,"",0,430,"Trahan","","Steven","Conservative","Conservateur",N,N,65
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 37","Papineau-Cameron",N,N,"",1,512,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,23
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 37","Papineau-Cameron",N,N,"",1,512,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 37","Papineau-Cameron",N,N,"",1,512,"Rota","","Anthony","Liberal","Libéral",Y,Y,80
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 37","Papineau-Cameron",N,N,"",1,512,"Trahan","","Steven","Conservative","Conservateur",N,N,117
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 38","North Bay",N,N,"",3,1031,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,18
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 38","North Bay",N,N,"",3,1031,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 38","North Bay",N,N,"",3,1031,"Rota","","Anthony","Liberal","Libéral",Y,Y,97
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 38","North Bay",N,N,"",3,1031,"Trahan","","Steven","Conservative","Conservateur",N,N,109
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 39","North Bay",N,N,"",0,443,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,11
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 39","North Bay",N,N,"",0,443,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 39","North Bay",N,N,"",0,443,"Rota","","Anthony","Liberal","Libéral",Y,Y,51
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 39","North Bay",N,N,"",0,443,"Trahan","","Steven","Conservative","Conservateur",N,N,49
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 40","North Bay",N,N,"",0,409,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,9
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 40","North Bay",N,N,"",0,409,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 40","North Bay",N,N,"",0,409,"Rota","","Anthony","Liberal","Libéral",Y,Y,59
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 40","North Bay",N,N,"",0,409,"Trahan","","Steven","Conservative","Conservateur",N,N,40
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 41","North Bay",N,N,"",0,653,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,10
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 41","North Bay",N,N,"",0,653,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 41","North Bay",N,N,"",0,653,"Rota","","Anthony","Liberal","Libéral",Y,Y,69
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 41","North Bay",N,N,"",0,653,"Trahan","","Steven","Conservative","Conservateur",N,N,64
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 42","North Bay",N,N,"",1,447,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,6
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 42","North Bay",N,N,"",1,447,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,84
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 42","North Bay",N,N,"",1,447,"Rota","","Anthony","Liberal","Libéral",Y,Y,60
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 42","North Bay",N,N,"",1,447,"Trahan","","Steven","Conservative","Conservateur",N,N,45
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 43","North Bay",N,N,"",0,778,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,22
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 43","North Bay",N,N,"",0,778,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 43","North Bay",N,N,"",0,778,"Rota","","Anthony","Liberal","Libéral",Y,Y,94
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 43","North Bay",N,N,"",0,778,"Trahan","","Steven","Conservative","Conservateur",N,N,106
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 44","North Bay",N,N,"",1,629,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,7
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 44","North Bay",N,N,"",1,629,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 44","North Bay",N,N,"",1,629,"Rota","","Anthony","Liberal","Libéral",Y,Y,106
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 44","North Bay",N,N,"",1,629,"Trahan","","Steven","Conservative","Conservateur",N,N,98
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 45","North Bay",N,N,"",3,425,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,2
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 45","North Bay",N,N,"",3,425,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 45","North Bay",N,N,"",3,425,"Rota","","Anthony","Liberal","Libéral",Y,Y,70
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 45","North Bay",N,N,"",3,425,"Trahan","","Steven","Conservative","Conservateur",N,N,36
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 46","North Bay",N,N,"47",0,349,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 46","North Bay",N,N,"47",0,349,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 46","North Bay",N,N,"47",0,349,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 46","North Bay",N,N,"47",0,349,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 47","North Bay",N,N,"",2,346,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,27
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 47","North Bay",N,N,"",2,346,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 47","North Bay",N,N,"",2,346,"Rota","","Anthony","Liberal","Libéral",Y,Y,91
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 47","North Bay",N,N,"",2,346,"Trahan","","Steven","Conservative","Conservateur",N,N,76
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 48","North Bay",N,N,"49",0,527,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 48","North Bay",N,N,"49",0,527,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 48","North Bay",N,N,"49",0,527,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 48","North Bay",N,N,"49",0,527,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 49","North Bay",N,N,"",2,548,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,20
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 49","North Bay",N,N,"",2,548,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,89
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 49","North Bay",N,N,"",2,548,"Rota","","Anthony","Liberal","Libéral",Y,Y,167
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 49","North Bay",N,N,"",2,548,"Trahan","","Steven","Conservative","Conservateur",N,N,87
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 50","North Bay",N,N,"",2,481,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,16
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 50","North Bay",N,N,"",2,481,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 50","North Bay",N,N,"",2,481,"Rota","","Anthony","Liberal","Libéral",Y,Y,135
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 50","North Bay",N,N,"",2,481,"Trahan","","Steven","Conservative","Conservateur",N,N,80
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 51","North Bay",N,N,"50",0,425,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 51","North Bay",N,N,"50",0,425,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 51","North Bay",N,N,"50",0,425,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 51","North Bay",N,N,"50",0,425,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 52","North Bay",N,N,"",0,477,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,5
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 52","North Bay",N,N,"",0,477,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 52","North Bay",N,N,"",0,477,"Rota","","Anthony","Liberal","Libéral",Y,Y,87
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 52","North Bay",N,N,"",0,477,"Trahan","","Steven","Conservative","Conservateur",N,N,60
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 53","North Bay",N,N,"",0,474,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,15
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 53","North Bay",N,N,"",0,474,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 53","North Bay",N,N,"",0,474,"Rota","","Anthony","Liberal","Libéral",Y,Y,132
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 53","North Bay",N,N,"",0,474,"Trahan","","Steven","Conservative","Conservateur",N,N,95
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 54","North Bay",N,N,"53",0,384,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 54","North Bay",N,N,"53",0,384,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 54","North Bay",N,N,"53",0,384,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 54","North Bay",N,N,"53",0,384,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 55","North Bay",N,N,"",0,417,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,15
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 55","North Bay",N,N,"",0,417,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 55","North Bay",N,N,"",0,417,"Rota","","Anthony","Liberal","Libéral",Y,Y,43
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 55","North Bay",N,N,"",0,417,"Trahan","","Steven","Conservative","Conservateur",N,N,42
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 56","North Bay",N,N,"",0,374,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,15
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 56","North Bay",N,N,"",0,374,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,108
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 56","North Bay",N,N,"",0,374,"Rota","","Anthony","Liberal","Libéral",Y,Y,99
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 56","North Bay",N,N,"",0,374,"Trahan","","Steven","Conservative","Conservateur",N,N,71
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 57","North Bay",N,N,"66",0,349,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 57","North Bay",N,N,"66",0,349,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 57","North Bay",N,N,"66",0,349,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 57","North Bay",N,N,"66",0,349,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 58","North Bay",N,N,"",0,365,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,4
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 58","North Bay",N,N,"",0,365,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 58","North Bay",N,N,"",0,365,"Rota","","Anthony","Liberal","Libéral",Y,Y,27
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 58","North Bay",N,N,"",0,365,"Trahan","","Steven","Conservative","Conservateur",N,N,22
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 59","North Bay",N,N,"56",0,303,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 59","North Bay",N,N,"56",0,303,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 59","North Bay",N,N,"56",0,303,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 59","North Bay",N,N,"56",0,303,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 60","North Bay",N,N,"",0,401,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,20
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 60","North Bay",N,N,"",0,401,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 60","North Bay",N,N,"",0,401,"Rota","","Anthony","Liberal","Libéral",Y,Y,50
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 60","North Bay",N,N,"",0,401,"Trahan","","Steven","Conservative","Conservateur",N,N,36
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 61","North Bay",N,N,"62",0,410,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 61","North Bay",N,N,"62",0,410,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 61","North Bay",N,N,"62",0,410,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 61","North Bay",N,N,"62",0,410,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 62","North Bay",N,N,"",3,432,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,21
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 62","North Bay",N,N,"",3,432,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 62","North Bay",N,N,"",3,432,"Rota","","Anthony","Liberal","Libéral",Y,Y,86
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 62","North Bay",N,N,"",3,432,"Trahan","","Steven","Conservative","Conservateur",N,N,74
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 63","North Bay",N,N,"",0,382,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,14
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 63","North Bay",N,N,"",0,382,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,101
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 63","North Bay",N,N,"",0,382,"Rota","","Anthony","Liberal","Libéral",Y,Y,114
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 63","North Bay",N,N,"",0,382,"Trahan","","Steven","Conservative","Conservateur",N,N,94
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 64","North Bay",N,N,"63",0,376,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 64","North Bay",N,N,"63",0,376,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 64","North Bay",N,N,"63",0,376,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 64","North Bay",N,N,"63",0,376,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 65","North Bay",N,N,"",1,401,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,9
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 65","North Bay",N,N,"",1,401,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 65","North Bay",N,N,"",1,401,"Rota","","Anthony","Liberal","Libéral",Y,Y,60
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 65","North Bay",N,N,"",1,401,"Trahan","","Steven","Conservative","Conservateur",N,N,27
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 66","North Bay",N,N,"",0,493,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,13
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 66","North Bay",N,N,"",0,493,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 66","North Bay",N,N,"",0,493,"Rota","","Anthony","Liberal","Libéral",Y,Y,78
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 66","North Bay",N,N,"",0,493,"Trahan","","Steven","Conservative","Conservateur",N,N,54
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 67","North Bay",N,N,"",0,372,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,13
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 67","North Bay",N,N,"",0,372,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 67","North Bay",N,N,"",0,372,"Rota","","Anthony","Liberal","Libéral",Y,Y,48
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 67","North Bay",N,N,"",0,372,"Trahan","","Steven","Conservative","Conservateur",N,N,35
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 68","Calvin ",N,N,"",1,465,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,23
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 68","Calvin ",N,N,"",1,465,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 68","Calvin ",N,N,"",1,465,"Rota","","Anthony","Liberal","Libéral",Y,Y,68
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 68","Calvin ",N,N,"",1,465,"Trahan","","Steven","Conservative","Conservateur",N,N,97
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 69","North Bay",N,N,"",0,521,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,20
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 69","North Bay",N,N,"",0,521,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 69","North Bay",N,N,"",0,521,"Rota","","Anthony","Liberal","Libéral",Y,Y,63
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 69","North Bay",N,N,"",0,521,"Trahan","","Steven","Conservative","Conservateur",N,N,41
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 70","North Bay",N,N,"",0,399,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,9
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 70","North Bay",N,N,"",0,399,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 70","North Bay",N,N,"",0,399,"Rota","","Anthony","Liberal","Libéral",Y,Y,52
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 70","North Bay",N,N,"",0,399,"Trahan","","Steven","Conservative","Conservateur",N,N,31
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 71","North Bay",N,N,"",0,408,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,18
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 71","North Bay",N,N,"",0,408,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,113
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 71","North Bay",N,N,"",0,408,"Rota","","Anthony","Liberal","Libéral",Y,Y,128
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 71","North Bay",N,N,"",0,408,"Trahan","","Steven","Conservative","Conservateur",N,N,70
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 72","North Bay",N,N,"71",0,406,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 72","North Bay",N,N,"71",0,406,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 72","North Bay",N,N,"71",0,406,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 72","North Bay",N,N,"71",0,406,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 73","North Bay",N,N,"",0,473,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,17
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 73","North Bay",N,N,"",0,473,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 73","North Bay",N,N,"",0,473,"Rota","","Anthony","Liberal","Libéral",Y,Y,77
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 73","North Bay",N,N,"",0,473,"Trahan","","Steven","Conservative","Conservateur",N,N,53
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 74","North Bay",N,N,"",3,459,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,21
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 74","North Bay",N,N,"",3,459,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,112
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 74","North Bay",N,N,"",3,459,"Rota","","Anthony","Liberal","Libéral",Y,Y,73
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 74","North Bay",N,N,"",3,459,"Trahan","","Steven","Conservative","Conservateur",N,N,92
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 75","North Bay",N,N,"73",0,368,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 75","North Bay",N,N,"73",0,368,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 75","North Bay",N,N,"73",0,368,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 75","North Bay",N,N,"73",0,368,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 76","North Bay",N,N,"",0,458,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,20
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 76","North Bay",N,N,"",0,458,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 76","North Bay",N,N,"",0,458,"Rota","","Anthony","Liberal","Libéral",Y,Y,106
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 76","North Bay",N,N,"",0,458,"Trahan","","Steven","Conservative","Conservateur",N,N,73
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 77","North Bay",N,N,"",1,430,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,17
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 77","North Bay",N,N,"",1,430,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 77","North Bay",N,N,"",1,430,"Rota","","Anthony","Liberal","Libéral",Y,Y,35
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 77","North Bay",N,N,"",1,430,"Trahan","","Steven","Conservative","Conservateur",N,N,35
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 78","North Bay",N,N,"",1,507,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,16
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 78","North Bay",N,N,"",1,507,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 78","North Bay",N,N,"",1,507,"Rota","","Anthony","Liberal","Libéral",Y,Y,54
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 78","North Bay",N,N,"",1,507,"Trahan","","Steven","Conservative","Conservateur",N,N,32
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 79","North Bay",N,N,"",3,593,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,30
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 79","North Bay",N,N,"",3,593,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 79","North Bay",N,N,"",3,593,"Rota","","Anthony","Liberal","Libéral",Y,Y,50
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 79","North Bay",N,N,"",3,593,"Trahan","","Steven","Conservative","Conservateur",N,N,51
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 80","North Bay",N,N,"",2,546,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,8
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 80","North Bay",N,N,"",2,546,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 80","North Bay",N,N,"",2,546,"Rota","","Anthony","Liberal","Libéral",Y,Y,31
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 80","North Bay",N,N,"",2,546,"Trahan","","Steven","Conservative","Conservateur",N,N,33
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 81","North Bay",N,N,"",0,568,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,11
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 81","North Bay",N,N,"",0,568,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 81","North Bay",N,N,"",0,568,"Rota","","Anthony","Liberal","Libéral",Y,Y,78
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 81","North Bay",N,N,"",0,568,"Trahan","","Steven","Conservative","Conservateur",N,N,53
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 82","North Bay",N,N,"",0,420,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,11
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 82","North Bay",N,N,"",0,420,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 82","North Bay",N,N,"",0,420,"Rota","","Anthony","Liberal","Libéral",Y,Y,71
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 82","North Bay",N,N,"",0,420,"Trahan","","Steven","Conservative","Conservateur",N,N,45
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 83","North Bay",N,N,"",1,393,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,12
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 83","North Bay",N,N,"",1,393,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 83","North Bay",N,N,"",1,393,"Rota","","Anthony","Liberal","Libéral",Y,Y,113
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 83","North Bay",N,N,"",1,393,"Trahan","","Steven","Conservative","Conservateur",N,N,64
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 84","North Bay",N,N,"83",0,367,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 84","North Bay",N,N,"83",0,367,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 84","North Bay",N,N,"83",0,367,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 84","North Bay",N,N,"83",0,367,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 85","North Bay",N,N,"",1,419,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,15
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 85","North Bay",N,N,"",1,419,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 85","North Bay",N,N,"",1,419,"Rota","","Anthony","Liberal","Libéral",Y,Y,59
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 85","North Bay",N,N,"",1,419,"Trahan","","Steven","Conservative","Conservateur",N,N,33
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 86","North Bay",N,N,"",0,340,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,13
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 86","North Bay",N,N,"",0,340,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 86","North Bay",N,N,"",0,340,"Rota","","Anthony","Liberal","Libéral",Y,Y,44
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 86","North Bay",N,N,"",0,340,"Trahan","","Steven","Conservative","Conservateur",N,N,26
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 87","North Bay",N,N,"",0,457,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,11
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 87","North Bay",N,N,"",0,457,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 87","North Bay",N,N,"",0,457,"Rota","","Anthony","Liberal","Libéral",Y,Y,61
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 87","North Bay",N,N,"",0,457,"Trahan","","Steven","Conservative","Conservateur",N,N,38
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 88","North Bay",N,N,"",2,247,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 88","North Bay",N,N,"",2,247,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 88","North Bay",N,N,"",2,247,"Rota","","Anthony","Liberal","Libéral",Y,Y,18
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 88","North Bay",N,N,"",2,247,"Trahan","","Steven","Conservative","Conservateur",N,N,8
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 89","North Bay",N,N,"76",0,436,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 89","North Bay",N,N,"76",0,436,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 89","North Bay",N,N,"76",0,436,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 89","North Bay",N,N,"76",0,436,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 90","North Bay",N,N,"74",0,356,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 90","North Bay",N,N,"74",0,356,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 90","North Bay",N,N,"74",0,356,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 90","North Bay",N,N,"74",0,356,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 91","North Bay",N,N,"",2,387,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,9
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 91","North Bay",N,N,"",2,387,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 91","North Bay",N,N,"",2,387,"Rota","","Anthony","Liberal","Libéral",Y,Y,72
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 91","North Bay",N,N,"",2,387,"Trahan","","Steven","Conservative","Conservateur",N,N,76
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 92","North Bay",N,N,"91",0,297,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 92","North Bay",N,N,"91",0,297,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 92","North Bay",N,N,"91",0,297,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 92","North Bay",N,N,"91",0,297,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 93","Nipissing 10",N,N,"",1,500,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,7
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 93","Nipissing 10",N,N,"",1,500,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 93","Nipissing 10",N,N,"",1,500,"Rota","","Anthony","Liberal","Libéral",Y,Y,61
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 93","Nipissing 10",N,N,"",1,500,"Trahan","","Steven","Conservative","Conservateur",N,N,22
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 94","North Bay",N,N,"",1,375,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,13
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 94","North Bay",N,N,"",1,375,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,90
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 94","North Bay",N,N,"",1,375,"Rota","","Anthony","Liberal","Libéral",Y,Y,66
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 94","North Bay",N,N,"",1,375,"Trahan","","Steven","Conservative","Conservateur",N,N,42
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 95","North Bay",N,N,"",0,383,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,9
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 95","North Bay",N,N,"",0,383,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 95","North Bay",N,N,"",0,383,"Rota","","Anthony","Liberal","Libéral",Y,Y,36
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 95","North Bay",N,N,"",0,383,"Trahan","","Steven","Conservative","Conservateur",N,N,25
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 96","North Bay",N,N,"",1,420,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,7
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 96","North Bay",N,N,"",1,420,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 96","North Bay",N,N,"",1,420,"Rota","","Anthony","Liberal","Libéral",Y,Y,18
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 96","North Bay",N,N,"",1,420,"Trahan","","Steven","Conservative","Conservateur",N,N,23
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 97","North Bay",N,N,"94",0,357,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 97","North Bay",N,N,"94",0,357,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 97","North Bay",N,N,"94",0,357,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 97","North Bay",N,N,"94",0,357,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 98","North Bay",N,N,"82",0,383,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 98","North Bay",N,N,"82",0,383,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 98","North Bay",N,N,"82",0,383,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 98","North Bay",N,N,"82",0,383,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 99","North Bay",N,N,"103",0,391,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 99","North Bay",N,N,"103",0,391,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 99","North Bay",N,N,"103",0,391,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 99","North Bay",N,N,"103",0,391,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 100","North Bay",N,N,"",0,367,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,19
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 100","North Bay",N,N,"",0,367,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 100","North Bay",N,N,"",0,367,"Rota","","Anthony","Liberal","Libéral",Y,Y,75
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 100","North Bay",N,N,"",0,367,"Trahan","","Steven","Conservative","Conservateur",N,N,48
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 101","North Bay",N,N,"",1,465,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,5
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 101","North Bay",N,N,"",1,465,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 101","North Bay",N,N,"",1,465,"Rota","","Anthony","Liberal","Libéral",Y,Y,47
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 101","North Bay",N,N,"",1,465,"Trahan","","Steven","Conservative","Conservateur",N,N,27
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 102","Nipissing 10",N,N,"",0,561,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,14
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 102","Nipissing 10",N,N,"",0,561,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 102","Nipissing 10",N,N,"",0,561,"Rota","","Anthony","Liberal","Libéral",Y,Y,60
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 102","Nipissing 10",N,N,"",0,561,"Trahan","","Steven","Conservative","Conservateur",N,N,60
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 103","North Bay",N,N,"",0,446,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,12
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 103","North Bay",N,N,"",0,446,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,92
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 103","North Bay",N,N,"",0,446,"Rota","","Anthony","Liberal","Libéral",Y,Y,84
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 103","North Bay",N,N,"",0,446,"Trahan","","Steven","Conservative","Conservateur",N,N,57
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 104","North Bay",N,N,"",1,462,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,12
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 104","North Bay",N,N,"",1,462,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 104","North Bay",N,N,"",1,462,"Rota","","Anthony","Liberal","Libéral",Y,Y,39
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 104","North Bay",N,N,"",1,462,"Trahan","","Steven","Conservative","Conservateur",N,N,36
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 105","North Bay",N,N,"",0,299,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,10
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 105","North Bay",N,N,"",0,299,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 105","North Bay",N,N,"",0,299,"Rota","","Anthony","Liberal","Libéral",Y,Y,35
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 105","North Bay",N,N,"",0,299,"Trahan","","Steven","Conservative","Conservateur",N,N,20
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 106","North Bay",N,N,"",6,449,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,10
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 106","North Bay",N,N,"",6,449,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,123
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 106","North Bay",N,N,"",6,449,"Rota","","Anthony","Liberal","Libéral",Y,Y,102
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 106","North Bay",N,N,"",6,449,"Trahan","","Steven","Conservative","Conservateur",N,N,63
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 107","North Bay",N,N,"",5,377,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,14
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 107","North Bay",N,N,"",5,377,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 107","North Bay",N,N,"",5,377,"Rota","","Anthony","Liberal","Libéral",Y,Y,58
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 107","North Bay",N,N,"",5,377,"Trahan","","Steven","Conservative","Conservateur",N,N,52
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 108","North Bay",N,N,"",1,381,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,7
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 108","North Bay",N,N,"",1,381,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 108","North Bay",N,N,"",1,381,"Rota","","Anthony","Liberal","Libéral",Y,Y,63
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 108","North Bay",N,N,"",1,381,"Trahan","","Steven","Conservative","Conservateur",N,N,32
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 109","North Bay",N,N,"100",0,364,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 109","North Bay",N,N,"100",0,364,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 109","North Bay",N,N,"100",0,364,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 109","North Bay",N,N,"100",0,364,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 110","North Bay",N,N,"106",0,415,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 110","North Bay",N,N,"106",0,415,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 110","North Bay",N,N,"106",0,415,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 110","North Bay",N,N,"106",0,415,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 111","East Ferris",N,N,"",1,442,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,7
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 111","East Ferris",N,N,"",1,442,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 111","East Ferris",N,N,"",1,442,"Rota","","Anthony","Liberal","Libéral",Y,Y,83
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 111","East Ferris",N,N,"",1,442,"Trahan","","Steven","Conservative","Conservateur",N,N,91
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 112","East Ferris",N,N,"",0,380,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,9
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 112","East Ferris",N,N,"",0,380,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 112","East Ferris",N,N,"",0,380,"Rota","","Anthony","Liberal","Libéral",Y,Y,63
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 112","East Ferris",N,N,"",0,380,"Trahan","","Steven","Conservative","Conservateur",N,N,76
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 113","East Ferris",N,N,"",0,241,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,3
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 113","East Ferris",N,N,"",0,241,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 113","East Ferris",N,N,"",0,241,"Rota","","Anthony","Liberal","Libéral",Y,Y,36
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 113","East Ferris",N,N,"",0,241,"Trahan","","Steven","Conservative","Conservateur",N,N,34
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 114","Corbeil",N,N,"",0,346,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,10
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 114","Corbeil",N,N,"",0,346,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 114","Corbeil",N,N,"",0,346,"Rota","","Anthony","Liberal","Libéral",Y,Y,47
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 114","Corbeil",N,N,"",0,346,"Trahan","","Steven","Conservative","Conservateur",N,N,68
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 115","Corbeil",N,N,"",0,376,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,4
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 115","Corbeil",N,N,"",0,376,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 115","Corbeil",N,N,"",0,376,"Rota","","Anthony","Liberal","Libéral",Y,Y,64
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 115","Corbeil",N,N,"",0,376,"Trahan","","Steven","Conservative","Conservateur",N,N,62
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 116","North Bay",N,N,"",2,366,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,18
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 116","North Bay",N,N,"",2,366,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 116","North Bay",N,N,"",2,366,"Rota","","Anthony","Liberal","Libéral",Y,Y,62
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 116","North Bay",N,N,"",2,366,"Trahan","","Steven","Conservative","Conservateur",N,N,50
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 117","North Bay",N,N,"",0,471,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,20
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 117","North Bay",N,N,"",0,471,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 117","North Bay",N,N,"",0,471,"Rota","","Anthony","Liberal","Libéral",Y,Y,34
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 117","North Bay",N,N,"",0,471,"Trahan","","Steven","Conservative","Conservateur",N,N,29
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 118","North Bay",N,N,"116",0,350,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 118","North Bay",N,N,"116",0,350,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 118","North Bay",N,N,"116",0,350,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 118","North Bay",N,N,"116",0,350,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 119","Garden Village",N,N,"",1,417,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,5
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 119","Garden Village",N,N,"",1,417,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 119","Garden Village",N,N,"",1,417,"Rota","","Anthony","Liberal","Libéral",Y,Y,62
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 119","Garden Village",N,N,"",1,417,"Trahan","","Steven","Conservative","Conservateur",N,N,7
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 120","North Bay",N,N,"123",0,387,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 120","North Bay",N,N,"123",0,387,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 120","North Bay",N,N,"123",0,387,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 120","North Bay",N,N,"123",0,387,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 121","North Bay",N,N,"",1,442,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,12
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 121","North Bay",N,N,"",1,442,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 121","North Bay",N,N,"",1,442,"Rota","","Anthony","Liberal","Libéral",Y,Y,35
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 121","North Bay",N,N,"",1,442,"Trahan","","Steven","Conservative","Conservateur",N,N,41
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 122","North Bay",N,N,"",0,461,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,8
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 122","North Bay",N,N,"",0,461,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 122","North Bay",N,N,"",0,461,"Rota","","Anthony","Liberal","Libéral",Y,Y,67
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 122","North Bay",N,N,"",0,461,"Trahan","","Steven","Conservative","Conservateur",N,N,42
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 123","North Bay",N,N,"",1,443,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,17
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 123","North Bay",N,N,"",1,443,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,94
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 123","North Bay",N,N,"",1,443,"Rota","","Anthony","Liberal","Libéral",Y,Y,113
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 123","North Bay",N,N,"",1,443,"Trahan","","Steven","Conservative","Conservateur",N,N,83
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 124","North Bay",N,N,"126",0,371,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 124","North Bay",N,N,"126",0,371,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 124","North Bay",N,N,"126",0,371,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 124","North Bay",N,N,"126",0,371,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 125","North Bay",N,N,"127",0,338,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 125","North Bay",N,N,"127",0,338,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 125","North Bay",N,N,"127",0,338,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 125","North Bay",N,N,"127",0,338,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 126","North Bay",N,N,"",1,545,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,19
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 126","North Bay",N,N,"",1,545,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,108
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 126","North Bay",N,N,"",1,545,"Rota","","Anthony","Liberal","Libéral",Y,Y,90
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 126","North Bay",N,N,"",1,545,"Trahan","","Steven","Conservative","Conservateur",N,N,76
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 127","North Bay",N,N,"",0,401,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,9
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 127","North Bay",N,N,"",0,401,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 127","North Bay",N,N,"",0,401,"Rota","","Anthony","Liberal","Libéral",Y,Y,69
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 127","North Bay",N,N,"",0,401,"Trahan","","Steven","Conservative","Conservateur",N,N,61
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 128","North Bay",N,N,"",7,551,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,13
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 128","North Bay",N,N,"",7,551,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 128","North Bay",N,N,"",7,551,"Rota","","Anthony","Liberal","Libéral",Y,Y,75
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 128","North Bay",N,N,"",7,551,"Trahan","","Steven","Conservative","Conservateur",N,N,54
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 129","Bonfield",N,N,"",1,677,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,30
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 129","Bonfield",N,N,"",1,677,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 129","Bonfield",N,N,"",1,677,"Rota","","Anthony","Liberal","Libéral",Y,Y,83
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 129","Bonfield",N,N,"",1,677,"Trahan","","Steven","Conservative","Conservateur",N,N,95
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 130","Bonfield",N,N,"",1,353,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,15
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 130","Bonfield",N,N,"",1,353,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 130","Bonfield",N,N,"",1,353,"Rota","","Anthony","Liberal","Libéral",Y,Y,25
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 130","Bonfield",N,N,"",1,353,"Trahan","","Steven","Conservative","Conservateur",N,N,48
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 131","Nosbonsing",N,N,"",1,451,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,8
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 131","Nosbonsing",N,N,"",1,451,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 131","Nosbonsing",N,N,"",1,451,"Rota","","Anthony","Liberal","Libéral",Y,Y,63
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 131","Nosbonsing",N,N,"",1,451,"Trahan","","Steven","Conservative","Conservateur",N,N,39
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 132","Bonfield",N,N,"",0,395,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,11
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 132","Bonfield",N,N,"",0,395,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 132","Bonfield",N,N,"",0,395,"Rota","","Anthony","Liberal","Libéral",Y,Y,41
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 132","Bonfield",N,N,"",0,395,"Trahan","","Steven","Conservative","Conservateur",N,N,55
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 133","North Bay",N,N,"",3,486,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,20
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 133","North Bay",N,N,"",3,486,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 133","North Bay",N,N,"",3,486,"Rota","","Anthony","Liberal","Libéral",Y,Y,60
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 133","North Bay",N,N,"",3,486,"Trahan","","Steven","Conservative","Conservateur",N,N,33
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 134","North Bay",N,N,"",2,668,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,16
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 134","North Bay",N,N,"",2,668,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 134","North Bay",N,N,"",2,668,"Rota","","Anthony","Liberal","Libéral",Y,Y,77
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 134","North Bay",N,N,"",2,668,"Trahan","","Steven","Conservative","Conservateur",N,N,48
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 135","North Bay",N,N,"",0,437,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,11
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 135","North Bay",N,N,"",0,437,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 135","North Bay",N,N,"",0,437,"Rota","","Anthony","Liberal","Libéral",Y,Y,39
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 135","North Bay",N,N,"",0,437,"Trahan","","Steven","Conservative","Conservateur",N,N,49
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 136","North Bay",N,N,"",1,350,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,15
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 136","North Bay",N,N,"",1,350,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 136","North Bay",N,N,"",1,350,"Rota","","Anthony","Liberal","Libéral",Y,Y,56
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 136","North Bay",N,N,"",1,350,"Trahan","","Steven","Conservative","Conservateur",N,N,67
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 137","North Bay",N,N,"136",0,315,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 137","North Bay",N,N,"136",0,315,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 137","North Bay",N,N,"136",0,315,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 137","North Bay",N,N,"136",0,315,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 138","North Bay",N,N,"139",0,336,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 138","North Bay",N,N,"139",0,336,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 138","North Bay",N,N,"139",0,336,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 138","North Bay",N,N,"139",0,336,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 139","North Bay",N,N,"",2,411,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,24
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 139","North Bay",N,N,"",2,411,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 139","North Bay",N,N,"",2,411,"Rota","","Anthony","Liberal","Libéral",Y,Y,77
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 139","North Bay",N,N,"",2,411,"Trahan","","Steven","Conservative","Conservateur",N,N,49
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 140","North Bay",N,N,"",0,396,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,16
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 140","North Bay",N,N,"",0,396,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 140","North Bay",N,N,"",0,396,"Rota","","Anthony","Liberal","Libéral",Y,Y,35
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 140","North Bay",N,N,"",0,396,"Trahan","","Steven","Conservative","Conservateur",N,N,27
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 141","North Bay",N,N,"",0,365,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,20
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 141","North Bay",N,N,"",0,365,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 141","North Bay",N,N,"",0,365,"Rota","","Anthony","Liberal","Libéral",Y,Y,55
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 141","North Bay",N,N,"",0,365,"Trahan","","Steven","Conservative","Conservateur",N,N,41
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 142","North Bay",N,N,"141",0,250,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 142","North Bay",N,N,"141",0,250,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 142","North Bay",N,N,"141",0,250,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 142","North Bay",N,N,"141",0,250,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 143","North Bay",N,N,"145",0,373,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 143","North Bay",N,N,"145",0,373,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 143","North Bay",N,N,"145",0,373,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 143","North Bay",N,N,"145",0,373,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 144","North Bay",N,N,"",0,508,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,14
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 144","North Bay",N,N,"",0,508,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 144","North Bay",N,N,"",0,508,"Rota","","Anthony","Liberal","Libéral",Y,Y,45
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 144","North Bay",N,N,"",0,508,"Trahan","","Steven","Conservative","Conservateur",N,N,41
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 145","North Bay",N,N,"",0,369,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,17
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 145","North Bay",N,N,"",0,369,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 145","North Bay",N,N,"",0,369,"Rota","","Anthony","Liberal","Libéral",Y,Y,80
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 145","North Bay",N,N,"",0,369,"Trahan","","Steven","Conservative","Conservateur",N,N,66
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 146","North Bay",N,N,"",0,516,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,12
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 146","North Bay",N,N,"",0,516,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 146","North Bay",N,N,"",0,516,"Rota","","Anthony","Liberal","Libéral",Y,Y,69
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 146","North Bay",N,N,"",0,516,"Trahan","","Steven","Conservative","Conservateur",N,N,58
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 147","North Bay",N,N,"",0,462,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,4
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 147","North Bay",N,N,"",0,462,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 147","North Bay",N,N,"",0,462,"Rota","","Anthony","Liberal","Libéral",Y,Y,60
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 147","North Bay",N,N,"",0,462,"Trahan","","Steven","Conservative","Conservateur",N,N,44
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 148","East Ferris",N,N,"",0,378,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,8
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 148","East Ferris",N,N,"",0,378,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 148","East Ferris",N,N,"",0,378,"Rota","","Anthony","Liberal","Libéral",Y,Y,50
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 148","East Ferris",N,N,"",0,378,"Trahan","","Steven","Conservative","Conservateur",N,N,60
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 149","Callander",N,N,"",2,479,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,14
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 149","Callander",N,N,"",2,479,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 149","Callander",N,N,"",2,479,"Rota","","Anthony","Liberal","Libéral",Y,Y,59
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 149","Callander",N,N,"",2,479,"Trahan","","Steven","Conservative","Conservateur",N,N,64
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 150","Derland",N,N,"",0,557,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,12
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 150","Derland",N,N,"",0,557,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 150","Derland",N,N,"",0,557,"Rota","","Anthony","Liberal","Libéral",Y,Y,68
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 150","Derland",N,N,"",0,557,"Trahan","","Steven","Conservative","Conservateur",N,N,64
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 151","Callander",N,N,"",1,357,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,10
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 151","Callander",N,N,"",1,357,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 151","Callander",N,N,"",1,357,"Rota","","Anthony","Liberal","Libéral",Y,Y,42
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 151","Callander",N,N,"",1,357,"Trahan","","Steven","Conservative","Conservateur",N,N,70
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 152","Astorville",N,N,"",1,531,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,9
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 152","Astorville",N,N,"",1,531,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 152","Astorville",N,N,"",1,531,"Rota","","Anthony","Liberal","Libéral",Y,Y,70
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 152","Astorville",N,N,"",1,531,"Trahan","","Steven","Conservative","Conservateur",N,N,93
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 153","Astorville",N,N,"",3,474,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,11
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 153","Astorville",N,N,"",3,474,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 153","Astorville",N,N,"",3,474,"Rota","","Anthony","Liberal","Libéral",Y,Y,88
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 153","Astorville",N,N,"",3,474,"Trahan","","Steven","Conservative","Conservateur",N,N,83
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 154","Astorville",N,N,"",0,447,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,14
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 154","Astorville",N,N,"",0,447,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 154","Astorville",N,N,"",0,447,"Rota","","Anthony","Liberal","Libéral",Y,Y,78
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 154","Astorville",N,N,"",0,447,"Trahan","","Steven","Conservative","Conservateur",N,N,83
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 155","Callander",N,N,"",0,563,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,10
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 155","Callander",N,N,"",0,563,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 155","Callander",N,N,"",0,563,"Rota","","Anthony","Liberal","Libéral",Y,Y,97
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 155","Callander",N,N,"",0,563,"Trahan","","Steven","Conservative","Conservateur",N,N,87
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 156","Callander",N,N,"",1,358,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,6
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 156","Callander",N,N,"",1,358,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 156","Callander",N,N,"",1,358,"Rota","","Anthony","Liberal","Libéral",Y,Y,42
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 156","Callander",N,N,"",1,358,"Trahan","","Steven","Conservative","Conservateur",N,N,49
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 157","Callander",N,N,"",1,405,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,8
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 157","Callander",N,N,"",1,405,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 157","Callander",N,N,"",1,405,"Rota","","Anthony","Liberal","Libéral",Y,Y,45
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 157","Callander",N,N,"",1,405,"Trahan","","Steven","Conservative","Conservateur",N,N,59
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 158","Callander",N,N,"",2,423,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,5
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 158","Callander",N,N,"",2,423,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 158","Callander",N,N,"",2,423,"Rota","","Anthony","Liberal","Libéral",Y,Y,50
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 158","Callander",N,N,"",2,423,"Trahan","","Steven","Conservative","Conservateur",N,N,65
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 159","Nipissing ",N,N,"",0,345,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,6
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 159","Nipissing ",N,N,"",0,345,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 159","Nipissing ",N,N,"",0,345,"Rota","","Anthony","Liberal","Libéral",Y,Y,33
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 159","Nipissing ",N,N,"",0,345,"Trahan","","Steven","Conservative","Conservateur",N,N,58
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 160","North Himsworth",N,N,"",2,404,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,13
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 160","North Himsworth",N,N,"",2,404,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 160","North Himsworth",N,N,"",2,404,"Rota","","Anthony","Liberal","Libéral",Y,Y,43
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 160","North Himsworth",N,N,"",2,404,"Trahan","","Steven","Conservative","Conservateur",N,N,45
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 161","Chiswick",N,N,"",2,392,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,37
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 161","Chiswick",N,N,"",2,392,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 161","Chiswick",N,N,"",2,392,"Rota","","Anthony","Liberal","Libéral",Y,Y,42
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 161","Chiswick",N,N,"",2,392,"Trahan","","Steven","Conservative","Conservateur",N,N,91
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 162","Alderdale",N,N,"",0,591,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,41
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 162","Alderdale",N,N,"",0,591,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 162","Alderdale",N,N,"",0,591,"Rota","","Anthony","Liberal","Libéral",Y,Y,69
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 162","Alderdale",N,N,"",0,591,"Trahan","","Steven","Conservative","Conservateur",N,N,108
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 163","Powassan",N,N,"",0,381,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,22
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 163","Powassan",N,N,"",0,381,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 163","Powassan",N,N,"",0,381,"Rota","","Anthony","Liberal","Libéral",Y,Y,58
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 163","Powassan",N,N,"",0,381,"Trahan","","Steven","Conservative","Conservateur",N,N,153
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 164","Powassan",N,N,"",6,472,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,15
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 164","Powassan",N,N,"",6,472,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 164","Powassan",N,N,"",6,472,"Rota","","Anthony","Liberal","Libéral",Y,Y,62
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 164","Powassan",N,N,"",6,472,"Trahan","","Steven","Conservative","Conservateur",N,N,90
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 165","Powassan",N,N,"",1,582,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,21
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 165","Powassan",N,N,"",1,582,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 165","Powassan",N,N,"",1,582,"Rota","","Anthony","Liberal","Libéral",Y,Y,56
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 165","Powassan",N,N,"",1,582,"Trahan","","Steven","Conservative","Conservateur",N,N,98
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 166","Powassan",N,N,"164",0,166,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 166","Powassan",N,N,"164",0,166,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 166","Powassan",N,N,"164",0,166,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 166","Powassan",N,N,"164",0,166,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 167","Powassan",N,N,"",0,240,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,7
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 167","Powassan",N,N,"",0,240,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 167","Powassan",N,N,"",0,240,"Rota","","Anthony","Liberal","Libéral",Y,Y,30
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 167","Powassan",N,N,"",0,240,"Trahan","","Steven","Conservative","Conservateur",N,N,27
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 168","Powassan",N,N,"163",0,385,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 168","Powassan",N,N,"163",0,385,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 168","Powassan",N,N,"163",0,385,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 168","Powassan",N,N,"163",0,385,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 169","Nipissing ",N,N,"",1,343,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,9
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 169","Nipissing ",N,N,"",1,343,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 169","Nipissing ",N,N,"",1,343,"Rota","","Anthony","Liberal","Libéral",Y,Y,47
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 169","Nipissing ",N,N,"",1,343,"Trahan","","Steven","Conservative","Conservateur",N,N,81
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 170","Nipissing ",N,N,"",0,454,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,14
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 170","Nipissing ",N,N,"",0,454,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 170","Nipissing ",N,N,"",0,454,"Rota","","Anthony","Liberal","Libéral",Y,Y,37
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 170","Nipissing ",N,N,"",0,454,"Trahan","","Steven","Conservative","Conservateur",N,N,81
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 171","Powassan",N,N,"",2,302,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,20
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 171","Powassan",N,N,"",2,302,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 171","Powassan",N,N,"",2,302,"Rota","","Anthony","Liberal","Libéral",Y,Y,18
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 171","Powassan",N,N,"",2,302,"Trahan","","Steven","Conservative","Conservateur",N,N,64
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 172","Trout Creek",N,N,"",2,387,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,22
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 172","Trout Creek",N,N,"",2,387,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 172","Trout Creek",N,N,"",2,387,"Rota","","Anthony","Liberal","Libéral",Y,Y,43
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 172","Trout Creek",N,N,"",2,387,"Trahan","","Steven","Conservative","Conservateur",N,N,93
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 173","Nipissing ",N,N,"",0,216,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,12
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 173","Nipissing ",N,N,"",0,216,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 173","Nipissing ",N,N,"",0,216,"Rota","","Anthony","Liberal","Libéral",Y,Y,30
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 173","Nipissing ",N,N,"",0,216,"Trahan","","Steven","Conservative","Conservateur",N,N,40
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 174","Rutherglen",N,N,"",0,462,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,30
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 174","Rutherglen",N,N,"",0,462,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 174","Rutherglen",N,N,"",0,462,"Rota","","Anthony","Liberal","Libéral",Y,Y,65
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 174","Rutherglen",N,N,"",0,462,"Trahan","","Steven","Conservative","Conservateur",N,N,54
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 400","North Bay",N,N,"",1,194,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,2
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 400","North Bay",N,N,"",1,194,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 400","North Bay",N,N,"",1,194,"Rota","","Anthony","Liberal","Libéral",Y,Y,82
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 400","North Bay",N,N,"",1,194,"Trahan","","Steven","Conservative","Conservateur",N,N,27
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 401","North Bay",N,N,"",0,173,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,5
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 401","North Bay",N,N,"",0,173,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 401","North Bay",N,N,"",0,173,"Rota","","Anthony","Liberal","Libéral",Y,Y,61
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 401","North Bay",N,N,"",0,173,"Trahan","","Steven","Conservative","Conservateur",N,N,14
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 500","Mobile poll/Bureau itinérant",N,N,"",4,66,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,5
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 500","Mobile poll/Bureau itinérant",N,N,"",4,66,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 500","Mobile poll/Bureau itinérant",N,N,"",4,66,"Rota","","Anthony","Liberal","Libéral",Y,Y,69
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 500","Mobile poll/Bureau itinérant",N,N,"",4,66,"Trahan","","Steven","Conservative","Conservateur",N,N,22
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 501","Mobile poll/Bureau itinérant",N,N,"",2,25,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,2
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 501","Mobile poll/Bureau itinérant",N,N,"",2,25,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 501","Mobile poll/Bureau itinérant",N,N,"",2,25,"Rota","","Anthony","Liberal","Libéral",Y,Y,44
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 501","Mobile poll/Bureau itinérant",N,N,"",2,25,"Trahan","","Steven","Conservative","Conservateur",N,N,11
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 502","Mobile poll/Bureau itinérant",N,N,"500",0,41,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 502","Mobile poll/Bureau itinérant",N,N,"500",0,41,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 502","Mobile poll/Bureau itinérant",N,N,"500",0,41,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 502","Mobile poll/Bureau itinérant",N,N,"500",0,41,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 503","Mobile poll/Bureau itinérant",N,N,"500",0,59,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 503","Mobile poll/Bureau itinérant",N,N,"500",0,59,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 503","Mobile poll/Bureau itinérant",N,N,"500",0,59,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 503","Mobile poll/Bureau itinérant",N,N,"500",0,59,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 504","Mobile poll/Bureau itinérant",N,N,"501",0,33,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 504","Mobile poll/Bureau itinérant",N,N,"501",0,33,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 504","Mobile poll/Bureau itinérant",N,N,"501",0,33,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 504","Mobile poll/Bureau itinérant",N,N,"501",0,33,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 505","Mobile poll/Bureau itinérant",N,N,"501",0,44,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 505","Mobile poll/Bureau itinérant",N,N,"501",0,44,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 505","Mobile poll/Bureau itinérant",N,N,"501",0,44,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 505","Mobile poll/Bureau itinérant",N,N,"501",0,44,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 506","Mobile poll/Bureau itinérant",N,N,"",0,44,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 506","Mobile poll/Bureau itinérant",N,N,"",0,44,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 506","Mobile poll/Bureau itinérant",N,N,"",0,44,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 506","Mobile poll/Bureau itinérant",N,N,"",0,44,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 507","Mobile poll/Bureau itinérant",N,N,"",3,85,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,1
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 507","Mobile poll/Bureau itinérant",N,N,"",3,85,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 507","Mobile poll/Bureau itinérant",N,N,"",3,85,"Rota","","Anthony","Liberal","Libéral",Y,Y,50
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 507","Mobile poll/Bureau itinérant",N,N,"",3,85,"Trahan","","Steven","Conservative","Conservateur",N,N,5
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 508","Mobile poll/Bureau itinérant",N,N,"",0,59,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,1
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 508","Mobile poll/Bureau itinérant",N,N,"",0,59,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 508","Mobile poll/Bureau itinérant",N,N,"",0,59,"Rota","","Anthony","Liberal","Libéral",Y,Y,21
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 508","Mobile poll/Bureau itinérant",N,N,"",0,59,"Trahan","","Steven","Conservative","Conservateur",N,N,2
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 509","Mobile poll/Bureau itinérant",N,N,"",0,41,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,1
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 509","Mobile poll/Bureau itinérant",N,N,"",0,41,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 509","Mobile poll/Bureau itinérant",N,N,"",0,41,"Rota","","Anthony","Liberal","Libéral",Y,Y,10
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 509","Mobile poll/Bureau itinérant",N,N,"",0,41,"Trahan","","Steven","Conservative","Conservateur",N,N,2
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 510","Mobile poll/Bureau itinérant",N,N,"",3,236,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,3
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 510","Mobile poll/Bureau itinérant",N,N,"",3,236,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 510","Mobile poll/Bureau itinérant",N,N,"",3,236,"Rota","","Anthony","Liberal","Libéral",Y,Y,44
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 510","Mobile poll/Bureau itinérant",N,N,"",3,236,"Trahan","","Steven","Conservative","Conservateur",N,N,21
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 511","Mobile poll/Bureau itinérant",N,N,"",9,127,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,2
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 511","Mobile poll/Bureau itinérant",N,N,"",9,127,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 511","Mobile poll/Bureau itinérant",N,N,"",9,127,"Rota","","Anthony","Liberal","Libéral",Y,Y,46
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 511","Mobile poll/Bureau itinérant",N,N,"",9,127,"Trahan","","Steven","Conservative","Conservateur",N,N,31
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 512","Mobile poll/Bureau itinérant",N,N,"",0,65,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,2
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 512","Mobile poll/Bureau itinérant",N,N,"",0,65,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 512","Mobile poll/Bureau itinérant",N,N,"",0,65,"Rota","","Anthony","Liberal","Libéral",Y,Y,59
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 512","Mobile poll/Bureau itinérant",N,N,"",0,65,"Trahan","","Steven","Conservative","Conservateur",N,N,31
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 513","Mobile poll/Bureau itinérant",N,N,"",0,101,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,2
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 513","Mobile poll/Bureau itinérant",N,N,"",0,101,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 513","Mobile poll/Bureau itinérant",N,N,"",0,101,"Rota","","Anthony","Liberal","Libéral",Y,Y,28
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 513","Mobile poll/Bureau itinérant",N,N,"",0,101,"Trahan","","Steven","Conservative","Conservateur",N,N,6
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 514","Mobile poll/Bureau itinérant",N,N,"100",0,27,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 514","Mobile poll/Bureau itinérant",N,N,"100",0,27,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 514","Mobile poll/Bureau itinérant",N,N,"100",0,27,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 514","Mobile poll/Bureau itinérant",N,N,"100",0,27,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 515","Mobile poll/Bureau itinérant",N,N,"",1,71,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 515","Mobile poll/Bureau itinérant",N,N,"",1,71,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 515","Mobile poll/Bureau itinérant",N,N,"",1,71,"Rota","","Anthony","Liberal","Libéral",Y,Y,37
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 515","Mobile poll/Bureau itinérant",N,N,"",1,71,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 516","Mobile poll/Bureau itinérant",N,N,"",0,140,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,2
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 516","Mobile poll/Bureau itinérant",N,N,"",0,140,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 516","Mobile poll/Bureau itinérant",N,N,"",0,140,"Rota","","Anthony","Liberal","Libéral",Y,Y,19
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 516","Mobile poll/Bureau itinérant",N,N,"",0,140,"Trahan","","Steven","Conservative","Conservateur",N,N,5
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 517","Mobile poll/Bureau itinérant",N,N,"",1,96,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,3
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 517","Mobile poll/Bureau itinérant",N,N,"",1,96,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 517","Mobile poll/Bureau itinérant",N,N,"",1,96,"Rota","","Anthony","Liberal","Libéral",Y,Y,25
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 517","Mobile poll/Bureau itinérant",N,N,"",1,96,"Trahan","","Steven","Conservative","Conservateur",N,N,13
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 518","Mobile poll/Bureau itinérant",N,Y,"",0,18,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 518","Mobile poll/Bureau itinérant",N,Y,"",0,18,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 518","Mobile poll/Bureau itinérant",N,Y,"",0,18,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 518","Mobile poll/Bureau itinérant",N,Y,"",0,18,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 519","Mobile poll/Bureau itinérant",N,N,"",2,93,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,3
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 519","Mobile poll/Bureau itinérant",N,N,"",2,93,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 519","Mobile poll/Bureau itinérant",N,N,"",2,93,"Rota","","Anthony","Liberal","Libéral",Y,Y,25
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 519","Mobile poll/Bureau itinérant",N,N,"",2,93,"Trahan","","Steven","Conservative","Conservateur",N,N,10
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 520","Mobile poll/Bureau itinérant",N,N,"",0,50,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,1
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 520","Mobile poll/Bureau itinérant",N,N,"",0,50,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 520","Mobile poll/Bureau itinérant",N,N,"",0,50,"Rota","","Anthony","Liberal","Libéral",Y,Y,20
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 520","Mobile poll/Bureau itinérant",N,N,"",0,50,"Trahan","","Steven","Conservative","Conservateur",N,N,7
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 521","Mobile poll/Bureau itinérant",N,N,"",6,108,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,3
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 521","Mobile poll/Bureau itinérant",N,N,"",6,108,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 521","Mobile poll/Bureau itinérant",N,N,"",6,108,"Rota","","Anthony","Liberal","Libéral",Y,Y,15
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 521","Mobile poll/Bureau itinérant",N,N,"",6,108,"Trahan","","Steven","Conservative","Conservateur",N,N,17
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 522","Mobile poll/Bureau itinérant",N,N,"",0,22,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 522","Mobile poll/Bureau itinérant",N,N,"",0,22,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 522","Mobile poll/Bureau itinérant",N,N,"",0,22,"Rota","","Anthony","Liberal","Libéral",Y,Y,9
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 522","Mobile poll/Bureau itinérant",N,N,"",0,22,"Trahan","","Steven","Conservative","Conservateur",N,N,3
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 523","Mobile poll/Bureau itinérant",N,N,"",0,40,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,2
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 523","Mobile poll/Bureau itinérant",N,N,"",0,40,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 523","Mobile poll/Bureau itinérant",N,N,"",0,40,"Rota","","Anthony","Liberal","Libéral",Y,Y,16
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 523","Mobile poll/Bureau itinérant",N,N,"",0,40,"Trahan","","Steven","Conservative","Conservateur",N,N,3
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 524","Mobile poll/Bureau itinérant",N,N,"512",0,57,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 524","Mobile poll/Bureau itinérant",N,N,"512",0,57,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 524","Mobile poll/Bureau itinérant",N,N,"512",0,57,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 524","Mobile poll/Bureau itinérant",N,N,"512",0,57,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 525","Mobile poll/Bureau itinérant",N,N,"501",0,14,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 525","Mobile poll/Bureau itinérant",N,N,"501",0,14,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 525","Mobile poll/Bureau itinérant",N,N,"501",0,14,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 525","Mobile poll/Bureau itinérant",N,N,"501",0,14,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 526","Mobile poll/Bureau itinérant",N,N,"501",0,9,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 526","Mobile poll/Bureau itinérant",N,N,"501",0,9,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 526","Mobile poll/Bureau itinérant",N,N,"501",0,9,"Rota","","Anthony","Liberal","Libéral",Y,Y,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 526","Mobile poll/Bureau itinérant",N,N,"501",0,9,"Trahan","","Steven","Conservative","Conservateur",N,N,0
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 600","Temiskaming Shores",N,N,"",3,0,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,46
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 600","Temiskaming Shores",N,N,"",3,0,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,127
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 600","Temiskaming Shores",N,N,"",3,0,"Rota","","Anthony","Liberal","Libéral",Y,Y,391
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 600","Temiskaming Shores",N,N,"",3,0,"Trahan","","Steven","Conservative","Conservateur",N,N,280
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 601","Temiskaming Shores",N,N,"",5,0,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,57
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 601","Temiskaming Shores",N,N,"",5,0,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,125
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 601","Temiskaming Shores",N,N,"",5,0,"Rota","","Anthony","Liberal","Libéral",Y,Y,338
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 601","Temiskaming Shores",N,N,"",5,0,"Trahan","","Steven","Conservative","Conservateur",N,N,223
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 602","Cobalt--Latchford",N,N,"",4,0,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,44
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 602","Cobalt--Latchford",N,N,"",4,0,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 602","Cobalt--Latchford",N,N,"",4,0,"Rota","","Anthony","Liberal","Libéral",Y,Y,115
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 602","Cobalt--Latchford",N,N,"",4,0,"Trahan","","Steven","Conservative","Conservateur",N,N,106
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 603","North Bay ",N,N,"",0,0,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,28
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 603","North Bay ",N,N,"",0,0,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 603","North Bay ",N,N,"",0,0,"Rota","","Anthony","Liberal","Libéral",Y,Y,79
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 603","North Bay ",N,N,"",0,0,"Trahan","","Steven","Conservative","Conservateur",N,N,123
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 604","Nipissing 10",N,N,"",0,0,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,19
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 604","Nipissing 10",N,N,"",0,0,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 604","Nipissing 10",N,N,"",0,0,"Rota","","Anthony","Liberal","Libéral",Y,Y,144
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 604","Nipissing 10",N,N,"",0,0,"Trahan","","Steven","Conservative","Conservateur",N,N,22
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 605","North Bay ",N,N,"",2,0,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,68
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 605","North Bay ",N,N,"",2,0,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,242
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 605","North Bay ",N,N,"",2,0,"Rota","","Anthony","Liberal","Libéral",Y,Y,544
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 605","North Bay ",N,N,"",2,0,"Trahan","","Steven","Conservative","Conservateur",N,N,368
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 606","North Bay ",N,N,"",6,0,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,76
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 606","North Bay ",N,N,"",6,0,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,244
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 606","North Bay ",N,N,"",6,0,"Rota","","Anthony","Liberal","Libéral",Y,Y,542
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 606","North Bay ",N,N,"",6,0,"Trahan","","Steven","Conservative","Conservateur",N,N,369
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 607","North Bay ",N,N,"",5,0,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,93
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 607","North Bay ",N,N,"",5,0,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,235
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 607","North Bay ",N,N,"",5,0,"Rota","","Anthony","Liberal","Libéral",Y,Y,395
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 607","North Bay ",N,N,"",5,0,"Trahan","","Steven","Conservative","Conservateur",N,N,247
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 608","North Bay ",N,N,"",5,0,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,68
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 608","North Bay ",N,N,"",5,0,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,258
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 608","North Bay ",N,N,"",5,0,"Rota","","Anthony","Liberal","Libéral",Y,Y,335
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 608","North Bay ",N,N,"",5,0,"Trahan","","Steven","Conservative","Conservateur",N,N,235
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 609","North Bay ",N,N,"",5,0,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,92
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 609","North Bay ",N,N,"",5,0,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,333
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 609","North Bay ",N,N,"",5,0,"Rota","","Anthony","Liberal","Libéral",Y,Y,795
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 609","North Bay ",N,N,"",5,0,"Trahan","","Steven","Conservative","Conservateur",N,N,511
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 610","North Bay ",N,N,"",23,0,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,82
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 610","North Bay ",N,N,"",23,0,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,327
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 610","North Bay ",N,N,"",23,0,"Rota","","Anthony","Liberal","Libéral",Y,Y,718
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 610","North Bay ",N,N,"",23,0,"Trahan","","Steven","Conservative","Conservateur",N,N,523
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 611","Nipissing ",N,N,"",4,0,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,27
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 611","Nipissing ",N,N,"",4,0,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 611","Nipissing ",N,N,"",4,0,"Rota","","Anthony","Liberal","Libéral",Y,Y,155
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 611","Nipissing ",N,N,"",4,0,"Trahan","","Steven","Conservative","Conservateur",N,N,295
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 612","Astorville",N,N,"",11,0,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,106
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 612","Astorville",N,N,"",11,0,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,198
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 612","Astorville",N,N,"",11,0,"Rota","","Anthony","Liberal","Libéral",Y,Y,562
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 612","Astorville",N,N,"",11,0,"Trahan","","Steven","Conservative","Conservateur",N,N,565
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 613","Powassan",N,N,"",3,0,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,109
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 613","Powassan",N,N,"",3,0,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,162
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 613","Powassan",N,N,"",3,0,"Rota","","Anthony","Liberal","Libéral",Y,Y,262
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 613","Powassan",N,N,"",3,0,"Trahan","","Steven","Conservative","Conservateur",N,N,547
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 614","East Ferris--Bonfield",N,N,"",1,0,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,65
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 614","East Ferris--Bonfield",N,N,"",1,0,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 614","East Ferris--Bonfield",N,N,"",1,0,"Rota","","Anthony","Liberal","Libéral",Y,Y,221
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 614","East Ferris--Bonfield",N,N,"",1,0,"Trahan","","Steven","Conservative","Conservateur",N,N,206
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 615","North Bay ",N,N,"",3,0,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,33
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 615","North Bay ",N,N,"",3,0,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,90
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 615","North Bay ",N,N,"",3,0,"Rota","","Anthony","Liberal","Libéral",Y,Y,107
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 615","North Bay ",N,N,"",3,0,"Trahan","","Steven","Conservative","Conservateur",N,N,144
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 616","Mattawa",N,N,"",7,0,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,57
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 616","Mattawa",N,N,"",7,0,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,123
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 616","Mattawa",N,N,"",7,0,"Rota","","Anthony","Liberal","Libéral",Y,Y,300
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 616","Mattawa",N,N,"",7,0,"Trahan","","Steven","Conservative","Conservateur",N,N,279
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 617","North Bay",N,N,"",7,0,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,73
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 617","North Bay",N,N,"",7,0,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,272
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 617","North Bay",N,N,"",7,0,"Rota","","Anthony","Liberal","Libéral",Y,Y,835
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," 617","North Bay",N,N,"",7,0,"Trahan","","Steven","Conservative","Conservateur",N,N,647
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",19,199,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,33
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",19,199,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,142
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",19,199,"Rota","","Anthony","Liberal","Libéral",Y,Y,212
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",19,199,"Trahan","","Steven","Conservative","Conservateur",N,N,205
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",51,0,"Galante","","Gregory J.","People's Party - PPC","Parti populaire - PPC",N,N,213
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",51,0,"Robertson","","Scott","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,560
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",51,0,"Rota","","Anthony","Liberal","Libéral",Y,Y,1778
+35070,"Nipissing--Timiskaming","Nipissing--Timiskaming"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",51,0,"Trahan","","Steven","Conservative","Conservateur",N,N,979

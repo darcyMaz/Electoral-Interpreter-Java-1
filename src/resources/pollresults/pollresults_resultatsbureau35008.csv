@@ -1,0 +1,761 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+35008,"Brampton Centre","Brampton-Centre"," 1","Brampton",N,N,"",1,446,"Ali","","Shafqat","Liberal","Libéral",N,Y,62
+35008,"Brampton Centre","Brampton-Centre"," 1","Brampton",N,N,"",1,446,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35008,"Brampton Centre","Brampton-Centre"," 1","Brampton",N,N,"",1,446,"Shino","","Ronni","Independent","Indépendant(e)",N,N,7
+35008,"Brampton Centre","Brampton-Centre"," 1","Brampton",N,N,"",1,446,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,45
+35008,"Brampton Centre","Brampton-Centre"," 2","Brampton",N,N,"",0,297,"Ali","","Shafqat","Liberal","Libéral",N,Y,33
+35008,"Brampton Centre","Brampton-Centre"," 2","Brampton",N,N,"",0,297,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35008,"Brampton Centre","Brampton-Centre"," 2","Brampton",N,N,"",0,297,"Shino","","Ronni","Independent","Indépendant(e)",N,N,4
+35008,"Brampton Centre","Brampton-Centre"," 2","Brampton",N,N,"",0,297,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,41
+35008,"Brampton Centre","Brampton-Centre"," 3","Brampton",N,N,"",0,384,"Ali","","Shafqat","Liberal","Libéral",N,Y,52
+35008,"Brampton Centre","Brampton-Centre"," 3","Brampton",N,N,"",0,384,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35008,"Brampton Centre","Brampton-Centre"," 3","Brampton",N,N,"",0,384,"Shino","","Ronni","Independent","Indépendant(e)",N,N,11
+35008,"Brampton Centre","Brampton-Centre"," 3","Brampton",N,N,"",0,384,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,33
+35008,"Brampton Centre","Brampton-Centre"," 4","Brampton",N,N,"",2,313,"Ali","","Shafqat","Liberal","Libéral",N,Y,36
+35008,"Brampton Centre","Brampton-Centre"," 4","Brampton",N,N,"",2,313,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35008,"Brampton Centre","Brampton-Centre"," 4","Brampton",N,N,"",2,313,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 4","Brampton",N,N,"",2,313,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,31
+35008,"Brampton Centre","Brampton-Centre"," 5","Brampton",N,N,"",2,361,"Ali","","Shafqat","Liberal","Libéral",N,Y,50
+35008,"Brampton Centre","Brampton-Centre"," 5","Brampton",N,N,"",2,361,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35008,"Brampton Centre","Brampton-Centre"," 5","Brampton",N,N,"",2,361,"Shino","","Ronni","Independent","Indépendant(e)",N,N,5
+35008,"Brampton Centre","Brampton-Centre"," 5","Brampton",N,N,"",2,361,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,41
+35008,"Brampton Centre","Brampton-Centre"," 6","Brampton",N,N,"",0,306,"Ali","","Shafqat","Liberal","Libéral",N,Y,33
+35008,"Brampton Centre","Brampton-Centre"," 6","Brampton",N,N,"",0,306,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35008,"Brampton Centre","Brampton-Centre"," 6","Brampton",N,N,"",0,306,"Shino","","Ronni","Independent","Indépendant(e)",N,N,5
+35008,"Brampton Centre","Brampton-Centre"," 6","Brampton",N,N,"",0,306,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,39
+35008,"Brampton Centre","Brampton-Centre"," 7","Brampton",N,N,"",0,398,"Ali","","Shafqat","Liberal","Libéral",N,Y,33
+35008,"Brampton Centre","Brampton-Centre"," 7","Brampton",N,N,"",0,398,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35008,"Brampton Centre","Brampton-Centre"," 7","Brampton",N,N,"",0,398,"Shino","","Ronni","Independent","Indépendant(e)",N,N,11
+35008,"Brampton Centre","Brampton-Centre"," 7","Brampton",N,N,"",0,398,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,58
+35008,"Brampton Centre","Brampton-Centre"," 8","Brampton",N,N,"",0,440,"Ali","","Shafqat","Liberal","Libéral",N,Y,68
+35008,"Brampton Centre","Brampton-Centre"," 8","Brampton",N,N,"",0,440,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35008,"Brampton Centre","Brampton-Centre"," 8","Brampton",N,N,"",0,440,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 8","Brampton",N,N,"",0,440,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,45
+35008,"Brampton Centre","Brampton-Centre"," 9","Brampton",N,N,"",2,348,"Ali","","Shafqat","Liberal","Libéral",N,Y,51
+35008,"Brampton Centre","Brampton-Centre"," 9","Brampton",N,N,"",2,348,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35008,"Brampton Centre","Brampton-Centre"," 9","Brampton",N,N,"",2,348,"Shino","","Ronni","Independent","Indépendant(e)",N,N,4
+35008,"Brampton Centre","Brampton-Centre"," 9","Brampton",N,N,"",2,348,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,36
+35008,"Brampton Centre","Brampton-Centre"," 10","Brampton",N,N,"",2,462,"Ali","","Shafqat","Liberal","Libéral",N,Y,71
+35008,"Brampton Centre","Brampton-Centre"," 10","Brampton",N,N,"",2,462,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35008,"Brampton Centre","Brampton-Centre"," 10","Brampton",N,N,"",2,462,"Shino","","Ronni","Independent","Indépendant(e)",N,N,6
+35008,"Brampton Centre","Brampton-Centre"," 10","Brampton",N,N,"",2,462,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,44
+35008,"Brampton Centre","Brampton-Centre"," 11","Brampton",N,N,"",3,289,"Ali","","Shafqat","Liberal","Libéral",N,Y,29
+35008,"Brampton Centre","Brampton-Centre"," 11","Brampton",N,N,"",3,289,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35008,"Brampton Centre","Brampton-Centre"," 11","Brampton",N,N,"",3,289,"Shino","","Ronni","Independent","Indépendant(e)",N,N,1
+35008,"Brampton Centre","Brampton-Centre"," 11","Brampton",N,N,"",3,289,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,27
+35008,"Brampton Centre","Brampton-Centre"," 12","Brampton",N,N,"",2,458,"Ali","","Shafqat","Liberal","Libéral",N,Y,56
+35008,"Brampton Centre","Brampton-Centre"," 12","Brampton",N,N,"",2,458,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35008,"Brampton Centre","Brampton-Centre"," 12","Brampton",N,N,"",2,458,"Shino","","Ronni","Independent","Indépendant(e)",N,N,7
+35008,"Brampton Centre","Brampton-Centre"," 12","Brampton",N,N,"",2,458,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,28
+35008,"Brampton Centre","Brampton-Centre"," 13","Brampton",N,N,"",0,373,"Ali","","Shafqat","Liberal","Libéral",N,Y,60
+35008,"Brampton Centre","Brampton-Centre"," 13","Brampton",N,N,"",0,373,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35008,"Brampton Centre","Brampton-Centre"," 13","Brampton",N,N,"",0,373,"Shino","","Ronni","Independent","Indépendant(e)",N,N,1
+35008,"Brampton Centre","Brampton-Centre"," 13","Brampton",N,N,"",0,373,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,46
+35008,"Brampton Centre","Brampton-Centre"," 14","Brampton",N,N,"",1,388,"Ali","","Shafqat","Liberal","Libéral",N,Y,60
+35008,"Brampton Centre","Brampton-Centre"," 14","Brampton",N,N,"",1,388,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35008,"Brampton Centre","Brampton-Centre"," 14","Brampton",N,N,"",1,388,"Shino","","Ronni","Independent","Indépendant(e)",N,N,6
+35008,"Brampton Centre","Brampton-Centre"," 14","Brampton",N,N,"",1,388,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,46
+35008,"Brampton Centre","Brampton-Centre"," 15","Brampton",N,N,"",1,453,"Ali","","Shafqat","Liberal","Libéral",N,Y,59
+35008,"Brampton Centre","Brampton-Centre"," 15","Brampton",N,N,"",1,453,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35008,"Brampton Centre","Brampton-Centre"," 15","Brampton",N,N,"",1,453,"Shino","","Ronni","Independent","Indépendant(e)",N,N,5
+35008,"Brampton Centre","Brampton-Centre"," 15","Brampton",N,N,"",1,453,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,64
+35008,"Brampton Centre","Brampton-Centre"," 16","Brampton",N,N,"",0,436,"Ali","","Shafqat","Liberal","Libéral",N,Y,46
+35008,"Brampton Centre","Brampton-Centre"," 16","Brampton",N,N,"",0,436,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35008,"Brampton Centre","Brampton-Centre"," 16","Brampton",N,N,"",0,436,"Shino","","Ronni","Independent","Indépendant(e)",N,N,14
+35008,"Brampton Centre","Brampton-Centre"," 16","Brampton",N,N,"",0,436,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,50
+35008,"Brampton Centre","Brampton-Centre"," 17","Brampton",N,N,"",0,388,"Ali","","Shafqat","Liberal","Libéral",N,Y,46
+35008,"Brampton Centre","Brampton-Centre"," 17","Brampton",N,N,"",0,388,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35008,"Brampton Centre","Brampton-Centre"," 17","Brampton",N,N,"",0,388,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 17","Brampton",N,N,"",0,388,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,49
+35008,"Brampton Centre","Brampton-Centre"," 18","Brampton",N,N,"",2,528,"Ali","","Shafqat","Liberal","Libéral",N,Y,89
+35008,"Brampton Centre","Brampton-Centre"," 18","Brampton",N,N,"",2,528,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35008,"Brampton Centre","Brampton-Centre"," 18","Brampton",N,N,"",2,528,"Shino","","Ronni","Independent","Indépendant(e)",N,N,6
+35008,"Brampton Centre","Brampton-Centre"," 18","Brampton",N,N,"",2,528,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,34
+35008,"Brampton Centre","Brampton-Centre"," 19","Brampton",N,N,"",0,415,"Ali","","Shafqat","Liberal","Libéral",N,Y,47
+35008,"Brampton Centre","Brampton-Centre"," 19","Brampton",N,N,"",0,415,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35008,"Brampton Centre","Brampton-Centre"," 19","Brampton",N,N,"",0,415,"Shino","","Ronni","Independent","Indépendant(e)",N,N,4
+35008,"Brampton Centre","Brampton-Centre"," 19","Brampton",N,N,"",0,415,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,22
+35008,"Brampton Centre","Brampton-Centre"," 20","Brampton",N,N,"",0,328,"Ali","","Shafqat","Liberal","Libéral",N,Y,55
+35008,"Brampton Centre","Brampton-Centre"," 20","Brampton",N,N,"",0,328,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35008,"Brampton Centre","Brampton-Centre"," 20","Brampton",N,N,"",0,328,"Shino","","Ronni","Independent","Indépendant(e)",N,N,5
+35008,"Brampton Centre","Brampton-Centre"," 20","Brampton",N,N,"",0,328,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,36
+35008,"Brampton Centre","Brampton-Centre"," 21","Brampton",N,N,"",4,523,"Ali","","Shafqat","Liberal","Libéral",N,Y,72
+35008,"Brampton Centre","Brampton-Centre"," 21","Brampton",N,N,"",4,523,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35008,"Brampton Centre","Brampton-Centre"," 21","Brampton",N,N,"",4,523,"Shino","","Ronni","Independent","Indépendant(e)",N,N,6
+35008,"Brampton Centre","Brampton-Centre"," 21","Brampton",N,N,"",4,523,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,69
+35008,"Brampton Centre","Brampton-Centre"," 22","Brampton",N,N,"",2,520,"Ali","","Shafqat","Liberal","Libéral",N,Y,73
+35008,"Brampton Centre","Brampton-Centre"," 22","Brampton",N,N,"",2,520,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35008,"Brampton Centre","Brampton-Centre"," 22","Brampton",N,N,"",2,520,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 22","Brampton",N,N,"",2,520,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,74
+35008,"Brampton Centre","Brampton-Centre"," 23","Brampton",N,N,"",4,455,"Ali","","Shafqat","Liberal","Libéral",N,Y,62
+35008,"Brampton Centre","Brampton-Centre"," 23","Brampton",N,N,"",4,455,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35008,"Brampton Centre","Brampton-Centre"," 23","Brampton",N,N,"",4,455,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 23","Brampton",N,N,"",4,455,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,64
+35008,"Brampton Centre","Brampton-Centre"," 24","Brampton",N,N,"",0,378,"Ali","","Shafqat","Liberal","Libéral",N,Y,49
+35008,"Brampton Centre","Brampton-Centre"," 24","Brampton",N,N,"",0,378,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35008,"Brampton Centre","Brampton-Centre"," 24","Brampton",N,N,"",0,378,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 24","Brampton",N,N,"",0,378,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,67
+35008,"Brampton Centre","Brampton-Centre"," 25","Brampton",N,N,"",2,302,"Ali","","Shafqat","Liberal","Libéral",N,Y,67
+35008,"Brampton Centre","Brampton-Centre"," 25","Brampton",N,N,"",2,302,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35008,"Brampton Centre","Brampton-Centre"," 25","Brampton",N,N,"",2,302,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 25","Brampton",N,N,"",2,302,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,37
+35008,"Brampton Centre","Brampton-Centre"," 26","Brampton",N,N,"",2,296,"Ali","","Shafqat","Liberal","Libéral",N,Y,44
+35008,"Brampton Centre","Brampton-Centre"," 26","Brampton",N,N,"",2,296,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35008,"Brampton Centre","Brampton-Centre"," 26","Brampton",N,N,"",2,296,"Shino","","Ronni","Independent","Indépendant(e)",N,N,1
+35008,"Brampton Centre","Brampton-Centre"," 26","Brampton",N,N,"",2,296,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,50
+35008,"Brampton Centre","Brampton-Centre"," 27A","Brampton",N,N,"",0,420,"Ali","","Shafqat","Liberal","Libéral",N,Y,54
+35008,"Brampton Centre","Brampton-Centre"," 27A","Brampton",N,N,"",0,420,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35008,"Brampton Centre","Brampton-Centre"," 27A","Brampton",N,N,"",0,420,"Shino","","Ronni","Independent","Indépendant(e)",N,N,4
+35008,"Brampton Centre","Brampton-Centre"," 27A","Brampton",N,N,"",0,420,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,44
+35008,"Brampton Centre","Brampton-Centre"," 27B","Brampton",N,N,"",2,349,"Ali","","Shafqat","Liberal","Libéral",N,Y,55
+35008,"Brampton Centre","Brampton-Centre"," 27B","Brampton",N,N,"",2,349,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35008,"Brampton Centre","Brampton-Centre"," 27B","Brampton",N,N,"",2,349,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 27B","Brampton",N,N,"",2,349,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,33
+35008,"Brampton Centre","Brampton-Centre"," 28","Brampton",N,N,"",1,371,"Ali","","Shafqat","Liberal","Libéral",N,Y,56
+35008,"Brampton Centre","Brampton-Centre"," 28","Brampton",N,N,"",1,371,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35008,"Brampton Centre","Brampton-Centre"," 28","Brampton",N,N,"",1,371,"Shino","","Ronni","Independent","Indépendant(e)",N,N,7
+35008,"Brampton Centre","Brampton-Centre"," 28","Brampton",N,N,"",1,371,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,40
+35008,"Brampton Centre","Brampton-Centre"," 29","Brampton",Y,N,"",0,0,"Ali","","Shafqat","Liberal","Libéral",N,Y,0
+35008,"Brampton Centre","Brampton-Centre"," 29","Brampton",Y,N,"",0,0,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35008,"Brampton Centre","Brampton-Centre"," 29","Brampton",Y,N,"",0,0,"Shino","","Ronni","Independent","Indépendant(e)",N,N,0
+35008,"Brampton Centre","Brampton-Centre"," 29","Brampton",Y,N,"",0,0,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,0
+35008,"Brampton Centre","Brampton-Centre"," 30","Brampton",N,N,"",4,350,"Ali","","Shafqat","Liberal","Libéral",N,Y,59
+35008,"Brampton Centre","Brampton-Centre"," 30","Brampton",N,N,"",4,350,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35008,"Brampton Centre","Brampton-Centre"," 30","Brampton",N,N,"",4,350,"Shino","","Ronni","Independent","Indépendant(e)",N,N,0
+35008,"Brampton Centre","Brampton-Centre"," 30","Brampton",N,N,"",4,350,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,24
+35008,"Brampton Centre","Brampton-Centre"," 31","Brampton",N,N,"",2,331,"Ali","","Shafqat","Liberal","Libéral",N,Y,58
+35008,"Brampton Centre","Brampton-Centre"," 31","Brampton",N,N,"",2,331,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35008,"Brampton Centre","Brampton-Centre"," 31","Brampton",N,N,"",2,331,"Shino","","Ronni","Independent","Indépendant(e)",N,N,5
+35008,"Brampton Centre","Brampton-Centre"," 31","Brampton",N,N,"",2,331,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,21
+35008,"Brampton Centre","Brampton-Centre"," 32","Brampton",N,N,"",2,333,"Ali","","Shafqat","Liberal","Libéral",N,Y,33
+35008,"Brampton Centre","Brampton-Centre"," 32","Brampton",N,N,"",2,333,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35008,"Brampton Centre","Brampton-Centre"," 32","Brampton",N,N,"",2,333,"Shino","","Ronni","Independent","Indépendant(e)",N,N,0
+35008,"Brampton Centre","Brampton-Centre"," 32","Brampton",N,N,"",2,333,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,31
+35008,"Brampton Centre","Brampton-Centre"," 33","Brampton",N,N,"",1,428,"Ali","","Shafqat","Liberal","Libéral",N,Y,55
+35008,"Brampton Centre","Brampton-Centre"," 33","Brampton",N,N,"",1,428,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35008,"Brampton Centre","Brampton-Centre"," 33","Brampton",N,N,"",1,428,"Shino","","Ronni","Independent","Indépendant(e)",N,N,5
+35008,"Brampton Centre","Brampton-Centre"," 33","Brampton",N,N,"",1,428,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,72
+35008,"Brampton Centre","Brampton-Centre"," 34","Brampton",N,N,"",0,310,"Ali","","Shafqat","Liberal","Libéral",N,Y,46
+35008,"Brampton Centre","Brampton-Centre"," 34","Brampton",N,N,"",0,310,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35008,"Brampton Centre","Brampton-Centre"," 34","Brampton",N,N,"",0,310,"Shino","","Ronni","Independent","Indépendant(e)",N,N,1
+35008,"Brampton Centre","Brampton-Centre"," 34","Brampton",N,N,"",0,310,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,26
+35008,"Brampton Centre","Brampton-Centre"," 35","Brampton",N,N,"",1,338,"Ali","","Shafqat","Liberal","Libéral",N,Y,68
+35008,"Brampton Centre","Brampton-Centre"," 35","Brampton",N,N,"",1,338,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35008,"Brampton Centre","Brampton-Centre"," 35","Brampton",N,N,"",1,338,"Shino","","Ronni","Independent","Indépendant(e)",N,N,4
+35008,"Brampton Centre","Brampton-Centre"," 35","Brampton",N,N,"",1,338,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,43
+35008,"Brampton Centre","Brampton-Centre"," 36","Brampton",N,N,"",4,485,"Ali","","Shafqat","Liberal","Libéral",N,Y,82
+35008,"Brampton Centre","Brampton-Centre"," 36","Brampton",N,N,"",4,485,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+35008,"Brampton Centre","Brampton-Centre"," 36","Brampton",N,N,"",4,485,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 36","Brampton",N,N,"",4,485,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,62
+35008,"Brampton Centre","Brampton-Centre"," 37","Brampton",N,N,"",2,457,"Ali","","Shafqat","Liberal","Libéral",N,Y,75
+35008,"Brampton Centre","Brampton-Centre"," 37","Brampton",N,N,"",2,457,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35008,"Brampton Centre","Brampton-Centre"," 37","Brampton",N,N,"",2,457,"Shino","","Ronni","Independent","Indépendant(e)",N,N,5
+35008,"Brampton Centre","Brampton-Centre"," 37","Brampton",N,N,"",2,457,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,56
+35008,"Brampton Centre","Brampton-Centre"," 38","Brampton",N,N,"",0,299,"Ali","","Shafqat","Liberal","Libéral",N,Y,36
+35008,"Brampton Centre","Brampton-Centre"," 38","Brampton",N,N,"",0,299,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35008,"Brampton Centre","Brampton-Centre"," 38","Brampton",N,N,"",0,299,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 38","Brampton",N,N,"",0,299,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,39
+35008,"Brampton Centre","Brampton-Centre"," 39","Brampton",N,N,"",0,303,"Ali","","Shafqat","Liberal","Libéral",N,Y,75
+35008,"Brampton Centre","Brampton-Centre"," 39","Brampton",N,N,"",0,303,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35008,"Brampton Centre","Brampton-Centre"," 39","Brampton",N,N,"",0,303,"Shino","","Ronni","Independent","Indépendant(e)",N,N,1
+35008,"Brampton Centre","Brampton-Centre"," 39","Brampton",N,N,"",0,303,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,27
+35008,"Brampton Centre","Brampton-Centre"," 40","Brampton",N,N,"",3,467,"Ali","","Shafqat","Liberal","Libéral",N,Y,84
+35008,"Brampton Centre","Brampton-Centre"," 40","Brampton",N,N,"",3,467,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35008,"Brampton Centre","Brampton-Centre"," 40","Brampton",N,N,"",3,467,"Shino","","Ronni","Independent","Indépendant(e)",N,N,1
+35008,"Brampton Centre","Brampton-Centre"," 40","Brampton",N,N,"",3,467,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,50
+35008,"Brampton Centre","Brampton-Centre"," 41","Brampton",N,N,"",1,468,"Ali","","Shafqat","Liberal","Libéral",N,Y,75
+35008,"Brampton Centre","Brampton-Centre"," 41","Brampton",N,N,"",1,468,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35008,"Brampton Centre","Brampton-Centre"," 41","Brampton",N,N,"",1,468,"Shino","","Ronni","Independent","Indépendant(e)",N,N,4
+35008,"Brampton Centre","Brampton-Centre"," 41","Brampton",N,N,"",1,468,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,40
+35008,"Brampton Centre","Brampton-Centre"," 42","Brampton",N,N,"",5,537,"Ali","","Shafqat","Liberal","Libéral",N,Y,96
+35008,"Brampton Centre","Brampton-Centre"," 42","Brampton",N,N,"",5,537,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35008,"Brampton Centre","Brampton-Centre"," 42","Brampton",N,N,"",5,537,"Shino","","Ronni","Independent","Indépendant(e)",N,N,5
+35008,"Brampton Centre","Brampton-Centre"," 42","Brampton",N,N,"",5,537,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,30
+35008,"Brampton Centre","Brampton-Centre"," 43","Brampton",N,N,"",1,464,"Ali","","Shafqat","Liberal","Libéral",N,Y,124
+35008,"Brampton Centre","Brampton-Centre"," 43","Brampton",N,N,"",1,464,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35008,"Brampton Centre","Brampton-Centre"," 43","Brampton",N,N,"",1,464,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 43","Brampton",N,N,"",1,464,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,33
+35008,"Brampton Centre","Brampton-Centre"," 44","Brampton",N,N,"",0,404,"Ali","","Shafqat","Liberal","Libéral",N,Y,67
+35008,"Brampton Centre","Brampton-Centre"," 44","Brampton",N,N,"",0,404,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35008,"Brampton Centre","Brampton-Centre"," 44","Brampton",N,N,"",0,404,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 44","Brampton",N,N,"",0,404,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,42
+35008,"Brampton Centre","Brampton-Centre"," 45","Brampton",N,N,"",1,301,"Ali","","Shafqat","Liberal","Libéral",N,Y,35
+35008,"Brampton Centre","Brampton-Centre"," 45","Brampton",N,N,"",1,301,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35008,"Brampton Centre","Brampton-Centre"," 45","Brampton",N,N,"",1,301,"Shino","","Ronni","Independent","Indépendant(e)",N,N,1
+35008,"Brampton Centre","Brampton-Centre"," 45","Brampton",N,N,"",1,301,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,35
+35008,"Brampton Centre","Brampton-Centre"," 46","Brampton",N,N,"",3,491,"Ali","","Shafqat","Liberal","Libéral",N,Y,70
+35008,"Brampton Centre","Brampton-Centre"," 46","Brampton",N,N,"",3,491,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35008,"Brampton Centre","Brampton-Centre"," 46","Brampton",N,N,"",3,491,"Shino","","Ronni","Independent","Indépendant(e)",N,N,0
+35008,"Brampton Centre","Brampton-Centre"," 46","Brampton",N,N,"",3,491,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,70
+35008,"Brampton Centre","Brampton-Centre"," 47","Brampton",N,N,"",6,317,"Ali","","Shafqat","Liberal","Libéral",N,Y,64
+35008,"Brampton Centre","Brampton-Centre"," 47","Brampton",N,N,"",6,317,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35008,"Brampton Centre","Brampton-Centre"," 47","Brampton",N,N,"",6,317,"Shino","","Ronni","Independent","Indépendant(e)",N,N,1
+35008,"Brampton Centre","Brampton-Centre"," 47","Brampton",N,N,"",6,317,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,38
+35008,"Brampton Centre","Brampton-Centre"," 48","Brampton",N,N,"",2,446,"Ali","","Shafqat","Liberal","Libéral",N,Y,97
+35008,"Brampton Centre","Brampton-Centre"," 48","Brampton",N,N,"",2,446,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35008,"Brampton Centre","Brampton-Centre"," 48","Brampton",N,N,"",2,446,"Shino","","Ronni","Independent","Indépendant(e)",N,N,8
+35008,"Brampton Centre","Brampton-Centre"," 48","Brampton",N,N,"",2,446,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,31
+35008,"Brampton Centre","Brampton-Centre"," 49","Brampton",N,N,"",3,352,"Ali","","Shafqat","Liberal","Libéral",N,Y,55
+35008,"Brampton Centre","Brampton-Centre"," 49","Brampton",N,N,"",3,352,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35008,"Brampton Centre","Brampton-Centre"," 49","Brampton",N,N,"",3,352,"Shino","","Ronni","Independent","Indépendant(e)",N,N,4
+35008,"Brampton Centre","Brampton-Centre"," 49","Brampton",N,N,"",3,352,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,34
+35008,"Brampton Centre","Brampton-Centre"," 50","Brampton",N,N,"",4,340,"Ali","","Shafqat","Liberal","Libéral",N,Y,59
+35008,"Brampton Centre","Brampton-Centre"," 50","Brampton",N,N,"",4,340,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35008,"Brampton Centre","Brampton-Centre"," 50","Brampton",N,N,"",4,340,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 50","Brampton",N,N,"",4,340,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,61
+35008,"Brampton Centre","Brampton-Centre"," 51","Brampton",N,N,"",0,323,"Ali","","Shafqat","Liberal","Libéral",N,Y,59
+35008,"Brampton Centre","Brampton-Centre"," 51","Brampton",N,N,"",0,323,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35008,"Brampton Centre","Brampton-Centre"," 51","Brampton",N,N,"",0,323,"Shino","","Ronni","Independent","Indépendant(e)",N,N,5
+35008,"Brampton Centre","Brampton-Centre"," 51","Brampton",N,N,"",0,323,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,25
+35008,"Brampton Centre","Brampton-Centre"," 52","Brampton",N,N,"",1,375,"Ali","","Shafqat","Liberal","Libéral",N,Y,28
+35008,"Brampton Centre","Brampton-Centre"," 52","Brampton",N,N,"",1,375,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35008,"Brampton Centre","Brampton-Centre"," 52","Brampton",N,N,"",1,375,"Shino","","Ronni","Independent","Indépendant(e)",N,N,0
+35008,"Brampton Centre","Brampton-Centre"," 52","Brampton",N,N,"",1,375,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,52
+35008,"Brampton Centre","Brampton-Centre"," 53","Brampton",N,N,"",2,315,"Ali","","Shafqat","Liberal","Libéral",N,Y,45
+35008,"Brampton Centre","Brampton-Centre"," 53","Brampton",N,N,"",2,315,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35008,"Brampton Centre","Brampton-Centre"," 53","Brampton",N,N,"",2,315,"Shino","","Ronni","Independent","Indépendant(e)",N,N,4
+35008,"Brampton Centre","Brampton-Centre"," 53","Brampton",N,N,"",2,315,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,49
+35008,"Brampton Centre","Brampton-Centre"," 54","Brampton",N,N,"",1,333,"Ali","","Shafqat","Liberal","Libéral",N,Y,40
+35008,"Brampton Centre","Brampton-Centre"," 54","Brampton",N,N,"",1,333,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35008,"Brampton Centre","Brampton-Centre"," 54","Brampton",N,N,"",1,333,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 54","Brampton",N,N,"",1,333,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,40
+35008,"Brampton Centre","Brampton-Centre"," 55","Brampton",N,N,"",0,310,"Ali","","Shafqat","Liberal","Libéral",N,Y,70
+35008,"Brampton Centre","Brampton-Centre"," 55","Brampton",N,N,"",0,310,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35008,"Brampton Centre","Brampton-Centre"," 55","Brampton",N,N,"",0,310,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 55","Brampton",N,N,"",0,310,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,36
+35008,"Brampton Centre","Brampton-Centre"," 56","Brampton",N,N,"",0,528,"Ali","","Shafqat","Liberal","Libéral",N,Y,85
+35008,"Brampton Centre","Brampton-Centre"," 56","Brampton",N,N,"",0,528,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35008,"Brampton Centre","Brampton-Centre"," 56","Brampton",N,N,"",0,528,"Shino","","Ronni","Independent","Indépendant(e)",N,N,5
+35008,"Brampton Centre","Brampton-Centre"," 56","Brampton",N,N,"",0,528,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,70
+35008,"Brampton Centre","Brampton-Centre"," 57","Brampton",N,N,"",1,381,"Ali","","Shafqat","Liberal","Libéral",N,Y,73
+35008,"Brampton Centre","Brampton-Centre"," 57","Brampton",N,N,"",1,381,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35008,"Brampton Centre","Brampton-Centre"," 57","Brampton",N,N,"",1,381,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 57","Brampton",N,N,"",1,381,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,50
+35008,"Brampton Centre","Brampton-Centre"," 58","Brampton",N,N,"",1,356,"Ali","","Shafqat","Liberal","Libéral",N,Y,74
+35008,"Brampton Centre","Brampton-Centre"," 58","Brampton",N,N,"",1,356,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35008,"Brampton Centre","Brampton-Centre"," 58","Brampton",N,N,"",1,356,"Shino","","Ronni","Independent","Indépendant(e)",N,N,8
+35008,"Brampton Centre","Brampton-Centre"," 58","Brampton",N,N,"",1,356,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,52
+35008,"Brampton Centre","Brampton-Centre"," 59","Brampton",N,N,"",4,463,"Ali","","Shafqat","Liberal","Libéral",N,Y,89
+35008,"Brampton Centre","Brampton-Centre"," 59","Brampton",N,N,"",4,463,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35008,"Brampton Centre","Brampton-Centre"," 59","Brampton",N,N,"",4,463,"Shino","","Ronni","Independent","Indépendant(e)",N,N,4
+35008,"Brampton Centre","Brampton-Centre"," 59","Brampton",N,N,"",4,463,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,74
+35008,"Brampton Centre","Brampton-Centre"," 60","Brampton",N,N,"",0,430,"Ali","","Shafqat","Liberal","Libéral",N,Y,65
+35008,"Brampton Centre","Brampton-Centre"," 60","Brampton",N,N,"",0,430,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35008,"Brampton Centre","Brampton-Centre"," 60","Brampton",N,N,"",0,430,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 60","Brampton",N,N,"",0,430,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,61
+35008,"Brampton Centre","Brampton-Centre"," 61","Brampton",N,N,"",0,414,"Ali","","Shafqat","Liberal","Libéral",N,Y,60
+35008,"Brampton Centre","Brampton-Centre"," 61","Brampton",N,N,"",0,414,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35008,"Brampton Centre","Brampton-Centre"," 61","Brampton",N,N,"",0,414,"Shino","","Ronni","Independent","Indépendant(e)",N,N,0
+35008,"Brampton Centre","Brampton-Centre"," 61","Brampton",N,N,"",0,414,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,36
+35008,"Brampton Centre","Brampton-Centre"," 62","Brampton",N,N,"",2,447,"Ali","","Shafqat","Liberal","Libéral",N,Y,41
+35008,"Brampton Centre","Brampton-Centre"," 62","Brampton",N,N,"",2,447,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35008,"Brampton Centre","Brampton-Centre"," 62","Brampton",N,N,"",2,447,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 62","Brampton",N,N,"",2,447,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,44
+35008,"Brampton Centre","Brampton-Centre"," 63","Brampton",N,N,"",1,395,"Ali","","Shafqat","Liberal","Libéral",N,Y,53
+35008,"Brampton Centre","Brampton-Centre"," 63","Brampton",N,N,"",1,395,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35008,"Brampton Centre","Brampton-Centre"," 63","Brampton",N,N,"",1,395,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 63","Brampton",N,N,"",1,395,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,27
+35008,"Brampton Centre","Brampton-Centre"," 64","Brampton",N,N,"",4,486,"Ali","","Shafqat","Liberal","Libéral",N,Y,69
+35008,"Brampton Centre","Brampton-Centre"," 64","Brampton",N,N,"",4,486,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35008,"Brampton Centre","Brampton-Centre"," 64","Brampton",N,N,"",4,486,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 64","Brampton",N,N,"",4,486,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,59
+35008,"Brampton Centre","Brampton-Centre"," 65","Brampton",N,N,"",3,425,"Ali","","Shafqat","Liberal","Libéral",N,Y,71
+35008,"Brampton Centre","Brampton-Centre"," 65","Brampton",N,N,"",3,425,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35008,"Brampton Centre","Brampton-Centre"," 65","Brampton",N,N,"",3,425,"Shino","","Ronni","Independent","Indépendant(e)",N,N,1
+35008,"Brampton Centre","Brampton-Centre"," 65","Brampton",N,N,"",3,425,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,51
+35008,"Brampton Centre","Brampton-Centre"," 66","Brampton",N,N,"",2,403,"Ali","","Shafqat","Liberal","Libéral",N,Y,47
+35008,"Brampton Centre","Brampton-Centre"," 66","Brampton",N,N,"",2,403,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35008,"Brampton Centre","Brampton-Centre"," 66","Brampton",N,N,"",2,403,"Shino","","Ronni","Independent","Indépendant(e)",N,N,1
+35008,"Brampton Centre","Brampton-Centre"," 66","Brampton",N,N,"",2,403,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,45
+35008,"Brampton Centre","Brampton-Centre"," 67","Brampton",N,N,"",0,425,"Ali","","Shafqat","Liberal","Libéral",N,Y,70
+35008,"Brampton Centre","Brampton-Centre"," 67","Brampton",N,N,"",0,425,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35008,"Brampton Centre","Brampton-Centre"," 67","Brampton",N,N,"",0,425,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 67","Brampton",N,N,"",0,425,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,30
+35008,"Brampton Centre","Brampton-Centre"," 68","Brampton",N,N,"",0,414,"Ali","","Shafqat","Liberal","Libéral",N,Y,44
+35008,"Brampton Centre","Brampton-Centre"," 68","Brampton",N,N,"",0,414,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35008,"Brampton Centre","Brampton-Centre"," 68","Brampton",N,N,"",0,414,"Shino","","Ronni","Independent","Indépendant(e)",N,N,5
+35008,"Brampton Centre","Brampton-Centre"," 68","Brampton",N,N,"",0,414,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,25
+35008,"Brampton Centre","Brampton-Centre"," 69","Brampton",N,N,"",3,461,"Ali","","Shafqat","Liberal","Libéral",N,Y,56
+35008,"Brampton Centre","Brampton-Centre"," 69","Brampton",N,N,"",3,461,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35008,"Brampton Centre","Brampton-Centre"," 69","Brampton",N,N,"",3,461,"Shino","","Ronni","Independent","Indépendant(e)",N,N,1
+35008,"Brampton Centre","Brampton-Centre"," 69","Brampton",N,N,"",3,461,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,39
+35008,"Brampton Centre","Brampton-Centre"," 70","Brampton",N,N,"",4,303,"Ali","","Shafqat","Liberal","Libéral",N,Y,51
+35008,"Brampton Centre","Brampton-Centre"," 70","Brampton",N,N,"",4,303,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35008,"Brampton Centre","Brampton-Centre"," 70","Brampton",N,N,"",4,303,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 70","Brampton",N,N,"",4,303,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,43
+35008,"Brampton Centre","Brampton-Centre"," 71","Brampton",N,N,"",2,479,"Ali","","Shafqat","Liberal","Libéral",N,Y,80
+35008,"Brampton Centre","Brampton-Centre"," 71","Brampton",N,N,"",2,479,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35008,"Brampton Centre","Brampton-Centre"," 71","Brampton",N,N,"",2,479,"Shino","","Ronni","Independent","Indépendant(e)",N,N,4
+35008,"Brampton Centre","Brampton-Centre"," 71","Brampton",N,N,"",2,479,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,78
+35008,"Brampton Centre","Brampton-Centre"," 72","Brampton",N,N,"",2,394,"Ali","","Shafqat","Liberal","Libéral",N,Y,59
+35008,"Brampton Centre","Brampton-Centre"," 72","Brampton",N,N,"",2,394,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35008,"Brampton Centre","Brampton-Centre"," 72","Brampton",N,N,"",2,394,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 72","Brampton",N,N,"",2,394,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,64
+35008,"Brampton Centre","Brampton-Centre"," 73","Brampton",N,N,"",1,466,"Ali","","Shafqat","Liberal","Libéral",N,Y,50
+35008,"Brampton Centre","Brampton-Centre"," 73","Brampton",N,N,"",1,466,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35008,"Brampton Centre","Brampton-Centre"," 73","Brampton",N,N,"",1,466,"Shino","","Ronni","Independent","Indépendant(e)",N,N,0
+35008,"Brampton Centre","Brampton-Centre"," 73","Brampton",N,N,"",1,466,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,38
+35008,"Brampton Centre","Brampton-Centre"," 74A","Brampton",N,N,"",0,306,"Ali","","Shafqat","Liberal","Libéral",N,Y,41
+35008,"Brampton Centre","Brampton-Centre"," 74A","Brampton",N,N,"",0,306,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35008,"Brampton Centre","Brampton-Centre"," 74A","Brampton",N,N,"",0,306,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 74A","Brampton",N,N,"",0,306,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,41
+35008,"Brampton Centre","Brampton-Centre"," 74B","Brampton",N,N,"",0,261,"Ali","","Shafqat","Liberal","Libéral",N,Y,34
+35008,"Brampton Centre","Brampton-Centre"," 74B","Brampton",N,N,"",0,261,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35008,"Brampton Centre","Brampton-Centre"," 74B","Brampton",N,N,"",0,261,"Shino","","Ronni","Independent","Indépendant(e)",N,N,0
+35008,"Brampton Centre","Brampton-Centre"," 74B","Brampton",N,N,"",0,261,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,47
+35008,"Brampton Centre","Brampton-Centre"," 75","Brampton",N,N,"",3,407,"Ali","","Shafqat","Liberal","Libéral",N,Y,67
+35008,"Brampton Centre","Brampton-Centre"," 75","Brampton",N,N,"",3,407,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35008,"Brampton Centre","Brampton-Centre"," 75","Brampton",N,N,"",3,407,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 75","Brampton",N,N,"",3,407,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,41
+35008,"Brampton Centre","Brampton-Centre"," 76","Brampton",N,N,"",3,446,"Ali","","Shafqat","Liberal","Libéral",N,Y,64
+35008,"Brampton Centre","Brampton-Centre"," 76","Brampton",N,N,"",3,446,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35008,"Brampton Centre","Brampton-Centre"," 76","Brampton",N,N,"",3,446,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 76","Brampton",N,N,"",3,446,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,54
+35008,"Brampton Centre","Brampton-Centre"," 77","Brampton",N,N,"",0,364,"Ali","","Shafqat","Liberal","Libéral",N,Y,66
+35008,"Brampton Centre","Brampton-Centre"," 77","Brampton",N,N,"",0,364,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35008,"Brampton Centre","Brampton-Centre"," 77","Brampton",N,N,"",0,364,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 77","Brampton",N,N,"",0,364,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,50
+35008,"Brampton Centre","Brampton-Centre"," 78","Brampton",N,N,"",1,359,"Ali","","Shafqat","Liberal","Libéral",N,Y,59
+35008,"Brampton Centre","Brampton-Centre"," 78","Brampton",N,N,"",1,359,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35008,"Brampton Centre","Brampton-Centre"," 78","Brampton",N,N,"",1,359,"Shino","","Ronni","Independent","Indépendant(e)",N,N,5
+35008,"Brampton Centre","Brampton-Centre"," 78","Brampton",N,N,"",1,359,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,46
+35008,"Brampton Centre","Brampton-Centre"," 79","Brampton",N,N,"",1,395,"Ali","","Shafqat","Liberal","Libéral",N,Y,74
+35008,"Brampton Centre","Brampton-Centre"," 79","Brampton",N,N,"",1,395,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35008,"Brampton Centre","Brampton-Centre"," 79","Brampton",N,N,"",1,395,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 79","Brampton",N,N,"",1,395,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,38
+35008,"Brampton Centre","Brampton-Centre"," 80","Brampton",N,N,"",3,461,"Ali","","Shafqat","Liberal","Libéral",N,Y,62
+35008,"Brampton Centre","Brampton-Centre"," 80","Brampton",N,N,"",3,461,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35008,"Brampton Centre","Brampton-Centre"," 80","Brampton",N,N,"",3,461,"Shino","","Ronni","Independent","Indépendant(e)",N,N,5
+35008,"Brampton Centre","Brampton-Centre"," 80","Brampton",N,N,"",3,461,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,54
+35008,"Brampton Centre","Brampton-Centre"," 81","Brampton",N,N,"",4,395,"Ali","","Shafqat","Liberal","Libéral",N,Y,55
+35008,"Brampton Centre","Brampton-Centre"," 81","Brampton",N,N,"",4,395,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35008,"Brampton Centre","Brampton-Centre"," 81","Brampton",N,N,"",4,395,"Shino","","Ronni","Independent","Indépendant(e)",N,N,4
+35008,"Brampton Centre","Brampton-Centre"," 81","Brampton",N,N,"",4,395,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,61
+35008,"Brampton Centre","Brampton-Centre"," 82","Brampton",N,N,"",3,364,"Ali","","Shafqat","Liberal","Libéral",N,Y,72
+35008,"Brampton Centre","Brampton-Centre"," 82","Brampton",N,N,"",3,364,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35008,"Brampton Centre","Brampton-Centre"," 82","Brampton",N,N,"",3,364,"Shino","","Ronni","Independent","Indépendant(e)",N,N,1
+35008,"Brampton Centre","Brampton-Centre"," 82","Brampton",N,N,"",3,364,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,55
+35008,"Brampton Centre","Brampton-Centre"," 83","Brampton",N,N,"",2,392,"Ali","","Shafqat","Liberal","Libéral",N,Y,73
+35008,"Brampton Centre","Brampton-Centre"," 83","Brampton",N,N,"",2,392,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35008,"Brampton Centre","Brampton-Centre"," 83","Brampton",N,N,"",2,392,"Shino","","Ronni","Independent","Indépendant(e)",N,N,4
+35008,"Brampton Centre","Brampton-Centre"," 83","Brampton",N,N,"",2,392,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,58
+35008,"Brampton Centre","Brampton-Centre"," 84","Brampton",N,N,"",0,422,"Ali","","Shafqat","Liberal","Libéral",N,Y,86
+35008,"Brampton Centre","Brampton-Centre"," 84","Brampton",N,N,"",0,422,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35008,"Brampton Centre","Brampton-Centre"," 84","Brampton",N,N,"",0,422,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 84","Brampton",N,N,"",0,422,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,56
+35008,"Brampton Centre","Brampton-Centre"," 85","Brampton",N,N,"",1,319,"Ali","","Shafqat","Liberal","Libéral",N,Y,70
+35008,"Brampton Centre","Brampton-Centre"," 85","Brampton",N,N,"",1,319,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35008,"Brampton Centre","Brampton-Centre"," 85","Brampton",N,N,"",1,319,"Shino","","Ronni","Independent","Indépendant(e)",N,N,1
+35008,"Brampton Centre","Brampton-Centre"," 85","Brampton",N,N,"",1,319,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,24
+35008,"Brampton Centre","Brampton-Centre"," 86","Brampton",N,N,"",5,361,"Ali","","Shafqat","Liberal","Libéral",N,Y,82
+35008,"Brampton Centre","Brampton-Centre"," 86","Brampton",N,N,"",5,361,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35008,"Brampton Centre","Brampton-Centre"," 86","Brampton",N,N,"",5,361,"Shino","","Ronni","Independent","Indépendant(e)",N,N,4
+35008,"Brampton Centre","Brampton-Centre"," 86","Brampton",N,N,"",5,361,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,40
+35008,"Brampton Centre","Brampton-Centre"," 87","Brampton",N,N,"",1,385,"Ali","","Shafqat","Liberal","Libéral",N,Y,75
+35008,"Brampton Centre","Brampton-Centre"," 87","Brampton",N,N,"",1,385,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35008,"Brampton Centre","Brampton-Centre"," 87","Brampton",N,N,"",1,385,"Shino","","Ronni","Independent","Indépendant(e)",N,N,1
+35008,"Brampton Centre","Brampton-Centre"," 87","Brampton",N,N,"",1,385,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,31
+35008,"Brampton Centre","Brampton-Centre"," 88","Brampton",N,N,"",1,372,"Ali","","Shafqat","Liberal","Libéral",N,Y,35
+35008,"Brampton Centre","Brampton-Centre"," 88","Brampton",N,N,"",1,372,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35008,"Brampton Centre","Brampton-Centre"," 88","Brampton",N,N,"",1,372,"Shino","","Ronni","Independent","Indépendant(e)",N,N,1
+35008,"Brampton Centre","Brampton-Centre"," 88","Brampton",N,N,"",1,372,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,34
+35008,"Brampton Centre","Brampton-Centre"," 89","Brampton",N,N,"",1,391,"Ali","","Shafqat","Liberal","Libéral",N,Y,31
+35008,"Brampton Centre","Brampton-Centre"," 89","Brampton",N,N,"",1,391,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35008,"Brampton Centre","Brampton-Centre"," 89","Brampton",N,N,"",1,391,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 89","Brampton",N,N,"",1,391,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,37
+35008,"Brampton Centre","Brampton-Centre"," 90","Brampton",N,N,"",1,266,"Ali","","Shafqat","Liberal","Libéral",N,Y,22
+35008,"Brampton Centre","Brampton-Centre"," 90","Brampton",N,N,"",1,266,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35008,"Brampton Centre","Brampton-Centre"," 90","Brampton",N,N,"",1,266,"Shino","","Ronni","Independent","Indépendant(e)",N,N,1
+35008,"Brampton Centre","Brampton-Centre"," 90","Brampton",N,N,"",1,266,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,32
+35008,"Brampton Centre","Brampton-Centre"," 91","Brampton",N,N,"",0,294,"Ali","","Shafqat","Liberal","Libéral",N,Y,37
+35008,"Brampton Centre","Brampton-Centre"," 91","Brampton",N,N,"",0,294,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35008,"Brampton Centre","Brampton-Centre"," 91","Brampton",N,N,"",0,294,"Shino","","Ronni","Independent","Indépendant(e)",N,N,1
+35008,"Brampton Centre","Brampton-Centre"," 91","Brampton",N,N,"",0,294,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,42
+35008,"Brampton Centre","Brampton-Centre"," 92","Brampton",N,N,"",3,446,"Ali","","Shafqat","Liberal","Libéral",N,Y,57
+35008,"Brampton Centre","Brampton-Centre"," 92","Brampton",N,N,"",3,446,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35008,"Brampton Centre","Brampton-Centre"," 92","Brampton",N,N,"",3,446,"Shino","","Ronni","Independent","Indépendant(e)",N,N,1
+35008,"Brampton Centre","Brampton-Centre"," 92","Brampton",N,N,"",3,446,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,29
+35008,"Brampton Centre","Brampton-Centre"," 93","Brampton",N,N,"",2,374,"Ali","","Shafqat","Liberal","Libéral",N,Y,49
+35008,"Brampton Centre","Brampton-Centre"," 93","Brampton",N,N,"",2,374,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35008,"Brampton Centre","Brampton-Centre"," 93","Brampton",N,N,"",2,374,"Shino","","Ronni","Independent","Indépendant(e)",N,N,0
+35008,"Brampton Centre","Brampton-Centre"," 93","Brampton",N,N,"",2,374,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,39
+35008,"Brampton Centre","Brampton-Centre"," 94","Brampton",N,N,"",0,285,"Ali","","Shafqat","Liberal","Libéral",N,Y,35
+35008,"Brampton Centre","Brampton-Centre"," 94","Brampton",N,N,"",0,285,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35008,"Brampton Centre","Brampton-Centre"," 94","Brampton",N,N,"",0,285,"Shino","","Ronni","Independent","Indépendant(e)",N,N,5
+35008,"Brampton Centre","Brampton-Centre"," 94","Brampton",N,N,"",0,285,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,19
+35008,"Brampton Centre","Brampton-Centre"," 95","Brampton",N,N,"",2,329,"Ali","","Shafqat","Liberal","Libéral",N,Y,37
+35008,"Brampton Centre","Brampton-Centre"," 95","Brampton",N,N,"",2,329,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35008,"Brampton Centre","Brampton-Centre"," 95","Brampton",N,N,"",2,329,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 95","Brampton",N,N,"",2,329,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,34
+35008,"Brampton Centre","Brampton-Centre"," 96","Brampton",N,N,"",1,317,"Ali","","Shafqat","Liberal","Libéral",N,Y,38
+35008,"Brampton Centre","Brampton-Centre"," 96","Brampton",N,N,"",1,317,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35008,"Brampton Centre","Brampton-Centre"," 96","Brampton",N,N,"",1,317,"Shino","","Ronni","Independent","Indépendant(e)",N,N,6
+35008,"Brampton Centre","Brampton-Centre"," 96","Brampton",N,N,"",1,317,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,33
+35008,"Brampton Centre","Brampton-Centre"," 97","Brampton",N,N,"",0,326,"Ali","","Shafqat","Liberal","Libéral",N,Y,44
+35008,"Brampton Centre","Brampton-Centre"," 97","Brampton",N,N,"",0,326,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35008,"Brampton Centre","Brampton-Centre"," 97","Brampton",N,N,"",0,326,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 97","Brampton",N,N,"",0,326,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,35
+35008,"Brampton Centre","Brampton-Centre"," 98","Brampton",N,N,"",4,483,"Ali","","Shafqat","Liberal","Libéral",N,Y,76
+35008,"Brampton Centre","Brampton-Centre"," 98","Brampton",N,N,"",4,483,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35008,"Brampton Centre","Brampton-Centre"," 98","Brampton",N,N,"",4,483,"Shino","","Ronni","Independent","Indépendant(e)",N,N,0
+35008,"Brampton Centre","Brampton-Centre"," 98","Brampton",N,N,"",4,483,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,30
+35008,"Brampton Centre","Brampton-Centre"," 99","Brampton",N,N,"",1,447,"Ali","","Shafqat","Liberal","Libéral",N,Y,66
+35008,"Brampton Centre","Brampton-Centre"," 99","Brampton",N,N,"",1,447,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35008,"Brampton Centre","Brampton-Centre"," 99","Brampton",N,N,"",1,447,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 99","Brampton",N,N,"",1,447,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,35
+35008,"Brampton Centre","Brampton-Centre"," 100","Brampton",N,N,"",3,496,"Ali","","Shafqat","Liberal","Libéral",N,Y,63
+35008,"Brampton Centre","Brampton-Centre"," 100","Brampton",N,N,"",3,496,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35008,"Brampton Centre","Brampton-Centre"," 100","Brampton",N,N,"",3,496,"Shino","","Ronni","Independent","Indépendant(e)",N,N,7
+35008,"Brampton Centre","Brampton-Centre"," 100","Brampton",N,N,"",3,496,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,59
+35008,"Brampton Centre","Brampton-Centre"," 101","Brampton",N,N,"",2,354,"Ali","","Shafqat","Liberal","Libéral",N,Y,61
+35008,"Brampton Centre","Brampton-Centre"," 101","Brampton",N,N,"",2,354,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35008,"Brampton Centre","Brampton-Centre"," 101","Brampton",N,N,"",2,354,"Shino","","Ronni","Independent","Indépendant(e)",N,N,1
+35008,"Brampton Centre","Brampton-Centre"," 101","Brampton",N,N,"",2,354,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,31
+35008,"Brampton Centre","Brampton-Centre"," 102","Brampton",N,N,"",5,309,"Ali","","Shafqat","Liberal","Libéral",N,Y,52
+35008,"Brampton Centre","Brampton-Centre"," 102","Brampton",N,N,"",5,309,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35008,"Brampton Centre","Brampton-Centre"," 102","Brampton",N,N,"",5,309,"Shino","","Ronni","Independent","Indépendant(e)",N,N,5
+35008,"Brampton Centre","Brampton-Centre"," 102","Brampton",N,N,"",5,309,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,46
+35008,"Brampton Centre","Brampton-Centre"," 103","Brampton",N,N,"",1,324,"Ali","","Shafqat","Liberal","Libéral",N,Y,60
+35008,"Brampton Centre","Brampton-Centre"," 103","Brampton",N,N,"",1,324,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35008,"Brampton Centre","Brampton-Centre"," 103","Brampton",N,N,"",1,324,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 103","Brampton",N,N,"",1,324,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,35
+35008,"Brampton Centre","Brampton-Centre"," 104","Brampton",N,N,"",4,452,"Ali","","Shafqat","Liberal","Libéral",N,Y,67
+35008,"Brampton Centre","Brampton-Centre"," 104","Brampton",N,N,"",4,452,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35008,"Brampton Centre","Brampton-Centre"," 104","Brampton",N,N,"",4,452,"Shino","","Ronni","Independent","Indépendant(e)",N,N,7
+35008,"Brampton Centre","Brampton-Centre"," 104","Brampton",N,N,"",4,452,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,75
+35008,"Brampton Centre","Brampton-Centre"," 105","Brampton",N,N,"",0,466,"Ali","","Shafqat","Liberal","Libéral",N,Y,47
+35008,"Brampton Centre","Brampton-Centre"," 105","Brampton",N,N,"",0,466,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35008,"Brampton Centre","Brampton-Centre"," 105","Brampton",N,N,"",0,466,"Shino","","Ronni","Independent","Indépendant(e)",N,N,4
+35008,"Brampton Centre","Brampton-Centre"," 105","Brampton",N,N,"",0,466,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,46
+35008,"Brampton Centre","Brampton-Centre"," 106","Brampton",N,N,"",1,419,"Ali","","Shafqat","Liberal","Libéral",N,Y,84
+35008,"Brampton Centre","Brampton-Centre"," 106","Brampton",N,N,"",1,419,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35008,"Brampton Centre","Brampton-Centre"," 106","Brampton",N,N,"",1,419,"Shino","","Ronni","Independent","Indépendant(e)",N,N,4
+35008,"Brampton Centre","Brampton-Centre"," 106","Brampton",N,N,"",1,419,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,56
+35008,"Brampton Centre","Brampton-Centre"," 107","Brampton",N,N,"",4,352,"Ali","","Shafqat","Liberal","Libéral",N,Y,51
+35008,"Brampton Centre","Brampton-Centre"," 107","Brampton",N,N,"",4,352,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35008,"Brampton Centre","Brampton-Centre"," 107","Brampton",N,N,"",4,352,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 107","Brampton",N,N,"",4,352,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,50
+35008,"Brampton Centre","Brampton-Centre"," 108","Brampton",N,N,"",0,355,"Ali","","Shafqat","Liberal","Libéral",N,Y,64
+35008,"Brampton Centre","Brampton-Centre"," 108","Brampton",N,N,"",0,355,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35008,"Brampton Centre","Brampton-Centre"," 108","Brampton",N,N,"",0,355,"Shino","","Ronni","Independent","Indépendant(e)",N,N,4
+35008,"Brampton Centre","Brampton-Centre"," 108","Brampton",N,N,"",0,355,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,50
+35008,"Brampton Centre","Brampton-Centre"," 109","Brampton",N,N,"",3,336,"Ali","","Shafqat","Liberal","Libéral",N,Y,45
+35008,"Brampton Centre","Brampton-Centre"," 109","Brampton",N,N,"",3,336,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35008,"Brampton Centre","Brampton-Centre"," 109","Brampton",N,N,"",3,336,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 109","Brampton",N,N,"",3,336,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,22
+35008,"Brampton Centre","Brampton-Centre"," 110","Brampton",N,N,"",2,370,"Ali","","Shafqat","Liberal","Libéral",N,Y,67
+35008,"Brampton Centre","Brampton-Centre"," 110","Brampton",N,N,"",2,370,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35008,"Brampton Centre","Brampton-Centre"," 110","Brampton",N,N,"",2,370,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 110","Brampton",N,N,"",2,370,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,28
+35008,"Brampton Centre","Brampton-Centre"," 111","Brampton",N,N,"",2,476,"Ali","","Shafqat","Liberal","Libéral",N,Y,64
+35008,"Brampton Centre","Brampton-Centre"," 111","Brampton",N,N,"",2,476,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35008,"Brampton Centre","Brampton-Centre"," 111","Brampton",N,N,"",2,476,"Shino","","Ronni","Independent","Indépendant(e)",N,N,4
+35008,"Brampton Centre","Brampton-Centre"," 111","Brampton",N,N,"",2,476,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,30
+35008,"Brampton Centre","Brampton-Centre"," 112","Brampton",N,N,"",1,435,"Ali","","Shafqat","Liberal","Libéral",N,Y,40
+35008,"Brampton Centre","Brampton-Centre"," 112","Brampton",N,N,"",1,435,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35008,"Brampton Centre","Brampton-Centre"," 112","Brampton",N,N,"",1,435,"Shino","","Ronni","Independent","Indépendant(e)",N,N,5
+35008,"Brampton Centre","Brampton-Centre"," 112","Brampton",N,N,"",1,435,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,45
+35008,"Brampton Centre","Brampton-Centre"," 113","Brampton",N,N,"",1,343,"Ali","","Shafqat","Liberal","Libéral",N,Y,36
+35008,"Brampton Centre","Brampton-Centre"," 113","Brampton",N,N,"",1,343,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35008,"Brampton Centre","Brampton-Centre"," 113","Brampton",N,N,"",1,343,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 113","Brampton",N,N,"",1,343,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,23
+35008,"Brampton Centre","Brampton-Centre"," 114","Brampton",N,N,"",0,364,"Ali","","Shafqat","Liberal","Libéral",N,Y,31
+35008,"Brampton Centre","Brampton-Centre"," 114","Brampton",N,N,"",0,364,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35008,"Brampton Centre","Brampton-Centre"," 114","Brampton",N,N,"",0,364,"Shino","","Ronni","Independent","Indépendant(e)",N,N,4
+35008,"Brampton Centre","Brampton-Centre"," 114","Brampton",N,N,"",0,364,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,30
+35008,"Brampton Centre","Brampton-Centre"," 115","Brampton",N,N,"",1,433,"Ali","","Shafqat","Liberal","Libéral",N,Y,99
+35008,"Brampton Centre","Brampton-Centre"," 115","Brampton",N,N,"",1,433,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35008,"Brampton Centre","Brampton-Centre"," 115","Brampton",N,N,"",1,433,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 115","Brampton",N,N,"",1,433,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,57
+35008,"Brampton Centre","Brampton-Centre"," 116","Brampton",N,N,"",2,342,"Ali","","Shafqat","Liberal","Libéral",N,Y,55
+35008,"Brampton Centre","Brampton-Centre"," 116","Brampton",N,N,"",2,342,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35008,"Brampton Centre","Brampton-Centre"," 116","Brampton",N,N,"",2,342,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 116","Brampton",N,N,"",2,342,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,36
+35008,"Brampton Centre","Brampton-Centre"," 117","Brampton",N,N,"",3,451,"Ali","","Shafqat","Liberal","Libéral",N,Y,91
+35008,"Brampton Centre","Brampton-Centre"," 117","Brampton",N,N,"",3,451,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35008,"Brampton Centre","Brampton-Centre"," 117","Brampton",N,N,"",3,451,"Shino","","Ronni","Independent","Indépendant(e)",N,N,6
+35008,"Brampton Centre","Brampton-Centre"," 117","Brampton",N,N,"",3,451,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,70
+35008,"Brampton Centre","Brampton-Centre"," 118","Brampton",N,N,"",3,279,"Ali","","Shafqat","Liberal","Libéral",N,Y,77
+35008,"Brampton Centre","Brampton-Centre"," 118","Brampton",N,N,"",3,279,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35008,"Brampton Centre","Brampton-Centre"," 118","Brampton",N,N,"",3,279,"Shino","","Ronni","Independent","Indépendant(e)",N,N,7
+35008,"Brampton Centre","Brampton-Centre"," 118","Brampton",N,N,"",3,279,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,35
+35008,"Brampton Centre","Brampton-Centre"," 119","Brampton",N,N,"",0,464,"Ali","","Shafqat","Liberal","Libéral",N,Y,130
+35008,"Brampton Centre","Brampton-Centre"," 119","Brampton",N,N,"",0,464,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35008,"Brampton Centre","Brampton-Centre"," 119","Brampton",N,N,"",0,464,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 119","Brampton",N,N,"",0,464,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,32
+35008,"Brampton Centre","Brampton-Centre"," 120","Brampton",N,N,"",3,358,"Ali","","Shafqat","Liberal","Libéral",N,Y,56
+35008,"Brampton Centre","Brampton-Centre"," 120","Brampton",N,N,"",3,358,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35008,"Brampton Centre","Brampton-Centre"," 120","Brampton",N,N,"",3,358,"Shino","","Ronni","Independent","Indépendant(e)",N,N,1
+35008,"Brampton Centre","Brampton-Centre"," 120","Brampton",N,N,"",3,358,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,23
+35008,"Brampton Centre","Brampton-Centre"," 121","Brampton",N,N,"",2,354,"Ali","","Shafqat","Liberal","Libéral",N,Y,36
+35008,"Brampton Centre","Brampton-Centre"," 121","Brampton",N,N,"",2,354,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35008,"Brampton Centre","Brampton-Centre"," 121","Brampton",N,N,"",2,354,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 121","Brampton",N,N,"",2,354,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,23
+35008,"Brampton Centre","Brampton-Centre"," 122","Brampton",N,N,"",0,545,"Ali","","Shafqat","Liberal","Libéral",N,Y,87
+35008,"Brampton Centre","Brampton-Centre"," 122","Brampton",N,N,"",0,545,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35008,"Brampton Centre","Brampton-Centre"," 122","Brampton",N,N,"",0,545,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 122","Brampton",N,N,"",0,545,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,50
+35008,"Brampton Centre","Brampton-Centre"," 123","Brampton",N,N,"",0,266,"Ali","","Shafqat","Liberal","Libéral",N,Y,32
+35008,"Brampton Centre","Brampton-Centre"," 123","Brampton",N,N,"",0,266,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35008,"Brampton Centre","Brampton-Centre"," 123","Brampton",N,N,"",0,266,"Shino","","Ronni","Independent","Indépendant(e)",N,N,4
+35008,"Brampton Centre","Brampton-Centre"," 123","Brampton",N,N,"",0,266,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,20
+35008,"Brampton Centre","Brampton-Centre"," 124","Brampton",N,N,"",2,484,"Ali","","Shafqat","Liberal","Libéral",N,Y,63
+35008,"Brampton Centre","Brampton-Centre"," 124","Brampton",N,N,"",2,484,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35008,"Brampton Centre","Brampton-Centre"," 124","Brampton",N,N,"",2,484,"Shino","","Ronni","Independent","Indépendant(e)",N,N,4
+35008,"Brampton Centre","Brampton-Centre"," 124","Brampton",N,N,"",2,484,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,44
+35008,"Brampton Centre","Brampton-Centre"," 125","Brampton",N,N,"",1,329,"Ali","","Shafqat","Liberal","Libéral",N,Y,43
+35008,"Brampton Centre","Brampton-Centre"," 125","Brampton",N,N,"",1,329,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35008,"Brampton Centre","Brampton-Centre"," 125","Brampton",N,N,"",1,329,"Shino","","Ronni","Independent","Indépendant(e)",N,N,4
+35008,"Brampton Centre","Brampton-Centre"," 125","Brampton",N,N,"",1,329,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,44
+35008,"Brampton Centre","Brampton-Centre"," 126","Brampton",N,N,"",0,222,"Ali","","Shafqat","Liberal","Libéral",N,Y,36
+35008,"Brampton Centre","Brampton-Centre"," 126","Brampton",N,N,"",0,222,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35008,"Brampton Centre","Brampton-Centre"," 126","Brampton",N,N,"",0,222,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 126","Brampton",N,N,"",0,222,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,28
+35008,"Brampton Centre","Brampton-Centre"," 127","Brampton",N,N,"",0,340,"Ali","","Shafqat","Liberal","Libéral",N,Y,45
+35008,"Brampton Centre","Brampton-Centre"," 127","Brampton",N,N,"",0,340,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35008,"Brampton Centre","Brampton-Centre"," 127","Brampton",N,N,"",0,340,"Shino","","Ronni","Independent","Indépendant(e)",N,N,5
+35008,"Brampton Centre","Brampton-Centre"," 127","Brampton",N,N,"",0,340,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,34
+35008,"Brampton Centre","Brampton-Centre"," 128A","Brampton",N,N,"",1,223,"Ali","","Shafqat","Liberal","Libéral",N,Y,41
+35008,"Brampton Centre","Brampton-Centre"," 128A","Brampton",N,N,"",1,223,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35008,"Brampton Centre","Brampton-Centre"," 128A","Brampton",N,N,"",1,223,"Shino","","Ronni","Independent","Indépendant(e)",N,N,0
+35008,"Brampton Centre","Brampton-Centre"," 128A","Brampton",N,N,"",1,223,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,33
+35008,"Brampton Centre","Brampton-Centre"," 128B","Brampton",N,N,"",1,407,"Ali","","Shafqat","Liberal","Libéral",N,Y,61
+35008,"Brampton Centre","Brampton-Centre"," 128B","Brampton",N,N,"",1,407,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35008,"Brampton Centre","Brampton-Centre"," 128B","Brampton",N,N,"",1,407,"Shino","","Ronni","Independent","Indépendant(e)",N,N,4
+35008,"Brampton Centre","Brampton-Centre"," 128B","Brampton",N,N,"",1,407,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,28
+35008,"Brampton Centre","Brampton-Centre"," 129","Brampton",N,N,"",1,341,"Ali","","Shafqat","Liberal","Libéral",N,Y,36
+35008,"Brampton Centre","Brampton-Centre"," 129","Brampton",N,N,"",1,341,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35008,"Brampton Centre","Brampton-Centre"," 129","Brampton",N,N,"",1,341,"Shino","","Ronni","Independent","Indépendant(e)",N,N,1
+35008,"Brampton Centre","Brampton-Centre"," 129","Brampton",N,N,"",1,341,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,26
+35008,"Brampton Centre","Brampton-Centre"," 130","Brampton",N,N,"",0,313,"Ali","","Shafqat","Liberal","Libéral",N,Y,23
+35008,"Brampton Centre","Brampton-Centre"," 130","Brampton",N,N,"",0,313,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35008,"Brampton Centre","Brampton-Centre"," 130","Brampton",N,N,"",0,313,"Shino","","Ronni","Independent","Indépendant(e)",N,N,1
+35008,"Brampton Centre","Brampton-Centre"," 130","Brampton",N,N,"",0,313,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,22
+35008,"Brampton Centre","Brampton-Centre"," 131","Brampton",N,N,"",0,388,"Ali","","Shafqat","Liberal","Libéral",N,Y,57
+35008,"Brampton Centre","Brampton-Centre"," 131","Brampton",N,N,"",0,388,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35008,"Brampton Centre","Brampton-Centre"," 131","Brampton",N,N,"",0,388,"Shino","","Ronni","Independent","Indépendant(e)",N,N,6
+35008,"Brampton Centre","Brampton-Centre"," 131","Brampton",N,N,"",0,388,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,26
+35008,"Brampton Centre","Brampton-Centre"," 132","Brampton",N,N,"",1,477,"Ali","","Shafqat","Liberal","Libéral",N,Y,39
+35008,"Brampton Centre","Brampton-Centre"," 132","Brampton",N,N,"",1,477,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35008,"Brampton Centre","Brampton-Centre"," 132","Brampton",N,N,"",1,477,"Shino","","Ronni","Independent","Indépendant(e)",N,N,4
+35008,"Brampton Centre","Brampton-Centre"," 132","Brampton",N,N,"",1,477,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,26
+35008,"Brampton Centre","Brampton-Centre"," 133A","Brampton",N,N,"",0,503,"Ali","","Shafqat","Liberal","Libéral",N,Y,51
+35008,"Brampton Centre","Brampton-Centre"," 133A","Brampton",N,N,"",0,503,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35008,"Brampton Centre","Brampton-Centre"," 133A","Brampton",N,N,"",0,503,"Shino","","Ronni","Independent","Indépendant(e)",N,N,7
+35008,"Brampton Centre","Brampton-Centre"," 133A","Brampton",N,N,"",0,503,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,54
+35008,"Brampton Centre","Brampton-Centre"," 133B","Brampton",N,N,"",2,306,"Ali","","Shafqat","Liberal","Libéral",N,Y,47
+35008,"Brampton Centre","Brampton-Centre"," 133B","Brampton",N,N,"",2,306,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35008,"Brampton Centre","Brampton-Centre"," 133B","Brampton",N,N,"",2,306,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 133B","Brampton",N,N,"",2,306,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,21
+35008,"Brampton Centre","Brampton-Centre"," 134","Brampton",N,N,"",2,382,"Ali","","Shafqat","Liberal","Libéral",N,Y,103
+35008,"Brampton Centre","Brampton-Centre"," 134","Brampton",N,N,"",2,382,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35008,"Brampton Centre","Brampton-Centre"," 134","Brampton",N,N,"",2,382,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 134","Brampton",N,N,"",2,382,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,46
+35008,"Brampton Centre","Brampton-Centre"," 135","Brampton",N,N,"",1,369,"Ali","","Shafqat","Liberal","Libéral",N,Y,68
+35008,"Brampton Centre","Brampton-Centre"," 135","Brampton",N,N,"",1,369,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35008,"Brampton Centre","Brampton-Centre"," 135","Brampton",N,N,"",1,369,"Shino","","Ronni","Independent","Indépendant(e)",N,N,1
+35008,"Brampton Centre","Brampton-Centre"," 135","Brampton",N,N,"",1,369,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,24
+35008,"Brampton Centre","Brampton-Centre"," 136","Brampton",N,N,"",4,414,"Ali","","Shafqat","Liberal","Libéral",N,Y,58
+35008,"Brampton Centre","Brampton-Centre"," 136","Brampton",N,N,"",4,414,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35008,"Brampton Centre","Brampton-Centre"," 136","Brampton",N,N,"",4,414,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 136","Brampton",N,N,"",4,414,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,76
+35008,"Brampton Centre","Brampton-Centre"," 137","Brampton",N,N,"",4,527,"Ali","","Shafqat","Liberal","Libéral",N,Y,79
+35008,"Brampton Centre","Brampton-Centre"," 137","Brampton",N,N,"",4,527,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35008,"Brampton Centre","Brampton-Centre"," 137","Brampton",N,N,"",4,527,"Shino","","Ronni","Independent","Indépendant(e)",N,N,5
+35008,"Brampton Centre","Brampton-Centre"," 137","Brampton",N,N,"",4,527,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,52
+35008,"Brampton Centre","Brampton-Centre"," 138","Brampton",N,N,"",2,367,"Ali","","Shafqat","Liberal","Libéral",N,Y,89
+35008,"Brampton Centre","Brampton-Centre"," 138","Brampton",N,N,"",2,367,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35008,"Brampton Centre","Brampton-Centre"," 138","Brampton",N,N,"",2,367,"Shino","","Ronni","Independent","Indépendant(e)",N,N,0
+35008,"Brampton Centre","Brampton-Centre"," 138","Brampton",N,N,"",2,367,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,29
+35008,"Brampton Centre","Brampton-Centre"," 139","Brampton",N,N,"",2,393,"Ali","","Shafqat","Liberal","Libéral",N,Y,75
+35008,"Brampton Centre","Brampton-Centre"," 139","Brampton",N,N,"",2,393,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35008,"Brampton Centre","Brampton-Centre"," 139","Brampton",N,N,"",2,393,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 139","Brampton",N,N,"",2,393,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,33
+35008,"Brampton Centre","Brampton-Centre"," 140","Brampton",N,N,"",2,321,"Ali","","Shafqat","Liberal","Libéral",N,Y,54
+35008,"Brampton Centre","Brampton-Centre"," 140","Brampton",N,N,"",2,321,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35008,"Brampton Centre","Brampton-Centre"," 140","Brampton",N,N,"",2,321,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 140","Brampton",N,N,"",2,321,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,49
+35008,"Brampton Centre","Brampton-Centre"," 141","Brampton",N,N,"",1,370,"Ali","","Shafqat","Liberal","Libéral",N,Y,68
+35008,"Brampton Centre","Brampton-Centre"," 141","Brampton",N,N,"",1,370,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35008,"Brampton Centre","Brampton-Centre"," 141","Brampton",N,N,"",1,370,"Shino","","Ronni","Independent","Indépendant(e)",N,N,0
+35008,"Brampton Centre","Brampton-Centre"," 141","Brampton",N,N,"",1,370,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,33
+35008,"Brampton Centre","Brampton-Centre"," 142","Brampton",N,N,"",2,435,"Ali","","Shafqat","Liberal","Libéral",N,Y,87
+35008,"Brampton Centre","Brampton-Centre"," 142","Brampton",N,N,"",2,435,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+35008,"Brampton Centre","Brampton-Centre"," 142","Brampton",N,N,"",2,435,"Shino","","Ronni","Independent","Indépendant(e)",N,N,19
+35008,"Brampton Centre","Brampton-Centre"," 142","Brampton",N,N,"",2,435,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,1
+35008,"Brampton Centre","Brampton-Centre"," 143","Brampton",N,N,"",2,335,"Ali","","Shafqat","Liberal","Libéral",N,Y,65
+35008,"Brampton Centre","Brampton-Centre"," 143","Brampton",N,N,"",2,335,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35008,"Brampton Centre","Brampton-Centre"," 143","Brampton",N,N,"",2,335,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 143","Brampton",N,N,"",2,335,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,26
+35008,"Brampton Centre","Brampton-Centre"," 400","Brampton",N,N,"",1,376,"Ali","","Shafqat","Liberal","Libéral",N,Y,63
+35008,"Brampton Centre","Brampton-Centre"," 400","Brampton",N,N,"",1,376,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35008,"Brampton Centre","Brampton-Centre"," 400","Brampton",N,N,"",1,376,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 400","Brampton",N,N,"",1,376,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,27
+35008,"Brampton Centre","Brampton-Centre"," 401","Brampton",N,N,"",3,421,"Ali","","Shafqat","Liberal","Libéral",N,Y,69
+35008,"Brampton Centre","Brampton-Centre"," 401","Brampton",N,N,"",3,421,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35008,"Brampton Centre","Brampton-Centre"," 401","Brampton",N,N,"",3,421,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 401","Brampton",N,N,"",3,421,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,26
+35008,"Brampton Centre","Brampton-Centre"," 402","Brampton",N,N,"",1,369,"Ali","","Shafqat","Liberal","Libéral",N,Y,73
+35008,"Brampton Centre","Brampton-Centre"," 402","Brampton",N,N,"",1,369,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35008,"Brampton Centre","Brampton-Centre"," 402","Brampton",N,N,"",1,369,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 402","Brampton",N,N,"",1,369,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,20
+35008,"Brampton Centre","Brampton-Centre"," 403","Brampton",N,N,"",2,326,"Ali","","Shafqat","Liberal","Libéral",N,Y,44
+35008,"Brampton Centre","Brampton-Centre"," 403","Brampton",N,N,"",2,326,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35008,"Brampton Centre","Brampton-Centre"," 403","Brampton",N,N,"",2,326,"Shino","","Ronni","Independent","Indépendant(e)",N,N,4
+35008,"Brampton Centre","Brampton-Centre"," 403","Brampton",N,N,"",2,326,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,31
+35008,"Brampton Centre","Brampton-Centre"," 404","Brampton",N,N,"",0,295,"Ali","","Shafqat","Liberal","Libéral",N,Y,56
+35008,"Brampton Centre","Brampton-Centre"," 404","Brampton",N,N,"",0,295,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35008,"Brampton Centre","Brampton-Centre"," 404","Brampton",N,N,"",0,295,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 404","Brampton",N,N,"",0,295,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,40
+35008,"Brampton Centre","Brampton-Centre"," 405","Brampton",N,N,"",1,305,"Ali","","Shafqat","Liberal","Libéral",N,Y,41
+35008,"Brampton Centre","Brampton-Centre"," 405","Brampton",N,N,"",1,305,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35008,"Brampton Centre","Brampton-Centre"," 405","Brampton",N,N,"",1,305,"Shino","","Ronni","Independent","Indépendant(e)",N,N,1
+35008,"Brampton Centre","Brampton-Centre"," 405","Brampton",N,N,"",1,305,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,20
+35008,"Brampton Centre","Brampton-Centre"," 406","Brampton",N,N,"",1,253,"Ali","","Shafqat","Liberal","Libéral",N,Y,44
+35008,"Brampton Centre","Brampton-Centre"," 406","Brampton",N,N,"",1,253,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35008,"Brampton Centre","Brampton-Centre"," 406","Brampton",N,N,"",1,253,"Shino","","Ronni","Independent","Indépendant(e)",N,N,0
+35008,"Brampton Centre","Brampton-Centre"," 406","Brampton",N,N,"",1,253,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,12
+35008,"Brampton Centre","Brampton-Centre"," 407","Brampton",N,N,"",3,293,"Ali","","Shafqat","Liberal","Libéral",N,Y,56
+35008,"Brampton Centre","Brampton-Centre"," 407","Brampton",N,N,"",3,293,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35008,"Brampton Centre","Brampton-Centre"," 407","Brampton",N,N,"",3,293,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 407","Brampton",N,N,"",3,293,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,24
+35008,"Brampton Centre","Brampton-Centre"," 408","Brampton",N,N,"",1,251,"Ali","","Shafqat","Liberal","Libéral",N,Y,53
+35008,"Brampton Centre","Brampton-Centre"," 408","Brampton",N,N,"",1,251,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35008,"Brampton Centre","Brampton-Centre"," 408","Brampton",N,N,"",1,251,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 408","Brampton",N,N,"",1,251,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,23
+35008,"Brampton Centre","Brampton-Centre"," 409","Brampton",N,N,"",1,438,"Ali","","Shafqat","Liberal","Libéral",N,Y,91
+35008,"Brampton Centre","Brampton-Centre"," 409","Brampton",N,N,"",1,438,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35008,"Brampton Centre","Brampton-Centre"," 409","Brampton",N,N,"",1,438,"Shino","","Ronni","Independent","Indépendant(e)",N,N,5
+35008,"Brampton Centre","Brampton-Centre"," 409","Brampton",N,N,"",1,438,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,30
+35008,"Brampton Centre","Brampton-Centre"," 410","Brampton",N,N,"",0,303,"Ali","","Shafqat","Liberal","Libéral",N,Y,43
+35008,"Brampton Centre","Brampton-Centre"," 410","Brampton",N,N,"",0,303,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35008,"Brampton Centre","Brampton-Centre"," 410","Brampton",N,N,"",0,303,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 410","Brampton",N,N,"",0,303,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,27
+35008,"Brampton Centre","Brampton-Centre"," 411","Brampton",N,N,"",0,276,"Ali","","Shafqat","Liberal","Libéral",N,Y,44
+35008,"Brampton Centre","Brampton-Centre"," 411","Brampton",N,N,"",0,276,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35008,"Brampton Centre","Brampton-Centre"," 411","Brampton",N,N,"",0,276,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 411","Brampton",N,N,"",0,276,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,16
+35008,"Brampton Centre","Brampton-Centre"," 412","Brampton",N,N,"",3,214,"Ali","","Shafqat","Liberal","Libéral",N,Y,53
+35008,"Brampton Centre","Brampton-Centre"," 412","Brampton",N,N,"",3,214,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35008,"Brampton Centre","Brampton-Centre"," 412","Brampton",N,N,"",3,214,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 412","Brampton",N,N,"",3,214,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,19
+35008,"Brampton Centre","Brampton-Centre"," 413","Brampton",N,N,"",0,286,"Ali","","Shafqat","Liberal","Libéral",N,Y,54
+35008,"Brampton Centre","Brampton-Centre"," 413","Brampton",N,N,"",0,286,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35008,"Brampton Centre","Brampton-Centre"," 413","Brampton",N,N,"",0,286,"Shino","","Ronni","Independent","Indépendant(e)",N,N,5
+35008,"Brampton Centre","Brampton-Centre"," 413","Brampton",N,N,"",0,286,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,19
+35008,"Brampton Centre","Brampton-Centre"," 414","Brampton",N,N,"",1,316,"Ali","","Shafqat","Liberal","Libéral",N,Y,52
+35008,"Brampton Centre","Brampton-Centre"," 414","Brampton",N,N,"",1,316,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35008,"Brampton Centre","Brampton-Centre"," 414","Brampton",N,N,"",1,316,"Shino","","Ronni","Independent","Indépendant(e)",N,N,1
+35008,"Brampton Centre","Brampton-Centre"," 414","Brampton",N,N,"",1,316,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,22
+35008,"Brampton Centre","Brampton-Centre"," 415","Brampton",N,N,"",1,222,"Ali","","Shafqat","Liberal","Libéral",N,Y,52
+35008,"Brampton Centre","Brampton-Centre"," 415","Brampton",N,N,"",1,222,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35008,"Brampton Centre","Brampton-Centre"," 415","Brampton",N,N,"",1,222,"Shino","","Ronni","Independent","Indépendant(e)",N,N,0
+35008,"Brampton Centre","Brampton-Centre"," 415","Brampton",N,N,"",1,222,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,7
+35008,"Brampton Centre","Brampton-Centre"," 416","Brampton",N,N,"",1,218,"Ali","","Shafqat","Liberal","Libéral",N,Y,34
+35008,"Brampton Centre","Brampton-Centre"," 416","Brampton",N,N,"",1,218,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35008,"Brampton Centre","Brampton-Centre"," 416","Brampton",N,N,"",1,218,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 416","Brampton",N,N,"",1,218,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,15
+35008,"Brampton Centre","Brampton-Centre"," 417","Brampton",N,N,"",0,218,"Ali","","Shafqat","Liberal","Libéral",N,Y,37
+35008,"Brampton Centre","Brampton-Centre"," 417","Brampton",N,N,"",0,218,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35008,"Brampton Centre","Brampton-Centre"," 417","Brampton",N,N,"",0,218,"Shino","","Ronni","Independent","Indépendant(e)",N,N,0
+35008,"Brampton Centre","Brampton-Centre"," 417","Brampton",N,N,"",0,218,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,13
+35008,"Brampton Centre","Brampton-Centre"," 418","Brampton",N,N,"",1,262,"Ali","","Shafqat","Liberal","Libéral",N,Y,25
+35008,"Brampton Centre","Brampton-Centre"," 418","Brampton",N,N,"",1,262,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35008,"Brampton Centre","Brampton-Centre"," 418","Brampton",N,N,"",1,262,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 418","Brampton",N,N,"",1,262,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,18
+35008,"Brampton Centre","Brampton-Centre"," 419","Brampton",N,N,"",0,319,"Ali","","Shafqat","Liberal","Libéral",N,Y,51
+35008,"Brampton Centre","Brampton-Centre"," 419","Brampton",N,N,"",0,319,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35008,"Brampton Centre","Brampton-Centre"," 419","Brampton",N,N,"",0,319,"Shino","","Ronni","Independent","Indépendant(e)",N,N,4
+35008,"Brampton Centre","Brampton-Centre"," 419","Brampton",N,N,"",0,319,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,14
+35008,"Brampton Centre","Brampton-Centre"," 420","Brampton",N,N,"",5,299,"Ali","","Shafqat","Liberal","Libéral",N,Y,35
+35008,"Brampton Centre","Brampton-Centre"," 420","Brampton",N,N,"",5,299,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35008,"Brampton Centre","Brampton-Centre"," 420","Brampton",N,N,"",5,299,"Shino","","Ronni","Independent","Indépendant(e)",N,N,0
+35008,"Brampton Centre","Brampton-Centre"," 420","Brampton",N,N,"",5,299,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,19
+35008,"Brampton Centre","Brampton-Centre"," 421","Brampton",N,N,"",1,271,"Ali","","Shafqat","Liberal","Libéral",N,Y,53
+35008,"Brampton Centre","Brampton-Centre"," 421","Brampton",N,N,"",1,271,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35008,"Brampton Centre","Brampton-Centre"," 421","Brampton",N,N,"",1,271,"Shino","","Ronni","Independent","Indépendant(e)",N,N,3
+35008,"Brampton Centre","Brampton-Centre"," 421","Brampton",N,N,"",1,271,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,16
+35008,"Brampton Centre","Brampton-Centre"," 422","Brampton",N,N,"",1,190,"Ali","","Shafqat","Liberal","Libéral",N,Y,49
+35008,"Brampton Centre","Brampton-Centre"," 422","Brampton",N,N,"",1,190,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35008,"Brampton Centre","Brampton-Centre"," 422","Brampton",N,N,"",1,190,"Shino","","Ronni","Independent","Indépendant(e)",N,N,0
+35008,"Brampton Centre","Brampton-Centre"," 422","Brampton",N,N,"",1,190,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,41
+35008,"Brampton Centre","Brampton-Centre"," 423","Brampton",N,N,"",0,184,"Ali","","Shafqat","Liberal","Libéral",N,Y,31
+35008,"Brampton Centre","Brampton-Centre"," 423","Brampton",N,N,"",0,184,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35008,"Brampton Centre","Brampton-Centre"," 423","Brampton",N,N,"",0,184,"Shino","","Ronni","Independent","Indépendant(e)",N,N,4
+35008,"Brampton Centre","Brampton-Centre"," 423","Brampton",N,N,"",0,184,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,36
+35008,"Brampton Centre","Brampton-Centre"," 424","Brampton",N,N,"",2,127,"Ali","","Shafqat","Liberal","Libéral",N,Y,43
+35008,"Brampton Centre","Brampton-Centre"," 424","Brampton",N,N,"",2,127,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35008,"Brampton Centre","Brampton-Centre"," 424","Brampton",N,N,"",2,127,"Shino","","Ronni","Independent","Indépendant(e)",N,N,2
+35008,"Brampton Centre","Brampton-Centre"," 424","Brampton",N,N,"",2,127,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,24
+35008,"Brampton Centre","Brampton-Centre"," 425","Brampton",N,N,"",5,81,"Ali","","Shafqat","Liberal","Libéral",N,Y,29
+35008,"Brampton Centre","Brampton-Centre"," 425","Brampton",N,N,"",5,81,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35008,"Brampton Centre","Brampton-Centre"," 425","Brampton",N,N,"",5,81,"Shino","","Ronni","Independent","Indépendant(e)",N,N,1
+35008,"Brampton Centre","Brampton-Centre"," 425","Brampton",N,N,"",5,81,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,11
+35008,"Brampton Centre","Brampton-Centre"," 426","Brampton",N,N,"",0,280,"Ali","","Shafqat","Liberal","Libéral",N,Y,63
+35008,"Brampton Centre","Brampton-Centre"," 426","Brampton",N,N,"",0,280,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35008,"Brampton Centre","Brampton-Centre"," 426","Brampton",N,N,"",0,280,"Shino","","Ronni","Independent","Indépendant(e)",N,N,6
+35008,"Brampton Centre","Brampton-Centre"," 426","Brampton",N,N,"",0,280,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,22
+35008,"Brampton Centre","Brampton-Centre"," 600","Brampton",N,N,"",9,0,"Ali","","Shafqat","Liberal","Libéral",N,Y,325
+35008,"Brampton Centre","Brampton-Centre"," 600","Brampton",N,N,"",9,0,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,125
+35008,"Brampton Centre","Brampton-Centre"," 600","Brampton",N,N,"",9,0,"Shino","","Ronni","Independent","Indépendant(e)",N,N,25
+35008,"Brampton Centre","Brampton-Centre"," 600","Brampton",N,N,"",9,0,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,356
+35008,"Brampton Centre","Brampton-Centre"," 601","Brampton",N,N,"",3,0,"Ali","","Shafqat","Liberal","Libéral",N,Y,446
+35008,"Brampton Centre","Brampton-Centre"," 601","Brampton",N,N,"",3,0,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,124
+35008,"Brampton Centre","Brampton-Centre"," 601","Brampton",N,N,"",3,0,"Shino","","Ronni","Independent","Indépendant(e)",N,N,19
+35008,"Brampton Centre","Brampton-Centre"," 601","Brampton",N,N,"",3,0,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,314
+35008,"Brampton Centre","Brampton-Centre"," 602","Brampton",N,N,"",18,0,"Ali","","Shafqat","Liberal","Libéral",N,Y,481
+35008,"Brampton Centre","Brampton-Centre"," 602","Brampton",N,N,"",18,0,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,151
+35008,"Brampton Centre","Brampton-Centre"," 602","Brampton",N,N,"",18,0,"Shino","","Ronni","Independent","Indépendant(e)",N,N,26
+35008,"Brampton Centre","Brampton-Centre"," 602","Brampton",N,N,"",18,0,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,306
+35008,"Brampton Centre","Brampton-Centre"," 603","Brampton",N,N,"",11,0,"Ali","","Shafqat","Liberal","Libéral",N,Y,429
+35008,"Brampton Centre","Brampton-Centre"," 603","Brampton",N,N,"",11,0,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,126
+35008,"Brampton Centre","Brampton-Centre"," 603","Brampton",N,N,"",11,0,"Shino","","Ronni","Independent","Indépendant(e)",N,N,16
+35008,"Brampton Centre","Brampton-Centre"," 603","Brampton",N,N,"",11,0,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,259
+35008,"Brampton Centre","Brampton-Centre"," 604","Brampton",N,N,"",11,0,"Ali","","Shafqat","Liberal","Libéral",N,Y,501
+35008,"Brampton Centre","Brampton-Centre"," 604","Brampton",N,N,"",11,0,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,158
+35008,"Brampton Centre","Brampton-Centre"," 604","Brampton",N,N,"",11,0,"Shino","","Ronni","Independent","Indépendant(e)",N,N,24
+35008,"Brampton Centre","Brampton-Centre"," 604","Brampton",N,N,"",11,0,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,429
+35008,"Brampton Centre","Brampton-Centre"," 605","Brampton",N,N,"",7,0,"Ali","","Shafqat","Liberal","Libéral",N,Y,241
+35008,"Brampton Centre","Brampton-Centre"," 605","Brampton",N,N,"",7,0,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,78
+35008,"Brampton Centre","Brampton-Centre"," 605","Brampton",N,N,"",7,0,"Shino","","Ronni","Independent","Indépendant(e)",N,N,26
+35008,"Brampton Centre","Brampton-Centre"," 605","Brampton",N,N,"",7,0,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,192
+35008,"Brampton Centre","Brampton-Centre"," 606","Brampton",N,N,"",11,0,"Ali","","Shafqat","Liberal","Libéral",N,Y,356
+35008,"Brampton Centre","Brampton-Centre"," 606","Brampton",N,N,"",11,0,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,116
+35008,"Brampton Centre","Brampton-Centre"," 606","Brampton",N,N,"",11,0,"Shino","","Ronni","Independent","Indépendant(e)",N,N,8
+35008,"Brampton Centre","Brampton-Centre"," 606","Brampton",N,N,"",11,0,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,216
+35008,"Brampton Centre","Brampton-Centre"," 607","Brampton",N,N,"",15,0,"Ali","","Shafqat","Liberal","Libéral",N,Y,459
+35008,"Brampton Centre","Brampton-Centre"," 607","Brampton",N,N,"",15,0,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,133
+35008,"Brampton Centre","Brampton-Centre"," 607","Brampton",N,N,"",15,0,"Shino","","Ronni","Independent","Indépendant(e)",N,N,14
+35008,"Brampton Centre","Brampton-Centre"," 607","Brampton",N,N,"",15,0,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,299
+35008,"Brampton Centre","Brampton-Centre"," 608","Brampton",N,N,"",7,0,"Ali","","Shafqat","Liberal","Libéral",N,Y,500
+35008,"Brampton Centre","Brampton-Centre"," 608","Brampton",N,N,"",7,0,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,147
+35008,"Brampton Centre","Brampton-Centre"," 608","Brampton",N,N,"",7,0,"Shino","","Ronni","Independent","Indépendant(e)",N,N,21
+35008,"Brampton Centre","Brampton-Centre"," 608","Brampton",N,N,"",7,0,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,429
+35008,"Brampton Centre","Brampton-Centre"," 609","Brampton",N,N,"",3,0,"Ali","","Shafqat","Liberal","Libéral",N,Y,355
+35008,"Brampton Centre","Brampton-Centre"," 609","Brampton",N,N,"",3,0,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,107
+35008,"Brampton Centre","Brampton-Centre"," 609","Brampton",N,N,"",3,0,"Shino","","Ronni","Independent","Indépendant(e)",N,N,16
+35008,"Brampton Centre","Brampton-Centre"," 609","Brampton",N,N,"",3,0,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,218
+35008,"Brampton Centre","Brampton-Centre"," 610","Brampton",N,N,"",10,0,"Ali","","Shafqat","Liberal","Libéral",N,Y,359
+35008,"Brampton Centre","Brampton-Centre"," 610","Brampton",N,N,"",10,0,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,90
+35008,"Brampton Centre","Brampton-Centre"," 610","Brampton",N,N,"",10,0,"Shino","","Ronni","Independent","Indépendant(e)",N,N,10
+35008,"Brampton Centre","Brampton-Centre"," 610","Brampton",N,N,"",10,0,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,206
+35008,"Brampton Centre","Brampton-Centre"," 611","Brampton",N,N,"",10,0,"Ali","","Shafqat","Liberal","Libéral",N,Y,415
+35008,"Brampton Centre","Brampton-Centre"," 611","Brampton",N,N,"",10,0,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,106
+35008,"Brampton Centre","Brampton-Centre"," 611","Brampton",N,N,"",10,0,"Shino","","Ronni","Independent","Indépendant(e)",N,N,14
+35008,"Brampton Centre","Brampton-Centre"," 611","Brampton",N,N,"",10,0,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,200
+35008,"Brampton Centre","Brampton-Centre"," 612","Brampton",N,N,"",5,0,"Ali","","Shafqat","Liberal","Libéral",N,Y,271
+35008,"Brampton Centre","Brampton-Centre"," 612","Brampton",N,N,"",5,0,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,91
+35008,"Brampton Centre","Brampton-Centre"," 612","Brampton",N,N,"",5,0,"Shino","","Ronni","Independent","Indépendant(e)",N,N,20
+35008,"Brampton Centre","Brampton-Centre"," 612","Brampton",N,N,"",5,0,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,289
+35008,"Brampton Centre","Brampton-Centre"," 613","Brampton",N,N,"",4,0,"Ali","","Shafqat","Liberal","Libéral",N,Y,457
+35008,"Brampton Centre","Brampton-Centre"," 613","Brampton",N,N,"",4,0,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,111
+35008,"Brampton Centre","Brampton-Centre"," 613","Brampton",N,N,"",4,0,"Shino","","Ronni","Independent","Indépendant(e)",N,N,9
+35008,"Brampton Centre","Brampton-Centre"," 613","Brampton",N,N,"",4,0,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,272
+35008,"Brampton Centre","Brampton-Centre"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",31,121,"Ali","","Shafqat","Liberal","Libéral",N,Y,139
+35008,"Brampton Centre","Brampton-Centre"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",31,121,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+35008,"Brampton Centre","Brampton-Centre"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",31,121,"Shino","","Ronni","Independent","Indépendant(e)",N,N,7
+35008,"Brampton Centre","Brampton-Centre"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",31,121,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,98
+35008,"Brampton Centre","Brampton-Centre"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",67,0,"Ali","","Shafqat","Liberal","Libéral",N,Y,467
+35008,"Brampton Centre","Brampton-Centre"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",67,0,"McDowell","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,167
+35008,"Brampton Centre","Brampton-Centre"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",67,0,"Shino","","Ronni","Independent","Indépendant(e)",N,N,12
+35008,"Brampton Centre","Brampton-Centre"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",67,0,"Singh","","Jagdeep","Conservative","Conservateur",Y,N,283

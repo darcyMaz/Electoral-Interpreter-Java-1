@@ -1,0 +1,506 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+11003,"Egmont","Egmont"," 1","Seacow Pond",N,N,"",0,364,"Balsom","","Barry","Conservative","Conservateur",N,N,36
+11003,"Egmont","Egmont"," 1","Seacow Pond",N,N,"",0,364,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,4
+11003,"Egmont","Egmont"," 1","Seacow Pond",N,N,"",0,364,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+11003,"Egmont","Egmont"," 1","Seacow Pond",N,N,"",0,364,"Clark","","Alex","Green Party","Parti Vert",N,N,6
+11003,"Egmont","Egmont"," 1","Seacow Pond",N,N,"",0,364,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,94
+11003,"Egmont","Egmont"," 2","Nail Pond",N,N,"",3,395,"Balsom","","Barry","Conservative","Conservateur",N,N,47
+11003,"Egmont","Egmont"," 2","Nail Pond",N,N,"",3,395,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,8
+11003,"Egmont","Egmont"," 2","Nail Pond",N,N,"",3,395,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+11003,"Egmont","Egmont"," 2","Nail Pond",N,N,"",3,395,"Clark","","Alex","Green Party","Parti Vert",N,N,7
+11003,"Egmont","Egmont"," 2","Nail Pond",N,N,"",3,395,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,88
+11003,"Egmont","Egmont"," 3","Judes Point",N,N,"",1,313,"Balsom","","Barry","Conservative","Conservateur",N,N,28
+11003,"Egmont","Egmont"," 3","Judes Point",N,N,"",1,313,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+11003,"Egmont","Egmont"," 3","Judes Point",N,N,"",1,313,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+11003,"Egmont","Egmont"," 3","Judes Point",N,N,"",1,313,"Clark","","Alex","Green Party","Parti Vert",N,N,2
+11003,"Egmont","Egmont"," 3","Judes Point",N,N,"",1,313,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,55
+11003,"Egmont","Egmont"," 4","Tignish Corner",N,N,"",1,347,"Balsom","","Barry","Conservative","Conservateur",N,N,40
+11003,"Egmont","Egmont"," 4","Tignish Corner",N,N,"",1,347,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+11003,"Egmont","Egmont"," 4","Tignish Corner",N,N,"",1,347,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+11003,"Egmont","Egmont"," 4","Tignish Corner",N,N,"",1,347,"Clark","","Alex","Green Party","Parti Vert",N,N,3
+11003,"Egmont","Egmont"," 4","Tignish Corner",N,N,"",1,347,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,52
+11003,"Egmont","Egmont"," 5","Harper",N,N,"",2,310,"Balsom","","Barry","Conservative","Conservateur",N,N,46
+11003,"Egmont","Egmont"," 5","Harper",N,N,"",2,310,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,8
+11003,"Egmont","Egmont"," 5","Harper",N,N,"",2,310,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+11003,"Egmont","Egmont"," 5","Harper",N,N,"",2,310,"Clark","","Alex","Green Party","Parti Vert",N,N,5
+11003,"Egmont","Egmont"," 5","Harper",N,N,"",2,310,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,48
+11003,"Egmont","Egmont"," 6","Skinners Pond",N,N,"",4,329,"Balsom","","Barry","Conservative","Conservateur",N,N,53
+11003,"Egmont","Egmont"," 6","Skinners Pond",N,N,"",4,329,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,6
+11003,"Egmont","Egmont"," 6","Skinners Pond",N,N,"",4,329,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+11003,"Egmont","Egmont"," 6","Skinners Pond",N,N,"",4,329,"Clark","","Alex","Green Party","Parti Vert",N,N,3
+11003,"Egmont","Egmont"," 6","Skinners Pond",N,N,"",4,329,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,82
+11003,"Egmont","Egmont"," 7","St. Louis",N,N,"",2,319,"Balsom","","Barry","Conservative","Conservateur",N,N,54
+11003,"Egmont","Egmont"," 7","St. Louis",N,N,"",2,319,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,15
+11003,"Egmont","Egmont"," 7","St. Louis",N,N,"",2,319,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+11003,"Egmont","Egmont"," 7","St. Louis",N,N,"",2,319,"Clark","","Alex","Green Party","Parti Vert",N,N,4
+11003,"Egmont","Egmont"," 7","St. Louis",N,N,"",2,319,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,72
+11003,"Egmont","Egmont"," 8","St. Felix",N,N,"",1,361,"Balsom","","Barry","Conservative","Conservateur",N,N,76
+11003,"Egmont","Egmont"," 8","St. Felix",N,N,"",1,361,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,4
+11003,"Egmont","Egmont"," 8","St. Felix",N,N,"",1,361,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+11003,"Egmont","Egmont"," 8","St. Felix",N,N,"",1,361,"Clark","","Alex","Green Party","Parti Vert",N,N,8
+11003,"Egmont","Egmont"," 8","St. Felix",N,N,"",1,361,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,89
+11003,"Egmont","Egmont"," 9","Montrose",N,N,"",3,419,"Balsom","","Barry","Conservative","Conservateur",N,N,79
+11003,"Egmont","Egmont"," 9","Montrose",N,N,"",3,419,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,9
+11003,"Egmont","Egmont"," 9","Montrose",N,N,"",3,419,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+11003,"Egmont","Egmont"," 9","Montrose",N,N,"",3,419,"Clark","","Alex","Green Party","Parti Vert",N,N,9
+11003,"Egmont","Egmont"," 9","Montrose",N,N,"",3,419,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,79
+11003,"Egmont","Egmont"," 10","Alberton",N,N,"",2,443,"Balsom","","Barry","Conservative","Conservateur",N,N,50
+11003,"Egmont","Egmont"," 10","Alberton",N,N,"",2,443,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,12
+11003,"Egmont","Egmont"," 10","Alberton",N,N,"",2,443,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+11003,"Egmont","Egmont"," 10","Alberton",N,N,"",2,443,"Clark","","Alex","Green Party","Parti Vert",N,N,10
+11003,"Egmont","Egmont"," 10","Alberton",N,N,"",2,443,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,83
+11003,"Egmont","Egmont"," 11","Alberton",N,N,"",0,335,"Balsom","","Barry","Conservative","Conservateur",N,N,50
+11003,"Egmont","Egmont"," 11","Alberton",N,N,"",0,335,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,7
+11003,"Egmont","Egmont"," 11","Alberton",N,N,"",0,335,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+11003,"Egmont","Egmont"," 11","Alberton",N,N,"",0,335,"Clark","","Alex","Green Party","Parti Vert",N,N,10
+11003,"Egmont","Egmont"," 11","Alberton",N,N,"",0,335,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,51
+11003,"Egmont","Egmont"," 12","Northport",N,N,"",1,429,"Balsom","","Barry","Conservative","Conservateur",N,N,44
+11003,"Egmont","Egmont"," 12","Northport",N,N,"",1,429,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,17
+11003,"Egmont","Egmont"," 12","Northport",N,N,"",1,429,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+11003,"Egmont","Egmont"," 12","Northport",N,N,"",1,429,"Clark","","Alex","Green Party","Parti Vert",N,N,5
+11003,"Egmont","Egmont"," 12","Northport",N,N,"",1,429,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,69
+11003,"Egmont","Egmont"," 13","Ebbsfleet",N,N,"",3,344,"Balsom","","Barry","Conservative","Conservateur",N,N,46
+11003,"Egmont","Egmont"," 13","Ebbsfleet",N,N,"",3,344,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,12
+11003,"Egmont","Egmont"," 13","Ebbsfleet",N,N,"",3,344,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+11003,"Egmont","Egmont"," 13","Ebbsfleet",N,N,"",3,344,"Clark","","Alex","Green Party","Parti Vert",N,N,7
+11003,"Egmont","Egmont"," 13","Ebbsfleet",N,N,"",3,344,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,100
+11003,"Egmont","Egmont"," 14","St. Lawrence",N,N,"",1,322,"Balsom","","Barry","Conservative","Conservateur",N,N,71
+11003,"Egmont","Egmont"," 14","St. Lawrence",N,N,"",1,322,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,18
+11003,"Egmont","Egmont"," 14","St. Lawrence",N,N,"",1,322,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+11003,"Egmont","Egmont"," 14","St. Lawrence",N,N,"",1,322,"Clark","","Alex","Green Party","Parti Vert",N,N,10
+11003,"Egmont","Egmont"," 14","St. Lawrence",N,N,"",1,322,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,81
+11003,"Egmont","Egmont"," 15","Alma",N,N,"",3,394,"Balsom","","Barry","Conservative","Conservateur",N,N,76
+11003,"Egmont","Egmont"," 15","Alma",N,N,"",3,394,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,5
+11003,"Egmont","Egmont"," 15","Alma",N,N,"",3,394,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+11003,"Egmont","Egmont"," 15","Alma",N,N,"",3,394,"Clark","","Alex","Green Party","Parti Vert",N,N,13
+11003,"Egmont","Egmont"," 15","Alma",N,N,"",3,394,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,90
+11003,"Egmont","Egmont"," 16","Brockton",N,N,"",3,320,"Balsom","","Barry","Conservative","Conservateur",N,N,68
+11003,"Egmont","Egmont"," 16","Brockton",N,N,"",3,320,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,15
+11003,"Egmont","Egmont"," 16","Brockton",N,N,"",3,320,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+11003,"Egmont","Egmont"," 16","Brockton",N,N,"",3,320,"Clark","","Alex","Green Party","Parti Vert",N,N,3
+11003,"Egmont","Egmont"," 16","Brockton",N,N,"",3,320,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,66
+11003,"Egmont","Egmont"," 17","Mill River East--Fortune Cove",N,N,"",3,502,"Balsom","","Barry","Conservative","Conservateur",N,N,96
+11003,"Egmont","Egmont"," 17","Mill River East--Fortune Cove",N,N,"",3,502,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,6
+11003,"Egmont","Egmont"," 17","Mill River East--Fortune Cove",N,N,"",3,502,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+11003,"Egmont","Egmont"," 17","Mill River East--Fortune Cove",N,N,"",3,502,"Clark","","Alex","Green Party","Parti Vert",N,N,3
+11003,"Egmont","Egmont"," 17","Mill River East--Fortune Cove",N,N,"",3,502,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,64
+11003,"Egmont","Egmont"," 18","Rosebank",N,N,"",1,267,"Balsom","","Barry","Conservative","Conservateur",N,N,44
+11003,"Egmont","Egmont"," 18","Rosebank",N,N,"",1,267,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,6
+11003,"Egmont","Egmont"," 18","Rosebank",N,N,"",1,267,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+11003,"Egmont","Egmont"," 18","Rosebank",N,N,"",1,267,"Clark","","Alex","Green Party","Parti Vert",N,N,5
+11003,"Egmont","Egmont"," 18","Rosebank",N,N,"",1,267,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,28
+11003,"Egmont","Egmont"," 19","Cascumpec",N,N,"",1,460,"Balsom","","Barry","Conservative","Conservateur",N,N,78
+11003,"Egmont","Egmont"," 19","Cascumpec",N,N,"",1,460,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,11
+11003,"Egmont","Egmont"," 19","Cascumpec",N,N,"",1,460,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+11003,"Egmont","Egmont"," 19","Cascumpec",N,N,"",1,460,"Clark","","Alex","Green Party","Parti Vert",N,N,15
+11003,"Egmont","Egmont"," 19","Cascumpec",N,N,"",1,460,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,49
+11003,"Egmont","Egmont"," 20","Conway",N,N,"",0,439,"Balsom","","Barry","Conservative","Conservateur",N,N,38
+11003,"Egmont","Egmont"," 20","Conway",N,N,"",0,439,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,13
+11003,"Egmont","Egmont"," 20","Conway",N,N,"",0,439,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+11003,"Egmont","Egmont"," 20","Conway",N,N,"",0,439,"Clark","","Alex","Green Party","Parti Vert",N,N,15
+11003,"Egmont","Egmont"," 20","Conway",N,N,"",0,439,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,93
+11003,"Egmont","Egmont"," 21","Lennox Island",N,N,"",0,255,"Balsom","","Barry","Conservative","Conservateur",N,N,5
+11003,"Egmont","Egmont"," 21","Lennox Island",N,N,"",0,255,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,5
+11003,"Egmont","Egmont"," 21","Lennox Island",N,N,"",0,255,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+11003,"Egmont","Egmont"," 21","Lennox Island",N,N,"",0,255,"Clark","","Alex","Green Party","Parti Vert",N,N,5
+11003,"Egmont","Egmont"," 21","Lennox Island",N,N,"",0,255,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,54
+11003,"Egmont","Egmont"," 22","East Bideford",N,N,"",1,380,"Balsom","","Barry","Conservative","Conservateur",N,N,59
+11003,"Egmont","Egmont"," 22","East Bideford",N,N,"",1,380,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+11003,"Egmont","Egmont"," 22","East Bideford",N,N,"",1,380,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+11003,"Egmont","Egmont"," 22","East Bideford",N,N,"",1,380,"Clark","","Alex","Green Party","Parti Vert",N,N,11
+11003,"Egmont","Egmont"," 22","East Bideford",N,N,"",1,380,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,92
+11003,"Egmont","Egmont"," 23","Howlan",N,N,"",0,336,"Balsom","","Barry","Conservative","Conservateur",N,N,45
+11003,"Egmont","Egmont"," 23","Howlan",N,N,"",0,336,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,11
+11003,"Egmont","Egmont"," 23","Howlan",N,N,"",0,336,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+11003,"Egmont","Egmont"," 23","Howlan",N,N,"",0,336,"Clark","","Alex","Green Party","Parti Vert",N,N,5
+11003,"Egmont","Egmont"," 23","Howlan",N,N,"",0,336,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,37
+11003,"Egmont","Egmont"," 24","Glengarry",N,N,"",0,395,"Balsom","","Barry","Conservative","Conservateur",N,N,70
+11003,"Egmont","Egmont"," 24","Glengarry",N,N,"",0,395,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,7
+11003,"Egmont","Egmont"," 24","Glengarry",N,N,"",0,395,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+11003,"Egmont","Egmont"," 24","Glengarry",N,N,"",0,395,"Clark","","Alex","Green Party","Parti Vert",N,N,7
+11003,"Egmont","Egmont"," 24","Glengarry",N,N,"",0,395,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,59
+11003,"Egmont","Egmont"," 25","O'Leary",N,N,"",3,358,"Balsom","","Barry","Conservative","Conservateur",N,N,40
+11003,"Egmont","Egmont"," 25","O'Leary",N,N,"",3,358,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,9
+11003,"Egmont","Egmont"," 25","O'Leary",N,N,"",3,358,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+11003,"Egmont","Egmont"," 25","O'Leary",N,N,"",3,358,"Clark","","Alex","Green Party","Parti Vert",N,N,6
+11003,"Egmont","Egmont"," 25","O'Leary",N,N,"",3,358,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,46
+11003,"Egmont","Egmont"," 26","Coleman",N,N,"",0,287,"Balsom","","Barry","Conservative","Conservateur",N,N,43
+11003,"Egmont","Egmont"," 26","Coleman",N,N,"",0,287,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,6
+11003,"Egmont","Egmont"," 26","Coleman",N,N,"",0,287,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+11003,"Egmont","Egmont"," 26","Coleman",N,N,"",0,287,"Clark","","Alex","Green Party","Parti Vert",N,N,3
+11003,"Egmont","Egmont"," 26","Coleman",N,N,"",0,287,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,37
+11003,"Egmont","Egmont"," 27","O'Leary",N,N,"",2,297,"Balsom","","Barry","Conservative","Conservateur",N,N,53
+11003,"Egmont","Egmont"," 27","O'Leary",N,N,"",2,297,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,6
+11003,"Egmont","Egmont"," 27","O'Leary",N,N,"",2,297,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+11003,"Egmont","Egmont"," 27","O'Leary",N,N,"",2,297,"Clark","","Alex","Green Party","Parti Vert",N,N,2
+11003,"Egmont","Egmont"," 27","O'Leary",N,N,"",2,297,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,42
+11003,"Egmont","Egmont"," 28","Portage",N,N,"",1,367,"Balsom","","Barry","Conservative","Conservateur",N,N,42
+11003,"Egmont","Egmont"," 28","Portage",N,N,"",1,367,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+11003,"Egmont","Egmont"," 28","Portage",N,N,"",1,367,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+11003,"Egmont","Egmont"," 28","Portage",N,N,"",1,367,"Clark","","Alex","Green Party","Parti Vert",N,N,6
+11003,"Egmont","Egmont"," 28","Portage",N,N,"",1,367,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,70
+11003,"Egmont","Egmont"," 29A","Port Hill",N,N,"",0,493,"Balsom","","Barry","Conservative","Conservateur",N,N,73
+11003,"Egmont","Egmont"," 29A","Port Hill",N,N,"",0,493,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,8
+11003,"Egmont","Egmont"," 29A","Port Hill",N,N,"",0,493,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+11003,"Egmont","Egmont"," 29A","Port Hill",N,N,"",0,493,"Clark","","Alex","Green Party","Parti Vert",N,N,23
+11003,"Egmont","Egmont"," 29A","Port Hill",N,N,"",0,493,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,99
+11003,"Egmont","Egmont"," 29B","Mobile poll/Bureau itinérant",N,N,"",0,22,"Balsom","","Barry","Conservative","Conservateur",N,N,3
+11003,"Egmont","Egmont"," 29B","Mobile poll/Bureau itinérant",N,N,"",0,22,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+11003,"Egmont","Egmont"," 29B","Mobile poll/Bureau itinérant",N,N,"",0,22,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+11003,"Egmont","Egmont"," 29B","Mobile poll/Bureau itinérant",N,N,"",0,22,"Clark","","Alex","Green Party","Parti Vert",N,N,0
+11003,"Egmont","Egmont"," 29B","Mobile poll/Bureau itinérant",N,N,"",0,22,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,10
+11003,"Egmont","Egmont"," 30","Enmore",N,N,"",3,443,"Balsom","","Barry","Conservative","Conservateur",N,N,42
+11003,"Egmont","Egmont"," 30","Enmore",N,N,"",3,443,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,12
+11003,"Egmont","Egmont"," 30","Enmore",N,N,"",3,443,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+11003,"Egmont","Egmont"," 30","Enmore",N,N,"",3,443,"Clark","","Alex","Green Party","Parti Vert",N,N,12
+11003,"Egmont","Egmont"," 30","Enmore",N,N,"",3,443,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,77
+11003,"Egmont","Egmont"," 31","Birch Hill",N,N,"",1,279,"Balsom","","Barry","Conservative","Conservateur",N,N,68
+11003,"Egmont","Egmont"," 31","Birch Hill",N,N,"",1,279,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,12
+11003,"Egmont","Egmont"," 31","Birch Hill",N,N,"",1,279,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+11003,"Egmont","Egmont"," 31","Birch Hill",N,N,"",1,279,"Clark","","Alex","Green Party","Parti Vert",N,N,14
+11003,"Egmont","Egmont"," 31","Birch Hill",N,N,"",1,279,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,71
+11003,"Egmont","Egmont"," 32","Cross River",N,N,"",0,274,"Balsom","","Barry","Conservative","Conservateur",N,N,47
+11003,"Egmont","Egmont"," 32","Cross River",N,N,"",0,274,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+11003,"Egmont","Egmont"," 32","Cross River",N,N,"",0,274,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+11003,"Egmont","Egmont"," 32","Cross River",N,N,"",0,274,"Clark","","Alex","Green Party","Parti Vert",N,N,11
+11003,"Egmont","Egmont"," 32","Cross River",N,N,"",0,274,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,53
+11003,"Egmont","Egmont"," 33","Hebron",N,N,"",0,247,"Balsom","","Barry","Conservative","Conservateur",N,N,43
+11003,"Egmont","Egmont"," 33","Hebron",N,N,"",0,247,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,12
+11003,"Egmont","Egmont"," 33","Hebron",N,N,"",0,247,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+11003,"Egmont","Egmont"," 33","Hebron",N,N,"",0,247,"Clark","","Alex","Green Party","Parti Vert",N,N,1
+11003,"Egmont","Egmont"," 33","Hebron",N,N,"",0,247,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,31
+11003,"Egmont","Egmont"," 34","West Cape",N,N,"",0,315,"Balsom","","Barry","Conservative","Conservateur",N,N,67
+11003,"Egmont","Egmont"," 34","West Cape",N,N,"",0,315,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+11003,"Egmont","Egmont"," 34","West Cape",N,N,"",0,315,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+11003,"Egmont","Egmont"," 34","West Cape",N,N,"",0,315,"Clark","","Alex","Green Party","Parti Vert",N,N,8
+11003,"Egmont","Egmont"," 34","West Cape",N,N,"",0,315,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,61
+11003,"Egmont","Egmont"," 35","Central Lot 16",N,N,"",1,347,"Balsom","","Barry","Conservative","Conservateur",N,N,44
+11003,"Egmont","Egmont"," 35","Central Lot 16",N,N,"",1,347,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,10
+11003,"Egmont","Egmont"," 35","Central Lot 16",N,N,"",1,347,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+11003,"Egmont","Egmont"," 35","Central Lot 16",N,N,"",1,347,"Clark","","Alex","Green Party","Parti Vert",N,N,30
+11003,"Egmont","Egmont"," 35","Central Lot 16",N,N,"",1,347,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,79
+11003,"Egmont","Egmont"," 36","Slemon Park",N,N,"",1,305,"Balsom","","Barry","Conservative","Conservateur",N,N,30
+11003,"Egmont","Egmont"," 36","Slemon Park",N,N,"",1,305,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,12
+11003,"Egmont","Egmont"," 36","Slemon Park",N,N,"",1,305,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+11003,"Egmont","Egmont"," 36","Slemon Park",N,N,"",1,305,"Clark","","Alex","Green Party","Parti Vert",N,N,19
+11003,"Egmont","Egmont"," 36","Slemon Park",N,N,"",1,305,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,41
+11003,"Egmont","Egmont"," 37","Slemon Park",N,N,"",1,222,"Balsom","","Barry","Conservative","Conservateur",N,N,29
+11003,"Egmont","Egmont"," 37","Slemon Park",N,N,"",1,222,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,12
+11003,"Egmont","Egmont"," 37","Slemon Park",N,N,"",1,222,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+11003,"Egmont","Egmont"," 37","Slemon Park",N,N,"",1,222,"Clark","","Alex","Green Party","Parti Vert",N,N,17
+11003,"Egmont","Egmont"," 37","Slemon Park",N,N,"",1,222,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,30
+11003,"Egmont","Egmont"," 38","Sherbrooke",N,N,"",0,364,"Balsom","","Barry","Conservative","Conservateur",N,N,45
+11003,"Egmont","Egmont"," 38","Sherbrooke",N,N,"",0,364,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,11
+11003,"Egmont","Egmont"," 38","Sherbrooke",N,N,"",0,364,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+11003,"Egmont","Egmont"," 38","Sherbrooke",N,N,"",0,364,"Clark","","Alex","Green Party","Parti Vert",N,N,17
+11003,"Egmont","Egmont"," 38","Sherbrooke",N,N,"",0,364,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,58
+11003,"Egmont","Egmont"," 39","Summerside",N,N,"",4,448,"Balsom","","Barry","Conservative","Conservateur",N,N,44
+11003,"Egmont","Egmont"," 39","Summerside",N,N,"",4,448,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,8
+11003,"Egmont","Egmont"," 39","Summerside",N,N,"",4,448,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+11003,"Egmont","Egmont"," 39","Summerside",N,N,"",4,448,"Clark","","Alex","Green Party","Parti Vert",N,N,27
+11003,"Egmont","Egmont"," 39","Summerside",N,N,"",4,448,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,87
+11003,"Egmont","Egmont"," 40","Summerside",N,N,"",0,361,"Balsom","","Barry","Conservative","Conservateur",N,N,32
+11003,"Egmont","Egmont"," 40","Summerside",N,N,"",0,361,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,8
+11003,"Egmont","Egmont"," 40","Summerside",N,N,"",0,361,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+11003,"Egmont","Egmont"," 40","Summerside",N,N,"",0,361,"Clark","","Alex","Green Party","Parti Vert",N,N,17
+11003,"Egmont","Egmont"," 40","Summerside",N,N,"",0,361,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,51
+11003,"Egmont","Egmont"," 41","Summerside",N,N,"",3,447,"Balsom","","Barry","Conservative","Conservateur",N,N,53
+11003,"Egmont","Egmont"," 41","Summerside",N,N,"",3,447,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,9
+11003,"Egmont","Egmont"," 41","Summerside",N,N,"",3,447,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+11003,"Egmont","Egmont"," 41","Summerside",N,N,"",3,447,"Clark","","Alex","Green Party","Parti Vert",N,N,19
+11003,"Egmont","Egmont"," 41","Summerside",N,N,"",3,447,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,90
+11003,"Egmont","Egmont"," 42","Summerside",N,N,"",0,364,"Balsom","","Barry","Conservative","Conservateur",N,N,41
+11003,"Egmont","Egmont"," 42","Summerside",N,N,"",0,364,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,7
+11003,"Egmont","Egmont"," 42","Summerside",N,N,"",0,364,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+11003,"Egmont","Egmont"," 42","Summerside",N,N,"",0,364,"Clark","","Alex","Green Party","Parti Vert",N,N,23
+11003,"Egmont","Egmont"," 42","Summerside",N,N,"",0,364,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,71
+11003,"Egmont","Egmont"," 43","Summerside",N,N,"",1,278,"Balsom","","Barry","Conservative","Conservateur",N,N,33
+11003,"Egmont","Egmont"," 43","Summerside",N,N,"",1,278,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,5
+11003,"Egmont","Egmont"," 43","Summerside",N,N,"",1,278,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+11003,"Egmont","Egmont"," 43","Summerside",N,N,"",1,278,"Clark","","Alex","Green Party","Parti Vert",N,N,14
+11003,"Egmont","Egmont"," 43","Summerside",N,N,"",1,278,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,54
+11003,"Egmont","Egmont"," 44","Summerside",N,N,"",1,378,"Balsom","","Barry","Conservative","Conservateur",N,N,38
+11003,"Egmont","Egmont"," 44","Summerside",N,N,"",1,378,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,4
+11003,"Egmont","Egmont"," 44","Summerside",N,N,"",1,378,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+11003,"Egmont","Egmont"," 44","Summerside",N,N,"",1,378,"Clark","","Alex","Green Party","Parti Vert",N,N,26
+11003,"Egmont","Egmont"," 44","Summerside",N,N,"",1,378,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,72
+11003,"Egmont","Egmont"," 45","Summerside",N,N,"",5,423,"Balsom","","Barry","Conservative","Conservateur",N,N,67
+11003,"Egmont","Egmont"," 45","Summerside",N,N,"",5,423,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,16
+11003,"Egmont","Egmont"," 45","Summerside",N,N,"",5,423,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+11003,"Egmont","Egmont"," 45","Summerside",N,N,"",5,423,"Clark","","Alex","Green Party","Parti Vert",N,N,40
+11003,"Egmont","Egmont"," 45","Summerside",N,N,"",5,423,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,85
+11003,"Egmont","Egmont"," 46","Summerside",N,N,"",3,358,"Balsom","","Barry","Conservative","Conservateur",N,N,47
+11003,"Egmont","Egmont"," 46","Summerside",N,N,"",3,358,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,4
+11003,"Egmont","Egmont"," 46","Summerside",N,N,"",3,358,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+11003,"Egmont","Egmont"," 46","Summerside",N,N,"",3,358,"Clark","","Alex","Green Party","Parti Vert",N,N,19
+11003,"Egmont","Egmont"," 46","Summerside",N,N,"",3,358,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,85
+11003,"Egmont","Egmont"," 47","Summerside",N,N,"",6,353,"Balsom","","Barry","Conservative","Conservateur",N,N,47
+11003,"Egmont","Egmont"," 47","Summerside",N,N,"",6,353,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,7
+11003,"Egmont","Egmont"," 47","Summerside",N,N,"",6,353,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+11003,"Egmont","Egmont"," 47","Summerside",N,N,"",6,353,"Clark","","Alex","Green Party","Parti Vert",N,N,21
+11003,"Egmont","Egmont"," 47","Summerside",N,N,"",6,353,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,67
+11003,"Egmont","Egmont"," 48","Summerside",N,N,"",4,365,"Balsom","","Barry","Conservative","Conservateur",N,N,34
+11003,"Egmont","Egmont"," 48","Summerside",N,N,"",4,365,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,6
+11003,"Egmont","Egmont"," 48","Summerside",N,N,"",4,365,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+11003,"Egmont","Egmont"," 48","Summerside",N,N,"",4,365,"Clark","","Alex","Green Party","Parti Vert",N,N,24
+11003,"Egmont","Egmont"," 48","Summerside",N,N,"",4,365,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,77
+11003,"Egmont","Egmont"," 49","Summerside",N,N,"",0,391,"Balsom","","Barry","Conservative","Conservateur",N,N,42
+11003,"Egmont","Egmont"," 49","Summerside",N,N,"",0,391,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,19
+11003,"Egmont","Egmont"," 49","Summerside",N,N,"",0,391,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+11003,"Egmont","Egmont"," 49","Summerside",N,N,"",0,391,"Clark","","Alex","Green Party","Parti Vert",N,N,27
+11003,"Egmont","Egmont"," 49","Summerside",N,N,"",0,391,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,70
+11003,"Egmont","Egmont"," 50","Summerside",N,N,"",0,374,"Balsom","","Barry","Conservative","Conservateur",N,N,36
+11003,"Egmont","Egmont"," 50","Summerside",N,N,"",0,374,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,5
+11003,"Egmont","Egmont"," 50","Summerside",N,N,"",0,374,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+11003,"Egmont","Egmont"," 50","Summerside",N,N,"",0,374,"Clark","","Alex","Green Party","Parti Vert",N,N,23
+11003,"Egmont","Egmont"," 50","Summerside",N,N,"",0,374,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,69
+11003,"Egmont","Egmont"," 51","Summerside",N,N,"",3,354,"Balsom","","Barry","Conservative","Conservateur",N,N,47
+11003,"Egmont","Egmont"," 51","Summerside",N,N,"",3,354,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,5
+11003,"Egmont","Egmont"," 51","Summerside",N,N,"",3,354,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+11003,"Egmont","Egmont"," 51","Summerside",N,N,"",3,354,"Clark","","Alex","Green Party","Parti Vert",N,N,19
+11003,"Egmont","Egmont"," 51","Summerside",N,N,"",3,354,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,79
+11003,"Egmont","Egmont"," 52","Summerside",N,N,"",3,332,"Balsom","","Barry","Conservative","Conservateur",N,N,45
+11003,"Egmont","Egmont"," 52","Summerside",N,N,"",3,332,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,5
+11003,"Egmont","Egmont"," 52","Summerside",N,N,"",3,332,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+11003,"Egmont","Egmont"," 52","Summerside",N,N,"",3,332,"Clark","","Alex","Green Party","Parti Vert",N,N,23
+11003,"Egmont","Egmont"," 52","Summerside",N,N,"",3,332,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,70
+11003,"Egmont","Egmont"," 53","Summerside",N,N,"",0,407,"Balsom","","Barry","Conservative","Conservateur",N,N,24
+11003,"Egmont","Egmont"," 53","Summerside",N,N,"",0,407,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,9
+11003,"Egmont","Egmont"," 53","Summerside",N,N,"",0,407,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+11003,"Egmont","Egmont"," 53","Summerside",N,N,"",0,407,"Clark","","Alex","Green Party","Parti Vert",N,N,8
+11003,"Egmont","Egmont"," 53","Summerside",N,N,"",0,407,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,48
+11003,"Egmont","Egmont"," 54","Summerside",N,N,"",0,424,"Balsom","","Barry","Conservative","Conservateur",N,N,22
+11003,"Egmont","Egmont"," 54","Summerside",N,N,"",0,424,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,10
+11003,"Egmont","Egmont"," 54","Summerside",N,N,"",0,424,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+11003,"Egmont","Egmont"," 54","Summerside",N,N,"",0,424,"Clark","","Alex","Green Party","Parti Vert",N,N,25
+11003,"Egmont","Egmont"," 54","Summerside",N,N,"",0,424,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,59
+11003,"Egmont","Egmont"," 55","Summerside",N,N,"",1,450,"Balsom","","Barry","Conservative","Conservateur",N,N,38
+11003,"Egmont","Egmont"," 55","Summerside",N,N,"",1,450,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,16
+11003,"Egmont","Egmont"," 55","Summerside",N,N,"",1,450,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+11003,"Egmont","Egmont"," 55","Summerside",N,N,"",1,450,"Clark","","Alex","Green Party","Parti Vert",N,N,13
+11003,"Egmont","Egmont"," 55","Summerside",N,N,"",1,450,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,60
+11003,"Egmont","Egmont"," 56","Summerside",N,N,"",4,493,"Balsom","","Barry","Conservative","Conservateur",N,N,33
+11003,"Egmont","Egmont"," 56","Summerside",N,N,"",4,493,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,5
+11003,"Egmont","Egmont"," 56","Summerside",N,N,"",4,493,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+11003,"Egmont","Egmont"," 56","Summerside",N,N,"",4,493,"Clark","","Alex","Green Party","Parti Vert",N,N,22
+11003,"Egmont","Egmont"," 56","Summerside",N,N,"",4,493,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,66
+11003,"Egmont","Egmont"," 57","Summerside",N,N,"",0,339,"Balsom","","Barry","Conservative","Conservateur",N,N,28
+11003,"Egmont","Egmont"," 57","Summerside",N,N,"",0,339,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+11003,"Egmont","Egmont"," 57","Summerside",N,N,"",0,339,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+11003,"Egmont","Egmont"," 57","Summerside",N,N,"",0,339,"Clark","","Alex","Green Party","Parti Vert",N,N,24
+11003,"Egmont","Egmont"," 57","Summerside",N,N,"",0,339,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,73
+11003,"Egmont","Egmont"," 58","Summerside",N,N,"",0,310,"Balsom","","Barry","Conservative","Conservateur",N,N,22
+11003,"Egmont","Egmont"," 58","Summerside",N,N,"",0,310,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,4
+11003,"Egmont","Egmont"," 58","Summerside",N,N,"",0,310,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+11003,"Egmont","Egmont"," 58","Summerside",N,N,"",0,310,"Clark","","Alex","Green Party","Parti Vert",N,N,12
+11003,"Egmont","Egmont"," 58","Summerside",N,N,"",0,310,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,61
+11003,"Egmont","Egmont"," 59","Summerside",N,N,"",2,397,"Balsom","","Barry","Conservative","Conservateur",N,N,26
+11003,"Egmont","Egmont"," 59","Summerside",N,N,"",2,397,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,5
+11003,"Egmont","Egmont"," 59","Summerside",N,N,"",2,397,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+11003,"Egmont","Egmont"," 59","Summerside",N,N,"",2,397,"Clark","","Alex","Green Party","Parti Vert",N,N,29
+11003,"Egmont","Egmont"," 59","Summerside",N,N,"",2,397,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,71
+11003,"Egmont","Egmont"," 60","Summerside",N,N,"",1,320,"Balsom","","Barry","Conservative","Conservateur",N,N,24
+11003,"Egmont","Egmont"," 60","Summerside",N,N,"",1,320,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+11003,"Egmont","Egmont"," 60","Summerside",N,N,"",1,320,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+11003,"Egmont","Egmont"," 60","Summerside",N,N,"",1,320,"Clark","","Alex","Green Party","Parti Vert",N,N,14
+11003,"Egmont","Egmont"," 60","Summerside",N,N,"",1,320,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,51
+11003,"Egmont","Egmont"," 61","Miscouche",N,N,"",1,460,"Balsom","","Barry","Conservative","Conservateur",N,N,51
+11003,"Egmont","Egmont"," 61","Miscouche",N,N,"",1,460,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,13
+11003,"Egmont","Egmont"," 61","Miscouche",N,N,"",1,460,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+11003,"Egmont","Egmont"," 61","Miscouche",N,N,"",1,460,"Clark","","Alex","Green Party","Parti Vert",N,N,42
+11003,"Egmont","Egmont"," 61","Miscouche",N,N,"",1,460,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,70
+11003,"Egmont","Egmont"," 62","Miscouche",N,N,"",0,411,"Balsom","","Barry","Conservative","Conservateur",N,N,57
+11003,"Egmont","Egmont"," 62","Miscouche",N,N,"",0,411,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,7
+11003,"Egmont","Egmont"," 62","Miscouche",N,N,"",0,411,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+11003,"Egmont","Egmont"," 62","Miscouche",N,N,"",0,411,"Clark","","Alex","Green Party","Parti Vert",N,N,40
+11003,"Egmont","Egmont"," 62","Miscouche",N,N,"",0,411,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,69
+11003,"Egmont","Egmont"," 63","Summerside",N,N,"",1,440,"Balsom","","Barry","Conservative","Conservateur",N,N,70
+11003,"Egmont","Egmont"," 63","Summerside",N,N,"",1,440,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,5
+11003,"Egmont","Egmont"," 63","Summerside",N,N,"",1,440,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+11003,"Egmont","Egmont"," 63","Summerside",N,N,"",1,440,"Clark","","Alex","Green Party","Parti Vert",N,N,28
+11003,"Egmont","Egmont"," 63","Summerside",N,N,"",1,440,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,97
+11003,"Egmont","Egmont"," 64","Summerside",N,N,"",1,405,"Balsom","","Barry","Conservative","Conservateur",N,N,34
+11003,"Egmont","Egmont"," 64","Summerside",N,N,"",1,405,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,5
+11003,"Egmont","Egmont"," 64","Summerside",N,N,"",1,405,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+11003,"Egmont","Egmont"," 64","Summerside",N,N,"",1,405,"Clark","","Alex","Green Party","Parti Vert",N,N,21
+11003,"Egmont","Egmont"," 64","Summerside",N,N,"",1,405,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,66
+11003,"Egmont","Egmont"," 65","Summerside",N,N,"",1,350,"Balsom","","Barry","Conservative","Conservateur",N,N,30
+11003,"Egmont","Egmont"," 65","Summerside",N,N,"",1,350,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,6
+11003,"Egmont","Egmont"," 65","Summerside",N,N,"",1,350,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+11003,"Egmont","Egmont"," 65","Summerside",N,N,"",1,350,"Clark","","Alex","Green Party","Parti Vert",N,N,17
+11003,"Egmont","Egmont"," 65","Summerside",N,N,"",1,350,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,47
+11003,"Egmont","Egmont"," 66","Summerside",N,N,"",3,366,"Balsom","","Barry","Conservative","Conservateur",N,N,36
+11003,"Egmont","Egmont"," 66","Summerside",N,N,"",3,366,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,6
+11003,"Egmont","Egmont"," 66","Summerside",N,N,"",3,366,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+11003,"Egmont","Egmont"," 66","Summerside",N,N,"",3,366,"Clark","","Alex","Green Party","Parti Vert",N,N,15
+11003,"Egmont","Egmont"," 66","Summerside",N,N,"",3,366,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,55
+11003,"Egmont","Egmont"," 67","Summerside",N,N,"",6,436,"Balsom","","Barry","Conservative","Conservateur",N,N,17
+11003,"Egmont","Egmont"," 67","Summerside",N,N,"",6,436,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,10
+11003,"Egmont","Egmont"," 67","Summerside",N,N,"",6,436,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+11003,"Egmont","Egmont"," 67","Summerside",N,N,"",6,436,"Clark","","Alex","Green Party","Parti Vert",N,N,29
+11003,"Egmont","Egmont"," 67","Summerside",N,N,"",6,436,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,49
+11003,"Egmont","Egmont"," 68","Summerside",N,N,"",2,327,"Balsom","","Barry","Conservative","Conservateur",N,N,16
+11003,"Egmont","Egmont"," 68","Summerside",N,N,"",2,327,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,8
+11003,"Egmont","Egmont"," 68","Summerside",N,N,"",2,327,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+11003,"Egmont","Egmont"," 68","Summerside",N,N,"",2,327,"Clark","","Alex","Green Party","Parti Vert",N,N,18
+11003,"Egmont","Egmont"," 68","Summerside",N,N,"",2,327,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,27
+11003,"Egmont","Egmont"," 69","Linkletter",N,N,"",2,424,"Balsom","","Barry","Conservative","Conservateur",N,N,35
+11003,"Egmont","Egmont"," 69","Linkletter",N,N,"",2,424,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,10
+11003,"Egmont","Egmont"," 69","Linkletter",N,N,"",2,424,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+11003,"Egmont","Egmont"," 69","Linkletter",N,N,"",2,424,"Clark","","Alex","Green Party","Parti Vert",N,N,24
+11003,"Egmont","Egmont"," 69","Linkletter",N,N,"",2,424,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,87
+11003,"Egmont","Egmont"," 70","Summerside",N,N,"",2,543,"Balsom","","Barry","Conservative","Conservateur",N,N,71
+11003,"Egmont","Egmont"," 70","Summerside",N,N,"",2,543,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,6
+11003,"Egmont","Egmont"," 70","Summerside",N,N,"",2,543,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+11003,"Egmont","Egmont"," 70","Summerside",N,N,"",2,543,"Clark","","Alex","Green Party","Parti Vert",N,N,46
+11003,"Egmont","Egmont"," 70","Summerside",N,N,"",2,543,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,87
+11003,"Egmont","Egmont"," 71","Wellington",N,N,"",2,419,"Balsom","","Barry","Conservative","Conservateur",N,N,51
+11003,"Egmont","Egmont"," 71","Wellington",N,N,"",2,419,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,11
+11003,"Egmont","Egmont"," 71","Wellington",N,N,"",2,419,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+11003,"Egmont","Egmont"," 71","Wellington",N,N,"",2,419,"Clark","","Alex","Green Party","Parti Vert",N,N,16
+11003,"Egmont","Egmont"," 71","Wellington",N,N,"",2,419,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,61
+11003,"Egmont","Egmont"," 72","St. Philip",N,N,"",2,343,"Balsom","","Barry","Conservative","Conservateur",N,N,40
+11003,"Egmont","Egmont"," 72","St. Philip",N,N,"",2,343,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,12
+11003,"Egmont","Egmont"," 72","St. Philip",N,N,"",2,343,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+11003,"Egmont","Egmont"," 72","St. Philip",N,N,"",2,343,"Clark","","Alex","Green Party","Parti Vert",N,N,11
+11003,"Egmont","Egmont"," 72","St. Philip",N,N,"",2,343,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,75
+11003,"Egmont","Egmont"," 73","Urbainville",N,N,"",5,377,"Balsom","","Barry","Conservative","Conservateur",N,N,66
+11003,"Egmont","Egmont"," 73","Urbainville",N,N,"",5,377,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,13
+11003,"Egmont","Egmont"," 73","Urbainville",N,N,"",5,377,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+11003,"Egmont","Egmont"," 73","Urbainville",N,N,"",5,377,"Clark","","Alex","Green Party","Parti Vert",N,N,25
+11003,"Egmont","Egmont"," 73","Urbainville",N,N,"",5,377,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,75
+11003,"Egmont","Egmont"," 74","Maximeville",N,N,"",1,434,"Balsom","","Barry","Conservative","Conservateur",N,N,67
+11003,"Egmont","Egmont"," 74","Maximeville",N,N,"",1,434,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,24
+11003,"Egmont","Egmont"," 74","Maximeville",N,N,"",1,434,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+11003,"Egmont","Egmont"," 74","Maximeville",N,N,"",1,434,"Clark","","Alex","Green Party","Parti Vert",N,N,34
+11003,"Egmont","Egmont"," 74","Maximeville",N,N,"",1,434,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,94
+11003,"Egmont","Egmont"," 75","St. Nicholas",N,N,"",0,258,"Balsom","","Barry","Conservative","Conservateur",N,N,50
+11003,"Egmont","Egmont"," 75","St. Nicholas",N,N,"",0,258,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,18
+11003,"Egmont","Egmont"," 75","St. Nicholas",N,N,"",0,258,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+11003,"Egmont","Egmont"," 75","St. Nicholas",N,N,"",0,258,"Clark","","Alex","Green Party","Parti Vert",N,N,16
+11003,"Egmont","Egmont"," 75","St. Nicholas",N,N,"",0,258,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,43
+11003,"Egmont","Egmont"," 76","Union Corner",N,N,"",1,418,"Balsom","","Barry","Conservative","Conservateur",N,N,58
+11003,"Egmont","Egmont"," 76","Union Corner",N,N,"",1,418,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,18
+11003,"Egmont","Egmont"," 76","Union Corner",N,N,"",1,418,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+11003,"Egmont","Egmont"," 76","Union Corner",N,N,"",1,418,"Clark","","Alex","Green Party","Parti Vert",N,N,28
+11003,"Egmont","Egmont"," 76","Union Corner",N,N,"",1,418,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,107
+11003,"Egmont","Egmont"," 500","Mobile poll/Bureau itinérant",N,N,"",1,47,"Balsom","","Barry","Conservative","Conservateur",N,N,6
+11003,"Egmont","Egmont"," 500","Mobile poll/Bureau itinérant",N,N,"",1,47,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+11003,"Egmont","Egmont"," 500","Mobile poll/Bureau itinérant",N,N,"",1,47,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+11003,"Egmont","Egmont"," 500","Mobile poll/Bureau itinérant",N,N,"",1,47,"Clark","","Alex","Green Party","Parti Vert",N,N,0
+11003,"Egmont","Egmont"," 500","Mobile poll/Bureau itinérant",N,N,"",1,47,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,36
+11003,"Egmont","Egmont"," 501","Mobile poll/Bureau itinérant",N,N,"",1,38,"Balsom","","Barry","Conservative","Conservateur",N,N,3
+11003,"Egmont","Egmont"," 501","Mobile poll/Bureau itinérant",N,N,"",1,38,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+11003,"Egmont","Egmont"," 501","Mobile poll/Bureau itinérant",N,N,"",1,38,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+11003,"Egmont","Egmont"," 501","Mobile poll/Bureau itinérant",N,N,"",1,38,"Clark","","Alex","Green Party","Parti Vert",N,N,0
+11003,"Egmont","Egmont"," 501","Mobile poll/Bureau itinérant",N,N,"",1,38,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,21
+11003,"Egmont","Egmont"," 502","Mobile poll/Bureau itinérant",N,N,"",1,45,"Balsom","","Barry","Conservative","Conservateur",N,N,4
+11003,"Egmont","Egmont"," 502","Mobile poll/Bureau itinérant",N,N,"",1,45,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+11003,"Egmont","Egmont"," 502","Mobile poll/Bureau itinérant",N,N,"",1,45,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+11003,"Egmont","Egmont"," 502","Mobile poll/Bureau itinérant",N,N,"",1,45,"Clark","","Alex","Green Party","Parti Vert",N,N,0
+11003,"Egmont","Egmont"," 502","Mobile poll/Bureau itinérant",N,N,"",1,45,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,12
+11003,"Egmont","Egmont"," 503","Mobile poll/Bureau itinérant",N,N,"",1,29,"Balsom","","Barry","Conservative","Conservateur",N,N,4
+11003,"Egmont","Egmont"," 503","Mobile poll/Bureau itinérant",N,N,"",1,29,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+11003,"Egmont","Egmont"," 503","Mobile poll/Bureau itinérant",N,N,"",1,29,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+11003,"Egmont","Egmont"," 503","Mobile poll/Bureau itinérant",N,N,"",1,29,"Clark","","Alex","Green Party","Parti Vert",N,N,0
+11003,"Egmont","Egmont"," 503","Mobile poll/Bureau itinérant",N,N,"",1,29,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,8
+11003,"Egmont","Egmont"," 504","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Balsom","","Barry","Conservative","Conservateur",N,N,0
+11003,"Egmont","Egmont"," 504","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+11003,"Egmont","Egmont"," 504","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+11003,"Egmont","Egmont"," 504","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Clark","","Alex","Green Party","Parti Vert",N,N,0
+11003,"Egmont","Egmont"," 504","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,0
+11003,"Egmont","Egmont"," 505","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Balsom","","Barry","Conservative","Conservateur",N,N,0
+11003,"Egmont","Egmont"," 505","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+11003,"Egmont","Egmont"," 505","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+11003,"Egmont","Egmont"," 505","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Clark","","Alex","Green Party","Parti Vert",N,N,0
+11003,"Egmont","Egmont"," 505","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,0
+11003,"Egmont","Egmont"," 506","Mobile poll/Bureau itinérant",N,N,"",0,79,"Balsom","","Barry","Conservative","Conservateur",N,N,3
+11003,"Egmont","Egmont"," 506","Mobile poll/Bureau itinérant",N,N,"",0,79,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+11003,"Egmont","Egmont"," 506","Mobile poll/Bureau itinérant",N,N,"",0,79,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+11003,"Egmont","Egmont"," 506","Mobile poll/Bureau itinérant",N,N,"",0,79,"Clark","","Alex","Green Party","Parti Vert",N,N,0
+11003,"Egmont","Egmont"," 506","Mobile poll/Bureau itinérant",N,N,"",0,79,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,16
+11003,"Egmont","Egmont"," 507","Mobile poll/Bureau itinérant",N,N,"",0,57,"Balsom","","Barry","Conservative","Conservateur",N,N,8
+11003,"Egmont","Egmont"," 507","Mobile poll/Bureau itinérant",N,N,"",0,57,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+11003,"Egmont","Egmont"," 507","Mobile poll/Bureau itinérant",N,N,"",0,57,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+11003,"Egmont","Egmont"," 507","Mobile poll/Bureau itinérant",N,N,"",0,57,"Clark","","Alex","Green Party","Parti Vert",N,N,2
+11003,"Egmont","Egmont"," 507","Mobile poll/Bureau itinérant",N,N,"",0,57,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,17
+11003,"Egmont","Egmont"," 508","Mobile poll/Bureau itinérant",N,N,"",1,66,"Balsom","","Barry","Conservative","Conservateur",N,N,9
+11003,"Egmont","Egmont"," 508","Mobile poll/Bureau itinérant",N,N,"",1,66,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,4
+11003,"Egmont","Egmont"," 508","Mobile poll/Bureau itinérant",N,N,"",1,66,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+11003,"Egmont","Egmont"," 508","Mobile poll/Bureau itinérant",N,N,"",1,66,"Clark","","Alex","Green Party","Parti Vert",N,N,3
+11003,"Egmont","Egmont"," 508","Mobile poll/Bureau itinérant",N,N,"",1,66,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,17
+11003,"Egmont","Egmont"," 509","Mobile poll/Bureau itinérant",N,N,"",1,88,"Balsom","","Barry","Conservative","Conservateur",N,N,19
+11003,"Egmont","Egmont"," 509","Mobile poll/Bureau itinérant",N,N,"",1,88,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+11003,"Egmont","Egmont"," 509","Mobile poll/Bureau itinérant",N,N,"",1,88,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+11003,"Egmont","Egmont"," 509","Mobile poll/Bureau itinérant",N,N,"",1,88,"Clark","","Alex","Green Party","Parti Vert",N,N,6
+11003,"Egmont","Egmont"," 509","Mobile poll/Bureau itinérant",N,N,"",1,88,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,31
+11003,"Egmont","Egmont"," 510","Mobile poll/Bureau itinérant",N,N,"",0,29,"Balsom","","Barry","Conservative","Conservateur",N,N,4
+11003,"Egmont","Egmont"," 510","Mobile poll/Bureau itinérant",N,N,"",0,29,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+11003,"Egmont","Egmont"," 510","Mobile poll/Bureau itinérant",N,N,"",0,29,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+11003,"Egmont","Egmont"," 510","Mobile poll/Bureau itinérant",N,N,"",0,29,"Clark","","Alex","Green Party","Parti Vert",N,N,0
+11003,"Egmont","Egmont"," 510","Mobile poll/Bureau itinérant",N,N,"",0,29,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,17
+11003,"Egmont","Egmont"," 511","Mobile poll/Bureau itinérant",N,N,"",0,40,"Balsom","","Barry","Conservative","Conservateur",N,N,15
+11003,"Egmont","Egmont"," 511","Mobile poll/Bureau itinérant",N,N,"",0,40,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+11003,"Egmont","Egmont"," 511","Mobile poll/Bureau itinérant",N,N,"",0,40,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+11003,"Egmont","Egmont"," 511","Mobile poll/Bureau itinérant",N,N,"",0,40,"Clark","","Alex","Green Party","Parti Vert",N,N,1
+11003,"Egmont","Egmont"," 511","Mobile poll/Bureau itinérant",N,N,"",0,40,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,19
+11003,"Egmont","Egmont"," 600","Tignish",N,N,"",15,0,"Balsom","","Barry","Conservative","Conservateur",N,N,327
+11003,"Egmont","Egmont"," 600","Tignish",N,N,"",15,0,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,30
+11003,"Egmont","Egmont"," 600","Tignish",N,N,"",15,0,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+11003,"Egmont","Egmont"," 600","Tignish",N,N,"",15,0,"Clark","","Alex","Green Party","Parti Vert",N,N,19
+11003,"Egmont","Egmont"," 600","Tignish",N,N,"",15,0,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,559
+11003,"Egmont","Egmont"," 601","Alberton",N,N,"",5,0,"Balsom","","Barry","Conservative","Conservateur",N,N,397
+11003,"Egmont","Egmont"," 601","Alberton",N,N,"",5,0,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,37
+11003,"Egmont","Egmont"," 601","Alberton",N,N,"",5,0,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+11003,"Egmont","Egmont"," 601","Alberton",N,N,"",5,0,"Clark","","Alex","Green Party","Parti Vert",N,N,37
+11003,"Egmont","Egmont"," 601","Alberton",N,N,"",5,0,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,467
+11003,"Egmont","Egmont"," 602","O'Leary",N,N,"",21,0,"Balsom","","Barry","Conservative","Conservateur",N,N,337
+11003,"Egmont","Egmont"," 602","O'Leary",N,N,"",21,0,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,51
+11003,"Egmont","Egmont"," 602","O'Leary",N,N,"",21,0,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+11003,"Egmont","Egmont"," 602","O'Leary",N,N,"",21,0,"Clark","","Alex","Green Party","Parti Vert",N,N,34
+11003,"Egmont","Egmont"," 602","O'Leary",N,N,"",21,0,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,364
+11003,"Egmont","Egmont"," 603","Tyne Valley",N,N,"",4,0,"Balsom","","Barry","Conservative","Conservateur",N,N,130
+11003,"Egmont","Egmont"," 603","Tyne Valley",N,N,"",4,0,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,18
+11003,"Egmont","Egmont"," 603","Tyne Valley",N,N,"",4,0,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+11003,"Egmont","Egmont"," 603","Tyne Valley",N,N,"",4,0,"Clark","","Alex","Green Party","Parti Vert",N,N,11
+11003,"Egmont","Egmont"," 603","Tyne Valley",N,N,"",4,0,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,221
+11003,"Egmont","Egmont"," 604","Wellington",N,N,"",12,0,"Balsom","","Barry","Conservative","Conservateur",N,N,161
+11003,"Egmont","Egmont"," 604","Wellington",N,N,"",12,0,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,28
+11003,"Egmont","Egmont"," 604","Wellington",N,N,"",12,0,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+11003,"Egmont","Egmont"," 604","Wellington",N,N,"",12,0,"Clark","","Alex","Green Party","Parti Vert",N,N,57
+11003,"Egmont","Egmont"," 604","Wellington",N,N,"",12,0,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,317
+11003,"Egmont","Egmont"," 605","Miscouche",N,N,"",6,0,"Balsom","","Barry","Conservative","Conservateur",N,N,175
+11003,"Egmont","Egmont"," 605","Miscouche",N,N,"",6,0,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,24
+11003,"Egmont","Egmont"," 605","Miscouche",N,N,"",6,0,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+11003,"Egmont","Egmont"," 605","Miscouche",N,N,"",6,0,"Clark","","Alex","Green Party","Parti Vert",N,N,64
+11003,"Egmont","Egmont"," 605","Miscouche",N,N,"",6,0,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,294
+11003,"Egmont","Egmont"," 606","Summerside",N,N,"",14,0,"Balsom","","Barry","Conservative","Conservateur",N,N,176
+11003,"Egmont","Egmont"," 606","Summerside",N,N,"",14,0,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,25
+11003,"Egmont","Egmont"," 606","Summerside",N,N,"",14,0,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+11003,"Egmont","Egmont"," 606","Summerside",N,N,"",14,0,"Clark","","Alex","Green Party","Parti Vert",N,N,53
+11003,"Egmont","Egmont"," 606","Summerside",N,N,"",14,0,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,279
+11003,"Egmont","Egmont"," 607","Summerside",N,N,"",6,0,"Balsom","","Barry","Conservative","Conservateur",N,N,243
+11003,"Egmont","Egmont"," 607","Summerside",N,N,"",6,0,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,26
+11003,"Egmont","Egmont"," 607","Summerside",N,N,"",6,0,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+11003,"Egmont","Egmont"," 607","Summerside",N,N,"",6,0,"Clark","","Alex","Green Party","Parti Vert",N,N,83
+11003,"Egmont","Egmont"," 607","Summerside",N,N,"",6,0,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,383
+11003,"Egmont","Egmont"," 608","Summerside",N,N,"",15,0,"Balsom","","Barry","Conservative","Conservateur",N,N,140
+11003,"Egmont","Egmont"," 608","Summerside",N,N,"",15,0,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,32
+11003,"Egmont","Egmont"," 608","Summerside",N,N,"",15,0,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+11003,"Egmont","Egmont"," 608","Summerside",N,N,"",15,0,"Clark","","Alex","Green Party","Parti Vert",N,N,78
+11003,"Egmont","Egmont"," 608","Summerside",N,N,"",15,0,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,264
+11003,"Egmont","Egmont"," 609","Summerside",N,N,"",7,0,"Balsom","","Barry","Conservative","Conservateur",N,N,213
+11003,"Egmont","Egmont"," 609","Summerside",N,N,"",7,0,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,18
+11003,"Egmont","Egmont"," 609","Summerside",N,N,"",7,0,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+11003,"Egmont","Egmont"," 609","Summerside",N,N,"",7,0,"Clark","","Alex","Green Party","Parti Vert",N,N,60
+11003,"Egmont","Egmont"," 609","Summerside",N,N,"",7,0,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,305
+11003,"Egmont","Egmont"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,36,"Balsom","","Barry","Conservative","Conservateur",N,N,38
+11003,"Egmont","Egmont"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,36,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,4
+11003,"Egmont","Egmont"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,36,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+11003,"Egmont","Egmont"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,36,"Clark","","Alex","Green Party","Parti Vert",N,N,10
+11003,"Egmont","Egmont"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,36,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,50
+11003,"Egmont","Egmont"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",8,0,"Balsom","","Barry","Conservative","Conservateur",N,N,136
+11003,"Egmont","Egmont"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",8,0,"Biggar","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,10
+11003,"Egmont","Egmont"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",8,0,"Bradshaw","","Lisa","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+11003,"Egmont","Egmont"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",8,0,"Clark","","Alex","Green Party","Parti Vert",N,N,34
+11003,"Egmont","Egmont"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",8,0,"Morrissey","","Bobby","Liberal","Libéral",Y,Y,238

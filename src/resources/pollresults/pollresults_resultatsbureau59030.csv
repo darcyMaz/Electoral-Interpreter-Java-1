@@ -1,0 +1,905 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 1","Surrey",N,N,"",0,521,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,103
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 1","Surrey",N,N,"",0,521,"Hogg","","Gordie","Liberal","Libéral",N,N,122
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 1","Surrey",N,N,"",0,521,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,3
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 1","Surrey",N,N,"",0,521,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 2","Surrey",N,N,"",4,586,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,127
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 2","Surrey",N,N,"",4,586,"Hogg","","Gordie","Liberal","Libéral",N,N,129
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 2","Surrey",N,N,"",4,586,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,11
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 2","Surrey",N,N,"",4,586,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 3","Surrey",N,N,"",2,615,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,77
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 3","Surrey",N,N,"",2,615,"Hogg","","Gordie","Liberal","Libéral",N,N,191
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 3","Surrey",N,N,"",2,615,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 3","Surrey",N,N,"",2,615,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 4","Surrey",N,N,"",0,443,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,121
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 4","Surrey",N,N,"",0,443,"Hogg","","Gordie","Liberal","Libéral",N,N,208
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 4","Surrey",N,N,"",0,443,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,11
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 4","Surrey",N,N,"",0,443,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 5","Surrey",N,N,"4",0,471,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 5","Surrey",N,N,"4",0,471,"Hogg","","Gordie","Liberal","Libéral",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 5","Surrey",N,N,"4",0,471,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 5","Surrey",N,N,"4",0,471,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 6","Surrey",N,N,"",1,427,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,62
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 6","Surrey",N,N,"",1,427,"Hogg","","Gordie","Liberal","Libéral",N,N,89
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 6","Surrey",N,N,"",1,427,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,7
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 6","Surrey",N,N,"",1,427,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 7","Surrey",N,N,"",1,758,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,55
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 7","Surrey",N,N,"",1,758,"Hogg","","Gordie","Liberal","Libéral",N,N,130
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 7","Surrey",N,N,"",1,758,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 7","Surrey",N,N,"",1,758,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 8","Surrey",N,N,"",0,402,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,83
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 8","Surrey",N,N,"",0,402,"Hogg","","Gordie","Liberal","Libéral",N,N,55
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 8","Surrey",N,N,"",0,402,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,6
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 8","Surrey",N,N,"",0,402,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 9","Surrey",N,N,"",1,868,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,88
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 9","Surrey",N,N,"",1,868,"Hogg","","Gordie","Liberal","Libéral",N,N,103
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 9","Surrey",N,N,"",1,868,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,11
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 9","Surrey",N,N,"",1,868,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 10","Surrey",N,N,"",3,630,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,107
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 10","Surrey",N,N,"",3,630,"Hogg","","Gordie","Liberal","Libéral",N,N,95
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 10","Surrey",N,N,"",3,630,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,12
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 10","Surrey",N,N,"",3,630,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 11","Surrey",N,N,"",0,353,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,77
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 11","Surrey",N,N,"",0,353,"Hogg","","Gordie","Liberal","Libéral",N,N,30
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 11","Surrey",N,N,"",0,353,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,10
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 11","Surrey",N,N,"",0,353,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 12","Surrey",N,N,"",1,664,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,111
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 12","Surrey",N,N,"",1,664,"Hogg","","Gordie","Liberal","Libéral",N,N,65
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 12","Surrey",N,N,"",1,664,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,7
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 12","Surrey",N,N,"",1,664,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 13","Surrey",N,N,"",4,580,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,105
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 13","Surrey",N,N,"",4,580,"Hogg","","Gordie","Liberal","Libéral",N,N,113
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 13","Surrey",N,N,"",4,580,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,7
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 13","Surrey",N,N,"",4,580,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 14","Surrey",N,N,"",0,488,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,74
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 14","Surrey",N,N,"",0,488,"Hogg","","Gordie","Liberal","Libéral",N,N,60
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 14","Surrey",N,N,"",0,488,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,3
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 14","Surrey",N,N,"",0,488,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 15","Surrey",N,N,"",2,560,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,86
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 15","Surrey",N,N,"",2,560,"Hogg","","Gordie","Liberal","Libéral",N,N,83
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 15","Surrey",N,N,"",2,560,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 15","Surrey",N,N,"",2,560,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 16","Surrey",N,N,"",0,408,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,86
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 16","Surrey",N,N,"",0,408,"Hogg","","Gordie","Liberal","Libéral",N,N,76
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 16","Surrey",N,N,"",0,408,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,4
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 16","Surrey",N,N,"",0,408,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 17","Surrey",N,N,"",0,454,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,88
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 17","Surrey",N,N,"",0,454,"Hogg","","Gordie","Liberal","Libéral",N,N,52
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 17","Surrey",N,N,"",0,454,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,7
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 17","Surrey",N,N,"",0,454,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 18","Surrey",N,N,"",2,415,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,65
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 18","Surrey",N,N,"",2,415,"Hogg","","Gordie","Liberal","Libéral",N,N,86
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 18","Surrey",N,N,"",2,415,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,6
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 18","Surrey",N,N,"",2,415,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 19","Surrey",N,N,"",0,444,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,90
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 19","Surrey",N,N,"",0,444,"Hogg","","Gordie","Liberal","Libéral",N,N,87
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 19","Surrey",N,N,"",0,444,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,2
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 19","Surrey",N,N,"",0,444,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 20","Surrey",N,N,"",2,358,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,70
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 20","Surrey",N,N,"",2,358,"Hogg","","Gordie","Liberal","Libéral",N,N,61
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 20","Surrey",N,N,"",2,358,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,2
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 20","Surrey",N,N,"",2,358,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 21","Surrey",N,N,"",0,309,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,65
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 21","Surrey",N,N,"",0,309,"Hogg","","Gordie","Liberal","Libéral",N,N,60
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 21","Surrey",N,N,"",0,309,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,4
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 21","Surrey",N,N,"",0,309,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 22","Surrey",N,N,"",1,348,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,53
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 22","Surrey",N,N,"",1,348,"Hogg","","Gordie","Liberal","Libéral",N,N,60
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 22","Surrey",N,N,"",1,348,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,11
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 22","Surrey",N,N,"",1,348,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 23","Surrey",N,N,"",0,391,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,84
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 23","Surrey",N,N,"",0,391,"Hogg","","Gordie","Liberal","Libéral",N,N,89
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 23","Surrey",N,N,"",0,391,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,7
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 23","Surrey",N,N,"",0,391,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 24","Surrey",N,N,"",1,444,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,72
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 24","Surrey",N,N,"",1,444,"Hogg","","Gordie","Liberal","Libéral",N,N,71
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 24","Surrey",N,N,"",1,444,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,6
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 24","Surrey",N,N,"",1,444,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 25","Surrey",N,N,"",0,407,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,74
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 25","Surrey",N,N,"",0,407,"Hogg","","Gordie","Liberal","Libéral",N,N,76
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 25","Surrey",N,N,"",0,407,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,8
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 25","Surrey",N,N,"",0,407,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 26","Surrey",N,N,"",0,348,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,69
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 26","Surrey",N,N,"",0,348,"Hogg","","Gordie","Liberal","Libéral",N,N,64
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 26","Surrey",N,N,"",0,348,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,9
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 26","Surrey",N,N,"",0,348,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 27","Surrey",N,N,"",0,317,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,58
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 27","Surrey",N,N,"",0,317,"Hogg","","Gordie","Liberal","Libéral",N,N,38
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 27","Surrey",N,N,"",0,317,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,4
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 27","Surrey",N,N,"",0,317,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 28","Surrey",N,N,"",0,383,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,92
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 28","Surrey",N,N,"",0,383,"Hogg","","Gordie","Liberal","Libéral",N,N,94
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 28","Surrey",N,N,"",0,383,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,3
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 28","Surrey",N,N,"",0,383,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 29","Surrey",N,N,"",1,358,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,74
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 29","Surrey",N,N,"",1,358,"Hogg","","Gordie","Liberal","Libéral",N,N,58
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 29","Surrey",N,N,"",1,358,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 29","Surrey",N,N,"",1,358,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 30","Surrey",N,N,"",0,379,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,43
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 30","Surrey",N,N,"",0,379,"Hogg","","Gordie","Liberal","Libéral",N,N,49
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 30","Surrey",N,N,"",0,379,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 30","Surrey",N,N,"",0,379,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 31","Surrey",N,N,"",0,598,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,91
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 31","Surrey",N,N,"",0,598,"Hogg","","Gordie","Liberal","Libéral",N,N,68
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 31","Surrey",N,N,"",0,598,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 31","Surrey",N,N,"",0,598,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 32","Surrey",N,N,"",1,427,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,45
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 32","Surrey",N,N,"",1,427,"Hogg","","Gordie","Liberal","Libéral",N,N,75
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 32","Surrey",N,N,"",1,427,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,4
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 32","Surrey",N,N,"",1,427,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 33","Surrey",N,N,"",0,437,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,63
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 33","Surrey",N,N,"",0,437,"Hogg","","Gordie","Liberal","Libéral",N,N,60
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 33","Surrey",N,N,"",0,437,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 33","Surrey",N,N,"",0,437,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 34","Surrey",N,N,"",0,382,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,68
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 34","Surrey",N,N,"",0,382,"Hogg","","Gordie","Liberal","Libéral",N,N,47
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 34","Surrey",N,N,"",0,382,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,7
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 34","Surrey",N,N,"",0,382,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 35","Surrey",N,N,"",0,618,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,75
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 35","Surrey",N,N,"",0,618,"Hogg","","Gordie","Liberal","Libéral",N,N,81
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 35","Surrey",N,N,"",0,618,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 35","Surrey",N,N,"",0,618,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 36","Surrey",N,N,"",1,401,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,95
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 36","Surrey",N,N,"",1,401,"Hogg","","Gordie","Liberal","Libéral",N,N,40
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 36","Surrey",N,N,"",1,401,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,10
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 36","Surrey",N,N,"",1,401,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 37","Surrey",N,N,"",1,387,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,87
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 37","Surrey",N,N,"",1,387,"Hogg","","Gordie","Liberal","Libéral",N,N,58
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 37","Surrey",N,N,"",1,387,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 37","Surrey",N,N,"",1,387,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 38","Surrey",N,N,"",1,599,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,122
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 38","Surrey",N,N,"",1,599,"Hogg","","Gordie","Liberal","Libéral",N,N,99
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 38","Surrey",N,N,"",1,599,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,15
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 38","Surrey",N,N,"",1,599,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 39","Surrey",N,N,"",0,508,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,74
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 39","Surrey",N,N,"",0,508,"Hogg","","Gordie","Liberal","Libéral",N,N,55
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 39","Surrey",N,N,"",0,508,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,10
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 39","Surrey",N,N,"",0,508,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 40","Surrey",N,N,"",0,362,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,73
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 40","Surrey",N,N,"",0,362,"Hogg","","Gordie","Liberal","Libéral",N,N,44
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 40","Surrey",N,N,"",0,362,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 40","Surrey",N,N,"",0,362,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 41","Surrey",N,N,"",0,419,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,57
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 41","Surrey",N,N,"",0,419,"Hogg","","Gordie","Liberal","Libéral",N,N,73
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 41","Surrey",N,N,"",0,419,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,6
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 41","Surrey",N,N,"",0,419,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 42","Surrey",N,N,"",1,486,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,127
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 42","Surrey",N,N,"",1,486,"Hogg","","Gordie","Liberal","Libéral",N,N,82
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 42","Surrey",N,N,"",1,486,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 42","Surrey",N,N,"",1,486,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 43","Surrey",N,N,"",0,459,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,70
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 43","Surrey",N,N,"",0,459,"Hogg","","Gordie","Liberal","Libéral",N,N,65
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 43","Surrey",N,N,"",0,459,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,7
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 43","Surrey",N,N,"",0,459,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 44","Surrey",N,N,"",1,421,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,71
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 44","Surrey",N,N,"",1,421,"Hogg","","Gordie","Liberal","Libéral",N,N,52
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 44","Surrey",N,N,"",1,421,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,3
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 44","Surrey",N,N,"",1,421,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 45","Surrey",N,N,"",1,415,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,85
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 45","Surrey",N,N,"",1,415,"Hogg","","Gordie","Liberal","Libéral",N,N,61
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 45","Surrey",N,N,"",1,415,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,2
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 45","Surrey",N,N,"",1,415,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 46","Surrey",N,N,"",0,465,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,58
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 46","Surrey",N,N,"",0,465,"Hogg","","Gordie","Liberal","Libéral",N,N,67
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 46","Surrey",N,N,"",0,465,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,3
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 46","Surrey",N,N,"",0,465,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 47","Surrey",N,N,"",0,502,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,69
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 47","Surrey",N,N,"",0,502,"Hogg","","Gordie","Liberal","Libéral",N,N,79
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 47","Surrey",N,N,"",0,502,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,4
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 47","Surrey",N,N,"",0,502,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 48","Surrey",N,N,"",0,438,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,70
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 48","Surrey",N,N,"",0,438,"Hogg","","Gordie","Liberal","Libéral",N,N,68
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 48","Surrey",N,N,"",0,438,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,2
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 48","Surrey",N,N,"",0,438,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 49","Surrey",N,N,"95",0,426,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 49","Surrey",N,N,"95",0,426,"Hogg","","Gordie","Liberal","Libéral",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 49","Surrey",N,N,"95",0,426,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 49","Surrey",N,N,"95",0,426,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 50","Surrey",N,N,"",2,461,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,48
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 50","Surrey",N,N,"",2,461,"Hogg","","Gordie","Liberal","Libéral",N,N,38
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 50","Surrey",N,N,"",2,461,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,1
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 50","Surrey",N,N,"",2,461,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 51","Surrey",N,N,"",0,641,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,73
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 51","Surrey",N,N,"",0,641,"Hogg","","Gordie","Liberal","Libéral",N,N,67
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 51","Surrey",N,N,"",0,641,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,4
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 51","Surrey",N,N,"",0,641,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 52","Surrey",N,N,"",0,557,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,58
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 52","Surrey",N,N,"",0,557,"Hogg","","Gordie","Liberal","Libéral",N,N,64
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 52","Surrey",N,N,"",0,557,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,6
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 52","Surrey",N,N,"",0,557,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 53","Surrey",N,N,"",0,549,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,72
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 53","Surrey",N,N,"",0,549,"Hogg","","Gordie","Liberal","Libéral",N,N,77
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 53","Surrey",N,N,"",0,549,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,7
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 53","Surrey",N,N,"",0,549,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 54","Surrey",N,N,"",0,798,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,70
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 54","Surrey",N,N,"",0,798,"Hogg","","Gordie","Liberal","Libéral",N,N,129
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 54","Surrey",N,N,"",0,798,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 54","Surrey",N,N,"",0,798,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 55","Surrey",N,N,"",1,474,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,69
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 55","Surrey",N,N,"",1,474,"Hogg","","Gordie","Liberal","Libéral",N,N,68
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 55","Surrey",N,N,"",1,474,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,3
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 55","Surrey",N,N,"",1,474,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 56","Surrey",N,N,"",0,580,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,63
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 56","Surrey",N,N,"",0,580,"Hogg","","Gordie","Liberal","Libéral",N,N,59
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 56","Surrey",N,N,"",0,580,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 56","Surrey",N,N,"",0,580,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 57","Surrey",N,N,"",4,496,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,61
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 57","Surrey",N,N,"",4,496,"Hogg","","Gordie","Liberal","Libéral",N,N,63
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 57","Surrey",N,N,"",4,496,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,10
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 57","Surrey",N,N,"",4,496,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 58","Surrey",N,N,"",1,578,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,65
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 58","Surrey",N,N,"",1,578,"Hogg","","Gordie","Liberal","Libéral",N,N,60
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 58","Surrey",N,N,"",1,578,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,2
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 58","Surrey",N,N,"",1,578,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 59","Surrey",N,N,"",0,672,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,66
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 59","Surrey",N,N,"",0,672,"Hogg","","Gordie","Liberal","Libéral",N,N,65
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 59","Surrey",N,N,"",0,672,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,19
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 59","Surrey",N,N,"",0,672,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 60","Surrey",N,N,"",0,471,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,38
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 60","Surrey",N,N,"",0,471,"Hogg","","Gordie","Liberal","Libéral",N,N,32
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 60","Surrey",N,N,"",0,471,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,1
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 60","Surrey",N,N,"",0,471,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 61","Surrey",N,N,"",1,533,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,74
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 61","Surrey",N,N,"",1,533,"Hogg","","Gordie","Liberal","Libéral",N,N,76
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 61","Surrey",N,N,"",1,533,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,10
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 61","Surrey",N,N,"",1,533,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 62","Surrey",N,N,"",1,463,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,66
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 62","Surrey",N,N,"",1,463,"Hogg","","Gordie","Liberal","Libéral",N,N,47
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 62","Surrey",N,N,"",1,463,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,3
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 62","Surrey",N,N,"",1,463,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 63","Surrey",N,N,"",0,523,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,101
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 63","Surrey",N,N,"",0,523,"Hogg","","Gordie","Liberal","Libéral",N,N,53
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 63","Surrey",N,N,"",0,523,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,8
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 63","Surrey",N,N,"",0,523,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 64","Surrey",N,N,"",0,500,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,62
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 64","Surrey",N,N,"",0,500,"Hogg","","Gordie","Liberal","Libéral",N,N,36
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 64","Surrey",N,N,"",0,500,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,2
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 64","Surrey",N,N,"",0,500,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 65","Surrey",N,N,"",1,566,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,88
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 65","Surrey",N,N,"",1,566,"Hogg","","Gordie","Liberal","Libéral",N,N,78
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 65","Surrey",N,N,"",1,566,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,9
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 65","Surrey",N,N,"",1,566,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 66","Surrey",N,N,"",0,436,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,38
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 66","Surrey",N,N,"",0,436,"Hogg","","Gordie","Liberal","Libéral",N,N,37
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 66","Surrey",N,N,"",0,436,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,4
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 66","Surrey",N,N,"",0,436,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 67","Surrey",N,N,"",0,476,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,42
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 67","Surrey",N,N,"",0,476,"Hogg","","Gordie","Liberal","Libéral",N,N,60
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 67","Surrey",N,N,"",0,476,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,6
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 67","Surrey",N,N,"",0,476,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 68","Surrey",N,N,"",0,514,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,33
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 68","Surrey",N,N,"",0,514,"Hogg","","Gordie","Liberal","Libéral",N,N,44
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 68","Surrey",N,N,"",0,514,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,6
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 68","Surrey",N,N,"",0,514,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 69","Surrey",N,N,"",1,511,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,60
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 69","Surrey",N,N,"",1,511,"Hogg","","Gordie","Liberal","Libéral",N,N,104
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 69","Surrey",N,N,"",1,511,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,9
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 69","Surrey",N,N,"",1,511,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 70","Surrey",N,N,"",5,705,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,86
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 70","Surrey",N,N,"",5,705,"Hogg","","Gordie","Liberal","Libéral",N,N,110
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 70","Surrey",N,N,"",5,705,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,8
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 70","Surrey",N,N,"",5,705,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 71","Surrey",N,N,"",0,519,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,39
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 71","Surrey",N,N,"",0,519,"Hogg","","Gordie","Liberal","Libéral",N,N,106
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 71","Surrey",N,N,"",0,519,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 71","Surrey",N,N,"",0,519,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 72","Surrey",N,N,"",0,609,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,134
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 72","Surrey",N,N,"",0,609,"Hogg","","Gordie","Liberal","Libéral",N,N,60
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 72","Surrey",N,N,"",0,609,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,4
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 72","Surrey",N,N,"",0,609,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 73","Surrey",N,N,"",1,554,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,66
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 73","Surrey",N,N,"",1,554,"Hogg","","Gordie","Liberal","Libéral",N,N,83
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 73","Surrey",N,N,"",1,554,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,7
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 73","Surrey",N,N,"",1,554,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 74","Surrey",N,N,"",0,648,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,101
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 74","Surrey",N,N,"",0,648,"Hogg","","Gordie","Liberal","Libéral",N,N,90
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 74","Surrey",N,N,"",0,648,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,2
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 74","Surrey",N,N,"",0,648,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 75","Surrey",N,N,"",1,663,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,111
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 75","Surrey",N,N,"",1,663,"Hogg","","Gordie","Liberal","Libéral",N,N,72
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 75","Surrey",N,N,"",1,663,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,11
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 75","Surrey",N,N,"",1,663,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 76","Surrey",N,N,"",1,377,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,58
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 76","Surrey",N,N,"",1,377,"Hogg","","Gordie","Liberal","Libéral",N,N,34
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 76","Surrey",N,N,"",1,377,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,10
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 76","Surrey",N,N,"",1,377,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 77","Surrey",N,N,"",0,511,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,70
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 77","Surrey",N,N,"",0,511,"Hogg","","Gordie","Liberal","Libéral",N,N,56
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 77","Surrey",N,N,"",0,511,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,2
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 77","Surrey",N,N,"",0,511,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 78","Surrey",N,N,"",1,515,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,56
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 78","Surrey",N,N,"",1,515,"Hogg","","Gordie","Liberal","Libéral",N,N,77
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 78","Surrey",N,N,"",1,515,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,13
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 78","Surrey",N,N,"",1,515,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 79","Surrey",N,N,"",0,526,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,46
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 79","Surrey",N,N,"",0,526,"Hogg","","Gordie","Liberal","Libéral",N,N,59
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 79","Surrey",N,N,"",0,526,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 79","Surrey",N,N,"",0,526,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 80","Surrey",N,N,"",0,402,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,31
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 80","Surrey",N,N,"",0,402,"Hogg","","Gordie","Liberal","Libéral",N,N,29
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 80","Surrey",N,N,"",0,402,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,3
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 80","Surrey",N,N,"",0,402,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 81","Surrey",N,N,"",1,453,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,48
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 81","Surrey",N,N,"",1,453,"Hogg","","Gordie","Liberal","Libéral",N,N,38
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 81","Surrey",N,N,"",1,453,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,10
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 81","Surrey",N,N,"",1,453,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 82","Surrey",N,N,"",2,406,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,45
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 82","Surrey",N,N,"",2,406,"Hogg","","Gordie","Liberal","Libéral",N,N,85
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 82","Surrey",N,N,"",2,406,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,11
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 82","Surrey",N,N,"",2,406,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 83","Surrey",N,N,"",0,525,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,57
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 83","Surrey",N,N,"",0,525,"Hogg","","Gordie","Liberal","Libéral",N,N,76
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 83","Surrey",N,N,"",0,525,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,9
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 83","Surrey",N,N,"",0,525,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 84","Surrey",N,N,"",4,503,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,71
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 84","Surrey",N,N,"",4,503,"Hogg","","Gordie","Liberal","Libéral",N,N,84
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 84","Surrey",N,N,"",4,503,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,4
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 84","Surrey",N,N,"",4,503,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 85","Surrey",N,N,"",1,522,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,51
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 85","Surrey",N,N,"",1,522,"Hogg","","Gordie","Liberal","Libéral",N,N,81
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 85","Surrey",N,N,"",1,522,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,3
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 85","Surrey",N,N,"",1,522,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 86","Surrey",N,N,"",0,501,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,61
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 86","Surrey",N,N,"",0,501,"Hogg","","Gordie","Liberal","Libéral",N,N,90
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 86","Surrey",N,N,"",0,501,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 86","Surrey",N,N,"",0,501,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 87","Surrey",N,N,"",0,368,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,37
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 87","Surrey",N,N,"",0,368,"Hogg","","Gordie","Liberal","Libéral",N,N,47
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 87","Surrey",N,N,"",0,368,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 87","Surrey",N,N,"",0,368,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 88","Surrey",N,N,"",0,402,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,51
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 88","Surrey",N,N,"",0,402,"Hogg","","Gordie","Liberal","Libéral",N,N,51
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 88","Surrey",N,N,"",0,402,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 88","Surrey",N,N,"",0,402,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 89","Surrey",N,N,"",1,713,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,72
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 89","Surrey",N,N,"",1,713,"Hogg","","Gordie","Liberal","Libéral",N,N,87
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 89","Surrey",N,N,"",1,713,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,4
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 89","Surrey",N,N,"",1,713,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 90","Surrey",N,N,"",0,659,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,64
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 90","Surrey",N,N,"",0,659,"Hogg","","Gordie","Liberal","Libéral",N,N,71
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 90","Surrey",N,N,"",0,659,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,7
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 90","Surrey",N,N,"",0,659,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 91","Surrey",N,N,"",1,532,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,41
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 91","Surrey",N,N,"",1,532,"Hogg","","Gordie","Liberal","Libéral",N,N,50
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 91","Surrey",N,N,"",1,532,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,3
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 91","Surrey",N,N,"",1,532,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 92","Surrey",N,N,"",1,408,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,29
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 92","Surrey",N,N,"",1,408,"Hogg","","Gordie","Liberal","Libéral",N,N,52
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 92","Surrey",N,N,"",1,408,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,4
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 92","Surrey",N,N,"",1,408,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 93A","Surrey",N,N,"",1,680,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,80
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 93A","Surrey",N,N,"",1,680,"Hogg","","Gordie","Liberal","Libéral",N,N,82
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 93A","Surrey",N,N,"",1,680,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 93A","Surrey",N,N,"",1,680,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 93B","Surrey",N,N,"",1,546,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,74
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 93B","Surrey",N,N,"",1,546,"Hogg","","Gordie","Liberal","Libéral",N,N,73
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 93B","Surrey",N,N,"",1,546,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,7
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 93B","Surrey",N,N,"",1,546,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 94","Surrey",N,N,"",0,789,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,86
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 94","Surrey",N,N,"",0,789,"Hogg","","Gordie","Liberal","Libéral",N,N,91
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 94","Surrey",N,N,"",0,789,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,9
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 94","Surrey",N,N,"",0,789,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 95","Surrey",N,N,"",0,463,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,139
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 95","Surrey",N,N,"",0,463,"Hogg","","Gordie","Liberal","Libéral",N,N,113
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 95","Surrey",N,N,"",0,463,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 95","Surrey",N,N,"",0,463,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 96","Surrey",N,N,"",2,651,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,80
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 96","Surrey",N,N,"",2,651,"Hogg","","Gordie","Liberal","Libéral",N,N,78
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 96","Surrey",N,N,"",2,651,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,9
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 96","Surrey",N,N,"",2,651,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 97","Surrey",N,N,"",0,377,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,60
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 97","Surrey",N,N,"",0,377,"Hogg","","Gordie","Liberal","Libéral",N,N,33
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 97","Surrey",N,N,"",0,377,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,4
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 97","Surrey",N,N,"",0,377,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 98","Surrey",N,N,"",0,837,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,119
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 98","Surrey",N,N,"",0,837,"Hogg","","Gordie","Liberal","Libéral",N,N,108
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 98","Surrey",N,N,"",0,837,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,9
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 98","Surrey",N,N,"",0,837,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 99","Surrey",N,N,"",1,446,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,74
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 99","Surrey",N,N,"",1,446,"Hogg","","Gordie","Liberal","Libéral",N,N,59
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 99","Surrey",N,N,"",1,446,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,6
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 99","Surrey",N,N,"",1,446,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 100","Surrey",N,N,"",2,425,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,70
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 100","Surrey",N,N,"",2,425,"Hogg","","Gordie","Liberal","Libéral",N,N,44
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 100","Surrey",N,N,"",2,425,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,10
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 100","Surrey",N,N,"",2,425,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 101","Surrey",N,N,"",1,544,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,97
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 101","Surrey",N,N,"",1,544,"Hogg","","Gordie","Liberal","Libéral",N,N,105
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 101","Surrey",N,N,"",1,544,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,2
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 101","Surrey",N,N,"",1,544,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 102","Surrey",N,N,"",0,446,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,63
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 102","Surrey",N,N,"",0,446,"Hogg","","Gordie","Liberal","Libéral",N,N,60
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 102","Surrey",N,N,"",0,446,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,7
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 102","Surrey",N,N,"",0,446,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 103","Surrey",N,N,"",0,470,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,74
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 103","Surrey",N,N,"",0,470,"Hogg","","Gordie","Liberal","Libéral",N,N,39
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 103","Surrey",N,N,"",0,470,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,7
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 103","Surrey",N,N,"",0,470,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 104","White Rock",N,N,"",0,496,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,80
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 104","White Rock",N,N,"",0,496,"Hogg","","Gordie","Liberal","Libéral",N,N,73
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 104","White Rock",N,N,"",0,496,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,4
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 104","White Rock",N,N,"",0,496,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 105","Surrey",N,N,"",1,428,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,71
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 105","Surrey",N,N,"",1,428,"Hogg","","Gordie","Liberal","Libéral",N,N,55
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 105","Surrey",N,N,"",1,428,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,8
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 105","Surrey",N,N,"",1,428,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 106","White Rock",N,N,"",1,471,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,91
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 106","White Rock",N,N,"",1,471,"Hogg","","Gordie","Liberal","Libéral",N,N,51
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 106","White Rock",N,N,"",1,471,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,4
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 106","White Rock",N,N,"",1,471,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 107","Surrey",N,N,"",1,425,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,61
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 107","Surrey",N,N,"",1,425,"Hogg","","Gordie","Liberal","Libéral",N,N,79
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 107","Surrey",N,N,"",1,425,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,4
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 107","Surrey",N,N,"",1,425,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 108","Surrey",N,N,"",0,581,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,87
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 108","Surrey",N,N,"",0,581,"Hogg","","Gordie","Liberal","Libéral",N,N,90
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 108","Surrey",N,N,"",0,581,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,10
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 108","Surrey",N,N,"",0,581,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 109","Surrey",N,N,"",0,406,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,62
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 109","Surrey",N,N,"",0,406,"Hogg","","Gordie","Liberal","Libéral",N,N,55
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 109","Surrey",N,N,"",0,406,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,9
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 109","Surrey",N,N,"",0,406,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 110","Surrey",N,N,"",0,557,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,42
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 110","Surrey",N,N,"",0,557,"Hogg","","Gordie","Liberal","Libéral",N,N,46
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 110","Surrey",N,N,"",0,557,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,10
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 110","Surrey",N,N,"",0,557,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 111","Surrey",N,N,"",1,473,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,66
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 111","Surrey",N,N,"",1,473,"Hogg","","Gordie","Liberal","Libéral",N,N,64
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 111","Surrey",N,N,"",1,473,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,4
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 111","Surrey",N,N,"",1,473,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 112","Surrey",N,N,"",1,382,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,43
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 112","Surrey",N,N,"",1,382,"Hogg","","Gordie","Liberal","Libéral",N,N,37
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 112","Surrey",N,N,"",1,382,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,9
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 112","Surrey",N,N,"",1,382,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 113","Surrey",N,N,"",0,364,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,76
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 113","Surrey",N,N,"",0,364,"Hogg","","Gordie","Liberal","Libéral",N,N,49
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 113","Surrey",N,N,"",0,364,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,8
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 113","Surrey",N,N,"",0,364,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 114","Surrey",N,N,"",1,424,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,65
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 114","Surrey",N,N,"",1,424,"Hogg","","Gordie","Liberal","Libéral",N,N,67
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 114","Surrey",N,N,"",1,424,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,7
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 114","Surrey",N,N,"",1,424,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 115","White Rock",N,N,"",0,433,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,61
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 115","White Rock",N,N,"",0,433,"Hogg","","Gordie","Liberal","Libéral",N,N,51
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 115","White Rock",N,N,"",0,433,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,10
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 115","White Rock",N,N,"",0,433,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 116","Surrey",N,N,"",2,362,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,29
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 116","Surrey",N,N,"",2,362,"Hogg","","Gordie","Liberal","Libéral",N,N,34
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 116","Surrey",N,N,"",2,362,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,4
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 116","Surrey",N,N,"",2,362,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 117","White Rock",N,N,"",2,639,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,53
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 117","White Rock",N,N,"",2,639,"Hogg","","Gordie","Liberal","Libéral",N,N,78
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 117","White Rock",N,N,"",2,639,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 117","White Rock",N,N,"",2,639,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 118","White Rock",N,N,"",3,538,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,28
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 118","White Rock",N,N,"",3,538,"Hogg","","Gordie","Liberal","Libéral",N,N,54
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 118","White Rock",N,N,"",3,538,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,13
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 118","White Rock",N,N,"",3,538,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 119","Surrey",N,N,"",0,415,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,24
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 119","Surrey",N,N,"",0,415,"Hogg","","Gordie","Liberal","Libéral",N,N,33
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 119","Surrey",N,N,"",0,415,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,6
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 119","Surrey",N,N,"",0,415,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 120","White Rock",N,N,"",0,588,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,38
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 120","White Rock",N,N,"",0,588,"Hogg","","Gordie","Liberal","Libéral",N,N,40
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 120","White Rock",N,N,"",0,588,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,4
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 120","White Rock",N,N,"",0,588,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 121","White Rock",N,N,"",1,646,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,56
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 121","White Rock",N,N,"",1,646,"Hogg","","Gordie","Liberal","Libéral",N,N,53
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 121","White Rock",N,N,"",1,646,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,3
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 121","White Rock",N,N,"",1,646,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 122","White Rock",N,N,"",0,400,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,39
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 122","White Rock",N,N,"",0,400,"Hogg","","Gordie","Liberal","Libéral",N,N,56
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 122","White Rock",N,N,"",0,400,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,8
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 122","White Rock",N,N,"",0,400,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 123","White Rock",N,N,"",1,480,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,43
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 123","White Rock",N,N,"",1,480,"Hogg","","Gordie","Liberal","Libéral",N,N,41
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 123","White Rock",N,N,"",1,480,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,7
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 123","White Rock",N,N,"",1,480,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 124","White Rock",N,N,"",0,424,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,44
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 124","White Rock",N,N,"",0,424,"Hogg","","Gordie","Liberal","Libéral",N,N,33
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 124","White Rock",N,N,"",0,424,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 124","White Rock",N,N,"",0,424,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 125","Surrey",N,N,"",2,563,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,48
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 125","Surrey",N,N,"",2,563,"Hogg","","Gordie","Liberal","Libéral",N,N,51
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 125","Surrey",N,N,"",2,563,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,4
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 125","Surrey",N,N,"",2,563,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 126","White Rock",N,N,"",0,402,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,29
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 126","White Rock",N,N,"",0,402,"Hogg","","Gordie","Liberal","Libéral",N,N,38
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 126","White Rock",N,N,"",0,402,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,11
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 126","White Rock",N,N,"",0,402,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 127","White Rock",N,N,"",1,461,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,39
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 127","White Rock",N,N,"",1,461,"Hogg","","Gordie","Liberal","Libéral",N,N,49
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 127","White Rock",N,N,"",1,461,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,7
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 127","White Rock",N,N,"",1,461,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 128","White Rock",N,N,"",0,361,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,17
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 128","White Rock",N,N,"",0,361,"Hogg","","Gordie","Liberal","Libéral",N,N,41
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 128","White Rock",N,N,"",0,361,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 128","White Rock",N,N,"",0,361,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 129","White Rock",N,N,"",2,472,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,50
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 129","White Rock",N,N,"",2,472,"Hogg","","Gordie","Liberal","Libéral",N,N,60
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 129","White Rock",N,N,"",2,472,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,2
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 129","White Rock",N,N,"",2,472,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 130","Surrey",N,N,"",4,533,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,56
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 130","Surrey",N,N,"",4,533,"Hogg","","Gordie","Liberal","Libéral",N,N,75
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 130","Surrey",N,N,"",4,533,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,10
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 130","Surrey",N,N,"",4,533,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 131","Surrey",N,N,"",0,507,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,61
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 131","Surrey",N,N,"",0,507,"Hogg","","Gordie","Liberal","Libéral",N,N,71
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 131","Surrey",N,N,"",0,507,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,3
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 131","Surrey",N,N,"",0,507,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 132","White Rock",N,N,"",0,441,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,61
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 132","White Rock",N,N,"",0,441,"Hogg","","Gordie","Liberal","Libéral",N,N,61
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 132","White Rock",N,N,"",0,441,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,6
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 132","White Rock",N,N,"",0,441,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 133","White Rock",N,N,"",0,445,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,38
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 133","White Rock",N,N,"",0,445,"Hogg","","Gordie","Liberal","Libéral",N,N,62
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 133","White Rock",N,N,"",0,445,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 133","White Rock",N,N,"",0,445,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 134","Surrey",N,N,"",1,638,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,87
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 134","Surrey",N,N,"",1,638,"Hogg","","Gordie","Liberal","Libéral",N,N,92
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 134","Surrey",N,N,"",1,638,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,3
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 134","Surrey",N,N,"",1,638,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 135","White Rock",N,N,"",0,427,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,42
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 135","White Rock",N,N,"",0,427,"Hogg","","Gordie","Liberal","Libéral",N,N,55
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 135","White Rock",N,N,"",0,427,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,10
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 135","White Rock",N,N,"",0,427,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 136","White Rock",N,N,"",2,463,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,74
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 136","White Rock",N,N,"",2,463,"Hogg","","Gordie","Liberal","Libéral",N,N,73
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 136","White Rock",N,N,"",2,463,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,14
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 136","White Rock",N,N,"",2,463,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 137","Surrey",N,N,"",0,370,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,48
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 137","Surrey",N,N,"",0,370,"Hogg","","Gordie","Liberal","Libéral",N,N,49
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 137","Surrey",N,N,"",0,370,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,8
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 137","Surrey",N,N,"",0,370,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 138","Surrey",N,N,"",0,390,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,37
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 138","Surrey",N,N,"",0,390,"Hogg","","Gordie","Liberal","Libéral",N,N,58
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 138","Surrey",N,N,"",0,390,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,6
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 138","Surrey",N,N,"",0,390,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 139","White Rock",N,N,"",0,448,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,64
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 139","White Rock",N,N,"",0,448,"Hogg","","Gordie","Liberal","Libéral",N,N,47
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 139","White Rock",N,N,"",0,448,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,4
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 139","White Rock",N,N,"",0,448,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 140","White Rock",N,N,"",0,392,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,32
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 140","White Rock",N,N,"",0,392,"Hogg","","Gordie","Liberal","Libéral",N,N,34
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 140","White Rock",N,N,"",0,392,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,8
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 140","White Rock",N,N,"",0,392,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 141","White Rock",N,N,"",0,423,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,35
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 141","White Rock",N,N,"",0,423,"Hogg","","Gordie","Liberal","Libéral",N,N,39
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 141","White Rock",N,N,"",0,423,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,6
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 141","White Rock",N,N,"",0,423,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 142","White Rock",N,N,"",1,420,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,70
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 142","White Rock",N,N,"",1,420,"Hogg","","Gordie","Liberal","Libéral",N,N,49
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 142","White Rock",N,N,"",1,420,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 142","White Rock",N,N,"",1,420,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 143","White Rock",N,N,"",1,439,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,65
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 143","White Rock",N,N,"",1,439,"Hogg","","Gordie","Liberal","Libéral",N,N,42
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 143","White Rock",N,N,"",1,439,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,9
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 143","White Rock",N,N,"",1,439,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 144","White Rock",N,N,"",0,406,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,57
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 144","White Rock",N,N,"",0,406,"Hogg","","Gordie","Liberal","Libéral",N,N,73
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 144","White Rock",N,N,"",0,406,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,10
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 144","White Rock",N,N,"",0,406,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 145","White Rock",N,N,"",0,450,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,67
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 145","White Rock",N,N,"",0,450,"Hogg","","Gordie","Liberal","Libéral",N,N,69
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 145","White Rock",N,N,"",0,450,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,4
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 145","White Rock",N,N,"",0,450,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 146","White Rock",N,N,"",2,384,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,42
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 146","White Rock",N,N,"",2,384,"Hogg","","Gordie","Liberal","Libéral",N,N,43
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 146","White Rock",N,N,"",2,384,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,6
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 146","White Rock",N,N,"",2,384,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 147","White Rock",N,N,"",0,402,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,43
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 147","White Rock",N,N,"",0,402,"Hogg","","Gordie","Liberal","Libéral",N,N,35
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 147","White Rock",N,N,"",0,402,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,14
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 147","White Rock",N,N,"",0,402,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 148","White Rock",N,N,"149",0,399,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 148","White Rock",N,N,"149",0,399,"Hogg","","Gordie","Liberal","Libéral",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 148","White Rock",N,N,"149",0,399,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 148","White Rock",N,N,"149",0,399,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 149","White Rock",N,N,"",3,351,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,96
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 149","White Rock",N,N,"",3,351,"Hogg","","Gordie","Liberal","Libéral",N,N,111
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 149","White Rock",N,N,"",3,351,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,6
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 149","White Rock",N,N,"",3,351,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 150","White Rock",N,N,"",0,460,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,27
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 150","White Rock",N,N,"",0,460,"Hogg","","Gordie","Liberal","Libéral",N,N,44
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 150","White Rock",N,N,"",0,460,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 150","White Rock",N,N,"",0,460,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 151","White Rock",N,N,"",1,359,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,38
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 151","White Rock",N,N,"",1,359,"Hogg","","Gordie","Liberal","Libéral",N,N,51
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 151","White Rock",N,N,"",1,359,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,4
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 151","White Rock",N,N,"",1,359,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 152","White Rock",N,N,"",0,415,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,36
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 152","White Rock",N,N,"",0,415,"Hogg","","Gordie","Liberal","Libéral",N,N,65
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 152","White Rock",N,N,"",0,415,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,8
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 152","White Rock",N,N,"",0,415,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 153","White Rock",N,N,"",0,405,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,40
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 153","White Rock",N,N,"",0,405,"Hogg","","Gordie","Liberal","Libéral",N,N,64
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 153","White Rock",N,N,"",0,405,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,7
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 153","White Rock",N,N,"",0,405,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 154","White Rock",N,N,"",0,402,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,51
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 154","White Rock",N,N,"",0,402,"Hogg","","Gordie","Liberal","Libéral",N,N,53
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 154","White Rock",N,N,"",0,402,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 154","White Rock",N,N,"",0,402,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 155","White Rock",N,N,"",0,384,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,56
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 155","White Rock",N,N,"",0,384,"Hogg","","Gordie","Liberal","Libéral",N,N,60
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 155","White Rock",N,N,"",0,384,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 155","White Rock",N,N,"",0,384,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 156","White Rock",N,N,"",0,435,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,55
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 156","White Rock",N,N,"",0,435,"Hogg","","Gordie","Liberal","Libéral",N,N,55
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 156","White Rock",N,N,"",0,435,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,17
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 156","White Rock",N,N,"",0,435,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 157","White Rock",N,N,"",1,383,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,43
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 157","White Rock",N,N,"",1,383,"Hogg","","Gordie","Liberal","Libéral",N,N,31
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 157","White Rock",N,N,"",1,383,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 157","White Rock",N,N,"",1,383,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 158","Surrey",N,N,"",0,496,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,95
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 158","Surrey",N,N,"",0,496,"Hogg","","Gordie","Liberal","Libéral",N,N,91
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 158","Surrey",N,N,"",0,496,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,15
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 158","Surrey",N,N,"",0,496,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 159","Surrey",N,N,"",0,480,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,100
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 159","Surrey",N,N,"",0,480,"Hogg","","Gordie","Liberal","Libéral",N,N,100
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 159","Surrey",N,N,"",0,480,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 159","Surrey",N,N,"",0,480,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 160","Surrey",N,N,"",0,433,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,72
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 160","Surrey",N,N,"",0,433,"Hogg","","Gordie","Liberal","Libéral",N,N,81
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 160","Surrey",N,N,"",0,433,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,11
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 160","Surrey",N,N,"",0,433,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 161","Surrey",N,N,"",0,578,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,110
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 161","Surrey",N,N,"",0,578,"Hogg","","Gordie","Liberal","Libéral",N,N,86
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 161","Surrey",N,N,"",0,578,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 161","Surrey",N,N,"",0,578,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 162","Surrey",N,N,"",2,433,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,62
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 162","Surrey",N,N,"",2,433,"Hogg","","Gordie","Liberal","Libéral",N,N,60
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 162","Surrey",N,N,"",2,433,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,2
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 162","Surrey",N,N,"",2,433,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 163","Surrey",N,N,"",0,858,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,92
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 163","Surrey",N,N,"",0,858,"Hogg","","Gordie","Liberal","Libéral",N,N,104
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 163","Surrey",N,N,"",0,858,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 163","Surrey",N,N,"",0,858,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 164","Surrey",N,N,"",0,506,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,60
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 164","Surrey",N,N,"",0,506,"Hogg","","Gordie","Liberal","Libéral",N,N,39
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 164","Surrey",N,N,"",0,506,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,6
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 164","Surrey",N,N,"",0,506,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 165A","Surrey",N,N,"",0,467,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,62
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 165A","Surrey",N,N,"",0,467,"Hogg","","Gordie","Liberal","Libéral",N,N,45
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 165A","Surrey",N,N,"",0,467,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,7
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 165A","Surrey",N,N,"",0,467,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 165B","Surrey",N,N,"",1,525,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,60
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 165B","Surrey",N,N,"",1,525,"Hogg","","Gordie","Liberal","Libéral",N,N,64
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 165B","Surrey",N,N,"",1,525,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,7
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 165B","Surrey",N,N,"",1,525,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 166","Surrey",N,N,"",1,602,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,53
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 166","Surrey",N,N,"",1,602,"Hogg","","Gordie","Liberal","Libéral",N,N,90
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 166","Surrey",N,N,"",1,602,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,15
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 166","Surrey",N,N,"",1,602,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 167","Surrey",N,N,"",1,376,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,119
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 167","Surrey",N,N,"",1,376,"Hogg","","Gordie","Liberal","Libéral",N,N,78
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 167","Surrey",N,N,"",1,376,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,6
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 167","Surrey",N,N,"",1,376,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 168","Surrey",N,N,"",0,477,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,45
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 168","Surrey",N,N,"",0,477,"Hogg","","Gordie","Liberal","Libéral",N,N,39
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 168","Surrey",N,N,"",0,477,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,10
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 168","Surrey",N,N,"",0,477,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 169","Surrey",N,N,"",1,79,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,9
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 169","Surrey",N,N,"",1,79,"Hogg","","Gordie","Liberal","Libéral",N,N,7
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 169","Surrey",N,N,"",1,79,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 169","Surrey",N,N,"",1,79,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 170","Surrey",N,N,"167",0,342,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 170","Surrey",N,N,"167",0,342,"Hogg","","Gordie","Liberal","Libéral",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 170","Surrey",N,N,"167",0,342,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 170","Surrey",N,N,"167",0,342,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 171","Surrey",N,N,"",1,556,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,49
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 171","Surrey",N,N,"",1,556,"Hogg","","Gordie","Liberal","Libéral",N,N,67
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 171","Surrey",N,N,"",1,556,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,4
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 171","Surrey",N,N,"",1,556,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 172","Surrey",N,N,"",0,792,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,102
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 172","Surrey",N,N,"",0,792,"Hogg","","Gordie","Liberal","Libéral",N,N,105
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 172","Surrey",N,N,"",0,792,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,9
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 172","Surrey",N,N,"",0,792,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 173","Surrey",N,N,"",0,681,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,90
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 173","Surrey",N,N,"",0,681,"Hogg","","Gordie","Liberal","Libéral",N,N,74
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 173","Surrey",N,N,"",0,681,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 173","Surrey",N,N,"",0,681,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 174","Surrey",N,N,"",0,567,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,64
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 174","Surrey",N,N,"",0,567,"Hogg","","Gordie","Liberal","Libéral",N,N,50
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 174","Surrey",N,N,"",0,567,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,1
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 174","Surrey",N,N,"",0,567,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 175","Surrey",N,N,"",0,366,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,61
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 175","Surrey",N,N,"",0,366,"Hogg","","Gordie","Liberal","Libéral",N,N,37
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 175","Surrey",N,N,"",0,366,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 175","Surrey",N,N,"",0,366,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 500","Mobile poll/Bureau itinérant",N,N,"",1,95,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,17
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 500","Mobile poll/Bureau itinérant",N,N,"",1,95,"Hogg","","Gordie","Liberal","Libéral",N,N,27
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 500","Mobile poll/Bureau itinérant",N,N,"",1,95,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,2
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 500","Mobile poll/Bureau itinérant",N,N,"",1,95,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 501","Mobile poll/Bureau itinérant",N,N,"",1,58,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,12
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 501","Mobile poll/Bureau itinérant",N,N,"",1,58,"Hogg","","Gordie","Liberal","Libéral",N,N,15
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 501","Mobile poll/Bureau itinérant",N,N,"",1,58,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,3
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 501","Mobile poll/Bureau itinérant",N,N,"",1,58,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 502","Mobile poll/Bureau itinérant",N,N,"62",0,75,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 502","Mobile poll/Bureau itinérant",N,N,"62",0,75,"Hogg","","Gordie","Liberal","Libéral",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 502","Mobile poll/Bureau itinérant",N,N,"62",0,75,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 502","Mobile poll/Bureau itinérant",N,N,"62",0,75,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 503","Mobile poll/Bureau itinérant",N,N,"",0,75,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,18
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 503","Mobile poll/Bureau itinérant",N,N,"",0,75,"Hogg","","Gordie","Liberal","Libéral",N,N,15
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 503","Mobile poll/Bureau itinérant",N,N,"",0,75,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,2
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 503","Mobile poll/Bureau itinérant",N,N,"",0,75,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 504","Mobile poll/Bureau itinérant",N,N,"",0,41,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,13
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 504","Mobile poll/Bureau itinérant",N,N,"",0,41,"Hogg","","Gordie","Liberal","Libéral",N,N,13
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 504","Mobile poll/Bureau itinérant",N,N,"",0,41,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 504","Mobile poll/Bureau itinérant",N,N,"",0,41,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 505","Mobile poll/Bureau itinérant",N,N,"",3,85,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,15
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 505","Mobile poll/Bureau itinérant",N,N,"",3,85,"Hogg","","Gordie","Liberal","Libéral",N,N,29
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 505","Mobile poll/Bureau itinérant",N,N,"",3,85,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,2
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 505","Mobile poll/Bureau itinérant",N,N,"",3,85,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 506","Mobile poll/Bureau itinérant",N,N,"",2,103,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,30
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 506","Mobile poll/Bureau itinérant",N,N,"",2,103,"Hogg","","Gordie","Liberal","Libéral",N,N,28
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 506","Mobile poll/Bureau itinérant",N,N,"",2,103,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,1
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 506","Mobile poll/Bureau itinérant",N,N,"",2,103,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 507","Mobile poll/Bureau itinérant",N,N,"",0,82,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,22
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 507","Mobile poll/Bureau itinérant",N,N,"",0,82,"Hogg","","Gordie","Liberal","Libéral",N,N,17
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 507","Mobile poll/Bureau itinérant",N,N,"",0,82,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,3
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 507","Mobile poll/Bureau itinérant",N,N,"",0,82,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 508","Mobile poll/Bureau itinérant",N,N,"",0,76,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,20
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 508","Mobile poll/Bureau itinérant",N,N,"",0,76,"Hogg","","Gordie","Liberal","Libéral",N,N,23
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 508","Mobile poll/Bureau itinérant",N,N,"",0,76,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 508","Mobile poll/Bureau itinérant",N,N,"",0,76,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 509","Mobile poll/Bureau itinérant",N,N,"",0,68,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,23
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 509","Mobile poll/Bureau itinérant",N,N,"",0,68,"Hogg","","Gordie","Liberal","Libéral",N,N,19
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 509","Mobile poll/Bureau itinérant",N,N,"",0,68,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,2
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 509","Mobile poll/Bureau itinérant",N,N,"",0,68,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 510","Mobile poll/Bureau itinérant",N,N,"",0,154,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,53
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 510","Mobile poll/Bureau itinérant",N,N,"",0,154,"Hogg","","Gordie","Liberal","Libéral",N,N,48
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 510","Mobile poll/Bureau itinérant",N,N,"",0,154,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,2
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 510","Mobile poll/Bureau itinérant",N,N,"",0,154,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 511","Mobile poll/Bureau itinérant",N,N,"125",0,41,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 511","Mobile poll/Bureau itinérant",N,N,"125",0,41,"Hogg","","Gordie","Liberal","Libéral",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 511","Mobile poll/Bureau itinérant",N,N,"125",0,41,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 511","Mobile poll/Bureau itinérant",N,N,"125",0,41,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 512","Mobile poll/Bureau itinérant",N,N,"125",0,71,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 512","Mobile poll/Bureau itinérant",N,N,"125",0,71,"Hogg","","Gordie","Liberal","Libéral",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 512","Mobile poll/Bureau itinérant",N,N,"125",0,71,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 512","Mobile poll/Bureau itinérant",N,N,"125",0,71,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 513","Mobile poll/Bureau itinérant",N,N,"",0,130,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,25
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 513","Mobile poll/Bureau itinérant",N,N,"",0,130,"Hogg","","Gordie","Liberal","Libéral",N,N,51
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 513","Mobile poll/Bureau itinérant",N,N,"",0,130,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,1
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 513","Mobile poll/Bureau itinérant",N,N,"",0,130,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 514","Mobile poll/Bureau itinérant",N,Y,"",0,33,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 514","Mobile poll/Bureau itinérant",N,Y,"",0,33,"Hogg","","Gordie","Liberal","Libéral",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 514","Mobile poll/Bureau itinérant",N,Y,"",0,33,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 514","Mobile poll/Bureau itinérant",N,Y,"",0,33,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 515","Mobile poll/Bureau itinérant",N,N,"",0,90,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,15
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 515","Mobile poll/Bureau itinérant",N,N,"",0,90,"Hogg","","Gordie","Liberal","Libéral",N,N,22
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 515","Mobile poll/Bureau itinérant",N,N,"",0,90,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,3
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 515","Mobile poll/Bureau itinérant",N,N,"",0,90,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 516","Mobile poll/Bureau itinérant",N,N,"",1,102,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,36
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 516","Mobile poll/Bureau itinérant",N,N,"",1,102,"Hogg","","Gordie","Liberal","Libéral",N,N,30
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 516","Mobile poll/Bureau itinérant",N,N,"",1,102,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,2
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 516","Mobile poll/Bureau itinérant",N,N,"",1,102,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 517","Mobile poll/Bureau itinérant",N,N,"",0,77,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,16
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 517","Mobile poll/Bureau itinérant",N,N,"",0,77,"Hogg","","Gordie","Liberal","Libéral",N,N,19
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 517","Mobile poll/Bureau itinérant",N,N,"",0,77,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 517","Mobile poll/Bureau itinérant",N,N,"",0,77,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 518","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 518","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Hogg","","Gordie","Liberal","Libéral",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 518","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 518","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 519","Mobile poll/Bureau itinérant",N,N,"",0,129,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,50
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 519","Mobile poll/Bureau itinérant",N,N,"",0,129,"Hogg","","Gordie","Liberal","Libéral",N,N,38
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 519","Mobile poll/Bureau itinérant",N,N,"",0,129,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,2
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 519","Mobile poll/Bureau itinérant",N,N,"",0,129,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 520","Mobile poll/Bureau itinérant",N,N,"",1,122,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,15
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 520","Mobile poll/Bureau itinérant",N,N,"",1,122,"Hogg","","Gordie","Liberal","Libéral",N,N,36
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 520","Mobile poll/Bureau itinérant",N,N,"",1,122,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 520","Mobile poll/Bureau itinérant",N,N,"",1,122,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 521","Mobile poll/Bureau itinérant",N,N,"136",0,29,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 521","Mobile poll/Bureau itinérant",N,N,"136",0,29,"Hogg","","Gordie","Liberal","Libéral",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 521","Mobile poll/Bureau itinérant",N,N,"136",0,29,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 521","Mobile poll/Bureau itinérant",N,N,"136",0,29,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 522","Mobile poll/Bureau itinérant",N,N,"",2,76,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,14
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 522","Mobile poll/Bureau itinérant",N,N,"",2,76,"Hogg","","Gordie","Liberal","Libéral",N,N,23
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 522","Mobile poll/Bureau itinérant",N,N,"",2,76,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,0
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 522","Mobile poll/Bureau itinérant",N,N,"",2,76,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 523","Mobile poll/Bureau itinérant",N,N,"",1,44,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,14
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 523","Mobile poll/Bureau itinérant",N,N,"",1,44,"Hogg","","Gordie","Liberal","Libéral",N,N,14
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 523","Mobile poll/Bureau itinérant",N,N,"",1,44,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,3
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 523","Mobile poll/Bureau itinérant",N,N,"",1,44,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 524","Mobile poll/Bureau itinérant",N,N,"",0,0,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,6
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 524","Mobile poll/Bureau itinérant",N,N,"",0,0,"Hogg","","Gordie","Liberal","Libéral",N,N,14
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 524","Mobile poll/Bureau itinérant",N,N,"",0,0,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,2
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 524","Mobile poll/Bureau itinérant",N,N,"",0,0,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 600","Surrey",N,N,"",3,0,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,447
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 600","Surrey",N,N,"",3,0,"Hogg","","Gordie","Liberal","Libéral",N,N,307
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 600","Surrey",N,N,"",3,0,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,36
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 600","Surrey",N,N,"",3,0,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,83
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 601","Surrey",N,N,"",4,0,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,572
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 601","Surrey",N,N,"",4,0,"Hogg","","Gordie","Liberal","Libéral",N,N,467
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 601","Surrey",N,N,"",4,0,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,69
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 601","Surrey",N,N,"",4,0,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,178
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 602","Surrey",N,N,"",4,0,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,612
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 602","Surrey",N,N,"",4,0,"Hogg","","Gordie","Liberal","Libéral",N,N,437
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 602","Surrey",N,N,"",4,0,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,50
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 602","Surrey",N,N,"",4,0,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,122
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 603","Surrey",N,N,"",1,0,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,646
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 603","Surrey",N,N,"",1,0,"Hogg","","Gordie","Liberal","Libéral",N,N,461
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 603","Surrey",N,N,"",1,0,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,54
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 603","Surrey",N,N,"",1,0,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,129
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 604","Surrey",N,N,"",1,0,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,741
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 604","Surrey",N,N,"",1,0,"Hogg","","Gordie","Liberal","Libéral",N,N,541
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 604","Surrey",N,N,"",1,0,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,39
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 604","Surrey",N,N,"",1,0,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,185
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 605","Surrey",N,N,"",2,0,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,255
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 605","Surrey",N,N,"",2,0,"Hogg","","Gordie","Liberal","Libéral",N,N,256
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 605","Surrey",N,N,"",2,0,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,30
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 605","Surrey",N,N,"",2,0,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 606","Surrey",N,N,"",4,0,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,471
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 606","Surrey",N,N,"",4,0,"Hogg","","Gordie","Liberal","Libéral",N,N,338
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 606","Surrey",N,N,"",4,0,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,22
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 606","Surrey",N,N,"",4,0,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,92
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 607","Surrey",N,N,"",4,0,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,512
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 607","Surrey",N,N,"",4,0,"Hogg","","Gordie","Liberal","Libéral",N,N,326
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 607","Surrey",N,N,"",4,0,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,45
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 607","Surrey",N,N,"",4,0,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 608","Surrey",N,N,"",1,0,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,661
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 608","Surrey",N,N,"",1,0,"Hogg","","Gordie","Liberal","Libéral",N,N,390
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 608","Surrey",N,N,"",1,0,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,44
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 608","Surrey",N,N,"",1,0,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,93
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 609","White Rock",N,N,"",2,0,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,550
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 609","White Rock",N,N,"",2,0,"Hogg","","Gordie","Liberal","Libéral",N,N,397
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 609","White Rock",N,N,"",2,0,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,70
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 609","White Rock",N,N,"",2,0,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,148
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 610","White Rock",N,N,"",4,0,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,282
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 610","White Rock",N,N,"",4,0,"Hogg","","Gordie","Liberal","Libéral",N,N,284
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 610","White Rock",N,N,"",4,0,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,38
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 610","White Rock",N,N,"",4,0,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,88
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 611","White Rock",N,N,"",6,0,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,418
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 611","White Rock",N,N,"",6,0,"Hogg","","Gordie","Liberal","Libéral",N,N,409
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 611","White Rock",N,N,"",6,0,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,36
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 611","White Rock",N,N,"",6,0,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,142
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 612","Surrey",N,N,"",11,0,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,536
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 612","Surrey",N,N,"",11,0,"Hogg","","Gordie","Liberal","Libéral",N,N,460
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 612","Surrey",N,N,"",11,0,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,60
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 612","Surrey",N,N,"",11,0,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,154
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 613","White Rock",N,N,"",3,0,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,570
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 613","White Rock",N,N,"",3,0,"Hogg","","Gordie","Liberal","Libéral",N,N,614
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 613","White Rock",N,N,"",3,0,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,55
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 613","White Rock",N,N,"",3,0,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,230
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 614","Surrey",N,N,"",6,0,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,443
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 614","Surrey",N,N,"",6,0,"Hogg","","Gordie","Liberal","Libéral",N,N,420
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 614","Surrey",N,N,"",6,0,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,63
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 614","Surrey",N,N,"",6,0,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,169
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 615","Surrey",N,N,"",2,0,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,477
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 615","Surrey",N,N,"",2,0,"Hogg","","Gordie","Liberal","Libéral",N,N,397
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 615","Surrey",N,N,"",2,0,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,65
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 615","Surrey",N,N,"",2,0,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,148
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 616","Surrey",N,N,"",3,0,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,313
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 616","Surrey",N,N,"",3,0,"Hogg","","Gordie","Liberal","Libéral",N,N,230
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 616","Surrey",N,N,"",3,0,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,46
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 616","Surrey",N,N,"",3,0,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,87
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 617","Surrey",N,N,"",9,0,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,313
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 617","Surrey",N,N,"",9,0,"Hogg","","Gordie","Liberal","Libéral",N,N,218
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 617","Surrey",N,N,"",9,0,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,27
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 617","Surrey",N,N,"",9,0,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,83
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 618","Surrey",N,N,"",0,0,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,280
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 618","Surrey",N,N,"",0,0,"Hogg","","Gordie","Liberal","Libéral",N,N,156
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 618","Surrey",N,N,"",0,0,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,22
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 618","Surrey",N,N,"",0,0,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 619","White Rock",N,N,"",7,0,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,374
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 619","White Rock",N,N,"",7,0,"Hogg","","Gordie","Liberal","Libéral",N,N,265
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 619","White Rock",N,N,"",7,0,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,20
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 619","White Rock",N,N,"",7,0,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,84
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 620","White Rock",N,N,"",2,0,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,364
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 620","White Rock",N,N,"",2,0,"Hogg","","Gordie","Liberal","Libéral",N,N,340
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 620","White Rock",N,N,"",2,0,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,30
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 620","White Rock",N,N,"",2,0,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,94
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 621","Surrey",N,N,"",1,0,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,530
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 621","Surrey",N,N,"",1,0,"Hogg","","Gordie","Liberal","Libéral",N,N,358
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 621","Surrey",N,N,"",1,0,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,36
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," 621","Surrey",N,N,"",1,0,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,156
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",19,276,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,231
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",19,276,"Hogg","","Gordie","Liberal","Libéral",N,N,220
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",19,276,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,23
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",19,276,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,113
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",113,0,"Findlay","","Kerry-Lynne","Conservative","Conservateur",Y,Y,1631
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",113,0,"Hogg","","Gordie","Liberal","Libéral",N,N,1840
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",113,0,"Jensen","","Gary","People's Party - PPC","Parti populaire - PPC",N,N,85
+59030,"South Surrey--White Rock","Surrey-Sud--White Rock"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",113,0,"Liu","","June","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,617

@@ -1,0 +1,1286 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+35072,"Oakville","Oakville"," 1","Oakville",N,N,"",0,439,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35072,"Oakville","Oakville"," 1","Oakville",N,N,"",0,439,"Anand","","Anita","Liberal","Libéral",Y,Y,54
+35072,"Oakville","Oakville"," 1","Oakville",N,N,"",0,439,"Colborne","","Kerry","Conservative","Conservateur",N,N,44
+35072,"Oakville","Oakville"," 1","Oakville",N,N,"",0,439,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 1","Oakville",N,N,"",0,439,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,7
+35072,"Oakville","Oakville"," 2","Oakville",N,N,"",0,368,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35072,"Oakville","Oakville"," 2","Oakville",N,N,"",0,368,"Anand","","Anita","Liberal","Libéral",Y,Y,51
+35072,"Oakville","Oakville"," 2","Oakville",N,N,"",0,368,"Colborne","","Kerry","Conservative","Conservateur",N,N,39
+35072,"Oakville","Oakville"," 2","Oakville",N,N,"",0,368,"Knox","","Oriana","Green Party","Parti Vert",N,N,0
+35072,"Oakville","Oakville"," 2","Oakville",N,N,"",0,368,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,0
+35072,"Oakville","Oakville"," 3","Oakville",N,N,"",1,553,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35072,"Oakville","Oakville"," 3","Oakville",N,N,"",1,553,"Anand","","Anita","Liberal","Libéral",Y,Y,43
+35072,"Oakville","Oakville"," 3","Oakville",N,N,"",1,553,"Colborne","","Kerry","Conservative","Conservateur",N,N,73
+35072,"Oakville","Oakville"," 3","Oakville",N,N,"",1,553,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 3","Oakville",N,N,"",1,553,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,5
+35072,"Oakville","Oakville"," 4","Oakville",N,N,"",1,586,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35072,"Oakville","Oakville"," 4","Oakville",N,N,"",1,586,"Anand","","Anita","Liberal","Libéral",Y,Y,56
+35072,"Oakville","Oakville"," 4","Oakville",N,N,"",1,586,"Colborne","","Kerry","Conservative","Conservateur",N,N,69
+35072,"Oakville","Oakville"," 4","Oakville",N,N,"",1,586,"Knox","","Oriana","Green Party","Parti Vert",N,N,0
+35072,"Oakville","Oakville"," 4","Oakville",N,N,"",1,586,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,4
+35072,"Oakville","Oakville"," 5","Oakville",N,N,"",0,495,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35072,"Oakville","Oakville"," 5","Oakville",N,N,"",0,495,"Anand","","Anita","Liberal","Libéral",Y,Y,42
+35072,"Oakville","Oakville"," 5","Oakville",N,N,"",0,495,"Colborne","","Kerry","Conservative","Conservateur",N,N,54
+35072,"Oakville","Oakville"," 5","Oakville",N,N,"",0,495,"Knox","","Oriana","Green Party","Parti Vert",N,N,0
+35072,"Oakville","Oakville"," 5","Oakville",N,N,"",0,495,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,5
+35072,"Oakville","Oakville"," 6","Oakville",N,N,"",1,426,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35072,"Oakville","Oakville"," 6","Oakville",N,N,"",1,426,"Anand","","Anita","Liberal","Libéral",Y,Y,68
+35072,"Oakville","Oakville"," 6","Oakville",N,N,"",1,426,"Colborne","","Kerry","Conservative","Conservateur",N,N,51
+35072,"Oakville","Oakville"," 6","Oakville",N,N,"",1,426,"Knox","","Oriana","Green Party","Parti Vert",N,N,5
+35072,"Oakville","Oakville"," 6","Oakville",N,N,"",1,426,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,1
+35072,"Oakville","Oakville"," 7","Oakville",N,N,"",0,391,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35072,"Oakville","Oakville"," 7","Oakville",N,N,"",0,391,"Anand","","Anita","Liberal","Libéral",Y,Y,60
+35072,"Oakville","Oakville"," 7","Oakville",N,N,"",0,391,"Colborne","","Kerry","Conservative","Conservateur",N,N,54
+35072,"Oakville","Oakville"," 7","Oakville",N,N,"",0,391,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 7","Oakville",N,N,"",0,391,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,5
+35072,"Oakville","Oakville"," 8","Oakville",N,N,"",0,351,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35072,"Oakville","Oakville"," 8","Oakville",N,N,"",0,351,"Anand","","Anita","Liberal","Libéral",Y,Y,67
+35072,"Oakville","Oakville"," 8","Oakville",N,N,"",0,351,"Colborne","","Kerry","Conservative","Conservateur",N,N,42
+35072,"Oakville","Oakville"," 8","Oakville",N,N,"",0,351,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 8","Oakville",N,N,"",0,351,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,2
+35072,"Oakville","Oakville"," 9","Oakville",N,N,"",0,367,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35072,"Oakville","Oakville"," 9","Oakville",N,N,"",0,367,"Anand","","Anita","Liberal","Libéral",Y,Y,52
+35072,"Oakville","Oakville"," 9","Oakville",N,N,"",0,367,"Colborne","","Kerry","Conservative","Conservateur",N,N,48
+35072,"Oakville","Oakville"," 9","Oakville",N,N,"",0,367,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 9","Oakville",N,N,"",0,367,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,1
+35072,"Oakville","Oakville"," 10","Oakville",N,N,"",0,415,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35072,"Oakville","Oakville"," 10","Oakville",N,N,"",0,415,"Anand","","Anita","Liberal","Libéral",Y,Y,70
+35072,"Oakville","Oakville"," 10","Oakville",N,N,"",0,415,"Colborne","","Kerry","Conservative","Conservateur",N,N,43
+35072,"Oakville","Oakville"," 10","Oakville",N,N,"",0,415,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 10","Oakville",N,N,"",0,415,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,7
+35072,"Oakville","Oakville"," 11","Oakville",N,N,"",0,345,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35072,"Oakville","Oakville"," 11","Oakville",N,N,"",0,345,"Anand","","Anita","Liberal","Libéral",Y,Y,56
+35072,"Oakville","Oakville"," 11","Oakville",N,N,"",0,345,"Colborne","","Kerry","Conservative","Conservateur",N,N,50
+35072,"Oakville","Oakville"," 11","Oakville",N,N,"",0,345,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 11","Oakville",N,N,"",0,345,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,3
+35072,"Oakville","Oakville"," 12","Oakville",N,N,"",2,419,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35072,"Oakville","Oakville"," 12","Oakville",N,N,"",2,419,"Anand","","Anita","Liberal","Libéral",Y,Y,75
+35072,"Oakville","Oakville"," 12","Oakville",N,N,"",2,419,"Colborne","","Kerry","Conservative","Conservateur",N,N,74
+35072,"Oakville","Oakville"," 12","Oakville",N,N,"",2,419,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 12","Oakville",N,N,"",2,419,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,3
+35072,"Oakville","Oakville"," 13","Oakville",N,N,"",2,348,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35072,"Oakville","Oakville"," 13","Oakville",N,N,"",2,348,"Anand","","Anita","Liberal","Libéral",Y,Y,51
+35072,"Oakville","Oakville"," 13","Oakville",N,N,"",2,348,"Colborne","","Kerry","Conservative","Conservateur",N,N,51
+35072,"Oakville","Oakville"," 13","Oakville",N,N,"",2,348,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 13","Oakville",N,N,"",2,348,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,2
+35072,"Oakville","Oakville"," 14","Oakville",N,N,"",2,342,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35072,"Oakville","Oakville"," 14","Oakville",N,N,"",2,342,"Anand","","Anita","Liberal","Libéral",Y,Y,65
+35072,"Oakville","Oakville"," 14","Oakville",N,N,"",2,342,"Colborne","","Kerry","Conservative","Conservateur",N,N,64
+35072,"Oakville","Oakville"," 14","Oakville",N,N,"",2,342,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 14","Oakville",N,N,"",2,342,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,5
+35072,"Oakville","Oakville"," 15","Oakville",N,N,"",0,280,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35072,"Oakville","Oakville"," 15","Oakville",N,N,"",0,280,"Anand","","Anita","Liberal","Libéral",Y,Y,49
+35072,"Oakville","Oakville"," 15","Oakville",N,N,"",0,280,"Colborne","","Kerry","Conservative","Conservateur",N,N,42
+35072,"Oakville","Oakville"," 15","Oakville",N,N,"",0,280,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 15","Oakville",N,N,"",0,280,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,6
+35072,"Oakville","Oakville"," 16","Oakville",N,N,"",0,345,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35072,"Oakville","Oakville"," 16","Oakville",N,N,"",0,345,"Anand","","Anita","Liberal","Libéral",Y,Y,57
+35072,"Oakville","Oakville"," 16","Oakville",N,N,"",0,345,"Colborne","","Kerry","Conservative","Conservateur",N,N,65
+35072,"Oakville","Oakville"," 16","Oakville",N,N,"",0,345,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 16","Oakville",N,N,"",0,345,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,8
+35072,"Oakville","Oakville"," 17","Oakville",N,N,"",1,330,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35072,"Oakville","Oakville"," 17","Oakville",N,N,"",1,330,"Anand","","Anita","Liberal","Libéral",Y,Y,56
+35072,"Oakville","Oakville"," 17","Oakville",N,N,"",1,330,"Colborne","","Kerry","Conservative","Conservateur",N,N,71
+35072,"Oakville","Oakville"," 17","Oakville",N,N,"",1,330,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 17","Oakville",N,N,"",1,330,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,10
+35072,"Oakville","Oakville"," 18","Oakville",N,N,"",1,238,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35072,"Oakville","Oakville"," 18","Oakville",N,N,"",1,238,"Anand","","Anita","Liberal","Libéral",Y,Y,47
+35072,"Oakville","Oakville"," 18","Oakville",N,N,"",1,238,"Colborne","","Kerry","Conservative","Conservateur",N,N,35
+35072,"Oakville","Oakville"," 18","Oakville",N,N,"",1,238,"Knox","","Oriana","Green Party","Parti Vert",N,N,0
+35072,"Oakville","Oakville"," 18","Oakville",N,N,"",1,238,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,0
+35072,"Oakville","Oakville"," 19","Oakville",N,N,"",0,299,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35072,"Oakville","Oakville"," 19","Oakville",N,N,"",0,299,"Anand","","Anita","Liberal","Libéral",Y,Y,66
+35072,"Oakville","Oakville"," 19","Oakville",N,N,"",0,299,"Colborne","","Kerry","Conservative","Conservateur",N,N,27
+35072,"Oakville","Oakville"," 19","Oakville",N,N,"",0,299,"Knox","","Oriana","Green Party","Parti Vert",N,N,0
+35072,"Oakville","Oakville"," 19","Oakville",N,N,"",0,299,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,9
+35072,"Oakville","Oakville"," 20","Oakville",N,N,"",1,427,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35072,"Oakville","Oakville"," 20","Oakville",N,N,"",1,427,"Anand","","Anita","Liberal","Libéral",Y,Y,96
+35072,"Oakville","Oakville"," 20","Oakville",N,N,"",1,427,"Colborne","","Kerry","Conservative","Conservateur",N,N,47
+35072,"Oakville","Oakville"," 20","Oakville",N,N,"",1,427,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 20","Oakville",N,N,"",1,427,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,0
+35072,"Oakville","Oakville"," 21","Oakville",N,N,"",1,301,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35072,"Oakville","Oakville"," 21","Oakville",N,N,"",1,301,"Anand","","Anita","Liberal","Libéral",Y,Y,70
+35072,"Oakville","Oakville"," 21","Oakville",N,N,"",1,301,"Colborne","","Kerry","Conservative","Conservateur",N,N,46
+35072,"Oakville","Oakville"," 21","Oakville",N,N,"",1,301,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 21","Oakville",N,N,"",1,301,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,6
+35072,"Oakville","Oakville"," 22","Oakville",N,N,"",3,454,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35072,"Oakville","Oakville"," 22","Oakville",N,N,"",3,454,"Anand","","Anita","Liberal","Libéral",Y,Y,80
+35072,"Oakville","Oakville"," 22","Oakville",N,N,"",3,454,"Colborne","","Kerry","Conservative","Conservateur",N,N,69
+35072,"Oakville","Oakville"," 22","Oakville",N,N,"",3,454,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 22","Oakville",N,N,"",3,454,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,4
+35072,"Oakville","Oakville"," 23","Oakville",N,N,"",0,240,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35072,"Oakville","Oakville"," 23","Oakville",N,N,"",0,240,"Anand","","Anita","Liberal","Libéral",Y,Y,59
+35072,"Oakville","Oakville"," 23","Oakville",N,N,"",0,240,"Colborne","","Kerry","Conservative","Conservateur",N,N,47
+35072,"Oakville","Oakville"," 23","Oakville",N,N,"",0,240,"Knox","","Oriana","Green Party","Parti Vert",N,N,0
+35072,"Oakville","Oakville"," 23","Oakville",N,N,"",0,240,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,2
+35072,"Oakville","Oakville"," 24","Oakville",N,N,"",1,225,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35072,"Oakville","Oakville"," 24","Oakville",N,N,"",1,225,"Anand","","Anita","Liberal","Libéral",Y,Y,32
+35072,"Oakville","Oakville"," 24","Oakville",N,N,"",1,225,"Colborne","","Kerry","Conservative","Conservateur",N,N,23
+35072,"Oakville","Oakville"," 24","Oakville",N,N,"",1,225,"Knox","","Oriana","Green Party","Parti Vert",N,N,0
+35072,"Oakville","Oakville"," 24","Oakville",N,N,"",1,225,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,4
+35072,"Oakville","Oakville"," 25","Oakville",N,N,"",0,369,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35072,"Oakville","Oakville"," 25","Oakville",N,N,"",0,369,"Anand","","Anita","Liberal","Libéral",Y,Y,53
+35072,"Oakville","Oakville"," 25","Oakville",N,N,"",0,369,"Colborne","","Kerry","Conservative","Conservateur",N,N,46
+35072,"Oakville","Oakville"," 25","Oakville",N,N,"",0,369,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 25","Oakville",N,N,"",0,369,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,5
+35072,"Oakville","Oakville"," 26","Oakville",N,N,"",0,414,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35072,"Oakville","Oakville"," 26","Oakville",N,N,"",0,414,"Anand","","Anita","Liberal","Libéral",Y,Y,70
+35072,"Oakville","Oakville"," 26","Oakville",N,N,"",0,414,"Colborne","","Kerry","Conservative","Conservateur",N,N,61
+35072,"Oakville","Oakville"," 26","Oakville",N,N,"",0,414,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 26","Oakville",N,N,"",0,414,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,2
+35072,"Oakville","Oakville"," 27","Oakville",N,N,"",1,487,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35072,"Oakville","Oakville"," 27","Oakville",N,N,"",1,487,"Anand","","Anita","Liberal","Libéral",Y,Y,90
+35072,"Oakville","Oakville"," 27","Oakville",N,N,"",1,487,"Colborne","","Kerry","Conservative","Conservateur",N,N,108
+35072,"Oakville","Oakville"," 27","Oakville",N,N,"",1,487,"Knox","","Oriana","Green Party","Parti Vert",N,N,6
+35072,"Oakville","Oakville"," 27","Oakville",N,N,"",1,487,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,4
+35072,"Oakville","Oakville"," 28","Oakville",N,N,"",2,332,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35072,"Oakville","Oakville"," 28","Oakville",N,N,"",2,332,"Anand","","Anita","Liberal","Libéral",Y,Y,81
+35072,"Oakville","Oakville"," 28","Oakville",N,N,"",2,332,"Colborne","","Kerry","Conservative","Conservateur",N,N,61
+35072,"Oakville","Oakville"," 28","Oakville",N,N,"",2,332,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 28","Oakville",N,N,"",2,332,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,7
+35072,"Oakville","Oakville"," 29","Oakville",N,N,"",0,353,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35072,"Oakville","Oakville"," 29","Oakville",N,N,"",0,353,"Anand","","Anita","Liberal","Libéral",Y,Y,79
+35072,"Oakville","Oakville"," 29","Oakville",N,N,"",0,353,"Colborne","","Kerry","Conservative","Conservateur",N,N,62
+35072,"Oakville","Oakville"," 29","Oakville",N,N,"",0,353,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 29","Oakville",N,N,"",0,353,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,2
+35072,"Oakville","Oakville"," 30","Oakville",N,N,"",0,325,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35072,"Oakville","Oakville"," 30","Oakville",N,N,"",0,325,"Anand","","Anita","Liberal","Libéral",Y,Y,88
+35072,"Oakville","Oakville"," 30","Oakville",N,N,"",0,325,"Colborne","","Kerry","Conservative","Conservateur",N,N,68
+35072,"Oakville","Oakville"," 30","Oakville",N,N,"",0,325,"Knox","","Oriana","Green Party","Parti Vert",N,N,6
+35072,"Oakville","Oakville"," 30","Oakville",N,N,"",0,325,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,1
+35072,"Oakville","Oakville"," 31","Oakville",N,N,"",1,366,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35072,"Oakville","Oakville"," 31","Oakville",N,N,"",1,366,"Anand","","Anita","Liberal","Libéral",Y,Y,79
+35072,"Oakville","Oakville"," 31","Oakville",N,N,"",1,366,"Colborne","","Kerry","Conservative","Conservateur",N,N,74
+35072,"Oakville","Oakville"," 31","Oakville",N,N,"",1,366,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 31","Oakville",N,N,"",1,366,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,2
+35072,"Oakville","Oakville"," 32","Oakville",N,N,"",1,401,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35072,"Oakville","Oakville"," 32","Oakville",N,N,"",1,401,"Anand","","Anita","Liberal","Libéral",Y,Y,51
+35072,"Oakville","Oakville"," 32","Oakville",N,N,"",1,401,"Colborne","","Kerry","Conservative","Conservateur",N,N,59
+35072,"Oakville","Oakville"," 32","Oakville",N,N,"",1,401,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 32","Oakville",N,N,"",1,401,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,3
+35072,"Oakville","Oakville"," 33","Oakville",N,N,"",0,437,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35072,"Oakville","Oakville"," 33","Oakville",N,N,"",0,437,"Anand","","Anita","Liberal","Libéral",Y,Y,54
+35072,"Oakville","Oakville"," 33","Oakville",N,N,"",0,437,"Colborne","","Kerry","Conservative","Conservateur",N,N,67
+35072,"Oakville","Oakville"," 33","Oakville",N,N,"",0,437,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 33","Oakville",N,N,"",0,437,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,1
+35072,"Oakville","Oakville"," 34","Oakville",N,N,"",0,339,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35072,"Oakville","Oakville"," 34","Oakville",N,N,"",0,339,"Anand","","Anita","Liberal","Libéral",Y,Y,46
+35072,"Oakville","Oakville"," 34","Oakville",N,N,"",0,339,"Colborne","","Kerry","Conservative","Conservateur",N,N,43
+35072,"Oakville","Oakville"," 34","Oakville",N,N,"",0,339,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 34","Oakville",N,N,"",0,339,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,2
+35072,"Oakville","Oakville"," 35","Oakville",N,N,"",1,418,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35072,"Oakville","Oakville"," 35","Oakville",N,N,"",1,418,"Anand","","Anita","Liberal","Libéral",Y,Y,57
+35072,"Oakville","Oakville"," 35","Oakville",N,N,"",1,418,"Colborne","","Kerry","Conservative","Conservateur",N,N,43
+35072,"Oakville","Oakville"," 35","Oakville",N,N,"",1,418,"Knox","","Oriana","Green Party","Parti Vert",N,N,0
+35072,"Oakville","Oakville"," 35","Oakville",N,N,"",1,418,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,3
+35072,"Oakville","Oakville"," 36","Oakville",N,N,"",0,321,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35072,"Oakville","Oakville"," 36","Oakville",N,N,"",0,321,"Anand","","Anita","Liberal","Libéral",Y,Y,39
+35072,"Oakville","Oakville"," 36","Oakville",N,N,"",0,321,"Colborne","","Kerry","Conservative","Conservateur",N,N,38
+35072,"Oakville","Oakville"," 36","Oakville",N,N,"",0,321,"Knox","","Oriana","Green Party","Parti Vert",N,N,5
+35072,"Oakville","Oakville"," 36","Oakville",N,N,"",0,321,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,0
+35072,"Oakville","Oakville"," 37","Oakville",N,N,"",0,235,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35072,"Oakville","Oakville"," 37","Oakville",N,N,"",0,235,"Anand","","Anita","Liberal","Libéral",Y,Y,37
+35072,"Oakville","Oakville"," 37","Oakville",N,N,"",0,235,"Colborne","","Kerry","Conservative","Conservateur",N,N,31
+35072,"Oakville","Oakville"," 37","Oakville",N,N,"",0,235,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 37","Oakville",N,N,"",0,235,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,0
+35072,"Oakville","Oakville"," 38","Oakville",N,N,"",0,460,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35072,"Oakville","Oakville"," 38","Oakville",N,N,"",0,460,"Anand","","Anita","Liberal","Libéral",Y,Y,79
+35072,"Oakville","Oakville"," 38","Oakville",N,N,"",0,460,"Colborne","","Kerry","Conservative","Conservateur",N,N,59
+35072,"Oakville","Oakville"," 38","Oakville",N,N,"",0,460,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 38","Oakville",N,N,"",0,460,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,12
+35072,"Oakville","Oakville"," 39","Oakville",N,N,"",2,318,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35072,"Oakville","Oakville"," 39","Oakville",N,N,"",2,318,"Anand","","Anita","Liberal","Libéral",Y,Y,47
+35072,"Oakville","Oakville"," 39","Oakville",N,N,"",2,318,"Colborne","","Kerry","Conservative","Conservateur",N,N,44
+35072,"Oakville","Oakville"," 39","Oakville",N,N,"",2,318,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 39","Oakville",N,N,"",2,318,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,13
+35072,"Oakville","Oakville"," 40","Oakville",N,N,"",0,348,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35072,"Oakville","Oakville"," 40","Oakville",N,N,"",0,348,"Anand","","Anita","Liberal","Libéral",Y,Y,58
+35072,"Oakville","Oakville"," 40","Oakville",N,N,"",0,348,"Colborne","","Kerry","Conservative","Conservateur",N,N,43
+35072,"Oakville","Oakville"," 40","Oakville",N,N,"",0,348,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 40","Oakville",N,N,"",0,348,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,3
+35072,"Oakville","Oakville"," 41","Oakville",N,N,"",0,378,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35072,"Oakville","Oakville"," 41","Oakville",N,N,"",0,378,"Anand","","Anita","Liberal","Libéral",Y,Y,44
+35072,"Oakville","Oakville"," 41","Oakville",N,N,"",0,378,"Colborne","","Kerry","Conservative","Conservateur",N,N,65
+35072,"Oakville","Oakville"," 41","Oakville",N,N,"",0,378,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 41","Oakville",N,N,"",0,378,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,6
+35072,"Oakville","Oakville"," 42","Oakville",N,N,"",1,330,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35072,"Oakville","Oakville"," 42","Oakville",N,N,"",1,330,"Anand","","Anita","Liberal","Libéral",Y,Y,54
+35072,"Oakville","Oakville"," 42","Oakville",N,N,"",1,330,"Colborne","","Kerry","Conservative","Conservateur",N,N,53
+35072,"Oakville","Oakville"," 42","Oakville",N,N,"",1,330,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 42","Oakville",N,N,"",1,330,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,0
+35072,"Oakville","Oakville"," 43","Oakville",N,N,"",0,368,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35072,"Oakville","Oakville"," 43","Oakville",N,N,"",0,368,"Anand","","Anita","Liberal","Libéral",Y,Y,56
+35072,"Oakville","Oakville"," 43","Oakville",N,N,"",0,368,"Colborne","","Kerry","Conservative","Conservateur",N,N,53
+35072,"Oakville","Oakville"," 43","Oakville",N,N,"",0,368,"Knox","","Oriana","Green Party","Parti Vert",N,N,0
+35072,"Oakville","Oakville"," 43","Oakville",N,N,"",0,368,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,2
+35072,"Oakville","Oakville"," 44","Oakville",N,N,"",0,284,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35072,"Oakville","Oakville"," 44","Oakville",N,N,"",0,284,"Anand","","Anita","Liberal","Libéral",Y,Y,45
+35072,"Oakville","Oakville"," 44","Oakville",N,N,"",0,284,"Colborne","","Kerry","Conservative","Conservateur",N,N,57
+35072,"Oakville","Oakville"," 44","Oakville",N,N,"",0,284,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 44","Oakville",N,N,"",0,284,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,9
+35072,"Oakville","Oakville"," 45","Oakville",N,N,"",1,369,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35072,"Oakville","Oakville"," 45","Oakville",N,N,"",1,369,"Anand","","Anita","Liberal","Libéral",Y,Y,73
+35072,"Oakville","Oakville"," 45","Oakville",N,N,"",1,369,"Colborne","","Kerry","Conservative","Conservateur",N,N,67
+35072,"Oakville","Oakville"," 45","Oakville",N,N,"",1,369,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 45","Oakville",N,N,"",1,369,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,4
+35072,"Oakville","Oakville"," 46","Oakville",N,N,"",2,462,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35072,"Oakville","Oakville"," 46","Oakville",N,N,"",2,462,"Anand","","Anita","Liberal","Libéral",Y,Y,100
+35072,"Oakville","Oakville"," 46","Oakville",N,N,"",2,462,"Colborne","","Kerry","Conservative","Conservateur",N,N,51
+35072,"Oakville","Oakville"," 46","Oakville",N,N,"",2,462,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 46","Oakville",N,N,"",2,462,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,3
+35072,"Oakville","Oakville"," 47","Oakville",N,N,"",0,319,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35072,"Oakville","Oakville"," 47","Oakville",N,N,"",0,319,"Anand","","Anita","Liberal","Libéral",Y,Y,57
+35072,"Oakville","Oakville"," 47","Oakville",N,N,"",0,319,"Colborne","","Kerry","Conservative","Conservateur",N,N,51
+35072,"Oakville","Oakville"," 47","Oakville",N,N,"",0,319,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 47","Oakville",N,N,"",0,319,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,3
+35072,"Oakville","Oakville"," 48","Oakville",N,N,"",0,338,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35072,"Oakville","Oakville"," 48","Oakville",N,N,"",0,338,"Anand","","Anita","Liberal","Libéral",Y,Y,56
+35072,"Oakville","Oakville"," 48","Oakville",N,N,"",0,338,"Colborne","","Kerry","Conservative","Conservateur",N,N,75
+35072,"Oakville","Oakville"," 48","Oakville",N,N,"",0,338,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 48","Oakville",N,N,"",0,338,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,0
+35072,"Oakville","Oakville"," 49","Oakville",N,N,"",0,256,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35072,"Oakville","Oakville"," 49","Oakville",N,N,"",0,256,"Anand","","Anita","Liberal","Libéral",Y,Y,53
+35072,"Oakville","Oakville"," 49","Oakville",N,N,"",0,256,"Colborne","","Kerry","Conservative","Conservateur",N,N,62
+35072,"Oakville","Oakville"," 49","Oakville",N,N,"",0,256,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 49","Oakville",N,N,"",0,256,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,1
+35072,"Oakville","Oakville"," 50","Oakville",N,N,"",0,320,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35072,"Oakville","Oakville"," 50","Oakville",N,N,"",0,320,"Anand","","Anita","Liberal","Libéral",Y,Y,68
+35072,"Oakville","Oakville"," 50","Oakville",N,N,"",0,320,"Colborne","","Kerry","Conservative","Conservateur",N,N,60
+35072,"Oakville","Oakville"," 50","Oakville",N,N,"",0,320,"Knox","","Oriana","Green Party","Parti Vert",N,N,5
+35072,"Oakville","Oakville"," 50","Oakville",N,N,"",0,320,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,3
+35072,"Oakville","Oakville"," 51","Oakville",N,N,"",0,346,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35072,"Oakville","Oakville"," 51","Oakville",N,N,"",0,346,"Anand","","Anita","Liberal","Libéral",Y,Y,49
+35072,"Oakville","Oakville"," 51","Oakville",N,N,"",0,346,"Colborne","","Kerry","Conservative","Conservateur",N,N,73
+35072,"Oakville","Oakville"," 51","Oakville",N,N,"",0,346,"Knox","","Oriana","Green Party","Parti Vert",N,N,0
+35072,"Oakville","Oakville"," 51","Oakville",N,N,"",0,346,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,3
+35072,"Oakville","Oakville"," 52","Oakville",N,N,"",3,421,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35072,"Oakville","Oakville"," 52","Oakville",N,N,"",3,421,"Anand","","Anita","Liberal","Libéral",Y,Y,95
+35072,"Oakville","Oakville"," 52","Oakville",N,N,"",3,421,"Colborne","","Kerry","Conservative","Conservateur",N,N,82
+35072,"Oakville","Oakville"," 52","Oakville",N,N,"",3,421,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 52","Oakville",N,N,"",3,421,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,2
+35072,"Oakville","Oakville"," 53","Oakville",N,N,"",0,452,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35072,"Oakville","Oakville"," 53","Oakville",N,N,"",0,452,"Anand","","Anita","Liberal","Libéral",Y,Y,80
+35072,"Oakville","Oakville"," 53","Oakville",N,N,"",0,452,"Colborne","","Kerry","Conservative","Conservateur",N,N,95
+35072,"Oakville","Oakville"," 53","Oakville",N,N,"",0,452,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 53","Oakville",N,N,"",0,452,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,9
+35072,"Oakville","Oakville"," 54","Oakville",N,N,"",1,421,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35072,"Oakville","Oakville"," 54","Oakville",N,N,"",1,421,"Anand","","Anita","Liberal","Libéral",Y,Y,84
+35072,"Oakville","Oakville"," 54","Oakville",N,N,"",1,421,"Colborne","","Kerry","Conservative","Conservateur",N,N,83
+35072,"Oakville","Oakville"," 54","Oakville",N,N,"",1,421,"Knox","","Oriana","Green Party","Parti Vert",N,N,5
+35072,"Oakville","Oakville"," 54","Oakville",N,N,"",1,421,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,5
+35072,"Oakville","Oakville"," 55","Oakville",N,N,"",2,450,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35072,"Oakville","Oakville"," 55","Oakville",N,N,"",2,450,"Anand","","Anita","Liberal","Libéral",Y,Y,70
+35072,"Oakville","Oakville"," 55","Oakville",N,N,"",2,450,"Colborne","","Kerry","Conservative","Conservateur",N,N,68
+35072,"Oakville","Oakville"," 55","Oakville",N,N,"",2,450,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 55","Oakville",N,N,"",2,450,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,8
+35072,"Oakville","Oakville"," 56","Oakville",N,N,"",0,408,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35072,"Oakville","Oakville"," 56","Oakville",N,N,"",0,408,"Anand","","Anita","Liberal","Libéral",Y,Y,74
+35072,"Oakville","Oakville"," 56","Oakville",N,N,"",0,408,"Colborne","","Kerry","Conservative","Conservateur",N,N,104
+35072,"Oakville","Oakville"," 56","Oakville",N,N,"",0,408,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 56","Oakville",N,N,"",0,408,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,3
+35072,"Oakville","Oakville"," 57","Oakville",N,N,"",0,316,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35072,"Oakville","Oakville"," 57","Oakville",N,N,"",0,316,"Anand","","Anita","Liberal","Libéral",Y,Y,45
+35072,"Oakville","Oakville"," 57","Oakville",N,N,"",0,316,"Colborne","","Kerry","Conservative","Conservateur",N,N,52
+35072,"Oakville","Oakville"," 57","Oakville",N,N,"",0,316,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 57","Oakville",N,N,"",0,316,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,3
+35072,"Oakville","Oakville"," 58","Oakville",N,N,"",0,378,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35072,"Oakville","Oakville"," 58","Oakville",N,N,"",0,378,"Anand","","Anita","Liberal","Libéral",Y,Y,65
+35072,"Oakville","Oakville"," 58","Oakville",N,N,"",0,378,"Colborne","","Kerry","Conservative","Conservateur",N,N,76
+35072,"Oakville","Oakville"," 58","Oakville",N,N,"",0,378,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 58","Oakville",N,N,"",0,378,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,7
+35072,"Oakville","Oakville"," 59","Oakville",N,N,"",6,426,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35072,"Oakville","Oakville"," 59","Oakville",N,N,"",6,426,"Anand","","Anita","Liberal","Libéral",Y,Y,86
+35072,"Oakville","Oakville"," 59","Oakville",N,N,"",6,426,"Colborne","","Kerry","Conservative","Conservateur",N,N,78
+35072,"Oakville","Oakville"," 59","Oakville",N,N,"",6,426,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 59","Oakville",N,N,"",6,426,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,3
+35072,"Oakville","Oakville"," 60","Oakville",N,N,"",2,510,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35072,"Oakville","Oakville"," 60","Oakville",N,N,"",2,510,"Anand","","Anita","Liberal","Libéral",Y,Y,79
+35072,"Oakville","Oakville"," 60","Oakville",N,N,"",2,510,"Colborne","","Kerry","Conservative","Conservateur",N,N,68
+35072,"Oakville","Oakville"," 60","Oakville",N,N,"",2,510,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 60","Oakville",N,N,"",2,510,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,18
+35072,"Oakville","Oakville"," 61","Oakville",N,N,"",0,373,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35072,"Oakville","Oakville"," 61","Oakville",N,N,"",0,373,"Anand","","Anita","Liberal","Libéral",Y,Y,78
+35072,"Oakville","Oakville"," 61","Oakville",N,N,"",0,373,"Colborne","","Kerry","Conservative","Conservateur",N,N,49
+35072,"Oakville","Oakville"," 61","Oakville",N,N,"",0,373,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 61","Oakville",N,N,"",0,373,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,7
+35072,"Oakville","Oakville"," 62","Oakville",N,N,"",0,483,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35072,"Oakville","Oakville"," 62","Oakville",N,N,"",0,483,"Anand","","Anita","Liberal","Libéral",Y,Y,72
+35072,"Oakville","Oakville"," 62","Oakville",N,N,"",0,483,"Colborne","","Kerry","Conservative","Conservateur",N,N,70
+35072,"Oakville","Oakville"," 62","Oakville",N,N,"",0,483,"Knox","","Oriana","Green Party","Parti Vert",N,N,6
+35072,"Oakville","Oakville"," 62","Oakville",N,N,"",0,483,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,14
+35072,"Oakville","Oakville"," 63","Oakville",N,N,"",1,289,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35072,"Oakville","Oakville"," 63","Oakville",N,N,"",1,289,"Anand","","Anita","Liberal","Libéral",Y,Y,56
+35072,"Oakville","Oakville"," 63","Oakville",N,N,"",1,289,"Colborne","","Kerry","Conservative","Conservateur",N,N,39
+35072,"Oakville","Oakville"," 63","Oakville",N,N,"",1,289,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 63","Oakville",N,N,"",1,289,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,4
+35072,"Oakville","Oakville"," 64","Oakville",N,N,"",0,420,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35072,"Oakville","Oakville"," 64","Oakville",N,N,"",0,420,"Anand","","Anita","Liberal","Libéral",Y,Y,68
+35072,"Oakville","Oakville"," 64","Oakville",N,N,"",0,420,"Colborne","","Kerry","Conservative","Conservateur",N,N,55
+35072,"Oakville","Oakville"," 64","Oakville",N,N,"",0,420,"Knox","","Oriana","Green Party","Parti Vert",N,N,6
+35072,"Oakville","Oakville"," 64","Oakville",N,N,"",0,420,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,5
+35072,"Oakville","Oakville"," 65","Oakville",N,N,"",2,389,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35072,"Oakville","Oakville"," 65","Oakville",N,N,"",2,389,"Anand","","Anita","Liberal","Libéral",Y,Y,48
+35072,"Oakville","Oakville"," 65","Oakville",N,N,"",2,389,"Colborne","","Kerry","Conservative","Conservateur",N,N,55
+35072,"Oakville","Oakville"," 65","Oakville",N,N,"",2,389,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 65","Oakville",N,N,"",2,389,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,13
+35072,"Oakville","Oakville"," 66","Oakville",N,N,"",0,371,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35072,"Oakville","Oakville"," 66","Oakville",N,N,"",0,371,"Anand","","Anita","Liberal","Libéral",Y,Y,49
+35072,"Oakville","Oakville"," 66","Oakville",N,N,"",0,371,"Colborne","","Kerry","Conservative","Conservateur",N,N,44
+35072,"Oakville","Oakville"," 66","Oakville",N,N,"",0,371,"Knox","","Oriana","Green Party","Parti Vert",N,N,6
+35072,"Oakville","Oakville"," 66","Oakville",N,N,"",0,371,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,9
+35072,"Oakville","Oakville"," 67","Oakville",N,N,"",1,451,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+35072,"Oakville","Oakville"," 67","Oakville",N,N,"",1,451,"Anand","","Anita","Liberal","Libéral",Y,Y,59
+35072,"Oakville","Oakville"," 67","Oakville",N,N,"",1,451,"Colborne","","Kerry","Conservative","Conservateur",N,N,29
+35072,"Oakville","Oakville"," 67","Oakville",N,N,"",1,451,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 67","Oakville",N,N,"",1,451,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,8
+35072,"Oakville","Oakville"," 68","Oakville",N,N,"",1,409,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35072,"Oakville","Oakville"," 68","Oakville",N,N,"",1,409,"Anand","","Anita","Liberal","Libéral",Y,Y,68
+35072,"Oakville","Oakville"," 68","Oakville",N,N,"",1,409,"Colborne","","Kerry","Conservative","Conservateur",N,N,53
+35072,"Oakville","Oakville"," 68","Oakville",N,N,"",1,409,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 68","Oakville",N,N,"",1,409,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,4
+35072,"Oakville","Oakville"," 69","Oakville",N,N,"",2,328,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35072,"Oakville","Oakville"," 69","Oakville",N,N,"",2,328,"Anand","","Anita","Liberal","Libéral",Y,Y,38
+35072,"Oakville","Oakville"," 69","Oakville",N,N,"",2,328,"Colborne","","Kerry","Conservative","Conservateur",N,N,38
+35072,"Oakville","Oakville"," 69","Oakville",N,N,"",2,328,"Knox","","Oriana","Green Party","Parti Vert",N,N,0
+35072,"Oakville","Oakville"," 69","Oakville",N,N,"",2,328,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,11
+35072,"Oakville","Oakville"," 70","Oakville",N,N,"",1,307,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35072,"Oakville","Oakville"," 70","Oakville",N,N,"",1,307,"Anand","","Anita","Liberal","Libéral",Y,Y,55
+35072,"Oakville","Oakville"," 70","Oakville",N,N,"",1,307,"Colborne","","Kerry","Conservative","Conservateur",N,N,28
+35072,"Oakville","Oakville"," 70","Oakville",N,N,"",1,307,"Knox","","Oriana","Green Party","Parti Vert",N,N,6
+35072,"Oakville","Oakville"," 70","Oakville",N,N,"",1,307,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,6
+35072,"Oakville","Oakville"," 71","Oakville",N,N,"",0,408,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35072,"Oakville","Oakville"," 71","Oakville",N,N,"",0,408,"Anand","","Anita","Liberal","Libéral",Y,Y,42
+35072,"Oakville","Oakville"," 71","Oakville",N,N,"",0,408,"Colborne","","Kerry","Conservative","Conservateur",N,N,48
+35072,"Oakville","Oakville"," 71","Oakville",N,N,"",0,408,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 71","Oakville",N,N,"",0,408,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,4
+35072,"Oakville","Oakville"," 72","Oakville",N,N,"",0,585,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,78
+35072,"Oakville","Oakville"," 72","Oakville",N,N,"",0,585,"Anand","","Anita","Liberal","Libéral",Y,Y,76
+35072,"Oakville","Oakville"," 72","Oakville",N,N,"",0,585,"Colborne","","Kerry","Conservative","Conservateur",N,N,38
+35072,"Oakville","Oakville"," 72","Oakville",N,N,"",0,585,"Knox","","Oriana","Green Party","Parti Vert",N,N,5
+35072,"Oakville","Oakville"," 72","Oakville",N,N,"",0,585,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,14
+35072,"Oakville","Oakville"," 73","Oakville",N,N,"",0,402,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35072,"Oakville","Oakville"," 73","Oakville",N,N,"",0,402,"Anand","","Anita","Liberal","Libéral",Y,Y,53
+35072,"Oakville","Oakville"," 73","Oakville",N,N,"",0,402,"Colborne","","Kerry","Conservative","Conservateur",N,N,69
+35072,"Oakville","Oakville"," 73","Oakville",N,N,"",0,402,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 73","Oakville",N,N,"",0,402,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,6
+35072,"Oakville","Oakville"," 74","Oakville",N,N,"",1,416,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35072,"Oakville","Oakville"," 74","Oakville",N,N,"",1,416,"Anand","","Anita","Liberal","Libéral",Y,Y,45
+35072,"Oakville","Oakville"," 74","Oakville",N,N,"",1,416,"Colborne","","Kerry","Conservative","Conservateur",N,N,78
+35072,"Oakville","Oakville"," 74","Oakville",N,N,"",1,416,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 74","Oakville",N,N,"",1,416,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,3
+35072,"Oakville","Oakville"," 75","Oakville",N,N,"",0,390,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35072,"Oakville","Oakville"," 75","Oakville",N,N,"",0,390,"Anand","","Anita","Liberal","Libéral",Y,Y,53
+35072,"Oakville","Oakville"," 75","Oakville",N,N,"",0,390,"Colborne","","Kerry","Conservative","Conservateur",N,N,69
+35072,"Oakville","Oakville"," 75","Oakville",N,N,"",0,390,"Knox","","Oriana","Green Party","Parti Vert",N,N,0
+35072,"Oakville","Oakville"," 75","Oakville",N,N,"",0,390,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,5
+35072,"Oakville","Oakville"," 76","Oakville",N,N,"",1,422,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35072,"Oakville","Oakville"," 76","Oakville",N,N,"",1,422,"Anand","","Anita","Liberal","Libéral",Y,Y,48
+35072,"Oakville","Oakville"," 76","Oakville",N,N,"",1,422,"Colborne","","Kerry","Conservative","Conservateur",N,N,84
+35072,"Oakville","Oakville"," 76","Oakville",N,N,"",1,422,"Knox","","Oriana","Green Party","Parti Vert",N,N,0
+35072,"Oakville","Oakville"," 76","Oakville",N,N,"",1,422,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,8
+35072,"Oakville","Oakville"," 77","Oakville",N,N,"",1,381,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35072,"Oakville","Oakville"," 77","Oakville",N,N,"",1,381,"Anand","","Anita","Liberal","Libéral",Y,Y,50
+35072,"Oakville","Oakville"," 77","Oakville",N,N,"",1,381,"Colborne","","Kerry","Conservative","Conservateur",N,N,52
+35072,"Oakville","Oakville"," 77","Oakville",N,N,"",1,381,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 77","Oakville",N,N,"",1,381,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,2
+35072,"Oakville","Oakville"," 78","Oakville",N,N,"",0,285,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35072,"Oakville","Oakville"," 78","Oakville",N,N,"",0,285,"Anand","","Anita","Liberal","Libéral",Y,Y,45
+35072,"Oakville","Oakville"," 78","Oakville",N,N,"",0,285,"Colborne","","Kerry","Conservative","Conservateur",N,N,23
+35072,"Oakville","Oakville"," 78","Oakville",N,N,"",0,285,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 78","Oakville",N,N,"",0,285,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,2
+35072,"Oakville","Oakville"," 79","Oakville",N,N,"",2,428,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+35072,"Oakville","Oakville"," 79","Oakville",N,N,"",2,428,"Anand","","Anita","Liberal","Libéral",Y,Y,59
+35072,"Oakville","Oakville"," 79","Oakville",N,N,"",2,428,"Colborne","","Kerry","Conservative","Conservateur",N,N,39
+35072,"Oakville","Oakville"," 79","Oakville",N,N,"",2,428,"Knox","","Oriana","Green Party","Parti Vert",N,N,9
+35072,"Oakville","Oakville"," 79","Oakville",N,N,"",2,428,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,7
+35072,"Oakville","Oakville"," 80","Oakville",N,N,"",1,324,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35072,"Oakville","Oakville"," 80","Oakville",N,N,"",1,324,"Anand","","Anita","Liberal","Libéral",Y,Y,55
+35072,"Oakville","Oakville"," 80","Oakville",N,N,"",1,324,"Colborne","","Kerry","Conservative","Conservateur",N,N,28
+35072,"Oakville","Oakville"," 80","Oakville",N,N,"",1,324,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 80","Oakville",N,N,"",1,324,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,7
+35072,"Oakville","Oakville"," 81","Oakville",N,N,"",0,395,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35072,"Oakville","Oakville"," 81","Oakville",N,N,"",0,395,"Anand","","Anita","Liberal","Libéral",Y,Y,60
+35072,"Oakville","Oakville"," 81","Oakville",N,N,"",0,395,"Colborne","","Kerry","Conservative","Conservateur",N,N,35
+35072,"Oakville","Oakville"," 81","Oakville",N,N,"",0,395,"Knox","","Oriana","Green Party","Parti Vert",N,N,6
+35072,"Oakville","Oakville"," 81","Oakville",N,N,"",0,395,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,7
+35072,"Oakville","Oakville"," 82","Oakville",N,N,"",0,354,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35072,"Oakville","Oakville"," 82","Oakville",N,N,"",0,354,"Anand","","Anita","Liberal","Libéral",Y,Y,59
+35072,"Oakville","Oakville"," 82","Oakville",N,N,"",0,354,"Colborne","","Kerry","Conservative","Conservateur",N,N,51
+35072,"Oakville","Oakville"," 82","Oakville",N,N,"",0,354,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 82","Oakville",N,N,"",0,354,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,13
+35072,"Oakville","Oakville"," 83","Oakville",N,N,"",0,352,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35072,"Oakville","Oakville"," 83","Oakville",N,N,"",0,352,"Anand","","Anita","Liberal","Libéral",Y,Y,44
+35072,"Oakville","Oakville"," 83","Oakville",N,N,"",0,352,"Colborne","","Kerry","Conservative","Conservateur",N,N,29
+35072,"Oakville","Oakville"," 83","Oakville",N,N,"",0,352,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 83","Oakville",N,N,"",0,352,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,4
+35072,"Oakville","Oakville"," 84","Oakville",N,N,"",0,302,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35072,"Oakville","Oakville"," 84","Oakville",N,N,"",0,302,"Anand","","Anita","Liberal","Libéral",Y,Y,67
+35072,"Oakville","Oakville"," 84","Oakville",N,N,"",0,302,"Colborne","","Kerry","Conservative","Conservateur",N,N,52
+35072,"Oakville","Oakville"," 84","Oakville",N,N,"",0,302,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 84","Oakville",N,N,"",0,302,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,3
+35072,"Oakville","Oakville"," 85","Oakville",N,N,"",3,462,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35072,"Oakville","Oakville"," 85","Oakville",N,N,"",3,462,"Anand","","Anita","Liberal","Libéral",Y,Y,62
+35072,"Oakville","Oakville"," 85","Oakville",N,N,"",3,462,"Colborne","","Kerry","Conservative","Conservateur",N,N,46
+35072,"Oakville","Oakville"," 85","Oakville",N,N,"",3,462,"Knox","","Oriana","Green Party","Parti Vert",N,N,6
+35072,"Oakville","Oakville"," 85","Oakville",N,N,"",3,462,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,8
+35072,"Oakville","Oakville"," 86","Oakville",N,N,"",0,432,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35072,"Oakville","Oakville"," 86","Oakville",N,N,"",0,432,"Anand","","Anita","Liberal","Libéral",Y,Y,61
+35072,"Oakville","Oakville"," 86","Oakville",N,N,"",0,432,"Colborne","","Kerry","Conservative","Conservateur",N,N,65
+35072,"Oakville","Oakville"," 86","Oakville",N,N,"",0,432,"Knox","","Oriana","Green Party","Parti Vert",N,N,7
+35072,"Oakville","Oakville"," 86","Oakville",N,N,"",0,432,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,15
+35072,"Oakville","Oakville"," 87","Oakville",N,N,"",0,391,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35072,"Oakville","Oakville"," 87","Oakville",N,N,"",0,391,"Anand","","Anita","Liberal","Libéral",Y,Y,77
+35072,"Oakville","Oakville"," 87","Oakville",N,N,"",0,391,"Colborne","","Kerry","Conservative","Conservateur",N,N,49
+35072,"Oakville","Oakville"," 87","Oakville",N,N,"",0,391,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 87","Oakville",N,N,"",0,391,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,13
+35072,"Oakville","Oakville"," 88","Oakville",N,N,"",3,448,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35072,"Oakville","Oakville"," 88","Oakville",N,N,"",3,448,"Anand","","Anita","Liberal","Libéral",Y,Y,67
+35072,"Oakville","Oakville"," 88","Oakville",N,N,"",3,448,"Colborne","","Kerry","Conservative","Conservateur",N,N,68
+35072,"Oakville","Oakville"," 88","Oakville",N,N,"",3,448,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 88","Oakville",N,N,"",3,448,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,9
+35072,"Oakville","Oakville"," 89","Oakville",N,N,"",0,454,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35072,"Oakville","Oakville"," 89","Oakville",N,N,"",0,454,"Anand","","Anita","Liberal","Libéral",Y,Y,74
+35072,"Oakville","Oakville"," 89","Oakville",N,N,"",0,454,"Colborne","","Kerry","Conservative","Conservateur",N,N,71
+35072,"Oakville","Oakville"," 89","Oakville",N,N,"",0,454,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 89","Oakville",N,N,"",0,454,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,2
+35072,"Oakville","Oakville"," 90","Oakville",N,N,"",0,437,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35072,"Oakville","Oakville"," 90","Oakville",N,N,"",0,437,"Anand","","Anita","Liberal","Libéral",Y,Y,47
+35072,"Oakville","Oakville"," 90","Oakville",N,N,"",0,437,"Colborne","","Kerry","Conservative","Conservateur",N,N,90
+35072,"Oakville","Oakville"," 90","Oakville",N,N,"",0,437,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 90","Oakville",N,N,"",0,437,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,5
+35072,"Oakville","Oakville"," 91","Oakville",N,N,"",0,421,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35072,"Oakville","Oakville"," 91","Oakville",N,N,"",0,421,"Anand","","Anita","Liberal","Libéral",Y,Y,50
+35072,"Oakville","Oakville"," 91","Oakville",N,N,"",0,421,"Colborne","","Kerry","Conservative","Conservateur",N,N,89
+35072,"Oakville","Oakville"," 91","Oakville",N,N,"",0,421,"Knox","","Oriana","Green Party","Parti Vert",N,N,5
+35072,"Oakville","Oakville"," 91","Oakville",N,N,"",0,421,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,4
+35072,"Oakville","Oakville"," 92","Oakville",N,N,"",2,466,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35072,"Oakville","Oakville"," 92","Oakville",N,N,"",2,466,"Anand","","Anita","Liberal","Libéral",Y,Y,68
+35072,"Oakville","Oakville"," 92","Oakville",N,N,"",2,466,"Colborne","","Kerry","Conservative","Conservateur",N,N,85
+35072,"Oakville","Oakville"," 92","Oakville",N,N,"",2,466,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 92","Oakville",N,N,"",2,466,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,3
+35072,"Oakville","Oakville"," 93","Oakville",N,N,"",1,359,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35072,"Oakville","Oakville"," 93","Oakville",N,N,"",1,359,"Anand","","Anita","Liberal","Libéral",Y,Y,77
+35072,"Oakville","Oakville"," 93","Oakville",N,N,"",1,359,"Colborne","","Kerry","Conservative","Conservateur",N,N,50
+35072,"Oakville","Oakville"," 93","Oakville",N,N,"",1,359,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 93","Oakville",N,N,"",1,359,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,6
+35072,"Oakville","Oakville"," 94","Oakville",N,N,"",0,422,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35072,"Oakville","Oakville"," 94","Oakville",N,N,"",0,422,"Anand","","Anita","Liberal","Libéral",Y,Y,57
+35072,"Oakville","Oakville"," 94","Oakville",N,N,"",0,422,"Colborne","","Kerry","Conservative","Conservateur",N,N,59
+35072,"Oakville","Oakville"," 94","Oakville",N,N,"",0,422,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 94","Oakville",N,N,"",0,422,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,2
+35072,"Oakville","Oakville"," 95","Oakville",N,N,"",3,491,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35072,"Oakville","Oakville"," 95","Oakville",N,N,"",3,491,"Anand","","Anita","Liberal","Libéral",Y,Y,75
+35072,"Oakville","Oakville"," 95","Oakville",N,N,"",3,491,"Colborne","","Kerry","Conservative","Conservateur",N,N,74
+35072,"Oakville","Oakville"," 95","Oakville",N,N,"",3,491,"Knox","","Oriana","Green Party","Parti Vert",N,N,10
+35072,"Oakville","Oakville"," 95","Oakville",N,N,"",3,491,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,17
+35072,"Oakville","Oakville"," 96","Oakville",N,N,"",2,403,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35072,"Oakville","Oakville"," 96","Oakville",N,N,"",2,403,"Anand","","Anita","Liberal","Libéral",Y,Y,82
+35072,"Oakville","Oakville"," 96","Oakville",N,N,"",2,403,"Colborne","","Kerry","Conservative","Conservateur",N,N,61
+35072,"Oakville","Oakville"," 96","Oakville",N,N,"",2,403,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 96","Oakville",N,N,"",2,403,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,10
+35072,"Oakville","Oakville"," 97","Oakville",N,N,"",0,479,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35072,"Oakville","Oakville"," 97","Oakville",N,N,"",0,479,"Anand","","Anita","Liberal","Libéral",Y,Y,68
+35072,"Oakville","Oakville"," 97","Oakville",N,N,"",0,479,"Colborne","","Kerry","Conservative","Conservateur",N,N,94
+35072,"Oakville","Oakville"," 97","Oakville",N,N,"",0,479,"Knox","","Oriana","Green Party","Parti Vert",N,N,9
+35072,"Oakville","Oakville"," 97","Oakville",N,N,"",0,479,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,14
+35072,"Oakville","Oakville"," 98","Oakville",N,N,"",0,382,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35072,"Oakville","Oakville"," 98","Oakville",N,N,"",0,382,"Anand","","Anita","Liberal","Libéral",Y,Y,66
+35072,"Oakville","Oakville"," 98","Oakville",N,N,"",0,382,"Colborne","","Kerry","Conservative","Conservateur",N,N,63
+35072,"Oakville","Oakville"," 98","Oakville",N,N,"",0,382,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 98","Oakville",N,N,"",0,382,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,7
+35072,"Oakville","Oakville"," 99","Oakville",N,N,"",1,401,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35072,"Oakville","Oakville"," 99","Oakville",N,N,"",1,401,"Anand","","Anita","Liberal","Libéral",Y,Y,84
+35072,"Oakville","Oakville"," 99","Oakville",N,N,"",1,401,"Colborne","","Kerry","Conservative","Conservateur",N,N,52
+35072,"Oakville","Oakville"," 99","Oakville",N,N,"",1,401,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 99","Oakville",N,N,"",1,401,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,11
+35072,"Oakville","Oakville"," 100","Oakville",N,N,"",2,430,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35072,"Oakville","Oakville"," 100","Oakville",N,N,"",2,430,"Anand","","Anita","Liberal","Libéral",Y,Y,56
+35072,"Oakville","Oakville"," 100","Oakville",N,N,"",2,430,"Colborne","","Kerry","Conservative","Conservateur",N,N,89
+35072,"Oakville","Oakville"," 100","Oakville",N,N,"",2,430,"Knox","","Oriana","Green Party","Parti Vert",N,N,5
+35072,"Oakville","Oakville"," 100","Oakville",N,N,"",2,430,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,7
+35072,"Oakville","Oakville"," 101","Oakville",N,N,"",1,424,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35072,"Oakville","Oakville"," 101","Oakville",N,N,"",1,424,"Anand","","Anita","Liberal","Libéral",Y,Y,128
+35072,"Oakville","Oakville"," 101","Oakville",N,N,"",1,424,"Colborne","","Kerry","Conservative","Conservateur",N,N,72
+35072,"Oakville","Oakville"," 101","Oakville",N,N,"",1,424,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 101","Oakville",N,N,"",1,424,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,4
+35072,"Oakville","Oakville"," 102","Oakville",N,N,"",1,427,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35072,"Oakville","Oakville"," 102","Oakville",N,N,"",1,427,"Anand","","Anita","Liberal","Libéral",Y,Y,72
+35072,"Oakville","Oakville"," 102","Oakville",N,N,"",1,427,"Colborne","","Kerry","Conservative","Conservateur",N,N,46
+35072,"Oakville","Oakville"," 102","Oakville",N,N,"",1,427,"Knox","","Oriana","Green Party","Parti Vert",N,N,0
+35072,"Oakville","Oakville"," 102","Oakville",N,N,"",1,427,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,2
+35072,"Oakville","Oakville"," 103","Oakville",N,N,"",0,429,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35072,"Oakville","Oakville"," 103","Oakville",N,N,"",0,429,"Anand","","Anita","Liberal","Libéral",Y,Y,47
+35072,"Oakville","Oakville"," 103","Oakville",N,N,"",0,429,"Colborne","","Kerry","Conservative","Conservateur",N,N,98
+35072,"Oakville","Oakville"," 103","Oakville",N,N,"",0,429,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 103","Oakville",N,N,"",0,429,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,1
+35072,"Oakville","Oakville"," 104","Oakville",N,N,"",1,397,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35072,"Oakville","Oakville"," 104","Oakville",N,N,"",1,397,"Anand","","Anita","Liberal","Libéral",Y,Y,77
+35072,"Oakville","Oakville"," 104","Oakville",N,N,"",1,397,"Colborne","","Kerry","Conservative","Conservateur",N,N,56
+35072,"Oakville","Oakville"," 104","Oakville",N,N,"",1,397,"Knox","","Oriana","Green Party","Parti Vert",N,N,5
+35072,"Oakville","Oakville"," 104","Oakville",N,N,"",1,397,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,6
+35072,"Oakville","Oakville"," 105","Oakville",N,N,"",0,375,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35072,"Oakville","Oakville"," 105","Oakville",N,N,"",0,375,"Anand","","Anita","Liberal","Libéral",Y,Y,82
+35072,"Oakville","Oakville"," 105","Oakville",N,N,"",0,375,"Colborne","","Kerry","Conservative","Conservateur",N,N,59
+35072,"Oakville","Oakville"," 105","Oakville",N,N,"",0,375,"Knox","","Oriana","Green Party","Parti Vert",N,N,5
+35072,"Oakville","Oakville"," 105","Oakville",N,N,"",0,375,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,9
+35072,"Oakville","Oakville"," 106","Oakville",N,N,"",0,286,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35072,"Oakville","Oakville"," 106","Oakville",N,N,"",0,286,"Anand","","Anita","Liberal","Libéral",Y,Y,33
+35072,"Oakville","Oakville"," 106","Oakville",N,N,"",0,286,"Colborne","","Kerry","Conservative","Conservateur",N,N,39
+35072,"Oakville","Oakville"," 106","Oakville",N,N,"",0,286,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 106","Oakville",N,N,"",0,286,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,2
+35072,"Oakville","Oakville"," 107","Oakville",N,N,"",1,405,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35072,"Oakville","Oakville"," 107","Oakville",N,N,"",1,405,"Anand","","Anita","Liberal","Libéral",Y,Y,80
+35072,"Oakville","Oakville"," 107","Oakville",N,N,"",1,405,"Colborne","","Kerry","Conservative","Conservateur",N,N,45
+35072,"Oakville","Oakville"," 107","Oakville",N,N,"",1,405,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 107","Oakville",N,N,"",1,405,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,7
+35072,"Oakville","Oakville"," 108","Oakville",N,N,"",1,460,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35072,"Oakville","Oakville"," 108","Oakville",N,N,"",1,460,"Anand","","Anita","Liberal","Libéral",Y,Y,85
+35072,"Oakville","Oakville"," 108","Oakville",N,N,"",1,460,"Colborne","","Kerry","Conservative","Conservateur",N,N,41
+35072,"Oakville","Oakville"," 108","Oakville",N,N,"",1,460,"Knox","","Oriana","Green Party","Parti Vert",N,N,6
+35072,"Oakville","Oakville"," 108","Oakville",N,N,"",1,460,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,7
+35072,"Oakville","Oakville"," 109","Oakville",N,N,"",0,358,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35072,"Oakville","Oakville"," 109","Oakville",N,N,"",0,358,"Anand","","Anita","Liberal","Libéral",Y,Y,63
+35072,"Oakville","Oakville"," 109","Oakville",N,N,"",0,358,"Colborne","","Kerry","Conservative","Conservateur",N,N,41
+35072,"Oakville","Oakville"," 109","Oakville",N,N,"",0,358,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 109","Oakville",N,N,"",0,358,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,7
+35072,"Oakville","Oakville"," 110","Oakville",N,N,"",0,515,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35072,"Oakville","Oakville"," 110","Oakville",N,N,"",0,515,"Anand","","Anita","Liberal","Libéral",Y,Y,68
+35072,"Oakville","Oakville"," 110","Oakville",N,N,"",0,515,"Colborne","","Kerry","Conservative","Conservateur",N,N,37
+35072,"Oakville","Oakville"," 110","Oakville",N,N,"",0,515,"Knox","","Oriana","Green Party","Parti Vert",N,N,5
+35072,"Oakville","Oakville"," 110","Oakville",N,N,"",0,515,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,8
+35072,"Oakville","Oakville"," 111","Oakville",N,N,"",0,347,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35072,"Oakville","Oakville"," 111","Oakville",N,N,"",0,347,"Anand","","Anita","Liberal","Libéral",Y,Y,50
+35072,"Oakville","Oakville"," 111","Oakville",N,N,"",0,347,"Colborne","","Kerry","Conservative","Conservateur",N,N,37
+35072,"Oakville","Oakville"," 111","Oakville",N,N,"",0,347,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 111","Oakville",N,N,"",0,347,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,5
+35072,"Oakville","Oakville"," 112","Oakville",N,N,"",2,538,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35072,"Oakville","Oakville"," 112","Oakville",N,N,"",2,538,"Anand","","Anita","Liberal","Libéral",Y,Y,138
+35072,"Oakville","Oakville"," 112","Oakville",N,N,"",2,538,"Colborne","","Kerry","Conservative","Conservateur",N,N,43
+35072,"Oakville","Oakville"," 112","Oakville",N,N,"",2,538,"Knox","","Oriana","Green Party","Parti Vert",N,N,9
+35072,"Oakville","Oakville"," 112","Oakville",N,N,"",2,538,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,5
+35072,"Oakville","Oakville"," 113","Oakville",N,N,"",0,380,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35072,"Oakville","Oakville"," 113","Oakville",N,N,"",0,380,"Anand","","Anita","Liberal","Libéral",Y,Y,62
+35072,"Oakville","Oakville"," 113","Oakville",N,N,"",0,380,"Colborne","","Kerry","Conservative","Conservateur",N,N,43
+35072,"Oakville","Oakville"," 113","Oakville",N,N,"",0,380,"Knox","","Oriana","Green Party","Parti Vert",N,N,5
+35072,"Oakville","Oakville"," 113","Oakville",N,N,"",0,380,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,5
+35072,"Oakville","Oakville"," 114","Oakville",N,N,"",0,400,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35072,"Oakville","Oakville"," 114","Oakville",N,N,"",0,400,"Anand","","Anita","Liberal","Libéral",Y,Y,64
+35072,"Oakville","Oakville"," 114","Oakville",N,N,"",0,400,"Colborne","","Kerry","Conservative","Conservateur",N,N,61
+35072,"Oakville","Oakville"," 114","Oakville",N,N,"",0,400,"Knox","","Oriana","Green Party","Parti Vert",N,N,5
+35072,"Oakville","Oakville"," 114","Oakville",N,N,"",0,400,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,9
+35072,"Oakville","Oakville"," 115","Oakville",N,N,"",0,391,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35072,"Oakville","Oakville"," 115","Oakville",N,N,"",0,391,"Anand","","Anita","Liberal","Libéral",Y,Y,97
+35072,"Oakville","Oakville"," 115","Oakville",N,N,"",0,391,"Colborne","","Kerry","Conservative","Conservateur",N,N,26
+35072,"Oakville","Oakville"," 115","Oakville",N,N,"",0,391,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 115","Oakville",N,N,"",0,391,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,6
+35072,"Oakville","Oakville"," 116","Oakville",N,N,"",0,293,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35072,"Oakville","Oakville"," 116","Oakville",N,N,"",0,293,"Anand","","Anita","Liberal","Libéral",Y,Y,50
+35072,"Oakville","Oakville"," 116","Oakville",N,N,"",0,293,"Colborne","","Kerry","Conservative","Conservateur",N,N,24
+35072,"Oakville","Oakville"," 116","Oakville",N,N,"",0,293,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 116","Oakville",N,N,"",0,293,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,0
+35072,"Oakville","Oakville"," 117","Oakville",N,N,"",0,331,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35072,"Oakville","Oakville"," 117","Oakville",N,N,"",0,331,"Anand","","Anita","Liberal","Libéral",Y,Y,39
+35072,"Oakville","Oakville"," 117","Oakville",N,N,"",0,331,"Colborne","","Kerry","Conservative","Conservateur",N,N,23
+35072,"Oakville","Oakville"," 117","Oakville",N,N,"",0,331,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 117","Oakville",N,N,"",0,331,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,4
+35072,"Oakville","Oakville"," 118","Oakville",N,N,"",0,496,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35072,"Oakville","Oakville"," 118","Oakville",N,N,"",0,496,"Anand","","Anita","Liberal","Libéral",Y,Y,96
+35072,"Oakville","Oakville"," 118","Oakville",N,N,"",0,496,"Colborne","","Kerry","Conservative","Conservateur",N,N,42
+35072,"Oakville","Oakville"," 118","Oakville",N,N,"",0,496,"Knox","","Oriana","Green Party","Parti Vert",N,N,6
+35072,"Oakville","Oakville"," 118","Oakville",N,N,"",0,496,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,6
+35072,"Oakville","Oakville"," 119","Oakville",N,N,"",0,397,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35072,"Oakville","Oakville"," 119","Oakville",N,N,"",0,397,"Anand","","Anita","Liberal","Libéral",Y,Y,71
+35072,"Oakville","Oakville"," 119","Oakville",N,N,"",0,397,"Colborne","","Kerry","Conservative","Conservateur",N,N,54
+35072,"Oakville","Oakville"," 119","Oakville",N,N,"",0,397,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 119","Oakville",N,N,"",0,397,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,0
+35072,"Oakville","Oakville"," 120","Oakville",N,N,"",0,279,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35072,"Oakville","Oakville"," 120","Oakville",N,N,"",0,279,"Anand","","Anita","Liberal","Libéral",Y,Y,48
+35072,"Oakville","Oakville"," 120","Oakville",N,N,"",0,279,"Colborne","","Kerry","Conservative","Conservateur",N,N,39
+35072,"Oakville","Oakville"," 120","Oakville",N,N,"",0,279,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 120","Oakville",N,N,"",0,279,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,2
+35072,"Oakville","Oakville"," 121","Oakville",N,N,"",0,273,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35072,"Oakville","Oakville"," 121","Oakville",N,N,"",0,273,"Anand","","Anita","Liberal","Libéral",Y,Y,42
+35072,"Oakville","Oakville"," 121","Oakville",N,N,"",0,273,"Colborne","","Kerry","Conservative","Conservateur",N,N,24
+35072,"Oakville","Oakville"," 121","Oakville",N,N,"",0,273,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 121","Oakville",N,N,"",0,273,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,6
+35072,"Oakville","Oakville"," 122","Oakville",N,N,"",0,307,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35072,"Oakville","Oakville"," 122","Oakville",N,N,"",0,307,"Anand","","Anita","Liberal","Libéral",Y,Y,46
+35072,"Oakville","Oakville"," 122","Oakville",N,N,"",0,307,"Colborne","","Kerry","Conservative","Conservateur",N,N,54
+35072,"Oakville","Oakville"," 122","Oakville",N,N,"",0,307,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 122","Oakville",N,N,"",0,307,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,0
+35072,"Oakville","Oakville"," 123","Oakville",N,N,"",0,293,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35072,"Oakville","Oakville"," 123","Oakville",N,N,"",0,293,"Anand","","Anita","Liberal","Libéral",Y,Y,51
+35072,"Oakville","Oakville"," 123","Oakville",N,N,"",0,293,"Colborne","","Kerry","Conservative","Conservateur",N,N,36
+35072,"Oakville","Oakville"," 123","Oakville",N,N,"",0,293,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 123","Oakville",N,N,"",0,293,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,0
+35072,"Oakville","Oakville"," 124","Oakville",N,N,"",2,367,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35072,"Oakville","Oakville"," 124","Oakville",N,N,"",2,367,"Anand","","Anita","Liberal","Libéral",Y,Y,59
+35072,"Oakville","Oakville"," 124","Oakville",N,N,"",2,367,"Colborne","","Kerry","Conservative","Conservateur",N,N,31
+35072,"Oakville","Oakville"," 124","Oakville",N,N,"",2,367,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 124","Oakville",N,N,"",2,367,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,3
+35072,"Oakville","Oakville"," 125","Oakville",N,N,"",1,400,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35072,"Oakville","Oakville"," 125","Oakville",N,N,"",1,400,"Anand","","Anita","Liberal","Libéral",Y,Y,66
+35072,"Oakville","Oakville"," 125","Oakville",N,N,"",1,400,"Colborne","","Kerry","Conservative","Conservateur",N,N,59
+35072,"Oakville","Oakville"," 125","Oakville",N,N,"",1,400,"Knox","","Oriana","Green Party","Parti Vert",N,N,6
+35072,"Oakville","Oakville"," 125","Oakville",N,N,"",1,400,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,5
+35072,"Oakville","Oakville"," 126","Oakville",N,N,"",0,419,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35072,"Oakville","Oakville"," 126","Oakville",N,N,"",0,419,"Anand","","Anita","Liberal","Libéral",Y,Y,73
+35072,"Oakville","Oakville"," 126","Oakville",N,N,"",0,419,"Colborne","","Kerry","Conservative","Conservateur",N,N,73
+35072,"Oakville","Oakville"," 126","Oakville",N,N,"",0,419,"Knox","","Oriana","Green Party","Parti Vert",N,N,0
+35072,"Oakville","Oakville"," 126","Oakville",N,N,"",0,419,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,4
+35072,"Oakville","Oakville"," 127A","Oakville",N,N,"",1,366,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35072,"Oakville","Oakville"," 127A","Oakville",N,N,"",1,366,"Anand","","Anita","Liberal","Libéral",Y,Y,47
+35072,"Oakville","Oakville"," 127A","Oakville",N,N,"",1,366,"Colborne","","Kerry","Conservative","Conservateur",N,N,53
+35072,"Oakville","Oakville"," 127A","Oakville",N,N,"",1,366,"Knox","","Oriana","Green Party","Parti Vert",N,N,0
+35072,"Oakville","Oakville"," 127A","Oakville",N,N,"",1,366,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,4
+35072,"Oakville","Oakville"," 127B","Mobile poll/Bureau itinérant",N,N,"",0,73,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35072,"Oakville","Oakville"," 127B","Mobile poll/Bureau itinérant",N,N,"",0,73,"Anand","","Anita","Liberal","Libéral",Y,Y,33
+35072,"Oakville","Oakville"," 127B","Mobile poll/Bureau itinérant",N,N,"",0,73,"Colborne","","Kerry","Conservative","Conservateur",N,N,12
+35072,"Oakville","Oakville"," 127B","Mobile poll/Bureau itinérant",N,N,"",0,73,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 127B","Mobile poll/Bureau itinérant",N,N,"",0,73,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,0
+35072,"Oakville","Oakville"," 128","Oakville",N,N,"",0,577,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35072,"Oakville","Oakville"," 128","Oakville",N,N,"",0,577,"Anand","","Anita","Liberal","Libéral",Y,Y,75
+35072,"Oakville","Oakville"," 128","Oakville",N,N,"",0,577,"Colborne","","Kerry","Conservative","Conservateur",N,N,77
+35072,"Oakville","Oakville"," 128","Oakville",N,N,"",0,577,"Knox","","Oriana","Green Party","Parti Vert",N,N,10
+35072,"Oakville","Oakville"," 128","Oakville",N,N,"",0,577,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,2
+35072,"Oakville","Oakville"," 129","Oakville",N,N,"",0,418,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35072,"Oakville","Oakville"," 129","Oakville",N,N,"",0,418,"Anand","","Anita","Liberal","Libéral",Y,Y,69
+35072,"Oakville","Oakville"," 129","Oakville",N,N,"",0,418,"Colborne","","Kerry","Conservative","Conservateur",N,N,56
+35072,"Oakville","Oakville"," 129","Oakville",N,N,"",0,418,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 129","Oakville",N,N,"",0,418,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,3
+35072,"Oakville","Oakville"," 130","Oakville",N,N,"",0,399,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35072,"Oakville","Oakville"," 130","Oakville",N,N,"",0,399,"Anand","","Anita","Liberal","Libéral",Y,Y,69
+35072,"Oakville","Oakville"," 130","Oakville",N,N,"",0,399,"Colborne","","Kerry","Conservative","Conservateur",N,N,34
+35072,"Oakville","Oakville"," 130","Oakville",N,N,"",0,399,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 130","Oakville",N,N,"",0,399,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,3
+35072,"Oakville","Oakville"," 131","Oakville",N,N,"",0,607,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35072,"Oakville","Oakville"," 131","Oakville",N,N,"",0,607,"Anand","","Anita","Liberal","Libéral",Y,Y,96
+35072,"Oakville","Oakville"," 131","Oakville",N,N,"",0,607,"Colborne","","Kerry","Conservative","Conservateur",N,N,99
+35072,"Oakville","Oakville"," 131","Oakville",N,N,"",0,607,"Knox","","Oriana","Green Party","Parti Vert",N,N,5
+35072,"Oakville","Oakville"," 131","Oakville",N,N,"",0,607,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,9
+35072,"Oakville","Oakville"," 132","Oakville",N,N,"",0,294,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35072,"Oakville","Oakville"," 132","Oakville",N,N,"",0,294,"Anand","","Anita","Liberal","Libéral",Y,Y,41
+35072,"Oakville","Oakville"," 132","Oakville",N,N,"",0,294,"Colborne","","Kerry","Conservative","Conservateur",N,N,36
+35072,"Oakville","Oakville"," 132","Oakville",N,N,"",0,294,"Knox","","Oriana","Green Party","Parti Vert",N,N,0
+35072,"Oakville","Oakville"," 132","Oakville",N,N,"",0,294,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,10
+35072,"Oakville","Oakville"," 133","Oakville",N,N,"",0,319,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35072,"Oakville","Oakville"," 133","Oakville",N,N,"",0,319,"Anand","","Anita","Liberal","Libéral",Y,Y,53
+35072,"Oakville","Oakville"," 133","Oakville",N,N,"",0,319,"Colborne","","Kerry","Conservative","Conservateur",N,N,31
+35072,"Oakville","Oakville"," 133","Oakville",N,N,"",0,319,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 133","Oakville",N,N,"",0,319,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,4
+35072,"Oakville","Oakville"," 134","Oakville",N,N,"",2,390,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35072,"Oakville","Oakville"," 134","Oakville",N,N,"",2,390,"Anand","","Anita","Liberal","Libéral",Y,Y,64
+35072,"Oakville","Oakville"," 134","Oakville",N,N,"",2,390,"Colborne","","Kerry","Conservative","Conservateur",N,N,40
+35072,"Oakville","Oakville"," 134","Oakville",N,N,"",2,390,"Knox","","Oriana","Green Party","Parti Vert",N,N,10
+35072,"Oakville","Oakville"," 134","Oakville",N,N,"",2,390,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,5
+35072,"Oakville","Oakville"," 135","Oakville",N,N,"",0,344,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35072,"Oakville","Oakville"," 135","Oakville",N,N,"",0,344,"Anand","","Anita","Liberal","Libéral",Y,Y,51
+35072,"Oakville","Oakville"," 135","Oakville",N,N,"",0,344,"Colborne","","Kerry","Conservative","Conservateur",N,N,23
+35072,"Oakville","Oakville"," 135","Oakville",N,N,"",0,344,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 135","Oakville",N,N,"",0,344,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,6
+35072,"Oakville","Oakville"," 136","Oakville",N,N,"",7,636,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35072,"Oakville","Oakville"," 136","Oakville",N,N,"",7,636,"Anand","","Anita","Liberal","Libéral",Y,Y,80
+35072,"Oakville","Oakville"," 136","Oakville",N,N,"",7,636,"Colborne","","Kerry","Conservative","Conservateur",N,N,69
+35072,"Oakville","Oakville"," 136","Oakville",N,N,"",7,636,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 136","Oakville",N,N,"",7,636,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,9
+35072,"Oakville","Oakville"," 137","Oakville",N,N,"",0,335,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35072,"Oakville","Oakville"," 137","Oakville",N,N,"",0,335,"Anand","","Anita","Liberal","Libéral",Y,Y,67
+35072,"Oakville","Oakville"," 137","Oakville",N,N,"",0,335,"Colborne","","Kerry","Conservative","Conservateur",N,N,55
+35072,"Oakville","Oakville"," 137","Oakville",N,N,"",0,335,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 137","Oakville",N,N,"",0,335,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,4
+35072,"Oakville","Oakville"," 138","Oakville",N,N,"",0,426,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35072,"Oakville","Oakville"," 138","Oakville",N,N,"",0,426,"Anand","","Anita","Liberal","Libéral",Y,Y,70
+35072,"Oakville","Oakville"," 138","Oakville",N,N,"",0,426,"Colborne","","Kerry","Conservative","Conservateur",N,N,60
+35072,"Oakville","Oakville"," 138","Oakville",N,N,"",0,426,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 138","Oakville",N,N,"",0,426,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,4
+35072,"Oakville","Oakville"," 139","Oakville",N,N,"",0,265,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35072,"Oakville","Oakville"," 139","Oakville",N,N,"",0,265,"Anand","","Anita","Liberal","Libéral",Y,Y,41
+35072,"Oakville","Oakville"," 139","Oakville",N,N,"",0,265,"Colborne","","Kerry","Conservative","Conservateur",N,N,55
+35072,"Oakville","Oakville"," 139","Oakville",N,N,"",0,265,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 139","Oakville",N,N,"",0,265,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,6
+35072,"Oakville","Oakville"," 140","Oakville",N,N,"",0,310,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35072,"Oakville","Oakville"," 140","Oakville",N,N,"",0,310,"Anand","","Anita","Liberal","Libéral",Y,Y,50
+35072,"Oakville","Oakville"," 140","Oakville",N,N,"",0,310,"Colborne","","Kerry","Conservative","Conservateur",N,N,49
+35072,"Oakville","Oakville"," 140","Oakville",N,N,"",0,310,"Knox","","Oriana","Green Party","Parti Vert",N,N,0
+35072,"Oakville","Oakville"," 140","Oakville",N,N,"",0,310,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,1
+35072,"Oakville","Oakville"," 141","Oakville",N,N,"",1,485,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35072,"Oakville","Oakville"," 141","Oakville",N,N,"",1,485,"Anand","","Anita","Liberal","Libéral",Y,Y,88
+35072,"Oakville","Oakville"," 141","Oakville",N,N,"",1,485,"Colborne","","Kerry","Conservative","Conservateur",N,N,90
+35072,"Oakville","Oakville"," 141","Oakville",N,N,"",1,485,"Knox","","Oriana","Green Party","Parti Vert",N,N,6
+35072,"Oakville","Oakville"," 141","Oakville",N,N,"",1,485,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,11
+35072,"Oakville","Oakville"," 142","Oakville",N,N,"",0,448,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35072,"Oakville","Oakville"," 142","Oakville",N,N,"",0,448,"Anand","","Anita","Liberal","Libéral",Y,Y,73
+35072,"Oakville","Oakville"," 142","Oakville",N,N,"",0,448,"Colborne","","Kerry","Conservative","Conservateur",N,N,57
+35072,"Oakville","Oakville"," 142","Oakville",N,N,"",0,448,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 142","Oakville",N,N,"",0,448,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,3
+35072,"Oakville","Oakville"," 143","Oakville",N,N,"",2,340,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35072,"Oakville","Oakville"," 143","Oakville",N,N,"",2,340,"Anand","","Anita","Liberal","Libéral",Y,Y,45
+35072,"Oakville","Oakville"," 143","Oakville",N,N,"",2,340,"Colborne","","Kerry","Conservative","Conservateur",N,N,57
+35072,"Oakville","Oakville"," 143","Oakville",N,N,"",2,340,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 143","Oakville",N,N,"",2,340,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,3
+35072,"Oakville","Oakville"," 144","Oakville",N,N,"",1,364,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35072,"Oakville","Oakville"," 144","Oakville",N,N,"",1,364,"Anand","","Anita","Liberal","Libéral",Y,Y,75
+35072,"Oakville","Oakville"," 144","Oakville",N,N,"",1,364,"Colborne","","Kerry","Conservative","Conservateur",N,N,53
+35072,"Oakville","Oakville"," 144","Oakville",N,N,"",1,364,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 144","Oakville",N,N,"",1,364,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,3
+35072,"Oakville","Oakville"," 145","Oakville",N,N,"",0,252,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35072,"Oakville","Oakville"," 145","Oakville",N,N,"",0,252,"Anand","","Anita","Liberal","Libéral",Y,Y,29
+35072,"Oakville","Oakville"," 145","Oakville",N,N,"",0,252,"Colborne","","Kerry","Conservative","Conservateur",N,N,45
+35072,"Oakville","Oakville"," 145","Oakville",N,N,"",0,252,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 145","Oakville",N,N,"",0,252,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,2
+35072,"Oakville","Oakville"," 146","Oakville",N,N,"",0,534,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35072,"Oakville","Oakville"," 146","Oakville",N,N,"",0,534,"Anand","","Anita","Liberal","Libéral",Y,Y,101
+35072,"Oakville","Oakville"," 146","Oakville",N,N,"",0,534,"Colborne","","Kerry","Conservative","Conservateur",N,N,45
+35072,"Oakville","Oakville"," 146","Oakville",N,N,"",0,534,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 146","Oakville",N,N,"",0,534,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,7
+35072,"Oakville","Oakville"," 147","Oakville",N,N,"",1,427,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35072,"Oakville","Oakville"," 147","Oakville",N,N,"",1,427,"Anand","","Anita","Liberal","Libéral",Y,Y,81
+35072,"Oakville","Oakville"," 147","Oakville",N,N,"",1,427,"Colborne","","Kerry","Conservative","Conservateur",N,N,81
+35072,"Oakville","Oakville"," 147","Oakville",N,N,"",1,427,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 147","Oakville",N,N,"",1,427,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,3
+35072,"Oakville","Oakville"," 148","Oakville",N,N,"",2,413,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35072,"Oakville","Oakville"," 148","Oakville",N,N,"",2,413,"Anand","","Anita","Liberal","Libéral",Y,Y,70
+35072,"Oakville","Oakville"," 148","Oakville",N,N,"",2,413,"Colborne","","Kerry","Conservative","Conservateur",N,N,83
+35072,"Oakville","Oakville"," 148","Oakville",N,N,"",2,413,"Knox","","Oriana","Green Party","Parti Vert",N,N,5
+35072,"Oakville","Oakville"," 148","Oakville",N,N,"",2,413,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,9
+35072,"Oakville","Oakville"," 149","Oakville",N,N,"",0,433,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35072,"Oakville","Oakville"," 149","Oakville",N,N,"",0,433,"Anand","","Anita","Liberal","Libéral",Y,Y,78
+35072,"Oakville","Oakville"," 149","Oakville",N,N,"",0,433,"Colborne","","Kerry","Conservative","Conservateur",N,N,98
+35072,"Oakville","Oakville"," 149","Oakville",N,N,"",0,433,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 149","Oakville",N,N,"",0,433,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,7
+35072,"Oakville","Oakville"," 150","Oakville",N,N,"",0,369,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35072,"Oakville","Oakville"," 150","Oakville",N,N,"",0,369,"Anand","","Anita","Liberal","Libéral",Y,Y,84
+35072,"Oakville","Oakville"," 150","Oakville",N,N,"",0,369,"Colborne","","Kerry","Conservative","Conservateur",N,N,54
+35072,"Oakville","Oakville"," 150","Oakville",N,N,"",0,369,"Knox","","Oriana","Green Party","Parti Vert",N,N,7
+35072,"Oakville","Oakville"," 150","Oakville",N,N,"",0,369,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,1
+35072,"Oakville","Oakville"," 151","Oakville",N,N,"",0,414,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35072,"Oakville","Oakville"," 151","Oakville",N,N,"",0,414,"Anand","","Anita","Liberal","Libéral",Y,Y,58
+35072,"Oakville","Oakville"," 151","Oakville",N,N,"",0,414,"Colborne","","Kerry","Conservative","Conservateur",N,N,69
+35072,"Oakville","Oakville"," 151","Oakville",N,N,"",0,414,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 151","Oakville",N,N,"",0,414,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,6
+35072,"Oakville","Oakville"," 152","Oakville",N,N,"",1,477,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35072,"Oakville","Oakville"," 152","Oakville",N,N,"",1,477,"Anand","","Anita","Liberal","Libéral",Y,Y,62
+35072,"Oakville","Oakville"," 152","Oakville",N,N,"",1,477,"Colborne","","Kerry","Conservative","Conservateur",N,N,77
+35072,"Oakville","Oakville"," 152","Oakville",N,N,"",1,477,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 152","Oakville",N,N,"",1,477,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,3
+35072,"Oakville","Oakville"," 153","Oakville",N,N,"",0,443,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35072,"Oakville","Oakville"," 153","Oakville",N,N,"",0,443,"Anand","","Anita","Liberal","Libéral",Y,Y,68
+35072,"Oakville","Oakville"," 153","Oakville",N,N,"",0,443,"Colborne","","Kerry","Conservative","Conservateur",N,N,44
+35072,"Oakville","Oakville"," 153","Oakville",N,N,"",0,443,"Knox","","Oriana","Green Party","Parti Vert",N,N,8
+35072,"Oakville","Oakville"," 153","Oakville",N,N,"",0,443,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,5
+35072,"Oakville","Oakville"," 154","Oakville",N,N,"",4,450,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35072,"Oakville","Oakville"," 154","Oakville",N,N,"",4,450,"Anand","","Anita","Liberal","Libéral",Y,Y,75
+35072,"Oakville","Oakville"," 154","Oakville",N,N,"",4,450,"Colborne","","Kerry","Conservative","Conservateur",N,N,55
+35072,"Oakville","Oakville"," 154","Oakville",N,N,"",4,450,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 154","Oakville",N,N,"",4,450,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,14
+35072,"Oakville","Oakville"," 155","Oakville",N,N,"",2,416,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35072,"Oakville","Oakville"," 155","Oakville",N,N,"",2,416,"Anand","","Anita","Liberal","Libéral",Y,Y,79
+35072,"Oakville","Oakville"," 155","Oakville",N,N,"",2,416,"Colborne","","Kerry","Conservative","Conservateur",N,N,61
+35072,"Oakville","Oakville"," 155","Oakville",N,N,"",2,416,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 155","Oakville",N,N,"",2,416,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,3
+35072,"Oakville","Oakville"," 156","Oakville",N,N,"",2,550,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35072,"Oakville","Oakville"," 156","Oakville",N,N,"",2,550,"Anand","","Anita","Liberal","Libéral",Y,Y,86
+35072,"Oakville","Oakville"," 156","Oakville",N,N,"",2,550,"Colborne","","Kerry","Conservative","Conservateur",N,N,34
+35072,"Oakville","Oakville"," 156","Oakville",N,N,"",2,550,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 156","Oakville",N,N,"",2,550,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,2
+35072,"Oakville","Oakville"," 157","Oakville",N,N,"",1,467,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35072,"Oakville","Oakville"," 157","Oakville",N,N,"",1,467,"Anand","","Anita","Liberal","Libéral",Y,Y,60
+35072,"Oakville","Oakville"," 157","Oakville",N,N,"",1,467,"Colborne","","Kerry","Conservative","Conservateur",N,N,86
+35072,"Oakville","Oakville"," 157","Oakville",N,N,"",1,467,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 157","Oakville",N,N,"",1,467,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,10
+35072,"Oakville","Oakville"," 158","Oakville",N,N,"",1,411,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35072,"Oakville","Oakville"," 158","Oakville",N,N,"",1,411,"Anand","","Anita","Liberal","Libéral",Y,Y,64
+35072,"Oakville","Oakville"," 158","Oakville",N,N,"",1,411,"Colborne","","Kerry","Conservative","Conservateur",N,N,63
+35072,"Oakville","Oakville"," 158","Oakville",N,N,"",1,411,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 158","Oakville",N,N,"",1,411,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,8
+35072,"Oakville","Oakville"," 159","Oakville",N,N,"",0,343,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35072,"Oakville","Oakville"," 159","Oakville",N,N,"",0,343,"Anand","","Anita","Liberal","Libéral",Y,Y,58
+35072,"Oakville","Oakville"," 159","Oakville",N,N,"",0,343,"Colborne","","Kerry","Conservative","Conservateur",N,N,66
+35072,"Oakville","Oakville"," 159","Oakville",N,N,"",0,343,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 159","Oakville",N,N,"",0,343,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,8
+35072,"Oakville","Oakville"," 160","Oakville",N,N,"",2,414,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35072,"Oakville","Oakville"," 160","Oakville",N,N,"",2,414,"Anand","","Anita","Liberal","Libéral",Y,Y,83
+35072,"Oakville","Oakville"," 160","Oakville",N,N,"",2,414,"Colborne","","Kerry","Conservative","Conservateur",N,N,64
+35072,"Oakville","Oakville"," 160","Oakville",N,N,"",2,414,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 160","Oakville",N,N,"",2,414,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,10
+35072,"Oakville","Oakville"," 161","Oakville",N,N,"",0,303,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35072,"Oakville","Oakville"," 161","Oakville",N,N,"",0,303,"Anand","","Anita","Liberal","Libéral",Y,Y,46
+35072,"Oakville","Oakville"," 161","Oakville",N,N,"",0,303,"Colborne","","Kerry","Conservative","Conservateur",N,N,48
+35072,"Oakville","Oakville"," 161","Oakville",N,N,"",0,303,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 161","Oakville",N,N,"",0,303,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,4
+35072,"Oakville","Oakville"," 162","Oakville",N,N,"",2,326,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35072,"Oakville","Oakville"," 162","Oakville",N,N,"",2,326,"Anand","","Anita","Liberal","Libéral",Y,Y,66
+35072,"Oakville","Oakville"," 162","Oakville",N,N,"",2,326,"Colborne","","Kerry","Conservative","Conservateur",N,N,63
+35072,"Oakville","Oakville"," 162","Oakville",N,N,"",2,326,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 162","Oakville",N,N,"",2,326,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,4
+35072,"Oakville","Oakville"," 163","Oakville",N,N,"",1,327,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35072,"Oakville","Oakville"," 163","Oakville",N,N,"",1,327,"Anand","","Anita","Liberal","Libéral",Y,Y,61
+35072,"Oakville","Oakville"," 163","Oakville",N,N,"",1,327,"Colborne","","Kerry","Conservative","Conservateur",N,N,52
+35072,"Oakville","Oakville"," 163","Oakville",N,N,"",1,327,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 163","Oakville",N,N,"",1,327,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,10
+35072,"Oakville","Oakville"," 164","Oakville",N,N,"",3,428,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35072,"Oakville","Oakville"," 164","Oakville",N,N,"",3,428,"Anand","","Anita","Liberal","Libéral",Y,Y,71
+35072,"Oakville","Oakville"," 164","Oakville",N,N,"",3,428,"Colborne","","Kerry","Conservative","Conservateur",N,N,55
+35072,"Oakville","Oakville"," 164","Oakville",N,N,"",3,428,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 164","Oakville",N,N,"",3,428,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,12
+35072,"Oakville","Oakville"," 165","Oakville",N,N,"",2,344,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35072,"Oakville","Oakville"," 165","Oakville",N,N,"",2,344,"Anand","","Anita","Liberal","Libéral",Y,Y,52
+35072,"Oakville","Oakville"," 165","Oakville",N,N,"",2,344,"Colborne","","Kerry","Conservative","Conservateur",N,N,39
+35072,"Oakville","Oakville"," 165","Oakville",N,N,"",2,344,"Knox","","Oriana","Green Party","Parti Vert",N,N,5
+35072,"Oakville","Oakville"," 165","Oakville",N,N,"",2,344,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,6
+35072,"Oakville","Oakville"," 166","Oakville",N,N,"",1,371,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35072,"Oakville","Oakville"," 166","Oakville",N,N,"",1,371,"Anand","","Anita","Liberal","Libéral",Y,Y,70
+35072,"Oakville","Oakville"," 166","Oakville",N,N,"",1,371,"Colborne","","Kerry","Conservative","Conservateur",N,N,72
+35072,"Oakville","Oakville"," 166","Oakville",N,N,"",1,371,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 166","Oakville",N,N,"",1,371,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,5
+35072,"Oakville","Oakville"," 167","Oakville",N,N,"",1,330,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35072,"Oakville","Oakville"," 167","Oakville",N,N,"",1,330,"Anand","","Anita","Liberal","Libéral",Y,Y,54
+35072,"Oakville","Oakville"," 167","Oakville",N,N,"",1,330,"Colborne","","Kerry","Conservative","Conservateur",N,N,58
+35072,"Oakville","Oakville"," 167","Oakville",N,N,"",1,330,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 167","Oakville",N,N,"",1,330,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,3
+35072,"Oakville","Oakville"," 168","Oakville",N,N,"",0,390,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35072,"Oakville","Oakville"," 168","Oakville",N,N,"",0,390,"Anand","","Anita","Liberal","Libéral",Y,Y,61
+35072,"Oakville","Oakville"," 168","Oakville",N,N,"",0,390,"Colborne","","Kerry","Conservative","Conservateur",N,N,90
+35072,"Oakville","Oakville"," 168","Oakville",N,N,"",0,390,"Knox","","Oriana","Green Party","Parti Vert",N,N,10
+35072,"Oakville","Oakville"," 168","Oakville",N,N,"",0,390,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,7
+35072,"Oakville","Oakville"," 169","Oakville",N,N,"",1,376,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35072,"Oakville","Oakville"," 169","Oakville",N,N,"",1,376,"Anand","","Anita","Liberal","Libéral",Y,Y,49
+35072,"Oakville","Oakville"," 169","Oakville",N,N,"",1,376,"Colborne","","Kerry","Conservative","Conservateur",N,N,61
+35072,"Oakville","Oakville"," 169","Oakville",N,N,"",1,376,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 169","Oakville",N,N,"",1,376,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,6
+35072,"Oakville","Oakville"," 170","Oakville",N,N,"",0,446,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35072,"Oakville","Oakville"," 170","Oakville",N,N,"",0,446,"Anand","","Anita","Liberal","Libéral",Y,Y,75
+35072,"Oakville","Oakville"," 170","Oakville",N,N,"",0,446,"Colborne","","Kerry","Conservative","Conservateur",N,N,68
+35072,"Oakville","Oakville"," 170","Oakville",N,N,"",0,446,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 170","Oakville",N,N,"",0,446,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,8
+35072,"Oakville","Oakville"," 171","Oakville",N,N,"",0,411,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35072,"Oakville","Oakville"," 171","Oakville",N,N,"",0,411,"Anand","","Anita","Liberal","Libéral",Y,Y,68
+35072,"Oakville","Oakville"," 171","Oakville",N,N,"",0,411,"Colborne","","Kerry","Conservative","Conservateur",N,N,74
+35072,"Oakville","Oakville"," 171","Oakville",N,N,"",0,411,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 171","Oakville",N,N,"",0,411,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,5
+35072,"Oakville","Oakville"," 172","Oakville",N,N,"",0,384,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35072,"Oakville","Oakville"," 172","Oakville",N,N,"",0,384,"Anand","","Anita","Liberal","Libéral",Y,Y,55
+35072,"Oakville","Oakville"," 172","Oakville",N,N,"",0,384,"Colborne","","Kerry","Conservative","Conservateur",N,N,60
+35072,"Oakville","Oakville"," 172","Oakville",N,N,"",0,384,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 172","Oakville",N,N,"",0,384,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,0
+35072,"Oakville","Oakville"," 173","Oakville",N,N,"",0,434,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35072,"Oakville","Oakville"," 173","Oakville",N,N,"",0,434,"Anand","","Anita","Liberal","Libéral",Y,Y,58
+35072,"Oakville","Oakville"," 173","Oakville",N,N,"",0,434,"Colborne","","Kerry","Conservative","Conservateur",N,N,56
+35072,"Oakville","Oakville"," 173","Oakville",N,N,"",0,434,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 173","Oakville",N,N,"",0,434,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,1
+35072,"Oakville","Oakville"," 174","Oakville",N,N,"",0,407,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35072,"Oakville","Oakville"," 174","Oakville",N,N,"",0,407,"Anand","","Anita","Liberal","Libéral",Y,Y,64
+35072,"Oakville","Oakville"," 174","Oakville",N,N,"",0,407,"Colborne","","Kerry","Conservative","Conservateur",N,N,71
+35072,"Oakville","Oakville"," 174","Oakville",N,N,"",0,407,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 174","Oakville",N,N,"",0,407,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,5
+35072,"Oakville","Oakville"," 175","Oakville",N,N,"",0,414,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35072,"Oakville","Oakville"," 175","Oakville",N,N,"",0,414,"Anand","","Anita","Liberal","Libéral",Y,Y,64
+35072,"Oakville","Oakville"," 175","Oakville",N,N,"",0,414,"Colborne","","Kerry","Conservative","Conservateur",N,N,95
+35072,"Oakville","Oakville"," 175","Oakville",N,N,"",0,414,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 175","Oakville",N,N,"",0,414,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,8
+35072,"Oakville","Oakville"," 176","Oakville",N,N,"",0,480,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35072,"Oakville","Oakville"," 176","Oakville",N,N,"",0,480,"Anand","","Anita","Liberal","Libéral",Y,Y,53
+35072,"Oakville","Oakville"," 176","Oakville",N,N,"",0,480,"Colborne","","Kerry","Conservative","Conservateur",N,N,81
+35072,"Oakville","Oakville"," 176","Oakville",N,N,"",0,480,"Knox","","Oriana","Green Party","Parti Vert",N,N,5
+35072,"Oakville","Oakville"," 176","Oakville",N,N,"",0,480,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,13
+35072,"Oakville","Oakville"," 177","Oakville",N,N,"",0,431,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35072,"Oakville","Oakville"," 177","Oakville",N,N,"",0,431,"Anand","","Anita","Liberal","Libéral",Y,Y,84
+35072,"Oakville","Oakville"," 177","Oakville",N,N,"",0,431,"Colborne","","Kerry","Conservative","Conservateur",N,N,58
+35072,"Oakville","Oakville"," 177","Oakville",N,N,"",0,431,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 177","Oakville",N,N,"",0,431,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,10
+35072,"Oakville","Oakville"," 178","Oakville",N,N,"",0,447,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35072,"Oakville","Oakville"," 178","Oakville",N,N,"",0,447,"Anand","","Anita","Liberal","Libéral",Y,Y,79
+35072,"Oakville","Oakville"," 178","Oakville",N,N,"",0,447,"Colborne","","Kerry","Conservative","Conservateur",N,N,47
+35072,"Oakville","Oakville"," 178","Oakville",N,N,"",0,447,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 178","Oakville",N,N,"",0,447,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,7
+35072,"Oakville","Oakville"," 179","Oakville",N,N,"",0,414,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35072,"Oakville","Oakville"," 179","Oakville",N,N,"",0,414,"Anand","","Anita","Liberal","Libéral",Y,Y,81
+35072,"Oakville","Oakville"," 179","Oakville",N,N,"",0,414,"Colborne","","Kerry","Conservative","Conservateur",N,N,48
+35072,"Oakville","Oakville"," 179","Oakville",N,N,"",0,414,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 179","Oakville",N,N,"",0,414,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,2
+35072,"Oakville","Oakville"," 180","Oakville",N,N,"",2,535,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35072,"Oakville","Oakville"," 180","Oakville",N,N,"",2,535,"Anand","","Anita","Liberal","Libéral",Y,Y,59
+35072,"Oakville","Oakville"," 180","Oakville",N,N,"",2,535,"Colborne","","Kerry","Conservative","Conservateur",N,N,84
+35072,"Oakville","Oakville"," 180","Oakville",N,N,"",2,535,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 180","Oakville",N,N,"",2,535,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,16
+35072,"Oakville","Oakville"," 181","Oakville",N,N,"",0,357,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35072,"Oakville","Oakville"," 181","Oakville",N,N,"",0,357,"Anand","","Anita","Liberal","Libéral",Y,Y,80
+35072,"Oakville","Oakville"," 181","Oakville",N,N,"",0,357,"Colborne","","Kerry","Conservative","Conservateur",N,N,54
+35072,"Oakville","Oakville"," 181","Oakville",N,N,"",0,357,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 181","Oakville",N,N,"",0,357,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,4
+35072,"Oakville","Oakville"," 182","Oakville",N,N,"",0,436,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35072,"Oakville","Oakville"," 182","Oakville",N,N,"",0,436,"Anand","","Anita","Liberal","Libéral",Y,Y,106
+35072,"Oakville","Oakville"," 182","Oakville",N,N,"",0,436,"Colborne","","Kerry","Conservative","Conservateur",N,N,56
+35072,"Oakville","Oakville"," 182","Oakville",N,N,"",0,436,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 182","Oakville",N,N,"",0,436,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,10
+35072,"Oakville","Oakville"," 183","Oakville",N,N,"",0,334,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35072,"Oakville","Oakville"," 183","Oakville",N,N,"",0,334,"Anand","","Anita","Liberal","Libéral",Y,Y,49
+35072,"Oakville","Oakville"," 183","Oakville",N,N,"",0,334,"Colborne","","Kerry","Conservative","Conservateur",N,N,58
+35072,"Oakville","Oakville"," 183","Oakville",N,N,"",0,334,"Knox","","Oriana","Green Party","Parti Vert",N,N,8
+35072,"Oakville","Oakville"," 183","Oakville",N,N,"",0,334,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,7
+35072,"Oakville","Oakville"," 184","Oakville",N,N,"",0,367,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35072,"Oakville","Oakville"," 184","Oakville",N,N,"",0,367,"Anand","","Anita","Liberal","Libéral",Y,Y,52
+35072,"Oakville","Oakville"," 184","Oakville",N,N,"",0,367,"Colborne","","Kerry","Conservative","Conservateur",N,N,49
+35072,"Oakville","Oakville"," 184","Oakville",N,N,"",0,367,"Knox","","Oriana","Green Party","Parti Vert",N,N,5
+35072,"Oakville","Oakville"," 184","Oakville",N,N,"",0,367,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,8
+35072,"Oakville","Oakville"," 185","Oakville",N,N,"",2,600,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35072,"Oakville","Oakville"," 185","Oakville",N,N,"",2,600,"Anand","","Anita","Liberal","Libéral",Y,Y,143
+35072,"Oakville","Oakville"," 185","Oakville",N,N,"",2,600,"Colborne","","Kerry","Conservative","Conservateur",N,N,108
+35072,"Oakville","Oakville"," 185","Oakville",N,N,"",2,600,"Knox","","Oriana","Green Party","Parti Vert",N,N,8
+35072,"Oakville","Oakville"," 185","Oakville",N,N,"",2,600,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,15
+35072,"Oakville","Oakville"," 186","Oakville",N,N,"",2,406,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35072,"Oakville","Oakville"," 186","Oakville",N,N,"",2,406,"Anand","","Anita","Liberal","Libéral",Y,Y,60
+35072,"Oakville","Oakville"," 186","Oakville",N,N,"",2,406,"Colborne","","Kerry","Conservative","Conservateur",N,N,83
+35072,"Oakville","Oakville"," 186","Oakville",N,N,"",2,406,"Knox","","Oriana","Green Party","Parti Vert",N,N,5
+35072,"Oakville","Oakville"," 186","Oakville",N,N,"",2,406,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,10
+35072,"Oakville","Oakville"," 187","Oakville",N,N,"",0,468,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35072,"Oakville","Oakville"," 187","Oakville",N,N,"",0,468,"Anand","","Anita","Liberal","Libéral",Y,Y,100
+35072,"Oakville","Oakville"," 187","Oakville",N,N,"",0,468,"Colborne","","Kerry","Conservative","Conservateur",N,N,79
+35072,"Oakville","Oakville"," 187","Oakville",N,N,"",0,468,"Knox","","Oriana","Green Party","Parti Vert",N,N,8
+35072,"Oakville","Oakville"," 187","Oakville",N,N,"",0,468,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,5
+35072,"Oakville","Oakville"," 188","Oakville",N,N,"",0,457,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35072,"Oakville","Oakville"," 188","Oakville",N,N,"",0,457,"Anand","","Anita","Liberal","Libéral",Y,Y,64
+35072,"Oakville","Oakville"," 188","Oakville",N,N,"",0,457,"Colborne","","Kerry","Conservative","Conservateur",N,N,66
+35072,"Oakville","Oakville"," 188","Oakville",N,N,"",0,457,"Knox","","Oriana","Green Party","Parti Vert",N,N,8
+35072,"Oakville","Oakville"," 188","Oakville",N,N,"",0,457,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,2
+35072,"Oakville","Oakville"," 189","Oakville",N,N,"",0,159,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35072,"Oakville","Oakville"," 189","Oakville",N,N,"",0,159,"Anand","","Anita","Liberal","Libéral",Y,Y,20
+35072,"Oakville","Oakville"," 189","Oakville",N,N,"",0,159,"Colborne","","Kerry","Conservative","Conservateur",N,N,20
+35072,"Oakville","Oakville"," 189","Oakville",N,N,"",0,159,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 189","Oakville",N,N,"",0,159,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,5
+35072,"Oakville","Oakville"," 190","Oakville",N,N,"",0,159,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35072,"Oakville","Oakville"," 190","Oakville",N,N,"",0,159,"Anand","","Anita","Liberal","Libéral",Y,Y,29
+35072,"Oakville","Oakville"," 190","Oakville",N,N,"",0,159,"Colborne","","Kerry","Conservative","Conservateur",N,N,20
+35072,"Oakville","Oakville"," 190","Oakville",N,N,"",0,159,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 190","Oakville",N,N,"",0,159,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,3
+35072,"Oakville","Oakville"," 191","Oakville",N,N,"",1,456,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35072,"Oakville","Oakville"," 191","Oakville",N,N,"",1,456,"Anand","","Anita","Liberal","Libéral",Y,Y,107
+35072,"Oakville","Oakville"," 191","Oakville",N,N,"",1,456,"Colborne","","Kerry","Conservative","Conservateur",N,N,97
+35072,"Oakville","Oakville"," 191","Oakville",N,N,"",1,456,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 191","Oakville",N,N,"",1,456,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,8
+35072,"Oakville","Oakville"," 192","Oakville",N,N,"",1,358,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35072,"Oakville","Oakville"," 192","Oakville",N,N,"",1,358,"Anand","","Anita","Liberal","Libéral",Y,Y,111
+35072,"Oakville","Oakville"," 192","Oakville",N,N,"",1,358,"Colborne","","Kerry","Conservative","Conservateur",N,N,57
+35072,"Oakville","Oakville"," 192","Oakville",N,N,"",1,358,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 192","Oakville",N,N,"",1,358,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,0
+35072,"Oakville","Oakville"," 193A","Oakville",N,N,"133",0,105,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35072,"Oakville","Oakville"," 193A","Oakville",N,N,"133",0,105,"Anand","","Anita","Liberal","Libéral",Y,Y,0
+35072,"Oakville","Oakville"," 193A","Oakville",N,N,"133",0,105,"Colborne","","Kerry","Conservative","Conservateur",N,N,0
+35072,"Oakville","Oakville"," 193A","Oakville",N,N,"133",0,105,"Knox","","Oriana","Green Party","Parti Vert",N,N,0
+35072,"Oakville","Oakville"," 193A","Oakville",N,N,"133",0,105,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,0
+35072,"Oakville","Oakville"," 193B","Mobile poll/Bureau itinérant",N,N,"",5,145,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35072,"Oakville","Oakville"," 193B","Mobile poll/Bureau itinérant",N,N,"",5,145,"Anand","","Anita","Liberal","Libéral",Y,Y,96
+35072,"Oakville","Oakville"," 193B","Mobile poll/Bureau itinérant",N,N,"",5,145,"Colborne","","Kerry","Conservative","Conservateur",N,N,41
+35072,"Oakville","Oakville"," 193B","Mobile poll/Bureau itinérant",N,N,"",5,145,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 193B","Mobile poll/Bureau itinérant",N,N,"",5,145,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,3
+35072,"Oakville","Oakville"," 194","Oakville",N,N,"",1,415,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35072,"Oakville","Oakville"," 194","Oakville",N,N,"",1,415,"Anand","","Anita","Liberal","Libéral",Y,Y,95
+35072,"Oakville","Oakville"," 194","Oakville",N,N,"",1,415,"Colborne","","Kerry","Conservative","Conservateur",N,N,69
+35072,"Oakville","Oakville"," 194","Oakville",N,N,"",1,415,"Knox","","Oriana","Green Party","Parti Vert",N,N,0
+35072,"Oakville","Oakville"," 194","Oakville",N,N,"",1,415,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,10
+35072,"Oakville","Oakville"," 195","Oakville",N,N,"",0,427,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35072,"Oakville","Oakville"," 195","Oakville",N,N,"",0,427,"Anand","","Anita","Liberal","Libéral",Y,Y,91
+35072,"Oakville","Oakville"," 195","Oakville",N,N,"",0,427,"Colborne","","Kerry","Conservative","Conservateur",N,N,87
+35072,"Oakville","Oakville"," 195","Oakville",N,N,"",0,427,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 195","Oakville",N,N,"",0,427,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,15
+35072,"Oakville","Oakville"," 196","Oakville",N,N,"",0,350,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35072,"Oakville","Oakville"," 196","Oakville",N,N,"",0,350,"Anand","","Anita","Liberal","Libéral",Y,Y,69
+35072,"Oakville","Oakville"," 196","Oakville",N,N,"",0,350,"Colborne","","Kerry","Conservative","Conservateur",N,N,61
+35072,"Oakville","Oakville"," 196","Oakville",N,N,"",0,350,"Knox","","Oriana","Green Party","Parti Vert",N,N,5
+35072,"Oakville","Oakville"," 196","Oakville",N,N,"",0,350,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,9
+35072,"Oakville","Oakville"," 197","Oakville",N,N,"",1,436,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35072,"Oakville","Oakville"," 197","Oakville",N,N,"",1,436,"Anand","","Anita","Liberal","Libéral",Y,Y,109
+35072,"Oakville","Oakville"," 197","Oakville",N,N,"",1,436,"Colborne","","Kerry","Conservative","Conservateur",N,N,74
+35072,"Oakville","Oakville"," 197","Oakville",N,N,"",1,436,"Knox","","Oriana","Green Party","Parti Vert",N,N,5
+35072,"Oakville","Oakville"," 197","Oakville",N,N,"",1,436,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,5
+35072,"Oakville","Oakville"," 198","Oakville",N,N,"",0,437,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35072,"Oakville","Oakville"," 198","Oakville",N,N,"",0,437,"Anand","","Anita","Liberal","Libéral",Y,Y,73
+35072,"Oakville","Oakville"," 198","Oakville",N,N,"",0,437,"Colborne","","Kerry","Conservative","Conservateur",N,N,69
+35072,"Oakville","Oakville"," 198","Oakville",N,N,"",0,437,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 198","Oakville",N,N,"",0,437,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,9
+35072,"Oakville","Oakville"," 199","Oakville",N,N,"",1,490,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35072,"Oakville","Oakville"," 199","Oakville",N,N,"",1,490,"Anand","","Anita","Liberal","Libéral",Y,Y,82
+35072,"Oakville","Oakville"," 199","Oakville",N,N,"",1,490,"Colborne","","Kerry","Conservative","Conservateur",N,N,69
+35072,"Oakville","Oakville"," 199","Oakville",N,N,"",1,490,"Knox","","Oriana","Green Party","Parti Vert",N,N,5
+35072,"Oakville","Oakville"," 199","Oakville",N,N,"",1,490,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,4
+35072,"Oakville","Oakville"," 200","Oakville",N,N,"",0,456,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35072,"Oakville","Oakville"," 200","Oakville",N,N,"",0,456,"Anand","","Anita","Liberal","Libéral",Y,Y,51
+35072,"Oakville","Oakville"," 200","Oakville",N,N,"",0,456,"Colborne","","Kerry","Conservative","Conservateur",N,N,31
+35072,"Oakville","Oakville"," 200","Oakville",N,N,"",0,456,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 200","Oakville",N,N,"",0,456,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,7
+35072,"Oakville","Oakville"," 201","Oakville",N,N,"",1,327,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35072,"Oakville","Oakville"," 201","Oakville",N,N,"",1,327,"Anand","","Anita","Liberal","Libéral",Y,Y,76
+35072,"Oakville","Oakville"," 201","Oakville",N,N,"",1,327,"Colborne","","Kerry","Conservative","Conservateur",N,N,52
+35072,"Oakville","Oakville"," 201","Oakville",N,N,"",1,327,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 201","Oakville",N,N,"",1,327,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,2
+35072,"Oakville","Oakville"," 202","Oakville",N,N,"",2,481,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35072,"Oakville","Oakville"," 202","Oakville",N,N,"",2,481,"Anand","","Anita","Liberal","Libéral",Y,Y,93
+35072,"Oakville","Oakville"," 202","Oakville",N,N,"",2,481,"Colborne","","Kerry","Conservative","Conservateur",N,N,74
+35072,"Oakville","Oakville"," 202","Oakville",N,N,"",2,481,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 202","Oakville",N,N,"",2,481,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,11
+35072,"Oakville","Oakville"," 203","Oakville",N,N,"",0,439,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35072,"Oakville","Oakville"," 203","Oakville",N,N,"",0,439,"Anand","","Anita","Liberal","Libéral",Y,Y,87
+35072,"Oakville","Oakville"," 203","Oakville",N,N,"",0,439,"Colborne","","Kerry","Conservative","Conservateur",N,N,58
+35072,"Oakville","Oakville"," 203","Oakville",N,N,"",0,439,"Knox","","Oriana","Green Party","Parti Vert",N,N,6
+35072,"Oakville","Oakville"," 203","Oakville",N,N,"",0,439,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,8
+35072,"Oakville","Oakville"," 204","Oakville",N,N,"",0,388,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35072,"Oakville","Oakville"," 204","Oakville",N,N,"",0,388,"Anand","","Anita","Liberal","Libéral",Y,Y,55
+35072,"Oakville","Oakville"," 204","Oakville",N,N,"",0,388,"Colborne","","Kerry","Conservative","Conservateur",N,N,67
+35072,"Oakville","Oakville"," 204","Oakville",N,N,"",0,388,"Knox","","Oriana","Green Party","Parti Vert",N,N,0
+35072,"Oakville","Oakville"," 204","Oakville",N,N,"",0,388,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,9
+35072,"Oakville","Oakville"," 205","Oakville",N,N,"",1,447,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35072,"Oakville","Oakville"," 205","Oakville",N,N,"",1,447,"Anand","","Anita","Liberal","Libéral",Y,Y,82
+35072,"Oakville","Oakville"," 205","Oakville",N,N,"",1,447,"Colborne","","Kerry","Conservative","Conservateur",N,N,58
+35072,"Oakville","Oakville"," 205","Oakville",N,N,"",1,447,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 205","Oakville",N,N,"",1,447,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,8
+35072,"Oakville","Oakville"," 206","Oakville",N,N,"",1,327,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35072,"Oakville","Oakville"," 206","Oakville",N,N,"",1,327,"Anand","","Anita","Liberal","Libéral",Y,Y,67
+35072,"Oakville","Oakville"," 206","Oakville",N,N,"",1,327,"Colborne","","Kerry","Conservative","Conservateur",N,N,55
+35072,"Oakville","Oakville"," 206","Oakville",N,N,"",1,327,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 206","Oakville",N,N,"",1,327,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,6
+35072,"Oakville","Oakville"," 207","Oakville",N,N,"",1,494,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35072,"Oakville","Oakville"," 207","Oakville",N,N,"",1,494,"Anand","","Anita","Liberal","Libéral",Y,Y,85
+35072,"Oakville","Oakville"," 207","Oakville",N,N,"",1,494,"Colborne","","Kerry","Conservative","Conservateur",N,N,87
+35072,"Oakville","Oakville"," 207","Oakville",N,N,"",1,494,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 207","Oakville",N,N,"",1,494,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,13
+35072,"Oakville","Oakville"," 208","Oakville",N,N,"",1,507,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35072,"Oakville","Oakville"," 208","Oakville",N,N,"",1,507,"Anand","","Anita","Liberal","Libéral",Y,Y,86
+35072,"Oakville","Oakville"," 208","Oakville",N,N,"",1,507,"Colborne","","Kerry","Conservative","Conservateur",N,N,82
+35072,"Oakville","Oakville"," 208","Oakville",N,N,"",1,507,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 208","Oakville",N,N,"",1,507,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,6
+35072,"Oakville","Oakville"," 209","Oakville",N,N,"",1,177,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35072,"Oakville","Oakville"," 209","Oakville",N,N,"",1,177,"Anand","","Anita","Liberal","Libéral",Y,Y,18
+35072,"Oakville","Oakville"," 209","Oakville",N,N,"",1,177,"Colborne","","Kerry","Conservative","Conservateur",N,N,46
+35072,"Oakville","Oakville"," 209","Oakville",N,N,"",1,177,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 209","Oakville",N,N,"",1,177,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,5
+35072,"Oakville","Oakville"," 210","Oakville",N,N,"",1,479,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35072,"Oakville","Oakville"," 210","Oakville",N,N,"",1,479,"Anand","","Anita","Liberal","Libéral",Y,Y,100
+35072,"Oakville","Oakville"," 210","Oakville",N,N,"",1,479,"Colborne","","Kerry","Conservative","Conservateur",N,N,74
+35072,"Oakville","Oakville"," 210","Oakville",N,N,"",1,479,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 210","Oakville",N,N,"",1,479,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,11
+35072,"Oakville","Oakville"," 211","Oakville",N,N,"",0,559,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35072,"Oakville","Oakville"," 211","Oakville",N,N,"",0,559,"Anand","","Anita","Liberal","Libéral",Y,Y,105
+35072,"Oakville","Oakville"," 211","Oakville",N,N,"",0,559,"Colborne","","Kerry","Conservative","Conservateur",N,N,83
+35072,"Oakville","Oakville"," 211","Oakville",N,N,"",0,559,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 211","Oakville",N,N,"",0,559,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,8
+35072,"Oakville","Oakville"," 212","Oakville",N,N,"",0,406,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35072,"Oakville","Oakville"," 212","Oakville",N,N,"",0,406,"Anand","","Anita","Liberal","Libéral",Y,Y,73
+35072,"Oakville","Oakville"," 212","Oakville",N,N,"",0,406,"Colborne","","Kerry","Conservative","Conservateur",N,N,57
+35072,"Oakville","Oakville"," 212","Oakville",N,N,"",0,406,"Knox","","Oriana","Green Party","Parti Vert",N,N,7
+35072,"Oakville","Oakville"," 212","Oakville",N,N,"",0,406,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,4
+35072,"Oakville","Oakville"," 213","Oakville",N,N,"",0,424,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35072,"Oakville","Oakville"," 213","Oakville",N,N,"",0,424,"Anand","","Anita","Liberal","Libéral",Y,Y,78
+35072,"Oakville","Oakville"," 213","Oakville",N,N,"",0,424,"Colborne","","Kerry","Conservative","Conservateur",N,N,59
+35072,"Oakville","Oakville"," 213","Oakville",N,N,"",0,424,"Knox","","Oriana","Green Party","Parti Vert",N,N,7
+35072,"Oakville","Oakville"," 213","Oakville",N,N,"",0,424,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,5
+35072,"Oakville","Oakville"," 214","Oakville",N,N,"",0,564,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35072,"Oakville","Oakville"," 214","Oakville",N,N,"",0,564,"Anand","","Anita","Liberal","Libéral",Y,Y,100
+35072,"Oakville","Oakville"," 214","Oakville",N,N,"",0,564,"Colborne","","Kerry","Conservative","Conservateur",N,N,98
+35072,"Oakville","Oakville"," 214","Oakville",N,N,"",0,564,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 214","Oakville",N,N,"",0,564,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,8
+35072,"Oakville","Oakville"," 215","Oakville",N,N,"",0,423,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35072,"Oakville","Oakville"," 215","Oakville",N,N,"",0,423,"Anand","","Anita","Liberal","Libéral",Y,Y,96
+35072,"Oakville","Oakville"," 215","Oakville",N,N,"",0,423,"Colborne","","Kerry","Conservative","Conservateur",N,N,69
+35072,"Oakville","Oakville"," 215","Oakville",N,N,"",0,423,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 215","Oakville",N,N,"",0,423,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,9
+35072,"Oakville","Oakville"," 216","Oakville",N,N,"",2,430,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35072,"Oakville","Oakville"," 216","Oakville",N,N,"",2,430,"Anand","","Anita","Liberal","Libéral",Y,Y,83
+35072,"Oakville","Oakville"," 216","Oakville",N,N,"",2,430,"Colborne","","Kerry","Conservative","Conservateur",N,N,72
+35072,"Oakville","Oakville"," 216","Oakville",N,N,"",2,430,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 216","Oakville",N,N,"",2,430,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,2
+35072,"Oakville","Oakville"," 217","Oakville",N,N,"",0,436,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35072,"Oakville","Oakville"," 217","Oakville",N,N,"",0,436,"Anand","","Anita","Liberal","Libéral",Y,Y,70
+35072,"Oakville","Oakville"," 217","Oakville",N,N,"",0,436,"Colborne","","Kerry","Conservative","Conservateur",N,N,72
+35072,"Oakville","Oakville"," 217","Oakville",N,N,"",0,436,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 217","Oakville",N,N,"",0,436,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,6
+35072,"Oakville","Oakville"," 218","Oakville",N,N,"",1,452,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35072,"Oakville","Oakville"," 218","Oakville",N,N,"",1,452,"Anand","","Anita","Liberal","Libéral",Y,Y,76
+35072,"Oakville","Oakville"," 218","Oakville",N,N,"",1,452,"Colborne","","Kerry","Conservative","Conservateur",N,N,91
+35072,"Oakville","Oakville"," 218","Oakville",N,N,"",1,452,"Knox","","Oriana","Green Party","Parti Vert",N,N,7
+35072,"Oakville","Oakville"," 218","Oakville",N,N,"",1,452,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,10
+35072,"Oakville","Oakville"," 400","Oakville",N,N,"",7,297,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35072,"Oakville","Oakville"," 400","Oakville",N,N,"",7,297,"Anand","","Anita","Liberal","Libéral",Y,Y,78
+35072,"Oakville","Oakville"," 400","Oakville",N,N,"",7,297,"Colborne","","Kerry","Conservative","Conservateur",N,N,57
+35072,"Oakville","Oakville"," 400","Oakville",N,N,"",7,297,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 400","Oakville",N,N,"",7,297,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,1
+35072,"Oakville","Oakville"," 401","Oakville",N,N,"",0,212,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35072,"Oakville","Oakville"," 401","Oakville",N,N,"",0,212,"Anand","","Anita","Liberal","Libéral",Y,Y,50
+35072,"Oakville","Oakville"," 401","Oakville",N,N,"",0,212,"Colborne","","Kerry","Conservative","Conservateur",N,N,36
+35072,"Oakville","Oakville"," 401","Oakville",N,N,"",0,212,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 401","Oakville",N,N,"",0,212,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,7
+35072,"Oakville","Oakville"," 402","Oakville",N,N,"",3,272,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35072,"Oakville","Oakville"," 402","Oakville",N,N,"",3,272,"Anand","","Anita","Liberal","Libéral",Y,Y,58
+35072,"Oakville","Oakville"," 402","Oakville",N,N,"",3,272,"Colborne","","Kerry","Conservative","Conservateur",N,N,41
+35072,"Oakville","Oakville"," 402","Oakville",N,N,"",3,272,"Knox","","Oriana","Green Party","Parti Vert",N,N,3
+35072,"Oakville","Oakville"," 402","Oakville",N,N,"",3,272,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,8
+35072,"Oakville","Oakville"," 403","Oakville",N,N,"",4,210,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35072,"Oakville","Oakville"," 403","Oakville",N,N,"",4,210,"Anand","","Anita","Liberal","Libéral",Y,Y,70
+35072,"Oakville","Oakville"," 403","Oakville",N,N,"",4,210,"Colborne","","Kerry","Conservative","Conservateur",N,N,36
+35072,"Oakville","Oakville"," 403","Oakville",N,N,"",4,210,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 403","Oakville",N,N,"",4,210,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,3
+35072,"Oakville","Oakville"," 404","Oakville",N,N,"",0,246,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35072,"Oakville","Oakville"," 404","Oakville",N,N,"",0,246,"Anand","","Anita","Liberal","Libéral",Y,Y,65
+35072,"Oakville","Oakville"," 404","Oakville",N,N,"",0,246,"Colborne","","Kerry","Conservative","Conservateur",N,N,67
+35072,"Oakville","Oakville"," 404","Oakville",N,N,"",0,246,"Knox","","Oriana","Green Party","Parti Vert",N,N,0
+35072,"Oakville","Oakville"," 404","Oakville",N,N,"",0,246,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,1
+35072,"Oakville","Oakville"," 405","Oakville",N,N,"",0,269,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35072,"Oakville","Oakville"," 405","Oakville",N,N,"",0,269,"Anand","","Anita","Liberal","Libéral",Y,Y,81
+35072,"Oakville","Oakville"," 405","Oakville",N,N,"",0,269,"Colborne","","Kerry","Conservative","Conservateur",N,N,60
+35072,"Oakville","Oakville"," 405","Oakville",N,N,"",0,269,"Knox","","Oriana","Green Party","Parti Vert",N,N,0
+35072,"Oakville","Oakville"," 405","Oakville",N,N,"",0,269,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,0
+35072,"Oakville","Oakville"," 406","Oakville",N,N,"",1,270,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35072,"Oakville","Oakville"," 406","Oakville",N,N,"",1,270,"Anand","","Anita","Liberal","Libéral",Y,Y,86
+35072,"Oakville","Oakville"," 406","Oakville",N,N,"",1,270,"Colborne","","Kerry","Conservative","Conservateur",N,N,62
+35072,"Oakville","Oakville"," 406","Oakville",N,N,"",1,270,"Knox","","Oriana","Green Party","Parti Vert",N,N,4
+35072,"Oakville","Oakville"," 406","Oakville",N,N,"",1,270,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,7
+35072,"Oakville","Oakville"," 407","Oakville",N,N,"",0,291,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35072,"Oakville","Oakville"," 407","Oakville",N,N,"",0,291,"Anand","","Anita","Liberal","Libéral",Y,Y,83
+35072,"Oakville","Oakville"," 407","Oakville",N,N,"",0,291,"Colborne","","Kerry","Conservative","Conservateur",N,N,79
+35072,"Oakville","Oakville"," 407","Oakville",N,N,"",0,291,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 407","Oakville",N,N,"",0,291,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,5
+35072,"Oakville","Oakville"," 500","Mobile poll/Bureau itinérant",N,N,"",1,57,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35072,"Oakville","Oakville"," 500","Mobile poll/Bureau itinérant",N,N,"",1,57,"Anand","","Anita","Liberal","Libéral",Y,Y,26
+35072,"Oakville","Oakville"," 500","Mobile poll/Bureau itinérant",N,N,"",1,57,"Colborne","","Kerry","Conservative","Conservateur",N,N,11
+35072,"Oakville","Oakville"," 500","Mobile poll/Bureau itinérant",N,N,"",1,57,"Knox","","Oriana","Green Party","Parti Vert",N,N,0
+35072,"Oakville","Oakville"," 500","Mobile poll/Bureau itinérant",N,N,"",1,57,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,0
+35072,"Oakville","Oakville"," 501","Mobile poll/Bureau itinérant",N,N,"",0,26,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35072,"Oakville","Oakville"," 501","Mobile poll/Bureau itinérant",N,N,"",0,26,"Anand","","Anita","Liberal","Libéral",Y,Y,5
+35072,"Oakville","Oakville"," 501","Mobile poll/Bureau itinérant",N,N,"",0,26,"Colborne","","Kerry","Conservative","Conservateur",N,N,10
+35072,"Oakville","Oakville"," 501","Mobile poll/Bureau itinérant",N,N,"",0,26,"Knox","","Oriana","Green Party","Parti Vert",N,N,0
+35072,"Oakville","Oakville"," 501","Mobile poll/Bureau itinérant",N,N,"",0,26,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,0
+35072,"Oakville","Oakville"," 502","Mobile poll/Bureau itinérant",N,N,"",0,52,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35072,"Oakville","Oakville"," 502","Mobile poll/Bureau itinérant",N,N,"",0,52,"Anand","","Anita","Liberal","Libéral",Y,Y,18
+35072,"Oakville","Oakville"," 502","Mobile poll/Bureau itinérant",N,N,"",0,52,"Colborne","","Kerry","Conservative","Conservateur",N,N,11
+35072,"Oakville","Oakville"," 502","Mobile poll/Bureau itinérant",N,N,"",0,52,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 502","Mobile poll/Bureau itinérant",N,N,"",0,52,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,1
+35072,"Oakville","Oakville"," 503","Mobile poll/Bureau itinérant",N,N,"",3,63,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35072,"Oakville","Oakville"," 503","Mobile poll/Bureau itinérant",N,N,"",3,63,"Anand","","Anita","Liberal","Libéral",Y,Y,25
+35072,"Oakville","Oakville"," 503","Mobile poll/Bureau itinérant",N,N,"",3,63,"Colborne","","Kerry","Conservative","Conservateur",N,N,16
+35072,"Oakville","Oakville"," 503","Mobile poll/Bureau itinérant",N,N,"",3,63,"Knox","","Oriana","Green Party","Parti Vert",N,N,0
+35072,"Oakville","Oakville"," 503","Mobile poll/Bureau itinérant",N,N,"",3,63,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,0
+35072,"Oakville","Oakville"," 504","Mobile poll/Bureau itinérant",N,N,"",0,35,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35072,"Oakville","Oakville"," 504","Mobile poll/Bureau itinérant",N,N,"",0,35,"Anand","","Anita","Liberal","Libéral",Y,Y,10
+35072,"Oakville","Oakville"," 504","Mobile poll/Bureau itinérant",N,N,"",0,35,"Colborne","","Kerry","Conservative","Conservateur",N,N,10
+35072,"Oakville","Oakville"," 504","Mobile poll/Bureau itinérant",N,N,"",0,35,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 504","Mobile poll/Bureau itinérant",N,N,"",0,35,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,0
+35072,"Oakville","Oakville"," 505","Mobile poll/Bureau itinérant",N,N,"",0,60,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35072,"Oakville","Oakville"," 505","Mobile poll/Bureau itinérant",N,N,"",0,60,"Anand","","Anita","Liberal","Libéral",Y,Y,15
+35072,"Oakville","Oakville"," 505","Mobile poll/Bureau itinérant",N,N,"",0,60,"Colborne","","Kerry","Conservative","Conservateur",N,N,8
+35072,"Oakville","Oakville"," 505","Mobile poll/Bureau itinérant",N,N,"",0,60,"Knox","","Oriana","Green Party","Parti Vert",N,N,2
+35072,"Oakville","Oakville"," 505","Mobile poll/Bureau itinérant",N,N,"",0,60,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,0
+35072,"Oakville","Oakville"," 506","Oakville",N,N,"133",0,15,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35072,"Oakville","Oakville"," 506","Oakville",N,N,"133",0,15,"Anand","","Anita","Liberal","Libéral",Y,Y,0
+35072,"Oakville","Oakville"," 506","Oakville",N,N,"133",0,15,"Colborne","","Kerry","Conservative","Conservateur",N,N,0
+35072,"Oakville","Oakville"," 506","Oakville",N,N,"133",0,15,"Knox","","Oriana","Green Party","Parti Vert",N,N,0
+35072,"Oakville","Oakville"," 506","Oakville",N,N,"133",0,15,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,0
+35072,"Oakville","Oakville"," 507","Mobile poll/Bureau itinérant",N,N,"",2,87,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35072,"Oakville","Oakville"," 507","Mobile poll/Bureau itinérant",N,N,"",2,87,"Anand","","Anita","Liberal","Libéral",Y,Y,42
+35072,"Oakville","Oakville"," 507","Mobile poll/Bureau itinérant",N,N,"",2,87,"Colborne","","Kerry","Conservative","Conservateur",N,N,20
+35072,"Oakville","Oakville"," 507","Mobile poll/Bureau itinérant",N,N,"",2,87,"Knox","","Oriana","Green Party","Parti Vert",N,N,1
+35072,"Oakville","Oakville"," 507","Mobile poll/Bureau itinérant",N,N,"",2,87,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,0
+35072,"Oakville","Oakville"," 508","Mobile poll/Bureau itinérant",N,N,"",1,39,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35072,"Oakville","Oakville"," 508","Mobile poll/Bureau itinérant",N,N,"",1,39,"Anand","","Anita","Liberal","Libéral",Y,Y,14
+35072,"Oakville","Oakville"," 508","Mobile poll/Bureau itinérant",N,N,"",1,39,"Colborne","","Kerry","Conservative","Conservateur",N,N,10
+35072,"Oakville","Oakville"," 508","Mobile poll/Bureau itinérant",N,N,"",1,39,"Knox","","Oriana","Green Party","Parti Vert",N,N,0
+35072,"Oakville","Oakville"," 508","Mobile poll/Bureau itinérant",N,N,"",1,39,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,3
+35072,"Oakville","Oakville"," 509","Mobile poll/Bureau itinérant",N,N,"",2,135,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35072,"Oakville","Oakville"," 509","Mobile poll/Bureau itinérant",N,N,"",2,135,"Anand","","Anita","Liberal","Libéral",Y,Y,47
+35072,"Oakville","Oakville"," 509","Mobile poll/Bureau itinérant",N,N,"",2,135,"Colborne","","Kerry","Conservative","Conservateur",N,N,42
+35072,"Oakville","Oakville"," 509","Mobile poll/Bureau itinérant",N,N,"",2,135,"Knox","","Oriana","Green Party","Parti Vert",N,N,0
+35072,"Oakville","Oakville"," 509","Mobile poll/Bureau itinérant",N,N,"",2,135,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,0
+35072,"Oakville","Oakville"," 600","Oakville",N,N,"",2,0,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+35072,"Oakville","Oakville"," 600","Oakville",N,N,"",2,0,"Anand","","Anita","Liberal","Libéral",Y,Y,595
+35072,"Oakville","Oakville"," 600","Oakville",N,N,"",2,0,"Colborne","","Kerry","Conservative","Conservateur",N,N,526
+35072,"Oakville","Oakville"," 600","Oakville",N,N,"",2,0,"Knox","","Oriana","Green Party","Parti Vert",N,N,13
+35072,"Oakville","Oakville"," 600","Oakville",N,N,"",2,0,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,18
+35072,"Oakville","Oakville"," 601","Oakville",N,N,"",4,0,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+35072,"Oakville","Oakville"," 601","Oakville",N,N,"",4,0,"Anand","","Anita","Liberal","Libéral",Y,Y,558
+35072,"Oakville","Oakville"," 601","Oakville",N,N,"",4,0,"Colborne","","Kerry","Conservative","Conservateur",N,N,483
+35072,"Oakville","Oakville"," 601","Oakville",N,N,"",4,0,"Knox","","Oriana","Green Party","Parti Vert",N,N,14
+35072,"Oakville","Oakville"," 601","Oakville",N,N,"",4,0,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,20
+35072,"Oakville","Oakville"," 602","Oakville",N,N,"",8,0,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+35072,"Oakville","Oakville"," 602","Oakville",N,N,"",8,0,"Anand","","Anita","Liberal","Libéral",Y,Y,723
+35072,"Oakville","Oakville"," 602","Oakville",N,N,"",8,0,"Colborne","","Kerry","Conservative","Conservateur",N,N,847
+35072,"Oakville","Oakville"," 602","Oakville",N,N,"",8,0,"Knox","","Oriana","Green Party","Parti Vert",N,N,13
+35072,"Oakville","Oakville"," 602","Oakville",N,N,"",8,0,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,31
+35072,"Oakville","Oakville"," 603","Oakville",N,N,"",6,0,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,108
+35072,"Oakville","Oakville"," 603","Oakville",N,N,"",6,0,"Anand","","Anita","Liberal","Libéral",Y,Y,702
+35072,"Oakville","Oakville"," 603","Oakville",N,N,"",6,0,"Colborne","","Kerry","Conservative","Conservateur",N,N,614
+35072,"Oakville","Oakville"," 603","Oakville",N,N,"",6,0,"Knox","","Oriana","Green Party","Parti Vert",N,N,20
+35072,"Oakville","Oakville"," 603","Oakville",N,N,"",6,0,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,31
+35072,"Oakville","Oakville"," 604","Oakville",N,N,"",2,0,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35072,"Oakville","Oakville"," 604","Oakville",N,N,"",2,0,"Anand","","Anita","Liberal","Libéral",Y,Y,468
+35072,"Oakville","Oakville"," 604","Oakville",N,N,"",2,0,"Colborne","","Kerry","Conservative","Conservateur",N,N,739
+35072,"Oakville","Oakville"," 604","Oakville",N,N,"",2,0,"Knox","","Oriana","Green Party","Parti Vert",N,N,13
+35072,"Oakville","Oakville"," 604","Oakville",N,N,"",2,0,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,19
+35072,"Oakville","Oakville"," 605","Oakville",N,N,"",10,0,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,171
+35072,"Oakville","Oakville"," 605","Oakville",N,N,"",10,0,"Anand","","Anita","Liberal","Libéral",Y,Y,656
+35072,"Oakville","Oakville"," 605","Oakville",N,N,"",10,0,"Colborne","","Kerry","Conservative","Conservateur",N,N,479
+35072,"Oakville","Oakville"," 605","Oakville",N,N,"",10,0,"Knox","","Oriana","Green Party","Parti Vert",N,N,33
+35072,"Oakville","Oakville"," 605","Oakville",N,N,"",10,0,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,49
+35072,"Oakville","Oakville"," 606","Oakville",N,N,"",10,0,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,124
+35072,"Oakville","Oakville"," 606","Oakville",N,N,"",10,0,"Anand","","Anita","Liberal","Libéral",Y,Y,604
+35072,"Oakville","Oakville"," 606","Oakville",N,N,"",10,0,"Colborne","","Kerry","Conservative","Conservateur",N,N,436
+35072,"Oakville","Oakville"," 606","Oakville",N,N,"",10,0,"Knox","","Oriana","Green Party","Parti Vert",N,N,24
+35072,"Oakville","Oakville"," 606","Oakville",N,N,"",10,0,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,65
+35072,"Oakville","Oakville"," 607","Oakville",N,N,"",3,0,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+35072,"Oakville","Oakville"," 607","Oakville",N,N,"",3,0,"Anand","","Anita","Liberal","Libéral",Y,Y,560
+35072,"Oakville","Oakville"," 607","Oakville",N,N,"",3,0,"Colborne","","Kerry","Conservative","Conservateur",N,N,689
+35072,"Oakville","Oakville"," 607","Oakville",N,N,"",3,0,"Knox","","Oriana","Green Party","Parti Vert",N,N,19
+35072,"Oakville","Oakville"," 607","Oakville",N,N,"",3,0,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,20
+35072,"Oakville","Oakville"," 608","Oakville",N,N,"",6,0,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,81
+35072,"Oakville","Oakville"," 608","Oakville",N,N,"",6,0,"Anand","","Anita","Liberal","Libéral",Y,Y,475
+35072,"Oakville","Oakville"," 608","Oakville",N,N,"",6,0,"Colborne","","Kerry","Conservative","Conservateur",N,N,326
+35072,"Oakville","Oakville"," 608","Oakville",N,N,"",6,0,"Knox","","Oriana","Green Party","Parti Vert",N,N,22
+35072,"Oakville","Oakville"," 608","Oakville",N,N,"",6,0,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,46
+35072,"Oakville","Oakville"," 609","Oakville",N,N,"",2,0,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,94
+35072,"Oakville","Oakville"," 609","Oakville",N,N,"",2,0,"Anand","","Anita","Liberal","Libéral",Y,Y,770
+35072,"Oakville","Oakville"," 609","Oakville",N,N,"",2,0,"Colborne","","Kerry","Conservative","Conservateur",N,N,602
+35072,"Oakville","Oakville"," 609","Oakville",N,N,"",2,0,"Knox","","Oriana","Green Party","Parti Vert",N,N,23
+35072,"Oakville","Oakville"," 609","Oakville",N,N,"",2,0,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,34
+35072,"Oakville","Oakville"," 610","Oakville",N,N,"",14,0,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,88
+35072,"Oakville","Oakville"," 610","Oakville",N,N,"",14,0,"Anand","","Anita","Liberal","Libéral",Y,Y,655
+35072,"Oakville","Oakville"," 610","Oakville",N,N,"",14,0,"Colborne","","Kerry","Conservative","Conservateur",N,N,688
+35072,"Oakville","Oakville"," 610","Oakville",N,N,"",14,0,"Knox","","Oriana","Green Party","Parti Vert",N,N,17
+35072,"Oakville","Oakville"," 610","Oakville",N,N,"",14,0,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,37
+35072,"Oakville","Oakville"," 611","Oakville",N,N,"",8,0,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+35072,"Oakville","Oakville"," 611","Oakville",N,N,"",8,0,"Anand","","Anita","Liberal","Libéral",Y,Y,764
+35072,"Oakville","Oakville"," 611","Oakville",N,N,"",8,0,"Colborne","","Kerry","Conservative","Conservateur",N,N,696
+35072,"Oakville","Oakville"," 611","Oakville",N,N,"",8,0,"Knox","","Oriana","Green Party","Parti Vert",N,N,22
+35072,"Oakville","Oakville"," 611","Oakville",N,N,"",8,0,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,53
+35072,"Oakville","Oakville"," 612","Oakville",N,N,"",2,0,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,113
+35072,"Oakville","Oakville"," 612","Oakville",N,N,"",2,0,"Anand","","Anita","Liberal","Libéral",Y,Y,819
+35072,"Oakville","Oakville"," 612","Oakville",N,N,"",2,0,"Colborne","","Kerry","Conservative","Conservateur",N,N,649
+35072,"Oakville","Oakville"," 612","Oakville",N,N,"",2,0,"Knox","","Oriana","Green Party","Parti Vert",N,N,17
+35072,"Oakville","Oakville"," 612","Oakville",N,N,"",2,0,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,31
+35072,"Oakville","Oakville"," 613","Oakville",N,N,"",6,0,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+35072,"Oakville","Oakville"," 613","Oakville",N,N,"",6,0,"Anand","","Anita","Liberal","Libéral",Y,Y,546
+35072,"Oakville","Oakville"," 613","Oakville",N,N,"",6,0,"Colborne","","Kerry","Conservative","Conservateur",N,N,536
+35072,"Oakville","Oakville"," 613","Oakville",N,N,"",6,0,"Knox","","Oriana","Green Party","Parti Vert",N,N,13
+35072,"Oakville","Oakville"," 613","Oakville",N,N,"",6,0,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,35
+35072,"Oakville","Oakville"," 614","Oakville",N,N,"",6,0,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+35072,"Oakville","Oakville"," 614","Oakville",N,N,"",6,0,"Anand","","Anita","Liberal","Libéral",Y,Y,475
+35072,"Oakville","Oakville"," 614","Oakville",N,N,"",6,0,"Colborne","","Kerry","Conservative","Conservateur",N,N,396
+35072,"Oakville","Oakville"," 614","Oakville",N,N,"",6,0,"Knox","","Oriana","Green Party","Parti Vert",N,N,11
+35072,"Oakville","Oakville"," 614","Oakville",N,N,"",6,0,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,54
+35072,"Oakville","Oakville"," 615","Oakville",N,N,"",1,0,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+35072,"Oakville","Oakville"," 615","Oakville",N,N,"",1,0,"Anand","","Anita","Liberal","Libéral",Y,Y,582
+35072,"Oakville","Oakville"," 615","Oakville",N,N,"",1,0,"Colborne","","Kerry","Conservative","Conservateur",N,N,486
+35072,"Oakville","Oakville"," 615","Oakville",N,N,"",1,0,"Knox","","Oriana","Green Party","Parti Vert",N,N,25
+35072,"Oakville","Oakville"," 615","Oakville",N,N,"",1,0,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,51
+35072,"Oakville","Oakville"," 616","Oakville",N,N,"",2,0,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35072,"Oakville","Oakville"," 616","Oakville",N,N,"",2,0,"Anand","","Anita","Liberal","Libéral",Y,Y,569
+35072,"Oakville","Oakville"," 616","Oakville",N,N,"",2,0,"Colborne","","Kerry","Conservative","Conservateur",N,N,577
+35072,"Oakville","Oakville"," 616","Oakville",N,N,"",2,0,"Knox","","Oriana","Green Party","Parti Vert",N,N,21
+35072,"Oakville","Oakville"," 616","Oakville",N,N,"",2,0,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,29
+35072,"Oakville","Oakville"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",21,432,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,107
+35072,"Oakville","Oakville"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",21,432,"Anand","","Anita","Liberal","Libéral",Y,Y,405
+35072,"Oakville","Oakville"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",21,432,"Colborne","","Kerry","Conservative","Conservateur",N,N,251
+35072,"Oakville","Oakville"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",21,432,"Knox","","Oriana","Green Party","Parti Vert",N,N,26
+35072,"Oakville","Oakville"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",21,432,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,17
+35072,"Oakville","Oakville"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",40,0,"Adamo","","Jerome","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,282
+35072,"Oakville","Oakville"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",40,0,"Anand","","Anita","Liberal","Libéral",Y,Y,1860
+35072,"Oakville","Oakville"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",40,0,"Colborne","","Kerry","Conservative","Conservateur",N,N,1050
+35072,"Oakville","Oakville"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",40,0,"Knox","","Oriana","Green Party","Parti Vert",N,N,22
+35072,"Oakville","Oakville"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",40,0,"Meaney","","JD","People's Party - PPC","Parti populaire - PPC",N,N,41

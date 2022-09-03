@@ -1,0 +1,981 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 1","North Vancouver",N,N,"",0,410,"Beech","","Terry","Liberal","Libéral",Y,Y,49
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 1","North Vancouver",N,N,"",0,410,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 1","North Vancouver",N,N,"",0,410,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 1","North Vancouver",N,N,"",0,410,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 1","North Vancouver",N,N,"",0,410,"Shein","","Kelsey","Conservative","Conservateur",N,N,56
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 2","North Vancouver",N,N,"",0,474,"Beech","","Terry","Liberal","Libéral",Y,Y,65
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 2","North Vancouver",N,N,"",0,474,"Dolling","","Peter","Green Party","Parti Vert",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 2","North Vancouver",N,N,"",0,474,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 2","North Vancouver",N,N,"",0,474,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 2","North Vancouver",N,N,"",0,474,"Shein","","Kelsey","Conservative","Conservateur",N,N,45
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 3","North Vancouver",N,N,"",0,429,"Beech","","Terry","Liberal","Libéral",Y,Y,82
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 3","North Vancouver",N,N,"",0,429,"Dolling","","Peter","Green Party","Parti Vert",N,N,11
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 3","North Vancouver",N,N,"",0,429,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 3","North Vancouver",N,N,"",0,429,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 3","North Vancouver",N,N,"",0,429,"Shein","","Kelsey","Conservative","Conservateur",N,N,43
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 4","North Vancouver",N,N,"",0,375,"Beech","","Terry","Liberal","Libéral",Y,Y,67
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 4","North Vancouver",N,N,"",0,375,"Dolling","","Peter","Green Party","Parti Vert",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 4","North Vancouver",N,N,"",0,375,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 4","North Vancouver",N,N,"",0,375,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 4","North Vancouver",N,N,"",0,375,"Shein","","Kelsey","Conservative","Conservateur",N,N,30
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 5","North Vancouver",N,N,"",0,417,"Beech","","Terry","Liberal","Libéral",Y,Y,67
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 5","North Vancouver",N,N,"",0,417,"Dolling","","Peter","Green Party","Parti Vert",N,N,7
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 5","North Vancouver",N,N,"",0,417,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 5","North Vancouver",N,N,"",0,417,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,1
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 5","North Vancouver",N,N,"",0,417,"Shein","","Kelsey","Conservative","Conservateur",N,N,47
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 6","North Vancouver",N,N,"",1,408,"Beech","","Terry","Liberal","Libéral",Y,Y,46
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 6","North Vancouver",N,N,"",1,408,"Dolling","","Peter","Green Party","Parti Vert",N,N,9
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 6","North Vancouver",N,N,"",1,408,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 6","North Vancouver",N,N,"",1,408,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 6","North Vancouver",N,N,"",1,408,"Shein","","Kelsey","Conservative","Conservateur",N,N,51
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 7","North Vancouver",N,N,"",0,429,"Beech","","Terry","Liberal","Libéral",Y,Y,87
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 7","North Vancouver",N,N,"",0,429,"Dolling","","Peter","Green Party","Parti Vert",N,N,10
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 7","North Vancouver",N,N,"",0,429,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 7","North Vancouver",N,N,"",0,429,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,1
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 7","North Vancouver",N,N,"",0,429,"Shein","","Kelsey","Conservative","Conservateur",N,N,34
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 8","North Vancouver",N,N,"",0,405,"Beech","","Terry","Liberal","Libéral",Y,Y,56
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 8","North Vancouver",N,N,"",0,405,"Dolling","","Peter","Green Party","Parti Vert",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 8","North Vancouver",N,N,"",0,405,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 8","North Vancouver",N,N,"",0,405,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,1
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 8","North Vancouver",N,N,"",0,405,"Shein","","Kelsey","Conservative","Conservateur",N,N,43
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 9","North Vancouver",N,N,"",0,429,"Beech","","Terry","Liberal","Libéral",Y,Y,50
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 9","North Vancouver",N,N,"",0,429,"Dolling","","Peter","Green Party","Parti Vert",N,N,11
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 9","North Vancouver",N,N,"",0,429,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 9","North Vancouver",N,N,"",0,429,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 9","North Vancouver",N,N,"",0,429,"Shein","","Kelsey","Conservative","Conservateur",N,N,35
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 10","North Vancouver",N,N,"",1,451,"Beech","","Terry","Liberal","Libéral",Y,Y,50
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 10","North Vancouver",N,N,"",1,451,"Dolling","","Peter","Green Party","Parti Vert",N,N,9
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 10","North Vancouver",N,N,"",1,451,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 10","North Vancouver",N,N,"",1,451,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 10","North Vancouver",N,N,"",1,451,"Shein","","Kelsey","Conservative","Conservateur",N,N,31
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 11","North Vancouver",N,N,"",0,452,"Beech","","Terry","Liberal","Libéral",Y,Y,51
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 11","North Vancouver",N,N,"",0,452,"Dolling","","Peter","Green Party","Parti Vert",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 11","North Vancouver",N,N,"",0,452,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 11","North Vancouver",N,N,"",0,452,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 11","North Vancouver",N,N,"",0,452,"Shein","","Kelsey","Conservative","Conservateur",N,N,67
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 12","North Vancouver",N,N,"",0,418,"Beech","","Terry","Liberal","Libéral",Y,Y,70
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 12","North Vancouver",N,N,"",0,418,"Dolling","","Peter","Green Party","Parti Vert",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 12","North Vancouver",N,N,"",0,418,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 12","North Vancouver",N,N,"",0,418,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 12","North Vancouver",N,N,"",0,418,"Shein","","Kelsey","Conservative","Conservateur",N,N,51
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 13","North Vancouver",N,N,"",0,497,"Beech","","Terry","Liberal","Libéral",Y,Y,62
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 13","North Vancouver",N,N,"",0,497,"Dolling","","Peter","Green Party","Parti Vert",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 13","North Vancouver",N,N,"",0,497,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 13","North Vancouver",N,N,"",0,497,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 13","North Vancouver",N,N,"",0,497,"Shein","","Kelsey","Conservative","Conservateur",N,N,44
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 14","North Vancouver",N,N,"",0,404,"Beech","","Terry","Liberal","Libéral",Y,Y,56
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 14","North Vancouver",N,N,"",0,404,"Dolling","","Peter","Green Party","Parti Vert",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 14","North Vancouver",N,N,"",0,404,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 14","North Vancouver",N,N,"",0,404,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 14","North Vancouver",N,N,"",0,404,"Shein","","Kelsey","Conservative","Conservateur",N,N,35
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 15","North Vancouver",N,N,"",0,493,"Beech","","Terry","Liberal","Libéral",Y,Y,80
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 15","North Vancouver",N,N,"",0,493,"Dolling","","Peter","Green Party","Parti Vert",N,N,9
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 15","North Vancouver",N,N,"",0,493,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 15","North Vancouver",N,N,"",0,493,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,1
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 15","North Vancouver",N,N,"",0,493,"Shein","","Kelsey","Conservative","Conservateur",N,N,34
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 16","North Vancouver",N,N,"",0,444,"Beech","","Terry","Liberal","Libéral",Y,Y,75
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 16","North Vancouver",N,N,"",0,444,"Dolling","","Peter","Green Party","Parti Vert",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 16","North Vancouver",N,N,"",0,444,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 16","North Vancouver",N,N,"",0,444,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 16","North Vancouver",N,N,"",0,444,"Shein","","Kelsey","Conservative","Conservateur",N,N,50
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 17","North Vancouver",N,N,"",0,285,"Beech","","Terry","Liberal","Libéral",Y,Y,34
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 17","North Vancouver",N,N,"",0,285,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 17","North Vancouver",N,N,"",0,285,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 17","North Vancouver",N,N,"",0,285,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 17","North Vancouver",N,N,"",0,285,"Shein","","Kelsey","Conservative","Conservateur",N,N,24
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 18","North Vancouver",N,N,"",0,621,"Beech","","Terry","Liberal","Libéral",Y,Y,96
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 18","North Vancouver",N,N,"",0,621,"Dolling","","Peter","Green Party","Parti Vert",N,N,7
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 18","North Vancouver",N,N,"",0,621,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 18","North Vancouver",N,N,"",0,621,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 18","North Vancouver",N,N,"",0,621,"Shein","","Kelsey","Conservative","Conservateur",N,N,25
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 19","North Vancouver",N,N,"",0,505,"Beech","","Terry","Liberal","Libéral",Y,Y,76
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 19","North Vancouver",N,N,"",0,505,"Dolling","","Peter","Green Party","Parti Vert",N,N,8
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 19","North Vancouver",N,N,"",0,505,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 19","North Vancouver",N,N,"",0,505,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,1
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 19","North Vancouver",N,N,"",0,505,"Shein","","Kelsey","Conservative","Conservateur",N,N,46
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 20","North Vancouver",N,N,"",0,456,"Beech","","Terry","Liberal","Libéral",Y,Y,73
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 20","North Vancouver",N,N,"",0,456,"Dolling","","Peter","Green Party","Parti Vert",N,N,10
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 20","North Vancouver",N,N,"",0,456,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 20","North Vancouver",N,N,"",0,456,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 20","North Vancouver",N,N,"",0,456,"Shein","","Kelsey","Conservative","Conservateur",N,N,42
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 21","North Vancouver",N,N,"",0,688,"Beech","","Terry","Liberal","Libéral",Y,Y,78
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 21","North Vancouver",N,N,"",0,688,"Dolling","","Peter","Green Party","Parti Vert",N,N,8
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 21","North Vancouver",N,N,"",0,688,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,87
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 21","North Vancouver",N,N,"",0,688,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 21","North Vancouver",N,N,"",0,688,"Shein","","Kelsey","Conservative","Conservateur",N,N,46
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 22","North Vancouver",N,N,"",0,467,"Beech","","Terry","Liberal","Libéral",Y,Y,83
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 22","North Vancouver",N,N,"",0,467,"Dolling","","Peter","Green Party","Parti Vert",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 22","North Vancouver",N,N,"",0,467,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 22","North Vancouver",N,N,"",0,467,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 22","North Vancouver",N,N,"",0,467,"Shein","","Kelsey","Conservative","Conservateur",N,N,51
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 23","North Vancouver",N,N,"",0,380,"Beech","","Terry","Liberal","Libéral",Y,Y,79
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 23","North Vancouver",N,N,"",0,380,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 23","North Vancouver",N,N,"",0,380,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 23","North Vancouver",N,N,"",0,380,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 23","North Vancouver",N,N,"",0,380,"Shein","","Kelsey","Conservative","Conservateur",N,N,44
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 24","North Vancouver",N,N,"",2,420,"Beech","","Terry","Liberal","Libéral",Y,Y,67
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 24","North Vancouver",N,N,"",2,420,"Dolling","","Peter","Green Party","Parti Vert",N,N,11
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 24","North Vancouver",N,N,"",2,420,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 24","North Vancouver",N,N,"",2,420,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 24","North Vancouver",N,N,"",2,420,"Shein","","Kelsey","Conservative","Conservateur",N,N,37
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 25","North Vancouver",N,N,"",1,453,"Beech","","Terry","Liberal","Libéral",Y,Y,86
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 25","North Vancouver",N,N,"",1,453,"Dolling","","Peter","Green Party","Parti Vert",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 25","North Vancouver",N,N,"",1,453,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 25","North Vancouver",N,N,"",1,453,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 25","North Vancouver",N,N,"",1,453,"Shein","","Kelsey","Conservative","Conservateur",N,N,40
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 26","North Vancouver",N,N,"",0,389,"Beech","","Terry","Liberal","Libéral",Y,Y,63
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 26","North Vancouver",N,N,"",0,389,"Dolling","","Peter","Green Party","Parti Vert",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 26","North Vancouver",N,N,"",0,389,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 26","North Vancouver",N,N,"",0,389,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 26","North Vancouver",N,N,"",0,389,"Shein","","Kelsey","Conservative","Conservateur",N,N,42
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 27","North Vancouver",N,N,"",0,571,"Beech","","Terry","Liberal","Libéral",Y,Y,69
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 27","North Vancouver",N,N,"",0,571,"Dolling","","Peter","Green Party","Parti Vert",N,N,7
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 27","North Vancouver",N,N,"",0,571,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 27","North Vancouver",N,N,"",0,571,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 27","North Vancouver",N,N,"",0,571,"Shein","","Kelsey","Conservative","Conservateur",N,N,50
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 28","North Vancouver",N,N,"",0,397,"Beech","","Terry","Liberal","Libéral",Y,Y,82
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 28","North Vancouver",N,N,"",0,397,"Dolling","","Peter","Green Party","Parti Vert",N,N,13
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 28","North Vancouver",N,N,"",0,397,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 28","North Vancouver",N,N,"",0,397,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,1
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 28","North Vancouver",N,N,"",0,397,"Shein","","Kelsey","Conservative","Conservateur",N,N,48
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 29","North Vancouver",N,N,"",0,386,"Beech","","Terry","Liberal","Libéral",Y,Y,65
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 29","North Vancouver",N,N,"",0,386,"Dolling","","Peter","Green Party","Parti Vert",N,N,9
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 29","North Vancouver",N,N,"",0,386,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 29","North Vancouver",N,N,"",0,386,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 29","North Vancouver",N,N,"",0,386,"Shein","","Kelsey","Conservative","Conservateur",N,N,26
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 30","North Vancouver",N,N,"",0,375,"Beech","","Terry","Liberal","Libéral",Y,Y,58
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 30","North Vancouver",N,N,"",0,375,"Dolling","","Peter","Green Party","Parti Vert",N,N,8
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 30","North Vancouver",N,N,"",0,375,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 30","North Vancouver",N,N,"",0,375,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 30","North Vancouver",N,N,"",0,375,"Shein","","Kelsey","Conservative","Conservateur",N,N,35
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 31","North Vancouver",N,N,"",0,385,"Beech","","Terry","Liberal","Libéral",Y,Y,87
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 31","North Vancouver",N,N,"",0,385,"Dolling","","Peter","Green Party","Parti Vert",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 31","North Vancouver",N,N,"",0,385,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 31","North Vancouver",N,N,"",0,385,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 31","North Vancouver",N,N,"",0,385,"Shein","","Kelsey","Conservative","Conservateur",N,N,36
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 32","North Vancouver",N,N,"",2,386,"Beech","","Terry","Liberal","Libéral",Y,Y,69
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 32","North Vancouver",N,N,"",2,386,"Dolling","","Peter","Green Party","Parti Vert",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 32","North Vancouver",N,N,"",2,386,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 32","North Vancouver",N,N,"",2,386,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,1
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 32","North Vancouver",N,N,"",2,386,"Shein","","Kelsey","Conservative","Conservateur",N,N,39
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 33","North Vancouver",N,N,"",0,381,"Beech","","Terry","Liberal","Libéral",Y,Y,73
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 33","North Vancouver",N,N,"",0,381,"Dolling","","Peter","Green Party","Parti Vert",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 33","North Vancouver",N,N,"",0,381,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 33","North Vancouver",N,N,"",0,381,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,1
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 33","North Vancouver",N,N,"",0,381,"Shein","","Kelsey","Conservative","Conservateur",N,N,31
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 34","North Vancouver",N,N,"",1,428,"Beech","","Terry","Liberal","Libéral",Y,Y,71
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 34","North Vancouver",N,N,"",1,428,"Dolling","","Peter","Green Party","Parti Vert",N,N,14
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 34","North Vancouver",N,N,"",1,428,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 34","North Vancouver",N,N,"",1,428,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 34","North Vancouver",N,N,"",1,428,"Shein","","Kelsey","Conservative","Conservateur",N,N,39
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 35","North Vancouver",N,N,"",2,437,"Beech","","Terry","Liberal","Libéral",Y,Y,86
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 35","North Vancouver",N,N,"",2,437,"Dolling","","Peter","Green Party","Parti Vert",N,N,7
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 35","North Vancouver",N,N,"",2,437,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 35","North Vancouver",N,N,"",2,437,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 35","North Vancouver",N,N,"",2,437,"Shein","","Kelsey","Conservative","Conservateur",N,N,46
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 36","North Vancouver",N,N,"",1,503,"Beech","","Terry","Liberal","Libéral",Y,Y,81
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 36","North Vancouver",N,N,"",1,503,"Dolling","","Peter","Green Party","Parti Vert",N,N,14
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 36","North Vancouver",N,N,"",1,503,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 36","North Vancouver",N,N,"",1,503,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 36","North Vancouver",N,N,"",1,503,"Shein","","Kelsey","Conservative","Conservateur",N,N,51
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 37","North Vancouver",N,N,"",2,744,"Beech","","Terry","Liberal","Libéral",Y,Y,90
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 37","North Vancouver",N,N,"",2,744,"Dolling","","Peter","Green Party","Parti Vert",N,N,8
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 37","North Vancouver",N,N,"",2,744,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,114
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 37","North Vancouver",N,N,"",2,744,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 37","North Vancouver",N,N,"",2,744,"Shein","","Kelsey","Conservative","Conservateur",N,N,47
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 38","Burrard Inlet 3",N,N,"",0,540,"Beech","","Terry","Liberal","Libéral",Y,Y,94
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 38","Burrard Inlet 3",N,N,"",0,540,"Dolling","","Peter","Green Party","Parti Vert",N,N,8
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 38","Burrard Inlet 3",N,N,"",0,540,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 38","Burrard Inlet 3",N,N,"",0,540,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 38","Burrard Inlet 3",N,N,"",0,540,"Shein","","Kelsey","Conservative","Conservateur",N,N,43
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 39","Burrard Inlet 3",N,N,"",1,402,"Beech","","Terry","Liberal","Libéral",Y,Y,43
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 39","Burrard Inlet 3",N,N,"",1,402,"Dolling","","Peter","Green Party","Parti Vert",N,N,7
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 39","Burrard Inlet 3",N,N,"",1,402,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 39","Burrard Inlet 3",N,N,"",1,402,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 39","Burrard Inlet 3",N,N,"",1,402,"Shein","","Kelsey","Conservative","Conservateur",N,N,25
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 40","Burrard Inlet 3",N,N,"",0,404,"Beech","","Terry","Liberal","Libéral",Y,Y,34
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 40","Burrard Inlet 3",N,N,"",0,404,"Dolling","","Peter","Green Party","Parti Vert",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 40","Burrard Inlet 3",N,N,"",0,404,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 40","Burrard Inlet 3",N,N,"",0,404,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 40","Burrard Inlet 3",N,N,"",0,404,"Shein","","Kelsey","Conservative","Conservateur",N,N,30
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 41","Burnaby",N,N,"",1,463,"Beech","","Terry","Liberal","Libéral",Y,Y,52
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 41","Burnaby",N,N,"",1,463,"Dolling","","Peter","Green Party","Parti Vert",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 41","Burnaby",N,N,"",1,463,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 41","Burnaby",N,N,"",1,463,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 41","Burnaby",N,N,"",1,463,"Shein","","Kelsey","Conservative","Conservateur",N,N,48
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 42","Burnaby",N,N,"",0,509,"Beech","","Terry","Liberal","Libéral",Y,Y,69
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 42","Burnaby",N,N,"",0,509,"Dolling","","Peter","Green Party","Parti Vert",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 42","Burnaby",N,N,"",0,509,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 42","Burnaby",N,N,"",0,509,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 42","Burnaby",N,N,"",0,509,"Shein","","Kelsey","Conservative","Conservateur",N,N,45
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 43","North Vancouver",N,N,"",0,418,"Beech","","Terry","Liberal","Libéral",Y,Y,53
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 43","North Vancouver",N,N,"",0,418,"Dolling","","Peter","Green Party","Parti Vert",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 43","North Vancouver",N,N,"",0,418,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 43","North Vancouver",N,N,"",0,418,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 43","North Vancouver",N,N,"",0,418,"Shein","","Kelsey","Conservative","Conservateur",N,N,41
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 44","North Vancouver",N,N,"",0,281,"Beech","","Terry","Liberal","Libéral",Y,Y,57
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 44","North Vancouver",N,N,"",0,281,"Dolling","","Peter","Green Party","Parti Vert",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 44","North Vancouver",N,N,"",0,281,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 44","North Vancouver",N,N,"",0,281,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 44","North Vancouver",N,N,"",0,281,"Shein","","Kelsey","Conservative","Conservateur",N,N,27
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 45","North Vancouver",N,N,"",1,430,"Beech","","Terry","Liberal","Libéral",Y,Y,66
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 45","North Vancouver",N,N,"",1,430,"Dolling","","Peter","Green Party","Parti Vert",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 45","North Vancouver",N,N,"",1,430,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 45","North Vancouver",N,N,"",1,430,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 45","North Vancouver",N,N,"",1,430,"Shein","","Kelsey","Conservative","Conservateur",N,N,50
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 46","North Vancouver",N,N,"",0,452,"Beech","","Terry","Liberal","Libéral",Y,Y,73
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 46","North Vancouver",N,N,"",0,452,"Dolling","","Peter","Green Party","Parti Vert",N,N,17
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 46","North Vancouver",N,N,"",0,452,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 46","North Vancouver",N,N,"",0,452,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 46","North Vancouver",N,N,"",0,452,"Shein","","Kelsey","Conservative","Conservateur",N,N,48
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 47","North Vancouver",N,N,"",0,513,"Beech","","Terry","Liberal","Libéral",Y,Y,74
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 47","North Vancouver",N,N,"",0,513,"Dolling","","Peter","Green Party","Parti Vert",N,N,14
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 47","North Vancouver",N,N,"",0,513,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 47","North Vancouver",N,N,"",0,513,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 47","North Vancouver",N,N,"",0,513,"Shein","","Kelsey","Conservative","Conservateur",N,N,57
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 48","North Vancouver",N,N,"",0,449,"Beech","","Terry","Liberal","Libéral",Y,Y,49
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 48","North Vancouver",N,N,"",0,449,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 48","North Vancouver",N,N,"",0,449,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 48","North Vancouver",N,N,"",0,449,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 48","North Vancouver",N,N,"",0,449,"Shein","","Kelsey","Conservative","Conservateur",N,N,40
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 49","Burnaby",N,N,"",2,423,"Beech","","Terry","Liberal","Libéral",Y,Y,65
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 49","Burnaby",N,N,"",2,423,"Dolling","","Peter","Green Party","Parti Vert",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 49","Burnaby",N,N,"",2,423,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 49","Burnaby",N,N,"",2,423,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 49","Burnaby",N,N,"",2,423,"Shein","","Kelsey","Conservative","Conservateur",N,N,50
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 50","Burnaby",N,N,"",1,488,"Beech","","Terry","Liberal","Libéral",Y,Y,82
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 50","Burnaby",N,N,"",1,488,"Dolling","","Peter","Green Party","Parti Vert",N,N,8
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 50","Burnaby",N,N,"",1,488,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 50","Burnaby",N,N,"",1,488,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 50","Burnaby",N,N,"",1,488,"Shein","","Kelsey","Conservative","Conservateur",N,N,36
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 51","Burnaby",N,N,"",1,482,"Beech","","Terry","Liberal","Libéral",Y,Y,63
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 51","Burnaby",N,N,"",1,482,"Dolling","","Peter","Green Party","Parti Vert",N,N,10
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 51","Burnaby",N,N,"",1,482,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 51","Burnaby",N,N,"",1,482,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 51","Burnaby",N,N,"",1,482,"Shein","","Kelsey","Conservative","Conservateur",N,N,33
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 52","Burnaby",N,N,"",0,451,"Beech","","Terry","Liberal","Libéral",Y,Y,85
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 52","Burnaby",N,N,"",0,451,"Dolling","","Peter","Green Party","Parti Vert",N,N,11
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 52","Burnaby",N,N,"",0,451,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 52","Burnaby",N,N,"",0,451,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 52","Burnaby",N,N,"",0,451,"Shein","","Kelsey","Conservative","Conservateur",N,N,50
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 53","Burnaby",N,N,"",1,409,"Beech","","Terry","Liberal","Libéral",Y,Y,64
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 53","Burnaby",N,N,"",1,409,"Dolling","","Peter","Green Party","Parti Vert",N,N,7
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 53","Burnaby",N,N,"",1,409,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 53","Burnaby",N,N,"",1,409,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 53","Burnaby",N,N,"",1,409,"Shein","","Kelsey","Conservative","Conservateur",N,N,33
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 54","Burnaby",N,N,"",2,456,"Beech","","Terry","Liberal","Libéral",Y,Y,59
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 54","Burnaby",N,N,"",2,456,"Dolling","","Peter","Green Party","Parti Vert",N,N,13
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 54","Burnaby",N,N,"",2,456,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 54","Burnaby",N,N,"",2,456,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 54","Burnaby",N,N,"",2,456,"Shein","","Kelsey","Conservative","Conservateur",N,N,32
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 55","Burnaby",N,N,"",0,438,"Beech","","Terry","Liberal","Libéral",Y,Y,72
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 55","Burnaby",N,N,"",0,438,"Dolling","","Peter","Green Party","Parti Vert",N,N,1
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 55","Burnaby",N,N,"",0,438,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 55","Burnaby",N,N,"",0,438,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 55","Burnaby",N,N,"",0,438,"Shein","","Kelsey","Conservative","Conservateur",N,N,35
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 56","Burnaby",N,N,"",1,429,"Beech","","Terry","Liberal","Libéral",Y,Y,70
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 56","Burnaby",N,N,"",1,429,"Dolling","","Peter","Green Party","Parti Vert",N,N,7
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 56","Burnaby",N,N,"",1,429,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 56","Burnaby",N,N,"",1,429,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 56","Burnaby",N,N,"",1,429,"Shein","","Kelsey","Conservative","Conservateur",N,N,37
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 57","Burnaby",N,N,"",0,662,"Beech","","Terry","Liberal","Libéral",Y,Y,93
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 57","Burnaby",N,N,"",0,662,"Dolling","","Peter","Green Party","Parti Vert",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 57","Burnaby",N,N,"",0,662,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,90
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 57","Burnaby",N,N,"",0,662,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 57","Burnaby",N,N,"",0,662,"Shein","","Kelsey","Conservative","Conservateur",N,N,53
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 58","Burnaby",N,N,"",0,432,"Beech","","Terry","Liberal","Libéral",Y,Y,59
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 58","Burnaby",N,N,"",0,432,"Dolling","","Peter","Green Party","Parti Vert",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 58","Burnaby",N,N,"",0,432,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 58","Burnaby",N,N,"",0,432,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 58","Burnaby",N,N,"",0,432,"Shein","","Kelsey","Conservative","Conservateur",N,N,57
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 59","Burnaby",N,N,"",2,424,"Beech","","Terry","Liberal","Libéral",Y,Y,62
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 59","Burnaby",N,N,"",2,424,"Dolling","","Peter","Green Party","Parti Vert",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 59","Burnaby",N,N,"",2,424,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 59","Burnaby",N,N,"",2,424,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 59","Burnaby",N,N,"",2,424,"Shein","","Kelsey","Conservative","Conservateur",N,N,45
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 60","Burnaby",N,N,"",1,495,"Beech","","Terry","Liberal","Libéral",Y,Y,73
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 60","Burnaby",N,N,"",1,495,"Dolling","","Peter","Green Party","Parti Vert",N,N,7
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 60","Burnaby",N,N,"",1,495,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 60","Burnaby",N,N,"",1,495,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 60","Burnaby",N,N,"",1,495,"Shein","","Kelsey","Conservative","Conservateur",N,N,39
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 61","Burnaby",N,N,"",0,433,"Beech","","Terry","Liberal","Libéral",Y,Y,66
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 61","Burnaby",N,N,"",0,433,"Dolling","","Peter","Green Party","Parti Vert",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 61","Burnaby",N,N,"",0,433,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 61","Burnaby",N,N,"",0,433,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,1
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 61","Burnaby",N,N,"",0,433,"Shein","","Kelsey","Conservative","Conservateur",N,N,43
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 62","Burnaby",N,N,"",0,435,"Beech","","Terry","Liberal","Libéral",Y,Y,68
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 62","Burnaby",N,N,"",0,435,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 62","Burnaby",N,N,"",0,435,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 62","Burnaby",N,N,"",0,435,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 62","Burnaby",N,N,"",0,435,"Shein","","Kelsey","Conservative","Conservateur",N,N,58
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 63","Burnaby",N,N,"",1,511,"Beech","","Terry","Liberal","Libéral",Y,Y,68
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 63","Burnaby",N,N,"",1,511,"Dolling","","Peter","Green Party","Parti Vert",N,N,7
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 63","Burnaby",N,N,"",1,511,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 63","Burnaby",N,N,"",1,511,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 63","Burnaby",N,N,"",1,511,"Shein","","Kelsey","Conservative","Conservateur",N,N,28
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 64","Burnaby",N,N,"",3,425,"Beech","","Terry","Liberal","Libéral",Y,Y,81
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 64","Burnaby",N,N,"",3,425,"Dolling","","Peter","Green Party","Parti Vert",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 64","Burnaby",N,N,"",3,425,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 64","Burnaby",N,N,"",3,425,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 64","Burnaby",N,N,"",3,425,"Shein","","Kelsey","Conservative","Conservateur",N,N,30
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 65","Burnaby",N,N,"",0,407,"Beech","","Terry","Liberal","Libéral",Y,Y,57
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 65","Burnaby",N,N,"",0,407,"Dolling","","Peter","Green Party","Parti Vert",N,N,8
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 65","Burnaby",N,N,"",0,407,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 65","Burnaby",N,N,"",0,407,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 65","Burnaby",N,N,"",0,407,"Shein","","Kelsey","Conservative","Conservateur",N,N,22
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 66","Burnaby",N,N,"",0,379,"Beech","","Terry","Liberal","Libéral",Y,Y,65
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 66","Burnaby",N,N,"",0,379,"Dolling","","Peter","Green Party","Parti Vert",N,N,8
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 66","Burnaby",N,N,"",0,379,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 66","Burnaby",N,N,"",0,379,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 66","Burnaby",N,N,"",0,379,"Shein","","Kelsey","Conservative","Conservateur",N,N,26
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 67","Burnaby",N,N,"",0,371,"Beech","","Terry","Liberal","Libéral",Y,Y,45
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 67","Burnaby",N,N,"",0,371,"Dolling","","Peter","Green Party","Parti Vert",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 67","Burnaby",N,N,"",0,371,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 67","Burnaby",N,N,"",0,371,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 67","Burnaby",N,N,"",0,371,"Shein","","Kelsey","Conservative","Conservateur",N,N,29
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 68","Burnaby",N,N,"",1,375,"Beech","","Terry","Liberal","Libéral",Y,Y,50
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 68","Burnaby",N,N,"",1,375,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 68","Burnaby",N,N,"",1,375,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 68","Burnaby",N,N,"",1,375,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 68","Burnaby",N,N,"",1,375,"Shein","","Kelsey","Conservative","Conservateur",N,N,53
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 69","Burnaby",N,N,"",1,423,"Beech","","Terry","Liberal","Libéral",Y,Y,59
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 69","Burnaby",N,N,"",1,423,"Dolling","","Peter","Green Party","Parti Vert",N,N,1
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 69","Burnaby",N,N,"",1,423,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 69","Burnaby",N,N,"",1,423,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,9
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 69","Burnaby",N,N,"",1,423,"Shein","","Kelsey","Conservative","Conservateur",N,N,64
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 70","Burnaby",N,N,"",4,412,"Beech","","Terry","Liberal","Libéral",Y,Y,51
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 70","Burnaby",N,N,"",4,412,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 70","Burnaby",N,N,"",4,412,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 70","Burnaby",N,N,"",4,412,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,12
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 70","Burnaby",N,N,"",4,412,"Shein","","Kelsey","Conservative","Conservateur",N,N,39
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 71","Burnaby",N,N,"",0,410,"Beech","","Terry","Liberal","Libéral",Y,Y,61
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 71","Burnaby",N,N,"",0,410,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 71","Burnaby",N,N,"",0,410,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 71","Burnaby",N,N,"",0,410,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 71","Burnaby",N,N,"",0,410,"Shein","","Kelsey","Conservative","Conservateur",N,N,40
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 72","Burnaby",N,N,"",2,422,"Beech","","Terry","Liberal","Libéral",Y,Y,70
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 72","Burnaby",N,N,"",2,422,"Dolling","","Peter","Green Party","Parti Vert",N,N,10
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 72","Burnaby",N,N,"",2,422,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 72","Burnaby",N,N,"",2,422,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 72","Burnaby",N,N,"",2,422,"Shein","","Kelsey","Conservative","Conservateur",N,N,30
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 73","Burnaby",N,N,"",0,393,"Beech","","Terry","Liberal","Libéral",Y,Y,69
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 73","Burnaby",N,N,"",0,393,"Dolling","","Peter","Green Party","Parti Vert",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 73","Burnaby",N,N,"",0,393,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 73","Burnaby",N,N,"",0,393,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 73","Burnaby",N,N,"",0,393,"Shein","","Kelsey","Conservative","Conservateur",N,N,31
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 74","Burnaby",N,N,"",0,447,"Beech","","Terry","Liberal","Libéral",Y,Y,61
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 74","Burnaby",N,N,"",0,447,"Dolling","","Peter","Green Party","Parti Vert",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 74","Burnaby",N,N,"",0,447,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 74","Burnaby",N,N,"",0,447,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 74","Burnaby",N,N,"",0,447,"Shein","","Kelsey","Conservative","Conservateur",N,N,18
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 75","Burnaby",N,N,"",0,454,"Beech","","Terry","Liberal","Libéral",Y,Y,63
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 75","Burnaby",N,N,"",0,454,"Dolling","","Peter","Green Party","Parti Vert",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 75","Burnaby",N,N,"",0,454,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 75","Burnaby",N,N,"",0,454,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 75","Burnaby",N,N,"",0,454,"Shein","","Kelsey","Conservative","Conservateur",N,N,42
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 76","Burnaby",N,N,"",0,452,"Beech","","Terry","Liberal","Libéral",Y,Y,68
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 76","Burnaby",N,N,"",0,452,"Dolling","","Peter","Green Party","Parti Vert",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 76","Burnaby",N,N,"",0,452,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 76","Burnaby",N,N,"",0,452,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 76","Burnaby",N,N,"",0,452,"Shein","","Kelsey","Conservative","Conservateur",N,N,38
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 77","Burnaby",N,N,"",0,462,"Beech","","Terry","Liberal","Libéral",Y,Y,64
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 77","Burnaby",N,N,"",0,462,"Dolling","","Peter","Green Party","Parti Vert",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 77","Burnaby",N,N,"",0,462,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 77","Burnaby",N,N,"",0,462,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 77","Burnaby",N,N,"",0,462,"Shein","","Kelsey","Conservative","Conservateur",N,N,36
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 78","Burnaby",N,N,"",3,436,"Beech","","Terry","Liberal","Libéral",Y,Y,75
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 78","Burnaby",N,N,"",3,436,"Dolling","","Peter","Green Party","Parti Vert",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 78","Burnaby",N,N,"",3,436,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 78","Burnaby",N,N,"",3,436,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 78","Burnaby",N,N,"",3,436,"Shein","","Kelsey","Conservative","Conservateur",N,N,43
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 79","Burnaby",N,N,"",0,466,"Beech","","Terry","Liberal","Libéral",Y,Y,57
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 79","Burnaby",N,N,"",0,466,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 79","Burnaby",N,N,"",0,466,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 79","Burnaby",N,N,"",0,466,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 79","Burnaby",N,N,"",0,466,"Shein","","Kelsey","Conservative","Conservateur",N,N,52
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 80","Burnaby",N,N,"",1,464,"Beech","","Terry","Liberal","Libéral",Y,Y,47
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 80","Burnaby",N,N,"",1,464,"Dolling","","Peter","Green Party","Parti Vert",N,N,1
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 80","Burnaby",N,N,"",1,464,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 80","Burnaby",N,N,"",1,464,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,1
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 80","Burnaby",N,N,"",1,464,"Shein","","Kelsey","Conservative","Conservateur",N,N,29
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 81","Burnaby",N,N,"",1,435,"Beech","","Terry","Liberal","Libéral",Y,Y,45
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 81","Burnaby",N,N,"",1,435,"Dolling","","Peter","Green Party","Parti Vert",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 81","Burnaby",N,N,"",1,435,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 81","Burnaby",N,N,"",1,435,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 81","Burnaby",N,N,"",1,435,"Shein","","Kelsey","Conservative","Conservateur",N,N,25
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 82","Burnaby",N,N,"",1,471,"Beech","","Terry","Liberal","Libéral",Y,Y,55
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 82","Burnaby",N,N,"",1,471,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 82","Burnaby",N,N,"",1,471,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 82","Burnaby",N,N,"",1,471,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 82","Burnaby",N,N,"",1,471,"Shein","","Kelsey","Conservative","Conservateur",N,N,40
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 83","Burnaby",N,N,"",1,389,"Beech","","Terry","Liberal","Libéral",Y,Y,52
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 83","Burnaby",N,N,"",1,389,"Dolling","","Peter","Green Party","Parti Vert",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 83","Burnaby",N,N,"",1,389,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 83","Burnaby",N,N,"",1,389,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 83","Burnaby",N,N,"",1,389,"Shein","","Kelsey","Conservative","Conservateur",N,N,31
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 84","Burnaby",N,N,"",2,467,"Beech","","Terry","Liberal","Libéral",Y,Y,77
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 84","Burnaby",N,N,"",2,467,"Dolling","","Peter","Green Party","Parti Vert",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 84","Burnaby",N,N,"",2,467,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 84","Burnaby",N,N,"",2,467,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 84","Burnaby",N,N,"",2,467,"Shein","","Kelsey","Conservative","Conservateur",N,N,38
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 85","Burnaby",N,N,"",0,432,"Beech","","Terry","Liberal","Libéral",Y,Y,72
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 85","Burnaby",N,N,"",0,432,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 85","Burnaby",N,N,"",0,432,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 85","Burnaby",N,N,"",0,432,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,1
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 85","Burnaby",N,N,"",0,432,"Shein","","Kelsey","Conservative","Conservateur",N,N,27
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 86","Burnaby",N,N,"",3,473,"Beech","","Terry","Liberal","Libéral",Y,Y,55
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 86","Burnaby",N,N,"",3,473,"Dolling","","Peter","Green Party","Parti Vert",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 86","Burnaby",N,N,"",3,473,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 86","Burnaby",N,N,"",3,473,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 86","Burnaby",N,N,"",3,473,"Shein","","Kelsey","Conservative","Conservateur",N,N,27
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 87","Burnaby",N,N,"",0,459,"Beech","","Terry","Liberal","Libéral",Y,Y,64
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 87","Burnaby",N,N,"",0,459,"Dolling","","Peter","Green Party","Parti Vert",N,N,10
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 87","Burnaby",N,N,"",0,459,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 87","Burnaby",N,N,"",0,459,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,1
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 87","Burnaby",N,N,"",0,459,"Shein","","Kelsey","Conservative","Conservateur",N,N,21
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 88","Burnaby",N,N,"",2,468,"Beech","","Terry","Liberal","Libéral",Y,Y,39
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 88","Burnaby",N,N,"",2,468,"Dolling","","Peter","Green Party","Parti Vert",N,N,1
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 88","Burnaby",N,N,"",2,468,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 88","Burnaby",N,N,"",2,468,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 88","Burnaby",N,N,"",2,468,"Shein","","Kelsey","Conservative","Conservateur",N,N,24
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 89","Burnaby",N,N,"",0,473,"Beech","","Terry","Liberal","Libéral",Y,Y,76
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 89","Burnaby",N,N,"",0,473,"Dolling","","Peter","Green Party","Parti Vert",N,N,8
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 89","Burnaby",N,N,"",0,473,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 89","Burnaby",N,N,"",0,473,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 89","Burnaby",N,N,"",0,473,"Shein","","Kelsey","Conservative","Conservateur",N,N,53
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 90","Burnaby",N,N,"",1,432,"Beech","","Terry","Liberal","Libéral",Y,Y,46
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 90","Burnaby",N,N,"",1,432,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 90","Burnaby",N,N,"",1,432,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 90","Burnaby",N,N,"",1,432,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 90","Burnaby",N,N,"",1,432,"Shein","","Kelsey","Conservative","Conservateur",N,N,46
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 91","Burnaby",N,N,"",1,461,"Beech","","Terry","Liberal","Libéral",Y,Y,63
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 91","Burnaby",N,N,"",1,461,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 91","Burnaby",N,N,"",1,461,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 91","Burnaby",N,N,"",1,461,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,1
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 91","Burnaby",N,N,"",1,461,"Shein","","Kelsey","Conservative","Conservateur",N,N,54
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 92","Burnaby",N,N,"",1,855,"Beech","","Terry","Liberal","Libéral",Y,Y,137
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 92","Burnaby",N,N,"",1,855,"Dolling","","Peter","Green Party","Parti Vert",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 92","Burnaby",N,N,"",1,855,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,81
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 92","Burnaby",N,N,"",1,855,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,10
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 92","Burnaby",N,N,"",1,855,"Shein","","Kelsey","Conservative","Conservateur",N,N,99
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 93","Burnaby",N,N,"",2,444,"Beech","","Terry","Liberal","Libéral",Y,Y,42
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 93","Burnaby",N,N,"",2,444,"Dolling","","Peter","Green Party","Parti Vert",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 93","Burnaby",N,N,"",2,444,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 93","Burnaby",N,N,"",2,444,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,10
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 93","Burnaby",N,N,"",2,444,"Shein","","Kelsey","Conservative","Conservateur",N,N,30
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 94","Burnaby",N,N,"",3,786,"Beech","","Terry","Liberal","Libéral",Y,Y,115
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 94","Burnaby",N,N,"",3,786,"Dolling","","Peter","Green Party","Parti Vert",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 94","Burnaby",N,N,"",3,786,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 94","Burnaby",N,N,"",3,786,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 94","Burnaby",N,N,"",3,786,"Shein","","Kelsey","Conservative","Conservateur",N,N,68
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 95","Burnaby",N,N,"",3,473,"Beech","","Terry","Liberal","Libéral",Y,Y,80
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 95","Burnaby",N,N,"",3,473,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 95","Burnaby",N,N,"",3,473,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 95","Burnaby",N,N,"",3,473,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 95","Burnaby",N,N,"",3,473,"Shein","","Kelsey","Conservative","Conservateur",N,N,32
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 96","Burnaby",N,N,"",0,461,"Beech","","Terry","Liberal","Libéral",Y,Y,46
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 96","Burnaby",N,N,"",0,461,"Dolling","","Peter","Green Party","Parti Vert",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 96","Burnaby",N,N,"",0,461,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 96","Burnaby",N,N,"",0,461,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,1
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 96","Burnaby",N,N,"",0,461,"Shein","","Kelsey","Conservative","Conservateur",N,N,29
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 97","Burnaby",N,N,"",0,463,"Beech","","Terry","Liberal","Libéral",Y,Y,56
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 97","Burnaby",N,N,"",0,463,"Dolling","","Peter","Green Party","Parti Vert",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 97","Burnaby",N,N,"",0,463,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 97","Burnaby",N,N,"",0,463,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 97","Burnaby",N,N,"",0,463,"Shein","","Kelsey","Conservative","Conservateur",N,N,43
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 98","Burnaby",N,N,"",0,472,"Beech","","Terry","Liberal","Libéral",Y,Y,58
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 98","Burnaby",N,N,"",0,472,"Dolling","","Peter","Green Party","Parti Vert",N,N,8
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 98","Burnaby",N,N,"",0,472,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 98","Burnaby",N,N,"",0,472,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 98","Burnaby",N,N,"",0,472,"Shein","","Kelsey","Conservative","Conservateur",N,N,41
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 99","Burnaby",N,N,"",0,465,"Beech","","Terry","Liberal","Libéral",Y,Y,54
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 99","Burnaby",N,N,"",0,465,"Dolling","","Peter","Green Party","Parti Vert",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 99","Burnaby",N,N,"",0,465,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 99","Burnaby",N,N,"",0,465,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 99","Burnaby",N,N,"",0,465,"Shein","","Kelsey","Conservative","Conservateur",N,N,35
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 100","Burnaby",N,N,"",1,401,"Beech","","Terry","Liberal","Libéral",Y,Y,49
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 100","Burnaby",N,N,"",1,401,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 100","Burnaby",N,N,"",1,401,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 100","Burnaby",N,N,"",1,401,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 100","Burnaby",N,N,"",1,401,"Shein","","Kelsey","Conservative","Conservateur",N,N,32
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 101","Burnaby",N,N,"",1,472,"Beech","","Terry","Liberal","Libéral",Y,Y,56
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 101","Burnaby",N,N,"",1,472,"Dolling","","Peter","Green Party","Parti Vert",N,N,8
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 101","Burnaby",N,N,"",1,472,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 101","Burnaby",N,N,"",1,472,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 101","Burnaby",N,N,"",1,472,"Shein","","Kelsey","Conservative","Conservateur",N,N,42
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 102","Burnaby",N,N,"",1,480,"Beech","","Terry","Liberal","Libéral",Y,Y,55
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 102","Burnaby",N,N,"",1,480,"Dolling","","Peter","Green Party","Parti Vert",N,N,9
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 102","Burnaby",N,N,"",1,480,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 102","Burnaby",N,N,"",1,480,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 102","Burnaby",N,N,"",1,480,"Shein","","Kelsey","Conservative","Conservateur",N,N,29
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 103A","Burnaby",N,N,"",0,838,"Beech","","Terry","Liberal","Libéral",Y,Y,127
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 103A","Burnaby",N,N,"",0,838,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 103A","Burnaby",N,N,"",0,838,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,91
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 103A","Burnaby",N,N,"",0,838,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,15
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 103A","Burnaby",N,N,"",0,838,"Shein","","Kelsey","Conservative","Conservateur",N,N,69
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 103B","Burnaby",N,N,"",1,646,"Beech","","Terry","Liberal","Libéral",Y,Y,95
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 103B","Burnaby",N,N,"",1,646,"Dolling","","Peter","Green Party","Parti Vert",N,N,13
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 103B","Burnaby",N,N,"",1,646,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 103B","Burnaby",N,N,"",1,646,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 103B","Burnaby",N,N,"",1,646,"Shein","","Kelsey","Conservative","Conservateur",N,N,72
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 104","Burnaby",N,N,"",1,557,"Beech","","Terry","Liberal","Libéral",Y,Y,67
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 104","Burnaby",N,N,"",1,557,"Dolling","","Peter","Green Party","Parti Vert",N,N,9
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 104","Burnaby",N,N,"",1,557,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 104","Burnaby",N,N,"",1,557,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 104","Burnaby",N,N,"",1,557,"Shein","","Kelsey","Conservative","Conservateur",N,N,50
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 105","Burnaby",N,N,"",0,312,"Beech","","Terry","Liberal","Libéral",Y,Y,38
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 105","Burnaby",N,N,"",0,312,"Dolling","","Peter","Green Party","Parti Vert",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 105","Burnaby",N,N,"",0,312,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 105","Burnaby",N,N,"",0,312,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 105","Burnaby",N,N,"",0,312,"Shein","","Kelsey","Conservative","Conservateur",N,N,17
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 106","Burnaby",N,N,"",0,446,"Beech","","Terry","Liberal","Libéral",Y,Y,58
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 106","Burnaby",N,N,"",0,446,"Dolling","","Peter","Green Party","Parti Vert",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 106","Burnaby",N,N,"",0,446,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 106","Burnaby",N,N,"",0,446,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 106","Burnaby",N,N,"",0,446,"Shein","","Kelsey","Conservative","Conservateur",N,N,26
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 107","Burnaby",N,N,"",0,404,"Beech","","Terry","Liberal","Libéral",Y,Y,41
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 107","Burnaby",N,N,"",0,404,"Dolling","","Peter","Green Party","Parti Vert",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 107","Burnaby",N,N,"",0,404,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 107","Burnaby",N,N,"",0,404,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 107","Burnaby",N,N,"",0,404,"Shein","","Kelsey","Conservative","Conservateur",N,N,41
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 108","Burnaby",N,N,"",0,454,"Beech","","Terry","Liberal","Libéral",Y,Y,64
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 108","Burnaby",N,N,"",0,454,"Dolling","","Peter","Green Party","Parti Vert",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 108","Burnaby",N,N,"",0,454,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 108","Burnaby",N,N,"",0,454,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,10
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 108","Burnaby",N,N,"",0,454,"Shein","","Kelsey","Conservative","Conservateur",N,N,47
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 109","Burnaby",N,N,"",0,466,"Beech","","Terry","Liberal","Libéral",Y,Y,78
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 109","Burnaby",N,N,"",0,466,"Dolling","","Peter","Green Party","Parti Vert",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 109","Burnaby",N,N,"",0,466,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 109","Burnaby",N,N,"",0,466,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 109","Burnaby",N,N,"",0,466,"Shein","","Kelsey","Conservative","Conservateur",N,N,49
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 110","Burnaby",N,N,"",0,549,"Beech","","Terry","Liberal","Libéral",Y,Y,84
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 110","Burnaby",N,N,"",0,549,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 110","Burnaby",N,N,"",0,549,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 110","Burnaby",N,N,"",0,549,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 110","Burnaby",N,N,"",0,549,"Shein","","Kelsey","Conservative","Conservateur",N,N,61
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 111","Burnaby",N,N,"",0,485,"Beech","","Terry","Liberal","Libéral",Y,Y,60
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 111","Burnaby",N,N,"",0,485,"Dolling","","Peter","Green Party","Parti Vert",N,N,8
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 111","Burnaby",N,N,"",0,485,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 111","Burnaby",N,N,"",0,485,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 111","Burnaby",N,N,"",0,485,"Shein","","Kelsey","Conservative","Conservateur",N,N,28
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 112","Burnaby",N,N,"",0,458,"Beech","","Terry","Liberal","Libéral",Y,Y,59
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 112","Burnaby",N,N,"",0,458,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 112","Burnaby",N,N,"",0,458,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 112","Burnaby",N,N,"",0,458,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 112","Burnaby",N,N,"",0,458,"Shein","","Kelsey","Conservative","Conservateur",N,N,38
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 113","Burnaby",N,N,"",1,403,"Beech","","Terry","Liberal","Libéral",Y,Y,48
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 113","Burnaby",N,N,"",1,403,"Dolling","","Peter","Green Party","Parti Vert",N,N,9
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 113","Burnaby",N,N,"",1,403,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 113","Burnaby",N,N,"",1,403,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,9
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 113","Burnaby",N,N,"",1,403,"Shein","","Kelsey","Conservative","Conservateur",N,N,46
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 114","Burnaby",N,N,"",0,433,"Beech","","Terry","Liberal","Libéral",Y,Y,40
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 114","Burnaby",N,N,"",0,433,"Dolling","","Peter","Green Party","Parti Vert",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 114","Burnaby",N,N,"",0,433,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 114","Burnaby",N,N,"",0,433,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 114","Burnaby",N,N,"",0,433,"Shein","","Kelsey","Conservative","Conservateur",N,N,50
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 115","Burnaby",N,N,"",0,431,"Beech","","Terry","Liberal","Libéral",Y,Y,45
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 115","Burnaby",N,N,"",0,431,"Dolling","","Peter","Green Party","Parti Vert",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 115","Burnaby",N,N,"",0,431,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 115","Burnaby",N,N,"",0,431,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 115","Burnaby",N,N,"",0,431,"Shein","","Kelsey","Conservative","Conservateur",N,N,42
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 116","Burnaby",N,N,"",0,418,"Beech","","Terry","Liberal","Libéral",Y,Y,44
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 116","Burnaby",N,N,"",0,418,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 116","Burnaby",N,N,"",0,418,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 116","Burnaby",N,N,"",0,418,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 116","Burnaby",N,N,"",0,418,"Shein","","Kelsey","Conservative","Conservateur",N,N,27
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 117","Burnaby",N,N,"",2,380,"Beech","","Terry","Liberal","Libéral",Y,Y,54
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 117","Burnaby",N,N,"",2,380,"Dolling","","Peter","Green Party","Parti Vert",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 117","Burnaby",N,N,"",2,380,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 117","Burnaby",N,N,"",2,380,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,13
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 117","Burnaby",N,N,"",2,380,"Shein","","Kelsey","Conservative","Conservateur",N,N,47
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 118","Burnaby",N,N,"",0,452,"Beech","","Terry","Liberal","Libéral",Y,Y,43
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 118","Burnaby",N,N,"",0,452,"Dolling","","Peter","Green Party","Parti Vert",N,N,8
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 118","Burnaby",N,N,"",0,452,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 118","Burnaby",N,N,"",0,452,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 118","Burnaby",N,N,"",0,452,"Shein","","Kelsey","Conservative","Conservateur",N,N,38
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 119","Burnaby",N,N,"",0,411,"Beech","","Terry","Liberal","Libéral",Y,Y,43
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 119","Burnaby",N,N,"",0,411,"Dolling","","Peter","Green Party","Parti Vert",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 119","Burnaby",N,N,"",0,411,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 119","Burnaby",N,N,"",0,411,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 119","Burnaby",N,N,"",0,411,"Shein","","Kelsey","Conservative","Conservateur",N,N,55
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 120","Burnaby",N,N,"",1,425,"Beech","","Terry","Liberal","Libéral",Y,Y,47
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 120","Burnaby",N,N,"",1,425,"Dolling","","Peter","Green Party","Parti Vert",N,N,7
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 120","Burnaby",N,N,"",1,425,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 120","Burnaby",N,N,"",1,425,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 120","Burnaby",N,N,"",1,425,"Shein","","Kelsey","Conservative","Conservateur",N,N,39
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 121","Burnaby",N,N,"",1,409,"Beech","","Terry","Liberal","Libéral",Y,Y,63
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 121","Burnaby",N,N,"",1,409,"Dolling","","Peter","Green Party","Parti Vert",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 121","Burnaby",N,N,"",1,409,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 121","Burnaby",N,N,"",1,409,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 121","Burnaby",N,N,"",1,409,"Shein","","Kelsey","Conservative","Conservateur",N,N,44
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 122","Burnaby",N,N,"",1,425,"Beech","","Terry","Liberal","Libéral",Y,Y,58
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 122","Burnaby",N,N,"",1,425,"Dolling","","Peter","Green Party","Parti Vert",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 122","Burnaby",N,N,"",1,425,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 122","Burnaby",N,N,"",1,425,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 122","Burnaby",N,N,"",1,425,"Shein","","Kelsey","Conservative","Conservateur",N,N,22
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 123","Burnaby",N,N,"",0,513,"Beech","","Terry","Liberal","Libéral",Y,Y,60
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 123","Burnaby",N,N,"",0,513,"Dolling","","Peter","Green Party","Parti Vert",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 123","Burnaby",N,N,"",0,513,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 123","Burnaby",N,N,"",0,513,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,14
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 123","Burnaby",N,N,"",0,513,"Shein","","Kelsey","Conservative","Conservateur",N,N,39
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 124","Burnaby",N,N,"",1,582,"Beech","","Terry","Liberal","Libéral",Y,Y,67
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 124","Burnaby",N,N,"",1,582,"Dolling","","Peter","Green Party","Parti Vert",N,N,9
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 124","Burnaby",N,N,"",1,582,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 124","Burnaby",N,N,"",1,582,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 124","Burnaby",N,N,"",1,582,"Shein","","Kelsey","Conservative","Conservateur",N,N,31
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 125","Burnaby",N,N,"",0,485,"Beech","","Terry","Liberal","Libéral",Y,Y,52
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 125","Burnaby",N,N,"",0,485,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 125","Burnaby",N,N,"",0,485,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 125","Burnaby",N,N,"",0,485,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 125","Burnaby",N,N,"",0,485,"Shein","","Kelsey","Conservative","Conservateur",N,N,54
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 126","Burnaby",N,N,"",0,435,"Beech","","Terry","Liberal","Libéral",Y,Y,59
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 126","Burnaby",N,N,"",0,435,"Dolling","","Peter","Green Party","Parti Vert",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 126","Burnaby",N,N,"",0,435,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 126","Burnaby",N,N,"",0,435,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,10
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 126","Burnaby",N,N,"",0,435,"Shein","","Kelsey","Conservative","Conservateur",N,N,24
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 127","Burnaby",N,N,"",0,456,"Beech","","Terry","Liberal","Libéral",Y,Y,37
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 127","Burnaby",N,N,"",0,456,"Dolling","","Peter","Green Party","Parti Vert",N,N,1
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 127","Burnaby",N,N,"",0,456,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 127","Burnaby",N,N,"",0,456,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 127","Burnaby",N,N,"",0,456,"Shein","","Kelsey","Conservative","Conservateur",N,N,36
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 128","Burnaby",N,N,"",1,535,"Beech","","Terry","Liberal","Libéral",Y,Y,67
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 128","Burnaby",N,N,"",1,535,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 128","Burnaby",N,N,"",1,535,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 128","Burnaby",N,N,"",1,535,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 128","Burnaby",N,N,"",1,535,"Shein","","Kelsey","Conservative","Conservateur",N,N,35
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 129","Burnaby",N,N,"",1,429,"Beech","","Terry","Liberal","Libéral",Y,Y,63
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 129","Burnaby",N,N,"",1,429,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 129","Burnaby",N,N,"",1,429,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 129","Burnaby",N,N,"",1,429,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 129","Burnaby",N,N,"",1,429,"Shein","","Kelsey","Conservative","Conservateur",N,N,45
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 130","Burnaby",N,N,"",0,436,"Beech","","Terry","Liberal","Libéral",Y,Y,46
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 130","Burnaby",N,N,"",0,436,"Dolling","","Peter","Green Party","Parti Vert",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 130","Burnaby",N,N,"",0,436,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 130","Burnaby",N,N,"",0,436,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 130","Burnaby",N,N,"",0,436,"Shein","","Kelsey","Conservative","Conservateur",N,N,32
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 131","Burnaby",N,N,"",0,433,"Beech","","Terry","Liberal","Libéral",Y,Y,83
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 131","Burnaby",N,N,"",0,433,"Dolling","","Peter","Green Party","Parti Vert",N,N,1
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 131","Burnaby",N,N,"",0,433,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 131","Burnaby",N,N,"",0,433,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,1
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 131","Burnaby",N,N,"",0,433,"Shein","","Kelsey","Conservative","Conservateur",N,N,49
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 132","Burnaby",N,N,"",0,406,"Beech","","Terry","Liberal","Libéral",Y,Y,49
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 132","Burnaby",N,N,"",0,406,"Dolling","","Peter","Green Party","Parti Vert",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 132","Burnaby",N,N,"",0,406,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 132","Burnaby",N,N,"",0,406,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 132","Burnaby",N,N,"",0,406,"Shein","","Kelsey","Conservative","Conservateur",N,N,33
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 133","Burnaby",N,N,"",1,397,"Beech","","Terry","Liberal","Libéral",Y,Y,49
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 133","Burnaby",N,N,"",1,397,"Dolling","","Peter","Green Party","Parti Vert",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 133","Burnaby",N,N,"",1,397,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 133","Burnaby",N,N,"",1,397,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 133","Burnaby",N,N,"",1,397,"Shein","","Kelsey","Conservative","Conservateur",N,N,18
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 134","Burnaby",N,N,"",1,463,"Beech","","Terry","Liberal","Libéral",Y,Y,39
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 134","Burnaby",N,N,"",1,463,"Dolling","","Peter","Green Party","Parti Vert",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 134","Burnaby",N,N,"",1,463,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 134","Burnaby",N,N,"",1,463,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 134","Burnaby",N,N,"",1,463,"Shein","","Kelsey","Conservative","Conservateur",N,N,54
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 135","Burnaby",N,N,"",1,445,"Beech","","Terry","Liberal","Libéral",Y,Y,35
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 135","Burnaby",N,N,"",1,445,"Dolling","","Peter","Green Party","Parti Vert",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 135","Burnaby",N,N,"",1,445,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 135","Burnaby",N,N,"",1,445,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 135","Burnaby",N,N,"",1,445,"Shein","","Kelsey","Conservative","Conservateur",N,N,36
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 136","Burnaby",N,N,"137A",0,12,"Beech","","Terry","Liberal","Libéral",Y,Y,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 136","Burnaby",N,N,"137A",0,12,"Dolling","","Peter","Green Party","Parti Vert",N,N,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 136","Burnaby",N,N,"137A",0,12,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 136","Burnaby",N,N,"137A",0,12,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 136","Burnaby",N,N,"137A",0,12,"Shein","","Kelsey","Conservative","Conservateur",N,N,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 137A","Burnaby",N,N,"",2,301,"Beech","","Terry","Liberal","Libéral",Y,Y,36
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 137A","Burnaby",N,N,"",2,301,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 137A","Burnaby",N,N,"",2,301,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 137A","Burnaby",N,N,"",2,301,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 137A","Burnaby",N,N,"",2,301,"Shein","","Kelsey","Conservative","Conservateur",N,N,27
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 137B","Burnaby",N,N,"",1,357,"Beech","","Terry","Liberal","Libéral",Y,Y,62
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 137B","Burnaby",N,N,"",1,357,"Dolling","","Peter","Green Party","Parti Vert",N,N,9
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 137B","Burnaby",N,N,"",1,357,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 137B","Burnaby",N,N,"",1,357,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 137B","Burnaby",N,N,"",1,357,"Shein","","Kelsey","Conservative","Conservateur",N,N,35
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 137C","Burnaby",N,N,"",0,365,"Beech","","Terry","Liberal","Libéral",Y,Y,57
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 137C","Burnaby",N,N,"",0,365,"Dolling","","Peter","Green Party","Parti Vert",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 137C","Burnaby",N,N,"",0,365,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 137C","Burnaby",N,N,"",0,365,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 137C","Burnaby",N,N,"",0,365,"Shein","","Kelsey","Conservative","Conservateur",N,N,35
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 138A","Burnaby",N,N,"",1,368,"Beech","","Terry","Liberal","Libéral",Y,Y,67
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 138A","Burnaby",N,N,"",1,368,"Dolling","","Peter","Green Party","Parti Vert",N,N,8
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 138A","Burnaby",N,N,"",1,368,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,93
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 138A","Burnaby",N,N,"",1,368,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 138A","Burnaby",N,N,"",1,368,"Shein","","Kelsey","Conservative","Conservateur",N,N,34
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 138B","Burnaby",N,N,"",1,294,"Beech","","Terry","Liberal","Libéral",Y,Y,54
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 138B","Burnaby",N,N,"",1,294,"Dolling","","Peter","Green Party","Parti Vert",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 138B","Burnaby",N,N,"",1,294,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 138B","Burnaby",N,N,"",1,294,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 138B","Burnaby",N,N,"",1,294,"Shein","","Kelsey","Conservative","Conservateur",N,N,25
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 139","Burnaby",N,N,"",1,536,"Beech","","Terry","Liberal","Libéral",Y,Y,104
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 139","Burnaby",N,N,"",1,536,"Dolling","","Peter","Green Party","Parti Vert",N,N,16
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 139","Burnaby",N,N,"",1,536,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,142
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 139","Burnaby",N,N,"",1,536,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 139","Burnaby",N,N,"",1,536,"Shein","","Kelsey","Conservative","Conservateur",N,N,48
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 140","Burnaby",N,N,"",0,470,"Beech","","Terry","Liberal","Libéral",Y,Y,41
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 140","Burnaby",N,N,"",0,470,"Dolling","","Peter","Green Party","Parti Vert",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 140","Burnaby",N,N,"",0,470,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 140","Burnaby",N,N,"",0,470,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 140","Burnaby",N,N,"",0,470,"Shein","","Kelsey","Conservative","Conservateur",N,N,49
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 141","Burnaby",N,N,"",1,573,"Beech","","Terry","Liberal","Libéral",Y,Y,56
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 141","Burnaby",N,N,"",1,573,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 141","Burnaby",N,N,"",1,573,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 141","Burnaby",N,N,"",1,573,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 141","Burnaby",N,N,"",1,573,"Shein","","Kelsey","Conservative","Conservateur",N,N,26
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 142","Burnaby",N,N,"",0,463,"Beech","","Terry","Liberal","Libéral",Y,Y,49
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 142","Burnaby",N,N,"",0,463,"Dolling","","Peter","Green Party","Parti Vert",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 142","Burnaby",N,N,"",0,463,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 142","Burnaby",N,N,"",0,463,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 142","Burnaby",N,N,"",0,463,"Shein","","Kelsey","Conservative","Conservateur",N,N,42
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 143","Burnaby",N,N,"",0,382,"Beech","","Terry","Liberal","Libéral",Y,Y,39
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 143","Burnaby",N,N,"",0,382,"Dolling","","Peter","Green Party","Parti Vert",N,N,1
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 143","Burnaby",N,N,"",0,382,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 143","Burnaby",N,N,"",0,382,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 143","Burnaby",N,N,"",0,382,"Shein","","Kelsey","Conservative","Conservateur",N,N,29
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 144","Burnaby",N,N,"",1,465,"Beech","","Terry","Liberal","Libéral",Y,Y,48
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 144","Burnaby",N,N,"",1,465,"Dolling","","Peter","Green Party","Parti Vert",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 144","Burnaby",N,N,"",1,465,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 144","Burnaby",N,N,"",1,465,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 144","Burnaby",N,N,"",1,465,"Shein","","Kelsey","Conservative","Conservateur",N,N,41
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 145","Burnaby",N,N,"",0,493,"Beech","","Terry","Liberal","Libéral",Y,Y,69
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 145","Burnaby",N,N,"",0,493,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 145","Burnaby",N,N,"",0,493,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 145","Burnaby",N,N,"",0,493,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 145","Burnaby",N,N,"",0,493,"Shein","","Kelsey","Conservative","Conservateur",N,N,47
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 146","Burnaby",N,N,"",1,411,"Beech","","Terry","Liberal","Libéral",Y,Y,67
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 146","Burnaby",N,N,"",1,411,"Dolling","","Peter","Green Party","Parti Vert",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 146","Burnaby",N,N,"",1,411,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 146","Burnaby",N,N,"",1,411,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,1
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 146","Burnaby",N,N,"",1,411,"Shein","","Kelsey","Conservative","Conservateur",N,N,30
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 147","Burnaby",N,N,"",1,470,"Beech","","Terry","Liberal","Libéral",Y,Y,50
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 147","Burnaby",N,N,"",1,470,"Dolling","","Peter","Green Party","Parti Vert",N,N,1
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 147","Burnaby",N,N,"",1,470,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 147","Burnaby",N,N,"",1,470,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 147","Burnaby",N,N,"",1,470,"Shein","","Kelsey","Conservative","Conservateur",N,N,30
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 148","Burnaby",N,N,"",0,401,"Beech","","Terry","Liberal","Libéral",Y,Y,37
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 148","Burnaby",N,N,"",0,401,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 148","Burnaby",N,N,"",0,401,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 148","Burnaby",N,N,"",0,401,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,1
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 148","Burnaby",N,N,"",0,401,"Shein","","Kelsey","Conservative","Conservateur",N,N,15
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 149","Burnaby",N,N,"",0,409,"Beech","","Terry","Liberal","Libéral",Y,Y,71
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 149","Burnaby",N,N,"",0,409,"Dolling","","Peter","Green Party","Parti Vert",N,N,1
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 149","Burnaby",N,N,"",0,409,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 149","Burnaby",N,N,"",0,409,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 149","Burnaby",N,N,"",0,409,"Shein","","Kelsey","Conservative","Conservateur",N,N,27
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 150","Burnaby",N,N,"",1,458,"Beech","","Terry","Liberal","Libéral",Y,Y,71
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 150","Burnaby",N,N,"",1,458,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 150","Burnaby",N,N,"",1,458,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 150","Burnaby",N,N,"",1,458,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 150","Burnaby",N,N,"",1,458,"Shein","","Kelsey","Conservative","Conservateur",N,N,35
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 151","Burnaby",N,N,"",0,461,"Beech","","Terry","Liberal","Libéral",Y,Y,63
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 151","Burnaby",N,N,"",0,461,"Dolling","","Peter","Green Party","Parti Vert",N,N,10
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 151","Burnaby",N,N,"",0,461,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 151","Burnaby",N,N,"",0,461,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 151","Burnaby",N,N,"",0,461,"Shein","","Kelsey","Conservative","Conservateur",N,N,38
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 152","Burnaby",N,N,"",0,586,"Beech","","Terry","Liberal","Libéral",Y,Y,53
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 152","Burnaby",N,N,"",0,586,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 152","Burnaby",N,N,"",0,586,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 152","Burnaby",N,N,"",0,586,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 152","Burnaby",N,N,"",0,586,"Shein","","Kelsey","Conservative","Conservateur",N,N,30
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 153","Burnaby",N,N,"",1,480,"Beech","","Terry","Liberal","Libéral",Y,Y,33
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 153","Burnaby",N,N,"",1,480,"Dolling","","Peter","Green Party","Parti Vert",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 153","Burnaby",N,N,"",1,480,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 153","Burnaby",N,N,"",1,480,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 153","Burnaby",N,N,"",1,480,"Shein","","Kelsey","Conservative","Conservateur",N,N,23
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 154","Burnaby",N,N,"",1,494,"Beech","","Terry","Liberal","Libéral",Y,Y,64
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 154","Burnaby",N,N,"",1,494,"Dolling","","Peter","Green Party","Parti Vert",N,N,10
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 154","Burnaby",N,N,"",1,494,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,83
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 154","Burnaby",N,N,"",1,494,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,25
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 154","Burnaby",N,N,"",1,494,"Shein","","Kelsey","Conservative","Conservateur",N,N,41
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 155","Burnaby",N,N,"",1,422,"Beech","","Terry","Liberal","Libéral",Y,Y,46
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 155","Burnaby",N,N,"",1,422,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 155","Burnaby",N,N,"",1,422,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 155","Burnaby",N,N,"",1,422,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 155","Burnaby",N,N,"",1,422,"Shein","","Kelsey","Conservative","Conservateur",N,N,50
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 156","Burnaby",N,N,"",2,486,"Beech","","Terry","Liberal","Libéral",Y,Y,73
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 156","Burnaby",N,N,"",2,486,"Dolling","","Peter","Green Party","Parti Vert",N,N,11
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 156","Burnaby",N,N,"",2,486,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,95
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 156","Burnaby",N,N,"",2,486,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 156","Burnaby",N,N,"",2,486,"Shein","","Kelsey","Conservative","Conservateur",N,N,38
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 157","Burnaby",N,N,"",0,421,"Beech","","Terry","Liberal","Libéral",Y,Y,62
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 157","Burnaby",N,N,"",0,421,"Dolling","","Peter","Green Party","Parti Vert",N,N,16
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 157","Burnaby",N,N,"",0,421,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,83
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 157","Burnaby",N,N,"",0,421,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 157","Burnaby",N,N,"",0,421,"Shein","","Kelsey","Conservative","Conservateur",N,N,32
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 158","Burnaby",N,N,"",0,424,"Beech","","Terry","Liberal","Libéral",Y,Y,63
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 158","Burnaby",N,N,"",0,424,"Dolling","","Peter","Green Party","Parti Vert",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 158","Burnaby",N,N,"",0,424,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,80
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 158","Burnaby",N,N,"",0,424,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,12
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 158","Burnaby",N,N,"",0,424,"Shein","","Kelsey","Conservative","Conservateur",N,N,32
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 159","Burnaby",N,N,"",1,455,"Beech","","Terry","Liberal","Libéral",Y,Y,71
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 159","Burnaby",N,N,"",1,455,"Dolling","","Peter","Green Party","Parti Vert",N,N,8
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 159","Burnaby",N,N,"",1,455,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 159","Burnaby",N,N,"",1,455,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,9
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 159","Burnaby",N,N,"",1,455,"Shein","","Kelsey","Conservative","Conservateur",N,N,23
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 160","Burnaby",N,N,"",1,442,"Beech","","Terry","Liberal","Libéral",Y,Y,49
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 160","Burnaby",N,N,"",1,442,"Dolling","","Peter","Green Party","Parti Vert",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 160","Burnaby",N,N,"",1,442,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 160","Burnaby",N,N,"",1,442,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 160","Burnaby",N,N,"",1,442,"Shein","","Kelsey","Conservative","Conservateur",N,N,36
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 161","Burnaby",N,N,"",0,427,"Beech","","Terry","Liberal","Libéral",Y,Y,47
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 161","Burnaby",N,N,"",0,427,"Dolling","","Peter","Green Party","Parti Vert",N,N,5
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 161","Burnaby",N,N,"",0,427,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 161","Burnaby",N,N,"",0,427,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,12
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 161","Burnaby",N,N,"",0,427,"Shein","","Kelsey","Conservative","Conservateur",N,N,26
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 162","Burnaby",N,N,"",1,450,"Beech","","Terry","Liberal","Libéral",Y,Y,45
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 162","Burnaby",N,N,"",1,450,"Dolling","","Peter","Green Party","Parti Vert",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 162","Burnaby",N,N,"",1,450,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 162","Burnaby",N,N,"",1,450,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 162","Burnaby",N,N,"",1,450,"Shein","","Kelsey","Conservative","Conservateur",N,N,40
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 163","Burnaby",N,N,"",1,464,"Beech","","Terry","Liberal","Libéral",Y,Y,70
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 163","Burnaby",N,N,"",1,464,"Dolling","","Peter","Green Party","Parti Vert",N,N,9
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 163","Burnaby",N,N,"",1,464,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 163","Burnaby",N,N,"",1,464,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 163","Burnaby",N,N,"",1,464,"Shein","","Kelsey","Conservative","Conservateur",N,N,49
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 164","Burnaby",N,N,"",0,473,"Beech","","Terry","Liberal","Libéral",Y,Y,53
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 164","Burnaby",N,N,"",0,473,"Dolling","","Peter","Green Party","Parti Vert",N,N,10
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 164","Burnaby",N,N,"",0,473,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,86
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 164","Burnaby",N,N,"",0,473,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 164","Burnaby",N,N,"",0,473,"Shein","","Kelsey","Conservative","Conservateur",N,N,17
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 165","Burnaby",N,N,"",2,589,"Beech","","Terry","Liberal","Libéral",Y,Y,61
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 165","Burnaby",N,N,"",2,589,"Dolling","","Peter","Green Party","Parti Vert",N,N,4
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 165","Burnaby",N,N,"",2,589,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,81
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 165","Burnaby",N,N,"",2,589,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 165","Burnaby",N,N,"",2,589,"Shein","","Kelsey","Conservative","Conservateur",N,N,34
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 166","Burnaby",N,N,"",1,500,"Beech","","Terry","Liberal","Libéral",Y,Y,52
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 166","Burnaby",N,N,"",1,500,"Dolling","","Peter","Green Party","Parti Vert",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 166","Burnaby",N,N,"",1,500,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 166","Burnaby",N,N,"",1,500,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 166","Burnaby",N,N,"",1,500,"Shein","","Kelsey","Conservative","Conservateur",N,N,33
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 167","Burnaby",N,N,"",0,497,"Beech","","Terry","Liberal","Libéral",Y,Y,36
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 167","Burnaby",N,N,"",0,497,"Dolling","","Peter","Green Party","Parti Vert",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 167","Burnaby",N,N,"",0,497,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 167","Burnaby",N,N,"",0,497,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 167","Burnaby",N,N,"",0,497,"Shein","","Kelsey","Conservative","Conservateur",N,N,21
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 168","Burnaby",N,N,"",0,504,"Beech","","Terry","Liberal","Libéral",Y,Y,39
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 168","Burnaby",N,N,"",0,504,"Dolling","","Peter","Green Party","Parti Vert",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 168","Burnaby",N,N,"",0,504,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 168","Burnaby",N,N,"",0,504,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 168","Burnaby",N,N,"",0,504,"Shein","","Kelsey","Conservative","Conservateur",N,N,16
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 169","Burnaby",N,N,"",1,538,"Beech","","Terry","Liberal","Libéral",Y,Y,38
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 169","Burnaby",N,N,"",1,538,"Dolling","","Peter","Green Party","Parti Vert",N,N,2
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 169","Burnaby",N,N,"",1,538,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 169","Burnaby",N,N,"",1,538,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 169","Burnaby",N,N,"",1,538,"Shein","","Kelsey","Conservative","Conservateur",N,N,17
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 170","Burnaby",N,N,"",0,451,"Beech","","Terry","Liberal","Libéral",Y,Y,38
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 170","Burnaby",N,N,"",0,451,"Dolling","","Peter","Green Party","Parti Vert",N,N,8
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 170","Burnaby",N,N,"",0,451,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 170","Burnaby",N,N,"",0,451,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 170","Burnaby",N,N,"",0,451,"Shein","","Kelsey","Conservative","Conservateur",N,N,26
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 400","North Vancouver",N,N,"",1,153,"Beech","","Terry","Liberal","Libéral",Y,Y,60
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 400","North Vancouver",N,N,"",1,153,"Dolling","","Peter","Green Party","Parti Vert",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 400","North Vancouver",N,N,"",1,153,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 400","North Vancouver",N,N,"",1,153,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,1
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 400","North Vancouver",N,N,"",1,153,"Shein","","Kelsey","Conservative","Conservateur",N,N,36
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 401","Burnaby",N,N,"",2,188,"Beech","","Terry","Liberal","Libéral",Y,Y,46
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 401","Burnaby",N,N,"",2,188,"Dolling","","Peter","Green Party","Parti Vert",N,N,3
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 401","Burnaby",N,N,"",2,188,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 401","Burnaby",N,N,"",2,188,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 401","Burnaby",N,N,"",2,188,"Shein","","Kelsey","Conservative","Conservateur",N,N,13
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 500","Mobile poll/Bureau itinérant",N,N,"17",0,56,"Beech","","Terry","Liberal","Libéral",Y,Y,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 500","Mobile poll/Bureau itinérant",N,N,"17",0,56,"Dolling","","Peter","Green Party","Parti Vert",N,N,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 500","Mobile poll/Bureau itinérant",N,N,"17",0,56,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 500","Mobile poll/Bureau itinérant",N,N,"17",0,56,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 500","Mobile poll/Bureau itinérant",N,N,"17",0,56,"Shein","","Kelsey","Conservative","Conservateur",N,N,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 501","Mobile poll/Bureau itinérant",N,N,"95",0,69,"Beech","","Terry","Liberal","Libéral",Y,Y,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 501","Mobile poll/Bureau itinérant",N,N,"95",0,69,"Dolling","","Peter","Green Party","Parti Vert",N,N,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 501","Mobile poll/Bureau itinérant",N,N,"95",0,69,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 501","Mobile poll/Bureau itinérant",N,N,"95",0,69,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 501","Mobile poll/Bureau itinérant",N,N,"95",0,69,"Shein","","Kelsey","Conservative","Conservateur",N,N,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 502","Mobile poll/Bureau itinérant",N,N,"111",0,26,"Beech","","Terry","Liberal","Libéral",Y,Y,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 502","Mobile poll/Bureau itinérant",N,N,"111",0,26,"Dolling","","Peter","Green Party","Parti Vert",N,N,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 502","Mobile poll/Bureau itinérant",N,N,"111",0,26,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 502","Mobile poll/Bureau itinérant",N,N,"111",0,26,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 502","Mobile poll/Bureau itinérant",N,N,"111",0,26,"Shein","","Kelsey","Conservative","Conservateur",N,N,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 503","Mobile poll/Bureau itinérant",N,N,"120",0,53,"Beech","","Terry","Liberal","Libéral",Y,Y,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 503","Mobile poll/Bureau itinérant",N,N,"120",0,53,"Dolling","","Peter","Green Party","Parti Vert",N,N,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 503","Mobile poll/Bureau itinérant",N,N,"120",0,53,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 503","Mobile poll/Bureau itinérant",N,N,"120",0,53,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 503","Mobile poll/Bureau itinérant",N,N,"120",0,53,"Shein","","Kelsey","Conservative","Conservateur",N,N,0
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 600","North Vancouver",N,N,"",0,0,"Beech","","Terry","Liberal","Libéral",Y,Y,577
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 600","North Vancouver",N,N,"",0,0,"Dolling","","Peter","Green Party","Parti Vert",N,N,26
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 600","North Vancouver",N,N,"",0,0,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,235
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 600","North Vancouver",N,N,"",0,0,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,25
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 600","North Vancouver",N,N,"",0,0,"Shein","","Kelsey","Conservative","Conservateur",N,N,642
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 601","North Vancouver",N,N,"",1,0,"Beech","","Terry","Liberal","Libéral",Y,Y,538
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 601","North Vancouver",N,N,"",1,0,"Dolling","","Peter","Green Party","Parti Vert",N,N,44
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 601","North Vancouver",N,N,"",1,0,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,353
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 601","North Vancouver",N,N,"",1,0,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,37
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 601","North Vancouver",N,N,"",1,0,"Shein","","Kelsey","Conservative","Conservateur",N,N,426
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 602","North Vancouver",N,N,"",2,0,"Beech","","Terry","Liberal","Libéral",Y,Y,692
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 602","North Vancouver",N,N,"",2,0,"Dolling","","Peter","Green Party","Parti Vert",N,N,43
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 602","North Vancouver",N,N,"",2,0,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,299
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 602","North Vancouver",N,N,"",2,0,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,47
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 602","North Vancouver",N,N,"",2,0,"Shein","","Kelsey","Conservative","Conservateur",N,N,506
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 603","North Vancouver",N,N,"",0,0,"Beech","","Terry","Liberal","Libéral",Y,Y,512
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 603","North Vancouver",N,N,"",0,0,"Dolling","","Peter","Green Party","Parti Vert",N,N,35
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 603","North Vancouver",N,N,"",0,0,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,299
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 603","North Vancouver",N,N,"",0,0,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,32
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 603","North Vancouver",N,N,"",0,0,"Shein","","Kelsey","Conservative","Conservateur",N,N,331
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 604","Burnaby",N,N,"",11,0,"Beech","","Terry","Liberal","Libéral",Y,Y,437
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 604","Burnaby",N,N,"",11,0,"Dolling","","Peter","Green Party","Parti Vert",N,N,31
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 604","Burnaby",N,N,"",11,0,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,417
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 604","Burnaby",N,N,"",11,0,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,34
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 604","Burnaby",N,N,"",11,0,"Shein","","Kelsey","Conservative","Conservateur",N,N,290
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 605","Burnaby",N,N,"",2,0,"Beech","","Terry","Liberal","Libéral",Y,Y,396
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 605","Burnaby",N,N,"",2,0,"Dolling","","Peter","Green Party","Parti Vert",N,N,19
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 605","Burnaby",N,N,"",2,0,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,310
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 605","Burnaby",N,N,"",2,0,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,38
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 605","Burnaby",N,N,"",2,0,"Shein","","Kelsey","Conservative","Conservateur",N,N,223
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 606","Burnaby",N,N,"",0,0,"Beech","","Terry","Liberal","Libéral",Y,Y,494
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 606","Burnaby",N,N,"",0,0,"Dolling","","Peter","Green Party","Parti Vert",N,N,22
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 606","Burnaby",N,N,"",0,0,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,349
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 606","Burnaby",N,N,"",0,0,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,43
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 606","Burnaby",N,N,"",0,0,"Shein","","Kelsey","Conservative","Conservateur",N,N,281
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 607","Burnaby",N,N,"",4,0,"Beech","","Terry","Liberal","Libéral",Y,Y,522
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 607","Burnaby",N,N,"",4,0,"Dolling","","Peter","Green Party","Parti Vert",N,N,17
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 607","Burnaby",N,N,"",4,0,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,301
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 607","Burnaby",N,N,"",4,0,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,21
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 607","Burnaby",N,N,"",4,0,"Shein","","Kelsey","Conservative","Conservateur",N,N,283
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 608","Burnaby",N,N,"",2,0,"Beech","","Terry","Liberal","Libéral",Y,Y,322
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 608","Burnaby",N,N,"",2,0,"Dolling","","Peter","Green Party","Parti Vert",N,N,14
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 608","Burnaby",N,N,"",2,0,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,243
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 608","Burnaby",N,N,"",2,0,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,22
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 608","Burnaby",N,N,"",2,0,"Shein","","Kelsey","Conservative","Conservateur",N,N,288
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 609","Burnaby",N,N,"",1,0,"Beech","","Terry","Liberal","Libéral",Y,Y,455
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 609","Burnaby",N,N,"",1,0,"Dolling","","Peter","Green Party","Parti Vert",N,N,23
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 609","Burnaby",N,N,"",1,0,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,288
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 609","Burnaby",N,N,"",1,0,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,47
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 609","Burnaby",N,N,"",1,0,"Shein","","Kelsey","Conservative","Conservateur",N,N,341
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 610","Burnaby",N,N,"",0,0,"Beech","","Terry","Liberal","Libéral",Y,Y,462
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 610","Burnaby",N,N,"",0,0,"Dolling","","Peter","Green Party","Parti Vert",N,N,30
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 610","Burnaby",N,N,"",0,0,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,253
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 610","Burnaby",N,N,"",0,0,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,45
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 610","Burnaby",N,N,"",0,0,"Shein","","Kelsey","Conservative","Conservateur",N,N,338
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 611","Burnaby",N,N,"",5,0,"Beech","","Terry","Liberal","Libéral",Y,Y,545
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 611","Burnaby",N,N,"",5,0,"Dolling","","Peter","Green Party","Parti Vert",N,N,22
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 611","Burnaby",N,N,"",5,0,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,314
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 611","Burnaby",N,N,"",5,0,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,27
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 611","Burnaby",N,N,"",5,0,"Shein","","Kelsey","Conservative","Conservateur",N,N,349
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 612","Burnaby",N,N,"",0,0,"Beech","","Terry","Liberal","Libéral",Y,Y,343
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 612","Burnaby",N,N,"",0,0,"Dolling","","Peter","Green Party","Parti Vert",N,N,30
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 612","Burnaby",N,N,"",0,0,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,322
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 612","Burnaby",N,N,"",0,0,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,55
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 612","Burnaby",N,N,"",0,0,"Shein","","Kelsey","Conservative","Conservateur",N,N,225
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 613","Burnaby",N,N,"",8,0,"Beech","","Terry","Liberal","Libéral",Y,Y,632
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 613","Burnaby",N,N,"",8,0,"Dolling","","Peter","Green Party","Parti Vert",N,N,44
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 613","Burnaby",N,N,"",8,0,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,576
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 613","Burnaby",N,N,"",8,0,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,60
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," 613","Burnaby",N,N,"",8,0,"Shein","","Kelsey","Conservative","Conservateur",N,N,287
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",33,347,"Beech","","Terry","Liberal","Libéral",Y,Y,248
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",33,347,"Dolling","","Peter","Green Party","Parti Vert",N,N,26
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",33,347,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,275
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",33,347,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,23
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",33,347,"Shein","","Kelsey","Conservative","Conservateur",N,N,187
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",96,0,"Beech","","Terry","Liberal","Libéral",Y,Y,1441
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",96,0,"Dolling","","Peter","Green Party","Parti Vert",N,N,94
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",96,0,"Hanson","","Jim","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1064
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",96,0,"Nickerson","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,48
+59002,"Burnaby North--Seymour","Burnaby-Nord--Seymour"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",96,0,"Shein","","Kelsey","Conservative","Conservateur",N,N,786

@@ -1,0 +1,876 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+59039,"Vancouver Quadra","Vancouver Quadra"," 1A","Metro Vancouver A",N,N,"",0,581,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,189
+59039,"Vancouver Quadra","Vancouver Quadra"," 1A","Metro Vancouver A",N,N,"",0,581,"Armstrong","","Brad","Conservative","Conservateur",N,N,36
+59039,"Vancouver Quadra","Vancouver Quadra"," 1A","Metro Vancouver A",N,N,"",0,581,"Murray","","Joyce","Liberal","Libéral",Y,Y,81
+59039,"Vancouver Quadra","Vancouver Quadra"," 1A","Metro Vancouver A",N,N,"",0,581,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 1A","Metro Vancouver A",N,N,"",0,581,"Singh","","Devyani","Green Party","Parti Vert",N,N,31
+59039,"Vancouver Quadra","Vancouver Quadra"," 1B","Mobile poll/Bureau itinérant",N,Y,"",0,15,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 1B","Mobile poll/Bureau itinérant",N,Y,"",0,15,"Armstrong","","Brad","Conservative","Conservateur",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 1B","Mobile poll/Bureau itinérant",N,Y,"",0,15,"Murray","","Joyce","Liberal","Libéral",Y,Y,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 1B","Mobile poll/Bureau itinérant",N,Y,"",0,15,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 1B","Mobile poll/Bureau itinérant",N,Y,"",0,15,"Singh","","Devyani","Green Party","Parti Vert",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 2","Metro Vancouver A",N,N,"",0,407,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,104
+59039,"Vancouver Quadra","Vancouver Quadra"," 2","Metro Vancouver A",N,N,"",0,407,"Armstrong","","Brad","Conservative","Conservateur",N,N,23
+59039,"Vancouver Quadra","Vancouver Quadra"," 2","Metro Vancouver A",N,N,"",0,407,"Murray","","Joyce","Liberal","Libéral",Y,Y,44
+59039,"Vancouver Quadra","Vancouver Quadra"," 2","Metro Vancouver A",N,N,"",0,407,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,2
+59039,"Vancouver Quadra","Vancouver Quadra"," 2","Metro Vancouver A",N,N,"",0,407,"Singh","","Devyani","Green Party","Parti Vert",N,N,27
+59039,"Vancouver Quadra","Vancouver Quadra"," 3","Metro Vancouver A",N,N,"",0,459,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59039,"Vancouver Quadra","Vancouver Quadra"," 3","Metro Vancouver A",N,N,"",0,459,"Armstrong","","Brad","Conservative","Conservateur",N,N,16
+59039,"Vancouver Quadra","Vancouver Quadra"," 3","Metro Vancouver A",N,N,"",0,459,"Murray","","Joyce","Liberal","Libéral",Y,Y,44
+59039,"Vancouver Quadra","Vancouver Quadra"," 3","Metro Vancouver A",N,N,"",0,459,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,1
+59039,"Vancouver Quadra","Vancouver Quadra"," 3","Metro Vancouver A",N,N,"",0,459,"Singh","","Devyani","Green Party","Parti Vert",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 4","Metro Vancouver A",N,N,"",2,425,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59039,"Vancouver Quadra","Vancouver Quadra"," 4","Metro Vancouver A",N,N,"",2,425,"Armstrong","","Brad","Conservative","Conservateur",N,N,21
+59039,"Vancouver Quadra","Vancouver Quadra"," 4","Metro Vancouver A",N,N,"",2,425,"Murray","","Joyce","Liberal","Libéral",Y,Y,28
+59039,"Vancouver Quadra","Vancouver Quadra"," 4","Metro Vancouver A",N,N,"",2,425,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,7
+59039,"Vancouver Quadra","Vancouver Quadra"," 4","Metro Vancouver A",N,N,"",2,425,"Singh","","Devyani","Green Party","Parti Vert",N,N,9
+59039,"Vancouver Quadra","Vancouver Quadra"," 5","Metro Vancouver A",N,N,"",1,470,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59039,"Vancouver Quadra","Vancouver Quadra"," 5","Metro Vancouver A",N,N,"",1,470,"Armstrong","","Brad","Conservative","Conservateur",N,N,21
+59039,"Vancouver Quadra","Vancouver Quadra"," 5","Metro Vancouver A",N,N,"",1,470,"Murray","","Joyce","Liberal","Libéral",Y,Y,45
+59039,"Vancouver Quadra","Vancouver Quadra"," 5","Metro Vancouver A",N,N,"",1,470,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 5","Metro Vancouver A",N,N,"",1,470,"Singh","","Devyani","Green Party","Parti Vert",N,N,6
+59039,"Vancouver Quadra","Vancouver Quadra"," 6","Metro Vancouver A",N,N,"",1,494,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59039,"Vancouver Quadra","Vancouver Quadra"," 6","Metro Vancouver A",N,N,"",1,494,"Armstrong","","Brad","Conservative","Conservateur",N,N,53
+59039,"Vancouver Quadra","Vancouver Quadra"," 6","Metro Vancouver A",N,N,"",1,494,"Murray","","Joyce","Liberal","Libéral",Y,Y,44
+59039,"Vancouver Quadra","Vancouver Quadra"," 6","Metro Vancouver A",N,N,"",1,494,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 6","Metro Vancouver A",N,N,"",1,494,"Singh","","Devyani","Green Party","Parti Vert",N,N,12
+59039,"Vancouver Quadra","Vancouver Quadra"," 7","Metro Vancouver A",N,N,"",1,564,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,150
+59039,"Vancouver Quadra","Vancouver Quadra"," 7","Metro Vancouver A",N,N,"",1,564,"Armstrong","","Brad","Conservative","Conservateur",N,N,54
+59039,"Vancouver Quadra","Vancouver Quadra"," 7","Metro Vancouver A",N,N,"",1,564,"Murray","","Joyce","Liberal","Libéral",Y,Y,83
+59039,"Vancouver Quadra","Vancouver Quadra"," 7","Metro Vancouver A",N,N,"",1,564,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,6
+59039,"Vancouver Quadra","Vancouver Quadra"," 7","Metro Vancouver A",N,N,"",1,564,"Singh","","Devyani","Green Party","Parti Vert",N,N,19
+59039,"Vancouver Quadra","Vancouver Quadra"," 8","Metro Vancouver A",N,N,"",1,362,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+59039,"Vancouver Quadra","Vancouver Quadra"," 8","Metro Vancouver A",N,N,"",1,362,"Armstrong","","Brad","Conservative","Conservateur",N,N,24
+59039,"Vancouver Quadra","Vancouver Quadra"," 8","Metro Vancouver A",N,N,"",1,362,"Murray","","Joyce","Liberal","Libéral",Y,Y,39
+59039,"Vancouver Quadra","Vancouver Quadra"," 8","Metro Vancouver A",N,N,"",1,362,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 8","Metro Vancouver A",N,N,"",1,362,"Singh","","Devyani","Green Party","Parti Vert",N,N,11
+59039,"Vancouver Quadra","Vancouver Quadra"," 9","Metro Vancouver A",N,N,"",1,412,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59039,"Vancouver Quadra","Vancouver Quadra"," 9","Metro Vancouver A",N,N,"",1,412,"Armstrong","","Brad","Conservative","Conservateur",N,N,26
+59039,"Vancouver Quadra","Vancouver Quadra"," 9","Metro Vancouver A",N,N,"",1,412,"Murray","","Joyce","Liberal","Libéral",Y,Y,36
+59039,"Vancouver Quadra","Vancouver Quadra"," 9","Metro Vancouver A",N,N,"",1,412,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 9","Metro Vancouver A",N,N,"",1,412,"Singh","","Devyani","Green Party","Parti Vert",N,N,5
+59039,"Vancouver Quadra","Vancouver Quadra"," 10","Metro Vancouver A",N,N,"",1,397,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+59039,"Vancouver Quadra","Vancouver Quadra"," 10","Metro Vancouver A",N,N,"",1,397,"Armstrong","","Brad","Conservative","Conservateur",N,N,34
+59039,"Vancouver Quadra","Vancouver Quadra"," 10","Metro Vancouver A",N,N,"",1,397,"Murray","","Joyce","Liberal","Libéral",Y,Y,38
+59039,"Vancouver Quadra","Vancouver Quadra"," 10","Metro Vancouver A",N,N,"",1,397,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 10","Metro Vancouver A",N,N,"",1,397,"Singh","","Devyani","Green Party","Parti Vert",N,N,6
+59039,"Vancouver Quadra","Vancouver Quadra"," 11","Metro Vancouver A",N,N,"",1,354,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+59039,"Vancouver Quadra","Vancouver Quadra"," 11","Metro Vancouver A",N,N,"",1,354,"Armstrong","","Brad","Conservative","Conservateur",N,N,25
+59039,"Vancouver Quadra","Vancouver Quadra"," 11","Metro Vancouver A",N,N,"",1,354,"Murray","","Joyce","Liberal","Libéral",Y,Y,41
+59039,"Vancouver Quadra","Vancouver Quadra"," 11","Metro Vancouver A",N,N,"",1,354,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,1
+59039,"Vancouver Quadra","Vancouver Quadra"," 11","Metro Vancouver A",N,N,"",1,354,"Singh","","Devyani","Green Party","Parti Vert",N,N,7
+59039,"Vancouver Quadra","Vancouver Quadra"," 12","Metro Vancouver A",N,N,"",0,346,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59039,"Vancouver Quadra","Vancouver Quadra"," 12","Metro Vancouver A",N,N,"",0,346,"Armstrong","","Brad","Conservative","Conservateur",N,N,13
+59039,"Vancouver Quadra","Vancouver Quadra"," 12","Metro Vancouver A",N,N,"",0,346,"Murray","","Joyce","Liberal","Libéral",Y,Y,41
+59039,"Vancouver Quadra","Vancouver Quadra"," 12","Metro Vancouver A",N,N,"",0,346,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,5
+59039,"Vancouver Quadra","Vancouver Quadra"," 12","Metro Vancouver A",N,N,"",0,346,"Singh","","Devyani","Green Party","Parti Vert",N,N,7
+59039,"Vancouver Quadra","Vancouver Quadra"," 13","Vancouver",N,N,"",0,544,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59039,"Vancouver Quadra","Vancouver Quadra"," 13","Vancouver",N,N,"",0,544,"Armstrong","","Brad","Conservative","Conservateur",N,N,58
+59039,"Vancouver Quadra","Vancouver Quadra"," 13","Vancouver",N,N,"",0,544,"Murray","","Joyce","Liberal","Libéral",Y,Y,63
+59039,"Vancouver Quadra","Vancouver Quadra"," 13","Vancouver",N,N,"",0,544,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,2
+59039,"Vancouver Quadra","Vancouver Quadra"," 13","Vancouver",N,N,"",0,544,"Singh","","Devyani","Green Party","Parti Vert",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 14","Metro Vancouver A",N,N,"",0,268,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59039,"Vancouver Quadra","Vancouver Quadra"," 14","Metro Vancouver A",N,N,"",0,268,"Armstrong","","Brad","Conservative","Conservateur",N,N,35
+59039,"Vancouver Quadra","Vancouver Quadra"," 14","Metro Vancouver A",N,N,"",0,268,"Murray","","Joyce","Liberal","Libéral",Y,Y,31
+59039,"Vancouver Quadra","Vancouver Quadra"," 14","Metro Vancouver A",N,N,"",0,268,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,2
+59039,"Vancouver Quadra","Vancouver Quadra"," 14","Metro Vancouver A",N,N,"",0,268,"Singh","","Devyani","Green Party","Parti Vert",N,N,5
+59039,"Vancouver Quadra","Vancouver Quadra"," 15","Vancouver",N,N,"",1,570,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59039,"Vancouver Quadra","Vancouver Quadra"," 15","Vancouver",N,N,"",1,570,"Armstrong","","Brad","Conservative","Conservateur",N,N,36
+59039,"Vancouver Quadra","Vancouver Quadra"," 15","Vancouver",N,N,"",1,570,"Murray","","Joyce","Liberal","Libéral",Y,Y,69
+59039,"Vancouver Quadra","Vancouver Quadra"," 15","Vancouver",N,N,"",1,570,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,5
+59039,"Vancouver Quadra","Vancouver Quadra"," 15","Vancouver",N,N,"",1,570,"Singh","","Devyani","Green Party","Parti Vert",N,N,11
+59039,"Vancouver Quadra","Vancouver Quadra"," 16","Vancouver",N,N,"",1,596,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+59039,"Vancouver Quadra","Vancouver Quadra"," 16","Vancouver",N,N,"",1,596,"Armstrong","","Brad","Conservative","Conservateur",N,N,48
+59039,"Vancouver Quadra","Vancouver Quadra"," 16","Vancouver",N,N,"",1,596,"Murray","","Joyce","Liberal","Libéral",Y,Y,56
+59039,"Vancouver Quadra","Vancouver Quadra"," 16","Vancouver",N,N,"",1,596,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,1
+59039,"Vancouver Quadra","Vancouver Quadra"," 16","Vancouver",N,N,"",1,596,"Singh","","Devyani","Green Party","Parti Vert",N,N,17
+59039,"Vancouver Quadra","Vancouver Quadra"," 17","Vancouver",N,N,"",1,455,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59039,"Vancouver Quadra","Vancouver Quadra"," 17","Vancouver",N,N,"",1,455,"Armstrong","","Brad","Conservative","Conservateur",N,N,42
+59039,"Vancouver Quadra","Vancouver Quadra"," 17","Vancouver",N,N,"",1,455,"Murray","","Joyce","Liberal","Libéral",Y,Y,59
+59039,"Vancouver Quadra","Vancouver Quadra"," 17","Vancouver",N,N,"",1,455,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,2
+59039,"Vancouver Quadra","Vancouver Quadra"," 17","Vancouver",N,N,"",1,455,"Singh","","Devyani","Green Party","Parti Vert",N,N,10
+59039,"Vancouver Quadra","Vancouver Quadra"," 18","Vancouver",N,N,"",0,617,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59039,"Vancouver Quadra","Vancouver Quadra"," 18","Vancouver",N,N,"",0,617,"Armstrong","","Brad","Conservative","Conservateur",N,N,45
+59039,"Vancouver Quadra","Vancouver Quadra"," 18","Vancouver",N,N,"",0,617,"Murray","","Joyce","Liberal","Libéral",Y,Y,71
+59039,"Vancouver Quadra","Vancouver Quadra"," 18","Vancouver",N,N,"",0,617,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,1
+59039,"Vancouver Quadra","Vancouver Quadra"," 18","Vancouver",N,N,"",0,617,"Singh","","Devyani","Green Party","Parti Vert",N,N,15
+59039,"Vancouver Quadra","Vancouver Quadra"," 19","Vancouver",N,N,"",1,535,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+59039,"Vancouver Quadra","Vancouver Quadra"," 19","Vancouver",N,N,"",1,535,"Armstrong","","Brad","Conservative","Conservateur",N,N,55
+59039,"Vancouver Quadra","Vancouver Quadra"," 19","Vancouver",N,N,"",1,535,"Murray","","Joyce","Liberal","Libéral",Y,Y,54
+59039,"Vancouver Quadra","Vancouver Quadra"," 19","Vancouver",N,N,"",1,535,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 19","Vancouver",N,N,"",1,535,"Singh","","Devyani","Green Party","Parti Vert",N,N,7
+59039,"Vancouver Quadra","Vancouver Quadra"," 20","Vancouver",N,N,"",0,572,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59039,"Vancouver Quadra","Vancouver Quadra"," 20","Vancouver",N,N,"",0,572,"Armstrong","","Brad","Conservative","Conservateur",N,N,37
+59039,"Vancouver Quadra","Vancouver Quadra"," 20","Vancouver",N,N,"",0,572,"Murray","","Joyce","Liberal","Libéral",Y,Y,65
+59039,"Vancouver Quadra","Vancouver Quadra"," 20","Vancouver",N,N,"",0,572,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 20","Vancouver",N,N,"",0,572,"Singh","","Devyani","Green Party","Parti Vert",N,N,9
+59039,"Vancouver Quadra","Vancouver Quadra"," 21","Vancouver",N,N,"",1,495,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59039,"Vancouver Quadra","Vancouver Quadra"," 21","Vancouver",N,N,"",1,495,"Armstrong","","Brad","Conservative","Conservateur",N,N,40
+59039,"Vancouver Quadra","Vancouver Quadra"," 21","Vancouver",N,N,"",1,495,"Murray","","Joyce","Liberal","Libéral",Y,Y,58
+59039,"Vancouver Quadra","Vancouver Quadra"," 21","Vancouver",N,N,"",1,495,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,1
+59039,"Vancouver Quadra","Vancouver Quadra"," 21","Vancouver",N,N,"",1,495,"Singh","","Devyani","Green Party","Parti Vert",N,N,10
+59039,"Vancouver Quadra","Vancouver Quadra"," 22","Vancouver",N,N,"",0,574,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+59039,"Vancouver Quadra","Vancouver Quadra"," 22","Vancouver",N,N,"",0,574,"Armstrong","","Brad","Conservative","Conservateur",N,N,47
+59039,"Vancouver Quadra","Vancouver Quadra"," 22","Vancouver",N,N,"",0,574,"Murray","","Joyce","Liberal","Libéral",Y,Y,68
+59039,"Vancouver Quadra","Vancouver Quadra"," 22","Vancouver",N,N,"",0,574,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 22","Vancouver",N,N,"",0,574,"Singh","","Devyani","Green Party","Parti Vert",N,N,14
+59039,"Vancouver Quadra","Vancouver Quadra"," 23","Vancouver",N,N,"",1,512,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+59039,"Vancouver Quadra","Vancouver Quadra"," 23","Vancouver",N,N,"",1,512,"Armstrong","","Brad","Conservative","Conservateur",N,N,34
+59039,"Vancouver Quadra","Vancouver Quadra"," 23","Vancouver",N,N,"",1,512,"Murray","","Joyce","Liberal","Libéral",Y,Y,73
+59039,"Vancouver Quadra","Vancouver Quadra"," 23","Vancouver",N,N,"",1,512,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 23","Vancouver",N,N,"",1,512,"Singh","","Devyani","Green Party","Parti Vert",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 24","Vancouver",N,N,"",0,518,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59039,"Vancouver Quadra","Vancouver Quadra"," 24","Vancouver",N,N,"",0,518,"Armstrong","","Brad","Conservative","Conservateur",N,N,30
+59039,"Vancouver Quadra","Vancouver Quadra"," 24","Vancouver",N,N,"",0,518,"Murray","","Joyce","Liberal","Libéral",Y,Y,64
+59039,"Vancouver Quadra","Vancouver Quadra"," 24","Vancouver",N,N,"",0,518,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 24","Vancouver",N,N,"",0,518,"Singh","","Devyani","Green Party","Parti Vert",N,N,16
+59039,"Vancouver Quadra","Vancouver Quadra"," 25","Vancouver",N,N,"",0,576,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+59039,"Vancouver Quadra","Vancouver Quadra"," 25","Vancouver",N,N,"",0,576,"Armstrong","","Brad","Conservative","Conservateur",N,N,33
+59039,"Vancouver Quadra","Vancouver Quadra"," 25","Vancouver",N,N,"",0,576,"Murray","","Joyce","Liberal","Libéral",Y,Y,83
+59039,"Vancouver Quadra","Vancouver Quadra"," 25","Vancouver",N,N,"",0,576,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,1
+59039,"Vancouver Quadra","Vancouver Quadra"," 25","Vancouver",N,N,"",0,576,"Singh","","Devyani","Green Party","Parti Vert",N,N,20
+59039,"Vancouver Quadra","Vancouver Quadra"," 26","Vancouver",N,N,"",0,571,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+59039,"Vancouver Quadra","Vancouver Quadra"," 26","Vancouver",N,N,"",0,571,"Armstrong","","Brad","Conservative","Conservateur",N,N,29
+59039,"Vancouver Quadra","Vancouver Quadra"," 26","Vancouver",N,N,"",0,571,"Murray","","Joyce","Liberal","Libéral",Y,Y,73
+59039,"Vancouver Quadra","Vancouver Quadra"," 26","Vancouver",N,N,"",0,571,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 26","Vancouver",N,N,"",0,571,"Singh","","Devyani","Green Party","Parti Vert",N,N,9
+59039,"Vancouver Quadra","Vancouver Quadra"," 27","Vancouver",N,N,"",0,669,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+59039,"Vancouver Quadra","Vancouver Quadra"," 27","Vancouver",N,N,"",0,669,"Armstrong","","Brad","Conservative","Conservateur",N,N,67
+59039,"Vancouver Quadra","Vancouver Quadra"," 27","Vancouver",N,N,"",0,669,"Murray","","Joyce","Liberal","Libéral",Y,Y,79
+59039,"Vancouver Quadra","Vancouver Quadra"," 27","Vancouver",N,N,"",0,669,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,5
+59039,"Vancouver Quadra","Vancouver Quadra"," 27","Vancouver",N,N,"",0,669,"Singh","","Devyani","Green Party","Parti Vert",N,N,20
+59039,"Vancouver Quadra","Vancouver Quadra"," 28","Vancouver",N,N,"",0,504,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+59039,"Vancouver Quadra","Vancouver Quadra"," 28","Vancouver",N,N,"",0,504,"Armstrong","","Brad","Conservative","Conservateur",N,N,33
+59039,"Vancouver Quadra","Vancouver Quadra"," 28","Vancouver",N,N,"",0,504,"Murray","","Joyce","Liberal","Libéral",Y,Y,84
+59039,"Vancouver Quadra","Vancouver Quadra"," 28","Vancouver",N,N,"",0,504,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 28","Vancouver",N,N,"",0,504,"Singh","","Devyani","Green Party","Parti Vert",N,N,18
+59039,"Vancouver Quadra","Vancouver Quadra"," 29","Vancouver",N,N,"",0,553,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+59039,"Vancouver Quadra","Vancouver Quadra"," 29","Vancouver",N,N,"",0,553,"Armstrong","","Brad","Conservative","Conservateur",N,N,39
+59039,"Vancouver Quadra","Vancouver Quadra"," 29","Vancouver",N,N,"",0,553,"Murray","","Joyce","Liberal","Libéral",Y,Y,105
+59039,"Vancouver Quadra","Vancouver Quadra"," 29","Vancouver",N,N,"",0,553,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,1
+59039,"Vancouver Quadra","Vancouver Quadra"," 29","Vancouver",N,N,"",0,553,"Singh","","Devyani","Green Party","Parti Vert",N,N,20
+59039,"Vancouver Quadra","Vancouver Quadra"," 30","Vancouver",N,N,"",0,553,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+59039,"Vancouver Quadra","Vancouver Quadra"," 30","Vancouver",N,N,"",0,553,"Armstrong","","Brad","Conservative","Conservateur",N,N,40
+59039,"Vancouver Quadra","Vancouver Quadra"," 30","Vancouver",N,N,"",0,553,"Murray","","Joyce","Liberal","Libéral",Y,Y,84
+59039,"Vancouver Quadra","Vancouver Quadra"," 30","Vancouver",N,N,"",0,553,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,2
+59039,"Vancouver Quadra","Vancouver Quadra"," 30","Vancouver",N,N,"",0,553,"Singh","","Devyani","Green Party","Parti Vert",N,N,12
+59039,"Vancouver Quadra","Vancouver Quadra"," 31","Vancouver",N,N,"",1,513,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+59039,"Vancouver Quadra","Vancouver Quadra"," 31","Vancouver",N,N,"",1,513,"Armstrong","","Brad","Conservative","Conservateur",N,N,24
+59039,"Vancouver Quadra","Vancouver Quadra"," 31","Vancouver",N,N,"",1,513,"Murray","","Joyce","Liberal","Libéral",Y,Y,72
+59039,"Vancouver Quadra","Vancouver Quadra"," 31","Vancouver",N,N,"",1,513,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 31","Vancouver",N,N,"",1,513,"Singh","","Devyani","Green Party","Parti Vert",N,N,23
+59039,"Vancouver Quadra","Vancouver Quadra"," 32","Vancouver",N,N,"",0,570,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59039,"Vancouver Quadra","Vancouver Quadra"," 32","Vancouver",N,N,"",0,570,"Armstrong","","Brad","Conservative","Conservateur",N,N,30
+59039,"Vancouver Quadra","Vancouver Quadra"," 32","Vancouver",N,N,"",0,570,"Murray","","Joyce","Liberal","Libéral",Y,Y,52
+59039,"Vancouver Quadra","Vancouver Quadra"," 32","Vancouver",N,N,"",0,570,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 32","Vancouver",N,N,"",0,570,"Singh","","Devyani","Green Party","Parti Vert",N,N,14
+59039,"Vancouver Quadra","Vancouver Quadra"," 33","Vancouver",N,N,"",2,527,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59039,"Vancouver Quadra","Vancouver Quadra"," 33","Vancouver",N,N,"",2,527,"Armstrong","","Brad","Conservative","Conservateur",N,N,29
+59039,"Vancouver Quadra","Vancouver Quadra"," 33","Vancouver",N,N,"",2,527,"Murray","","Joyce","Liberal","Libéral",Y,Y,63
+59039,"Vancouver Quadra","Vancouver Quadra"," 33","Vancouver",N,N,"",2,527,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 33","Vancouver",N,N,"",2,527,"Singh","","Devyani","Green Party","Parti Vert",N,N,7
+59039,"Vancouver Quadra","Vancouver Quadra"," 34","Vancouver",N,N,"",1,539,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59039,"Vancouver Quadra","Vancouver Quadra"," 34","Vancouver",N,N,"",1,539,"Armstrong","","Brad","Conservative","Conservateur",N,N,44
+59039,"Vancouver Quadra","Vancouver Quadra"," 34","Vancouver",N,N,"",1,539,"Murray","","Joyce","Liberal","Libéral",Y,Y,59
+59039,"Vancouver Quadra","Vancouver Quadra"," 34","Vancouver",N,N,"",1,539,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,1
+59039,"Vancouver Quadra","Vancouver Quadra"," 34","Vancouver",N,N,"",1,539,"Singh","","Devyani","Green Party","Parti Vert",N,N,7
+59039,"Vancouver Quadra","Vancouver Quadra"," 35","Vancouver",N,N,"",0,419,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59039,"Vancouver Quadra","Vancouver Quadra"," 35","Vancouver",N,N,"",0,419,"Armstrong","","Brad","Conservative","Conservateur",N,N,27
+59039,"Vancouver Quadra","Vancouver Quadra"," 35","Vancouver",N,N,"",0,419,"Murray","","Joyce","Liberal","Libéral",Y,Y,63
+59039,"Vancouver Quadra","Vancouver Quadra"," 35","Vancouver",N,N,"",0,419,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,2
+59039,"Vancouver Quadra","Vancouver Quadra"," 35","Vancouver",N,N,"",0,419,"Singh","","Devyani","Green Party","Parti Vert",N,N,11
+59039,"Vancouver Quadra","Vancouver Quadra"," 36","Vancouver",N,N,"",2,465,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59039,"Vancouver Quadra","Vancouver Quadra"," 36","Vancouver",N,N,"",2,465,"Armstrong","","Brad","Conservative","Conservateur",N,N,35
+59039,"Vancouver Quadra","Vancouver Quadra"," 36","Vancouver",N,N,"",2,465,"Murray","","Joyce","Liberal","Libéral",Y,Y,58
+59039,"Vancouver Quadra","Vancouver Quadra"," 36","Vancouver",N,N,"",2,465,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,6
+59039,"Vancouver Quadra","Vancouver Quadra"," 36","Vancouver",N,N,"",2,465,"Singh","","Devyani","Green Party","Parti Vert",N,N,20
+59039,"Vancouver Quadra","Vancouver Quadra"," 37","Vancouver",N,N,"",0,423,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+59039,"Vancouver Quadra","Vancouver Quadra"," 37","Vancouver",N,N,"",0,423,"Armstrong","","Brad","Conservative","Conservateur",N,N,28
+59039,"Vancouver Quadra","Vancouver Quadra"," 37","Vancouver",N,N,"",0,423,"Murray","","Joyce","Liberal","Libéral",Y,Y,63
+59039,"Vancouver Quadra","Vancouver Quadra"," 37","Vancouver",N,N,"",0,423,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,6
+59039,"Vancouver Quadra","Vancouver Quadra"," 37","Vancouver",N,N,"",0,423,"Singh","","Devyani","Green Party","Parti Vert",N,N,13
+59039,"Vancouver Quadra","Vancouver Quadra"," 38","Vancouver",N,N,"",0,502,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59039,"Vancouver Quadra","Vancouver Quadra"," 38","Vancouver",N,N,"",0,502,"Armstrong","","Brad","Conservative","Conservateur",N,N,41
+59039,"Vancouver Quadra","Vancouver Quadra"," 38","Vancouver",N,N,"",0,502,"Murray","","Joyce","Liberal","Libéral",Y,Y,77
+59039,"Vancouver Quadra","Vancouver Quadra"," 38","Vancouver",N,N,"",0,502,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 38","Vancouver",N,N,"",0,502,"Singh","","Devyani","Green Party","Parti Vert",N,N,23
+59039,"Vancouver Quadra","Vancouver Quadra"," 39","Vancouver",N,N,"",0,517,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59039,"Vancouver Quadra","Vancouver Quadra"," 39","Vancouver",N,N,"",0,517,"Armstrong","","Brad","Conservative","Conservateur",N,N,27
+59039,"Vancouver Quadra","Vancouver Quadra"," 39","Vancouver",N,N,"",0,517,"Murray","","Joyce","Liberal","Libéral",Y,Y,83
+59039,"Vancouver Quadra","Vancouver Quadra"," 39","Vancouver",N,N,"",0,517,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,8
+59039,"Vancouver Quadra","Vancouver Quadra"," 39","Vancouver",N,N,"",0,517,"Singh","","Devyani","Green Party","Parti Vert",N,N,14
+59039,"Vancouver Quadra","Vancouver Quadra"," 40","Vancouver",N,N,"",0,463,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+59039,"Vancouver Quadra","Vancouver Quadra"," 40","Vancouver",N,N,"",0,463,"Armstrong","","Brad","Conservative","Conservateur",N,N,36
+59039,"Vancouver Quadra","Vancouver Quadra"," 40","Vancouver",N,N,"",0,463,"Murray","","Joyce","Liberal","Libéral",Y,Y,61
+59039,"Vancouver Quadra","Vancouver Quadra"," 40","Vancouver",N,N,"",0,463,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 40","Vancouver",N,N,"",0,463,"Singh","","Devyani","Green Party","Parti Vert",N,N,19
+59039,"Vancouver Quadra","Vancouver Quadra"," 41","Vancouver",N,N,"",1,438,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+59039,"Vancouver Quadra","Vancouver Quadra"," 41","Vancouver",N,N,"",1,438,"Armstrong","","Brad","Conservative","Conservateur",N,N,28
+59039,"Vancouver Quadra","Vancouver Quadra"," 41","Vancouver",N,N,"",1,438,"Murray","","Joyce","Liberal","Libéral",Y,Y,63
+59039,"Vancouver Quadra","Vancouver Quadra"," 41","Vancouver",N,N,"",1,438,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,8
+59039,"Vancouver Quadra","Vancouver Quadra"," 41","Vancouver",N,N,"",1,438,"Singh","","Devyani","Green Party","Parti Vert",N,N,14
+59039,"Vancouver Quadra","Vancouver Quadra"," 42","Vancouver",N,N,"",1,525,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+59039,"Vancouver Quadra","Vancouver Quadra"," 42","Vancouver",N,N,"",1,525,"Armstrong","","Brad","Conservative","Conservateur",N,N,55
+59039,"Vancouver Quadra","Vancouver Quadra"," 42","Vancouver",N,N,"",1,525,"Murray","","Joyce","Liberal","Libéral",Y,Y,101
+59039,"Vancouver Quadra","Vancouver Quadra"," 42","Vancouver",N,N,"",1,525,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,1
+59039,"Vancouver Quadra","Vancouver Quadra"," 42","Vancouver",N,N,"",1,525,"Singh","","Devyani","Green Party","Parti Vert",N,N,11
+59039,"Vancouver Quadra","Vancouver Quadra"," 43","Vancouver",N,N,"",1,506,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+59039,"Vancouver Quadra","Vancouver Quadra"," 43","Vancouver",N,N,"",1,506,"Armstrong","","Brad","Conservative","Conservateur",N,N,33
+59039,"Vancouver Quadra","Vancouver Quadra"," 43","Vancouver",N,N,"",1,506,"Murray","","Joyce","Liberal","Libéral",Y,Y,57
+59039,"Vancouver Quadra","Vancouver Quadra"," 43","Vancouver",N,N,"",1,506,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,10
+59039,"Vancouver Quadra","Vancouver Quadra"," 43","Vancouver",N,N,"",1,506,"Singh","","Devyani","Green Party","Parti Vert",N,N,10
+59039,"Vancouver Quadra","Vancouver Quadra"," 44","Vancouver",N,N,"",0,547,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+59039,"Vancouver Quadra","Vancouver Quadra"," 44","Vancouver",N,N,"",0,547,"Armstrong","","Brad","Conservative","Conservateur",N,N,35
+59039,"Vancouver Quadra","Vancouver Quadra"," 44","Vancouver",N,N,"",0,547,"Murray","","Joyce","Liberal","Libéral",Y,Y,79
+59039,"Vancouver Quadra","Vancouver Quadra"," 44","Vancouver",N,N,"",0,547,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 44","Vancouver",N,N,"",0,547,"Singh","","Devyani","Green Party","Parti Vert",N,N,13
+59039,"Vancouver Quadra","Vancouver Quadra"," 45","Vancouver",N,N,"",1,511,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59039,"Vancouver Quadra","Vancouver Quadra"," 45","Vancouver",N,N,"",1,511,"Armstrong","","Brad","Conservative","Conservateur",N,N,49
+59039,"Vancouver Quadra","Vancouver Quadra"," 45","Vancouver",N,N,"",1,511,"Murray","","Joyce","Liberal","Libéral",Y,Y,66
+59039,"Vancouver Quadra","Vancouver Quadra"," 45","Vancouver",N,N,"",1,511,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,6
+59039,"Vancouver Quadra","Vancouver Quadra"," 45","Vancouver",N,N,"",1,511,"Singh","","Devyani","Green Party","Parti Vert",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 46","Vancouver",N,N,"",2,548,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59039,"Vancouver Quadra","Vancouver Quadra"," 46","Vancouver",N,N,"",2,548,"Armstrong","","Brad","Conservative","Conservateur",N,N,64
+59039,"Vancouver Quadra","Vancouver Quadra"," 46","Vancouver",N,N,"",2,548,"Murray","","Joyce","Liberal","Libéral",Y,Y,88
+59039,"Vancouver Quadra","Vancouver Quadra"," 46","Vancouver",N,N,"",2,548,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 46","Vancouver",N,N,"",2,548,"Singh","","Devyani","Green Party","Parti Vert",N,N,22
+59039,"Vancouver Quadra","Vancouver Quadra"," 47","Vancouver",N,N,"",0,560,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+59039,"Vancouver Quadra","Vancouver Quadra"," 47","Vancouver",N,N,"",0,560,"Armstrong","","Brad","Conservative","Conservateur",N,N,52
+59039,"Vancouver Quadra","Vancouver Quadra"," 47","Vancouver",N,N,"",0,560,"Murray","","Joyce","Liberal","Libéral",Y,Y,123
+59039,"Vancouver Quadra","Vancouver Quadra"," 47","Vancouver",N,N,"",0,560,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 47","Vancouver",N,N,"",0,560,"Singh","","Devyani","Green Party","Parti Vert",N,N,24
+59039,"Vancouver Quadra","Vancouver Quadra"," 48","Vancouver",N,N,"",0,547,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+59039,"Vancouver Quadra","Vancouver Quadra"," 48","Vancouver",N,N,"",0,547,"Armstrong","","Brad","Conservative","Conservateur",N,N,50
+59039,"Vancouver Quadra","Vancouver Quadra"," 48","Vancouver",N,N,"",0,547,"Murray","","Joyce","Liberal","Libéral",Y,Y,66
+59039,"Vancouver Quadra","Vancouver Quadra"," 48","Vancouver",N,N,"",0,547,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 48","Vancouver",N,N,"",0,547,"Singh","","Devyani","Green Party","Parti Vert",N,N,15
+59039,"Vancouver Quadra","Vancouver Quadra"," 49","Metro Vancouver A",N,N,"",1,337,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59039,"Vancouver Quadra","Vancouver Quadra"," 49","Metro Vancouver A",N,N,"",1,337,"Armstrong","","Brad","Conservative","Conservateur",N,N,27
+59039,"Vancouver Quadra","Vancouver Quadra"," 49","Metro Vancouver A",N,N,"",1,337,"Murray","","Joyce","Liberal","Libéral",Y,Y,28
+59039,"Vancouver Quadra","Vancouver Quadra"," 49","Metro Vancouver A",N,N,"",1,337,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,5
+59039,"Vancouver Quadra","Vancouver Quadra"," 49","Metro Vancouver A",N,N,"",1,337,"Singh","","Devyani","Green Party","Parti Vert",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 50","Metro Vancouver A",Y,N,"",0,0,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 50","Metro Vancouver A",Y,N,"",0,0,"Armstrong","","Brad","Conservative","Conservateur",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 50","Metro Vancouver A",Y,N,"",0,0,"Murray","","Joyce","Liberal","Libéral",Y,Y,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 50","Metro Vancouver A",Y,N,"",0,0,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 50","Metro Vancouver A",Y,N,"",0,0,"Singh","","Devyani","Green Party","Parti Vert",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 51","Metro Vancouver A",N,N,"",0,364,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59039,"Vancouver Quadra","Vancouver Quadra"," 51","Metro Vancouver A",N,N,"",0,364,"Armstrong","","Brad","Conservative","Conservateur",N,N,32
+59039,"Vancouver Quadra","Vancouver Quadra"," 51","Metro Vancouver A",N,N,"",0,364,"Murray","","Joyce","Liberal","Libéral",Y,Y,38
+59039,"Vancouver Quadra","Vancouver Quadra"," 51","Metro Vancouver A",N,N,"",0,364,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,1
+59039,"Vancouver Quadra","Vancouver Quadra"," 51","Metro Vancouver A",N,N,"",0,364,"Singh","","Devyani","Green Party","Parti Vert",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 52","Metro Vancouver A",N,N,"",0,743,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59039,"Vancouver Quadra","Vancouver Quadra"," 52","Metro Vancouver A",N,N,"",0,743,"Armstrong","","Brad","Conservative","Conservateur",N,N,35
+59039,"Vancouver Quadra","Vancouver Quadra"," 52","Metro Vancouver A",N,N,"",0,743,"Murray","","Joyce","Liberal","Libéral",Y,Y,75
+59039,"Vancouver Quadra","Vancouver Quadra"," 52","Metro Vancouver A",N,N,"",0,743,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,7
+59039,"Vancouver Quadra","Vancouver Quadra"," 52","Metro Vancouver A",N,N,"",0,743,"Singh","","Devyani","Green Party","Parti Vert",N,N,6
+59039,"Vancouver Quadra","Vancouver Quadra"," 53A","Metro Vancouver A",N,N,"",0,417,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59039,"Vancouver Quadra","Vancouver Quadra"," 53A","Metro Vancouver A",N,N,"",0,417,"Armstrong","","Brad","Conservative","Conservateur",N,N,25
+59039,"Vancouver Quadra","Vancouver Quadra"," 53A","Metro Vancouver A",N,N,"",0,417,"Murray","","Joyce","Liberal","Libéral",Y,Y,35
+59039,"Vancouver Quadra","Vancouver Quadra"," 53A","Metro Vancouver A",N,N,"",0,417,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 53A","Metro Vancouver A",N,N,"",0,417,"Singh","","Devyani","Green Party","Parti Vert",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 53B","Metro Vancouver A",N,N,"401",0,48,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 53B","Metro Vancouver A",N,N,"401",0,48,"Armstrong","","Brad","Conservative","Conservateur",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 53B","Metro Vancouver A",N,N,"401",0,48,"Murray","","Joyce","Liberal","Libéral",Y,Y,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 53B","Metro Vancouver A",N,N,"401",0,48,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 53B","Metro Vancouver A",N,N,"401",0,48,"Singh","","Devyani","Green Party","Parti Vert",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 54","Metro Vancouver A",N,N,"",0,727,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+59039,"Vancouver Quadra","Vancouver Quadra"," 54","Metro Vancouver A",N,N,"",0,727,"Armstrong","","Brad","Conservative","Conservateur",N,N,51
+59039,"Vancouver Quadra","Vancouver Quadra"," 54","Metro Vancouver A",N,N,"",0,727,"Murray","","Joyce","Liberal","Libéral",Y,Y,98
+59039,"Vancouver Quadra","Vancouver Quadra"," 54","Metro Vancouver A",N,N,"",0,727,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,2
+59039,"Vancouver Quadra","Vancouver Quadra"," 54","Metro Vancouver A",N,N,"",0,727,"Singh","","Devyani","Green Party","Parti Vert",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 55","Metro Vancouver A",N,N,"",1,938,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,111
+59039,"Vancouver Quadra","Vancouver Quadra"," 55","Metro Vancouver A",N,N,"",1,938,"Armstrong","","Brad","Conservative","Conservateur",N,N,58
+59039,"Vancouver Quadra","Vancouver Quadra"," 55","Metro Vancouver A",N,N,"",1,938,"Murray","","Joyce","Liberal","Libéral",Y,Y,110
+59039,"Vancouver Quadra","Vancouver Quadra"," 55","Metro Vancouver A",N,N,"",1,938,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,6
+59039,"Vancouver Quadra","Vancouver Quadra"," 55","Metro Vancouver A",N,N,"",1,938,"Singh","","Devyani","Green Party","Parti Vert",N,N,14
+59039,"Vancouver Quadra","Vancouver Quadra"," 56","Metro Vancouver A",N,N,"",0,425,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+59039,"Vancouver Quadra","Vancouver Quadra"," 56","Metro Vancouver A",N,N,"",0,425,"Armstrong","","Brad","Conservative","Conservateur",N,N,24
+59039,"Vancouver Quadra","Vancouver Quadra"," 56","Metro Vancouver A",N,N,"",0,425,"Murray","","Joyce","Liberal","Libéral",Y,Y,75
+59039,"Vancouver Quadra","Vancouver Quadra"," 56","Metro Vancouver A",N,N,"",0,425,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,2
+59039,"Vancouver Quadra","Vancouver Quadra"," 56","Metro Vancouver A",N,N,"",0,425,"Singh","","Devyani","Green Party","Parti Vert",N,N,13
+59039,"Vancouver Quadra","Vancouver Quadra"," 57","Vancouver",N,N,"",1,561,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+59039,"Vancouver Quadra","Vancouver Quadra"," 57","Vancouver",N,N,"",1,561,"Armstrong","","Brad","Conservative","Conservateur",N,N,23
+59039,"Vancouver Quadra","Vancouver Quadra"," 57","Vancouver",N,N,"",1,561,"Murray","","Joyce","Liberal","Libéral",Y,Y,77
+59039,"Vancouver Quadra","Vancouver Quadra"," 57","Vancouver",N,N,"",1,561,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,2
+59039,"Vancouver Quadra","Vancouver Quadra"," 57","Vancouver",N,N,"",1,561,"Singh","","Devyani","Green Party","Parti Vert",N,N,14
+59039,"Vancouver Quadra","Vancouver Quadra"," 58","Vancouver",N,N,"",1,586,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+59039,"Vancouver Quadra","Vancouver Quadra"," 58","Vancouver",N,N,"",1,586,"Armstrong","","Brad","Conservative","Conservateur",N,N,41
+59039,"Vancouver Quadra","Vancouver Quadra"," 58","Vancouver",N,N,"",1,586,"Murray","","Joyce","Liberal","Libéral",Y,Y,73
+59039,"Vancouver Quadra","Vancouver Quadra"," 58","Vancouver",N,N,"",1,586,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 58","Vancouver",N,N,"",1,586,"Singh","","Devyani","Green Party","Parti Vert",N,N,12
+59039,"Vancouver Quadra","Vancouver Quadra"," 59","Vancouver",N,N,"",0,587,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+59039,"Vancouver Quadra","Vancouver Quadra"," 59","Vancouver",N,N,"",0,587,"Armstrong","","Brad","Conservative","Conservateur",N,N,37
+59039,"Vancouver Quadra","Vancouver Quadra"," 59","Vancouver",N,N,"",0,587,"Murray","","Joyce","Liberal","Libéral",Y,Y,67
+59039,"Vancouver Quadra","Vancouver Quadra"," 59","Vancouver",N,N,"",0,587,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 59","Vancouver",N,N,"",0,587,"Singh","","Devyani","Green Party","Parti Vert",N,N,19
+59039,"Vancouver Quadra","Vancouver Quadra"," 60","Vancouver",N,N,"",2,459,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59039,"Vancouver Quadra","Vancouver Quadra"," 60","Vancouver",N,N,"",2,459,"Armstrong","","Brad","Conservative","Conservateur",N,N,53
+59039,"Vancouver Quadra","Vancouver Quadra"," 60","Vancouver",N,N,"",2,459,"Murray","","Joyce","Liberal","Libéral",Y,Y,70
+59039,"Vancouver Quadra","Vancouver Quadra"," 60","Vancouver",N,N,"",2,459,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,2
+59039,"Vancouver Quadra","Vancouver Quadra"," 60","Vancouver",N,N,"",2,459,"Singh","","Devyani","Green Party","Parti Vert",N,N,9
+59039,"Vancouver Quadra","Vancouver Quadra"," 61","Vancouver",N,N,"",0,515,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+59039,"Vancouver Quadra","Vancouver Quadra"," 61","Vancouver",N,N,"",0,515,"Armstrong","","Brad","Conservative","Conservateur",N,N,29
+59039,"Vancouver Quadra","Vancouver Quadra"," 61","Vancouver",N,N,"",0,515,"Murray","","Joyce","Liberal","Libéral",Y,Y,53
+59039,"Vancouver Quadra","Vancouver Quadra"," 61","Vancouver",N,N,"",0,515,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,8
+59039,"Vancouver Quadra","Vancouver Quadra"," 61","Vancouver",N,N,"",0,515,"Singh","","Devyani","Green Party","Parti Vert",N,N,16
+59039,"Vancouver Quadra","Vancouver Quadra"," 62","Vancouver",N,N,"",0,539,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59039,"Vancouver Quadra","Vancouver Quadra"," 62","Vancouver",N,N,"",0,539,"Armstrong","","Brad","Conservative","Conservateur",N,N,57
+59039,"Vancouver Quadra","Vancouver Quadra"," 62","Vancouver",N,N,"",0,539,"Murray","","Joyce","Liberal","Libéral",Y,Y,74
+59039,"Vancouver Quadra","Vancouver Quadra"," 62","Vancouver",N,N,"",0,539,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,2
+59039,"Vancouver Quadra","Vancouver Quadra"," 62","Vancouver",N,N,"",0,539,"Singh","","Devyani","Green Party","Parti Vert",N,N,9
+59039,"Vancouver Quadra","Vancouver Quadra"," 63","Vancouver",N,N,"",0,524,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+59039,"Vancouver Quadra","Vancouver Quadra"," 63","Vancouver",N,N,"",0,524,"Armstrong","","Brad","Conservative","Conservateur",N,N,35
+59039,"Vancouver Quadra","Vancouver Quadra"," 63","Vancouver",N,N,"",0,524,"Murray","","Joyce","Liberal","Libéral",Y,Y,75
+59039,"Vancouver Quadra","Vancouver Quadra"," 63","Vancouver",N,N,"",0,524,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,5
+59039,"Vancouver Quadra","Vancouver Quadra"," 63","Vancouver",N,N,"",0,524,"Singh","","Devyani","Green Party","Parti Vert",N,N,16
+59039,"Vancouver Quadra","Vancouver Quadra"," 64","Vancouver",N,N,"",0,559,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+59039,"Vancouver Quadra","Vancouver Quadra"," 64","Vancouver",N,N,"",0,559,"Armstrong","","Brad","Conservative","Conservateur",N,N,38
+59039,"Vancouver Quadra","Vancouver Quadra"," 64","Vancouver",N,N,"",0,559,"Murray","","Joyce","Liberal","Libéral",Y,Y,88
+59039,"Vancouver Quadra","Vancouver Quadra"," 64","Vancouver",N,N,"",0,559,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,9
+59039,"Vancouver Quadra","Vancouver Quadra"," 64","Vancouver",N,N,"",0,559,"Singh","","Devyani","Green Party","Parti Vert",N,N,15
+59039,"Vancouver Quadra","Vancouver Quadra"," 65","Vancouver",N,N,"",0,556,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59039,"Vancouver Quadra","Vancouver Quadra"," 65","Vancouver",N,N,"",0,556,"Armstrong","","Brad","Conservative","Conservateur",N,N,46
+59039,"Vancouver Quadra","Vancouver Quadra"," 65","Vancouver",N,N,"",0,556,"Murray","","Joyce","Liberal","Libéral",Y,Y,86
+59039,"Vancouver Quadra","Vancouver Quadra"," 65","Vancouver",N,N,"",0,556,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,5
+59039,"Vancouver Quadra","Vancouver Quadra"," 65","Vancouver",N,N,"",0,556,"Singh","","Devyani","Green Party","Parti Vert",N,N,7
+59039,"Vancouver Quadra","Vancouver Quadra"," 66","Vancouver",N,N,"",0,622,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+59039,"Vancouver Quadra","Vancouver Quadra"," 66","Vancouver",N,N,"",0,622,"Armstrong","","Brad","Conservative","Conservateur",N,N,50
+59039,"Vancouver Quadra","Vancouver Quadra"," 66","Vancouver",N,N,"",0,622,"Murray","","Joyce","Liberal","Libéral",Y,Y,92
+59039,"Vancouver Quadra","Vancouver Quadra"," 66","Vancouver",N,N,"",0,622,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 66","Vancouver",N,N,"",0,622,"Singh","","Devyani","Green Party","Parti Vert",N,N,17
+59039,"Vancouver Quadra","Vancouver Quadra"," 67","Vancouver",N,N,"",0,466,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59039,"Vancouver Quadra","Vancouver Quadra"," 67","Vancouver",N,N,"",0,466,"Armstrong","","Brad","Conservative","Conservateur",N,N,38
+59039,"Vancouver Quadra","Vancouver Quadra"," 67","Vancouver",N,N,"",0,466,"Murray","","Joyce","Liberal","Libéral",Y,Y,65
+59039,"Vancouver Quadra","Vancouver Quadra"," 67","Vancouver",N,N,"",0,466,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,9
+59039,"Vancouver Quadra","Vancouver Quadra"," 67","Vancouver",N,N,"",0,466,"Singh","","Devyani","Green Party","Parti Vert",N,N,16
+59039,"Vancouver Quadra","Vancouver Quadra"," 68","Vancouver",N,N,"",0,440,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+59039,"Vancouver Quadra","Vancouver Quadra"," 68","Vancouver",N,N,"",0,440,"Armstrong","","Brad","Conservative","Conservateur",N,N,29
+59039,"Vancouver Quadra","Vancouver Quadra"," 68","Vancouver",N,N,"",0,440,"Murray","","Joyce","Liberal","Libéral",Y,Y,70
+59039,"Vancouver Quadra","Vancouver Quadra"," 68","Vancouver",N,N,"",0,440,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,10
+59039,"Vancouver Quadra","Vancouver Quadra"," 68","Vancouver",N,N,"",0,440,"Singh","","Devyani","Green Party","Parti Vert",N,N,11
+59039,"Vancouver Quadra","Vancouver Quadra"," 69","Vancouver",N,N,"",1,415,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+59039,"Vancouver Quadra","Vancouver Quadra"," 69","Vancouver",N,N,"",1,415,"Armstrong","","Brad","Conservative","Conservateur",N,N,24
+59039,"Vancouver Quadra","Vancouver Quadra"," 69","Vancouver",N,N,"",1,415,"Murray","","Joyce","Liberal","Libéral",Y,Y,54
+59039,"Vancouver Quadra","Vancouver Quadra"," 69","Vancouver",N,N,"",1,415,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 69","Vancouver",N,N,"",1,415,"Singh","","Devyani","Green Party","Parti Vert",N,N,23
+59039,"Vancouver Quadra","Vancouver Quadra"," 70","Vancouver",N,N,"",0,476,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+59039,"Vancouver Quadra","Vancouver Quadra"," 70","Vancouver",N,N,"",0,476,"Armstrong","","Brad","Conservative","Conservateur",N,N,27
+59039,"Vancouver Quadra","Vancouver Quadra"," 70","Vancouver",N,N,"",0,476,"Murray","","Joyce","Liberal","Libéral",Y,Y,59
+59039,"Vancouver Quadra","Vancouver Quadra"," 70","Vancouver",N,N,"",0,476,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,1
+59039,"Vancouver Quadra","Vancouver Quadra"," 70","Vancouver",N,N,"",0,476,"Singh","","Devyani","Green Party","Parti Vert",N,N,16
+59039,"Vancouver Quadra","Vancouver Quadra"," 71","Vancouver",N,N,"",0,504,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59039,"Vancouver Quadra","Vancouver Quadra"," 71","Vancouver",N,N,"",0,504,"Armstrong","","Brad","Conservative","Conservateur",N,N,25
+59039,"Vancouver Quadra","Vancouver Quadra"," 71","Vancouver",N,N,"",0,504,"Murray","","Joyce","Liberal","Libéral",Y,Y,64
+59039,"Vancouver Quadra","Vancouver Quadra"," 71","Vancouver",N,N,"",0,504,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,8
+59039,"Vancouver Quadra","Vancouver Quadra"," 71","Vancouver",N,N,"",0,504,"Singh","","Devyani","Green Party","Parti Vert",N,N,13
+59039,"Vancouver Quadra","Vancouver Quadra"," 72","Vancouver",N,N,"",1,518,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+59039,"Vancouver Quadra","Vancouver Quadra"," 72","Vancouver",N,N,"",1,518,"Armstrong","","Brad","Conservative","Conservateur",N,N,26
+59039,"Vancouver Quadra","Vancouver Quadra"," 72","Vancouver",N,N,"",1,518,"Murray","","Joyce","Liberal","Libéral",Y,Y,83
+59039,"Vancouver Quadra","Vancouver Quadra"," 72","Vancouver",N,N,"",1,518,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 72","Vancouver",N,N,"",1,518,"Singh","","Devyani","Green Party","Parti Vert",N,N,15
+59039,"Vancouver Quadra","Vancouver Quadra"," 73","Vancouver",N,N,"",0,431,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+59039,"Vancouver Quadra","Vancouver Quadra"," 73","Vancouver",N,N,"",0,431,"Armstrong","","Brad","Conservative","Conservateur",N,N,20
+59039,"Vancouver Quadra","Vancouver Quadra"," 73","Vancouver",N,N,"",0,431,"Murray","","Joyce","Liberal","Libéral",Y,Y,53
+59039,"Vancouver Quadra","Vancouver Quadra"," 73","Vancouver",N,N,"",0,431,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 73","Vancouver",N,N,"",0,431,"Singh","","Devyani","Green Party","Parti Vert",N,N,12
+59039,"Vancouver Quadra","Vancouver Quadra"," 74","Vancouver",N,N,"",0,440,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+59039,"Vancouver Quadra","Vancouver Quadra"," 74","Vancouver",N,N,"",0,440,"Armstrong","","Brad","Conservative","Conservateur",N,N,29
+59039,"Vancouver Quadra","Vancouver Quadra"," 74","Vancouver",N,N,"",0,440,"Murray","","Joyce","Liberal","Libéral",Y,Y,54
+59039,"Vancouver Quadra","Vancouver Quadra"," 74","Vancouver",N,N,"",0,440,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,5
+59039,"Vancouver Quadra","Vancouver Quadra"," 74","Vancouver",N,N,"",0,440,"Singh","","Devyani","Green Party","Parti Vert",N,N,11
+59039,"Vancouver Quadra","Vancouver Quadra"," 75","Vancouver",N,N,"",1,471,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+59039,"Vancouver Quadra","Vancouver Quadra"," 75","Vancouver",N,N,"",1,471,"Armstrong","","Brad","Conservative","Conservateur",N,N,31
+59039,"Vancouver Quadra","Vancouver Quadra"," 75","Vancouver",N,N,"",1,471,"Murray","","Joyce","Liberal","Libéral",Y,Y,57
+59039,"Vancouver Quadra","Vancouver Quadra"," 75","Vancouver",N,N,"",1,471,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,13
+59039,"Vancouver Quadra","Vancouver Quadra"," 75","Vancouver",N,N,"",1,471,"Singh","","Devyani","Green Party","Parti Vert",N,N,12
+59039,"Vancouver Quadra","Vancouver Quadra"," 76","Vancouver",N,N,"",0,485,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59039,"Vancouver Quadra","Vancouver Quadra"," 76","Vancouver",N,N,"",0,485,"Armstrong","","Brad","Conservative","Conservateur",N,N,28
+59039,"Vancouver Quadra","Vancouver Quadra"," 76","Vancouver",N,N,"",0,485,"Murray","","Joyce","Liberal","Libéral",Y,Y,75
+59039,"Vancouver Quadra","Vancouver Quadra"," 76","Vancouver",N,N,"",0,485,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 76","Vancouver",N,N,"",0,485,"Singh","","Devyani","Green Party","Parti Vert",N,N,12
+59039,"Vancouver Quadra","Vancouver Quadra"," 77","Vancouver",N,N,"",0,547,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+59039,"Vancouver Quadra","Vancouver Quadra"," 77","Vancouver",N,N,"",0,547,"Armstrong","","Brad","Conservative","Conservateur",N,N,25
+59039,"Vancouver Quadra","Vancouver Quadra"," 77","Vancouver",N,N,"",0,547,"Murray","","Joyce","Liberal","Libéral",Y,Y,69
+59039,"Vancouver Quadra","Vancouver Quadra"," 77","Vancouver",N,N,"",0,547,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,5
+59039,"Vancouver Quadra","Vancouver Quadra"," 77","Vancouver",N,N,"",0,547,"Singh","","Devyani","Green Party","Parti Vert",N,N,19
+59039,"Vancouver Quadra","Vancouver Quadra"," 78","Vancouver",N,N,"",1,563,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+59039,"Vancouver Quadra","Vancouver Quadra"," 78","Vancouver",N,N,"",1,563,"Armstrong","","Brad","Conservative","Conservateur",N,N,29
+59039,"Vancouver Quadra","Vancouver Quadra"," 78","Vancouver",N,N,"",1,563,"Murray","","Joyce","Liberal","Libéral",Y,Y,67
+59039,"Vancouver Quadra","Vancouver Quadra"," 78","Vancouver",N,N,"",1,563,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,5
+59039,"Vancouver Quadra","Vancouver Quadra"," 78","Vancouver",N,N,"",1,563,"Singh","","Devyani","Green Party","Parti Vert",N,N,14
+59039,"Vancouver Quadra","Vancouver Quadra"," 79","Vancouver",N,N,"",0,534,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+59039,"Vancouver Quadra","Vancouver Quadra"," 79","Vancouver",N,N,"",0,534,"Armstrong","","Brad","Conservative","Conservateur",N,N,26
+59039,"Vancouver Quadra","Vancouver Quadra"," 79","Vancouver",N,N,"",0,534,"Murray","","Joyce","Liberal","Libéral",Y,Y,53
+59039,"Vancouver Quadra","Vancouver Quadra"," 79","Vancouver",N,N,"",0,534,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,6
+59039,"Vancouver Quadra","Vancouver Quadra"," 79","Vancouver",N,N,"",0,534,"Singh","","Devyani","Green Party","Parti Vert",N,N,11
+59039,"Vancouver Quadra","Vancouver Quadra"," 80","Vancouver",N,N,"",1,500,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+59039,"Vancouver Quadra","Vancouver Quadra"," 80","Vancouver",N,N,"",1,500,"Armstrong","","Brad","Conservative","Conservateur",N,N,30
+59039,"Vancouver Quadra","Vancouver Quadra"," 80","Vancouver",N,N,"",1,500,"Murray","","Joyce","Liberal","Libéral",Y,Y,63
+59039,"Vancouver Quadra","Vancouver Quadra"," 80","Vancouver",N,N,"",1,500,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 80","Vancouver",N,N,"",1,500,"Singh","","Devyani","Green Party","Parti Vert",N,N,11
+59039,"Vancouver Quadra","Vancouver Quadra"," 81","Vancouver",N,N,"",3,576,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+59039,"Vancouver Quadra","Vancouver Quadra"," 81","Vancouver",N,N,"",3,576,"Armstrong","","Brad","Conservative","Conservateur",N,N,47
+59039,"Vancouver Quadra","Vancouver Quadra"," 81","Vancouver",N,N,"",3,576,"Murray","","Joyce","Liberal","Libéral",Y,Y,67
+59039,"Vancouver Quadra","Vancouver Quadra"," 81","Vancouver",N,N,"",3,576,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,6
+59039,"Vancouver Quadra","Vancouver Quadra"," 81","Vancouver",N,N,"",3,576,"Singh","","Devyani","Green Party","Parti Vert",N,N,7
+59039,"Vancouver Quadra","Vancouver Quadra"," 82","Vancouver",N,N,"",1,543,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59039,"Vancouver Quadra","Vancouver Quadra"," 82","Vancouver",N,N,"",1,543,"Armstrong","","Brad","Conservative","Conservateur",N,N,41
+59039,"Vancouver Quadra","Vancouver Quadra"," 82","Vancouver",N,N,"",1,543,"Murray","","Joyce","Liberal","Libéral",Y,Y,58
+59039,"Vancouver Quadra","Vancouver Quadra"," 82","Vancouver",N,N,"",1,543,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,5
+59039,"Vancouver Quadra","Vancouver Quadra"," 82","Vancouver",N,N,"",1,543,"Singh","","Devyani","Green Party","Parti Vert",N,N,13
+59039,"Vancouver Quadra","Vancouver Quadra"," 83","Vancouver",N,N,"",0,535,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+59039,"Vancouver Quadra","Vancouver Quadra"," 83","Vancouver",N,N,"",0,535,"Armstrong","","Brad","Conservative","Conservateur",N,N,38
+59039,"Vancouver Quadra","Vancouver Quadra"," 83","Vancouver",N,N,"",0,535,"Murray","","Joyce","Liberal","Libéral",Y,Y,79
+59039,"Vancouver Quadra","Vancouver Quadra"," 83","Vancouver",N,N,"",0,535,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,1
+59039,"Vancouver Quadra","Vancouver Quadra"," 83","Vancouver",N,N,"",0,535,"Singh","","Devyani","Green Party","Parti Vert",N,N,12
+59039,"Vancouver Quadra","Vancouver Quadra"," 84","Vancouver",N,N,"",0,535,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+59039,"Vancouver Quadra","Vancouver Quadra"," 84","Vancouver",N,N,"",0,535,"Armstrong","","Brad","Conservative","Conservateur",N,N,40
+59039,"Vancouver Quadra","Vancouver Quadra"," 84","Vancouver",N,N,"",0,535,"Murray","","Joyce","Liberal","Libéral",Y,Y,76
+59039,"Vancouver Quadra","Vancouver Quadra"," 84","Vancouver",N,N,"",0,535,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,1
+59039,"Vancouver Quadra","Vancouver Quadra"," 84","Vancouver",N,N,"",0,535,"Singh","","Devyani","Green Party","Parti Vert",N,N,9
+59039,"Vancouver Quadra","Vancouver Quadra"," 85","Vancouver",N,N,"",0,574,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59039,"Vancouver Quadra","Vancouver Quadra"," 85","Vancouver",N,N,"",0,574,"Armstrong","","Brad","Conservative","Conservateur",N,N,90
+59039,"Vancouver Quadra","Vancouver Quadra"," 85","Vancouver",N,N,"",0,574,"Murray","","Joyce","Liberal","Libéral",Y,Y,103
+59039,"Vancouver Quadra","Vancouver Quadra"," 85","Vancouver",N,N,"",0,574,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 85","Vancouver",N,N,"",0,574,"Singh","","Devyani","Green Party","Parti Vert",N,N,19
+59039,"Vancouver Quadra","Vancouver Quadra"," 86","Vancouver",N,N,"",3,500,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59039,"Vancouver Quadra","Vancouver Quadra"," 86","Vancouver",N,N,"",3,500,"Armstrong","","Brad","Conservative","Conservateur",N,N,49
+59039,"Vancouver Quadra","Vancouver Quadra"," 86","Vancouver",N,N,"",3,500,"Murray","","Joyce","Liberal","Libéral",Y,Y,89
+59039,"Vancouver Quadra","Vancouver Quadra"," 86","Vancouver",N,N,"",3,500,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,1
+59039,"Vancouver Quadra","Vancouver Quadra"," 86","Vancouver",N,N,"",3,500,"Singh","","Devyani","Green Party","Parti Vert",N,N,11
+59039,"Vancouver Quadra","Vancouver Quadra"," 87","Vancouver",N,N,"",0,571,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59039,"Vancouver Quadra","Vancouver Quadra"," 87","Vancouver",N,N,"",0,571,"Armstrong","","Brad","Conservative","Conservateur",N,N,62
+59039,"Vancouver Quadra","Vancouver Quadra"," 87","Vancouver",N,N,"",0,571,"Murray","","Joyce","Liberal","Libéral",Y,Y,116
+59039,"Vancouver Quadra","Vancouver Quadra"," 87","Vancouver",N,N,"",0,571,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 87","Vancouver",N,N,"",0,571,"Singh","","Devyani","Green Party","Parti Vert",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 88","Vancouver",N,N,"",0,467,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59039,"Vancouver Quadra","Vancouver Quadra"," 88","Vancouver",N,N,"",0,467,"Armstrong","","Brad","Conservative","Conservateur",N,N,28
+59039,"Vancouver Quadra","Vancouver Quadra"," 88","Vancouver",N,N,"",0,467,"Murray","","Joyce","Liberal","Libéral",Y,Y,62
+59039,"Vancouver Quadra","Vancouver Quadra"," 88","Vancouver",N,N,"",0,467,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 88","Vancouver",N,N,"",0,467,"Singh","","Devyani","Green Party","Parti Vert",N,N,8
+59039,"Vancouver Quadra","Vancouver Quadra"," 89","Vancouver",N,N,"",0,453,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59039,"Vancouver Quadra","Vancouver Quadra"," 89","Vancouver",N,N,"",0,453,"Armstrong","","Brad","Conservative","Conservateur",N,N,18
+59039,"Vancouver Quadra","Vancouver Quadra"," 89","Vancouver",N,N,"",0,453,"Murray","","Joyce","Liberal","Libéral",Y,Y,57
+59039,"Vancouver Quadra","Vancouver Quadra"," 89","Vancouver",N,N,"",0,453,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 89","Vancouver",N,N,"",0,453,"Singh","","Devyani","Green Party","Parti Vert",N,N,15
+59039,"Vancouver Quadra","Vancouver Quadra"," 90","Vancouver",N,N,"",0,516,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59039,"Vancouver Quadra","Vancouver Quadra"," 90","Vancouver",N,N,"",0,516,"Armstrong","","Brad","Conservative","Conservateur",N,N,23
+59039,"Vancouver Quadra","Vancouver Quadra"," 90","Vancouver",N,N,"",0,516,"Murray","","Joyce","Liberal","Libéral",Y,Y,83
+59039,"Vancouver Quadra","Vancouver Quadra"," 90","Vancouver",N,N,"",0,516,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 90","Vancouver",N,N,"",0,516,"Singh","","Devyani","Green Party","Parti Vert",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 91","Vancouver",N,N,"",0,531,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59039,"Vancouver Quadra","Vancouver Quadra"," 91","Vancouver",N,N,"",0,531,"Armstrong","","Brad","Conservative","Conservateur",N,N,56
+59039,"Vancouver Quadra","Vancouver Quadra"," 91","Vancouver",N,N,"",0,531,"Murray","","Joyce","Liberal","Libéral",Y,Y,56
+59039,"Vancouver Quadra","Vancouver Quadra"," 91","Vancouver",N,N,"",0,531,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 91","Vancouver",N,N,"",0,531,"Singh","","Devyani","Green Party","Parti Vert",N,N,10
+59039,"Vancouver Quadra","Vancouver Quadra"," 92","Vancouver",N,N,"",0,583,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59039,"Vancouver Quadra","Vancouver Quadra"," 92","Vancouver",N,N,"",0,583,"Armstrong","","Brad","Conservative","Conservateur",N,N,59
+59039,"Vancouver Quadra","Vancouver Quadra"," 92","Vancouver",N,N,"",0,583,"Murray","","Joyce","Liberal","Libéral",Y,Y,72
+59039,"Vancouver Quadra","Vancouver Quadra"," 92","Vancouver",N,N,"",0,583,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,1
+59039,"Vancouver Quadra","Vancouver Quadra"," 92","Vancouver",N,N,"",0,583,"Singh","","Devyani","Green Party","Parti Vert",N,N,2
+59039,"Vancouver Quadra","Vancouver Quadra"," 93","Vancouver",N,N,"",1,494,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59039,"Vancouver Quadra","Vancouver Quadra"," 93","Vancouver",N,N,"",1,494,"Armstrong","","Brad","Conservative","Conservateur",N,N,64
+59039,"Vancouver Quadra","Vancouver Quadra"," 93","Vancouver",N,N,"",1,494,"Murray","","Joyce","Liberal","Libéral",Y,Y,74
+59039,"Vancouver Quadra","Vancouver Quadra"," 93","Vancouver",N,N,"",1,494,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 93","Vancouver",N,N,"",1,494,"Singh","","Devyani","Green Party","Parti Vert",N,N,11
+59039,"Vancouver Quadra","Vancouver Quadra"," 94","Vancouver",N,N,"",0,600,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+59039,"Vancouver Quadra","Vancouver Quadra"," 94","Vancouver",N,N,"",0,600,"Armstrong","","Brad","Conservative","Conservateur",N,N,60
+59039,"Vancouver Quadra","Vancouver Quadra"," 94","Vancouver",N,N,"",0,600,"Murray","","Joyce","Liberal","Libéral",Y,Y,94
+59039,"Vancouver Quadra","Vancouver Quadra"," 94","Vancouver",N,N,"",0,600,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,5
+59039,"Vancouver Quadra","Vancouver Quadra"," 94","Vancouver",N,N,"",0,600,"Singh","","Devyani","Green Party","Parti Vert",N,N,15
+59039,"Vancouver Quadra","Vancouver Quadra"," 95","Vancouver",N,N,"",0,563,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+59039,"Vancouver Quadra","Vancouver Quadra"," 95","Vancouver",N,N,"",0,563,"Armstrong","","Brad","Conservative","Conservateur",N,N,78
+59039,"Vancouver Quadra","Vancouver Quadra"," 95","Vancouver",N,N,"",0,563,"Murray","","Joyce","Liberal","Libéral",Y,Y,81
+59039,"Vancouver Quadra","Vancouver Quadra"," 95","Vancouver",N,N,"",0,563,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 95","Vancouver",N,N,"",0,563,"Singh","","Devyani","Green Party","Parti Vert",N,N,6
+59039,"Vancouver Quadra","Vancouver Quadra"," 96","Vancouver",N,N,"",0,544,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59039,"Vancouver Quadra","Vancouver Quadra"," 96","Vancouver",N,N,"",0,544,"Armstrong","","Brad","Conservative","Conservateur",N,N,44
+59039,"Vancouver Quadra","Vancouver Quadra"," 96","Vancouver",N,N,"",0,544,"Murray","","Joyce","Liberal","Libéral",Y,Y,75
+59039,"Vancouver Quadra","Vancouver Quadra"," 96","Vancouver",N,N,"",0,544,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 96","Vancouver",N,N,"",0,544,"Singh","","Devyani","Green Party","Parti Vert",N,N,5
+59039,"Vancouver Quadra","Vancouver Quadra"," 97","Vancouver",N,N,"",0,558,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59039,"Vancouver Quadra","Vancouver Quadra"," 97","Vancouver",N,N,"",0,558,"Armstrong","","Brad","Conservative","Conservateur",N,N,70
+59039,"Vancouver Quadra","Vancouver Quadra"," 97","Vancouver",N,N,"",0,558,"Murray","","Joyce","Liberal","Libéral",Y,Y,99
+59039,"Vancouver Quadra","Vancouver Quadra"," 97","Vancouver",N,N,"",0,558,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,5
+59039,"Vancouver Quadra","Vancouver Quadra"," 97","Vancouver",N,N,"",0,558,"Singh","","Devyani","Green Party","Parti Vert",N,N,11
+59039,"Vancouver Quadra","Vancouver Quadra"," 98","Vancouver",N,N,"",0,539,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59039,"Vancouver Quadra","Vancouver Quadra"," 98","Vancouver",N,N,"",0,539,"Armstrong","","Brad","Conservative","Conservateur",N,N,75
+59039,"Vancouver Quadra","Vancouver Quadra"," 98","Vancouver",N,N,"",0,539,"Murray","","Joyce","Liberal","Libéral",Y,Y,99
+59039,"Vancouver Quadra","Vancouver Quadra"," 98","Vancouver",N,N,"",0,539,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 98","Vancouver",N,N,"",0,539,"Singh","","Devyani","Green Party","Parti Vert",N,N,6
+59039,"Vancouver Quadra","Vancouver Quadra"," 99","Vancouver",N,N,"",1,604,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+59039,"Vancouver Quadra","Vancouver Quadra"," 99","Vancouver",N,N,"",1,604,"Armstrong","","Brad","Conservative","Conservateur",N,N,54
+59039,"Vancouver Quadra","Vancouver Quadra"," 99","Vancouver",N,N,"",1,604,"Murray","","Joyce","Liberal","Libéral",Y,Y,99
+59039,"Vancouver Quadra","Vancouver Quadra"," 99","Vancouver",N,N,"",1,604,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,10
+59039,"Vancouver Quadra","Vancouver Quadra"," 99","Vancouver",N,N,"",1,604,"Singh","","Devyani","Green Party","Parti Vert",N,N,16
+59039,"Vancouver Quadra","Vancouver Quadra"," 100","Vancouver",N,N,"",0,583,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59039,"Vancouver Quadra","Vancouver Quadra"," 100","Vancouver",N,N,"",0,583,"Armstrong","","Brad","Conservative","Conservateur",N,N,58
+59039,"Vancouver Quadra","Vancouver Quadra"," 100","Vancouver",N,N,"",0,583,"Murray","","Joyce","Liberal","Libéral",Y,Y,78
+59039,"Vancouver Quadra","Vancouver Quadra"," 100","Vancouver",N,N,"",0,583,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 100","Vancouver",N,N,"",0,583,"Singh","","Devyani","Green Party","Parti Vert",N,N,10
+59039,"Vancouver Quadra","Vancouver Quadra"," 101","Vancouver",N,N,"",0,530,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59039,"Vancouver Quadra","Vancouver Quadra"," 101","Vancouver",N,N,"",0,530,"Armstrong","","Brad","Conservative","Conservateur",N,N,58
+59039,"Vancouver Quadra","Vancouver Quadra"," 101","Vancouver",N,N,"",0,530,"Murray","","Joyce","Liberal","Libéral",Y,Y,79
+59039,"Vancouver Quadra","Vancouver Quadra"," 101","Vancouver",N,N,"",0,530,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,1
+59039,"Vancouver Quadra","Vancouver Quadra"," 101","Vancouver",N,N,"",0,530,"Singh","","Devyani","Green Party","Parti Vert",N,N,9
+59039,"Vancouver Quadra","Vancouver Quadra"," 102","Vancouver",N,N,"",0,564,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59039,"Vancouver Quadra","Vancouver Quadra"," 102","Vancouver",N,N,"",0,564,"Armstrong","","Brad","Conservative","Conservateur",N,N,66
+59039,"Vancouver Quadra","Vancouver Quadra"," 102","Vancouver",N,N,"",0,564,"Murray","","Joyce","Liberal","Libéral",Y,Y,75
+59039,"Vancouver Quadra","Vancouver Quadra"," 102","Vancouver",N,N,"",0,564,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 102","Vancouver",N,N,"",0,564,"Singh","","Devyani","Green Party","Parti Vert",N,N,9
+59039,"Vancouver Quadra","Vancouver Quadra"," 103","Vancouver",N,N,"",1,529,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59039,"Vancouver Quadra","Vancouver Quadra"," 103","Vancouver",N,N,"",1,529,"Armstrong","","Brad","Conservative","Conservateur",N,N,48
+59039,"Vancouver Quadra","Vancouver Quadra"," 103","Vancouver",N,N,"",1,529,"Murray","","Joyce","Liberal","Libéral",Y,Y,77
+59039,"Vancouver Quadra","Vancouver Quadra"," 103","Vancouver",N,N,"",1,529,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,1
+59039,"Vancouver Quadra","Vancouver Quadra"," 103","Vancouver",N,N,"",1,529,"Singh","","Devyani","Green Party","Parti Vert",N,N,13
+59039,"Vancouver Quadra","Vancouver Quadra"," 104","Vancouver",N,N,"",0,595,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59039,"Vancouver Quadra","Vancouver Quadra"," 104","Vancouver",N,N,"",0,595,"Armstrong","","Brad","Conservative","Conservateur",N,N,64
+59039,"Vancouver Quadra","Vancouver Quadra"," 104","Vancouver",N,N,"",0,595,"Murray","","Joyce","Liberal","Libéral",Y,Y,73
+59039,"Vancouver Quadra","Vancouver Quadra"," 104","Vancouver",N,N,"",0,595,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,2
+59039,"Vancouver Quadra","Vancouver Quadra"," 104","Vancouver",N,N,"",0,595,"Singh","","Devyani","Green Party","Parti Vert",N,N,9
+59039,"Vancouver Quadra","Vancouver Quadra"," 105","Vancouver",N,N,"",0,509,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59039,"Vancouver Quadra","Vancouver Quadra"," 105","Vancouver",N,N,"",0,509,"Armstrong","","Brad","Conservative","Conservateur",N,N,33
+59039,"Vancouver Quadra","Vancouver Quadra"," 105","Vancouver",N,N,"",0,509,"Murray","","Joyce","Liberal","Libéral",Y,Y,64
+59039,"Vancouver Quadra","Vancouver Quadra"," 105","Vancouver",N,N,"",0,509,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,5
+59039,"Vancouver Quadra","Vancouver Quadra"," 105","Vancouver",N,N,"",0,509,"Singh","","Devyani","Green Party","Parti Vert",N,N,12
+59039,"Vancouver Quadra","Vancouver Quadra"," 106","Vancouver",N,N,"",0,573,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59039,"Vancouver Quadra","Vancouver Quadra"," 106","Vancouver",N,N,"",0,573,"Armstrong","","Brad","Conservative","Conservateur",N,N,49
+59039,"Vancouver Quadra","Vancouver Quadra"," 106","Vancouver",N,N,"",0,573,"Murray","","Joyce","Liberal","Libéral",Y,Y,59
+59039,"Vancouver Quadra","Vancouver Quadra"," 106","Vancouver",N,N,"",0,573,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 106","Vancouver",N,N,"",0,573,"Singh","","Devyani","Green Party","Parti Vert",N,N,1
+59039,"Vancouver Quadra","Vancouver Quadra"," 107","Vancouver",N,N,"",0,580,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59039,"Vancouver Quadra","Vancouver Quadra"," 107","Vancouver",N,N,"",0,580,"Armstrong","","Brad","Conservative","Conservateur",N,N,73
+59039,"Vancouver Quadra","Vancouver Quadra"," 107","Vancouver",N,N,"",0,580,"Murray","","Joyce","Liberal","Libéral",Y,Y,59
+59039,"Vancouver Quadra","Vancouver Quadra"," 107","Vancouver",N,N,"",0,580,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,5
+59039,"Vancouver Quadra","Vancouver Quadra"," 107","Vancouver",N,N,"",0,580,"Singh","","Devyani","Green Party","Parti Vert",N,N,14
+59039,"Vancouver Quadra","Vancouver Quadra"," 108","Vancouver",N,N,"",4,646,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+59039,"Vancouver Quadra","Vancouver Quadra"," 108","Vancouver",N,N,"",4,646,"Armstrong","","Brad","Conservative","Conservateur",N,N,75
+59039,"Vancouver Quadra","Vancouver Quadra"," 108","Vancouver",N,N,"",4,646,"Murray","","Joyce","Liberal","Libéral",Y,Y,97
+59039,"Vancouver Quadra","Vancouver Quadra"," 108","Vancouver",N,N,"",4,646,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 108","Vancouver",N,N,"",4,646,"Singh","","Devyani","Green Party","Parti Vert",N,N,12
+59039,"Vancouver Quadra","Vancouver Quadra"," 109","Vancouver",N,N,"",0,548,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59039,"Vancouver Quadra","Vancouver Quadra"," 109","Vancouver",N,N,"",0,548,"Armstrong","","Brad","Conservative","Conservateur",N,N,51
+59039,"Vancouver Quadra","Vancouver Quadra"," 109","Vancouver",N,N,"",0,548,"Murray","","Joyce","Liberal","Libéral",Y,Y,74
+59039,"Vancouver Quadra","Vancouver Quadra"," 109","Vancouver",N,N,"",0,548,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,5
+59039,"Vancouver Quadra","Vancouver Quadra"," 109","Vancouver",N,N,"",0,548,"Singh","","Devyani","Green Party","Parti Vert",N,N,13
+59039,"Vancouver Quadra","Vancouver Quadra"," 110","Musqueam 2",N,N,"",1,411,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+59039,"Vancouver Quadra","Vancouver Quadra"," 110","Musqueam 2",N,N,"",1,411,"Armstrong","","Brad","Conservative","Conservateur",N,N,35
+59039,"Vancouver Quadra","Vancouver Quadra"," 110","Musqueam 2",N,N,"",1,411,"Murray","","Joyce","Liberal","Libéral",Y,Y,55
+59039,"Vancouver Quadra","Vancouver Quadra"," 110","Musqueam 2",N,N,"",1,411,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 110","Musqueam 2",N,N,"",1,411,"Singh","","Devyani","Green Party","Parti Vert",N,N,9
+59039,"Vancouver Quadra","Vancouver Quadra"," 111","Musqueam 2",N,N,"",0,386,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59039,"Vancouver Quadra","Vancouver Quadra"," 111","Musqueam 2",N,N,"",0,386,"Armstrong","","Brad","Conservative","Conservateur",N,N,39
+59039,"Vancouver Quadra","Vancouver Quadra"," 111","Musqueam 2",N,N,"",0,386,"Murray","","Joyce","Liberal","Libéral",Y,Y,38
+59039,"Vancouver Quadra","Vancouver Quadra"," 111","Musqueam 2",N,N,"",0,386,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,6
+59039,"Vancouver Quadra","Vancouver Quadra"," 111","Musqueam 2",N,N,"",0,386,"Singh","","Devyani","Green Party","Parti Vert",N,N,2
+59039,"Vancouver Quadra","Vancouver Quadra"," 112","Musqueam 2",N,N,"",0,454,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,86
+59039,"Vancouver Quadra","Vancouver Quadra"," 112","Musqueam 2",N,N,"",0,454,"Armstrong","","Brad","Conservative","Conservateur",N,N,15
+59039,"Vancouver Quadra","Vancouver Quadra"," 112","Musqueam 2",N,N,"",0,454,"Murray","","Joyce","Liberal","Libéral",Y,Y,33
+59039,"Vancouver Quadra","Vancouver Quadra"," 112","Musqueam 2",N,N,"",0,454,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,1
+59039,"Vancouver Quadra","Vancouver Quadra"," 112","Musqueam 2",N,N,"",0,454,"Singh","","Devyani","Green Party","Parti Vert",N,N,7
+59039,"Vancouver Quadra","Vancouver Quadra"," 113","Vancouver",N,N,"",0,530,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59039,"Vancouver Quadra","Vancouver Quadra"," 113","Vancouver",N,N,"",0,530,"Armstrong","","Brad","Conservative","Conservateur",N,N,86
+59039,"Vancouver Quadra","Vancouver Quadra"," 113","Vancouver",N,N,"",0,530,"Murray","","Joyce","Liberal","Libéral",Y,Y,64
+59039,"Vancouver Quadra","Vancouver Quadra"," 113","Vancouver",N,N,"",0,530,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,5
+59039,"Vancouver Quadra","Vancouver Quadra"," 113","Vancouver",N,N,"",0,530,"Singh","","Devyani","Green Party","Parti Vert",N,N,8
+59039,"Vancouver Quadra","Vancouver Quadra"," 114","Vancouver",N,N,"",1,548,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59039,"Vancouver Quadra","Vancouver Quadra"," 114","Vancouver",N,N,"",1,548,"Armstrong","","Brad","Conservative","Conservateur",N,N,88
+59039,"Vancouver Quadra","Vancouver Quadra"," 114","Vancouver",N,N,"",1,548,"Murray","","Joyce","Liberal","Libéral",Y,Y,79
+59039,"Vancouver Quadra","Vancouver Quadra"," 114","Vancouver",N,N,"",1,548,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 114","Vancouver",N,N,"",1,548,"Singh","","Devyani","Green Party","Parti Vert",N,N,10
+59039,"Vancouver Quadra","Vancouver Quadra"," 115","Vancouver",N,N,"",1,579,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59039,"Vancouver Quadra","Vancouver Quadra"," 115","Vancouver",N,N,"",1,579,"Armstrong","","Brad","Conservative","Conservateur",N,N,107
+59039,"Vancouver Quadra","Vancouver Quadra"," 115","Vancouver",N,N,"",1,579,"Murray","","Joyce","Liberal","Libéral",Y,Y,66
+59039,"Vancouver Quadra","Vancouver Quadra"," 115","Vancouver",N,N,"",1,579,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,1
+59039,"Vancouver Quadra","Vancouver Quadra"," 115","Vancouver",N,N,"",1,579,"Singh","","Devyani","Green Party","Parti Vert",N,N,6
+59039,"Vancouver Quadra","Vancouver Quadra"," 116","Vancouver",N,N,"",2,513,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+59039,"Vancouver Quadra","Vancouver Quadra"," 116","Vancouver",N,N,"",2,513,"Armstrong","","Brad","Conservative","Conservateur",N,N,89
+59039,"Vancouver Quadra","Vancouver Quadra"," 116","Vancouver",N,N,"",2,513,"Murray","","Joyce","Liberal","Libéral",Y,Y,74
+59039,"Vancouver Quadra","Vancouver Quadra"," 116","Vancouver",N,N,"",2,513,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,1
+59039,"Vancouver Quadra","Vancouver Quadra"," 116","Vancouver",N,N,"",2,513,"Singh","","Devyani","Green Party","Parti Vert",N,N,5
+59039,"Vancouver Quadra","Vancouver Quadra"," 117","Vancouver",N,N,"",1,527,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59039,"Vancouver Quadra","Vancouver Quadra"," 117","Vancouver",N,N,"",1,527,"Armstrong","","Brad","Conservative","Conservateur",N,N,66
+59039,"Vancouver Quadra","Vancouver Quadra"," 117","Vancouver",N,N,"",1,527,"Murray","","Joyce","Liberal","Libéral",Y,Y,82
+59039,"Vancouver Quadra","Vancouver Quadra"," 117","Vancouver",N,N,"",1,527,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,2
+59039,"Vancouver Quadra","Vancouver Quadra"," 117","Vancouver",N,N,"",1,527,"Singh","","Devyani","Green Party","Parti Vert",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 118","Vancouver",N,N,"",0,545,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59039,"Vancouver Quadra","Vancouver Quadra"," 118","Vancouver",N,N,"",0,545,"Armstrong","","Brad","Conservative","Conservateur",N,N,57
+59039,"Vancouver Quadra","Vancouver Quadra"," 118","Vancouver",N,N,"",0,545,"Murray","","Joyce","Liberal","Libéral",Y,Y,70
+59039,"Vancouver Quadra","Vancouver Quadra"," 118","Vancouver",N,N,"",0,545,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,1
+59039,"Vancouver Quadra","Vancouver Quadra"," 118","Vancouver",N,N,"",0,545,"Singh","","Devyani","Green Party","Parti Vert",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 119","Vancouver",N,N,"",0,585,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59039,"Vancouver Quadra","Vancouver Quadra"," 119","Vancouver",N,N,"",0,585,"Armstrong","","Brad","Conservative","Conservateur",N,N,59
+59039,"Vancouver Quadra","Vancouver Quadra"," 119","Vancouver",N,N,"",0,585,"Murray","","Joyce","Liberal","Libéral",Y,Y,73
+59039,"Vancouver Quadra","Vancouver Quadra"," 119","Vancouver",N,N,"",0,585,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,2
+59039,"Vancouver Quadra","Vancouver Quadra"," 119","Vancouver",N,N,"",0,585,"Singh","","Devyani","Green Party","Parti Vert",N,N,8
+59039,"Vancouver Quadra","Vancouver Quadra"," 120","Vancouver",N,N,"",0,585,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59039,"Vancouver Quadra","Vancouver Quadra"," 120","Vancouver",N,N,"",0,585,"Armstrong","","Brad","Conservative","Conservateur",N,N,49
+59039,"Vancouver Quadra","Vancouver Quadra"," 120","Vancouver",N,N,"",0,585,"Murray","","Joyce","Liberal","Libéral",Y,Y,75
+59039,"Vancouver Quadra","Vancouver Quadra"," 120","Vancouver",N,N,"",0,585,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,5
+59039,"Vancouver Quadra","Vancouver Quadra"," 120","Vancouver",N,N,"",0,585,"Singh","","Devyani","Green Party","Parti Vert",N,N,12
+59039,"Vancouver Quadra","Vancouver Quadra"," 121","Vancouver",N,N,"",1,609,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59039,"Vancouver Quadra","Vancouver Quadra"," 121","Vancouver",N,N,"",1,609,"Armstrong","","Brad","Conservative","Conservateur",N,N,54
+59039,"Vancouver Quadra","Vancouver Quadra"," 121","Vancouver",N,N,"",1,609,"Murray","","Joyce","Liberal","Libéral",Y,Y,57
+59039,"Vancouver Quadra","Vancouver Quadra"," 121","Vancouver",N,N,"",1,609,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 121","Vancouver",N,N,"",1,609,"Singh","","Devyani","Green Party","Parti Vert",N,N,1
+59039,"Vancouver Quadra","Vancouver Quadra"," 122","Vancouver",N,N,"",0,511,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59039,"Vancouver Quadra","Vancouver Quadra"," 122","Vancouver",N,N,"",0,511,"Armstrong","","Brad","Conservative","Conservateur",N,N,39
+59039,"Vancouver Quadra","Vancouver Quadra"," 122","Vancouver",N,N,"",0,511,"Murray","","Joyce","Liberal","Libéral",Y,Y,72
+59039,"Vancouver Quadra","Vancouver Quadra"," 122","Vancouver",N,N,"",0,511,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,1
+59039,"Vancouver Quadra","Vancouver Quadra"," 122","Vancouver",N,N,"",0,511,"Singh","","Devyani","Green Party","Parti Vert",N,N,7
+59039,"Vancouver Quadra","Vancouver Quadra"," 123","Vancouver",N,N,"",1,578,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+59039,"Vancouver Quadra","Vancouver Quadra"," 123","Vancouver",N,N,"",1,578,"Armstrong","","Brad","Conservative","Conservateur",N,N,53
+59039,"Vancouver Quadra","Vancouver Quadra"," 123","Vancouver",N,N,"",1,578,"Murray","","Joyce","Liberal","Libéral",Y,Y,90
+59039,"Vancouver Quadra","Vancouver Quadra"," 123","Vancouver",N,N,"",1,578,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 123","Vancouver",N,N,"",1,578,"Singh","","Devyani","Green Party","Parti Vert",N,N,8
+59039,"Vancouver Quadra","Vancouver Quadra"," 124","Vancouver",N,N,"",0,606,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59039,"Vancouver Quadra","Vancouver Quadra"," 124","Vancouver",N,N,"",0,606,"Armstrong","","Brad","Conservative","Conservateur",N,N,56
+59039,"Vancouver Quadra","Vancouver Quadra"," 124","Vancouver",N,N,"",0,606,"Murray","","Joyce","Liberal","Libéral",Y,Y,48
+59039,"Vancouver Quadra","Vancouver Quadra"," 124","Vancouver",N,N,"",0,606,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 124","Vancouver",N,N,"",0,606,"Singh","","Devyani","Green Party","Parti Vert",N,N,6
+59039,"Vancouver Quadra","Vancouver Quadra"," 125","Vancouver",N,N,"",0,571,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59039,"Vancouver Quadra","Vancouver Quadra"," 125","Vancouver",N,N,"",0,571,"Armstrong","","Brad","Conservative","Conservateur",N,N,48
+59039,"Vancouver Quadra","Vancouver Quadra"," 125","Vancouver",N,N,"",0,571,"Murray","","Joyce","Liberal","Libéral",Y,Y,75
+59039,"Vancouver Quadra","Vancouver Quadra"," 125","Vancouver",N,N,"",0,571,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,1
+59039,"Vancouver Quadra","Vancouver Quadra"," 125","Vancouver",N,N,"",0,571,"Singh","","Devyani","Green Party","Parti Vert",N,N,6
+59039,"Vancouver Quadra","Vancouver Quadra"," 126","Vancouver",N,N,"",0,478,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59039,"Vancouver Quadra","Vancouver Quadra"," 126","Vancouver",N,N,"",0,478,"Armstrong","","Brad","Conservative","Conservateur",N,N,55
+59039,"Vancouver Quadra","Vancouver Quadra"," 126","Vancouver",N,N,"",0,478,"Murray","","Joyce","Liberal","Libéral",Y,Y,54
+59039,"Vancouver Quadra","Vancouver Quadra"," 126","Vancouver",N,N,"",0,478,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,2
+59039,"Vancouver Quadra","Vancouver Quadra"," 126","Vancouver",N,N,"",0,478,"Singh","","Devyani","Green Party","Parti Vert",N,N,2
+59039,"Vancouver Quadra","Vancouver Quadra"," 127","Vancouver",N,N,"",0,573,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59039,"Vancouver Quadra","Vancouver Quadra"," 127","Vancouver",N,N,"",0,573,"Armstrong","","Brad","Conservative","Conservateur",N,N,37
+59039,"Vancouver Quadra","Vancouver Quadra"," 127","Vancouver",N,N,"",0,573,"Murray","","Joyce","Liberal","Libéral",Y,Y,54
+59039,"Vancouver Quadra","Vancouver Quadra"," 127","Vancouver",N,N,"",0,573,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,5
+59039,"Vancouver Quadra","Vancouver Quadra"," 127","Vancouver",N,N,"",0,573,"Singh","","Devyani","Green Party","Parti Vert",N,N,10
+59039,"Vancouver Quadra","Vancouver Quadra"," 128","Vancouver",N,N,"",0,522,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59039,"Vancouver Quadra","Vancouver Quadra"," 128","Vancouver",N,N,"",0,522,"Armstrong","","Brad","Conservative","Conservateur",N,N,40
+59039,"Vancouver Quadra","Vancouver Quadra"," 128","Vancouver",N,N,"",0,522,"Murray","","Joyce","Liberal","Libéral",Y,Y,60
+59039,"Vancouver Quadra","Vancouver Quadra"," 128","Vancouver",N,N,"",0,522,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 128","Vancouver",N,N,"",0,522,"Singh","","Devyani","Green Party","Parti Vert",N,N,9
+59039,"Vancouver Quadra","Vancouver Quadra"," 129","Vancouver",N,N,"",0,560,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59039,"Vancouver Quadra","Vancouver Quadra"," 129","Vancouver",N,N,"",0,560,"Armstrong","","Brad","Conservative","Conservateur",N,N,44
+59039,"Vancouver Quadra","Vancouver Quadra"," 129","Vancouver",N,N,"",0,560,"Murray","","Joyce","Liberal","Libéral",Y,Y,51
+59039,"Vancouver Quadra","Vancouver Quadra"," 129","Vancouver",N,N,"",0,560,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,10
+59039,"Vancouver Quadra","Vancouver Quadra"," 129","Vancouver",N,N,"",0,560,"Singh","","Devyani","Green Party","Parti Vert",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 130","Vancouver",N,N,"",1,578,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59039,"Vancouver Quadra","Vancouver Quadra"," 130","Vancouver",N,N,"",1,578,"Armstrong","","Brad","Conservative","Conservateur",N,N,37
+59039,"Vancouver Quadra","Vancouver Quadra"," 130","Vancouver",N,N,"",1,578,"Murray","","Joyce","Liberal","Libéral",Y,Y,52
+59039,"Vancouver Quadra","Vancouver Quadra"," 130","Vancouver",N,N,"",1,578,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 130","Vancouver",N,N,"",1,578,"Singh","","Devyani","Green Party","Parti Vert",N,N,10
+59039,"Vancouver Quadra","Vancouver Quadra"," 131","Vancouver",N,N,"",0,467,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59039,"Vancouver Quadra","Vancouver Quadra"," 131","Vancouver",N,N,"",0,467,"Armstrong","","Brad","Conservative","Conservateur",N,N,36
+59039,"Vancouver Quadra","Vancouver Quadra"," 131","Vancouver",N,N,"",0,467,"Murray","","Joyce","Liberal","Libéral",Y,Y,44
+59039,"Vancouver Quadra","Vancouver Quadra"," 131","Vancouver",N,N,"",0,467,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,6
+59039,"Vancouver Quadra","Vancouver Quadra"," 131","Vancouver",N,N,"",0,467,"Singh","","Devyani","Green Party","Parti Vert",N,N,6
+59039,"Vancouver Quadra","Vancouver Quadra"," 132","Vancouver",N,N,"",1,473,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59039,"Vancouver Quadra","Vancouver Quadra"," 132","Vancouver",N,N,"",1,473,"Armstrong","","Brad","Conservative","Conservateur",N,N,24
+59039,"Vancouver Quadra","Vancouver Quadra"," 132","Vancouver",N,N,"",1,473,"Murray","","Joyce","Liberal","Libéral",Y,Y,41
+59039,"Vancouver Quadra","Vancouver Quadra"," 132","Vancouver",N,N,"",1,473,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,2
+59039,"Vancouver Quadra","Vancouver Quadra"," 132","Vancouver",N,N,"",1,473,"Singh","","Devyani","Green Party","Parti Vert",N,N,6
+59039,"Vancouver Quadra","Vancouver Quadra"," 133","Vancouver",N,N,"",0,515,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59039,"Vancouver Quadra","Vancouver Quadra"," 133","Vancouver",N,N,"",0,515,"Armstrong","","Brad","Conservative","Conservateur",N,N,29
+59039,"Vancouver Quadra","Vancouver Quadra"," 133","Vancouver",N,N,"",0,515,"Murray","","Joyce","Liberal","Libéral",Y,Y,58
+59039,"Vancouver Quadra","Vancouver Quadra"," 133","Vancouver",N,N,"",0,515,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,2
+59039,"Vancouver Quadra","Vancouver Quadra"," 133","Vancouver",N,N,"",0,515,"Singh","","Devyani","Green Party","Parti Vert",N,N,9
+59039,"Vancouver Quadra","Vancouver Quadra"," 134","Vancouver",N,N,"",0,491,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59039,"Vancouver Quadra","Vancouver Quadra"," 134","Vancouver",N,N,"",0,491,"Armstrong","","Brad","Conservative","Conservateur",N,N,26
+59039,"Vancouver Quadra","Vancouver Quadra"," 134","Vancouver",N,N,"",0,491,"Murray","","Joyce","Liberal","Libéral",Y,Y,60
+59039,"Vancouver Quadra","Vancouver Quadra"," 134","Vancouver",N,N,"",0,491,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,8
+59039,"Vancouver Quadra","Vancouver Quadra"," 134","Vancouver",N,N,"",0,491,"Singh","","Devyani","Green Party","Parti Vert",N,N,9
+59039,"Vancouver Quadra","Vancouver Quadra"," 135","Vancouver",N,N,"",3,510,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59039,"Vancouver Quadra","Vancouver Quadra"," 135","Vancouver",N,N,"",3,510,"Armstrong","","Brad","Conservative","Conservateur",N,N,70
+59039,"Vancouver Quadra","Vancouver Quadra"," 135","Vancouver",N,N,"",3,510,"Murray","","Joyce","Liberal","Libéral",Y,Y,90
+59039,"Vancouver Quadra","Vancouver Quadra"," 135","Vancouver",N,N,"",3,510,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,1
+59039,"Vancouver Quadra","Vancouver Quadra"," 135","Vancouver",N,N,"",3,510,"Singh","","Devyani","Green Party","Parti Vert",N,N,8
+59039,"Vancouver Quadra","Vancouver Quadra"," 136","Vancouver",N,N,"",2,564,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59039,"Vancouver Quadra","Vancouver Quadra"," 136","Vancouver",N,N,"",2,564,"Armstrong","","Brad","Conservative","Conservateur",N,N,86
+59039,"Vancouver Quadra","Vancouver Quadra"," 136","Vancouver",N,N,"",2,564,"Murray","","Joyce","Liberal","Libéral",Y,Y,78
+59039,"Vancouver Quadra","Vancouver Quadra"," 136","Vancouver",N,N,"",2,564,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 136","Vancouver",N,N,"",2,564,"Singh","","Devyani","Green Party","Parti Vert",N,N,12
+59039,"Vancouver Quadra","Vancouver Quadra"," 137","Vancouver",N,N,"",0,532,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59039,"Vancouver Quadra","Vancouver Quadra"," 137","Vancouver",N,N,"",0,532,"Armstrong","","Brad","Conservative","Conservateur",N,N,96
+59039,"Vancouver Quadra","Vancouver Quadra"," 137","Vancouver",N,N,"",0,532,"Murray","","Joyce","Liberal","Libéral",Y,Y,52
+59039,"Vancouver Quadra","Vancouver Quadra"," 137","Vancouver",N,N,"",0,532,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,2
+59039,"Vancouver Quadra","Vancouver Quadra"," 137","Vancouver",N,N,"",0,532,"Singh","","Devyani","Green Party","Parti Vert",N,N,18
+59039,"Vancouver Quadra","Vancouver Quadra"," 138","Vancouver",N,N,"",0,502,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59039,"Vancouver Quadra","Vancouver Quadra"," 138","Vancouver",N,N,"",0,502,"Armstrong","","Brad","Conservative","Conservateur",N,N,27
+59039,"Vancouver Quadra","Vancouver Quadra"," 138","Vancouver",N,N,"",0,502,"Murray","","Joyce","Liberal","Libéral",Y,Y,49
+59039,"Vancouver Quadra","Vancouver Quadra"," 138","Vancouver",N,N,"",0,502,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,8
+59039,"Vancouver Quadra","Vancouver Quadra"," 138","Vancouver",N,N,"",0,502,"Singh","","Devyani","Green Party","Parti Vert",N,N,2
+59039,"Vancouver Quadra","Vancouver Quadra"," 139","Vancouver",N,N,"",0,581,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+59039,"Vancouver Quadra","Vancouver Quadra"," 139","Vancouver",N,N,"",0,581,"Armstrong","","Brad","Conservative","Conservateur",N,N,40
+59039,"Vancouver Quadra","Vancouver Quadra"," 139","Vancouver",N,N,"",0,581,"Murray","","Joyce","Liberal","Libéral",Y,Y,46
+59039,"Vancouver Quadra","Vancouver Quadra"," 139","Vancouver",N,N,"",0,581,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,2
+59039,"Vancouver Quadra","Vancouver Quadra"," 139","Vancouver",N,N,"",0,581,"Singh","","Devyani","Green Party","Parti Vert",N,N,14
+59039,"Vancouver Quadra","Vancouver Quadra"," 140","Vancouver",N,N,"",1,579,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59039,"Vancouver Quadra","Vancouver Quadra"," 140","Vancouver",N,N,"",1,579,"Armstrong","","Brad","Conservative","Conservateur",N,N,72
+59039,"Vancouver Quadra","Vancouver Quadra"," 140","Vancouver",N,N,"",1,579,"Murray","","Joyce","Liberal","Libéral",Y,Y,48
+59039,"Vancouver Quadra","Vancouver Quadra"," 140","Vancouver",N,N,"",1,579,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,5
+59039,"Vancouver Quadra","Vancouver Quadra"," 140","Vancouver",N,N,"",1,579,"Singh","","Devyani","Green Party","Parti Vert",N,N,9
+59039,"Vancouver Quadra","Vancouver Quadra"," 141","Vancouver",N,N,"",0,588,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59039,"Vancouver Quadra","Vancouver Quadra"," 141","Vancouver",N,N,"",0,588,"Armstrong","","Brad","Conservative","Conservateur",N,N,55
+59039,"Vancouver Quadra","Vancouver Quadra"," 141","Vancouver",N,N,"",0,588,"Murray","","Joyce","Liberal","Libéral",Y,Y,65
+59039,"Vancouver Quadra","Vancouver Quadra"," 141","Vancouver",N,N,"",0,588,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 141","Vancouver",N,N,"",0,588,"Singh","","Devyani","Green Party","Parti Vert",N,N,7
+59039,"Vancouver Quadra","Vancouver Quadra"," 142","Vancouver",N,N,"",0,523,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59039,"Vancouver Quadra","Vancouver Quadra"," 142","Vancouver",N,N,"",0,523,"Armstrong","","Brad","Conservative","Conservateur",N,N,72
+59039,"Vancouver Quadra","Vancouver Quadra"," 142","Vancouver",N,N,"",0,523,"Murray","","Joyce","Liberal","Libéral",Y,Y,100
+59039,"Vancouver Quadra","Vancouver Quadra"," 142","Vancouver",N,N,"",0,523,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 142","Vancouver",N,N,"",0,523,"Singh","","Devyani","Green Party","Parti Vert",N,N,6
+59039,"Vancouver Quadra","Vancouver Quadra"," 143","Vancouver",N,N,"",2,533,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59039,"Vancouver Quadra","Vancouver Quadra"," 143","Vancouver",N,N,"",2,533,"Armstrong","","Brad","Conservative","Conservateur",N,N,74
+59039,"Vancouver Quadra","Vancouver Quadra"," 143","Vancouver",N,N,"",2,533,"Murray","","Joyce","Liberal","Libéral",Y,Y,71
+59039,"Vancouver Quadra","Vancouver Quadra"," 143","Vancouver",N,N,"",2,533,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 143","Vancouver",N,N,"",2,533,"Singh","","Devyani","Green Party","Parti Vert",N,N,10
+59039,"Vancouver Quadra","Vancouver Quadra"," 144","Vancouver",N,N,"",0,507,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59039,"Vancouver Quadra","Vancouver Quadra"," 144","Vancouver",N,N,"",0,507,"Armstrong","","Brad","Conservative","Conservateur",N,N,57
+59039,"Vancouver Quadra","Vancouver Quadra"," 144","Vancouver",N,N,"",0,507,"Murray","","Joyce","Liberal","Libéral",Y,Y,79
+59039,"Vancouver Quadra","Vancouver Quadra"," 144","Vancouver",N,N,"",0,507,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,1
+59039,"Vancouver Quadra","Vancouver Quadra"," 144","Vancouver",N,N,"",0,507,"Singh","","Devyani","Green Party","Parti Vert",N,N,3
+59039,"Vancouver Quadra","Vancouver Quadra"," 400","Metro Vancouver A",N,N,"",0,77,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59039,"Vancouver Quadra","Vancouver Quadra"," 400","Metro Vancouver A",N,N,"",0,77,"Armstrong","","Brad","Conservative","Conservateur",N,N,13
+59039,"Vancouver Quadra","Vancouver Quadra"," 400","Metro Vancouver A",N,N,"",0,77,"Murray","","Joyce","Liberal","Libéral",Y,Y,32
+59039,"Vancouver Quadra","Vancouver Quadra"," 400","Metro Vancouver A",N,N,"",0,77,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,2
+59039,"Vancouver Quadra","Vancouver Quadra"," 400","Metro Vancouver A",N,N,"",0,77,"Singh","","Devyani","Green Party","Parti Vert",N,N,6
+59039,"Vancouver Quadra","Vancouver Quadra"," 401","Metro Vancouver A",N,N,"",0,114,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59039,"Vancouver Quadra","Vancouver Quadra"," 401","Metro Vancouver A",N,N,"",0,114,"Armstrong","","Brad","Conservative","Conservateur",N,N,44
+59039,"Vancouver Quadra","Vancouver Quadra"," 401","Metro Vancouver A",N,N,"",0,114,"Murray","","Joyce","Liberal","Libéral",Y,Y,56
+59039,"Vancouver Quadra","Vancouver Quadra"," 401","Metro Vancouver A",N,N,"",0,114,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,2
+59039,"Vancouver Quadra","Vancouver Quadra"," 401","Metro Vancouver A",N,N,"",0,114,"Singh","","Devyani","Green Party","Parti Vert",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 402","Vancouver",N,N,"",5,142,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59039,"Vancouver Quadra","Vancouver Quadra"," 402","Vancouver",N,N,"",5,142,"Armstrong","","Brad","Conservative","Conservateur",N,N,22
+59039,"Vancouver Quadra","Vancouver Quadra"," 402","Vancouver",N,N,"",5,142,"Murray","","Joyce","Liberal","Libéral",Y,Y,55
+59039,"Vancouver Quadra","Vancouver Quadra"," 402","Vancouver",N,N,"",5,142,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 402","Vancouver",N,N,"",5,142,"Singh","","Devyani","Green Party","Parti Vert",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 403","Vancouver",N,N,"",1,80,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59039,"Vancouver Quadra","Vancouver Quadra"," 403","Vancouver",N,N,"",1,80,"Armstrong","","Brad","Conservative","Conservateur",N,N,20
+59039,"Vancouver Quadra","Vancouver Quadra"," 403","Vancouver",N,N,"",1,80,"Murray","","Joyce","Liberal","Libéral",Y,Y,22
+59039,"Vancouver Quadra","Vancouver Quadra"," 403","Vancouver",N,N,"",1,80,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 403","Vancouver",N,N,"",1,80,"Singh","","Devyani","Green Party","Parti Vert",N,N,1
+59039,"Vancouver Quadra","Vancouver Quadra"," 500","Mobile poll/Bureau itinérant",N,N,"1A",0,5,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 500","Mobile poll/Bureau itinérant",N,N,"1A",0,5,"Armstrong","","Brad","Conservative","Conservateur",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 500","Mobile poll/Bureau itinérant",N,N,"1A",0,5,"Murray","","Joyce","Liberal","Libéral",Y,Y,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 500","Mobile poll/Bureau itinérant",N,N,"1A",0,5,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 500","Mobile poll/Bureau itinérant",N,N,"1A",0,5,"Singh","","Devyani","Green Party","Parti Vert",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 501","Mobile poll/Bureau itinérant",N,N,"3",0,0,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 501","Mobile poll/Bureau itinérant",N,N,"3",0,0,"Armstrong","","Brad","Conservative","Conservateur",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 501","Mobile poll/Bureau itinérant",N,N,"3",0,0,"Murray","","Joyce","Liberal","Libéral",Y,Y,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 501","Mobile poll/Bureau itinérant",N,N,"3",0,0,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 501","Mobile poll/Bureau itinérant",N,N,"3",0,0,"Singh","","Devyani","Green Party","Parti Vert",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 502","Mobile poll/Bureau itinérant",N,N,"",0,79,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59039,"Vancouver Quadra","Vancouver Quadra"," 502","Mobile poll/Bureau itinérant",N,N,"",0,79,"Armstrong","","Brad","Conservative","Conservateur",N,N,15
+59039,"Vancouver Quadra","Vancouver Quadra"," 502","Mobile poll/Bureau itinérant",N,N,"",0,79,"Murray","","Joyce","Liberal","Libéral",Y,Y,35
+59039,"Vancouver Quadra","Vancouver Quadra"," 502","Mobile poll/Bureau itinérant",N,N,"",0,79,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,4
+59039,"Vancouver Quadra","Vancouver Quadra"," 502","Mobile poll/Bureau itinérant",N,N,"",0,79,"Singh","","Devyani","Green Party","Parti Vert",N,N,6
+59039,"Vancouver Quadra","Vancouver Quadra"," 503","Mobile poll/Bureau itinérant",N,N,"74",0,61,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 503","Mobile poll/Bureau itinérant",N,N,"74",0,61,"Armstrong","","Brad","Conservative","Conservateur",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 503","Mobile poll/Bureau itinérant",N,N,"74",0,61,"Murray","","Joyce","Liberal","Libéral",Y,Y,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 503","Mobile poll/Bureau itinérant",N,N,"74",0,61,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 503","Mobile poll/Bureau itinérant",N,N,"74",0,61,"Singh","","Devyani","Green Party","Parti Vert",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 504","Mobile poll/Bureau itinérant",N,N,"65",0,49,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 504","Mobile poll/Bureau itinérant",N,N,"65",0,49,"Armstrong","","Brad","Conservative","Conservateur",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 504","Mobile poll/Bureau itinérant",N,N,"65",0,49,"Murray","","Joyce","Liberal","Libéral",Y,Y,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 504","Mobile poll/Bureau itinérant",N,N,"65",0,49,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 504","Mobile poll/Bureau itinérant",N,N,"65",0,49,"Singh","","Devyani","Green Party","Parti Vert",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 505","Mobile poll/Bureau itinérant",N,N,"120",0,41,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 505","Mobile poll/Bureau itinérant",N,N,"120",0,41,"Armstrong","","Brad","Conservative","Conservateur",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 505","Mobile poll/Bureau itinérant",N,N,"120",0,41,"Murray","","Joyce","Liberal","Libéral",Y,Y,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 505","Mobile poll/Bureau itinérant",N,N,"120",0,41,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 505","Mobile poll/Bureau itinérant",N,N,"120",0,41,"Singh","","Devyani","Green Party","Parti Vert",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 506","Mobile poll/Bureau itinérant",N,N,"",0,132,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59039,"Vancouver Quadra","Vancouver Quadra"," 506","Mobile poll/Bureau itinérant",N,N,"",0,132,"Armstrong","","Brad","Conservative","Conservateur",N,N,17
+59039,"Vancouver Quadra","Vancouver Quadra"," 506","Mobile poll/Bureau itinérant",N,N,"",0,132,"Murray","","Joyce","Liberal","Libéral",Y,Y,60
+59039,"Vancouver Quadra","Vancouver Quadra"," 506","Mobile poll/Bureau itinérant",N,N,"",0,132,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,0
+59039,"Vancouver Quadra","Vancouver Quadra"," 506","Mobile poll/Bureau itinérant",N,N,"",0,132,"Singh","","Devyani","Green Party","Parti Vert",N,N,2
+59039,"Vancouver Quadra","Vancouver Quadra"," 600","Metro Vancouver A",N,N,"",1,0,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,107
+59039,"Vancouver Quadra","Vancouver Quadra"," 600","Metro Vancouver A",N,N,"",1,0,"Armstrong","","Brad","Conservative","Conservateur",N,N,189
+59039,"Vancouver Quadra","Vancouver Quadra"," 600","Metro Vancouver A",N,N,"",1,0,"Murray","","Joyce","Liberal","Libéral",Y,Y,210
+59039,"Vancouver Quadra","Vancouver Quadra"," 600","Metro Vancouver A",N,N,"",1,0,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,12
+59039,"Vancouver Quadra","Vancouver Quadra"," 600","Metro Vancouver A",N,N,"",1,0,"Singh","","Devyani","Green Party","Parti Vert",N,N,27
+59039,"Vancouver Quadra","Vancouver Quadra"," 601","Vancouver",N,N,"",9,0,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,164
+59039,"Vancouver Quadra","Vancouver Quadra"," 601","Vancouver",N,N,"",9,0,"Armstrong","","Brad","Conservative","Conservateur",N,N,488
+59039,"Vancouver Quadra","Vancouver Quadra"," 601","Vancouver",N,N,"",9,0,"Murray","","Joyce","Liberal","Libéral",Y,Y,647
+59039,"Vancouver Quadra","Vancouver Quadra"," 601","Vancouver",N,N,"",9,0,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,23
+59039,"Vancouver Quadra","Vancouver Quadra"," 601","Vancouver",N,N,"",9,0,"Singh","","Devyani","Green Party","Parti Vert",N,N,88
+59039,"Vancouver Quadra","Vancouver Quadra"," 602","Vancouver",N,N,"",1,0,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,154
+59039,"Vancouver Quadra","Vancouver Quadra"," 602","Vancouver",N,N,"",1,0,"Armstrong","","Brad","Conservative","Conservateur",N,N,382
+59039,"Vancouver Quadra","Vancouver Quadra"," 602","Vancouver",N,N,"",1,0,"Murray","","Joyce","Liberal","Libéral",Y,Y,546
+59039,"Vancouver Quadra","Vancouver Quadra"," 602","Vancouver",N,N,"",1,0,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,33
+59039,"Vancouver Quadra","Vancouver Quadra"," 602","Vancouver",N,N,"",1,0,"Singh","","Devyani","Green Party","Parti Vert",N,N,74
+59039,"Vancouver Quadra","Vancouver Quadra"," 603","Vancouver",N,N,"",4,0,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,253
+59039,"Vancouver Quadra","Vancouver Quadra"," 603","Vancouver",N,N,"",4,0,"Armstrong","","Brad","Conservative","Conservateur",N,N,331
+59039,"Vancouver Quadra","Vancouver Quadra"," 603","Vancouver",N,N,"",4,0,"Murray","","Joyce","Liberal","Libéral",Y,Y,655
+59039,"Vancouver Quadra","Vancouver Quadra"," 603","Vancouver",N,N,"",4,0,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,28
+59039,"Vancouver Quadra","Vancouver Quadra"," 603","Vancouver",N,N,"",4,0,"Singh","","Devyani","Green Party","Parti Vert",N,N,83
+59039,"Vancouver Quadra","Vancouver Quadra"," 604","Vancouver",N,N,"",1,0,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,177
+59039,"Vancouver Quadra","Vancouver Quadra"," 604","Vancouver",N,N,"",1,0,"Armstrong","","Brad","Conservative","Conservateur",N,N,294
+59039,"Vancouver Quadra","Vancouver Quadra"," 604","Vancouver",N,N,"",1,0,"Murray","","Joyce","Liberal","Libéral",Y,Y,567
+59039,"Vancouver Quadra","Vancouver Quadra"," 604","Vancouver",N,N,"",1,0,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,28
+59039,"Vancouver Quadra","Vancouver Quadra"," 604","Vancouver",N,N,"",1,0,"Singh","","Devyani","Green Party","Parti Vert",N,N,86
+59039,"Vancouver Quadra","Vancouver Quadra"," 605","Vancouver",N,N,"",1,0,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,205
+59039,"Vancouver Quadra","Vancouver Quadra"," 605","Vancouver",N,N,"",1,0,"Armstrong","","Brad","Conservative","Conservateur",N,N,199
+59039,"Vancouver Quadra","Vancouver Quadra"," 605","Vancouver",N,N,"",1,0,"Murray","","Joyce","Liberal","Libéral",Y,Y,419
+59039,"Vancouver Quadra","Vancouver Quadra"," 605","Vancouver",N,N,"",1,0,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,49
+59039,"Vancouver Quadra","Vancouver Quadra"," 605","Vancouver",N,N,"",1,0,"Singh","","Devyani","Green Party","Parti Vert",N,N,78
+59039,"Vancouver Quadra","Vancouver Quadra"," 606","Vancouver",N,N,"",3,0,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,225
+59039,"Vancouver Quadra","Vancouver Quadra"," 606","Vancouver",N,N,"",3,0,"Armstrong","","Brad","Conservative","Conservateur",N,N,286
+59039,"Vancouver Quadra","Vancouver Quadra"," 606","Vancouver",N,N,"",3,0,"Murray","","Joyce","Liberal","Libéral",Y,Y,558
+59039,"Vancouver Quadra","Vancouver Quadra"," 606","Vancouver",N,N,"",3,0,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,34
+59039,"Vancouver Quadra","Vancouver Quadra"," 606","Vancouver",N,N,"",3,0,"Singh","","Devyani","Green Party","Parti Vert",N,N,76
+59039,"Vancouver Quadra","Vancouver Quadra"," 607","Vancouver",N,N,"",8,0,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,237
+59039,"Vancouver Quadra","Vancouver Quadra"," 607","Vancouver",N,N,"",8,0,"Armstrong","","Brad","Conservative","Conservateur",N,N,325
+59039,"Vancouver Quadra","Vancouver Quadra"," 607","Vancouver",N,N,"",8,0,"Murray","","Joyce","Liberal","Libéral",Y,Y,583
+59039,"Vancouver Quadra","Vancouver Quadra"," 607","Vancouver",N,N,"",8,0,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,22
+59039,"Vancouver Quadra","Vancouver Quadra"," 607","Vancouver",N,N,"",8,0,"Singh","","Devyani","Green Party","Parti Vert",N,N,79
+59039,"Vancouver Quadra","Vancouver Quadra"," 608","Vancouver",N,N,"",0,0,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,110
+59039,"Vancouver Quadra","Vancouver Quadra"," 608","Vancouver",N,N,"",0,0,"Armstrong","","Brad","Conservative","Conservateur",N,N,267
+59039,"Vancouver Quadra","Vancouver Quadra"," 608","Vancouver",N,N,"",0,0,"Murray","","Joyce","Liberal","Libéral",Y,Y,408
+59039,"Vancouver Quadra","Vancouver Quadra"," 608","Vancouver",N,N,"",0,0,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,20
+59039,"Vancouver Quadra","Vancouver Quadra"," 608","Vancouver",N,N,"",0,0,"Singh","","Devyani","Green Party","Parti Vert",N,N,33
+59039,"Vancouver Quadra","Vancouver Quadra"," 609","Vancouver",N,N,"",1,0,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+59039,"Vancouver Quadra","Vancouver Quadra"," 609","Vancouver",N,N,"",1,0,"Armstrong","","Brad","Conservative","Conservateur",N,N,370
+59039,"Vancouver Quadra","Vancouver Quadra"," 609","Vancouver",N,N,"",1,0,"Murray","","Joyce","Liberal","Libéral",Y,Y,411
+59039,"Vancouver Quadra","Vancouver Quadra"," 609","Vancouver",N,N,"",1,0,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,17
+59039,"Vancouver Quadra","Vancouver Quadra"," 609","Vancouver",N,N,"",1,0,"Singh","","Devyani","Green Party","Parti Vert",N,N,25
+59039,"Vancouver Quadra","Vancouver Quadra"," 610","Vancouver",N,N,"",3,0,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,134
+59039,"Vancouver Quadra","Vancouver Quadra"," 610","Vancouver",N,N,"",3,0,"Armstrong","","Brad","Conservative","Conservateur",N,N,502
+59039,"Vancouver Quadra","Vancouver Quadra"," 610","Vancouver",N,N,"",3,0,"Murray","","Joyce","Liberal","Libéral",Y,Y,605
+59039,"Vancouver Quadra","Vancouver Quadra"," 610","Vancouver",N,N,"",3,0,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,17
+59039,"Vancouver Quadra","Vancouver Quadra"," 610","Vancouver",N,N,"",3,0,"Singh","","Devyani","Green Party","Parti Vert",N,N,57
+59039,"Vancouver Quadra","Vancouver Quadra"," 611","Metro Vancouver A",N,N,"",7,0,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,246
+59039,"Vancouver Quadra","Vancouver Quadra"," 611","Metro Vancouver A",N,N,"",7,0,"Armstrong","","Brad","Conservative","Conservateur",N,N,294
+59039,"Vancouver Quadra","Vancouver Quadra"," 611","Metro Vancouver A",N,N,"",7,0,"Murray","","Joyce","Liberal","Libéral",Y,Y,599
+59039,"Vancouver Quadra","Vancouver Quadra"," 611","Metro Vancouver A",N,N,"",7,0,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,25
+59039,"Vancouver Quadra","Vancouver Quadra"," 611","Metro Vancouver A",N,N,"",7,0,"Singh","","Devyani","Green Party","Parti Vert",N,N,67
+59039,"Vancouver Quadra","Vancouver Quadra"," 612","Musqueam 2",N,N,"",4,0,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,95
+59039,"Vancouver Quadra","Vancouver Quadra"," 612","Musqueam 2",N,N,"",4,0,"Armstrong","","Brad","Conservative","Conservateur",N,N,405
+59039,"Vancouver Quadra","Vancouver Quadra"," 612","Musqueam 2",N,N,"",4,0,"Murray","","Joyce","Liberal","Libéral",Y,Y,333
+59039,"Vancouver Quadra","Vancouver Quadra"," 612","Musqueam 2",N,N,"",4,0,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,6
+59039,"Vancouver Quadra","Vancouver Quadra"," 612","Musqueam 2",N,N,"",4,0,"Singh","","Devyani","Green Party","Parti Vert",N,N,67
+59039,"Vancouver Quadra","Vancouver Quadra"," 613","Vancouver",N,N,"",2,0,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,108
+59039,"Vancouver Quadra","Vancouver Quadra"," 613","Vancouver",N,N,"",2,0,"Armstrong","","Brad","Conservative","Conservateur",N,N,478
+59039,"Vancouver Quadra","Vancouver Quadra"," 613","Vancouver",N,N,"",2,0,"Murray","","Joyce","Liberal","Libéral",Y,Y,510
+59039,"Vancouver Quadra","Vancouver Quadra"," 613","Vancouver",N,N,"",2,0,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,12
+59039,"Vancouver Quadra","Vancouver Quadra"," 613","Vancouver",N,N,"",2,0,"Singh","","Devyani","Green Party","Parti Vert",N,N,48
+59039,"Vancouver Quadra","Vancouver Quadra"," 614","Vancouver",N,N,"",2,0,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,199
+59039,"Vancouver Quadra","Vancouver Quadra"," 614","Vancouver",N,N,"",2,0,"Armstrong","","Brad","Conservative","Conservateur",N,N,425
+59039,"Vancouver Quadra","Vancouver Quadra"," 614","Vancouver",N,N,"",2,0,"Murray","","Joyce","Liberal","Libéral",Y,Y,648
+59039,"Vancouver Quadra","Vancouver Quadra"," 614","Vancouver",N,N,"",2,0,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,34
+59039,"Vancouver Quadra","Vancouver Quadra"," 614","Vancouver",N,N,"",2,0,"Singh","","Devyani","Green Party","Parti Vert",N,N,51
+59039,"Vancouver Quadra","Vancouver Quadra"," 615","Vancouver",N,N,"",2,0,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,101
+59039,"Vancouver Quadra","Vancouver Quadra"," 615","Vancouver",N,N,"",2,0,"Armstrong","","Brad","Conservative","Conservateur",N,N,613
+59039,"Vancouver Quadra","Vancouver Quadra"," 615","Vancouver",N,N,"",2,0,"Murray","","Joyce","Liberal","Libéral",Y,Y,416
+59039,"Vancouver Quadra","Vancouver Quadra"," 615","Vancouver",N,N,"",2,0,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,14
+59039,"Vancouver Quadra","Vancouver Quadra"," 615","Vancouver",N,N,"",2,0,"Singh","","Devyani","Green Party","Parti Vert",N,N,38
+59039,"Vancouver Quadra","Vancouver Quadra"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",27,891,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,210
+59039,"Vancouver Quadra","Vancouver Quadra"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",27,891,"Armstrong","","Brad","Conservative","Conservateur",N,N,239
+59039,"Vancouver Quadra","Vancouver Quadra"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",27,891,"Murray","","Joyce","Liberal","Libéral",Y,Y,509
+59039,"Vancouver Quadra","Vancouver Quadra"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",27,891,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,25
+59039,"Vancouver Quadra","Vancouver Quadra"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",27,891,"Singh","","Devyani","Green Party","Parti Vert",N,N,89
+59039,"Vancouver Quadra","Vancouver Quadra"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",139,0,"Abenes","","Naden","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,848
+59039,"Vancouver Quadra","Vancouver Quadra"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",139,0,"Armstrong","","Brad","Conservative","Conservateur",N,N,1251
+59039,"Vancouver Quadra","Vancouver Quadra"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",139,0,"Murray","","Joyce","Liberal","Libéral",Y,Y,2256
+59039,"Vancouver Quadra","Vancouver Quadra"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",139,0,"Siekmann","","Renate","People's Party - PPC","Parti populaire - PPC",N,N,51
+59039,"Vancouver Quadra","Vancouver Quadra"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",139,0,"Singh","","Devyani","Green Party","Parti Vert",N,N,288

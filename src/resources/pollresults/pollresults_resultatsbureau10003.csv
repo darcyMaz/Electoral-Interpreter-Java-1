@@ -1,0 +1,754 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 1","Tilting",N,N,"",8,153,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 1","Tilting",N,N,"",8,153,"Simms","","Scott","Liberal","Libéral",Y,N,51
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 1","Tilting",N,N,"",8,153,"Small","","Clifford","Conservative","Conservateur",N,Y,40
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 2","Joe Batt's Arm",N,N,"",0,250,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 2","Joe Batt's Arm",N,N,"",0,250,"Simms","","Scott","Liberal","Libéral",Y,N,73
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 2","Joe Batt's Arm",N,N,"",0,250,"Small","","Clifford","Conservative","Conservateur",N,Y,21
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 3","Joe Batt's Arm--Barr'd Islands--Shoal Bay",N,N,"",0,360,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 3","Joe Batt's Arm--Barr'd Islands--Shoal Bay",N,N,"",0,360,"Simms","","Scott","Liberal","Libéral",Y,N,98
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 3","Joe Batt's Arm--Barr'd Islands--Shoal Bay",N,N,"",0,360,"Small","","Clifford","Conservative","Conservateur",N,Y,31
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 4","Fogo",N,N,"",4,249,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 4","Fogo",N,N,"",4,249,"Simms","","Scott","Liberal","Libéral",Y,N,53
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 4","Fogo",N,N,"",4,249,"Small","","Clifford","Conservative","Conservateur",N,Y,19
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 5","Fogo",N,N,"",3,213,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 5","Fogo",N,N,"",3,213,"Simms","","Scott","Liberal","Libéral",Y,N,35
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 5","Fogo",N,N,"",3,213,"Small","","Clifford","Conservative","Conservateur",N,Y,19
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 6","Seldom",N,N,"",5,330,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 6","Seldom",N,N,"",5,330,"Simms","","Scott","Liberal","Libéral",Y,N,78
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 6","Seldom",N,N,"",5,330,"Small","","Clifford","Conservative","Conservateur",N,Y,36
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 7","Island Harbour--Deep Bay",N,N,"",3,152,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 7","Island Harbour--Deep Bay",N,N,"",3,152,"Simms","","Scott","Liberal","Libéral",Y,N,38
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 7","Island Harbour--Deep Bay",N,N,"",3,152,"Small","","Clifford","Conservative","Conservateur",N,Y,33
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 8","Durrell",N,N,"",2,328,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 8","Durrell",N,N,"",2,328,"Simms","","Scott","Liberal","Libéral",Y,N,61
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 8","Durrell",N,N,"",2,328,"Small","","Clifford","Conservative","Conservateur",N,Y,66
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 9","Twillingate",N,N,"",0,330,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 9","Twillingate",N,N,"",0,330,"Simms","","Scott","Liberal","Libéral",Y,N,59
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 9","Twillingate",N,N,"",0,330,"Small","","Clifford","Conservative","Conservateur",N,Y,59
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 10","Twillingate",N,N,"",0,369,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 10","Twillingate",N,N,"",0,369,"Simms","","Scott","Liberal","Libéral",Y,N,76
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 10","Twillingate",N,N,"",0,369,"Small","","Clifford","Conservative","Conservateur",N,Y,60
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 11","Twillingate",N,N,"",3,486,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 11","Twillingate",N,N,"",3,486,"Simms","","Scott","Liberal","Libéral",Y,N,92
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 11","Twillingate",N,N,"",3,486,"Small","","Clifford","Conservative","Conservateur",N,Y,64
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 12","Twillingate--Little Harbour",N,N,"",0,488,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 12","Twillingate--Little Harbour",N,N,"",0,488,"Simms","","Scott","Liberal","Libéral",Y,N,93
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 12","Twillingate--Little Harbour",N,N,"",0,488,"Small","","Clifford","Conservative","Conservateur",N,Y,68
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 13","Woodstock",N,N,"",4,316,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 13","Woodstock",N,N,"",4,316,"Simms","","Scott","Liberal","Libéral",Y,N,24
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 13","Woodstock",N,N,"",4,316,"Small","","Clifford","Conservative","Conservateur",N,Y,128
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 14","Change Islands",N,N,"",9,166,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 14","Change Islands",N,N,"",9,166,"Simms","","Scott","Liberal","Libéral",Y,N,58
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 14","Change Islands",N,N,"",9,166,"Small","","Clifford","Conservative","Conservateur",N,Y,29
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 15","Herring Neck",N,N,"",1,305,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 15","Herring Neck",N,N,"",1,305,"Simms","","Scott","Liberal","Libéral",Y,N,33
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 15","Herring Neck",N,N,"",1,305,"Small","","Clifford","Conservative","Conservateur",N,Y,46
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 16","Stag Harbour",N,N,"",4,105,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 16","Stag Harbour",N,N,"",4,105,"Simms","","Scott","Liberal","Libéral",Y,N,21
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 16","Stag Harbour",N,N,"",4,105,"Small","","Clifford","Conservative","Conservateur",N,Y,22
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 17","Pikes Arm",N,N,"",5,182,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 17","Pikes Arm",N,N,"",5,182,"Simms","","Scott","Liberal","Libéral",Y,N,47
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 17","Pikes Arm",N,N,"",5,182,"Small","","Clifford","Conservative","Conservateur",N,Y,26
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 18","Valley Pond",N,N,"",3,254,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 18","Valley Pond",N,N,"",3,254,"Simms","","Scott","Liberal","Libéral",Y,N,61
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 18","Valley Pond",N,N,"",3,254,"Small","","Clifford","Conservative","Conservateur",N,Y,54
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 19","Crow Head",N,N,"",6,113,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 19","Crow Head",N,N,"",6,113,"Simms","","Scott","Liberal","Libéral",Y,N,42
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 19","Crow Head",N,N,"",6,113,"Small","","Clifford","Conservative","Conservateur",N,Y,13
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 20","Fleur de Lys",N,N,"",10,216,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 20","Fleur de Lys",N,N,"",10,216,"Simms","","Scott","Liberal","Libéral",Y,N,68
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 20","Fleur de Lys",N,N,"",10,216,"Small","","Clifford","Conservative","Conservateur",N,Y,94
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 21","Shoe Cove",N,N,"",6,128,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 21","Shoe Cove",N,N,"",6,128,"Simms","","Scott","Liberal","Libéral",Y,N,24
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 21","Shoe Cove",N,N,"",6,128,"Small","","Clifford","Conservative","Conservateur",N,Y,44
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 22","LaScie",N,N,"",1,224,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 22","LaScie",N,N,"",1,224,"Simms","","Scott","Liberal","Libéral",Y,N,19
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 22","LaScie",N,N,"",1,224,"Small","","Clifford","Conservative","Conservateur",N,Y,35
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 23","La Scie",N,N,"",8,283,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 23","La Scie",N,N,"",8,283,"Simms","","Scott","Liberal","Libéral",Y,N,35
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 23","La Scie",N,N,"",8,283,"Small","","Clifford","Conservative","Conservateur",N,Y,63
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 24","LaScie",N,N,"",2,174,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 24","LaScie",N,N,"",2,174,"Simms","","Scott","Liberal","Libéral",Y,N,20
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 24","LaScie",N,N,"",2,174,"Small","","Clifford","Conservative","Conservateur",N,Y,20
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 25","Hillgrade",N,N,"",0,175,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 25","Hillgrade",N,N,"",0,175,"Simms","","Scott","Liberal","Libéral",Y,N,15
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 25","Hillgrade",N,N,"",0,175,"Small","","Clifford","Conservative","Conservateur",N,Y,47
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 26","Stoneville--Port Albert",N,N,"",1,289,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 26","Stoneville--Port Albert",N,N,"",1,289,"Simms","","Scott","Liberal","Libéral",Y,N,29
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 26","Stoneville--Port Albert",N,N,"",1,289,"Small","","Clifford","Conservative","Conservateur",N,Y,73
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 27","Fairbank",N,N,"",0,77,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 27","Fairbank",N,N,"",0,77,"Simms","","Scott","Liberal","Libéral",Y,N,9
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 27","Fairbank",N,N,"",0,77,"Small","","Clifford","Conservative","Conservateur",N,Y,13
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 28","Virgin Arm",N,N,"",6,479,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 28","Virgin Arm",N,N,"",6,479,"Simms","","Scott","Liberal","Libéral",Y,N,41
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 28","Virgin Arm",N,N,"",6,479,"Small","","Clifford","Conservative","Conservateur",N,Y,121
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 29","Horwood",N,N,"",8,265,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 29","Horwood",N,N,"",8,265,"Simms","","Scott","Liberal","Libéral",Y,N,37
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 29","Horwood",N,N,"",8,265,"Small","","Clifford","Conservative","Conservateur",N,Y,35
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 30","Moreton's Harbour",N,N,"",1,67,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 30","Moreton's Harbour",N,N,"",1,67,"Simms","","Scott","Liberal","Libéral",Y,N,16
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 30","Moreton's Harbour",N,N,"",1,67,"Small","","Clifford","Conservative","Conservateur",N,Y,21
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 31","Brent's Cove",N,N,"",6,257,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 31","Brent's Cove",N,N,"",6,257,"Simms","","Scott","Liberal","Libéral",Y,N,28
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 31","Brent's Cove",N,N,"",6,257,"Small","","Clifford","Conservative","Conservateur",N,Y,52
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 32","Coachman's Cove",N,N,"20",0,90,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 32","Coachman's Cove",N,N,"20",0,90,"Simms","","Scott","Liberal","Libéral",Y,N,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 32","Coachman's Cove",N,N,"20",0,90,"Small","","Clifford","Conservative","Conservateur",N,Y,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 33","Summerford",N,N,"",4,297,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 33","Summerford",N,N,"",4,297,"Simms","","Scott","Liberal","Libéral",Y,N,34
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 33","Summerford",N,N,"",4,297,"Small","","Clifford","Conservative","Conservateur",N,Y,60
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 34","Summerford",N,N,"",1,237,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 34","Summerford",N,N,"",1,237,"Simms","","Scott","Liberal","Libéral",Y,N,31
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 34","Summerford",N,N,"",1,237,"Small","","Clifford","Conservative","Conservateur",N,Y,62
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 35","Summerford",N,N,"",5,239,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 35","Summerford",N,N,"",5,239,"Simms","","Scott","Liberal","Libéral",Y,N,32
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 35","Summerford",N,N,"",5,239,"Small","","Clifford","Conservative","Conservateur",N,Y,52
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 36","Cottlesville",N,N,"",0,212,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 36","Cottlesville",N,N,"",0,212,"Simms","","Scott","Liberal","Libéral",Y,N,34
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 36","Cottlesville",N,N,"",0,212,"Small","","Clifford","Conservative","Conservateur",N,Y,52
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 37","Boyd's Cove",N,N,"",2,144,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 37","Boyd's Cove",N,N,"",2,144,"Simms","","Scott","Liberal","Libéral",Y,N,29
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 37","Boyd's Cove",N,N,"",2,144,"Small","","Clifford","Conservative","Conservateur",N,Y,36
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 38","Wild Cove",N,N,"",1,36,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 38","Wild Cove",N,N,"",1,36,"Simms","","Scott","Liberal","Libéral",Y,N,1
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 38","Wild Cove",N,N,"",1,36,"Small","","Clifford","Conservative","Conservateur",N,Y,24
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 39","Little Burnt Bay",N,N,"",0,235,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 39","Little Burnt Bay",N,N,"",0,235,"Simms","","Scott","Liberal","Libéral",Y,N,37
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 39","Little Burnt Bay",N,N,"",0,235,"Small","","Clifford","Conservative","Conservateur",N,Y,49
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 40","Beaumont",N,N,"",0,151,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 40","Beaumont",N,N,"",0,151,"Simms","","Scott","Liberal","Libéral",Y,N,42
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 40","Beaumont",N,N,"",0,151,"Small","","Clifford","Conservative","Conservateur",N,Y,26
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 41","Ming's Bight",N,N,"",0,256,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 41","Ming's Bight",N,N,"",0,256,"Simms","","Scott","Liberal","Libéral",Y,N,30
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 41","Ming's Bight",N,N,"",0,256,"Small","","Clifford","Conservative","Conservateur",N,Y,84
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 42","Cottrell's Cove",N,N,"",5,167,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 42","Cottrell's Cove",N,N,"",5,167,"Simms","","Scott","Liberal","Libéral",Y,N,34
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 42","Cottrell's Cove",N,N,"",5,167,"Small","","Clifford","Conservative","Conservateur",N,Y,21
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 43","Nippers Harbour",N,N,"",0,72,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 43","Nippers Harbour",N,N,"",0,72,"Simms","","Scott","Liberal","Libéral",Y,N,7
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 43","Nippers Harbour",N,N,"",0,72,"Small","","Clifford","Conservative","Conservateur",N,Y,16
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 44","Gander Bay South",N,N,"",0,328,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 44","Gander Bay South",N,N,"",0,328,"Simms","","Scott","Liberal","Libéral",Y,N,34
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 44","Gander Bay South",N,N,"",0,328,"Small","","Clifford","Conservative","Conservateur",N,Y,71
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 45","Comfort Cove-Newstead",N,N,"",3,321,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 45","Comfort Cove-Newstead",N,N,"",3,321,"Simms","","Scott","Liberal","Libéral",Y,N,61
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 45","Comfort Cove-Newstead",N,N,"",3,321,"Small","","Clifford","Conservative","Conservateur",N,Y,62
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 46","Baie Verte",N,N,"",0,354,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 46","Baie Verte",N,N,"",0,354,"Simms","","Scott","Liberal","Libéral",Y,N,20
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 46","Baie Verte",N,N,"",0,354,"Small","","Clifford","Conservative","Conservateur",N,Y,48
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 47","Baie Verte",N,N,"",1,302,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 47","Baie Verte",N,N,"",1,302,"Simms","","Scott","Liberal","Libéral",Y,N,11
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 47","Baie Verte",N,N,"",1,302,"Small","","Clifford","Conservative","Conservateur",N,Y,63
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 48","Baie Verte",N,N,"",1,367,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 48","Baie Verte",N,N,"",1,367,"Simms","","Scott","Liberal","Libéral",Y,N,30
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 48","Baie Verte",N,N,"",1,367,"Small","","Clifford","Conservative","Conservateur",N,Y,66
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 49","Victoria Cove",N,N,"",8,591,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 49","Victoria Cove",N,N,"",8,591,"Simms","","Scott","Liberal","Libéral",Y,N,62
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 49","Victoria Cove",N,N,"",8,591,"Small","","Clifford","Conservative","Conservateur",N,Y,68
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 50","Clarke's Head",N,N,"",1,158,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 50","Clarke's Head",N,N,"",1,158,"Simms","","Scott","Liberal","Libéral",Y,N,19
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 50","Clarke's Head",N,N,"",1,158,"Small","","Clifford","Conservative","Conservateur",N,Y,15
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 51","Birchy Bay",N,N,"",5,468,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 51","Birchy Bay",N,N,"",5,468,"Simms","","Scott","Liberal","Libéral",Y,N,53
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 51","Birchy Bay",N,N,"",5,468,"Small","","Clifford","Conservative","Conservateur",N,Y,150
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 52","Seal Cove",N,N,"",1,262,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 52","Seal Cove",N,N,"",1,262,"Simms","","Scott","Liberal","Libéral",Y,N,19
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 52","Seal Cove",N,N,"",1,262,"Small","","Clifford","Conservative","Conservateur",N,Y,54
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 53","Burlington",N,N,"",4,388,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 53","Burlington",N,N,"",4,388,"Simms","","Scott","Liberal","Libéral",Y,N,25
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 53","Burlington",N,N,"",4,388,"Small","","Clifford","Conservative","Conservateur",N,Y,146
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 54","Baytona",N,N,"",2,227,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 54","Baytona",N,N,"",2,227,"Simms","","Scott","Liberal","Libéral",Y,N,40
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 54","Baytona",N,N,"",2,227,"Small","","Clifford","Conservative","Conservateur",N,Y,67
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 55","Little Bay Islands",Y,N,"",0,0,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 55","Little Bay Islands",Y,N,"",0,0,"Simms","","Scott","Liberal","Libéral",Y,N,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 55","Little Bay Islands",Y,N,"",0,0,"Small","","Clifford","Conservative","Conservateur",N,Y,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 56","King's Point--Nickey's Nose Cove",N,N,"",0,119,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 56","King's Point--Nickey's Nose Cove",N,N,"",0,119,"Simms","","Scott","Liberal","Libéral",Y,N,32
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 56","King's Point--Nickey's Nose Cove",N,N,"",0,119,"Small","","Clifford","Conservative","Conservateur",N,Y,29
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 57","Embree",N,N,"",4,282,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 57","Embree",N,N,"",4,282,"Simms","","Scott","Liberal","Libéral",Y,N,16
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 57","Embree",N,N,"",4,282,"Small","","Clifford","Conservative","Conservateur",N,Y,82
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 58","Embree",N,N,"",5,271,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 58","Embree",N,N,"",5,271,"Simms","","Scott","Liberal","Libéral",Y,N,18
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 58","Embree",N,N,"",5,271,"Small","","Clifford","Conservative","Conservateur",N,Y,72
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 59","Leading Tickles",N,N,"",15,293,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 59","Leading Tickles",N,N,"",15,293,"Simms","","Scott","Liberal","Libéral",Y,N,117
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 59","Leading Tickles",N,N,"",15,293,"Small","","Clifford","Conservative","Conservateur",N,Y,53
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 60","Brighton",N,N,"",0,140,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 60","Brighton",N,N,"",0,140,"Simms","","Scott","Liberal","Libéral",Y,N,28
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 60","Brighton",N,N,"",0,140,"Small","","Clifford","Conservative","Conservateur",N,Y,56
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 61","Campbellton",N,N,"",2,268,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 61","Campbellton",N,N,"",2,268,"Simms","","Scott","Liberal","Libéral",Y,N,53
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 61","Campbellton",N,N,"",2,268,"Small","","Clifford","Conservative","Conservateur",N,Y,62
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 62","Campbellton--Loon Bay",N,N,"",2,367,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 62","Campbellton--Loon Bay",N,N,"",2,367,"Simms","","Scott","Liberal","Libéral",Y,N,79
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 62","Campbellton--Loon Bay",N,N,"",2,367,"Small","","Clifford","Conservative","Conservateur",N,Y,80
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 63","Stanhope",N,N,"",4,211,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 63","Stanhope",N,N,"",4,211,"Simms","","Scott","Liberal","Libéral",Y,N,20
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 63","Stanhope",N,N,"",4,211,"Small","","Clifford","Conservative","Conservateur",N,Y,81
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 64","Lewisporte",N,N,"",3,323,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 64","Lewisporte",N,N,"",3,323,"Simms","","Scott","Liberal","Libéral",Y,N,33
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 64","Lewisporte",N,N,"",3,323,"Small","","Clifford","Conservative","Conservateur",N,Y,56
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 65","Lewisporte",N,N,"",2,310,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 65","Lewisporte",N,N,"",2,310,"Simms","","Scott","Liberal","Libéral",Y,N,36
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 65","Lewisporte",N,N,"",2,310,"Small","","Clifford","Conservative","Conservateur",N,Y,45
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 66","Lewisporte",N,N,"",2,303,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 66","Lewisporte",N,N,"",2,303,"Simms","","Scott","Liberal","Libéral",Y,N,37
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 66","Lewisporte",N,N,"",2,303,"Small","","Clifford","Conservative","Conservateur",N,Y,39
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 67","Lewisporte",N,N,"",0,263,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 67","Lewisporte",N,N,"",0,263,"Simms","","Scott","Liberal","Libéral",Y,N,35
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 67","Lewisporte",N,N,"",0,263,"Small","","Clifford","Conservative","Conservateur",N,Y,54
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 68","Triton",N,N,"",8,335,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 68","Triton",N,N,"",8,335,"Simms","","Scott","Liberal","Libéral",Y,N,34
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 68","Triton",N,N,"",8,335,"Small","","Clifford","Conservative","Conservateur",N,Y,120
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 69","Triton",N,N,"",5,463,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 69","Triton",N,N,"",5,463,"Simms","","Scott","Liberal","Libéral",Y,N,44
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 69","Triton",N,N,"",5,463,"Small","","Clifford","Conservative","Conservateur",N,Y,171
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 70","Little Bay",N,N,"",2,282,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 70","Little Bay",N,N,"",2,282,"Simms","","Scott","Liberal","Libéral",Y,N,43
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 70","Little Bay",N,N,"",2,282,"Small","","Clifford","Conservative","Conservateur",N,Y,79
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 71","Middle Arm",N,N,"",1,371,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 71","Middle Arm",N,N,"",1,371,"Simms","","Scott","Liberal","Libéral",Y,N,21
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 71","Middle Arm",N,N,"",1,371,"Small","","Clifford","Conservative","Conservateur",N,Y,128
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 72","Pilley's Island",N,N,"",1,275,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 72","Pilley's Island",N,N,"",1,275,"Simms","","Scott","Liberal","Libéral",Y,N,49
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 72","Pilley's Island",N,N,"",1,275,"Small","","Clifford","Conservative","Conservateur",N,Y,79
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 73","Lewisporte",N,N,"",1,491,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 73","Lewisporte",N,N,"",1,491,"Simms","","Scott","Liberal","Libéral",Y,N,54
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 73","Lewisporte",N,N,"",1,491,"Small","","Clifford","Conservative","Conservateur",N,Y,102
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 74","Lewisporte",N,N,"",4,331,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 74","Lewisporte",N,N,"",4,331,"Simms","","Scott","Liberal","Libéral",Y,N,46
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 74","Lewisporte",N,N,"",4,331,"Small","","Clifford","Conservative","Conservateur",N,Y,47
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 75","Lewisporte",N,N,"",2,472,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 75","Lewisporte",N,N,"",2,472,"Simms","","Scott","Liberal","Libéral",Y,N,46
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 75","Lewisporte",N,N,"",2,472,"Small","","Clifford","Conservative","Conservateur",N,Y,83
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 76","Lewisporte",N,N,"",5,371,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 76","Lewisporte",N,N,"",5,371,"Simms","","Scott","Liberal","Libéral",Y,N,47
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 76","Lewisporte",N,N,"",5,371,"Small","","Clifford","Conservative","Conservateur",N,Y,75
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 77","Port Anson",N,N,"",0,221,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 77","Port Anson",N,N,"",0,221,"Simms","","Scott","Liberal","Libéral",Y,N,18
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 77","Port Anson",N,N,"",0,221,"Small","","Clifford","Conservative","Conservateur",N,Y,75
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 78","Brown's Arm--Porterville",N,N,"",7,343,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 78","Brown's Arm--Porterville",N,N,"",7,343,"Simms","","Scott","Liberal","Libéral",Y,N,41
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 78","Brown's Arm--Porterville",N,N,"",7,343,"Small","","Clifford","Conservative","Conservateur",N,Y,125
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 79","Point of Bay",N,N,"",5,169,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 79","Point of Bay",N,N,"",5,169,"Simms","","Scott","Liberal","Libéral",Y,N,31
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 79","Point of Bay",N,N,"",5,169,"Small","","Clifford","Conservative","Conservateur",N,Y,43
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 80A","Gander",N,N,"",2,404,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 80A","Gander",N,N,"",2,404,"Simms","","Scott","Liberal","Libéral",Y,N,61
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 80A","Gander",N,N,"",2,404,"Small","","Clifford","Conservative","Conservateur",N,Y,50
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 80B","Gander",N,N,"",2,401,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 80B","Gander",N,N,"",2,401,"Simms","","Scott","Liberal","Libéral",Y,N,51
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 80B","Gander",N,N,"",2,401,"Small","","Clifford","Conservative","Conservateur",N,Y,48
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 81","Gander",N,N,"",0,364,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 81","Gander",N,N,"",0,364,"Simms","","Scott","Liberal","Libéral",Y,N,64
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 81","Gander",N,N,"",0,364,"Small","","Clifford","Conservative","Conservateur",N,Y,50
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 82","Gander",N,N,"",4,472,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 82","Gander",N,N,"",4,472,"Simms","","Scott","Liberal","Libéral",Y,N,78
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 82","Gander",N,N,"",4,472,"Small","","Clifford","Conservative","Conservateur",N,Y,53
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 83","Gander",N,N,"",2,292,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 83","Gander",N,N,"",2,292,"Simms","","Scott","Liberal","Libéral",Y,N,50
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 83","Gander",N,N,"",2,292,"Small","","Clifford","Conservative","Conservateur",N,Y,30
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 84","Gander",N,N,"",1,619,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 84","Gander",N,N,"",1,619,"Simms","","Scott","Liberal","Libéral",Y,N,106
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 84","Gander",N,N,"",1,619,"Small","","Clifford","Conservative","Conservateur",N,Y,78
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 85","Gander",N,N,"",3,407,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 85","Gander",N,N,"",3,407,"Simms","","Scott","Liberal","Libéral",Y,N,56
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 85","Gander",N,N,"",3,407,"Small","","Clifford","Conservative","Conservateur",N,Y,30
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 86","Gander",N,N,"",0,368,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 86","Gander",N,N,"",0,368,"Simms","","Scott","Liberal","Libéral",Y,N,44
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 86","Gander",N,N,"",0,368,"Small","","Clifford","Conservative","Conservateur",N,Y,41
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 87","Gander",N,N,"",0,343,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 87","Gander",N,N,"",0,343,"Simms","","Scott","Liberal","Libéral",Y,N,46
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 87","Gander",N,N,"",0,343,"Small","","Clifford","Conservative","Conservateur",N,Y,33
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 88","Gander",N,N,"",2,344,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 88","Gander",N,N,"",2,344,"Simms","","Scott","Liberal","Libéral",Y,N,52
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 88","Gander",N,N,"",2,344,"Small","","Clifford","Conservative","Conservateur",N,Y,49
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 89","Gander",N,N,"",1,351,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 89","Gander",N,N,"",1,351,"Simms","","Scott","Liberal","Libéral",Y,N,39
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 89","Gander",N,N,"",1,351,"Small","","Clifford","Conservative","Conservateur",N,Y,30
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 90","Gander",N,N,"",2,355,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 90","Gander",N,N,"",2,355,"Simms","","Scott","Liberal","Libéral",Y,N,42
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 90","Gander",N,N,"",2,355,"Small","","Clifford","Conservative","Conservateur",N,Y,37
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 91","Gander",N,N,"",2,402,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 91","Gander",N,N,"",2,402,"Simms","","Scott","Liberal","Libéral",Y,N,46
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 91","Gander",N,N,"",2,402,"Small","","Clifford","Conservative","Conservateur",N,Y,29
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 92","Benton",N,N,"",0,153,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 92","Benton",N,N,"",0,153,"Simms","","Scott","Liberal","Libéral",Y,N,21
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 92","Benton",N,N,"",0,153,"Small","","Clifford","Conservative","Conservateur",N,Y,39
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 93","Westport",N,N,"",0,186,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 93","Westport",N,N,"",0,186,"Simms","","Scott","Liberal","Libéral",Y,N,11
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 93","Westport",N,N,"",0,186,"Small","","Clifford","Conservative","Conservateur",N,Y,66
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 94","Point Leamington",N,N,"",6,316,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 94","Point Leamington",N,N,"",6,316,"Simms","","Scott","Liberal","Libéral",Y,N,69
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 94","Point Leamington",N,N,"",6,316,"Small","","Clifford","Conservative","Conservateur",N,Y,57
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 95","Point Leamington",N,N,"",2,257,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 95","Point Leamington",N,N,"",2,257,"Simms","","Scott","Liberal","Libéral",Y,N,47
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 95","Point Leamington",N,N,"",2,257,"Small","","Clifford","Conservative","Conservateur",N,Y,49
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 96A","Gander",N,N,"",1,195,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 96A","Gander",N,N,"",1,195,"Simms","","Scott","Liberal","Libéral",Y,N,27
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 96A","Gander",N,N,"",1,195,"Small","","Clifford","Conservative","Conservateur",N,Y,27
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 96B","Gander",N,N,"",10,144,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 96B","Gander",N,N,"",10,144,"Simms","","Scott","Liberal","Libéral",Y,N,44
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 96B","Gander",N,N,"",10,144,"Small","","Clifford","Conservative","Conservateur",N,Y,22
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 97","Gander",N,N,"",2,342,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 97","Gander",N,N,"",2,342,"Simms","","Scott","Liberal","Libéral",Y,N,66
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 97","Gander",N,N,"",2,342,"Small","","Clifford","Conservative","Conservateur",N,Y,42
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 98","Gander",N,N,"",0,403,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 98","Gander",N,N,"",0,403,"Simms","","Scott","Liberal","Libéral",Y,N,56
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 98","Gander",N,N,"",0,403,"Small","","Clifford","Conservative","Conservateur",N,Y,33
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 99","Gander",N,N,"",1,345,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 99","Gander",N,N,"",1,345,"Simms","","Scott","Liberal","Libéral",Y,N,44
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 99","Gander",N,N,"",1,345,"Small","","Clifford","Conservative","Conservateur",N,Y,39
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 100","Gander",N,N,"",1,329,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 100","Gander",N,N,"",1,329,"Simms","","Scott","Liberal","Libéral",Y,N,38
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 100","Gander",N,N,"",1,329,"Small","","Clifford","Conservative","Conservateur",N,Y,23
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 101","Gander",N,N,"",2,319,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 101","Gander",N,N,"",2,319,"Simms","","Scott","Liberal","Libéral",Y,N,51
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 101","Gander",N,N,"",2,319,"Small","","Clifford","Conservative","Conservateur",N,Y,29
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 102","Gander",N,N,"",0,281,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 102","Gander",N,N,"",0,281,"Simms","","Scott","Liberal","Libéral",Y,N,34
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 102","Gander",N,N,"",0,281,"Small","","Clifford","Conservative","Conservateur",N,Y,23
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 103","Gander",N,N,"",1,510,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 103","Gander",N,N,"",1,510,"Simms","","Scott","Liberal","Libéral",Y,N,73
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 103","Gander",N,N,"",1,510,"Small","","Clifford","Conservative","Conservateur",N,Y,46
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 104","Gander",N,N,"",2,382,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 104","Gander",N,N,"",2,382,"Simms","","Scott","Liberal","Libéral",Y,N,42
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 104","Gander",N,N,"",2,382,"Small","","Clifford","Conservative","Conservateur",N,Y,36
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 105","Gander",N,N,"",4,326,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 105","Gander",N,N,"",4,326,"Simms","","Scott","Liberal","Libéral",Y,N,45
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 105","Gander",N,N,"",4,326,"Small","","Clifford","Conservative","Conservateur",N,Y,25
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 106","Gander",N,N,"",2,543,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 106","Gander",N,N,"",2,543,"Simms","","Scott","Liberal","Libéral",Y,N,92
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 106","Gander",N,N,"",2,543,"Small","","Clifford","Conservative","Conservateur",N,Y,74
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 107","Springdale",N,N,"",1,306,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 107","Springdale",N,N,"",1,306,"Simms","","Scott","Liberal","Libéral",Y,N,19
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 107","Springdale",N,N,"",1,306,"Small","","Clifford","Conservative","Conservateur",N,Y,55
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 108A","Springdale",N,N,"",1,341,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 108A","Springdale",N,N,"",1,341,"Simms","","Scott","Liberal","Libéral",Y,N,21
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 108A","Springdale",N,N,"",1,341,"Small","","Clifford","Conservative","Conservateur",N,Y,51
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 108B","Springdale",N,N,"",4,23,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 108B","Springdale",N,N,"",4,23,"Simms","","Scott","Liberal","Libéral",Y,N,7
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 108B","Springdale",N,N,"",4,23,"Small","","Clifford","Conservative","Conservateur",N,Y,12
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 109","Springdale",N,N,"",1,349,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 109","Springdale",N,N,"",1,349,"Simms","","Scott","Liberal","Libéral",Y,N,21
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 109","Springdale",N,N,"",1,349,"Small","","Clifford","Conservative","Conservateur",N,Y,49
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 110","Robert's Arm",N,N,"",3,362,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 110","Robert's Arm",N,N,"",3,362,"Simms","","Scott","Liberal","Libéral",Y,N,20
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 110","Robert's Arm",N,N,"",3,362,"Small","","Clifford","Conservative","Conservateur",N,Y,96
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 111","Robert's Arm",N,N,"",4,283,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 111","Robert's Arm",N,N,"",4,283,"Simms","","Scott","Liberal","Libéral",Y,N,22
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 111","Robert's Arm",N,N,"",4,283,"Small","","Clifford","Conservative","Conservateur",N,Y,70
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 112","Laurenceton",N,N,"",0,151,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 112","Laurenceton",N,N,"",0,151,"Simms","","Scott","Liberal","Libéral",Y,N,27
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 112","Laurenceton",N,N,"",0,151,"Small","","Clifford","Conservative","Conservateur",N,Y,45
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 113","Rattling Brook",N,N,"115",0,73,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 113","Rattling Brook",N,N,"115",0,73,"Simms","","Scott","Liberal","Libéral",Y,N,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 113","Rattling Brook",N,N,"115",0,73,"Small","","Clifford","Conservative","Conservateur",N,Y,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 114","King's Point",N,N,"",4,319,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 114","King's Point",N,N,"",4,319,"Simms","","Scott","Liberal","Libéral",Y,N,36
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 114","King's Point",N,N,"",4,319,"Small","","Clifford","Conservative","Conservateur",N,Y,101
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 115","King's Point",N,N,"",5,294,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 115","King's Point",N,N,"",5,294,"Simms","","Scott","Liberal","Libéral",Y,N,45
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 115","King's Point",N,N,"",5,294,"Small","","Clifford","Conservative","Conservateur",N,Y,118
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 116","Springdale",N,N,"",2,416,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 116","Springdale",N,N,"",2,416,"Simms","","Scott","Liberal","Libéral",Y,N,31
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 116","Springdale",N,N,"",2,416,"Small","","Clifford","Conservative","Conservateur",N,Y,55
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 117","Springdale",N,N,"",0,685,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 117","Springdale",N,N,"",0,685,"Simms","","Scott","Liberal","Libéral",Y,N,51
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 117","Springdale",N,N,"",0,685,"Small","","Clifford","Conservative","Conservateur",N,Y,113
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 118","Springdale",N,N,"",0,446,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 118","Springdale",N,N,"",0,446,"Simms","","Scott","Liberal","Libéral",Y,N,30
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 118","Springdale",N,N,"",0,446,"Small","","Clifford","Conservative","Conservateur",N,Y,54
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 119","Norris Arm North",N,N,"",5,177,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 119","Norris Arm North",N,N,"",5,177,"Simms","","Scott","Liberal","Libéral",Y,N,23
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 119","Norris Arm North",N,N,"",5,177,"Small","","Clifford","Conservative","Conservateur",N,Y,63
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 120","Glenwood",N,N,"",5,303,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 120","Glenwood",N,N,"",5,303,"Simms","","Scott","Liberal","Libéral",Y,N,76
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 120","Glenwood",N,N,"",5,303,"Small","","Clifford","Conservative","Conservateur",N,Y,48
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 121","Glenwood",N,N,"",4,371,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 121","Glenwood",N,N,"",4,371,"Simms","","Scott","Liberal","Libéral",Y,N,67
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 121","Glenwood",N,N,"",4,371,"Small","","Clifford","Conservative","Conservateur",N,Y,61
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 122","Botwood",N,N,"",2,274,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 122","Botwood",N,N,"",2,274,"Simms","","Scott","Liberal","Libéral",Y,N,38
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 122","Botwood",N,N,"",2,274,"Small","","Clifford","Conservative","Conservateur",N,Y,24
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 123","Botwood",N,N,"",2,403,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 123","Botwood",N,N,"",2,403,"Simms","","Scott","Liberal","Libéral",Y,N,42
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 123","Botwood",N,N,"",2,403,"Small","","Clifford","Conservative","Conservateur",N,Y,51
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 124","Botwood",N,N,"",1,382,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 124","Botwood",N,N,"",1,382,"Simms","","Scott","Liberal","Libéral",Y,N,51
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 124","Botwood",N,N,"",1,382,"Small","","Clifford","Conservative","Conservateur",N,Y,48
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 125","Northern Arm",N,N,"",0,331,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 125","Northern Arm",N,N,"",0,331,"Simms","","Scott","Liberal","Libéral",Y,N,85
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 125","Northern Arm",N,N,"",0,331,"Small","","Clifford","Conservative","Conservateur",N,Y,51
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 126","Appleton",N,N,"",0,205,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 126","Appleton",N,N,"",0,205,"Simms","","Scott","Liberal","Libéral",Y,N,49
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 126","Appleton",N,N,"",0,205,"Small","","Clifford","Conservative","Conservateur",N,Y,42
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 127","Appleton",N,N,"",1,300,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 127","Appleton",N,N,"",1,300,"Simms","","Scott","Liberal","Libéral",Y,N,51
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 127","Appleton",N,N,"",1,300,"Small","","Clifford","Conservative","Conservateur",N,Y,74
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 128","Botwood",N,N,"",0,425,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 128","Botwood",N,N,"",0,425,"Simms","","Scott","Liberal","Libéral",Y,N,67
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 128","Botwood",N,N,"",0,425,"Small","","Clifford","Conservative","Conservateur",N,Y,39
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 129","Botwood",N,N,"",3,374,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 129","Botwood",N,N,"",3,374,"Simms","","Scott","Liberal","Libéral",Y,N,32
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 129","Botwood",N,N,"",3,374,"Small","","Clifford","Conservative","Conservateur",N,Y,39
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 130","Botwood",N,N,"",0,268,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 130","Botwood",N,N,"",0,268,"Simms","","Scott","Liberal","Libéral",Y,N,40
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 130","Botwood",N,N,"",0,268,"Small","","Clifford","Conservative","Conservateur",N,Y,31
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 131","Botwood",N,N,"",1,355,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 131","Botwood",N,N,"",1,355,"Simms","","Scott","Liberal","Libéral",Y,N,33
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 131","Botwood",N,N,"",1,355,"Small","","Clifford","Conservative","Conservateur",N,Y,36
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 132","Peterview",N,N,"",0,349,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 132","Peterview",N,N,"",0,349,"Simms","","Scott","Liberal","Libéral",Y,N,22
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 132","Peterview",N,N,"",0,349,"Small","","Clifford","Conservative","Conservateur",N,Y,66
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 133","Peterview",N,N,"",0,365,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 133","Peterview",N,N,"",0,365,"Simms","","Scott","Liberal","Libéral",Y,N,54
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 133","Peterview",N,N,"",0,365,"Small","","Clifford","Conservative","Conservateur",N,Y,45
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 134","Norris Arm",N,N,"",3,365,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 134","Norris Arm",N,N,"",3,365,"Simms","","Scott","Liberal","Libéral",Y,N,81
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 134","Norris Arm",N,N,"",3,365,"Small","","Clifford","Conservative","Conservateur",N,Y,70
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 135","Norris Arm",N,N,"",3,419,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 135","Norris Arm",N,N,"",3,419,"Simms","","Scott","Liberal","Libéral",Y,N,91
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 135","Norris Arm",N,N,"",3,419,"Small","","Clifford","Conservative","Conservateur",N,Y,73
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 136","Grand Falls-Windsor",N,N,"",6,366,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 136","Grand Falls-Windsor",N,N,"",6,366,"Simms","","Scott","Liberal","Libéral",Y,N,47
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 136","Grand Falls-Windsor",N,N,"",6,366,"Small","","Clifford","Conservative","Conservateur",N,Y,67
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 137","Grand Falls-Windsor",N,N,"",5,387,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 137","Grand Falls-Windsor",N,N,"",5,387,"Simms","","Scott","Liberal","Libéral",Y,N,46
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 137","Grand Falls-Windsor",N,N,"",5,387,"Small","","Clifford","Conservative","Conservateur",N,Y,55
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 138","Grand Falls-Windsor",N,N,"",5,350,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 138","Grand Falls-Windsor",N,N,"",5,350,"Simms","","Scott","Liberal","Libéral",Y,N,37
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 138","Grand Falls-Windsor",N,N,"",5,350,"Small","","Clifford","Conservative","Conservateur",N,Y,35
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 139","Grand Falls-Windsor",N,N,"",6,348,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 139","Grand Falls-Windsor",N,N,"",6,348,"Simms","","Scott","Liberal","Libéral",Y,N,49
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 139","Grand Falls-Windsor",N,N,"",6,348,"Small","","Clifford","Conservative","Conservateur",N,Y,57
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 140","Grand Falls-Windsor",N,N,"",3,402,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 140","Grand Falls-Windsor",N,N,"",3,402,"Simms","","Scott","Liberal","Libéral",Y,N,57
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 140","Grand Falls-Windsor",N,N,"",3,402,"Small","","Clifford","Conservative","Conservateur",N,Y,48
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 141","Grand Falls-Windsor",N,N,"",3,366,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 141","Grand Falls-Windsor",N,N,"",3,366,"Simms","","Scott","Liberal","Libéral",Y,N,50
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 141","Grand Falls-Windsor",N,N,"",3,366,"Small","","Clifford","Conservative","Conservateur",N,Y,41
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 142","Grand Falls-Windsor",N,N,"",1,343,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 142","Grand Falls-Windsor",N,N,"",1,343,"Simms","","Scott","Liberal","Libéral",Y,N,60
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 142","Grand Falls-Windsor",N,N,"",1,343,"Small","","Clifford","Conservative","Conservateur",N,Y,50
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 143","Sheppardville",N,N,"",1,59,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 143","Sheppardville",N,N,"",1,59,"Simms","","Scott","Liberal","Libéral",Y,N,10
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 143","Sheppardville",N,N,"",1,59,"Small","","Clifford","Conservative","Conservateur",N,Y,21
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 144","Bishop's Falls",N,N,"",1,184,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 144","Bishop's Falls",N,N,"",1,184,"Simms","","Scott","Liberal","Libéral",Y,N,31
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 144","Bishop's Falls",N,N,"",1,184,"Small","","Clifford","Conservative","Conservateur",N,Y,23
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 145","Bishop's Falls",N,N,"",1,383,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 145","Bishop's Falls",N,N,"",1,383,"Simms","","Scott","Liberal","Libéral",Y,N,51
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 145","Bishop's Falls",N,N,"",1,383,"Small","","Clifford","Conservative","Conservateur",N,Y,34
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 146","Bishop's Falls",N,N,"",0,374,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 146","Bishop's Falls",N,N,"",0,374,"Simms","","Scott","Liberal","Libéral",Y,N,62
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 146","Bishop's Falls",N,N,"",0,374,"Small","","Clifford","Conservative","Conservateur",N,Y,53
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 147","Bishop's Falls",N,N,"",1,322,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 147","Bishop's Falls",N,N,"",1,322,"Simms","","Scott","Liberal","Libéral",Y,N,31
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 147","Bishop's Falls",N,N,"",1,322,"Small","","Clifford","Conservative","Conservateur",N,Y,50
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 148","Bishop's Falls",N,N,"",0,411,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 148","Bishop's Falls",N,N,"",0,411,"Simms","","Scott","Liberal","Libéral",Y,N,91
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 148","Bishop's Falls",N,N,"",0,411,"Small","","Clifford","Conservative","Conservateur",N,Y,61
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 149","Bishop's Falls",N,N,"",0,382,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 149","Bishop's Falls",N,N,"",0,382,"Simms","","Scott","Liberal","Libéral",Y,N,58
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 149","Bishop's Falls",N,N,"",0,382,"Small","","Clifford","Conservative","Conservateur",N,Y,26
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 150","Bishop's Falls",N,N,"",0,358,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 150","Bishop's Falls",N,N,"",0,358,"Simms","","Scott","Liberal","Libéral",Y,N,61
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 150","Bishop's Falls",N,N,"",0,358,"Small","","Clifford","Conservative","Conservateur",N,Y,59
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 151","Bishop's Falls",N,N,"",1,357,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 151","Bishop's Falls",N,N,"",1,357,"Simms","","Scott","Liberal","Libéral",Y,N,59
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 151","Bishop's Falls",N,N,"",1,357,"Small","","Clifford","Conservative","Conservateur",N,Y,64
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 152","South Brook",N,N,"",0,496,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 152","South Brook",N,N,"",0,496,"Simms","","Scott","Liberal","Libéral",Y,N,68
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 152","South Brook",N,N,"",0,496,"Small","","Clifford","Conservative","Conservateur",N,Y,145
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 153","Grand Falls-Windsor",N,N,"",1,515,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 153","Grand Falls-Windsor",N,N,"",1,515,"Simms","","Scott","Liberal","Libéral",Y,N,90
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 153","Grand Falls-Windsor",N,N,"",1,515,"Small","","Clifford","Conservative","Conservateur",N,Y,87
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 154","Grand Falls-Windsor",N,N,"",6,629,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 154","Grand Falls-Windsor",N,N,"",6,629,"Simms","","Scott","Liberal","Libéral",Y,N,80
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 154","Grand Falls-Windsor",N,N,"",6,629,"Small","","Clifford","Conservative","Conservateur",N,Y,116
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 155","Grand Falls-Windsor",N,N,"",1,531,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 155","Grand Falls-Windsor",N,N,"",1,531,"Simms","","Scott","Liberal","Libéral",Y,N,91
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 155","Grand Falls-Windsor",N,N,"",1,531,"Small","","Clifford","Conservative","Conservateur",N,Y,87
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 156","Grand Falls-Windsor",N,N,"",4,495,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 156","Grand Falls-Windsor",N,N,"",4,495,"Simms","","Scott","Liberal","Libéral",Y,N,73
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 156","Grand Falls-Windsor",N,N,"",4,495,"Small","","Clifford","Conservative","Conservateur",N,Y,110
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 157","Grand Falls-Windsor",N,N,"",3,403,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 157","Grand Falls-Windsor",N,N,"",3,403,"Simms","","Scott","Liberal","Libéral",Y,N,62
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 157","Grand Falls-Windsor",N,N,"",3,403,"Small","","Clifford","Conservative","Conservateur",N,Y,61
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 158","Grand Falls-Windsor",N,N,"",4,432,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 158","Grand Falls-Windsor",N,N,"",4,432,"Simms","","Scott","Liberal","Libéral",Y,N,60
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 158","Grand Falls-Windsor",N,N,"",4,432,"Small","","Clifford","Conservative","Conservateur",N,Y,65
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 159","Grand Falls-Windsor",N,N,"",2,403,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 159","Grand Falls-Windsor",N,N,"",2,403,"Simms","","Scott","Liberal","Libéral",Y,N,61
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 159","Grand Falls-Windsor",N,N,"",2,403,"Small","","Clifford","Conservative","Conservateur",N,Y,66
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 160","Grand Falls-Windsor",N,N,"",0,398,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 160","Grand Falls-Windsor",N,N,"",0,398,"Simms","","Scott","Liberal","Libéral",Y,N,72
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 160","Grand Falls-Windsor",N,N,"",0,398,"Small","","Clifford","Conservative","Conservateur",N,Y,66
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 161","Grand Falls-Windsor",N,N,"",6,441,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 161","Grand Falls-Windsor",N,N,"",6,441,"Simms","","Scott","Liberal","Libéral",Y,N,69
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 161","Grand Falls-Windsor",N,N,"",6,441,"Small","","Clifford","Conservative","Conservateur",N,Y,73
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 162","Grand Falls-Windsor",N,N,"",2,342,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 162","Grand Falls-Windsor",N,N,"",2,342,"Simms","","Scott","Liberal","Libéral",Y,N,51
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 162","Grand Falls-Windsor",N,N,"",2,342,"Small","","Clifford","Conservative","Conservateur",N,Y,38
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 163","Grand Falls-Windsor",N,N,"",2,391,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 163","Grand Falls-Windsor",N,N,"",2,391,"Simms","","Scott","Liberal","Libéral",Y,N,56
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 163","Grand Falls-Windsor",N,N,"",2,391,"Small","","Clifford","Conservative","Conservateur",N,Y,43
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 164","Grand Falls-Windsor",N,N,"",2,382,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 164","Grand Falls-Windsor",N,N,"",2,382,"Simms","","Scott","Liberal","Libéral",Y,N,30
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 164","Grand Falls-Windsor",N,N,"",2,382,"Small","","Clifford","Conservative","Conservateur",N,Y,31
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 165","Grand Falls-Windsor",N,N,"",2,548,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 165","Grand Falls-Windsor",N,N,"",2,548,"Simms","","Scott","Liberal","Libéral",Y,N,102
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 165","Grand Falls-Windsor",N,N,"",2,548,"Small","","Clifford","Conservative","Conservateur",N,Y,85
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 166","Grand Falls-Windsor",N,N,"",1,374,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 166","Grand Falls-Windsor",N,N,"",1,374,"Simms","","Scott","Liberal","Libéral",Y,N,65
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 166","Grand Falls-Windsor",N,N,"",1,374,"Small","","Clifford","Conservative","Conservateur",N,Y,37
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 167","Grand Falls-Windsor",N,N,"",5,351,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 167","Grand Falls-Windsor",N,N,"",5,351,"Simms","","Scott","Liberal","Libéral",Y,N,62
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 167","Grand Falls-Windsor",N,N,"",5,351,"Small","","Clifford","Conservative","Conservateur",N,Y,25
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 168","Grand Falls-Windsor",N,N,"",0,411,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 168","Grand Falls-Windsor",N,N,"",0,411,"Simms","","Scott","Liberal","Libéral",Y,N,79
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 168","Grand Falls-Windsor",N,N,"",0,411,"Small","","Clifford","Conservative","Conservateur",N,Y,51
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 169","Grand Falls-Windsor",N,N,"",3,366,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 169","Grand Falls-Windsor",N,N,"",3,366,"Simms","","Scott","Liberal","Libéral",Y,N,56
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 169","Grand Falls-Windsor",N,N,"",3,366,"Small","","Clifford","Conservative","Conservateur",N,Y,30
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 170","Grand Falls-Windsor",N,N,"",2,428,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 170","Grand Falls-Windsor",N,N,"",2,428,"Simms","","Scott","Liberal","Libéral",Y,N,66
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 170","Grand Falls-Windsor",N,N,"",2,428,"Small","","Clifford","Conservative","Conservateur",N,Y,40
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 171","Grand Falls-Windsor",N,N,"",2,354,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 171","Grand Falls-Windsor",N,N,"",2,354,"Simms","","Scott","Liberal","Libéral",Y,N,64
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 171","Grand Falls-Windsor",N,N,"",2,354,"Small","","Clifford","Conservative","Conservateur",N,Y,41
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 172","Grand Falls-Windsor",N,N,"",3,370,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 172","Grand Falls-Windsor",N,N,"",3,370,"Simms","","Scott","Liberal","Libéral",Y,N,64
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 172","Grand Falls-Windsor",N,N,"",3,370,"Small","","Clifford","Conservative","Conservateur",N,Y,35
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 173","Grand Falls-Windsor",N,N,"",2,368,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 173","Grand Falls-Windsor",N,N,"",2,368,"Simms","","Scott","Liberal","Libéral",Y,N,57
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 173","Grand Falls-Windsor",N,N,"",2,368,"Small","","Clifford","Conservative","Conservateur",N,Y,38
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 174","Badger",N,N,"",1,442,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 174","Badger",N,N,"",1,442,"Simms","","Scott","Liberal","Libéral",Y,N,92
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 174","Badger",N,N,"",1,442,"Small","","Clifford","Conservative","Conservateur",N,Y,110
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 175","Badger",N,N,"",0,271,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 175","Badger",N,N,"",0,271,"Simms","","Scott","Liberal","Libéral",Y,N,75
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 175","Badger",N,N,"",0,271,"Small","","Clifford","Conservative","Conservateur",N,Y,59
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 176","Buchans Junction--Millertown",N,N,"",0,138,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 176","Buchans Junction--Millertown",N,N,"",0,138,"Simms","","Scott","Liberal","Libéral",Y,N,37
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 176","Buchans Junction--Millertown",N,N,"",0,138,"Small","","Clifford","Conservative","Conservateur",N,Y,21
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 177","Buchans",N,N,"",0,255,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 177","Buchans",N,N,"",0,255,"Simms","","Scott","Liberal","Libéral",Y,N,46
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 177","Buchans",N,N,"",0,255,"Small","","Clifford","Conservative","Conservateur",N,Y,29
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 178","Buchans",N,N,"",0,314,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 178","Buchans",N,N,"",0,314,"Simms","","Scott","Liberal","Libéral",Y,N,83
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 178","Buchans",N,N,"",0,314,"Small","","Clifford","Conservative","Conservateur",N,Y,21
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 179","Pool's Cove",N,N,"",2,155,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 179","Pool's Cove",N,N,"",2,155,"Simms","","Scott","Liberal","Libéral",Y,N,27
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 179","Pool's Cove",N,N,"",2,155,"Small","","Clifford","Conservative","Conservateur",N,Y,44
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 180","Head of Bay D'Espoir--St. Veronica's",N,N,"",2,216,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 180","Head of Bay D'Espoir--St. Veronica's",N,N,"",2,216,"Simms","","Scott","Liberal","Libéral",Y,N,72
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 180","Head of Bay D'Espoir--St. Veronica's",N,N,"",2,216,"Small","","Clifford","Conservative","Conservateur",N,Y,29
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 181","Milltown",N,N,"",6,413,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 181","Milltown",N,N,"",6,413,"Simms","","Scott","Liberal","Libéral",Y,N,77
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 181","Milltown",N,N,"",6,413,"Small","","Clifford","Conservative","Conservateur",N,Y,57
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 182","Conne River",N,N,"",4,689,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 182","Conne River",N,N,"",4,689,"Simms","","Scott","Liberal","Libéral",Y,N,97
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 182","Conne River",N,N,"",4,689,"Small","","Clifford","Conservative","Conservateur",N,Y,47
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 183","Morrisville",N,N,"",3,66,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 183","Morrisville",N,N,"",3,66,"Simms","","Scott","Liberal","Libéral",Y,N,26
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 183","Morrisville",N,N,"",3,66,"Small","","Clifford","Conservative","Conservateur",N,Y,12
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 184","Rencontre East",N,N,"",2,90,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 184","Rencontre East",N,N,"",2,90,"Simms","","Scott","Liberal","Libéral",Y,N,25
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 184","Rencontre East",N,N,"",2,90,"Small","","Clifford","Conservative","Conservateur",N,Y,15
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 185","St. Alban's",N,N,"",11,558,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 185","St. Alban's",N,N,"",11,558,"Simms","","Scott","Liberal","Libéral",Y,N,70
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 185","St. Alban's",N,N,"",11,558,"Small","","Clifford","Conservative","Conservateur",N,Y,121
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 186","St. Alban's",N,N,"",5,310,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 186","St. Alban's",N,N,"",5,310,"Simms","","Scott","Liberal","Libéral",Y,N,36
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 186","St. Alban's",N,N,"",5,310,"Small","","Clifford","Conservative","Conservateur",N,Y,66
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 187","St. Alban's",N,N,"",4,165,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 187","St. Alban's",N,N,"",4,165,"Simms","","Scott","Liberal","Libéral",Y,N,28
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 187","St. Alban's",N,N,"",4,165,"Small","","Clifford","Conservative","Conservateur",N,Y,40
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 188","Belleoram",N,N,"",1,295,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 188","Belleoram",N,N,"",1,295,"Simms","","Scott","Liberal","Libéral",Y,N,25
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 188","Belleoram",N,N,"",1,295,"Small","","Clifford","Conservative","Conservateur",N,Y,44
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 189","Gaultois",N,N,"",0,94,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 189","Gaultois",N,N,"",0,94,"Simms","","Scott","Liberal","Libéral",Y,N,36
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 189","Gaultois",N,N,"",0,94,"Small","","Clifford","Conservative","Conservateur",N,Y,7
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 190","Mose Ambrose",N,N,"",6,309,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 190","Mose Ambrose",N,N,"",6,309,"Simms","","Scott","Liberal","Libéral",Y,N,62
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 190","Mose Ambrose",N,N,"",6,309,"Small","","Clifford","Conservative","Conservateur",N,Y,39
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 191","Hermitage-Sandyville",N,N,"",11,378,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 191","Hermitage-Sandyville",N,N,"",11,378,"Simms","","Scott","Liberal","Libéral",Y,N,102
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 191","Hermitage-Sandyville",N,N,"",11,378,"Small","","Clifford","Conservative","Conservateur",N,Y,52
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 192","McCallum",N,N,"",0,35,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 192","McCallum",N,N,"",0,35,"Simms","","Scott","Liberal","Libéral",Y,N,15
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 192","McCallum",N,N,"",0,35,"Small","","Clifford","Conservative","Conservateur",N,Y,3
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 193","Harbour Breton",N,N,"",0,263,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 193","Harbour Breton",N,N,"",0,263,"Simms","","Scott","Liberal","Libéral",Y,N,32
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 193","Harbour Breton",N,N,"",0,263,"Small","","Clifford","Conservative","Conservateur",N,Y,40
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 194","Harbour Breton",N,N,"",1,241,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 194","Harbour Breton",N,N,"",1,241,"Simms","","Scott","Liberal","Libéral",Y,N,24
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 194","Harbour Breton",N,N,"",1,241,"Small","","Clifford","Conservative","Conservateur",N,Y,25
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 195","Harbour Breton",N,N,"",0,395,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 195","Harbour Breton",N,N,"",0,395,"Simms","","Scott","Liberal","Libéral",Y,N,62
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 195","Harbour Breton",N,N,"",0,395,"Small","","Clifford","Conservative","Conservateur",N,Y,51
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 196","Harbour Breton",N,N,"",2,410,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 196","Harbour Breton",N,N,"",2,410,"Simms","","Scott","Liberal","Libéral",Y,N,55
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 196","Harbour Breton",N,N,"",2,410,"Small","","Clifford","Conservative","Conservateur",N,Y,55
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 197","Wreck Cove",N,N,"",0,123,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 197","Wreck Cove",N,N,"",0,123,"Simms","","Scott","Liberal","Libéral",Y,N,33
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 197","Wreck Cove",N,N,"",0,123,"Small","","Clifford","Conservative","Conservateur",N,Y,10
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 198","Seal Cove",N,N,"",0,193,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 198","Seal Cove",N,N,"",0,193,"Simms","","Scott","Liberal","Libéral",Y,N,79
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 198","Seal Cove",N,N,"",0,193,"Small","","Clifford","Conservative","Conservateur",N,Y,15
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 500","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 500","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Simms","","Scott","Liberal","Libéral",Y,N,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 500","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Small","","Clifford","Conservative","Conservateur",N,Y,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 501","Mobile poll/Bureau itinérant",N,N,"48",0,4,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 501","Mobile poll/Bureau itinérant",N,N,"48",0,4,"Simms","","Scott","Liberal","Libéral",Y,N,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 501","Mobile poll/Bureau itinérant",N,N,"48",0,4,"Small","","Clifford","Conservative","Conservateur",N,Y,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 502","Mobile poll/Bureau itinérant",N,N,"",8,90,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 502","Mobile poll/Bureau itinérant",N,N,"",8,90,"Simms","","Scott","Liberal","Libéral",Y,N,18
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 502","Mobile poll/Bureau itinérant",N,N,"",8,90,"Small","","Clifford","Conservative","Conservateur",N,Y,8
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 503","Mobile poll/Bureau itinérant",N,N,"",0,36,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 503","Mobile poll/Bureau itinérant",N,N,"",0,36,"Simms","","Scott","Liberal","Libéral",Y,N,5
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 503","Mobile poll/Bureau itinérant",N,N,"",0,36,"Small","","Clifford","Conservative","Conservateur",N,Y,17
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 504","Mobile poll/Bureau itinérant",N,N,"",0,11,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 504","Mobile poll/Bureau itinérant",N,N,"",0,11,"Simms","","Scott","Liberal","Libéral",Y,N,9
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 504","Mobile poll/Bureau itinérant",N,N,"",0,11,"Small","","Clifford","Conservative","Conservateur",N,Y,1
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 505","Mobile poll/Bureau itinérant",N,N,"11",0,19,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 505","Mobile poll/Bureau itinérant",N,N,"11",0,19,"Simms","","Scott","Liberal","Libéral",Y,N,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 505","Mobile poll/Bureau itinérant",N,N,"11",0,19,"Small","","Clifford","Conservative","Conservateur",N,Y,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 506","Mobile poll/Bureau itinérant",N,N,"",2,18,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 506","Mobile poll/Bureau itinérant",N,N,"",2,18,"Simms","","Scott","Liberal","Libéral",Y,N,4
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 506","Mobile poll/Bureau itinérant",N,N,"",2,18,"Small","","Clifford","Conservative","Conservateur",N,Y,2
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 507","Mobile poll/Bureau itinérant",N,N,"",0,9,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 507","Mobile poll/Bureau itinérant",N,N,"",0,9,"Simms","","Scott","Liberal","Libéral",Y,N,8
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 507","Mobile poll/Bureau itinérant",N,N,"",0,9,"Small","","Clifford","Conservative","Conservateur",N,Y,1
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 508","Mobile poll/Bureau itinérant",N,N,"",2,8,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 508","Mobile poll/Bureau itinérant",N,N,"",2,8,"Simms","","Scott","Liberal","Libéral",Y,N,2
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 508","Mobile poll/Bureau itinérant",N,N,"",2,8,"Small","","Clifford","Conservative","Conservateur",N,Y,2
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 509","Mobile poll/Bureau itinérant",N,N,"",6,86,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 509","Mobile poll/Bureau itinérant",N,N,"",6,86,"Simms","","Scott","Liberal","Libéral",Y,N,22
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 509","Mobile poll/Bureau itinérant",N,N,"",6,86,"Small","","Clifford","Conservative","Conservateur",N,Y,11
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 510","Mobile poll/Bureau itinérant",N,N,"",0,26,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 510","Mobile poll/Bureau itinérant",N,N,"",0,26,"Simms","","Scott","Liberal","Libéral",Y,N,6
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 510","Mobile poll/Bureau itinérant",N,N,"",0,26,"Small","","Clifford","Conservative","Conservateur",N,Y,4
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 511","Mobile poll/Bureau itinérant",N,N,"",2,75,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 511","Mobile poll/Bureau itinérant",N,N,"",2,75,"Simms","","Scott","Liberal","Libéral",Y,N,43
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 511","Mobile poll/Bureau itinérant",N,N,"",2,75,"Small","","Clifford","Conservative","Conservateur",N,Y,6
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 512","Mobile poll/Bureau itinérant",N,N,"",0,60,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 512","Mobile poll/Bureau itinérant",N,N,"",0,60,"Simms","","Scott","Liberal","Libéral",Y,N,20
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 512","Mobile poll/Bureau itinérant",N,N,"",0,60,"Small","","Clifford","Conservative","Conservateur",N,Y,6
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 513","Mobile poll/Bureau itinérant",N,N,"",0,22,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 513","Mobile poll/Bureau itinérant",N,N,"",0,22,"Simms","","Scott","Liberal","Libéral",Y,N,4
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 513","Mobile poll/Bureau itinérant",N,N,"",0,22,"Small","","Clifford","Conservative","Conservateur",N,Y,3
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 514","Mobile poll/Bureau itinérant",N,Y,"",0,20,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 514","Mobile poll/Bureau itinérant",N,Y,"",0,20,"Simms","","Scott","Liberal","Libéral",Y,N,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 514","Mobile poll/Bureau itinérant",N,Y,"",0,20,"Small","","Clifford","Conservative","Conservateur",N,Y,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 515","Mobile poll/Bureau itinérant",N,N,"",1,37,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 515","Mobile poll/Bureau itinérant",N,N,"",1,37,"Simms","","Scott","Liberal","Libéral",Y,N,20
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 515","Mobile poll/Bureau itinérant",N,N,"",1,37,"Small","","Clifford","Conservative","Conservateur",N,Y,2
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 516","Mobile poll/Bureau itinérant",N,N,"",0,16,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 516","Mobile poll/Bureau itinérant",N,N,"",0,16,"Simms","","Scott","Liberal","Libéral",Y,N,8
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 516","Mobile poll/Bureau itinérant",N,N,"",0,16,"Small","","Clifford","Conservative","Conservateur",N,Y,1
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 517","Mobile poll/Bureau itinérant",N,N,"",1,50,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 517","Mobile poll/Bureau itinérant",N,N,"",1,50,"Simms","","Scott","Liberal","Libéral",Y,N,23
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 517","Mobile poll/Bureau itinérant",N,N,"",1,50,"Small","","Clifford","Conservative","Conservateur",N,Y,4
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 518","Mobile poll/Bureau itinérant",N,N,"",3,62,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 518","Mobile poll/Bureau itinérant",N,N,"",3,62,"Simms","","Scott","Liberal","Libéral",Y,N,23
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 518","Mobile poll/Bureau itinérant",N,N,"",3,62,"Small","","Clifford","Conservative","Conservateur",N,Y,9
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 519","Mobile poll/Bureau itinérant",N,N,"",4,56,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 519","Mobile poll/Bureau itinérant",N,N,"",4,56,"Simms","","Scott","Liberal","Libéral",Y,N,13
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 519","Mobile poll/Bureau itinérant",N,N,"",4,56,"Small","","Clifford","Conservative","Conservateur",N,Y,8
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 520","Mobile poll/Bureau itinérant",N,N,"",0,16,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 520","Mobile poll/Bureau itinérant",N,N,"",0,16,"Simms","","Scott","Liberal","Libéral",Y,N,14
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 520","Mobile poll/Bureau itinérant",N,N,"",0,16,"Small","","Clifford","Conservative","Conservateur",N,Y,1
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 521","Mobile poll/Bureau itinérant",N,N,"",0,84,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 521","Mobile poll/Bureau itinérant",N,N,"",0,84,"Simms","","Scott","Liberal","Libéral",Y,N,20
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 521","Mobile poll/Bureau itinérant",N,N,"",0,84,"Small","","Clifford","Conservative","Conservateur",N,Y,9
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 522","Mobile poll/Bureau itinérant",N,N,"",2,77,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 522","Mobile poll/Bureau itinérant",N,N,"",2,77,"Simms","","Scott","Liberal","Libéral",Y,N,27
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 522","Mobile poll/Bureau itinérant",N,N,"",2,77,"Small","","Clifford","Conservative","Conservateur",N,Y,19
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 523","Mobile poll/Bureau itinérant",N,N,"",0,57,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 523","Mobile poll/Bureau itinérant",N,N,"",0,57,"Simms","","Scott","Liberal","Libéral",Y,N,17
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 523","Mobile poll/Bureau itinérant",N,N,"",0,57,"Small","","Clifford","Conservative","Conservateur",N,Y,13
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 524","Mobile poll/Bureau itinérant",N,N,"",2,39,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 524","Mobile poll/Bureau itinérant",N,N,"",2,39,"Simms","","Scott","Liberal","Libéral",Y,N,15
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 524","Mobile poll/Bureau itinérant",N,N,"",2,39,"Small","","Clifford","Conservative","Conservateur",N,Y,2
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 525","Mobile poll/Bureau itinérant",N,N,"",3,66,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 525","Mobile poll/Bureau itinérant",N,N,"",3,66,"Simms","","Scott","Liberal","Libéral",Y,N,23
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 525","Mobile poll/Bureau itinérant",N,N,"",3,66,"Small","","Clifford","Conservative","Conservateur",N,Y,13
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 526","Mobile poll/Bureau itinérant",N,N,"",1,95,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 526","Mobile poll/Bureau itinérant",N,N,"",1,95,"Simms","","Scott","Liberal","Libéral",Y,N,49
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 526","Mobile poll/Bureau itinérant",N,N,"",1,95,"Small","","Clifford","Conservative","Conservateur",N,Y,17
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 600","Baie Verte",N,N,"",2,0,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 600","Baie Verte",N,N,"",2,0,"Simms","","Scott","Liberal","Libéral",Y,N,69
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 600","Baie Verte",N,N,"",2,0,"Small","","Clifford","Conservative","Conservateur",N,Y,274
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 601","La Scie",N,N,"",2,0,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 601","La Scie",N,N,"",2,0,"Simms","","Scott","Liberal","Libéral",Y,N,56
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 601","La Scie",N,N,"",2,0,"Small","","Clifford","Conservative","Conservateur",N,Y,55
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 602","Twillingate",N,N,"",0,0,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 602","Twillingate",N,N,"",0,0,"Simms","","Scott","Liberal","Libéral",Y,N,65
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 602","Twillingate",N,N,"",0,0,"Small","","Clifford","Conservative","Conservateur",N,Y,61
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 603","Joe Batt's Arm-Barr'd Islands-Shoal Bay",N,N,"",8,0,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 603","Joe Batt's Arm-Barr'd Islands-Shoal Bay",N,N,"",8,0,"Simms","","Scott","Liberal","Libéral",Y,N,52
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 603","Joe Batt's Arm-Barr'd Islands-Shoal Bay",N,N,"",8,0,"Small","","Clifford","Conservative","Conservateur",N,Y,39
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 604","Horwood",N,N,"",1,0,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 604","Horwood",N,N,"",1,0,"Simms","","Scott","Liberal","Libéral",Y,N,36
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 604","Horwood",N,N,"",1,0,"Small","","Clifford","Conservative","Conservateur",N,Y,45
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 605","Twillingate",N,N,"",0,0,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 605","Twillingate",N,N,"",0,0,"Simms","","Scott","Liberal","Libéral",Y,N,49
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 605","Twillingate",N,N,"",0,0,"Small","","Clifford","Conservative","Conservateur",N,Y,124
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 606","Lewisporte",N,N,"",0,0,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 606","Lewisporte",N,N,"",0,0,"Simms","","Scott","Liberal","Libéral",Y,N,147
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 606","Lewisporte",N,N,"",0,0,"Small","","Clifford","Conservative","Conservateur",N,Y,154
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 607","Lewisporte",N,N,"",19,0,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 607","Lewisporte",N,N,"",19,0,"Simms","","Scott","Liberal","Libéral",Y,N,158
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 607","Lewisporte",N,N,"",19,0,"Small","","Clifford","Conservative","Conservateur",N,Y,266
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 608","Botwood",N,N,"",25,0,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 608","Botwood",N,N,"",25,0,"Simms","","Scott","Liberal","Libéral",Y,N,348
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 608","Botwood",N,N,"",25,0,"Small","","Clifford","Conservative","Conservateur",N,Y,224
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 609","Robert's Arm",N,N,"",0,0,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 609","Robert's Arm",N,N,"",0,0,"Simms","","Scott","Liberal","Libéral",Y,N,55
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 609","Robert's Arm",N,N,"",0,0,"Small","","Clifford","Conservative","Conservateur",N,Y,127
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 610","Springdale",N,N,"",12,0,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 610","Springdale",N,N,"",12,0,"Simms","","Scott","Liberal","Libéral",Y,N,196
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 610","Springdale",N,N,"",12,0,"Small","","Clifford","Conservative","Conservateur",N,Y,305
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 611","Grand Falls-Windsor",N,N,"",14,0,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 611","Grand Falls-Windsor",N,N,"",14,0,"Simms","","Scott","Liberal","Libéral",Y,N,273
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 611","Grand Falls-Windsor",N,N,"",14,0,"Small","","Clifford","Conservative","Conservateur",N,Y,192
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 612","Grand Falls-Windsor",N,N,"",0,0,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 612","Grand Falls-Windsor",N,N,"",0,0,"Simms","","Scott","Liberal","Libéral",Y,N,508
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 612","Grand Falls-Windsor",N,N,"",0,0,"Small","","Clifford","Conservative","Conservateur",N,Y,277
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 613","Grand Falls-Windsor",N,N,"",13,0,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 613","Grand Falls-Windsor",N,N,"",13,0,"Simms","","Scott","Liberal","Libéral",Y,N,232
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 613","Grand Falls-Windsor",N,N,"",13,0,"Small","","Clifford","Conservative","Conservateur",N,Y,250
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 614","Bishop's Falls",N,N,"",0,0,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 614","Bishop's Falls",N,N,"",0,0,"Simms","","Scott","Liberal","Libéral",Y,N,378
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 614","Bishop's Falls",N,N,"",0,0,"Small","","Clifford","Conservative","Conservateur",N,Y,212
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 615","Gander",N,N,"",11,0,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 615","Gander",N,N,"",11,0,"Simms","","Scott","Liberal","Libéral",Y,N,341
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 615","Gander",N,N,"",11,0,"Small","","Clifford","Conservative","Conservateur",N,Y,196
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 616","Gander",N,N,"",25,0,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 616","Gander",N,N,"",25,0,"Simms","","Scott","Liberal","Libéral",Y,N,461
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 616","Gander",N,N,"",25,0,"Small","","Clifford","Conservative","Conservateur",N,Y,254
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 617","Buchans",N,N,"",0,0,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 617","Buchans",N,N,"",0,0,"Simms","","Scott","Liberal","Libéral",Y,N,107
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 617","Buchans",N,N,"",0,0,"Small","","Clifford","Conservative","Conservateur",N,Y,34
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 618","Harbour Breton",N,N,"",4,0,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 618","Harbour Breton",N,N,"",4,0,"Simms","","Scott","Liberal","Libéral",Y,N,46
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 618","Harbour Breton",N,N,"",4,0,"Small","","Clifford","Conservative","Conservateur",N,Y,80
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 619","St. Alban's",N,N,"",3,0,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 619","St. Alban's",N,N,"",3,0,"Simms","","Scott","Liberal","Libéral",Y,N,49
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 619","St. Alban's",N,N,"",3,0,"Small","","Clifford","Conservative","Conservateur",N,Y,94
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 620","Belleoram",N,N,"",1,0,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 620","Belleoram",N,N,"",1,0,"Simms","","Scott","Liberal","Libéral",Y,N,42
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," 620","Belleoram",N,N,"",1,0,"Small","","Clifford","Conservative","Conservateur",N,Y,21
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",10,28,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",10,28,"Simms","","Scott","Liberal","Libéral",Y,N,85
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",10,28,"Small","","Clifford","Conservative","Conservateur",N,Y,162
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",17,0,"Ruby","","Jamie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",17,0,"Simms","","Scott","Liberal","Libéral",Y,N,1082
+10003,"Coast of Bays--Central--Notre Dame","Coast of Bays--Central--Notre Dame"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",17,0,"Small","","Clifford","Conservative","Conservateur",N,Y,748

@@ -1,0 +1,1351 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+24046,"Manicouagan","Manicouagan"," 1","Schefferville",N,N,"",1,280,"Gagné","","Thomas","Liberal","Libéral",N,N,14
+24046,"Manicouagan","Manicouagan"," 1","Schefferville",N,N,"",1,280,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,6
+24046,"Manicouagan","Manicouagan"," 1","Schefferville",N,N,"",1,280,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 1","Schefferville",N,N,"",1,280,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24046,"Manicouagan","Manicouagan"," 1","Schefferville",N,N,"",1,280,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,6
+24046,"Manicouagan","Manicouagan"," 2","Matimekosh",N,N,"",1,309,"Gagné","","Thomas","Liberal","Libéral",N,N,12
+24046,"Manicouagan","Manicouagan"," 2","Matimekosh",N,N,"",1,309,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,0
+24046,"Manicouagan","Manicouagan"," 2","Matimekosh",N,N,"",1,309,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 2","Matimekosh",N,N,"",1,309,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 2","Matimekosh",N,N,"",1,309,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,0
+24046,"Manicouagan","Manicouagan"," 3","Kawawachikamach",N,N,"",1,464,"Gagné","","Thomas","Liberal","Libéral",N,N,55
+24046,"Manicouagan","Manicouagan"," 3","Kawawachikamach",N,N,"",1,464,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,2
+24046,"Manicouagan","Manicouagan"," 3","Kawawachikamach",N,N,"",1,464,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 3","Kawawachikamach",N,N,"",1,464,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+24046,"Manicouagan","Manicouagan"," 3","Kawawachikamach",N,N,"",1,464,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,1
+24046,"Manicouagan","Manicouagan"," 4","Blanc-Sablon",N,N,"",0,210,"Gagné","","Thomas","Liberal","Libéral",N,N,62
+24046,"Manicouagan","Manicouagan"," 4","Blanc-Sablon",N,N,"",0,210,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,6
+24046,"Manicouagan","Manicouagan"," 4","Blanc-Sablon",N,N,"",0,210,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 4","Blanc-Sablon",N,N,"",0,210,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24046,"Manicouagan","Manicouagan"," 4","Blanc-Sablon",N,N,"",0,210,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,11
+24046,"Manicouagan","Manicouagan"," 5","Lourdes-de-Blanc-Sablon",N,N,"",1,352,"Gagné","","Thomas","Liberal","Libéral",N,N,34
+24046,"Manicouagan","Manicouagan"," 5","Lourdes-de-Blanc-Sablon",N,N,"",1,352,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,26
+24046,"Manicouagan","Manicouagan"," 5","Lourdes-de-Blanc-Sablon",N,N,"",1,352,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 5","Lourdes-de-Blanc-Sablon",N,N,"",1,352,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24046,"Manicouagan","Manicouagan"," 5","Lourdes-de-Blanc-Sablon",N,N,"",1,352,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,17
+24046,"Manicouagan","Manicouagan"," 6","Lourdes-de-Blanc-Sablon",N,N,"",1,347,"Gagné","","Thomas","Liberal","Libéral",N,N,44
+24046,"Manicouagan","Manicouagan"," 6","Lourdes-de-Blanc-Sablon",N,N,"",1,347,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,12
+24046,"Manicouagan","Manicouagan"," 6","Lourdes-de-Blanc-Sablon",N,N,"",1,347,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 6","Lourdes-de-Blanc-Sablon",N,N,"",1,347,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+24046,"Manicouagan","Manicouagan"," 6","Lourdes-de-Blanc-Sablon",N,N,"",1,347,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,20
+24046,"Manicouagan","Manicouagan"," 7","Rivière-Saint-Paul",N,N,"",0,379,"Gagné","","Thomas","Liberal","Libéral",N,N,78
+24046,"Manicouagan","Manicouagan"," 7","Rivière-Saint-Paul",N,N,"",0,379,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,10
+24046,"Manicouagan","Manicouagan"," 7","Rivière-Saint-Paul",N,N,"",0,379,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 7","Rivière-Saint-Paul",N,N,"",0,379,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+24046,"Manicouagan","Manicouagan"," 7","Rivière-Saint-Paul",N,N,"",0,379,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,6
+24046,"Manicouagan","Manicouagan"," 8","Vieux-Fort",N,N,"",1,250,"Gagné","","Thomas","Liberal","Libéral",N,N,74
+24046,"Manicouagan","Manicouagan"," 8","Vieux-Fort",N,N,"",1,250,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,4
+24046,"Manicouagan","Manicouagan"," 8","Vieux-Fort",N,N,"",1,250,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 8","Vieux-Fort",N,N,"",1,250,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 8","Vieux-Fort",N,N,"",1,250,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,6
+24046,"Manicouagan","Manicouagan"," 9","La Tabatière",N,N,"",1,279,"Gagné","","Thomas","Liberal","Libéral",N,N,47
+24046,"Manicouagan","Manicouagan"," 9","La Tabatière",N,N,"",1,279,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,8
+24046,"Manicouagan","Manicouagan"," 9","La Tabatière",N,N,"",1,279,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,4
+24046,"Manicouagan","Manicouagan"," 9","La Tabatière",N,N,"",1,279,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24046,"Manicouagan","Manicouagan"," 9","La Tabatière",N,N,"",1,279,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,5
+24046,"Manicouagan","Manicouagan"," 10","Saint-Augustin",N,N,"",0,357,"Gagné","","Thomas","Liberal","Libéral",N,N,44
+24046,"Manicouagan","Manicouagan"," 10","Saint-Augustin",N,N,"",0,357,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,6
+24046,"Manicouagan","Manicouagan"," 10","Saint-Augustin",N,N,"",0,357,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 10","Saint-Augustin",N,N,"",0,357,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 10","Saint-Augustin",N,N,"",0,357,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,7
+24046,"Manicouagan","Manicouagan"," 11","Pakuashipi",N,N,"",2,213,"Gagné","","Thomas","Liberal","Libéral",N,N,15
+24046,"Manicouagan","Manicouagan"," 11","Pakuashipi",N,N,"",2,213,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,10
+24046,"Manicouagan","Manicouagan"," 11","Pakuashipi",N,N,"",2,213,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 11","Pakuashipi",N,N,"",2,213,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24046,"Manicouagan","Manicouagan"," 11","Pakuashipi",N,N,"",2,213,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,3
+24046,"Manicouagan","Manicouagan"," 12","Baie-des-Moutons",N,N,"",0,69,"Gagné","","Thomas","Liberal","Libéral",N,N,18
+24046,"Manicouagan","Manicouagan"," 12","Baie-des-Moutons",N,N,"",0,69,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,0
+24046,"Manicouagan","Manicouagan"," 12","Baie-des-Moutons",N,N,"",0,69,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 12","Baie-des-Moutons",N,N,"",0,69,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 12","Baie-des-Moutons",N,N,"",0,69,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,0
+24046,"Manicouagan","Manicouagan"," 13","Tête-à-la-Baleine",N,N,"",1,102,"Gagné","","Thomas","Liberal","Libéral",N,N,13
+24046,"Manicouagan","Manicouagan"," 13","Tête-à-la-Baleine",N,N,"",1,102,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,16
+24046,"Manicouagan","Manicouagan"," 13","Tête-à-la-Baleine",N,N,"",1,102,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 13","Tête-à-la-Baleine",N,N,"",1,102,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24046,"Manicouagan","Manicouagan"," 13","Tête-à-la-Baleine",N,N,"",1,102,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,3
+24046,"Manicouagan","Manicouagan"," 14","La Romaine",N,N,"",1,386,"Gagné","","Thomas","Liberal","Libéral",N,N,28
+24046,"Manicouagan","Manicouagan"," 14","La Romaine",N,N,"",1,386,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,11
+24046,"Manicouagan","Manicouagan"," 14","La Romaine",N,N,"",1,386,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 14","La Romaine",N,N,"",1,386,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 14","La Romaine",N,N,"",1,386,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,7
+24046,"Manicouagan","Manicouagan"," 15","La Romaine",N,N,"",2,430,"Gagné","","Thomas","Liberal","Libéral",N,N,39
+24046,"Manicouagan","Manicouagan"," 15","La Romaine",N,N,"",2,430,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,6
+24046,"Manicouagan","Manicouagan"," 15","La Romaine",N,N,"",2,430,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 15","La Romaine",N,N,"",2,430,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24046,"Manicouagan","Manicouagan"," 15","La Romaine",N,N,"",2,430,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,5
+24046,"Manicouagan","Manicouagan"," 16","Fermont",N,N,"",3,265,"Gagné","","Thomas","Liberal","Libéral",N,N,5
+24046,"Manicouagan","Manicouagan"," 16","Fermont",N,N,"",3,265,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,43
+24046,"Manicouagan","Manicouagan"," 16","Fermont",N,N,"",3,265,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,5
+24046,"Manicouagan","Manicouagan"," 16","Fermont",N,N,"",3,265,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24046,"Manicouagan","Manicouagan"," 16","Fermont",N,N,"",3,265,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,46
+24046,"Manicouagan","Manicouagan"," 17","Fermont",N,N,"",2,347,"Gagné","","Thomas","Liberal","Libéral",N,N,5
+24046,"Manicouagan","Manicouagan"," 17","Fermont",N,N,"",2,347,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,50
+24046,"Manicouagan","Manicouagan"," 17","Fermont",N,N,"",2,347,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,7
+24046,"Manicouagan","Manicouagan"," 17","Fermont",N,N,"",2,347,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24046,"Manicouagan","Manicouagan"," 17","Fermont",N,N,"",2,347,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,53
+24046,"Manicouagan","Manicouagan"," 18","Fermont",N,N,"",1,207,"Gagné","","Thomas","Liberal","Libéral",N,N,4
+24046,"Manicouagan","Manicouagan"," 18","Fermont",N,N,"",1,207,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,30
+24046,"Manicouagan","Manicouagan"," 18","Fermont",N,N,"",1,207,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 18","Fermont",N,N,"",1,207,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24046,"Manicouagan","Manicouagan"," 18","Fermont",N,N,"",1,207,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,36
+24046,"Manicouagan","Manicouagan"," 19","Fermont",N,N,"",2,250,"Gagné","","Thomas","Liberal","Libéral",N,N,5
+24046,"Manicouagan","Manicouagan"," 19","Fermont",N,N,"",2,250,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,52
+24046,"Manicouagan","Manicouagan"," 19","Fermont",N,N,"",2,250,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,5
+24046,"Manicouagan","Manicouagan"," 19","Fermont",N,N,"",2,250,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 19","Fermont",N,N,"",2,250,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,18
+24046,"Manicouagan","Manicouagan"," 20","Fermont",N,N,"",1,256,"Gagné","","Thomas","Liberal","Libéral",N,N,5
+24046,"Manicouagan","Manicouagan"," 20","Fermont",N,N,"",1,256,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,39
+24046,"Manicouagan","Manicouagan"," 20","Fermont",N,N,"",1,256,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 20","Fermont",N,N,"",1,256,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24046,"Manicouagan","Manicouagan"," 20","Fermont",N,N,"",1,256,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,25
+24046,"Manicouagan","Manicouagan"," 21","Fermont",N,N,"",1,314,"Gagné","","Thomas","Liberal","Libéral",N,N,2
+24046,"Manicouagan","Manicouagan"," 21","Fermont",N,N,"",1,314,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,79
+24046,"Manicouagan","Manicouagan"," 21","Fermont",N,N,"",1,314,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,5
+24046,"Manicouagan","Manicouagan"," 21","Fermont",N,N,"",1,314,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24046,"Manicouagan","Manicouagan"," 21","Fermont",N,N,"",1,314,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,43
+24046,"Manicouagan","Manicouagan"," 22","Chevery",N,N,"",1,179,"Gagné","","Thomas","Liberal","Libéral",N,N,39
+24046,"Manicouagan","Manicouagan"," 22","Chevery",N,N,"",1,179,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,18
+24046,"Manicouagan","Manicouagan"," 22","Chevery",N,N,"",1,179,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 22","Chevery",N,N,"",1,179,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24046,"Manicouagan","Manicouagan"," 22","Chevery",N,N,"",1,179,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,11
+24046,"Manicouagan","Manicouagan"," 23","Harrington Harbour",N,N,"",1,166,"Gagné","","Thomas","Liberal","Libéral",N,N,56
+24046,"Manicouagan","Manicouagan"," 23","Harrington Harbour",N,N,"",1,166,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,20
+24046,"Manicouagan","Manicouagan"," 23","Harrington Harbour",N,N,"",1,166,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 23","Harrington Harbour",N,N,"",1,166,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24046,"Manicouagan","Manicouagan"," 23","Harrington Harbour",N,N,"",1,166,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,8
+24046,"Manicouagan","Manicouagan"," 24","Baie-Johan-Beetz",N,N,"",3,77,"Gagné","","Thomas","Liberal","Libéral",N,N,6
+24046,"Manicouagan","Manicouagan"," 24","Baie-Johan-Beetz",N,N,"",3,77,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,26
+24046,"Manicouagan","Manicouagan"," 24","Baie-Johan-Beetz",N,N,"",3,77,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 24","Baie-Johan-Beetz",N,N,"",3,77,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24046,"Manicouagan","Manicouagan"," 24","Baie-Johan-Beetz",N,N,"",3,77,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,10
+24046,"Manicouagan","Manicouagan"," 25","Franquelin",N,N,"",5,255,"Gagné","","Thomas","Liberal","Libéral",N,N,14
+24046,"Manicouagan","Manicouagan"," 25","Franquelin",N,N,"",5,255,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,82
+24046,"Manicouagan","Manicouagan"," 25","Franquelin",N,N,"",5,255,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 25","Franquelin",N,N,"",5,255,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24046,"Manicouagan","Manicouagan"," 25","Franquelin",N,N,"",5,255,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,18
+24046,"Manicouagan","Manicouagan"," 26","Natashquan",N,N,"",1,282,"Gagné","","Thomas","Liberal","Libéral",N,N,54
+24046,"Manicouagan","Manicouagan"," 26","Natashquan",N,N,"",1,282,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,1
+24046,"Manicouagan","Manicouagan"," 26","Natashquan",N,N,"",1,282,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 26","Natashquan",N,N,"",1,282,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 26","Natashquan",N,N,"",1,282,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,3
+24046,"Manicouagan","Manicouagan"," 27","Natashquan",N,N,"",1,271,"Gagné","","Thomas","Liberal","Libéral",N,N,61
+24046,"Manicouagan","Manicouagan"," 27","Natashquan",N,N,"",1,271,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,0
+24046,"Manicouagan","Manicouagan"," 27","Natashquan",N,N,"",1,271,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 27","Natashquan",N,N,"",1,271,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24046,"Manicouagan","Manicouagan"," 27","Natashquan",N,N,"",1,271,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,3
+24046,"Manicouagan","Manicouagan"," 28","Natashquan",N,N,"",5,193,"Gagné","","Thomas","Liberal","Libéral",N,N,21
+24046,"Manicouagan","Manicouagan"," 28","Natashquan",N,N,"",5,193,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,71
+24046,"Manicouagan","Manicouagan"," 28","Natashquan",N,N,"",5,193,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 28","Natashquan",N,N,"",5,193,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24046,"Manicouagan","Manicouagan"," 28","Natashquan",N,N,"",5,193,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,47
+24046,"Manicouagan","Manicouagan"," 29","Aguanish",N,N,"",4,216,"Gagné","","Thomas","Liberal","Libéral",N,N,15
+24046,"Manicouagan","Manicouagan"," 29","Aguanish",N,N,"",4,216,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,60
+24046,"Manicouagan","Manicouagan"," 29","Aguanish",N,N,"",4,216,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 29","Aguanish",N,N,"",4,216,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24046,"Manicouagan","Manicouagan"," 29","Aguanish",N,N,"",4,216,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,35
+24046,"Manicouagan","Manicouagan"," 30","Kegaska",N,N,"",1,108,"Gagné","","Thomas","Liberal","Libéral",N,N,28
+24046,"Manicouagan","Manicouagan"," 30","Kegaska",N,N,"",1,108,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,8
+24046,"Manicouagan","Manicouagan"," 30","Kegaska",N,N,"",1,108,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 30","Kegaska",N,N,"",1,108,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24046,"Manicouagan","Manicouagan"," 30","Kegaska",N,N,"",1,108,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,10
+24046,"Manicouagan","Manicouagan"," 31","Havre-Saint-Pierre",N,N,"",3,242,"Gagné","","Thomas","Liberal","Libéral",N,N,11
+24046,"Manicouagan","Manicouagan"," 31","Havre-Saint-Pierre",N,N,"",3,242,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,45
+24046,"Manicouagan","Manicouagan"," 31","Havre-Saint-Pierre",N,N,"",3,242,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 31","Havre-Saint-Pierre",N,N,"",3,242,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 31","Havre-Saint-Pierre",N,N,"",3,242,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,19
+24046,"Manicouagan","Manicouagan"," 32","Havre-Saint-Pierre",N,N,"",1,364,"Gagné","","Thomas","Liberal","Libéral",N,N,12
+24046,"Manicouagan","Manicouagan"," 32","Havre-Saint-Pierre",N,N,"",1,364,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,84
+24046,"Manicouagan","Manicouagan"," 32","Havre-Saint-Pierre",N,N,"",1,364,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 32","Havre-Saint-Pierre",N,N,"",1,364,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24046,"Manicouagan","Manicouagan"," 32","Havre-Saint-Pierre",N,N,"",1,364,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,18
+24046,"Manicouagan","Manicouagan"," 33","Havre-Saint-Pierre",N,N,"",2,237,"Gagné","","Thomas","Liberal","Libéral",N,N,10
+24046,"Manicouagan","Manicouagan"," 33","Havre-Saint-Pierre",N,N,"",2,237,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,63
+24046,"Manicouagan","Manicouagan"," 33","Havre-Saint-Pierre",N,N,"",2,237,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 33","Havre-Saint-Pierre",N,N,"",2,237,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24046,"Manicouagan","Manicouagan"," 33","Havre-Saint-Pierre",N,N,"",2,237,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,19
+24046,"Manicouagan","Manicouagan"," 34","Havre-Saint-Pierre",N,N,"",7,441,"Gagné","","Thomas","Liberal","Libéral",N,N,15
+24046,"Manicouagan","Manicouagan"," 34","Havre-Saint-Pierre",N,N,"",7,441,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,79
+24046,"Manicouagan","Manicouagan"," 34","Havre-Saint-Pierre",N,N,"",7,441,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 34","Havre-Saint-Pierre",N,N,"",7,441,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24046,"Manicouagan","Manicouagan"," 34","Havre-Saint-Pierre",N,N,"",7,441,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,49
+24046,"Manicouagan","Manicouagan"," 35","Havre-Saint-Pierre",N,N,"",3,334,"Gagné","","Thomas","Liberal","Libéral",N,N,6
+24046,"Manicouagan","Manicouagan"," 35","Havre-Saint-Pierre",N,N,"",3,334,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,60
+24046,"Manicouagan","Manicouagan"," 35","Havre-Saint-Pierre",N,N,"",3,334,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 35","Havre-Saint-Pierre",N,N,"",3,334,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24046,"Manicouagan","Manicouagan"," 35","Havre-Saint-Pierre",N,N,"",3,334,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,28
+24046,"Manicouagan","Manicouagan"," 36","Havre-Saint-Pierre",N,N,"",2,330,"Gagné","","Thomas","Liberal","Libéral",N,N,16
+24046,"Manicouagan","Manicouagan"," 36","Havre-Saint-Pierre",N,N,"",2,330,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,47
+24046,"Manicouagan","Manicouagan"," 36","Havre-Saint-Pierre",N,N,"",2,330,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 36","Havre-Saint-Pierre",N,N,"",2,330,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24046,"Manicouagan","Manicouagan"," 36","Havre-Saint-Pierre",N,N,"",2,330,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,20
+24046,"Manicouagan","Manicouagan"," 37","Havre-Saint-Pierre",N,N,"",6,248,"Gagné","","Thomas","Liberal","Libéral",N,N,13
+24046,"Manicouagan","Manicouagan"," 37","Havre-Saint-Pierre",N,N,"",6,248,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,45
+24046,"Manicouagan","Manicouagan"," 37","Havre-Saint-Pierre",N,N,"",6,248,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 37","Havre-Saint-Pierre",N,N,"",6,248,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24046,"Manicouagan","Manicouagan"," 37","Havre-Saint-Pierre",N,N,"",6,248,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,22
+24046,"Manicouagan","Manicouagan"," 38","Havre-Saint-Pierre",N,N,"",4,474,"Gagné","","Thomas","Liberal","Libéral",N,N,16
+24046,"Manicouagan","Manicouagan"," 38","Havre-Saint-Pierre",N,N,"",4,474,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,77
+24046,"Manicouagan","Manicouagan"," 38","Havre-Saint-Pierre",N,N,"",4,474,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 38","Havre-Saint-Pierre",N,N,"",4,474,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 38","Havre-Saint-Pierre",N,N,"",4,474,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,34
+24046,"Manicouagan","Manicouagan"," 39","Moisie",N,N,"",0,247,"Gagné","","Thomas","Liberal","Libéral",N,N,11
+24046,"Manicouagan","Manicouagan"," 39","Moisie",N,N,"",0,247,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,54
+24046,"Manicouagan","Manicouagan"," 39","Moisie",N,N,"",0,247,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 39","Moisie",N,N,"",0,247,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 39","Moisie",N,N,"",0,247,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,13
+24046,"Manicouagan","Manicouagan"," 40","Rivière-au-Tonnerre",N,N,"",4,174,"Gagné","","Thomas","Liberal","Libéral",N,N,12
+24046,"Manicouagan","Manicouagan"," 40","Rivière-au-Tonnerre",N,N,"",4,174,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,46
+24046,"Manicouagan","Manicouagan"," 40","Rivière-au-Tonnerre",N,N,"",4,174,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 40","Rivière-au-Tonnerre",N,N,"",4,174,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24046,"Manicouagan","Manicouagan"," 40","Rivière-au-Tonnerre",N,N,"",4,174,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,22
+24046,"Manicouagan","Manicouagan"," 41","Mingan",N,N,"",0,282,"Gagné","","Thomas","Liberal","Libéral",N,N,4
+24046,"Manicouagan","Manicouagan"," 41","Mingan",N,N,"",0,282,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,1
+24046,"Manicouagan","Manicouagan"," 41","Mingan",N,N,"",0,282,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 41","Mingan",N,N,"",0,282,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+24046,"Manicouagan","Manicouagan"," 41","Mingan",N,N,"",0,282,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,0
+24046,"Manicouagan","Manicouagan"," 42","Longue-Pointe",N,N,"",3,355,"Gagné","","Thomas","Liberal","Libéral",N,N,17
+24046,"Manicouagan","Manicouagan"," 42","Longue-Pointe",N,N,"",3,355,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,81
+24046,"Manicouagan","Manicouagan"," 42","Longue-Pointe",N,N,"",3,355,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 42","Longue-Pointe",N,N,"",3,355,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 42","Longue-Pointe",N,N,"",3,355,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,21
+24046,"Manicouagan","Manicouagan"," 43","Rivière-Saint-Jean",N,N,"",0,208,"Gagné","","Thomas","Liberal","Libéral",N,N,9
+24046,"Manicouagan","Manicouagan"," 43","Rivière-Saint-Jean",N,N,"",0,208,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,50
+24046,"Manicouagan","Manicouagan"," 43","Rivière-Saint-Jean",N,N,"",0,208,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,10
+24046,"Manicouagan","Manicouagan"," 43","Rivière-Saint-Jean",N,N,"",0,208,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24046,"Manicouagan","Manicouagan"," 43","Rivière-Saint-Jean",N,N,"",0,208,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,16
+24046,"Manicouagan","Manicouagan"," 44","Port-Menier",N,N,"",0,163,"Gagné","","Thomas","Liberal","Libéral",N,N,9
+24046,"Manicouagan","Manicouagan"," 44","Port-Menier",N,N,"",0,163,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,35
+24046,"Manicouagan","Manicouagan"," 44","Port-Menier",N,N,"",0,163,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 44","Port-Menier",N,N,"",0,163,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24046,"Manicouagan","Manicouagan"," 44","Port-Menier",N,N,"",0,163,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,10
+24046,"Manicouagan","Manicouagan"," 45","Rivière-au-Tonnerre",N,N,"",4,232,"Gagné","","Thomas","Liberal","Libéral",N,N,22
+24046,"Manicouagan","Manicouagan"," 45","Rivière-au-Tonnerre",N,N,"",4,232,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,48
+24046,"Manicouagan","Manicouagan"," 45","Rivière-au-Tonnerre",N,N,"",4,232,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 45","Rivière-au-Tonnerre",N,N,"",4,232,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24046,"Manicouagan","Manicouagan"," 45","Rivière-au-Tonnerre",N,N,"",4,232,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,14
+24046,"Manicouagan","Manicouagan"," 46","Sept-Îles",N,N,"",6,488,"Gagné","","Thomas","Liberal","Libéral",N,N,25
+24046,"Manicouagan","Manicouagan"," 46","Sept-Îles",N,N,"",6,488,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,130
+24046,"Manicouagan","Manicouagan"," 46","Sept-Îles",N,N,"",6,488,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,12
+24046,"Manicouagan","Manicouagan"," 46","Sept-Îles",N,N,"",6,488,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24046,"Manicouagan","Manicouagan"," 46","Sept-Îles",N,N,"",6,488,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,51
+24046,"Manicouagan","Manicouagan"," 47","Sept-Îles",N,N,"",0,391,"Gagné","","Thomas","Liberal","Libéral",N,N,14
+24046,"Manicouagan","Manicouagan"," 47","Sept-Îles",N,N,"",0,391,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,85
+24046,"Manicouagan","Manicouagan"," 47","Sept-Îles",N,N,"",0,391,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 47","Sept-Îles",N,N,"",0,391,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24046,"Manicouagan","Manicouagan"," 47","Sept-Îles",N,N,"",0,391,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,43
+24046,"Manicouagan","Manicouagan"," 48","Sept-Îles",N,N,"",4,379,"Gagné","","Thomas","Liberal","Libéral",N,N,5
+24046,"Manicouagan","Manicouagan"," 48","Sept-Îles",N,N,"",4,379,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,90
+24046,"Manicouagan","Manicouagan"," 48","Sept-Îles",N,N,"",4,379,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,9
+24046,"Manicouagan","Manicouagan"," 48","Sept-Îles",N,N,"",4,379,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24046,"Manicouagan","Manicouagan"," 48","Sept-Îles",N,N,"",4,379,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,46
+24046,"Manicouagan","Manicouagan"," 49","Sept-Îles",N,N,"",0,339,"Gagné","","Thomas","Liberal","Libéral",N,N,10
+24046,"Manicouagan","Manicouagan"," 49","Sept-Îles",N,N,"",0,339,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,75
+24046,"Manicouagan","Manicouagan"," 49","Sept-Îles",N,N,"",0,339,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 49","Sept-Îles",N,N,"",0,339,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24046,"Manicouagan","Manicouagan"," 49","Sept-Îles",N,N,"",0,339,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,47
+24046,"Manicouagan","Manicouagan"," 50","Sept-Îles",N,N,"",4,386,"Gagné","","Thomas","Liberal","Libéral",N,N,19
+24046,"Manicouagan","Manicouagan"," 50","Sept-Îles",N,N,"",4,386,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,88
+24046,"Manicouagan","Manicouagan"," 50","Sept-Îles",N,N,"",4,386,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,4
+24046,"Manicouagan","Manicouagan"," 50","Sept-Îles",N,N,"",4,386,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24046,"Manicouagan","Manicouagan"," 50","Sept-Îles",N,N,"",4,386,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,44
+24046,"Manicouagan","Manicouagan"," 51","Sept-Îles",N,N,"",3,347,"Gagné","","Thomas","Liberal","Libéral",N,N,13
+24046,"Manicouagan","Manicouagan"," 51","Sept-Îles",N,N,"",3,347,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,73
+24046,"Manicouagan","Manicouagan"," 51","Sept-Îles",N,N,"",3,347,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,5
+24046,"Manicouagan","Manicouagan"," 51","Sept-Îles",N,N,"",3,347,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 51","Sept-Îles",N,N,"",3,347,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,41
+24046,"Manicouagan","Manicouagan"," 52A","Lac-Walker",N,N,"",6,368,"Gagné","","Thomas","Liberal","Libéral",N,N,21
+24046,"Manicouagan","Manicouagan"," 52A","Lac-Walker",N,N,"",6,368,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,94
+24046,"Manicouagan","Manicouagan"," 52A","Lac-Walker",N,N,"",6,368,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 52A","Lac-Walker",N,N,"",6,368,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24046,"Manicouagan","Manicouagan"," 52A","Lac-Walker",N,N,"",6,368,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,51
+24046,"Manicouagan","Manicouagan"," 52B","Lac-Walker",N,N,"",5,361,"Gagné","","Thomas","Liberal","Libéral",N,N,25
+24046,"Manicouagan","Manicouagan"," 52B","Lac-Walker",N,N,"",5,361,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,77
+24046,"Manicouagan","Manicouagan"," 52B","Lac-Walker",N,N,"",5,361,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 52B","Lac-Walker",N,N,"",5,361,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 52B","Lac-Walker",N,N,"",5,361,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,50
+24046,"Manicouagan","Manicouagan"," 53","Sept-Îles",N,N,"",5,433,"Gagné","","Thomas","Liberal","Libéral",N,N,31
+24046,"Manicouagan","Manicouagan"," 53","Sept-Îles",N,N,"",5,433,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,103
+24046,"Manicouagan","Manicouagan"," 53","Sept-Îles",N,N,"",5,433,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,4
+24046,"Manicouagan","Manicouagan"," 53","Sept-Îles",N,N,"",5,433,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24046,"Manicouagan","Manicouagan"," 53","Sept-Îles",N,N,"",5,433,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,58
+24046,"Manicouagan","Manicouagan"," 54","Sept-Îles",N,N,"",5,490,"Gagné","","Thomas","Liberal","Libéral",N,N,25
+24046,"Manicouagan","Manicouagan"," 54","Sept-Îles",N,N,"",5,490,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,113
+24046,"Manicouagan","Manicouagan"," 54","Sept-Îles",N,N,"",5,490,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,4
+24046,"Manicouagan","Manicouagan"," 54","Sept-Îles",N,N,"",5,490,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+24046,"Manicouagan","Manicouagan"," 54","Sept-Îles",N,N,"",5,490,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,57
+24046,"Manicouagan","Manicouagan"," 55","Sept-Îles",N,N,"",8,485,"Gagné","","Thomas","Liberal","Libéral",N,N,33
+24046,"Manicouagan","Manicouagan"," 55","Sept-Îles",N,N,"",8,485,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,105
+24046,"Manicouagan","Manicouagan"," 55","Sept-Îles",N,N,"",8,485,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,5
+24046,"Manicouagan","Manicouagan"," 55","Sept-Îles",N,N,"",8,485,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24046,"Manicouagan","Manicouagan"," 55","Sept-Îles",N,N,"",8,485,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,44
+24046,"Manicouagan","Manicouagan"," 56","Sept-Îles",N,N,"",1,412,"Gagné","","Thomas","Liberal","Libéral",N,N,16
+24046,"Manicouagan","Manicouagan"," 56","Sept-Îles",N,N,"",1,412,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,87
+24046,"Manicouagan","Manicouagan"," 56","Sept-Îles",N,N,"",1,412,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,9
+24046,"Manicouagan","Manicouagan"," 56","Sept-Îles",N,N,"",1,412,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 56","Sept-Îles",N,N,"",1,412,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,54
+24046,"Manicouagan","Manicouagan"," 57","Malioténam 27A",N,N,"",0,413,"Gagné","","Thomas","Liberal","Libéral",N,N,18
+24046,"Manicouagan","Manicouagan"," 57","Malioténam 27A",N,N,"",0,413,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,8
+24046,"Manicouagan","Manicouagan"," 57","Malioténam 27A",N,N,"",0,413,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 57","Malioténam 27A",N,N,"",0,413,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24046,"Manicouagan","Manicouagan"," 57","Malioténam 27A",N,N,"",0,413,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,2
+24046,"Manicouagan","Manicouagan"," 58","Malioténam 27A",N,N,"",1,415,"Gagné","","Thomas","Liberal","Libéral",N,N,48
+24046,"Manicouagan","Manicouagan"," 58","Malioténam 27A",N,N,"",1,415,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,7
+24046,"Manicouagan","Manicouagan"," 58","Malioténam 27A",N,N,"",1,415,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 58","Malioténam 27A",N,N,"",1,415,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+24046,"Manicouagan","Manicouagan"," 58","Malioténam 27A",N,N,"",1,415,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,2
+24046,"Manicouagan","Manicouagan"," 59","Malioténam 27A",N,N,"",1,358,"Gagné","","Thomas","Liberal","Libéral",N,N,23
+24046,"Manicouagan","Manicouagan"," 59","Malioténam 27A",N,N,"",1,358,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,6
+24046,"Manicouagan","Manicouagan"," 59","Malioténam 27A",N,N,"",1,358,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 59","Malioténam 27A",N,N,"",1,358,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24046,"Manicouagan","Manicouagan"," 59","Malioténam 27A",N,N,"",1,358,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,2
+24046,"Manicouagan","Manicouagan"," 60","Sept-Îles",N,N,"",2,201,"Gagné","","Thomas","Liberal","Libéral",N,N,6
+24046,"Manicouagan","Manicouagan"," 60","Sept-Îles",N,N,"",2,201,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,46
+24046,"Manicouagan","Manicouagan"," 60","Sept-Îles",N,N,"",2,201,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 60","Sept-Îles",N,N,"",2,201,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 60","Sept-Îles",N,N,"",2,201,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,21
+24046,"Manicouagan","Manicouagan"," 61","Sept-Îles",N,N,"",7,422,"Gagné","","Thomas","Liberal","Libéral",N,N,12
+24046,"Manicouagan","Manicouagan"," 61","Sept-Îles",N,N,"",7,422,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,96
+24046,"Manicouagan","Manicouagan"," 61","Sept-Îles",N,N,"",7,422,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,5
+24046,"Manicouagan","Manicouagan"," 61","Sept-Îles",N,N,"",7,422,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+24046,"Manicouagan","Manicouagan"," 61","Sept-Îles",N,N,"",7,422,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,52
+24046,"Manicouagan","Manicouagan"," 62","Sept-Îles",N,N,"",2,374,"Gagné","","Thomas","Liberal","Libéral",N,N,17
+24046,"Manicouagan","Manicouagan"," 62","Sept-Îles",N,N,"",2,374,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,66
+24046,"Manicouagan","Manicouagan"," 62","Sept-Îles",N,N,"",2,374,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,7
+24046,"Manicouagan","Manicouagan"," 62","Sept-Îles",N,N,"",2,374,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 62","Sept-Îles",N,N,"",2,374,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,47
+24046,"Manicouagan","Manicouagan"," 63","Sept-Îles",N,N,"",4,332,"Gagné","","Thomas","Liberal","Libéral",N,N,14
+24046,"Manicouagan","Manicouagan"," 63","Sept-Îles",N,N,"",4,332,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,66
+24046,"Manicouagan","Manicouagan"," 63","Sept-Îles",N,N,"",4,332,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,6
+24046,"Manicouagan","Manicouagan"," 63","Sept-Îles",N,N,"",4,332,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24046,"Manicouagan","Manicouagan"," 63","Sept-Îles",N,N,"",4,332,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,23
+24046,"Manicouagan","Manicouagan"," 64","Uashat",N,N,"",1,316,"Gagné","","Thomas","Liberal","Libéral",N,N,32
+24046,"Manicouagan","Manicouagan"," 64","Uashat",N,N,"",1,316,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,8
+24046,"Manicouagan","Manicouagan"," 64","Uashat",N,N,"",1,316,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 64","Uashat",N,N,"",1,316,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24046,"Manicouagan","Manicouagan"," 64","Uashat",N,N,"",1,316,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,3
+24046,"Manicouagan","Manicouagan"," 65","Uashat",N,N,"",0,487,"Gagné","","Thomas","Liberal","Libéral",N,N,26
+24046,"Manicouagan","Manicouagan"," 65","Uashat",N,N,"",0,487,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,5
+24046,"Manicouagan","Manicouagan"," 65","Uashat",N,N,"",0,487,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 65","Uashat",N,N,"",0,487,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24046,"Manicouagan","Manicouagan"," 65","Uashat",N,N,"",0,487,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,0
+24046,"Manicouagan","Manicouagan"," 66","Uashat",N,N,"",0,289,"Gagné","","Thomas","Liberal","Libéral",N,N,20
+24046,"Manicouagan","Manicouagan"," 66","Uashat",N,N,"",0,289,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,4
+24046,"Manicouagan","Manicouagan"," 66","Uashat",N,N,"",0,289,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 66","Uashat",N,N,"",0,289,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 66","Uashat",N,N,"",0,289,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,2
+24046,"Manicouagan","Manicouagan"," 67","Uashat",N,N,"",1,55,"Gagné","","Thomas","Liberal","Libéral",N,N,5
+24046,"Manicouagan","Manicouagan"," 67","Uashat",N,N,"",1,55,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,2
+24046,"Manicouagan","Manicouagan"," 67","Uashat",N,N,"",1,55,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 67","Uashat",N,N,"",1,55,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24046,"Manicouagan","Manicouagan"," 67","Uashat",N,N,"",1,55,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,0
+24046,"Manicouagan","Manicouagan"," 68","Sept-Îles",N,N,"",2,419,"Gagné","","Thomas","Liberal","Libéral",N,N,27
+24046,"Manicouagan","Manicouagan"," 68","Sept-Îles",N,N,"",2,419,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,94
+24046,"Manicouagan","Manicouagan"," 68","Sept-Îles",N,N,"",2,419,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 68","Sept-Îles",N,N,"",2,419,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24046,"Manicouagan","Manicouagan"," 68","Sept-Îles",N,N,"",2,419,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,56
+24046,"Manicouagan","Manicouagan"," 69","Sept-Îles",N,N,"",4,363,"Gagné","","Thomas","Liberal","Libéral",N,N,13
+24046,"Manicouagan","Manicouagan"," 69","Sept-Îles",N,N,"",4,363,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,52
+24046,"Manicouagan","Manicouagan"," 69","Sept-Îles",N,N,"",4,363,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 69","Sept-Îles",N,N,"",4,363,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+24046,"Manicouagan","Manicouagan"," 69","Sept-Îles",N,N,"",4,363,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,14
+24046,"Manicouagan","Manicouagan"," 70","Sept-Îles",N,N,"",1,374,"Gagné","","Thomas","Liberal","Libéral",N,N,37
+24046,"Manicouagan","Manicouagan"," 70","Sept-Îles",N,N,"",1,374,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,74
+24046,"Manicouagan","Manicouagan"," 70","Sept-Îles",N,N,"",1,374,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,8
+24046,"Manicouagan","Manicouagan"," 70","Sept-Îles",N,N,"",1,374,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 70","Sept-Îles",N,N,"",1,374,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,29
+24046,"Manicouagan","Manicouagan"," 71","Sept-Îles",N,N,"",3,327,"Gagné","","Thomas","Liberal","Libéral",N,N,15
+24046,"Manicouagan","Manicouagan"," 71","Sept-Îles",N,N,"",3,327,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,45
+24046,"Manicouagan","Manicouagan"," 71","Sept-Îles",N,N,"",3,327,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 71","Sept-Îles",N,N,"",3,327,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24046,"Manicouagan","Manicouagan"," 71","Sept-Îles",N,N,"",3,327,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,22
+24046,"Manicouagan","Manicouagan"," 72","Sept-Îles",N,N,"",3,340,"Gagné","","Thomas","Liberal","Libéral",N,N,17
+24046,"Manicouagan","Manicouagan"," 72","Sept-Îles",N,N,"",3,340,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,60
+24046,"Manicouagan","Manicouagan"," 72","Sept-Îles",N,N,"",3,340,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 72","Sept-Îles",N,N,"",3,340,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24046,"Manicouagan","Manicouagan"," 72","Sept-Îles",N,N,"",3,340,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,30
+24046,"Manicouagan","Manicouagan"," 73","Sept-Îles",N,N,"",1,370,"Gagné","","Thomas","Liberal","Libéral",N,N,11
+24046,"Manicouagan","Manicouagan"," 73","Sept-Îles",N,N,"",1,370,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,46
+24046,"Manicouagan","Manicouagan"," 73","Sept-Îles",N,N,"",1,370,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 73","Sept-Îles",N,N,"",1,370,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+24046,"Manicouagan","Manicouagan"," 73","Sept-Îles",N,N,"",1,370,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,26
+24046,"Manicouagan","Manicouagan"," 74","Sept-Îles",N,N,"",1,270,"Gagné","","Thomas","Liberal","Libéral",N,N,10
+24046,"Manicouagan","Manicouagan"," 74","Sept-Îles",N,N,"",1,270,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,31
+24046,"Manicouagan","Manicouagan"," 74","Sept-Îles",N,N,"",1,270,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 74","Sept-Îles",N,N,"",1,270,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24046,"Manicouagan","Manicouagan"," 74","Sept-Îles",N,N,"",1,270,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,13
+24046,"Manicouagan","Manicouagan"," 75","Sept-Îles",N,N,"",2,325,"Gagné","","Thomas","Liberal","Libéral",N,N,13
+24046,"Manicouagan","Manicouagan"," 75","Sept-Îles",N,N,"",2,325,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,43
+24046,"Manicouagan","Manicouagan"," 75","Sept-Îles",N,N,"",2,325,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,4
+24046,"Manicouagan","Manicouagan"," 75","Sept-Îles",N,N,"",2,325,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24046,"Manicouagan","Manicouagan"," 75","Sept-Îles",N,N,"",2,325,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,25
+24046,"Manicouagan","Manicouagan"," 76","Sept-Îles",N,N,"",3,354,"Gagné","","Thomas","Liberal","Libéral",N,N,17
+24046,"Manicouagan","Manicouagan"," 76","Sept-Îles",N,N,"",3,354,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,52
+24046,"Manicouagan","Manicouagan"," 76","Sept-Îles",N,N,"",3,354,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 76","Sept-Îles",N,N,"",3,354,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24046,"Manicouagan","Manicouagan"," 76","Sept-Îles",N,N,"",3,354,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,22
+24046,"Manicouagan","Manicouagan"," 77","Sept-Îles",N,N,"",2,259,"Gagné","","Thomas","Liberal","Libéral",N,N,9
+24046,"Manicouagan","Manicouagan"," 77","Sept-Îles",N,N,"",2,259,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,25
+24046,"Manicouagan","Manicouagan"," 77","Sept-Îles",N,N,"",2,259,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,4
+24046,"Manicouagan","Manicouagan"," 77","Sept-Îles",N,N,"",2,259,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24046,"Manicouagan","Manicouagan"," 77","Sept-Îles",N,N,"",2,259,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,6
+24046,"Manicouagan","Manicouagan"," 78","Sept-Îles",N,N,"",2,245,"Gagné","","Thomas","Liberal","Libéral",N,N,16
+24046,"Manicouagan","Manicouagan"," 78","Sept-Îles",N,N,"",2,245,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,32
+24046,"Manicouagan","Manicouagan"," 78","Sept-Îles",N,N,"",2,245,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 78","Sept-Îles",N,N,"",2,245,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 78","Sept-Îles",N,N,"",2,245,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,12
+24046,"Manicouagan","Manicouagan"," 79","Sept-Îles",N,N,"",0,360,"Gagné","","Thomas","Liberal","Libéral",N,N,21
+24046,"Manicouagan","Manicouagan"," 79","Sept-Îles",N,N,"",0,360,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,41
+24046,"Manicouagan","Manicouagan"," 79","Sept-Îles",N,N,"",0,360,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 79","Sept-Îles",N,N,"",0,360,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24046,"Manicouagan","Manicouagan"," 79","Sept-Îles",N,N,"",0,360,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,10
+24046,"Manicouagan","Manicouagan"," 80","Sept-Îles",N,N,"",5,337,"Gagné","","Thomas","Liberal","Libéral",N,N,14
+24046,"Manicouagan","Manicouagan"," 80","Sept-Îles",N,N,"",5,337,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,61
+24046,"Manicouagan","Manicouagan"," 80","Sept-Îles",N,N,"",5,337,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 80","Sept-Îles",N,N,"",5,337,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24046,"Manicouagan","Manicouagan"," 80","Sept-Îles",N,N,"",5,337,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,24
+24046,"Manicouagan","Manicouagan"," 81","Sept-Îles",N,N,"",3,318,"Gagné","","Thomas","Liberal","Libéral",N,N,22
+24046,"Manicouagan","Manicouagan"," 81","Sept-Îles",N,N,"",3,318,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,57
+24046,"Manicouagan","Manicouagan"," 81","Sept-Îles",N,N,"",3,318,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,5
+24046,"Manicouagan","Manicouagan"," 81","Sept-Îles",N,N,"",3,318,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24046,"Manicouagan","Manicouagan"," 81","Sept-Îles",N,N,"",3,318,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,9
+24046,"Manicouagan","Manicouagan"," 82","Sept-Îles",N,N,"",3,423,"Gagné","","Thomas","Liberal","Libéral",N,N,22
+24046,"Manicouagan","Manicouagan"," 82","Sept-Îles",N,N,"",3,423,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,84
+24046,"Manicouagan","Manicouagan"," 82","Sept-Îles",N,N,"",3,423,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 82","Sept-Îles",N,N,"",3,423,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24046,"Manicouagan","Manicouagan"," 82","Sept-Îles",N,N,"",3,423,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,26
+24046,"Manicouagan","Manicouagan"," 83","Sept-Îles",N,N,"",2,366,"Gagné","","Thomas","Liberal","Libéral",N,N,12
+24046,"Manicouagan","Manicouagan"," 83","Sept-Îles",N,N,"",2,366,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,63
+24046,"Manicouagan","Manicouagan"," 83","Sept-Îles",N,N,"",2,366,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,8
+24046,"Manicouagan","Manicouagan"," 83","Sept-Îles",N,N,"",2,366,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 83","Sept-Îles",N,N,"",2,366,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,23
+24046,"Manicouagan","Manicouagan"," 84","Sept-Îles",N,N,"",3,417,"Gagné","","Thomas","Liberal","Libéral",N,N,16
+24046,"Manicouagan","Manicouagan"," 84","Sept-Îles",N,N,"",3,417,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,56
+24046,"Manicouagan","Manicouagan"," 84","Sept-Îles",N,N,"",3,417,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 84","Sept-Îles",N,N,"",3,417,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24046,"Manicouagan","Manicouagan"," 84","Sept-Îles",N,N,"",3,417,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,26
+24046,"Manicouagan","Manicouagan"," 85","Sept-Îles",N,N,"",2,305,"Gagné","","Thomas","Liberal","Libéral",N,N,16
+24046,"Manicouagan","Manicouagan"," 85","Sept-Îles",N,N,"",2,305,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,54
+24046,"Manicouagan","Manicouagan"," 85","Sept-Îles",N,N,"",2,305,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 85","Sept-Îles",N,N,"",2,305,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24046,"Manicouagan","Manicouagan"," 85","Sept-Îles",N,N,"",2,305,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,22
+24046,"Manicouagan","Manicouagan"," 86","Sept-Îles",N,N,"",6,358,"Gagné","","Thomas","Liberal","Libéral",N,N,25
+24046,"Manicouagan","Manicouagan"," 86","Sept-Îles",N,N,"",6,358,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,46
+24046,"Manicouagan","Manicouagan"," 86","Sept-Îles",N,N,"",6,358,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,5
+24046,"Manicouagan","Manicouagan"," 86","Sept-Îles",N,N,"",6,358,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24046,"Manicouagan","Manicouagan"," 86","Sept-Îles",N,N,"",6,358,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,21
+24046,"Manicouagan","Manicouagan"," 87","Sept-Îles",N,N,"",4,307,"Gagné","","Thomas","Liberal","Libéral",N,N,21
+24046,"Manicouagan","Manicouagan"," 87","Sept-Îles",N,N,"",4,307,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,67
+24046,"Manicouagan","Manicouagan"," 87","Sept-Îles",N,N,"",4,307,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 87","Sept-Îles",N,N,"",4,307,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+24046,"Manicouagan","Manicouagan"," 87","Sept-Îles",N,N,"",4,307,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,30
+24046,"Manicouagan","Manicouagan"," 88","Sept-Îles",N,N,"",5,387,"Gagné","","Thomas","Liberal","Libéral",N,N,20
+24046,"Manicouagan","Manicouagan"," 88","Sept-Îles",N,N,"",5,387,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,76
+24046,"Manicouagan","Manicouagan"," 88","Sept-Îles",N,N,"",5,387,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,4
+24046,"Manicouagan","Manicouagan"," 88","Sept-Îles",N,N,"",5,387,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24046,"Manicouagan","Manicouagan"," 88","Sept-Îles",N,N,"",5,387,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,29
+24046,"Manicouagan","Manicouagan"," 89","Sept-Îles",N,N,"",2,359,"Gagné","","Thomas","Liberal","Libéral",N,N,19
+24046,"Manicouagan","Manicouagan"," 89","Sept-Îles",N,N,"",2,359,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,72
+24046,"Manicouagan","Manicouagan"," 89","Sept-Îles",N,N,"",2,359,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 89","Sept-Îles",N,N,"",2,359,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+24046,"Manicouagan","Manicouagan"," 89","Sept-Îles",N,N,"",2,359,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,30
+24046,"Manicouagan","Manicouagan"," 90","Sept-Îles",N,N,"",2,425,"Gagné","","Thomas","Liberal","Libéral",N,N,24
+24046,"Manicouagan","Manicouagan"," 90","Sept-Îles",N,N,"",2,425,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,119
+24046,"Manicouagan","Manicouagan"," 90","Sept-Îles",N,N,"",2,425,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 90","Sept-Îles",N,N,"",2,425,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+24046,"Manicouagan","Manicouagan"," 90","Sept-Îles",N,N,"",2,425,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,52
+24046,"Manicouagan","Manicouagan"," 91","Sept-Îles",N,N,"",15,177,"Gagné","","Thomas","Liberal","Libéral",N,N,40
+24046,"Manicouagan","Manicouagan"," 91","Sept-Îles",N,N,"",15,177,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,34
+24046,"Manicouagan","Manicouagan"," 91","Sept-Îles",N,N,"",15,177,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 91","Sept-Îles",N,N,"",15,177,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 91","Sept-Îles",N,N,"",15,177,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,10
+24046,"Manicouagan","Manicouagan"," 92","Sept-Îles",N,N,"",4,320,"Gagné","","Thomas","Liberal","Libéral",N,N,28
+24046,"Manicouagan","Manicouagan"," 92","Sept-Îles",N,N,"",4,320,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,50
+24046,"Manicouagan","Manicouagan"," 92","Sept-Îles",N,N,"",4,320,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 92","Sept-Îles",N,N,"",4,320,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 92","Sept-Îles",N,N,"",4,320,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,33
+24046,"Manicouagan","Manicouagan"," 93","Sept-Îles",N,N,"",2,297,"Gagné","","Thomas","Liberal","Libéral",N,N,18
+24046,"Manicouagan","Manicouagan"," 93","Sept-Îles",N,N,"",2,297,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,43
+24046,"Manicouagan","Manicouagan"," 93","Sept-Îles",N,N,"",2,297,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,4
+24046,"Manicouagan","Manicouagan"," 93","Sept-Îles",N,N,"",2,297,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24046,"Manicouagan","Manicouagan"," 93","Sept-Îles",N,N,"",2,297,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,24
+24046,"Manicouagan","Manicouagan"," 94","Sept-Îles",N,N,"",3,392,"Gagné","","Thomas","Liberal","Libéral",N,N,15
+24046,"Manicouagan","Manicouagan"," 94","Sept-Îles",N,N,"",3,392,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,93
+24046,"Manicouagan","Manicouagan"," 94","Sept-Îles",N,N,"",3,392,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,4
+24046,"Manicouagan","Manicouagan"," 94","Sept-Îles",N,N,"",3,392,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+24046,"Manicouagan","Manicouagan"," 94","Sept-Îles",N,N,"",3,392,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,27
+24046,"Manicouagan","Manicouagan"," 95","Sept-Îles",N,N,"",2,311,"Gagné","","Thomas","Liberal","Libéral",N,N,31
+24046,"Manicouagan","Manicouagan"," 95","Sept-Îles",N,N,"",2,311,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,38
+24046,"Manicouagan","Manicouagan"," 95","Sept-Îles",N,N,"",2,311,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 95","Sept-Îles",N,N,"",2,311,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24046,"Manicouagan","Manicouagan"," 95","Sept-Îles",N,N,"",2,311,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,20
+24046,"Manicouagan","Manicouagan"," 96","Sept-Îles",N,N,"",1,307,"Gagné","","Thomas","Liberal","Libéral",N,N,10
+24046,"Manicouagan","Manicouagan"," 96","Sept-Îles",N,N,"",1,307,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,57
+24046,"Manicouagan","Manicouagan"," 96","Sept-Îles",N,N,"",1,307,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,6
+24046,"Manicouagan","Manicouagan"," 96","Sept-Îles",N,N,"",1,307,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24046,"Manicouagan","Manicouagan"," 96","Sept-Îles",N,N,"",1,307,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,29
+24046,"Manicouagan","Manicouagan"," 97","Sept-Îles",N,N,"",4,430,"Gagné","","Thomas","Liberal","Libéral",N,N,36
+24046,"Manicouagan","Manicouagan"," 97","Sept-Îles",N,N,"",4,430,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,93
+24046,"Manicouagan","Manicouagan"," 97","Sept-Îles",N,N,"",4,430,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 97","Sept-Îles",N,N,"",4,430,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+24046,"Manicouagan","Manicouagan"," 97","Sept-Îles",N,N,"",4,430,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,51
+24046,"Manicouagan","Manicouagan"," 98","Sept-Îles",N,N,"",5,491,"Gagné","","Thomas","Liberal","Libéral",N,N,31
+24046,"Manicouagan","Manicouagan"," 98","Sept-Îles",N,N,"",5,491,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,148
+24046,"Manicouagan","Manicouagan"," 98","Sept-Îles",N,N,"",5,491,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,9
+24046,"Manicouagan","Manicouagan"," 98","Sept-Îles",N,N,"",5,491,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+24046,"Manicouagan","Manicouagan"," 98","Sept-Îles",N,N,"",5,491,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,56
+24046,"Manicouagan","Manicouagan"," 99","Sept-Îles",N,N,"",0,438,"Gagné","","Thomas","Liberal","Libéral",N,N,14
+24046,"Manicouagan","Manicouagan"," 99","Sept-Îles",N,N,"",0,438,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,129
+24046,"Manicouagan","Manicouagan"," 99","Sept-Îles",N,N,"",0,438,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,4
+24046,"Manicouagan","Manicouagan"," 99","Sept-Îles",N,N,"",0,438,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+24046,"Manicouagan","Manicouagan"," 99","Sept-Îles",N,N,"",0,438,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,54
+24046,"Manicouagan","Manicouagan"," 100","Sept-Îles",N,N,"",6,367,"Gagné","","Thomas","Liberal","Libéral",N,N,16
+24046,"Manicouagan","Manicouagan"," 100","Sept-Îles",N,N,"",6,367,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,80
+24046,"Manicouagan","Manicouagan"," 100","Sept-Îles",N,N,"",6,367,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,11
+24046,"Manicouagan","Manicouagan"," 100","Sept-Îles",N,N,"",6,367,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24046,"Manicouagan","Manicouagan"," 100","Sept-Îles",N,N,"",6,367,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,46
+24046,"Manicouagan","Manicouagan"," 101","Sept-Îles",N,N,"",1,289,"Gagné","","Thomas","Liberal","Libéral",N,N,18
+24046,"Manicouagan","Manicouagan"," 101","Sept-Îles",N,N,"",1,289,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,64
+24046,"Manicouagan","Manicouagan"," 101","Sept-Îles",N,N,"",1,289,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,6
+24046,"Manicouagan","Manicouagan"," 101","Sept-Îles",N,N,"",1,289,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24046,"Manicouagan","Manicouagan"," 101","Sept-Îles",N,N,"",1,289,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,30
+24046,"Manicouagan","Manicouagan"," 102","Sept-Îles",N,N,"",4,304,"Gagné","","Thomas","Liberal","Libéral",N,N,19
+24046,"Manicouagan","Manicouagan"," 102","Sept-Îles",N,N,"",4,304,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,78
+24046,"Manicouagan","Manicouagan"," 102","Sept-Îles",N,N,"",4,304,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 102","Sept-Îles",N,N,"",4,304,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24046,"Manicouagan","Manicouagan"," 102","Sept-Îles",N,N,"",4,304,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,38
+24046,"Manicouagan","Manicouagan"," 103","Sept-Îles",N,N,"",4,301,"Gagné","","Thomas","Liberal","Libéral",N,N,16
+24046,"Manicouagan","Manicouagan"," 103","Sept-Îles",N,N,"",4,301,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,94
+24046,"Manicouagan","Manicouagan"," 103","Sept-Îles",N,N,"",4,301,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,5
+24046,"Manicouagan","Manicouagan"," 103","Sept-Îles",N,N,"",4,301,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24046,"Manicouagan","Manicouagan"," 103","Sept-Îles",N,N,"",4,301,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,34
+24046,"Manicouagan","Manicouagan"," 104","Baie-Comeau",N,N,"",2,195,"Gagné","","Thomas","Liberal","Libéral",N,N,8
+24046,"Manicouagan","Manicouagan"," 104","Baie-Comeau",N,N,"",2,195,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,29
+24046,"Manicouagan","Manicouagan"," 104","Baie-Comeau",N,N,"",2,195,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 104","Baie-Comeau",N,N,"",2,195,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24046,"Manicouagan","Manicouagan"," 104","Baie-Comeau",N,N,"",2,195,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,17
+24046,"Manicouagan","Manicouagan"," 105","Baie-Comeau",N,N,"",2,403,"Gagné","","Thomas","Liberal","Libéral",N,N,22
+24046,"Manicouagan","Manicouagan"," 105","Baie-Comeau",N,N,"",2,403,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,79
+24046,"Manicouagan","Manicouagan"," 105","Baie-Comeau",N,N,"",2,403,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,12
+24046,"Manicouagan","Manicouagan"," 105","Baie-Comeau",N,N,"",2,403,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+24046,"Manicouagan","Manicouagan"," 105","Baie-Comeau",N,N,"",2,403,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,42
+24046,"Manicouagan","Manicouagan"," 106","Baie-Comeau",N,N,"",2,393,"Gagné","","Thomas","Liberal","Libéral",N,N,26
+24046,"Manicouagan","Manicouagan"," 106","Baie-Comeau",N,N,"",2,393,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,90
+24046,"Manicouagan","Manicouagan"," 106","Baie-Comeau",N,N,"",2,393,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,6
+24046,"Manicouagan","Manicouagan"," 106","Baie-Comeau",N,N,"",2,393,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24046,"Manicouagan","Manicouagan"," 106","Baie-Comeau",N,N,"",2,393,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,28
+24046,"Manicouagan","Manicouagan"," 107","Baie-Comeau",N,N,"",2,330,"Gagné","","Thomas","Liberal","Libéral",N,N,15
+24046,"Manicouagan","Manicouagan"," 107","Baie-Comeau",N,N,"",2,330,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,83
+24046,"Manicouagan","Manicouagan"," 107","Baie-Comeau",N,N,"",2,330,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 107","Baie-Comeau",N,N,"",2,330,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24046,"Manicouagan","Manicouagan"," 107","Baie-Comeau",N,N,"",2,330,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,36
+24046,"Manicouagan","Manicouagan"," 108","Baie-Comeau",N,N,"",4,354,"Gagné","","Thomas","Liberal","Libéral",N,N,15
+24046,"Manicouagan","Manicouagan"," 108","Baie-Comeau",N,N,"",4,354,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,60
+24046,"Manicouagan","Manicouagan"," 108","Baie-Comeau",N,N,"",4,354,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,7
+24046,"Manicouagan","Manicouagan"," 108","Baie-Comeau",N,N,"",4,354,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24046,"Manicouagan","Manicouagan"," 108","Baie-Comeau",N,N,"",4,354,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,28
+24046,"Manicouagan","Manicouagan"," 109","Port-Cartier",N,N,"",3,440,"Gagné","","Thomas","Liberal","Libéral",N,N,15
+24046,"Manicouagan","Manicouagan"," 109","Port-Cartier",N,N,"",3,440,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,70
+24046,"Manicouagan","Manicouagan"," 109","Port-Cartier",N,N,"",3,440,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,5
+24046,"Manicouagan","Manicouagan"," 109","Port-Cartier",N,N,"",3,440,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24046,"Manicouagan","Manicouagan"," 109","Port-Cartier",N,N,"",3,440,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,25
+24046,"Manicouagan","Manicouagan"," 110","Port-Cartier",N,N,"",3,363,"Gagné","","Thomas","Liberal","Libéral",N,N,15
+24046,"Manicouagan","Manicouagan"," 110","Port-Cartier",N,N,"",3,363,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,69
+24046,"Manicouagan","Manicouagan"," 110","Port-Cartier",N,N,"",3,363,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 110","Port-Cartier",N,N,"",3,363,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24046,"Manicouagan","Manicouagan"," 110","Port-Cartier",N,N,"",3,363,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,31
+24046,"Manicouagan","Manicouagan"," 111","Port-Cartier",N,N,"",0,423,"Gagné","","Thomas","Liberal","Libéral",N,N,15
+24046,"Manicouagan","Manicouagan"," 111","Port-Cartier",N,N,"",0,423,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,77
+24046,"Manicouagan","Manicouagan"," 111","Port-Cartier",N,N,"",0,423,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,4
+24046,"Manicouagan","Manicouagan"," 111","Port-Cartier",N,N,"",0,423,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+24046,"Manicouagan","Manicouagan"," 111","Port-Cartier",N,N,"",0,423,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,38
+24046,"Manicouagan","Manicouagan"," 112","Port-Cartier",N,N,"",3,369,"Gagné","","Thomas","Liberal","Libéral",N,N,12
+24046,"Manicouagan","Manicouagan"," 112","Port-Cartier",N,N,"",3,369,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,76
+24046,"Manicouagan","Manicouagan"," 112","Port-Cartier",N,N,"",3,369,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,5
+24046,"Manicouagan","Manicouagan"," 112","Port-Cartier",N,N,"",3,369,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24046,"Manicouagan","Manicouagan"," 112","Port-Cartier",N,N,"",3,369,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,11
+24046,"Manicouagan","Manicouagan"," 113","Port-Cartier",N,N,"",3,344,"Gagné","","Thomas","Liberal","Libéral",N,N,15
+24046,"Manicouagan","Manicouagan"," 113","Port-Cartier",N,N,"",3,344,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,31
+24046,"Manicouagan","Manicouagan"," 113","Port-Cartier",N,N,"",3,344,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 113","Port-Cartier",N,N,"",3,344,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24046,"Manicouagan","Manicouagan"," 113","Port-Cartier",N,N,"",3,344,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,16
+24046,"Manicouagan","Manicouagan"," 114","Port-Cartier",N,N,"",1,369,"Gagné","","Thomas","Liberal","Libéral",N,N,9
+24046,"Manicouagan","Manicouagan"," 114","Port-Cartier",N,N,"",1,369,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,54
+24046,"Manicouagan","Manicouagan"," 114","Port-Cartier",N,N,"",1,369,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 114","Port-Cartier",N,N,"",1,369,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 114","Port-Cartier",N,N,"",1,369,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,35
+24046,"Manicouagan","Manicouagan"," 115","Port-Cartier",N,N,"",1,406,"Gagné","","Thomas","Liberal","Libéral",N,N,13
+24046,"Manicouagan","Manicouagan"," 115","Port-Cartier",N,N,"",1,406,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,67
+24046,"Manicouagan","Manicouagan"," 115","Port-Cartier",N,N,"",1,406,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 115","Port-Cartier",N,N,"",1,406,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 115","Port-Cartier",N,N,"",1,406,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,37
+24046,"Manicouagan","Manicouagan"," 116","Port-Cartier",N,N,"",1,435,"Gagné","","Thomas","Liberal","Libéral",N,N,9
+24046,"Manicouagan","Manicouagan"," 116","Port-Cartier",N,N,"",1,435,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,77
+24046,"Manicouagan","Manicouagan"," 116","Port-Cartier",N,N,"",1,435,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,5
+24046,"Manicouagan","Manicouagan"," 116","Port-Cartier",N,N,"",1,435,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 116","Port-Cartier",N,N,"",1,435,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,25
+24046,"Manicouagan","Manicouagan"," 117","Port-Cartier",N,N,"",3,374,"Gagné","","Thomas","Liberal","Libéral",N,N,10
+24046,"Manicouagan","Manicouagan"," 117","Port-Cartier",N,N,"",3,374,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,52
+24046,"Manicouagan","Manicouagan"," 117","Port-Cartier",N,N,"",3,374,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 117","Port-Cartier",N,N,"",3,374,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24046,"Manicouagan","Manicouagan"," 117","Port-Cartier",N,N,"",3,374,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,40
+24046,"Manicouagan","Manicouagan"," 118","Port-Cartier",N,N,"",1,374,"Gagné","","Thomas","Liberal","Libéral",N,N,12
+24046,"Manicouagan","Manicouagan"," 118","Port-Cartier",N,N,"",1,374,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,85
+24046,"Manicouagan","Manicouagan"," 118","Port-Cartier",N,N,"",1,374,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 118","Port-Cartier",N,N,"",1,374,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24046,"Manicouagan","Manicouagan"," 118","Port-Cartier",N,N,"",1,374,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,33
+24046,"Manicouagan","Manicouagan"," 119","Port-Cartier",N,N,"",2,375,"Gagné","","Thomas","Liberal","Libéral",N,N,24
+24046,"Manicouagan","Manicouagan"," 119","Port-Cartier",N,N,"",2,375,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,82
+24046,"Manicouagan","Manicouagan"," 119","Port-Cartier",N,N,"",2,375,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 119","Port-Cartier",N,N,"",2,375,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24046,"Manicouagan","Manicouagan"," 119","Port-Cartier",N,N,"",2,375,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,36
+24046,"Manicouagan","Manicouagan"," 120","Port-Cartier",N,N,"",5,382,"Gagné","","Thomas","Liberal","Libéral",N,N,24
+24046,"Manicouagan","Manicouagan"," 120","Port-Cartier",N,N,"",5,382,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,48
+24046,"Manicouagan","Manicouagan"," 120","Port-Cartier",N,N,"",5,382,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 120","Port-Cartier",N,N,"",5,382,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24046,"Manicouagan","Manicouagan"," 120","Port-Cartier",N,N,"",5,382,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,44
+24046,"Manicouagan","Manicouagan"," 121","Port-Cartier",N,N,"",3,242,"Gagné","","Thomas","Liberal","Libéral",N,N,16
+24046,"Manicouagan","Manicouagan"," 121","Port-Cartier",N,N,"",3,242,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,78
+24046,"Manicouagan","Manicouagan"," 121","Port-Cartier",N,N,"",3,242,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 121","Port-Cartier",N,N,"",3,242,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24046,"Manicouagan","Manicouagan"," 121","Port-Cartier",N,N,"",3,242,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,15
+24046,"Manicouagan","Manicouagan"," 122","Port-Cartier",N,N,"",2,174,"Gagné","","Thomas","Liberal","Libéral",N,N,16
+24046,"Manicouagan","Manicouagan"," 122","Port-Cartier",N,N,"",2,174,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,37
+24046,"Manicouagan","Manicouagan"," 122","Port-Cartier",N,N,"",2,174,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 122","Port-Cartier",N,N,"",2,174,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24046,"Manicouagan","Manicouagan"," 122","Port-Cartier",N,N,"",2,174,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,19
+24046,"Manicouagan","Manicouagan"," 123","Baie-Trinité",N,N,"",5,380,"Gagné","","Thomas","Liberal","Libéral",N,N,6
+24046,"Manicouagan","Manicouagan"," 123","Baie-Trinité",N,N,"",5,380,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,60
+24046,"Manicouagan","Manicouagan"," 123","Baie-Trinité",N,N,"",5,380,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 123","Baie-Trinité",N,N,"",5,380,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24046,"Manicouagan","Manicouagan"," 123","Baie-Trinité",N,N,"",5,380,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,14
+24046,"Manicouagan","Manicouagan"," 124","Godbout",N,N,"",4,246,"Gagné","","Thomas","Liberal","Libéral",N,N,18
+24046,"Manicouagan","Manicouagan"," 124","Godbout",N,N,"",4,246,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,71
+24046,"Manicouagan","Manicouagan"," 124","Godbout",N,N,"",4,246,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 124","Godbout",N,N,"",4,246,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24046,"Manicouagan","Manicouagan"," 124","Godbout",N,N,"",4,246,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,10
+24046,"Manicouagan","Manicouagan"," 125","Baie-Comeau",N,N,"",4,366,"Gagné","","Thomas","Liberal","Libéral",N,N,14
+24046,"Manicouagan","Manicouagan"," 125","Baie-Comeau",N,N,"",4,366,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,53
+24046,"Manicouagan","Manicouagan"," 125","Baie-Comeau",N,N,"",4,366,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,6
+24046,"Manicouagan","Manicouagan"," 125","Baie-Comeau",N,N,"",4,366,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24046,"Manicouagan","Manicouagan"," 125","Baie-Comeau",N,N,"",4,366,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,14
+24046,"Manicouagan","Manicouagan"," 126","Baie-Comeau",N,N,"",2,318,"Gagné","","Thomas","Liberal","Libéral",N,N,20
+24046,"Manicouagan","Manicouagan"," 126","Baie-Comeau",N,N,"",2,318,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,56
+24046,"Manicouagan","Manicouagan"," 126","Baie-Comeau",N,N,"",2,318,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 126","Baie-Comeau",N,N,"",2,318,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24046,"Manicouagan","Manicouagan"," 126","Baie-Comeau",N,N,"",2,318,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,23
+24046,"Manicouagan","Manicouagan"," 127","Baie-Comeau",N,N,"",5,386,"Gagné","","Thomas","Liberal","Libéral",N,N,26
+24046,"Manicouagan","Manicouagan"," 127","Baie-Comeau",N,N,"",5,386,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,76
+24046,"Manicouagan","Manicouagan"," 127","Baie-Comeau",N,N,"",5,386,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,7
+24046,"Manicouagan","Manicouagan"," 127","Baie-Comeau",N,N,"",5,386,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+24046,"Manicouagan","Manicouagan"," 127","Baie-Comeau",N,N,"",5,386,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,39
+24046,"Manicouagan","Manicouagan"," 128","Baie-Comeau",N,N,"",4,440,"Gagné","","Thomas","Liberal","Libéral",N,N,27
+24046,"Manicouagan","Manicouagan"," 128","Baie-Comeau",N,N,"",4,440,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,80
+24046,"Manicouagan","Manicouagan"," 128","Baie-Comeau",N,N,"",4,440,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,7
+24046,"Manicouagan","Manicouagan"," 128","Baie-Comeau",N,N,"",4,440,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24046,"Manicouagan","Manicouagan"," 128","Baie-Comeau",N,N,"",4,440,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,40
+24046,"Manicouagan","Manicouagan"," 129","Baie-Comeau",N,N,"",0,380,"Gagné","","Thomas","Liberal","Libéral",N,N,28
+24046,"Manicouagan","Manicouagan"," 129","Baie-Comeau",N,N,"",0,380,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,90
+24046,"Manicouagan","Manicouagan"," 129","Baie-Comeau",N,N,"",0,380,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 129","Baie-Comeau",N,N,"",0,380,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 129","Baie-Comeau",N,N,"",0,380,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,58
+24046,"Manicouagan","Manicouagan"," 130","Baie-Comeau",N,N,"",1,378,"Gagné","","Thomas","Liberal","Libéral",N,N,26
+24046,"Manicouagan","Manicouagan"," 130","Baie-Comeau",N,N,"",1,378,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,89
+24046,"Manicouagan","Manicouagan"," 130","Baie-Comeau",N,N,"",1,378,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 130","Baie-Comeau",N,N,"",1,378,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+24046,"Manicouagan","Manicouagan"," 130","Baie-Comeau",N,N,"",1,378,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,49
+24046,"Manicouagan","Manicouagan"," 131","Baie-Comeau",N,N,"",2,342,"Gagné","","Thomas","Liberal","Libéral",N,N,18
+24046,"Manicouagan","Manicouagan"," 131","Baie-Comeau",N,N,"",2,342,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,48
+24046,"Manicouagan","Manicouagan"," 131","Baie-Comeau",N,N,"",2,342,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 131","Baie-Comeau",N,N,"",2,342,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24046,"Manicouagan","Manicouagan"," 131","Baie-Comeau",N,N,"",2,342,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,56
+24046,"Manicouagan","Manicouagan"," 132","Baie-Comeau",N,N,"",8,515,"Gagné","","Thomas","Liberal","Libéral",N,N,28
+24046,"Manicouagan","Manicouagan"," 132","Baie-Comeau",N,N,"",8,515,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,118
+24046,"Manicouagan","Manicouagan"," 132","Baie-Comeau",N,N,"",8,515,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,8
+24046,"Manicouagan","Manicouagan"," 132","Baie-Comeau",N,N,"",8,515,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24046,"Manicouagan","Manicouagan"," 132","Baie-Comeau",N,N,"",8,515,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,47
+24046,"Manicouagan","Manicouagan"," 133","Baie-Comeau",N,N,"",4,428,"Gagné","","Thomas","Liberal","Libéral",N,N,22
+24046,"Manicouagan","Manicouagan"," 133","Baie-Comeau",N,N,"",4,428,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,64
+24046,"Manicouagan","Manicouagan"," 133","Baie-Comeau",N,N,"",4,428,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 133","Baie-Comeau",N,N,"",4,428,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24046,"Manicouagan","Manicouagan"," 133","Baie-Comeau",N,N,"",4,428,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,43
+24046,"Manicouagan","Manicouagan"," 134","Baie-Comeau",N,N,"",2,296,"Gagné","","Thomas","Liberal","Libéral",N,N,17
+24046,"Manicouagan","Manicouagan"," 134","Baie-Comeau",N,N,"",2,296,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,43
+24046,"Manicouagan","Manicouagan"," 134","Baie-Comeau",N,N,"",2,296,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 134","Baie-Comeau",N,N,"",2,296,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24046,"Manicouagan","Manicouagan"," 134","Baie-Comeau",N,N,"",2,296,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,15
+24046,"Manicouagan","Manicouagan"," 135","Baie-Comeau",N,N,"",5,332,"Gagné","","Thomas","Liberal","Libéral",N,N,13
+24046,"Manicouagan","Manicouagan"," 135","Baie-Comeau",N,N,"",5,332,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,72
+24046,"Manicouagan","Manicouagan"," 135","Baie-Comeau",N,N,"",5,332,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,5
+24046,"Manicouagan","Manicouagan"," 135","Baie-Comeau",N,N,"",5,332,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24046,"Manicouagan","Manicouagan"," 135","Baie-Comeau",N,N,"",5,332,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,22
+24046,"Manicouagan","Manicouagan"," 136","Baie-Comeau",N,N,"",2,316,"Gagné","","Thomas","Liberal","Libéral",N,N,15
+24046,"Manicouagan","Manicouagan"," 136","Baie-Comeau",N,N,"",2,316,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,50
+24046,"Manicouagan","Manicouagan"," 136","Baie-Comeau",N,N,"",2,316,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 136","Baie-Comeau",N,N,"",2,316,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+24046,"Manicouagan","Manicouagan"," 136","Baie-Comeau",N,N,"",2,316,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,23
+24046,"Manicouagan","Manicouagan"," 137","Baie-Comeau",N,N,"",3,314,"Gagné","","Thomas","Liberal","Libéral",N,N,11
+24046,"Manicouagan","Manicouagan"," 137","Baie-Comeau",N,N,"",3,314,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,59
+24046,"Manicouagan","Manicouagan"," 137","Baie-Comeau",N,N,"",3,314,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 137","Baie-Comeau",N,N,"",3,314,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24046,"Manicouagan","Manicouagan"," 137","Baie-Comeau",N,N,"",3,314,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,18
+24046,"Manicouagan","Manicouagan"," 138","Baie-Comeau",N,N,"",2,315,"Gagné","","Thomas","Liberal","Libéral",N,N,14
+24046,"Manicouagan","Manicouagan"," 138","Baie-Comeau",N,N,"",2,315,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,55
+24046,"Manicouagan","Manicouagan"," 138","Baie-Comeau",N,N,"",2,315,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 138","Baie-Comeau",N,N,"",2,315,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24046,"Manicouagan","Manicouagan"," 138","Baie-Comeau",N,N,"",2,315,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,27
+24046,"Manicouagan","Manicouagan"," 139","Baie-Comeau",N,N,"",3,424,"Gagné","","Thomas","Liberal","Libéral",N,N,15
+24046,"Manicouagan","Manicouagan"," 139","Baie-Comeau",N,N,"",3,424,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,88
+24046,"Manicouagan","Manicouagan"," 139","Baie-Comeau",N,N,"",3,424,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,5
+24046,"Manicouagan","Manicouagan"," 139","Baie-Comeau",N,N,"",3,424,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+24046,"Manicouagan","Manicouagan"," 139","Baie-Comeau",N,N,"",3,424,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,38
+24046,"Manicouagan","Manicouagan"," 140","Baie-Comeau",N,N,"",7,433,"Gagné","","Thomas","Liberal","Libéral",N,N,18
+24046,"Manicouagan","Manicouagan"," 140","Baie-Comeau",N,N,"",7,433,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,72
+24046,"Manicouagan","Manicouagan"," 140","Baie-Comeau",N,N,"",7,433,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 140","Baie-Comeau",N,N,"",7,433,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24046,"Manicouagan","Manicouagan"," 140","Baie-Comeau",N,N,"",7,433,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,34
+24046,"Manicouagan","Manicouagan"," 141","Baie-Comeau",N,N,"",5,465,"Gagné","","Thomas","Liberal","Libéral",N,N,29
+24046,"Manicouagan","Manicouagan"," 141","Baie-Comeau",N,N,"",5,465,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,67
+24046,"Manicouagan","Manicouagan"," 141","Baie-Comeau",N,N,"",5,465,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,4
+24046,"Manicouagan","Manicouagan"," 141","Baie-Comeau",N,N,"",5,465,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+24046,"Manicouagan","Manicouagan"," 141","Baie-Comeau",N,N,"",5,465,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,29
+24046,"Manicouagan","Manicouagan"," 142","Baie-Comeau",N,N,"",5,420,"Gagné","","Thomas","Liberal","Libéral",N,N,27
+24046,"Manicouagan","Manicouagan"," 142","Baie-Comeau",N,N,"",5,420,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,86
+24046,"Manicouagan","Manicouagan"," 142","Baie-Comeau",N,N,"",5,420,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 142","Baie-Comeau",N,N,"",5,420,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+24046,"Manicouagan","Manicouagan"," 142","Baie-Comeau",N,N,"",5,420,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,54
+24046,"Manicouagan","Manicouagan"," 143","Baie-Comeau",N,N,"",3,361,"Gagné","","Thomas","Liberal","Libéral",N,N,20
+24046,"Manicouagan","Manicouagan"," 143","Baie-Comeau",N,N,"",3,361,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,63
+24046,"Manicouagan","Manicouagan"," 143","Baie-Comeau",N,N,"",3,361,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 143","Baie-Comeau",N,N,"",3,361,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 143","Baie-Comeau",N,N,"",3,361,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,14
+24046,"Manicouagan","Manicouagan"," 144","Baie-Comeau",N,N,"",1,348,"Gagné","","Thomas","Liberal","Libéral",N,N,9
+24046,"Manicouagan","Manicouagan"," 144","Baie-Comeau",N,N,"",1,348,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,80
+24046,"Manicouagan","Manicouagan"," 144","Baie-Comeau",N,N,"",1,348,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 144","Baie-Comeau",N,N,"",1,348,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24046,"Manicouagan","Manicouagan"," 144","Baie-Comeau",N,N,"",1,348,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,17
+24046,"Manicouagan","Manicouagan"," 145","Baie-Comeau",N,N,"",5,334,"Gagné","","Thomas","Liberal","Libéral",N,N,14
+24046,"Manicouagan","Manicouagan"," 145","Baie-Comeau",N,N,"",5,334,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,47
+24046,"Manicouagan","Manicouagan"," 145","Baie-Comeau",N,N,"",5,334,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 145","Baie-Comeau",N,N,"",5,334,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24046,"Manicouagan","Manicouagan"," 145","Baie-Comeau",N,N,"",5,334,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,10
+24046,"Manicouagan","Manicouagan"," 146","Baie-Comeau",N,N,"",2,373,"Gagné","","Thomas","Liberal","Libéral",N,N,14
+24046,"Manicouagan","Manicouagan"," 146","Baie-Comeau",N,N,"",2,373,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,79
+24046,"Manicouagan","Manicouagan"," 146","Baie-Comeau",N,N,"",2,373,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,5
+24046,"Manicouagan","Manicouagan"," 146","Baie-Comeau",N,N,"",2,373,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24046,"Manicouagan","Manicouagan"," 146","Baie-Comeau",N,N,"",2,373,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,27
+24046,"Manicouagan","Manicouagan"," 147","Baie-Comeau",N,N,"",3,385,"Gagné","","Thomas","Liberal","Libéral",N,N,13
+24046,"Manicouagan","Manicouagan"," 147","Baie-Comeau",N,N,"",3,385,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,79
+24046,"Manicouagan","Manicouagan"," 147","Baie-Comeau",N,N,"",3,385,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 147","Baie-Comeau",N,N,"",3,385,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24046,"Manicouagan","Manicouagan"," 147","Baie-Comeau",N,N,"",3,385,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,13
+24046,"Manicouagan","Manicouagan"," 148","Baie-Comeau",N,N,"",8,395,"Gagné","","Thomas","Liberal","Libéral",N,N,25
+24046,"Manicouagan","Manicouagan"," 148","Baie-Comeau",N,N,"",8,395,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,56
+24046,"Manicouagan","Manicouagan"," 148","Baie-Comeau",N,N,"",8,395,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,5
+24046,"Manicouagan","Manicouagan"," 148","Baie-Comeau",N,N,"",8,395,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24046,"Manicouagan","Manicouagan"," 148","Baie-Comeau",N,N,"",8,395,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,40
+24046,"Manicouagan","Manicouagan"," 149","Baie-Comeau",N,N,"",2,388,"Gagné","","Thomas","Liberal","Libéral",N,N,36
+24046,"Manicouagan","Manicouagan"," 149","Baie-Comeau",N,N,"",2,388,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,84
+24046,"Manicouagan","Manicouagan"," 149","Baie-Comeau",N,N,"",2,388,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,6
+24046,"Manicouagan","Manicouagan"," 149","Baie-Comeau",N,N,"",2,388,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24046,"Manicouagan","Manicouagan"," 149","Baie-Comeau",N,N,"",2,388,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,42
+24046,"Manicouagan","Manicouagan"," 150","Baie-Comeau",N,N,"",3,379,"Gagné","","Thomas","Liberal","Libéral",N,N,26
+24046,"Manicouagan","Manicouagan"," 150","Baie-Comeau",N,N,"",3,379,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,88
+24046,"Manicouagan","Manicouagan"," 150","Baie-Comeau",N,N,"",3,379,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,7
+24046,"Manicouagan","Manicouagan"," 150","Baie-Comeau",N,N,"",3,379,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+24046,"Manicouagan","Manicouagan"," 150","Baie-Comeau",N,N,"",3,379,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,21
+24046,"Manicouagan","Manicouagan"," 151","Baie-Comeau",N,N,"",5,371,"Gagné","","Thomas","Liberal","Libéral",N,N,14
+24046,"Manicouagan","Manicouagan"," 151","Baie-Comeau",N,N,"",5,371,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,46
+24046,"Manicouagan","Manicouagan"," 151","Baie-Comeau",N,N,"",5,371,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,5
+24046,"Manicouagan","Manicouagan"," 151","Baie-Comeau",N,N,"",5,371,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24046,"Manicouagan","Manicouagan"," 151","Baie-Comeau",N,N,"",5,371,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,28
+24046,"Manicouagan","Manicouagan"," 152","Baie-Comeau",N,N,"",3,299,"Gagné","","Thomas","Liberal","Libéral",N,N,11
+24046,"Manicouagan","Manicouagan"," 152","Baie-Comeau",N,N,"",3,299,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,55
+24046,"Manicouagan","Manicouagan"," 152","Baie-Comeau",N,N,"",3,299,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 152","Baie-Comeau",N,N,"",3,299,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24046,"Manicouagan","Manicouagan"," 152","Baie-Comeau",N,N,"",3,299,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,34
+24046,"Manicouagan","Manicouagan"," 153","Baie-Comeau",N,N,"",4,439,"Gagné","","Thomas","Liberal","Libéral",N,N,24
+24046,"Manicouagan","Manicouagan"," 153","Baie-Comeau",N,N,"",4,439,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,100
+24046,"Manicouagan","Manicouagan"," 153","Baie-Comeau",N,N,"",4,439,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 153","Baie-Comeau",N,N,"",4,439,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+24046,"Manicouagan","Manicouagan"," 153","Baie-Comeau",N,N,"",4,439,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,43
+24046,"Manicouagan","Manicouagan"," 154","Baie-Comeau",N,N,"",4,373,"Gagné","","Thomas","Liberal","Libéral",N,N,19
+24046,"Manicouagan","Manicouagan"," 154","Baie-Comeau",N,N,"",4,373,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,87
+24046,"Manicouagan","Manicouagan"," 154","Baie-Comeau",N,N,"",4,373,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 154","Baie-Comeau",N,N,"",4,373,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+24046,"Manicouagan","Manicouagan"," 154","Baie-Comeau",N,N,"",4,373,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,23
+24046,"Manicouagan","Manicouagan"," 155","Baie-Comeau",N,N,"",1,359,"Gagné","","Thomas","Liberal","Libéral",N,N,11
+24046,"Manicouagan","Manicouagan"," 155","Baie-Comeau",N,N,"",1,359,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,47
+24046,"Manicouagan","Manicouagan"," 155","Baie-Comeau",N,N,"",1,359,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,4
+24046,"Manicouagan","Manicouagan"," 155","Baie-Comeau",N,N,"",1,359,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+24046,"Manicouagan","Manicouagan"," 155","Baie-Comeau",N,N,"",1,359,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,14
+24046,"Manicouagan","Manicouagan"," 156","Baie-Comeau",N,N,"",3,452,"Gagné","","Thomas","Liberal","Libéral",N,N,19
+24046,"Manicouagan","Manicouagan"," 156","Baie-Comeau",N,N,"",3,452,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,89
+24046,"Manicouagan","Manicouagan"," 156","Baie-Comeau",N,N,"",3,452,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,4
+24046,"Manicouagan","Manicouagan"," 156","Baie-Comeau",N,N,"",3,452,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24046,"Manicouagan","Manicouagan"," 156","Baie-Comeau",N,N,"",3,452,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,31
+24046,"Manicouagan","Manicouagan"," 157","Baie-Comeau",N,N,"",2,435,"Gagné","","Thomas","Liberal","Libéral",N,N,12
+24046,"Manicouagan","Manicouagan"," 157","Baie-Comeau",N,N,"",2,435,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,85
+24046,"Manicouagan","Manicouagan"," 157","Baie-Comeau",N,N,"",2,435,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 157","Baie-Comeau",N,N,"",2,435,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24046,"Manicouagan","Manicouagan"," 157","Baie-Comeau",N,N,"",2,435,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,14
+24046,"Manicouagan","Manicouagan"," 158","Baie-Comeau",N,N,"",9,438,"Gagné","","Thomas","Liberal","Libéral",N,N,10
+24046,"Manicouagan","Manicouagan"," 158","Baie-Comeau",N,N,"",9,438,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,82
+24046,"Manicouagan","Manicouagan"," 158","Baie-Comeau",N,N,"",9,438,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 158","Baie-Comeau",N,N,"",9,438,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 158","Baie-Comeau",N,N,"",9,438,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,26
+24046,"Manicouagan","Manicouagan"," 159","Baie-Comeau",N,N,"",2,411,"Gagné","","Thomas","Liberal","Libéral",N,N,24
+24046,"Manicouagan","Manicouagan"," 159","Baie-Comeau",N,N,"",2,411,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,74
+24046,"Manicouagan","Manicouagan"," 159","Baie-Comeau",N,N,"",2,411,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,5
+24046,"Manicouagan","Manicouagan"," 159","Baie-Comeau",N,N,"",2,411,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24046,"Manicouagan","Manicouagan"," 159","Baie-Comeau",N,N,"",2,411,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,28
+24046,"Manicouagan","Manicouagan"," 160","Baie-Comeau",N,N,"",5,430,"Gagné","","Thomas","Liberal","Libéral",N,N,14
+24046,"Manicouagan","Manicouagan"," 160","Baie-Comeau",N,N,"",5,430,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,67
+24046,"Manicouagan","Manicouagan"," 160","Baie-Comeau",N,N,"",5,430,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 160","Baie-Comeau",N,N,"",5,430,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24046,"Manicouagan","Manicouagan"," 160","Baie-Comeau",N,N,"",5,430,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,40
+24046,"Manicouagan","Manicouagan"," 161","Baie-Comeau",N,N,"",1,283,"Gagné","","Thomas","Liberal","Libéral",N,N,8
+24046,"Manicouagan","Manicouagan"," 161","Baie-Comeau",N,N,"",1,283,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,48
+24046,"Manicouagan","Manicouagan"," 161","Baie-Comeau",N,N,"",1,283,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,5
+24046,"Manicouagan","Manicouagan"," 161","Baie-Comeau",N,N,"",1,283,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24046,"Manicouagan","Manicouagan"," 161","Baie-Comeau",N,N,"",1,283,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,21
+24046,"Manicouagan","Manicouagan"," 162","Baie-Comeau",N,N,"",1,420,"Gagné","","Thomas","Liberal","Libéral",N,N,16
+24046,"Manicouagan","Manicouagan"," 162","Baie-Comeau",N,N,"",1,420,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,66
+24046,"Manicouagan","Manicouagan"," 162","Baie-Comeau",N,N,"",1,420,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,8
+24046,"Manicouagan","Manicouagan"," 162","Baie-Comeau",N,N,"",1,420,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24046,"Manicouagan","Manicouagan"," 162","Baie-Comeau",N,N,"",1,420,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,32
+24046,"Manicouagan","Manicouagan"," 163","Chute-aux-Outardes",N,N,"",5,319,"Gagné","","Thomas","Liberal","Libéral",N,N,12
+24046,"Manicouagan","Manicouagan"," 163","Chute-aux-Outardes",N,N,"",5,319,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,63
+24046,"Manicouagan","Manicouagan"," 163","Chute-aux-Outardes",N,N,"",5,319,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 163","Chute-aux-Outardes",N,N,"",5,319,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24046,"Manicouagan","Manicouagan"," 163","Chute-aux-Outardes",N,N,"",5,319,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,26
+24046,"Manicouagan","Manicouagan"," 164","Chute-aux-Outardes",N,N,"",2,309,"Gagné","","Thomas","Liberal","Libéral",N,N,14
+24046,"Manicouagan","Manicouagan"," 164","Chute-aux-Outardes",N,N,"",2,309,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,52
+24046,"Manicouagan","Manicouagan"," 164","Chute-aux-Outardes",N,N,"",2,309,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,6
+24046,"Manicouagan","Manicouagan"," 164","Chute-aux-Outardes",N,N,"",2,309,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24046,"Manicouagan","Manicouagan"," 164","Chute-aux-Outardes",N,N,"",2,309,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,24
+24046,"Manicouagan","Manicouagan"," 165","Chute-aux-Outardes",N,N,"",3,251,"Gagné","","Thomas","Liberal","Libéral",N,N,9
+24046,"Manicouagan","Manicouagan"," 165","Chute-aux-Outardes",N,N,"",3,251,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,32
+24046,"Manicouagan","Manicouagan"," 165","Chute-aux-Outardes",N,N,"",3,251,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,5
+24046,"Manicouagan","Manicouagan"," 165","Chute-aux-Outardes",N,N,"",3,251,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24046,"Manicouagan","Manicouagan"," 165","Chute-aux-Outardes",N,N,"",3,251,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,15
+24046,"Manicouagan","Manicouagan"," 166","Chute-aux-Outardes",N,N,"",0,328,"Gagné","","Thomas","Liberal","Libéral",N,N,9
+24046,"Manicouagan","Manicouagan"," 166","Chute-aux-Outardes",N,N,"",0,328,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,53
+24046,"Manicouagan","Manicouagan"," 166","Chute-aux-Outardes",N,N,"",0,328,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,7
+24046,"Manicouagan","Manicouagan"," 166","Chute-aux-Outardes",N,N,"",0,328,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24046,"Manicouagan","Manicouagan"," 166","Chute-aux-Outardes",N,N,"",0,328,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,25
+24046,"Manicouagan","Manicouagan"," 167","Pointe-Lebel",N,N,"",2,261,"Gagné","","Thomas","Liberal","Libéral",N,N,13
+24046,"Manicouagan","Manicouagan"," 167","Pointe-Lebel",N,N,"",2,261,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,79
+24046,"Manicouagan","Manicouagan"," 167","Pointe-Lebel",N,N,"",2,261,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,6
+24046,"Manicouagan","Manicouagan"," 167","Pointe-Lebel",N,N,"",2,261,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 167","Pointe-Lebel",N,N,"",2,261,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,20
+24046,"Manicouagan","Manicouagan"," 168","Pointe-Lebel",N,N,"",0,345,"Gagné","","Thomas","Liberal","Libéral",N,N,12
+24046,"Manicouagan","Manicouagan"," 168","Pointe-Lebel",N,N,"",0,345,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,67
+24046,"Manicouagan","Manicouagan"," 168","Pointe-Lebel",N,N,"",0,345,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,7
+24046,"Manicouagan","Manicouagan"," 168","Pointe-Lebel",N,N,"",0,345,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24046,"Manicouagan","Manicouagan"," 168","Pointe-Lebel",N,N,"",0,345,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,14
+24046,"Manicouagan","Manicouagan"," 169","Pointe-Lebel",N,N,"",6,439,"Gagné","","Thomas","Liberal","Libéral",N,N,22
+24046,"Manicouagan","Manicouagan"," 169","Pointe-Lebel",N,N,"",6,439,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,97
+24046,"Manicouagan","Manicouagan"," 169","Pointe-Lebel",N,N,"",6,439,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,6
+24046,"Manicouagan","Manicouagan"," 169","Pointe-Lebel",N,N,"",6,439,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+24046,"Manicouagan","Manicouagan"," 169","Pointe-Lebel",N,N,"",6,439,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,44
+24046,"Manicouagan","Manicouagan"," 170","Pointe-Lebel",N,N,"",0,210,"Gagné","","Thomas","Liberal","Libéral",N,N,13
+24046,"Manicouagan","Manicouagan"," 170","Pointe-Lebel",N,N,"",0,210,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,50
+24046,"Manicouagan","Manicouagan"," 170","Pointe-Lebel",N,N,"",0,210,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 170","Pointe-Lebel",N,N,"",0,210,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 170","Pointe-Lebel",N,N,"",0,210,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,16
+24046,"Manicouagan","Manicouagan"," 171","Pointe-Lebel",N,N,"",0,255,"Gagné","","Thomas","Liberal","Libéral",N,N,15
+24046,"Manicouagan","Manicouagan"," 171","Pointe-Lebel",N,N,"",0,255,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,54
+24046,"Manicouagan","Manicouagan"," 171","Pointe-Lebel",N,N,"",0,255,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 171","Pointe-Lebel",N,N,"",0,255,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 171","Pointe-Lebel",N,N,"",0,255,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,19
+24046,"Manicouagan","Manicouagan"," 172","Ragueneau",N,N,"",2,350,"Gagné","","Thomas","Liberal","Libéral",N,N,13
+24046,"Manicouagan","Manicouagan"," 172","Ragueneau",N,N,"",2,350,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,74
+24046,"Manicouagan","Manicouagan"," 172","Ragueneau",N,N,"",2,350,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 172","Ragueneau",N,N,"",2,350,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24046,"Manicouagan","Manicouagan"," 172","Ragueneau",N,N,"",2,350,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,15
+24046,"Manicouagan","Manicouagan"," 173","Ragueneau",N,N,"",0,409,"Gagné","","Thomas","Liberal","Libéral",N,N,21
+24046,"Manicouagan","Manicouagan"," 173","Ragueneau",N,N,"",0,409,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,111
+24046,"Manicouagan","Manicouagan"," 173","Ragueneau",N,N,"",0,409,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,4
+24046,"Manicouagan","Manicouagan"," 173","Ragueneau",N,N,"",0,409,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 173","Ragueneau",N,N,"",0,409,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,25
+24046,"Manicouagan","Manicouagan"," 174","Ragueneau",N,N,"",7,373,"Gagné","","Thomas","Liberal","Libéral",N,N,22
+24046,"Manicouagan","Manicouagan"," 174","Ragueneau",N,N,"",7,373,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,82
+24046,"Manicouagan","Manicouagan"," 174","Ragueneau",N,N,"",7,373,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,6
+24046,"Manicouagan","Manicouagan"," 174","Ragueneau",N,N,"",7,373,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24046,"Manicouagan","Manicouagan"," 174","Ragueneau",N,N,"",7,373,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,15
+24046,"Manicouagan","Manicouagan"," 175","Pointe-aux-Outardes",N,N,"",1,269,"Gagné","","Thomas","Liberal","Libéral",N,N,9
+24046,"Manicouagan","Manicouagan"," 175","Pointe-aux-Outardes",N,N,"",1,269,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,54
+24046,"Manicouagan","Manicouagan"," 175","Pointe-aux-Outardes",N,N,"",1,269,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,4
+24046,"Manicouagan","Manicouagan"," 175","Pointe-aux-Outardes",N,N,"",1,269,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 175","Pointe-aux-Outardes",N,N,"",1,269,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,22
+24046,"Manicouagan","Manicouagan"," 176","Pointe-aux-Outardes",N,N,"",1,381,"Gagné","","Thomas","Liberal","Libéral",N,N,14
+24046,"Manicouagan","Manicouagan"," 176","Pointe-aux-Outardes",N,N,"",1,381,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,92
+24046,"Manicouagan","Manicouagan"," 176","Pointe-aux-Outardes",N,N,"",1,381,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,7
+24046,"Manicouagan","Manicouagan"," 176","Pointe-aux-Outardes",N,N,"",1,381,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24046,"Manicouagan","Manicouagan"," 176","Pointe-aux-Outardes",N,N,"",1,381,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,34
+24046,"Manicouagan","Manicouagan"," 177","Pointe-aux-Outardes",N,N,"",4,434,"Gagné","","Thomas","Liberal","Libéral",N,N,15
+24046,"Manicouagan","Manicouagan"," 177","Pointe-aux-Outardes",N,N,"",4,434,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,112
+24046,"Manicouagan","Manicouagan"," 177","Pointe-aux-Outardes",N,N,"",4,434,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 177","Pointe-aux-Outardes",N,N,"",4,434,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24046,"Manicouagan","Manicouagan"," 177","Pointe-aux-Outardes",N,N,"",4,434,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,46
+24046,"Manicouagan","Manicouagan"," 178","Betsiamites",N,N,"",1,333,"Gagné","","Thomas","Liberal","Libéral",N,N,27
+24046,"Manicouagan","Manicouagan"," 178","Betsiamites",N,N,"",1,333,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,8
+24046,"Manicouagan","Manicouagan"," 178","Betsiamites",N,N,"",1,333,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 178","Betsiamites",N,N,"",1,333,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24046,"Manicouagan","Manicouagan"," 178","Betsiamites",N,N,"",1,333,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,1
+24046,"Manicouagan","Manicouagan"," 179","Betsiamites",N,N,"",0,482,"Gagné","","Thomas","Liberal","Libéral",N,N,58
+24046,"Manicouagan","Manicouagan"," 179","Betsiamites",N,N,"",0,482,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,4
+24046,"Manicouagan","Manicouagan"," 179","Betsiamites",N,N,"",0,482,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 179","Betsiamites",N,N,"",0,482,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24046,"Manicouagan","Manicouagan"," 179","Betsiamites",N,N,"",0,482,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,1
+24046,"Manicouagan","Manicouagan"," 180","Betsiamites",N,N,"",1,284,"Gagné","","Thomas","Liberal","Libéral",N,N,14
+24046,"Manicouagan","Manicouagan"," 180","Betsiamites",N,N,"",1,284,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,3
+24046,"Manicouagan","Manicouagan"," 180","Betsiamites",N,N,"",1,284,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 180","Betsiamites",N,N,"",1,284,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24046,"Manicouagan","Manicouagan"," 180","Betsiamites",N,N,"",1,284,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,0
+24046,"Manicouagan","Manicouagan"," 181","Betsiamites",N,N,"",1,398,"Gagné","","Thomas","Liberal","Libéral",N,N,46
+24046,"Manicouagan","Manicouagan"," 181","Betsiamites",N,N,"",1,398,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,4
+24046,"Manicouagan","Manicouagan"," 181","Betsiamites",N,N,"",1,398,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 181","Betsiamites",N,N,"",1,398,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24046,"Manicouagan","Manicouagan"," 181","Betsiamites",N,N,"",1,398,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,0
+24046,"Manicouagan","Manicouagan"," 182","Betsiamites",N,N,"",0,365,"Gagné","","Thomas","Liberal","Libéral",N,N,24
+24046,"Manicouagan","Manicouagan"," 182","Betsiamites",N,N,"",0,365,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,1
+24046,"Manicouagan","Manicouagan"," 182","Betsiamites",N,N,"",0,365,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 182","Betsiamites",N,N,"",0,365,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24046,"Manicouagan","Manicouagan"," 182","Betsiamites",N,N,"",0,365,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,1
+24046,"Manicouagan","Manicouagan"," 183","Forestville",N,N,"",3,285,"Gagné","","Thomas","Liberal","Libéral",N,N,14
+24046,"Manicouagan","Manicouagan"," 183","Forestville",N,N,"",3,285,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,40
+24046,"Manicouagan","Manicouagan"," 183","Forestville",N,N,"",3,285,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 183","Forestville",N,N,"",3,285,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24046,"Manicouagan","Manicouagan"," 183","Forestville",N,N,"",3,285,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,17
+24046,"Manicouagan","Manicouagan"," 184","Forestville",N,N,"",5,312,"Gagné","","Thomas","Liberal","Libéral",N,N,13
+24046,"Manicouagan","Manicouagan"," 184","Forestville",N,N,"",5,312,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,48
+24046,"Manicouagan","Manicouagan"," 184","Forestville",N,N,"",5,312,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 184","Forestville",N,N,"",5,312,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24046,"Manicouagan","Manicouagan"," 184","Forestville",N,N,"",5,312,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,23
+24046,"Manicouagan","Manicouagan"," 185","Forestville",N,N,"",2,242,"Gagné","","Thomas","Liberal","Libéral",N,N,6
+24046,"Manicouagan","Manicouagan"," 185","Forestville",N,N,"",2,242,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,30
+24046,"Manicouagan","Manicouagan"," 185","Forestville",N,N,"",2,242,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 185","Forestville",N,N,"",2,242,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24046,"Manicouagan","Manicouagan"," 185","Forestville",N,N,"",2,242,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,18
+24046,"Manicouagan","Manicouagan"," 186","Forestville",N,N,"",2,271,"Gagné","","Thomas","Liberal","Libéral",N,N,4
+24046,"Manicouagan","Manicouagan"," 186","Forestville",N,N,"",2,271,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,38
+24046,"Manicouagan","Manicouagan"," 186","Forestville",N,N,"",2,271,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 186","Forestville",N,N,"",2,271,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24046,"Manicouagan","Manicouagan"," 186","Forestville",N,N,"",2,271,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,10
+24046,"Manicouagan","Manicouagan"," 187","Forestville",N,N,"",0,257,"Gagné","","Thomas","Liberal","Libéral",N,N,11
+24046,"Manicouagan","Manicouagan"," 187","Forestville",N,N,"",0,257,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,23
+24046,"Manicouagan","Manicouagan"," 187","Forestville",N,N,"",0,257,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 187","Forestville",N,N,"",0,257,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24046,"Manicouagan","Manicouagan"," 187","Forestville",N,N,"",0,257,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,11
+24046,"Manicouagan","Manicouagan"," 188","Forestville",N,N,"",2,265,"Gagné","","Thomas","Liberal","Libéral",N,N,9
+24046,"Manicouagan","Manicouagan"," 188","Forestville",N,N,"",2,265,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,48
+24046,"Manicouagan","Manicouagan"," 188","Forestville",N,N,"",2,265,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 188","Forestville",N,N,"",2,265,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 188","Forestville",N,N,"",2,265,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,9
+24046,"Manicouagan","Manicouagan"," 189","Forestville",N,N,"",2,343,"Gagné","","Thomas","Liberal","Libéral",N,N,17
+24046,"Manicouagan","Manicouagan"," 189","Forestville",N,N,"",2,343,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,34
+24046,"Manicouagan","Manicouagan"," 189","Forestville",N,N,"",2,343,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 189","Forestville",N,N,"",2,343,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 189","Forestville",N,N,"",2,343,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,12
+24046,"Manicouagan","Manicouagan"," 190","Forestville",N,N,"",3,253,"Gagné","","Thomas","Liberal","Libéral",N,N,7
+24046,"Manicouagan","Manicouagan"," 190","Forestville",N,N,"",3,253,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,43
+24046,"Manicouagan","Manicouagan"," 190","Forestville",N,N,"",3,253,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 190","Forestville",N,N,"",3,253,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24046,"Manicouagan","Manicouagan"," 190","Forestville",N,N,"",3,253,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,13
+24046,"Manicouagan","Manicouagan"," 191","Forestville",N,N,"",2,274,"Gagné","","Thomas","Liberal","Libéral",N,N,14
+24046,"Manicouagan","Manicouagan"," 191","Forestville",N,N,"",2,274,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,39
+24046,"Manicouagan","Manicouagan"," 191","Forestville",N,N,"",2,274,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 191","Forestville",N,N,"",2,274,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24046,"Manicouagan","Manicouagan"," 191","Forestville",N,N,"",2,274,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,17
+24046,"Manicouagan","Manicouagan"," 192","Colombier",N,N,"",1,244,"Gagné","","Thomas","Liberal","Libéral",N,N,24
+24046,"Manicouagan","Manicouagan"," 192","Colombier",N,N,"",1,244,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,73
+24046,"Manicouagan","Manicouagan"," 192","Colombier",N,N,"",1,244,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 192","Colombier",N,N,"",1,244,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 192","Colombier",N,N,"",1,244,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,8
+24046,"Manicouagan","Manicouagan"," 193","Colombier",N,N,"",4,227,"Gagné","","Thomas","Liberal","Libéral",N,N,15
+24046,"Manicouagan","Manicouagan"," 193","Colombier",N,N,"",4,227,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,63
+24046,"Manicouagan","Manicouagan"," 193","Colombier",N,N,"",4,227,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,8
+24046,"Manicouagan","Manicouagan"," 193","Colombier",N,N,"",4,227,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24046,"Manicouagan","Manicouagan"," 193","Colombier",N,N,"",4,227,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,20
+24046,"Manicouagan","Manicouagan"," 194","Saint-Marc-de-Latour",N,N,"",0,117,"Gagné","","Thomas","Liberal","Libéral",N,N,7
+24046,"Manicouagan","Manicouagan"," 194","Saint-Marc-de-Latour",N,N,"",0,117,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,24
+24046,"Manicouagan","Manicouagan"," 194","Saint-Marc-de-Latour",N,N,"",0,117,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,5
+24046,"Manicouagan","Manicouagan"," 194","Saint-Marc-de-Latour",N,N,"",0,117,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 194","Saint-Marc-de-Latour",N,N,"",0,117,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,3
+24046,"Manicouagan","Manicouagan"," 195","Portneuf-sur-Mer",N,N,"",2,221,"Gagné","","Thomas","Liberal","Libéral",N,N,25
+24046,"Manicouagan","Manicouagan"," 195","Portneuf-sur-Mer",N,N,"",2,221,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,56
+24046,"Manicouagan","Manicouagan"," 195","Portneuf-sur-Mer",N,N,"",2,221,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 195","Portneuf-sur-Mer",N,N,"",2,221,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24046,"Manicouagan","Manicouagan"," 195","Portneuf-sur-Mer",N,N,"",2,221,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,12
+24046,"Manicouagan","Manicouagan"," 196","Portneuf-sur-Mer",N,N,"",4,338,"Gagné","","Thomas","Liberal","Libéral",N,N,22
+24046,"Manicouagan","Manicouagan"," 196","Portneuf-sur-Mer",N,N,"",4,338,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,79
+24046,"Manicouagan","Manicouagan"," 196","Portneuf-sur-Mer",N,N,"",4,338,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 196","Portneuf-sur-Mer",N,N,"",4,338,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 196","Portneuf-sur-Mer",N,N,"",4,338,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,30
+24046,"Manicouagan","Manicouagan"," 197","Longue-Rive",N,N,"",8,442,"Gagné","","Thomas","Liberal","Libéral",N,N,26
+24046,"Manicouagan","Manicouagan"," 197","Longue-Rive",N,N,"",8,442,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,91
+24046,"Manicouagan","Manicouagan"," 197","Longue-Rive",N,N,"",8,442,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 197","Longue-Rive",N,N,"",8,442,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 197","Longue-Rive",N,N,"",8,442,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,14
+24046,"Manicouagan","Manicouagan"," 198","Longue-Rive",N,N,"",0,180,"Gagné","","Thomas","Liberal","Libéral",N,N,15
+24046,"Manicouagan","Manicouagan"," 198","Longue-Rive",N,N,"",0,180,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,28
+24046,"Manicouagan","Manicouagan"," 198","Longue-Rive",N,N,"",0,180,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 198","Longue-Rive",N,N,"",0,180,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24046,"Manicouagan","Manicouagan"," 198","Longue-Rive",N,N,"",0,180,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,10
+24046,"Manicouagan","Manicouagan"," 199","Longue-Rive",N,N,"",1,220,"Gagné","","Thomas","Liberal","Libéral",N,N,22
+24046,"Manicouagan","Manicouagan"," 199","Longue-Rive",N,N,"",1,220,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,43
+24046,"Manicouagan","Manicouagan"," 199","Longue-Rive",N,N,"",1,220,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 199","Longue-Rive",N,N,"",1,220,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24046,"Manicouagan","Manicouagan"," 199","Longue-Rive",N,N,"",1,220,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,12
+24046,"Manicouagan","Manicouagan"," 200","Les Escoumins",N,N,"",0,429,"Gagné","","Thomas","Liberal","Libéral",N,N,28
+24046,"Manicouagan","Manicouagan"," 200","Les Escoumins",N,N,"",0,429,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,92
+24046,"Manicouagan","Manicouagan"," 200","Les Escoumins",N,N,"",0,429,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 200","Les Escoumins",N,N,"",0,429,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24046,"Manicouagan","Manicouagan"," 200","Les Escoumins",N,N,"",0,429,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,19
+24046,"Manicouagan","Manicouagan"," 201","Les Escoumins",N,N,"",2,368,"Gagné","","Thomas","Liberal","Libéral",N,N,15
+24046,"Manicouagan","Manicouagan"," 201","Les Escoumins",N,N,"",2,368,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,76
+24046,"Manicouagan","Manicouagan"," 201","Les Escoumins",N,N,"",2,368,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,5
+24046,"Manicouagan","Manicouagan"," 201","Les Escoumins",N,N,"",2,368,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24046,"Manicouagan","Manicouagan"," 201","Les Escoumins",N,N,"",2,368,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,24
+24046,"Manicouagan","Manicouagan"," 202","Les Escoumins",N,N,"",4,342,"Gagné","","Thomas","Liberal","Libéral",N,N,20
+24046,"Manicouagan","Manicouagan"," 202","Les Escoumins",N,N,"",4,342,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,85
+24046,"Manicouagan","Manicouagan"," 202","Les Escoumins",N,N,"",4,342,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 202","Les Escoumins",N,N,"",4,342,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24046,"Manicouagan","Manicouagan"," 202","Les Escoumins",N,N,"",4,342,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,26
+24046,"Manicouagan","Manicouagan"," 203","Les Escoumins",N,N,"",4,372,"Gagné","","Thomas","Liberal","Libéral",N,N,24
+24046,"Manicouagan","Manicouagan"," 203","Les Escoumins",N,N,"",4,372,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,61
+24046,"Manicouagan","Manicouagan"," 203","Les Escoumins",N,N,"",4,372,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 203","Les Escoumins",N,N,"",4,372,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24046,"Manicouagan","Manicouagan"," 203","Les Escoumins",N,N,"",4,372,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,28
+24046,"Manicouagan","Manicouagan"," 204","Innue Essipit",N,N,"",5,237,"Gagné","","Thomas","Liberal","Libéral",N,N,50
+24046,"Manicouagan","Manicouagan"," 204","Innue Essipit",N,N,"",5,237,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,37
+24046,"Manicouagan","Manicouagan"," 204","Innue Essipit",N,N,"",5,237,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 204","Innue Essipit",N,N,"",5,237,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24046,"Manicouagan","Manicouagan"," 204","Innue Essipit",N,N,"",5,237,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,5
+24046,"Manicouagan","Manicouagan"," 205","Les Bergeronnes",N,N,"",4,270,"Gagné","","Thomas","Liberal","Libéral",N,N,25
+24046,"Manicouagan","Manicouagan"," 205","Les Bergeronnes",N,N,"",4,270,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,65
+24046,"Manicouagan","Manicouagan"," 205","Les Bergeronnes",N,N,"",4,270,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,4
+24046,"Manicouagan","Manicouagan"," 205","Les Bergeronnes",N,N,"",4,270,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24046,"Manicouagan","Manicouagan"," 205","Les Bergeronnes",N,N,"",4,270,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,18
+24046,"Manicouagan","Manicouagan"," 206","Les Bergeronnes",N,N,"",4,263,"Gagné","","Thomas","Liberal","Libéral",N,N,23
+24046,"Manicouagan","Manicouagan"," 206","Les Bergeronnes",N,N,"",4,263,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,85
+24046,"Manicouagan","Manicouagan"," 206","Les Bergeronnes",N,N,"",4,263,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 206","Les Bergeronnes",N,N,"",4,263,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+24046,"Manicouagan","Manicouagan"," 206","Les Bergeronnes",N,N,"",4,263,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,20
+24046,"Manicouagan","Manicouagan"," 207","Sacré-Coeur",N,N,"",9,448,"Gagné","","Thomas","Liberal","Libéral",N,N,57
+24046,"Manicouagan","Manicouagan"," 207","Sacré-Coeur",N,N,"",9,448,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,87
+24046,"Manicouagan","Manicouagan"," 207","Sacré-Coeur",N,N,"",9,448,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 207","Sacré-Coeur",N,N,"",9,448,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24046,"Manicouagan","Manicouagan"," 207","Sacré-Coeur",N,N,"",9,448,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,66
+24046,"Manicouagan","Manicouagan"," 208","Sacré-Coeur",N,N,"",4,347,"Gagné","","Thomas","Liberal","Libéral",N,N,49
+24046,"Manicouagan","Manicouagan"," 208","Sacré-Coeur",N,N,"",4,347,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,81
+24046,"Manicouagan","Manicouagan"," 208","Sacré-Coeur",N,N,"",4,347,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,6
+24046,"Manicouagan","Manicouagan"," 208","Sacré-Coeur",N,N,"",4,347,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24046,"Manicouagan","Manicouagan"," 208","Sacré-Coeur",N,N,"",4,347,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,34
+24046,"Manicouagan","Manicouagan"," 209","Sacré-Coeur",N,N,"",6,289,"Gagné","","Thomas","Liberal","Libéral",N,N,40
+24046,"Manicouagan","Manicouagan"," 209","Sacré-Coeur",N,N,"",6,289,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,65
+24046,"Manicouagan","Manicouagan"," 209","Sacré-Coeur",N,N,"",6,289,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 209","Sacré-Coeur",N,N,"",6,289,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24046,"Manicouagan","Manicouagan"," 209","Sacré-Coeur",N,N,"",6,289,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,37
+24046,"Manicouagan","Manicouagan"," 210","Sacré-Coeur",N,N,"",6,335,"Gagné","","Thomas","Liberal","Libéral",N,N,47
+24046,"Manicouagan","Manicouagan"," 210","Sacré-Coeur",N,N,"",6,335,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,60
+24046,"Manicouagan","Manicouagan"," 210","Sacré-Coeur",N,N,"",6,335,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,8
+24046,"Manicouagan","Manicouagan"," 210","Sacré-Coeur",N,N,"",6,335,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+24046,"Manicouagan","Manicouagan"," 210","Sacré-Coeur",N,N,"",6,335,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,33
+24046,"Manicouagan","Manicouagan"," 211","Tadoussac",N,N,"",9,359,"Gagné","","Thomas","Liberal","Libéral",N,N,33
+24046,"Manicouagan","Manicouagan"," 211","Tadoussac",N,N,"",9,359,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,87
+24046,"Manicouagan","Manicouagan"," 211","Tadoussac",N,N,"",9,359,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,4
+24046,"Manicouagan","Manicouagan"," 211","Tadoussac",N,N,"",9,359,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24046,"Manicouagan","Manicouagan"," 211","Tadoussac",N,N,"",9,359,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,19
+24046,"Manicouagan","Manicouagan"," 212","Tadoussac",N,N,"",5,326,"Gagné","","Thomas","Liberal","Libéral",N,N,26
+24046,"Manicouagan","Manicouagan"," 212","Tadoussac",N,N,"",5,326,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,76
+24046,"Manicouagan","Manicouagan"," 212","Tadoussac",N,N,"",5,326,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 212","Tadoussac",N,N,"",5,326,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24046,"Manicouagan","Manicouagan"," 212","Tadoussac",N,N,"",5,326,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,14
+24046,"Manicouagan","Manicouagan"," 400","Sept-Îles",N,N,"",4,211,"Gagné","","Thomas","Liberal","Libéral",N,N,60
+24046,"Manicouagan","Manicouagan"," 400","Sept-Îles",N,N,"",4,211,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,31
+24046,"Manicouagan","Manicouagan"," 400","Sept-Îles",N,N,"",4,211,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 400","Sept-Îles",N,N,"",4,211,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 400","Sept-Îles",N,N,"",4,211,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,19
+24046,"Manicouagan","Manicouagan"," 401","Baie-Comeau",N,N,"",15,286,"Gagné","","Thomas","Liberal","Libéral",N,N,86
+24046,"Manicouagan","Manicouagan"," 401","Baie-Comeau",N,N,"",15,286,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,53
+24046,"Manicouagan","Manicouagan"," 401","Baie-Comeau",N,N,"",15,286,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 401","Baie-Comeau",N,N,"",15,286,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 401","Baie-Comeau",N,N,"",15,286,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,30
+24046,"Manicouagan","Manicouagan"," 500","Mobile poll/Bureau itinérant",N,N,"",1,6,"Gagné","","Thomas","Liberal","Libéral",N,N,0
+24046,"Manicouagan","Manicouagan"," 500","Mobile poll/Bureau itinérant",N,N,"",1,6,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,1
+24046,"Manicouagan","Manicouagan"," 500","Mobile poll/Bureau itinérant",N,N,"",1,6,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 500","Mobile poll/Bureau itinérant",N,N,"",1,6,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24046,"Manicouagan","Manicouagan"," 500","Mobile poll/Bureau itinérant",N,N,"",1,6,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,0
+24046,"Manicouagan","Manicouagan"," 501","Mobile poll/Bureau itinérant",N,N,"",1,19,"Gagné","","Thomas","Liberal","Libéral",N,N,1
+24046,"Manicouagan","Manicouagan"," 501","Mobile poll/Bureau itinérant",N,N,"",1,19,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,0
+24046,"Manicouagan","Manicouagan"," 501","Mobile poll/Bureau itinérant",N,N,"",1,19,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 501","Mobile poll/Bureau itinérant",N,N,"",1,19,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 501","Mobile poll/Bureau itinérant",N,N,"",1,19,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,0
+24046,"Manicouagan","Manicouagan"," 502","Sept-Îles",N,N,"72",0,12,"Gagné","","Thomas","Liberal","Libéral",N,N,0
+24046,"Manicouagan","Manicouagan"," 502","Sept-Îles",N,N,"72",0,12,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,0
+24046,"Manicouagan","Manicouagan"," 502","Sept-Îles",N,N,"72",0,12,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 502","Sept-Îles",N,N,"72",0,12,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 502","Sept-Îles",N,N,"72",0,12,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,0
+24046,"Manicouagan","Manicouagan"," 503","Mobile poll/Bureau itinérant",N,N,"",0,55,"Gagné","","Thomas","Liberal","Libéral",N,N,4
+24046,"Manicouagan","Manicouagan"," 503","Mobile poll/Bureau itinérant",N,N,"",0,55,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,4
+24046,"Manicouagan","Manicouagan"," 503","Mobile poll/Bureau itinérant",N,N,"",0,55,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 503","Mobile poll/Bureau itinérant",N,N,"",0,55,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 503","Mobile poll/Bureau itinérant",N,N,"",0,55,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,3
+24046,"Manicouagan","Manicouagan"," 504","Mobile poll/Bureau itinérant",N,N,"",1,38,"Gagné","","Thomas","Liberal","Libéral",N,N,10
+24046,"Manicouagan","Manicouagan"," 504","Mobile poll/Bureau itinérant",N,N,"",1,38,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,11
+24046,"Manicouagan","Manicouagan"," 504","Mobile poll/Bureau itinérant",N,N,"",1,38,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,2
+24046,"Manicouagan","Manicouagan"," 504","Mobile poll/Bureau itinérant",N,N,"",1,38,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 504","Mobile poll/Bureau itinérant",N,N,"",1,38,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,0
+24046,"Manicouagan","Manicouagan"," 505","Port-Cartier",N,N,"113",0,8,"Gagné","","Thomas","Liberal","Libéral",N,N,0
+24046,"Manicouagan","Manicouagan"," 505","Port-Cartier",N,N,"113",0,8,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,0
+24046,"Manicouagan","Manicouagan"," 505","Port-Cartier",N,N,"113",0,8,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 505","Port-Cartier",N,N,"113",0,8,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 505","Port-Cartier",N,N,"113",0,8,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,0
+24046,"Manicouagan","Manicouagan"," 506","Port-Cartier",N,N,"112",0,1,"Gagné","","Thomas","Liberal","Libéral",N,N,0
+24046,"Manicouagan","Manicouagan"," 506","Port-Cartier",N,N,"112",0,1,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,0
+24046,"Manicouagan","Manicouagan"," 506","Port-Cartier",N,N,"112",0,1,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 506","Port-Cartier",N,N,"112",0,1,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 506","Port-Cartier",N,N,"112",0,1,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,0
+24046,"Manicouagan","Manicouagan"," 507","Mobile poll/Bureau itinérant",N,N,"",0,33,"Gagné","","Thomas","Liberal","Libéral",N,N,6
+24046,"Manicouagan","Manicouagan"," 507","Mobile poll/Bureau itinérant",N,N,"",0,33,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,1
+24046,"Manicouagan","Manicouagan"," 507","Mobile poll/Bureau itinérant",N,N,"",0,33,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 507","Mobile poll/Bureau itinérant",N,N,"",0,33,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 507","Mobile poll/Bureau itinérant",N,N,"",0,33,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,0
+24046,"Manicouagan","Manicouagan"," 508","Mobile poll/Bureau itinérant",N,N,"",0,6,"Gagné","","Thomas","Liberal","Libéral",N,N,0
+24046,"Manicouagan","Manicouagan"," 508","Mobile poll/Bureau itinérant",N,N,"",0,6,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,2
+24046,"Manicouagan","Manicouagan"," 508","Mobile poll/Bureau itinérant",N,N,"",0,6,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 508","Mobile poll/Bureau itinérant",N,N,"",0,6,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 508","Mobile poll/Bureau itinérant",N,N,"",0,6,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,1
+24046,"Manicouagan","Manicouagan"," 509","Mobile poll/Bureau itinérant",N,N,"",3,70,"Gagné","","Thomas","Liberal","Libéral",N,N,15
+24046,"Manicouagan","Manicouagan"," 509","Mobile poll/Bureau itinérant",N,N,"",3,70,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,12
+24046,"Manicouagan","Manicouagan"," 509","Mobile poll/Bureau itinérant",N,N,"",3,70,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 509","Mobile poll/Bureau itinérant",N,N,"",3,70,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 509","Mobile poll/Bureau itinérant",N,N,"",3,70,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,3
+24046,"Manicouagan","Manicouagan"," 510","Baie-Comeau",N,N,"147",0,16,"Gagné","","Thomas","Liberal","Libéral",N,N,0
+24046,"Manicouagan","Manicouagan"," 510","Baie-Comeau",N,N,"147",0,16,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,0
+24046,"Manicouagan","Manicouagan"," 510","Baie-Comeau",N,N,"147",0,16,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 510","Baie-Comeau",N,N,"147",0,16,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 510","Baie-Comeau",N,N,"147",0,16,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,0
+24046,"Manicouagan","Manicouagan"," 511","Mobile poll/Bureau itinérant",N,N,"",0,25,"Gagné","","Thomas","Liberal","Libéral",N,N,2
+24046,"Manicouagan","Manicouagan"," 511","Mobile poll/Bureau itinérant",N,N,"",0,25,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,1
+24046,"Manicouagan","Manicouagan"," 511","Mobile poll/Bureau itinérant",N,N,"",0,25,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 511","Mobile poll/Bureau itinérant",N,N,"",0,25,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 511","Mobile poll/Bureau itinérant",N,N,"",0,25,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,1
+24046,"Manicouagan","Manicouagan"," 512","Mobile poll/Bureau itinérant",N,N,"",3,13,"Gagné","","Thomas","Liberal","Libéral",N,N,4
+24046,"Manicouagan","Manicouagan"," 512","Mobile poll/Bureau itinérant",N,N,"",3,13,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,4
+24046,"Manicouagan","Manicouagan"," 512","Mobile poll/Bureau itinérant",N,N,"",3,13,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 512","Mobile poll/Bureau itinérant",N,N,"",3,13,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 512","Mobile poll/Bureau itinérant",N,N,"",3,13,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,0
+24046,"Manicouagan","Manicouagan"," 513","Mobile poll/Bureau itinérant",N,Y,"",0,6,"Gagné","","Thomas","Liberal","Libéral",N,N,0
+24046,"Manicouagan","Manicouagan"," 513","Mobile poll/Bureau itinérant",N,Y,"",0,6,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,0
+24046,"Manicouagan","Manicouagan"," 513","Mobile poll/Bureau itinérant",N,Y,"",0,6,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 513","Mobile poll/Bureau itinérant",N,Y,"",0,6,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 513","Mobile poll/Bureau itinérant",N,Y,"",0,6,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,0
+24046,"Manicouagan","Manicouagan"," 514","Mobile poll/Bureau itinérant",N,N,"",0,16,"Gagné","","Thomas","Liberal","Libéral",N,N,6
+24046,"Manicouagan","Manicouagan"," 514","Mobile poll/Bureau itinérant",N,N,"",0,16,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,3
+24046,"Manicouagan","Manicouagan"," 514","Mobile poll/Bureau itinérant",N,N,"",0,16,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 514","Mobile poll/Bureau itinérant",N,N,"",0,16,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 514","Mobile poll/Bureau itinérant",N,N,"",0,16,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,1
+24046,"Manicouagan","Manicouagan"," 515","Mobile poll/Bureau itinérant",N,Y,"",0,4,"Gagné","","Thomas","Liberal","Libéral",N,N,0
+24046,"Manicouagan","Manicouagan"," 515","Mobile poll/Bureau itinérant",N,Y,"",0,4,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,0
+24046,"Manicouagan","Manicouagan"," 515","Mobile poll/Bureau itinérant",N,Y,"",0,4,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 515","Mobile poll/Bureau itinérant",N,Y,"",0,4,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 515","Mobile poll/Bureau itinérant",N,Y,"",0,4,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,0
+24046,"Manicouagan","Manicouagan"," 516","Mobile poll/Bureau itinérant",N,N,"",0,14,"Gagné","","Thomas","Liberal","Libéral",N,N,2
+24046,"Manicouagan","Manicouagan"," 516","Mobile poll/Bureau itinérant",N,N,"",0,14,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,3
+24046,"Manicouagan","Manicouagan"," 516","Mobile poll/Bureau itinérant",N,N,"",0,14,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 516","Mobile poll/Bureau itinérant",N,N,"",0,14,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 516","Mobile poll/Bureau itinérant",N,N,"",0,14,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,1
+24046,"Manicouagan","Manicouagan"," 517","Mobile poll/Bureau itinérant",N,N,"208",0,13,"Gagné","","Thomas","Liberal","Libéral",N,N,0
+24046,"Manicouagan","Manicouagan"," 517","Mobile poll/Bureau itinérant",N,N,"208",0,13,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,0
+24046,"Manicouagan","Manicouagan"," 517","Mobile poll/Bureau itinérant",N,N,"208",0,13,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 517","Mobile poll/Bureau itinérant",N,N,"208",0,13,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 517","Mobile poll/Bureau itinérant",N,N,"208",0,13,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,0
+24046,"Manicouagan","Manicouagan"," 518","Mobile poll/Bureau itinérant",N,N,"503",0,0,"Gagné","","Thomas","Liberal","Libéral",N,N,0
+24046,"Manicouagan","Manicouagan"," 518","Mobile poll/Bureau itinérant",N,N,"503",0,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,0
+24046,"Manicouagan","Manicouagan"," 518","Mobile poll/Bureau itinérant",N,N,"503",0,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 518","Mobile poll/Bureau itinérant",N,N,"503",0,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 518","Mobile poll/Bureau itinérant",N,N,"503",0,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,0
+24046,"Manicouagan","Manicouagan"," 519","Mobile poll/Bureau itinérant",N,N,"",3,28,"Gagné","","Thomas","Liberal","Libéral",N,N,6
+24046,"Manicouagan","Manicouagan"," 519","Mobile poll/Bureau itinérant",N,N,"",3,28,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,6
+24046,"Manicouagan","Manicouagan"," 519","Mobile poll/Bureau itinérant",N,N,"",3,28,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 519","Mobile poll/Bureau itinérant",N,N,"",3,28,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+24046,"Manicouagan","Manicouagan"," 519","Mobile poll/Bureau itinérant",N,N,"",3,28,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,5
+24046,"Manicouagan","Manicouagan"," 520","Port-Cartier",N,N,"112",0,6,"Gagné","","Thomas","Liberal","Libéral",N,N,0
+24046,"Manicouagan","Manicouagan"," 520","Port-Cartier",N,N,"112",0,6,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,0
+24046,"Manicouagan","Manicouagan"," 520","Port-Cartier",N,N,"112",0,6,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 520","Port-Cartier",N,N,"112",0,6,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 520","Port-Cartier",N,N,"112",0,6,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,0
+24046,"Manicouagan","Manicouagan"," 521","Port-Cartier",N,N,"118",0,8,"Gagné","","Thomas","Liberal","Libéral",N,N,0
+24046,"Manicouagan","Manicouagan"," 521","Port-Cartier",N,N,"118",0,8,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,0
+24046,"Manicouagan","Manicouagan"," 521","Port-Cartier",N,N,"118",0,8,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 521","Port-Cartier",N,N,"118",0,8,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 521","Port-Cartier",N,N,"118",0,8,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,0
+24046,"Manicouagan","Manicouagan"," 522","Port-Cartier",N,N,"119",0,6,"Gagné","","Thomas","Liberal","Libéral",N,N,0
+24046,"Manicouagan","Manicouagan"," 522","Port-Cartier",N,N,"119",0,6,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,0
+24046,"Manicouagan","Manicouagan"," 522","Port-Cartier",N,N,"119",0,6,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 522","Port-Cartier",N,N,"119",0,6,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 522","Port-Cartier",N,N,"119",0,6,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,0
+24046,"Manicouagan","Manicouagan"," 523","Mobile poll/Bureau itinérant",N,N,"4",0,4,"Gagné","","Thomas","Liberal","Libéral",N,N,0
+24046,"Manicouagan","Manicouagan"," 523","Mobile poll/Bureau itinérant",N,N,"4",0,4,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,0
+24046,"Manicouagan","Manicouagan"," 523","Mobile poll/Bureau itinérant",N,N,"4",0,4,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 523","Mobile poll/Bureau itinérant",N,N,"4",0,4,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 523","Mobile poll/Bureau itinérant",N,N,"4",0,4,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,0
+24046,"Manicouagan","Manicouagan"," 524","Mobile poll/Bureau itinérant",N,N,"5",0,12,"Gagné","","Thomas","Liberal","Libéral",N,N,0
+24046,"Manicouagan","Manicouagan"," 524","Mobile poll/Bureau itinérant",N,N,"5",0,12,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,0
+24046,"Manicouagan","Manicouagan"," 524","Mobile poll/Bureau itinérant",N,N,"5",0,12,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 524","Mobile poll/Bureau itinérant",N,N,"5",0,12,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 524","Mobile poll/Bureau itinérant",N,N,"5",0,12,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,0
+24046,"Manicouagan","Manicouagan"," 600","Schefferville",N,N,"",4,0,"Gagné","","Thomas","Liberal","Libéral",N,N,75
+24046,"Manicouagan","Manicouagan"," 600","Schefferville",N,N,"",4,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,4
+24046,"Manicouagan","Manicouagan"," 600","Schefferville",N,N,"",4,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,5
+24046,"Manicouagan","Manicouagan"," 600","Schefferville",N,N,"",4,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 600","Schefferville",N,N,"",4,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,3
+24046,"Manicouagan","Manicouagan"," 601","Fermont",N,N,"",6,0,"Gagné","","Thomas","Liberal","Libéral",N,N,19
+24046,"Manicouagan","Manicouagan"," 601","Fermont",N,N,"",6,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,113
+24046,"Manicouagan","Manicouagan"," 601","Fermont",N,N,"",6,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,6
+24046,"Manicouagan","Manicouagan"," 601","Fermont",N,N,"",6,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 601","Fermont",N,N,"",6,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,69
+24046,"Manicouagan","Manicouagan"," 602","Baie-Comeau",N,N,"",17,0,"Gagné","","Thomas","Liberal","Libéral",N,N,87
+24046,"Manicouagan","Manicouagan"," 602","Baie-Comeau",N,N,"",17,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,344
+24046,"Manicouagan","Manicouagan"," 602","Baie-Comeau",N,N,"",17,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,15
+24046,"Manicouagan","Manicouagan"," 602","Baie-Comeau",N,N,"",17,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+24046,"Manicouagan","Manicouagan"," 602","Baie-Comeau",N,N,"",17,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,157
+24046,"Manicouagan","Manicouagan"," 603","Forestville",N,N,"",5,0,"Gagné","","Thomas","Liberal","Libéral",N,N,82
+24046,"Manicouagan","Manicouagan"," 603","Forestville",N,N,"",5,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,294
+24046,"Manicouagan","Manicouagan"," 603","Forestville",N,N,"",5,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,4
+24046,"Manicouagan","Manicouagan"," 603","Forestville",N,N,"",5,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+24046,"Manicouagan","Manicouagan"," 603","Forestville",N,N,"",5,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,95
+24046,"Manicouagan","Manicouagan"," 604","Les Bergeronnes",N,N,"",6,0,"Gagné","","Thomas","Liberal","Libéral",N,N,56
+24046,"Manicouagan","Manicouagan"," 604","Les Bergeronnes",N,N,"",6,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,99
+24046,"Manicouagan","Manicouagan"," 604","Les Bergeronnes",N,N,"",6,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,6
+24046,"Manicouagan","Manicouagan"," 604","Les Bergeronnes",N,N,"",6,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+24046,"Manicouagan","Manicouagan"," 604","Les Bergeronnes",N,N,"",6,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,34
+24046,"Manicouagan","Manicouagan"," 605","Les Escoumins",N,N,"",4,0,"Gagné","","Thomas","Liberal","Libéral",N,N,65
+24046,"Manicouagan","Manicouagan"," 605","Les Escoumins",N,N,"",4,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,144
+24046,"Manicouagan","Manicouagan"," 605","Les Escoumins",N,N,"",4,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," 605","Les Escoumins",N,N,"",4,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+24046,"Manicouagan","Manicouagan"," 605","Les Escoumins",N,N,"",4,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,50
+24046,"Manicouagan","Manicouagan"," 606","Pessamit",N,N,"",0,0,"Gagné","","Thomas","Liberal","Libéral",N,N,13
+24046,"Manicouagan","Manicouagan"," 606","Pessamit",N,N,"",0,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,2
+24046,"Manicouagan","Manicouagan"," 606","Pessamit",N,N,"",0,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 606","Pessamit",N,N,"",0,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24046,"Manicouagan","Manicouagan"," 606","Pessamit",N,N,"",0,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,0
+24046,"Manicouagan","Manicouagan"," 607","Chute-aux-Outardes",N,N,"",7,0,"Gagné","","Thomas","Liberal","Libéral",N,N,36
+24046,"Manicouagan","Manicouagan"," 607","Chute-aux-Outardes",N,N,"",7,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,207
+24046,"Manicouagan","Manicouagan"," 607","Chute-aux-Outardes",N,N,"",7,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,14
+24046,"Manicouagan","Manicouagan"," 607","Chute-aux-Outardes",N,N,"",7,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+24046,"Manicouagan","Manicouagan"," 607","Chute-aux-Outardes",N,N,"",7,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,60
+24046,"Manicouagan","Manicouagan"," 608","Baie-Comeau",N,N,"",15,0,"Gagné","","Thomas","Liberal","Libéral",N,N,118
+24046,"Manicouagan","Manicouagan"," 608","Baie-Comeau",N,N,"",15,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,529
+24046,"Manicouagan","Manicouagan"," 608","Baie-Comeau",N,N,"",15,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,15
+24046,"Manicouagan","Manicouagan"," 608","Baie-Comeau",N,N,"",15,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+24046,"Manicouagan","Manicouagan"," 608","Baie-Comeau",N,N,"",15,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,167
+24046,"Manicouagan","Manicouagan"," 609","Baie-Comeau",N,N,"",14,0,"Gagné","","Thomas","Liberal","Libéral",N,N,110
+24046,"Manicouagan","Manicouagan"," 609","Baie-Comeau",N,N,"",14,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,414
+24046,"Manicouagan","Manicouagan"," 609","Baie-Comeau",N,N,"",14,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,13
+24046,"Manicouagan","Manicouagan"," 609","Baie-Comeau",N,N,"",14,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+24046,"Manicouagan","Manicouagan"," 609","Baie-Comeau",N,N,"",14,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,152
+24046,"Manicouagan","Manicouagan"," 610","Les Buissons",N,N,"",7,0,"Gagné","","Thomas","Liberal","Libéral",N,N,22
+24046,"Manicouagan","Manicouagan"," 610","Les Buissons",N,N,"",7,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,163
+24046,"Manicouagan","Manicouagan"," 610","Les Buissons",N,N,"",7,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,4
+24046,"Manicouagan","Manicouagan"," 610","Les Buissons",N,N,"",7,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24046,"Manicouagan","Manicouagan"," 610","Les Buissons",N,N,"",7,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,54
+24046,"Manicouagan","Manicouagan"," 611","Baie-Comeau",N,N,"",11,0,"Gagné","","Thomas","Liberal","Libéral",N,N,125
+24046,"Manicouagan","Manicouagan"," 611","Baie-Comeau",N,N,"",11,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,333
+24046,"Manicouagan","Manicouagan"," 611","Baie-Comeau",N,N,"",11,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,21
+24046,"Manicouagan","Manicouagan"," 611","Baie-Comeau",N,N,"",11,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+24046,"Manicouagan","Manicouagan"," 611","Baie-Comeau",N,N,"",11,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,158
+24046,"Manicouagan","Manicouagan"," 612","Baie-Trinité",N,N,"",0,0,"Gagné","","Thomas","Liberal","Libéral",N,N,23
+24046,"Manicouagan","Manicouagan"," 612","Baie-Trinité",N,N,"",0,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,104
+24046,"Manicouagan","Manicouagan"," 612","Baie-Trinité",N,N,"",0,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 612","Baie-Trinité",N,N,"",0,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24046,"Manicouagan","Manicouagan"," 612","Baie-Trinité",N,N,"",0,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,19
+24046,"Manicouagan","Manicouagan"," 613","Port-Cartier",N,N,"",14,0,"Gagné","","Thomas","Liberal","Libéral",N,N,166
+24046,"Manicouagan","Manicouagan"," 613","Port-Cartier",N,N,"",14,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,628
+24046,"Manicouagan","Manicouagan"," 613","Port-Cartier",N,N,"",14,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,28
+24046,"Manicouagan","Manicouagan"," 613","Port-Cartier",N,N,"",14,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+24046,"Manicouagan","Manicouagan"," 613","Port-Cartier",N,N,"",14,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,241
+24046,"Manicouagan","Manicouagan"," 614","Sept-Îles",N,N,"",18,0,"Gagné","","Thomas","Liberal","Libéral",N,N,169
+24046,"Manicouagan","Manicouagan"," 614","Sept-Îles",N,N,"",18,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,509
+24046,"Manicouagan","Manicouagan"," 614","Sept-Îles",N,N,"",18,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,16
+24046,"Manicouagan","Manicouagan"," 614","Sept-Îles",N,N,"",18,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+24046,"Manicouagan","Manicouagan"," 614","Sept-Îles",N,N,"",18,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,185
+24046,"Manicouagan","Manicouagan"," 615","Sept-Îles",N,N,"",16,0,"Gagné","","Thomas","Liberal","Libéral",N,N,78
+24046,"Manicouagan","Manicouagan"," 615","Sept-Îles",N,N,"",16,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,342
+24046,"Manicouagan","Manicouagan"," 615","Sept-Îles",N,N,"",16,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,9
+24046,"Manicouagan","Manicouagan"," 615","Sept-Îles",N,N,"",16,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+24046,"Manicouagan","Manicouagan"," 615","Sept-Îles",N,N,"",16,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,154
+24046,"Manicouagan","Manicouagan"," 616","Sept-Îles",N,N,"",11,0,"Gagné","","Thomas","Liberal","Libéral",N,N,142
+24046,"Manicouagan","Manicouagan"," 616","Sept-Îles",N,N,"",11,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,402
+24046,"Manicouagan","Manicouagan"," 616","Sept-Îles",N,N,"",11,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,11
+24046,"Manicouagan","Manicouagan"," 616","Sept-Îles",N,N,"",11,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+24046,"Manicouagan","Manicouagan"," 616","Sept-Îles",N,N,"",11,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,227
+24046,"Manicouagan","Manicouagan"," 617","Sept-Îles",N,N,"",14,0,"Gagné","","Thomas","Liberal","Libéral",N,N,59
+24046,"Manicouagan","Manicouagan"," 617","Sept-Îles",N,N,"",14,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,244
+24046,"Manicouagan","Manicouagan"," 617","Sept-Îles",N,N,"",14,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,13
+24046,"Manicouagan","Manicouagan"," 617","Sept-Îles",N,N,"",14,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+24046,"Manicouagan","Manicouagan"," 617","Sept-Îles",N,N,"",14,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,113
+24046,"Manicouagan","Manicouagan"," 618","Havre-Saint-Pierre",N,N,"",4,0,"Gagné","","Thomas","Liberal","Libéral",N,N,59
+24046,"Manicouagan","Manicouagan"," 618","Havre-Saint-Pierre",N,N,"",4,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,306
+24046,"Manicouagan","Manicouagan"," 618","Havre-Saint-Pierre",N,N,"",4,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,5
+24046,"Manicouagan","Manicouagan"," 618","Havre-Saint-Pierre",N,N,"",4,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 618","Havre-Saint-Pierre",N,N,"",4,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,108
+24046,"Manicouagan","Manicouagan"," 619","Port-Menier",N,N,"",0,0,"Gagné","","Thomas","Liberal","Libéral",N,N,5
+24046,"Manicouagan","Manicouagan"," 619","Port-Menier",N,N,"",0,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,24
+24046,"Manicouagan","Manicouagan"," 619","Port-Menier",N,N,"",0,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 619","Port-Menier",N,N,"",0,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 619","Port-Menier",N,N,"",0,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,3
+24046,"Manicouagan","Manicouagan"," 620","Aguanish--Natashquan",N,N,"28",0,0,"Gagné","","Thomas","Liberal","Libéral",N,N,0
+24046,"Manicouagan","Manicouagan"," 620","Aguanish--Natashquan",N,N,"28",0,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,0
+24046,"Manicouagan","Manicouagan"," 620","Aguanish--Natashquan",N,N,"28",0,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 620","Aguanish--Natashquan",N,N,"28",0,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 620","Aguanish--Natashquan",N,N,"28",0,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,0
+24046,"Manicouagan","Manicouagan"," 621","Gethsémani",N,N,"",0,0,"Gagné","","Thomas","Liberal","Libéral",N,N,4
+24046,"Manicouagan","Manicouagan"," 621","Gethsémani",N,N,"",0,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,7
+24046,"Manicouagan","Manicouagan"," 621","Gethsémani",N,N,"",0,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 621","Gethsémani",N,N,"",0,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 621","Gethsémani",N,N,"",0,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,0
+24046,"Manicouagan","Manicouagan"," 622","Côte-Nord-du-Golfe-du-Saint-Laurent",N,N,"",0,0,"Gagné","","Thomas","Liberal","Libéral",N,N,17
+24046,"Manicouagan","Manicouagan"," 622","Côte-Nord-du-Golfe-du-Saint-Laurent",N,N,"",0,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,8
+24046,"Manicouagan","Manicouagan"," 622","Côte-Nord-du-Golfe-du-Saint-Laurent",N,N,"",0,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 622","Côte-Nord-du-Golfe-du-Saint-Laurent",N,N,"",0,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24046,"Manicouagan","Manicouagan"," 622","Côte-Nord-du-Golfe-du-Saint-Laurent",N,N,"",0,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,6
+24046,"Manicouagan","Manicouagan"," 623","Tête-à-la-Baleine",N,N,"",1,0,"Gagné","","Thomas","Liberal","Libéral",N,N,1
+24046,"Manicouagan","Manicouagan"," 623","Tête-à-la-Baleine",N,N,"",1,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,11
+24046,"Manicouagan","Manicouagan"," 623","Tête-à-la-Baleine",N,N,"",1,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 623","Tête-à-la-Baleine",N,N,"",1,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+24046,"Manicouagan","Manicouagan"," 623","Tête-à-la-Baleine",N,N,"",1,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,3
+24046,"Manicouagan","Manicouagan"," 624","Saint-Augustin--Pakuashipi",N,N,"",0,0,"Gagné","","Thomas","Liberal","Libéral",N,N,30
+24046,"Manicouagan","Manicouagan"," 624","Saint-Augustin--Pakuashipi",N,N,"",0,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,6
+24046,"Manicouagan","Manicouagan"," 624","Saint-Augustin--Pakuashipi",N,N,"",0,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 624","Saint-Augustin--Pakuashipi",N,N,"",0,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+24046,"Manicouagan","Manicouagan"," 624","Saint-Augustin--Pakuashipi",N,N,"",0,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,5
+24046,"Manicouagan","Manicouagan"," 625","Bonne-Espérance--Blanc-Sablon",N,N,"",2,0,"Gagné","","Thomas","Liberal","Libéral",N,N,47
+24046,"Manicouagan","Manicouagan"," 625","Bonne-Espérance--Blanc-Sablon",N,N,"",2,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,9
+24046,"Manicouagan","Manicouagan"," 625","Bonne-Espérance--Blanc-Sablon",N,N,"",2,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,0
+24046,"Manicouagan","Manicouagan"," 625","Bonne-Espérance--Blanc-Sablon",N,N,"",2,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24046,"Manicouagan","Manicouagan"," 625","Bonne-Espérance--Blanc-Sablon",N,N,"",2,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,7
+24046,"Manicouagan","Manicouagan"," 626","Rivière-Saint-Paul",N,N,"",0,0,"Gagné","","Thomas","Liberal","Libéral",N,N,51
+24046,"Manicouagan","Manicouagan"," 626","Rivière-Saint-Paul",N,N,"",0,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,4
+24046,"Manicouagan","Manicouagan"," 626","Rivière-Saint-Paul",N,N,"",0,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 626","Rivière-Saint-Paul",N,N,"",0,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+24046,"Manicouagan","Manicouagan"," 626","Rivière-Saint-Paul",N,N,"",0,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,7
+24046,"Manicouagan","Manicouagan"," 627","Lourdes-de-Blanc-Sablon",N,N,"",1,0,"Gagné","","Thomas","Liberal","Libéral",N,N,53
+24046,"Manicouagan","Manicouagan"," 627","Lourdes-de-Blanc-Sablon",N,N,"",1,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,30
+24046,"Manicouagan","Manicouagan"," 627","Lourdes-de-Blanc-Sablon",N,N,"",1,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,1
+24046,"Manicouagan","Manicouagan"," 627","Lourdes-de-Blanc-Sablon",N,N,"",1,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+24046,"Manicouagan","Manicouagan"," 627","Lourdes-de-Blanc-Sablon",N,N,"",1,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,16
+24046,"Manicouagan","Manicouagan"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",18,70,"Gagné","","Thomas","Liberal","Libéral",N,N,61
+24046,"Manicouagan","Manicouagan"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",18,70,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,108
+24046,"Manicouagan","Manicouagan"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",18,70,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,3
+24046,"Manicouagan","Manicouagan"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",18,70,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+24046,"Manicouagan","Manicouagan"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",18,70,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,35
+24046,"Manicouagan","Manicouagan"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",94,0,"Gagné","","Thomas","Liberal","Libéral",N,N,231
+24046,"Manicouagan","Manicouagan"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",94,0,"Gill","","Marilène","Bloc Québécois","Bloc Québécois",Y,Y,685
+24046,"Manicouagan","Manicouagan"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",94,0,"Girard","","Bianca","Free Party Canada","Parti Libre Canada",N,N,24
+24046,"Manicouagan","Manicouagan"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",94,0,"St-Jean","","Nichola","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+24046,"Manicouagan","Manicouagan"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",94,0,"Vigneault","","Rodrigue","Conservative","Conservateur",N,N,259

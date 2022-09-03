@@ -2,11 +2,12 @@ package org.dm.Electoral_Interpreter_Java_1.electoral_data_handling.collect_elec
 
 import java.util.ArrayList;
 import java.util.Collection;
+import java.util.List;
 import java.util.Objects;
+import org.dm.Electoral_Interpreter_Java_1.shp_data_handling.Coordinate;
 
 /**
  * A Polling_Station is a class which represents one of the real-world subdivisions of electoral ridings.
- * Once initialized 
  * 
  * @author 15148
  *
@@ -18,11 +19,41 @@ public class Polling_Station
 	private String number;
 	private int totalElectors;
 	private int totalVotesCast;
+
+	/**
+	 * Set of coordinates representing this physical area.
+	 */
+	private List<Coordinate> coordinates; 
+	
+	/**
+	 * The unique national polling division number including its suffix if it has one.
+	 */
+	private String nat_poll_num;
+	
+	/**
+	 * There are three types of polling districts: . This character determines it.
+	 */
+	private char poll_type;
+	
+	/**
+	 * Advanced polling number which corresponds to this polling division.
+	 */
+	private String advanced_poll;
+	
+	/**
+	 * Length of the shape of this polling division.
+	 */
+	private double length;
+	
+	/**
+	 * Area of this polling division.
+	 */
+	private double area;
 	
 	/**
 	 * List of Polling Station numbers which have merged into this one.
 	 */
-	private ArrayList<String> merges;
+	private List<String> merges;
 	
 	Polling_Station(String pName, String pNumber, int pTotalElectors ,Candidate ... pCandidates)
 	{

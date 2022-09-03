@@ -1,0 +1,937 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+10001,"Avalon","Avalon"," 1","Freshwater",N,N,"",2,106,"Chapman","","Matthew","Conservative","Conservateur",N,N,28
+10001,"Avalon","Avalon"," 1","Freshwater",N,N,"",2,106,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10001,"Avalon","Avalon"," 1","Freshwater",N,N,"",2,106,"McDonald","","Ken","Liberal","Libéral",N,Y,55
+10001,"Avalon","Avalon"," 1","Freshwater",N,N,"",2,106,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,4
+10001,"Avalon","Avalon"," 2","Victoria",N,N,"",0,330,"Chapman","","Matthew","Conservative","Conservateur",N,N,56
+10001,"Avalon","Avalon"," 2","Victoria",N,N,"",0,330,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10001,"Avalon","Avalon"," 2","Victoria",N,N,"",0,330,"McDonald","","Ken","Liberal","Libéral",N,Y,67
+10001,"Avalon","Avalon"," 2","Victoria",N,N,"",0,330,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 3","Victoria",N,N,"",0,454,"Chapman","","Matthew","Conservative","Conservateur",N,N,63
+10001,"Avalon","Avalon"," 3","Victoria",N,N,"",0,454,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+10001,"Avalon","Avalon"," 3","Victoria",N,N,"",0,454,"McDonald","","Ken","Liberal","Libéral",N,Y,75
+10001,"Avalon","Avalon"," 3","Victoria",N,N,"",0,454,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,6
+10001,"Avalon","Avalon"," 4","Victoria",N,N,"",0,342,"Chapman","","Matthew","Conservative","Conservateur",N,N,50
+10001,"Avalon","Avalon"," 4","Victoria",N,N,"",0,342,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+10001,"Avalon","Avalon"," 4","Victoria",N,N,"",0,342,"McDonald","","Ken","Liberal","Libéral",N,Y,56
+10001,"Avalon","Avalon"," 4","Victoria",N,N,"",0,342,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 5","Victoria",N,N,"",1,358,"Chapman","","Matthew","Conservative","Conservateur",N,N,53
+10001,"Avalon","Avalon"," 5","Victoria",N,N,"",1,358,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+10001,"Avalon","Avalon"," 5","Victoria",N,N,"",1,358,"McDonald","","Ken","Liberal","Libéral",N,Y,56
+10001,"Avalon","Avalon"," 5","Victoria",N,N,"",1,358,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 6","Carbonear",N,N,"",0,440,"Chapman","","Matthew","Conservative","Conservateur",N,N,45
+10001,"Avalon","Avalon"," 6","Carbonear",N,N,"",0,440,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+10001,"Avalon","Avalon"," 6","Carbonear",N,N,"",0,440,"McDonald","","Ken","Liberal","Libéral",N,Y,68
+10001,"Avalon","Avalon"," 6","Carbonear",N,N,"",0,440,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 7","Carbonear",N,N,"",0,302,"Chapman","","Matthew","Conservative","Conservateur",N,N,28
+10001,"Avalon","Avalon"," 7","Carbonear",N,N,"",0,302,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10001,"Avalon","Avalon"," 7","Carbonear",N,N,"",0,302,"McDonald","","Ken","Liberal","Libéral",N,Y,55
+10001,"Avalon","Avalon"," 7","Carbonear",N,N,"",0,302,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 8","Carbonear",N,N,"",0,295,"Chapman","","Matthew","Conservative","Conservateur",N,N,42
+10001,"Avalon","Avalon"," 8","Carbonear",N,N,"",0,295,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10001,"Avalon","Avalon"," 8","Carbonear",N,N,"",0,295,"McDonald","","Ken","Liberal","Libéral",N,Y,41
+10001,"Avalon","Avalon"," 8","Carbonear",N,N,"",0,295,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 9","Carbonear",N,N,"",2,364,"Chapman","","Matthew","Conservative","Conservateur",N,N,33
+10001,"Avalon","Avalon"," 9","Carbonear",N,N,"",2,364,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10001,"Avalon","Avalon"," 9","Carbonear",N,N,"",2,364,"McDonald","","Ken","Liberal","Libéral",N,Y,55
+10001,"Avalon","Avalon"," 9","Carbonear",N,N,"",2,364,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 10","Carbonear",N,N,"",0,263,"Chapman","","Matthew","Conservative","Conservateur",N,N,35
+10001,"Avalon","Avalon"," 10","Carbonear",N,N,"",0,263,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10001,"Avalon","Avalon"," 10","Carbonear",N,N,"",0,263,"McDonald","","Ken","Liberal","Libéral",N,Y,43
+10001,"Avalon","Avalon"," 10","Carbonear",N,N,"",0,263,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 11","Carbonear",N,N,"",0,367,"Chapman","","Matthew","Conservative","Conservateur",N,N,24
+10001,"Avalon","Avalon"," 11","Carbonear",N,N,"",0,367,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+10001,"Avalon","Avalon"," 11","Carbonear",N,N,"",0,367,"McDonald","","Ken","Liberal","Libéral",N,Y,51
+10001,"Avalon","Avalon"," 11","Carbonear",N,N,"",0,367,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 12","Harbour Grace--Bristol's Hope",N,N,"",0,433,"Chapman","","Matthew","Conservative","Conservateur",N,N,58
+10001,"Avalon","Avalon"," 12","Harbour Grace--Bristol's Hope",N,N,"",0,433,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+10001,"Avalon","Avalon"," 12","Harbour Grace--Bristol's Hope",N,N,"",0,433,"McDonald","","Ken","Liberal","Libéral",N,Y,72
+10001,"Avalon","Avalon"," 12","Harbour Grace--Bristol's Hope",N,N,"",0,433,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 13","Carbonear",N,N,"",0,329,"Chapman","","Matthew","Conservative","Conservateur",N,N,29
+10001,"Avalon","Avalon"," 13","Carbonear",N,N,"",0,329,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10001,"Avalon","Avalon"," 13","Carbonear",N,N,"",0,329,"McDonald","","Ken","Liberal","Libéral",N,Y,51
+10001,"Avalon","Avalon"," 13","Carbonear",N,N,"",0,329,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 14","Carbonear",N,N,"",0,432,"Chapman","","Matthew","Conservative","Conservateur",N,N,51
+10001,"Avalon","Avalon"," 14","Carbonear",N,N,"",0,432,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10001,"Avalon","Avalon"," 14","Carbonear",N,N,"",0,432,"McDonald","","Ken","Liberal","Libéral",N,Y,45
+10001,"Avalon","Avalon"," 14","Carbonear",N,N,"",0,432,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 15","Carbonear",N,N,"",0,414,"Chapman","","Matthew","Conservative","Conservateur",N,N,56
+10001,"Avalon","Avalon"," 15","Carbonear",N,N,"",0,414,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+10001,"Avalon","Avalon"," 15","Carbonear",N,N,"",0,414,"McDonald","","Ken","Liberal","Libéral",N,Y,51
+10001,"Avalon","Avalon"," 15","Carbonear",N,N,"",0,414,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 16","Carbonear",N,N,"",0,342,"Chapman","","Matthew","Conservative","Conservateur",N,N,79
+10001,"Avalon","Avalon"," 16","Carbonear",N,N,"",0,342,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+10001,"Avalon","Avalon"," 16","Carbonear",N,N,"",0,342,"McDonald","","Ken","Liberal","Libéral",N,Y,47
+10001,"Avalon","Avalon"," 16","Carbonear",N,N,"",0,342,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,4
+10001,"Avalon","Avalon"," 17","Carbonear",N,N,"",0,206,"Chapman","","Matthew","Conservative","Conservateur",N,N,23
+10001,"Avalon","Avalon"," 17","Carbonear",N,N,"",0,206,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10001,"Avalon","Avalon"," 17","Carbonear",N,N,"",0,206,"McDonald","","Ken","Liberal","Libéral",N,Y,28
+10001,"Avalon","Avalon"," 17","Carbonear",N,N,"",0,206,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 18","Carbonear",N,N,"",0,225,"Chapman","","Matthew","Conservative","Conservateur",N,N,20
+10001,"Avalon","Avalon"," 18","Carbonear",N,N,"",0,225,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10001,"Avalon","Avalon"," 18","Carbonear",N,N,"",0,225,"McDonald","","Ken","Liberal","Libéral",N,Y,29
+10001,"Avalon","Avalon"," 18","Carbonear",N,N,"",0,225,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 19","Harbour Grace",N,N,"",0,490,"Chapman","","Matthew","Conservative","Conservateur",N,N,56
+10001,"Avalon","Avalon"," 19","Harbour Grace",N,N,"",0,490,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+10001,"Avalon","Avalon"," 19","Harbour Grace",N,N,"",0,490,"McDonald","","Ken","Liberal","Libéral",N,Y,64
+10001,"Avalon","Avalon"," 19","Harbour Grace",N,N,"",0,490,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,7
+10001,"Avalon","Avalon"," 20","Harbour Grace",N,N,"",0,368,"Chapman","","Matthew","Conservative","Conservateur",N,N,48
+10001,"Avalon","Avalon"," 20","Harbour Grace",N,N,"",0,368,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+10001,"Avalon","Avalon"," 20","Harbour Grace",N,N,"",0,368,"McDonald","","Ken","Liberal","Libéral",N,Y,57
+10001,"Avalon","Avalon"," 20","Harbour Grace",N,N,"",0,368,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,4
+10001,"Avalon","Avalon"," 21","Riverhead--Harbour Grace",N,N,"",0,231,"Chapman","","Matthew","Conservative","Conservateur",N,N,39
+10001,"Avalon","Avalon"," 21","Riverhead--Harbour Grace",N,N,"",0,231,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+10001,"Avalon","Avalon"," 21","Riverhead--Harbour Grace",N,N,"",0,231,"McDonald","","Ken","Liberal","Libéral",N,Y,32
+10001,"Avalon","Avalon"," 21","Riverhead--Harbour Grace",N,N,"",0,231,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 22","Harbour Grace South",N,N,"",2,469,"Chapman","","Matthew","Conservative","Conservateur",N,N,41
+10001,"Avalon","Avalon"," 22","Harbour Grace South",N,N,"",2,469,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+10001,"Avalon","Avalon"," 22","Harbour Grace South",N,N,"",2,469,"McDonald","","Ken","Liberal","Libéral",N,Y,108
+10001,"Avalon","Avalon"," 22","Harbour Grace South",N,N,"",2,469,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 23","Harbour Grace",N,N,"",0,265,"Chapman","","Matthew","Conservative","Conservateur",N,N,21
+10001,"Avalon","Avalon"," 23","Harbour Grace",N,N,"",0,265,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10001,"Avalon","Avalon"," 23","Harbour Grace",N,N,"",0,265,"McDonald","","Ken","Liberal","Libéral",N,Y,38
+10001,"Avalon","Avalon"," 23","Harbour Grace",N,N,"",0,265,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 24","Harbour Grace",N,N,"",0,293,"Chapman","","Matthew","Conservative","Conservateur",N,N,34
+10001,"Avalon","Avalon"," 24","Harbour Grace",N,N,"",0,293,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10001,"Avalon","Avalon"," 24","Harbour Grace",N,N,"",0,293,"McDonald","","Ken","Liberal","Libéral",N,Y,46
+10001,"Avalon","Avalon"," 24","Harbour Grace",N,N,"",0,293,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 25","Harbour Grace",N,N,"",0,292,"Chapman","","Matthew","Conservative","Conservateur",N,N,27
+10001,"Avalon","Avalon"," 25","Harbour Grace",N,N,"",0,292,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+10001,"Avalon","Avalon"," 25","Harbour Grace",N,N,"",0,292,"McDonald","","Ken","Liberal","Libéral",N,Y,46
+10001,"Avalon","Avalon"," 25","Harbour Grace",N,N,"",0,292,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 26","Bryant's Cove",N,N,"",2,277,"Chapman","","Matthew","Conservative","Conservateur",N,N,67
+10001,"Avalon","Avalon"," 26","Bryant's Cove",N,N,"",2,277,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+10001,"Avalon","Avalon"," 26","Bryant's Cove",N,N,"",2,277,"McDonald","","Ken","Liberal","Libéral",N,Y,69
+10001,"Avalon","Avalon"," 26","Bryant's Cove",N,N,"",2,277,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 27","Upper Island Cove",N,N,"",0,435,"Chapman","","Matthew","Conservative","Conservateur",N,N,26
+10001,"Avalon","Avalon"," 27","Upper Island Cove",N,N,"",0,435,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10001,"Avalon","Avalon"," 27","Upper Island Cove",N,N,"",0,435,"McDonald","","Ken","Liberal","Libéral",N,Y,96
+10001,"Avalon","Avalon"," 27","Upper Island Cove",N,N,"",0,435,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 28","Upper Island Cove",N,N,"",0,305,"Chapman","","Matthew","Conservative","Conservateur",N,N,12
+10001,"Avalon","Avalon"," 28","Upper Island Cove",N,N,"",0,305,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10001,"Avalon","Avalon"," 28","Upper Island Cove",N,N,"",0,305,"McDonald","","Ken","Liberal","Libéral",N,Y,63
+10001,"Avalon","Avalon"," 28","Upper Island Cove",N,N,"",0,305,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 29","Upper Island Cove",N,N,"",0,234,"Chapman","","Matthew","Conservative","Conservateur",N,N,21
+10001,"Avalon","Avalon"," 29","Upper Island Cove",N,N,"",0,234,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10001,"Avalon","Avalon"," 29","Upper Island Cove",N,N,"",0,234,"McDonald","","Ken","Liberal","Libéral",N,Y,49
+10001,"Avalon","Avalon"," 29","Upper Island Cove",N,N,"",0,234,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 30","Upper Island Cove",N,N,"",5,447,"Chapman","","Matthew","Conservative","Conservateur",N,N,55
+10001,"Avalon","Avalon"," 30","Upper Island Cove",N,N,"",5,447,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+10001,"Avalon","Avalon"," 30","Upper Island Cove",N,N,"",5,447,"McDonald","","Ken","Liberal","Libéral",N,Y,79
+10001,"Avalon","Avalon"," 30","Upper Island Cove",N,N,"",5,447,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 31","Spaniard's Bay",N,N,"",0,379,"Chapman","","Matthew","Conservative","Conservateur",N,N,43
+10001,"Avalon","Avalon"," 31","Spaniard's Bay",N,N,"",0,379,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10001,"Avalon","Avalon"," 31","Spaniard's Bay",N,N,"",0,379,"McDonald","","Ken","Liberal","Libéral",N,Y,70
+10001,"Avalon","Avalon"," 31","Spaniard's Bay",N,N,"",0,379,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,7
+10001,"Avalon","Avalon"," 32","Spaniard's Bay",N,N,"",1,324,"Chapman","","Matthew","Conservative","Conservateur",N,N,45
+10001,"Avalon","Avalon"," 32","Spaniard's Bay",N,N,"",1,324,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+10001,"Avalon","Avalon"," 32","Spaniard's Bay",N,N,"",1,324,"McDonald","","Ken","Liberal","Libéral",N,Y,39
+10001,"Avalon","Avalon"," 32","Spaniard's Bay",N,N,"",1,324,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 33","Spaniard's Bay",N,N,"",0,438,"Chapman","","Matthew","Conservative","Conservateur",N,N,43
+10001,"Avalon","Avalon"," 33","Spaniard's Bay",N,N,"",0,438,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+10001,"Avalon","Avalon"," 33","Spaniard's Bay",N,N,"",0,438,"McDonald","","Ken","Liberal","Libéral",N,Y,50
+10001,"Avalon","Avalon"," 33","Spaniard's Bay",N,N,"",0,438,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,8
+10001,"Avalon","Avalon"," 34","Tilton",N,N,"",4,296,"Chapman","","Matthew","Conservative","Conservateur",N,N,31
+10001,"Avalon","Avalon"," 34","Tilton",N,N,"",4,296,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+10001,"Avalon","Avalon"," 34","Tilton",N,N,"",4,296,"McDonald","","Ken","Liberal","Libéral",N,Y,62
+10001,"Avalon","Avalon"," 34","Tilton",N,N,"",4,296,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 35","Spaniard's Bay",N,N,"",1,370,"Chapman","","Matthew","Conservative","Conservateur",N,N,36
+10001,"Avalon","Avalon"," 35","Spaniard's Bay",N,N,"",1,370,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10001,"Avalon","Avalon"," 35","Spaniard's Bay",N,N,"",1,370,"McDonald","","Ken","Liberal","Libéral",N,Y,55
+10001,"Avalon","Avalon"," 35","Spaniard's Bay",N,N,"",1,370,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 36","Spaniard's Bay",N,N,"",0,264,"Chapman","","Matthew","Conservative","Conservateur",N,N,36
+10001,"Avalon","Avalon"," 36","Spaniard's Bay",N,N,"",0,264,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 36","Spaniard's Bay",N,N,"",0,264,"McDonald","","Ken","Liberal","Libéral",N,Y,35
+10001,"Avalon","Avalon"," 36","Spaniard's Bay",N,N,"",0,264,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 37","Butlerville",N,N,"",0,263,"Chapman","","Matthew","Conservative","Conservateur",N,N,43
+10001,"Avalon","Avalon"," 37","Butlerville",N,N,"",0,263,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+10001,"Avalon","Avalon"," 37","Butlerville",N,N,"",0,263,"McDonald","","Ken","Liberal","Libéral",N,Y,30
+10001,"Avalon","Avalon"," 37","Butlerville",N,N,"",0,263,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,4
+10001,"Avalon","Avalon"," 38","Shearstown",N,N,"",0,607,"Chapman","","Matthew","Conservative","Conservateur",N,N,59
+10001,"Avalon","Avalon"," 38","Shearstown",N,N,"",0,607,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+10001,"Avalon","Avalon"," 38","Shearstown",N,N,"",0,607,"McDonald","","Ken","Liberal","Libéral",N,Y,97
+10001,"Avalon","Avalon"," 38","Shearstown",N,N,"",0,607,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,4
+10001,"Avalon","Avalon"," 39","Shearstown",N,N,"",0,322,"Chapman","","Matthew","Conservative","Conservateur",N,N,32
+10001,"Avalon","Avalon"," 39","Shearstown",N,N,"",0,322,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+10001,"Avalon","Avalon"," 39","Shearstown",N,N,"",0,322,"McDonald","","Ken","Liberal","Libéral",N,Y,42
+10001,"Avalon","Avalon"," 39","Shearstown",N,N,"",0,322,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 40","Bay Roberts",N,N,"",0,570,"Chapman","","Matthew","Conservative","Conservateur",N,N,66
+10001,"Avalon","Avalon"," 40","Bay Roberts",N,N,"",0,570,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10001,"Avalon","Avalon"," 40","Bay Roberts",N,N,"",0,570,"McDonald","","Ken","Liberal","Libéral",N,Y,74
+10001,"Avalon","Avalon"," 40","Bay Roberts",N,N,"",0,570,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,6
+10001,"Avalon","Avalon"," 41","Bay Roberts",N,N,"",0,652,"Chapman","","Matthew","Conservative","Conservateur",N,N,80
+10001,"Avalon","Avalon"," 41","Bay Roberts",N,N,"",0,652,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+10001,"Avalon","Avalon"," 41","Bay Roberts",N,N,"",0,652,"McDonald","","Ken","Liberal","Libéral",N,Y,82
+10001,"Avalon","Avalon"," 41","Bay Roberts",N,N,"",0,652,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 42","Bay Roberts",N,N,"",1,506,"Chapman","","Matthew","Conservative","Conservateur",N,N,82
+10001,"Avalon","Avalon"," 42","Bay Roberts",N,N,"",1,506,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+10001,"Avalon","Avalon"," 42","Bay Roberts",N,N,"",1,506,"McDonald","","Ken","Liberal","Libéral",N,Y,88
+10001,"Avalon","Avalon"," 42","Bay Roberts",N,N,"",1,506,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 43","Bay Roberts",N,N,"",0,519,"Chapman","","Matthew","Conservative","Conservateur",N,N,61
+10001,"Avalon","Avalon"," 43","Bay Roberts",N,N,"",0,519,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+10001,"Avalon","Avalon"," 43","Bay Roberts",N,N,"",0,519,"McDonald","","Ken","Liberal","Libéral",N,Y,78
+10001,"Avalon","Avalon"," 43","Bay Roberts",N,N,"",0,519,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 44","Bay Roberts",N,N,"",0,610,"Chapman","","Matthew","Conservative","Conservateur",N,N,82
+10001,"Avalon","Avalon"," 44","Bay Roberts",N,N,"",0,610,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+10001,"Avalon","Avalon"," 44","Bay Roberts",N,N,"",0,610,"McDonald","","Ken","Liberal","Libéral",N,Y,116
+10001,"Avalon","Avalon"," 44","Bay Roberts",N,N,"",0,610,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,5
+10001,"Avalon","Avalon"," 45","Bay Roberts",N,N,"",0,597,"Chapman","","Matthew","Conservative","Conservateur",N,N,61
+10001,"Avalon","Avalon"," 45","Bay Roberts",N,N,"",0,597,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+10001,"Avalon","Avalon"," 45","Bay Roberts",N,N,"",0,597,"McDonald","","Ken","Liberal","Libéral",N,Y,99
+10001,"Avalon","Avalon"," 45","Bay Roberts",N,N,"",0,597,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,4
+10001,"Avalon","Avalon"," 46","Blow Me Down--Port de Grave",N,N,"",0,411,"Chapman","","Matthew","Conservative","Conservateur",N,N,63
+10001,"Avalon","Avalon"," 46","Blow Me Down--Port de Grave",N,N,"",0,411,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10001,"Avalon","Avalon"," 46","Blow Me Down--Port de Grave",N,N,"",0,411,"McDonald","","Ken","Liberal","Libéral",N,Y,68
+10001,"Avalon","Avalon"," 46","Blow Me Down--Port de Grave",N,N,"",0,411,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 47","Bareneed--The Dock--Black Duck Pond",N,N,"",1,290,"Chapman","","Matthew","Conservative","Conservateur",N,N,39
+10001,"Avalon","Avalon"," 47","Bareneed--The Dock--Black Duck Pond",N,N,"",1,290,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+10001,"Avalon","Avalon"," 47","Bareneed--The Dock--Black Duck Pond",N,N,"",1,290,"McDonald","","Ken","Liberal","Libéral",N,Y,51
+10001,"Avalon","Avalon"," 47","Bareneed--The Dock--Black Duck Pond",N,N,"",1,290,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,8
+10001,"Avalon","Avalon"," 48","North River--Otterbury--Birch Hills",N,N,"",0,232,"Chapman","","Matthew","Conservative","Conservateur",N,N,41
+10001,"Avalon","Avalon"," 48","North River--Otterbury--Birch Hills",N,N,"",0,232,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+10001,"Avalon","Avalon"," 48","North River--Otterbury--Birch Hills",N,N,"",0,232,"McDonald","","Ken","Liberal","Libéral",N,Y,42
+10001,"Avalon","Avalon"," 48","North River--Otterbury--Birch Hills",N,N,"",0,232,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 49","North River",N,N,"",2,404,"Chapman","","Matthew","Conservative","Conservateur",N,N,65
+10001,"Avalon","Avalon"," 49","North River",N,N,"",2,404,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+10001,"Avalon","Avalon"," 49","North River",N,N,"",2,404,"McDonald","","Ken","Liberal","Libéral",N,Y,90
+10001,"Avalon","Avalon"," 49","North River",N,N,"",2,404,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,6
+10001,"Avalon","Avalon"," 50","Makinsons",N,N,"",3,537,"Chapman","","Matthew","Conservative","Conservateur",N,N,88
+10001,"Avalon","Avalon"," 50","Makinsons",N,N,"",3,537,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+10001,"Avalon","Avalon"," 50","Makinsons",N,N,"",3,537,"McDonald","","Ken","Liberal","Libéral",N,Y,85
+10001,"Avalon","Avalon"," 50","Makinsons",N,N,"",3,537,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,7
+10001,"Avalon","Avalon"," 51","Clarke's Beach",N,N,"",0,459,"Chapman","","Matthew","Conservative","Conservateur",N,N,69
+10001,"Avalon","Avalon"," 51","Clarke's Beach",N,N,"",0,459,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+10001,"Avalon","Avalon"," 51","Clarke's Beach",N,N,"",0,459,"McDonald","","Ken","Liberal","Libéral",N,Y,46
+10001,"Avalon","Avalon"," 51","Clarke's Beach",N,N,"",0,459,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,4
+10001,"Avalon","Avalon"," 52","Clarke's Beach",N,N,"",0,393,"Chapman","","Matthew","Conservative","Conservateur",N,N,39
+10001,"Avalon","Avalon"," 52","Clarke's Beach",N,N,"",0,393,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10001,"Avalon","Avalon"," 52","Clarke's Beach",N,N,"",0,393,"McDonald","","Ken","Liberal","Libéral",N,Y,41
+10001,"Avalon","Avalon"," 52","Clarke's Beach",N,N,"",0,393,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 53","Clarke's Beach",N,N,"",0,352,"Chapman","","Matthew","Conservative","Conservateur",N,N,49
+10001,"Avalon","Avalon"," 53","Clarke's Beach",N,N,"",0,352,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+10001,"Avalon","Avalon"," 53","Clarke's Beach",N,N,"",0,352,"McDonald","","Ken","Liberal","Libéral",N,Y,55
+10001,"Avalon","Avalon"," 53","Clarke's Beach",N,N,"",0,352,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 54","South River",N,N,"",0,255,"Chapman","","Matthew","Conservative","Conservateur",N,N,51
+10001,"Avalon","Avalon"," 54","South River",N,N,"",0,255,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+10001,"Avalon","Avalon"," 54","South River",N,N,"",0,255,"McDonald","","Ken","Liberal","Libéral",N,Y,39
+10001,"Avalon","Avalon"," 54","South River",N,N,"",0,255,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 55","South River",N,N,"",0,312,"Chapman","","Matthew","Conservative","Conservateur",N,N,71
+10001,"Avalon","Avalon"," 55","South River",N,N,"",0,312,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+10001,"Avalon","Avalon"," 55","South River",N,N,"",0,312,"McDonald","","Ken","Liberal","Libéral",N,Y,47
+10001,"Avalon","Avalon"," 55","South River",N,N,"",0,312,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,4
+10001,"Avalon","Avalon"," 56","Cupids",N,N,"",0,326,"Chapman","","Matthew","Conservative","Conservateur",N,N,54
+10001,"Avalon","Avalon"," 56","Cupids",N,N,"",0,326,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10001,"Avalon","Avalon"," 56","Cupids",N,N,"",0,326,"McDonald","","Ken","Liberal","Libéral",N,Y,56
+10001,"Avalon","Avalon"," 56","Cupids",N,N,"",0,326,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 57","Cupids",N,N,"",0,249,"Chapman","","Matthew","Conservative","Conservateur",N,N,41
+10001,"Avalon","Avalon"," 57","Cupids",N,N,"",0,249,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10001,"Avalon","Avalon"," 57","Cupids",N,N,"",0,249,"McDonald","","Ken","Liberal","Libéral",N,Y,47
+10001,"Avalon","Avalon"," 57","Cupids",N,N,"",0,249,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 58","Brigus",N,N,"",2,410,"Chapman","","Matthew","Conservative","Conservateur",N,N,56
+10001,"Avalon","Avalon"," 58","Brigus",N,N,"",2,410,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+10001,"Avalon","Avalon"," 58","Brigus",N,N,"",2,410,"McDonald","","Ken","Liberal","Libéral",N,Y,67
+10001,"Avalon","Avalon"," 58","Brigus",N,N,"",2,410,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,4
+10001,"Avalon","Avalon"," 59","Brigus",N,N,"",0,298,"Chapman","","Matthew","Conservative","Conservateur",N,N,46
+10001,"Avalon","Avalon"," 59","Brigus",N,N,"",0,298,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 59","Brigus",N,N,"",0,298,"McDonald","","Ken","Liberal","Libéral",N,Y,39
+10001,"Avalon","Avalon"," 59","Brigus",N,N,"",0,298,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 60","Marysvale",N,N,"",1,331,"Chapman","","Matthew","Conservative","Conservateur",N,N,73
+10001,"Avalon","Avalon"," 60","Marysvale",N,N,"",1,331,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+10001,"Avalon","Avalon"," 60","Marysvale",N,N,"",1,331,"McDonald","","Ken","Liberal","Libéral",N,Y,54
+10001,"Avalon","Avalon"," 60","Marysvale",N,N,"",1,331,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 61","Marysvale",N,N,"",2,224,"Chapman","","Matthew","Conservative","Conservateur",N,N,50
+10001,"Avalon","Avalon"," 61","Marysvale",N,N,"",2,224,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10001,"Avalon","Avalon"," 61","Marysvale",N,N,"",2,224,"McDonald","","Ken","Liberal","Libéral",N,Y,43
+10001,"Avalon","Avalon"," 61","Marysvale",N,N,"",2,224,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,4
+10001,"Avalon","Avalon"," 62","Colliers",N,N,"",0,267,"Chapman","","Matthew","Conservative","Conservateur",N,N,52
+10001,"Avalon","Avalon"," 62","Colliers",N,N,"",0,267,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10001,"Avalon","Avalon"," 62","Colliers",N,N,"",0,267,"McDonald","","Ken","Liberal","Libéral",N,Y,50
+10001,"Avalon","Avalon"," 62","Colliers",N,N,"",0,267,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 63","Colliers",N,N,"",0,271,"Chapman","","Matthew","Conservative","Conservateur",N,N,59
+10001,"Avalon","Avalon"," 63","Colliers",N,N,"",0,271,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+10001,"Avalon","Avalon"," 63","Colliers",N,N,"",0,271,"McDonald","","Ken","Liberal","Libéral",N,Y,69
+10001,"Avalon","Avalon"," 63","Colliers",N,N,"",0,271,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 64","Conception Harbour",N,N,"",0,196,"Chapman","","Matthew","Conservative","Conservateur",N,N,37
+10001,"Avalon","Avalon"," 64","Conception Harbour",N,N,"",0,196,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+10001,"Avalon","Avalon"," 64","Conception Harbour",N,N,"",0,196,"McDonald","","Ken","Liberal","Libéral",N,Y,41
+10001,"Avalon","Avalon"," 64","Conception Harbour",N,N,"",0,196,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 65","Conception Harbour",N,N,"",5,334,"Chapman","","Matthew","Conservative","Conservateur",N,N,78
+10001,"Avalon","Avalon"," 65","Conception Harbour",N,N,"",5,334,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+10001,"Avalon","Avalon"," 65","Conception Harbour",N,N,"",5,334,"McDonald","","Ken","Liberal","Libéral",N,Y,53
+10001,"Avalon","Avalon"," 65","Conception Harbour",N,N,"",5,334,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,7
+10001,"Avalon","Avalon"," 66","Avondale",N,N,"",1,213,"Chapman","","Matthew","Conservative","Conservateur",N,N,43
+10001,"Avalon","Avalon"," 66","Avondale",N,N,"",1,213,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10001,"Avalon","Avalon"," 66","Avondale",N,N,"",1,213,"McDonald","","Ken","Liberal","Libéral",N,Y,23
+10001,"Avalon","Avalon"," 66","Avondale",N,N,"",1,213,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 67","Avondale",N,N,"",0,319,"Chapman","","Matthew","Conservative","Conservateur",N,N,43
+10001,"Avalon","Avalon"," 67","Avondale",N,N,"",0,319,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+10001,"Avalon","Avalon"," 67","Avondale",N,N,"",0,319,"McDonald","","Ken","Liberal","Libéral",N,Y,54
+10001,"Avalon","Avalon"," 67","Avondale",N,N,"",0,319,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 68","Harbour Main-Chapel's Cove-Lakeview",N,N,"",1,213,"Chapman","","Matthew","Conservative","Conservateur",N,N,39
+10001,"Avalon","Avalon"," 68","Harbour Main-Chapel's Cove-Lakeview",N,N,"",1,213,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+10001,"Avalon","Avalon"," 68","Harbour Main-Chapel's Cove-Lakeview",N,N,"",1,213,"McDonald","","Ken","Liberal","Libéral",N,Y,39
+10001,"Avalon","Avalon"," 68","Harbour Main-Chapel's Cove-Lakeview",N,N,"",1,213,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 69","Harbour Main-Chapel's Cove-Lakeview",N,N,"",0,245,"Chapman","","Matthew","Conservative","Conservateur",N,N,31
+10001,"Avalon","Avalon"," 69","Harbour Main-Chapel's Cove-Lakeview",N,N,"",0,245,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+10001,"Avalon","Avalon"," 69","Harbour Main-Chapel's Cove-Lakeview",N,N,"",0,245,"McDonald","","Ken","Liberal","Libéral",N,Y,58
+10001,"Avalon","Avalon"," 69","Harbour Main-Chapel's Cove-Lakeview",N,N,"",0,245,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 70","Harbour Main-Chapel's Cove-Lakeview",N,N,"",0,451,"Chapman","","Matthew","Conservative","Conservateur",N,N,69
+10001,"Avalon","Avalon"," 70","Harbour Main-Chapel's Cove-Lakeview",N,N,"",0,451,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+10001,"Avalon","Avalon"," 70","Harbour Main-Chapel's Cove-Lakeview",N,N,"",0,451,"McDonald","","Ken","Liberal","Libéral",N,Y,86
+10001,"Avalon","Avalon"," 70","Harbour Main-Chapel's Cove-Lakeview",N,N,"",0,451,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,4
+10001,"Avalon","Avalon"," 71","Holyrood",N,N,"",1,496,"Chapman","","Matthew","Conservative","Conservateur",N,N,61
+10001,"Avalon","Avalon"," 71","Holyrood",N,N,"",1,496,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+10001,"Avalon","Avalon"," 71","Holyrood",N,N,"",1,496,"McDonald","","Ken","Liberal","Libéral",N,Y,82
+10001,"Avalon","Avalon"," 71","Holyrood",N,N,"",1,496,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,8
+10001,"Avalon","Avalon"," 72","Holyrood",N,N,"",1,482,"Chapman","","Matthew","Conservative","Conservateur",N,N,64
+10001,"Avalon","Avalon"," 72","Holyrood",N,N,"",1,482,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+10001,"Avalon","Avalon"," 72","Holyrood",N,N,"",1,482,"McDonald","","Ken","Liberal","Libéral",N,Y,66
+10001,"Avalon","Avalon"," 72","Holyrood",N,N,"",1,482,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,5
+10001,"Avalon","Avalon"," 73","Holyrood",N,N,"",0,332,"Chapman","","Matthew","Conservative","Conservateur",N,N,32
+10001,"Avalon","Avalon"," 73","Holyrood",N,N,"",0,332,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+10001,"Avalon","Avalon"," 73","Holyrood",N,N,"",0,332,"McDonald","","Ken","Liberal","Libéral",N,Y,56
+10001,"Avalon","Avalon"," 73","Holyrood",N,N,"",0,332,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 74","Holyrood",N,N,"",0,291,"Chapman","","Matthew","Conservative","Conservateur",N,N,39
+10001,"Avalon","Avalon"," 74","Holyrood",N,N,"",0,291,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10001,"Avalon","Avalon"," 74","Holyrood",N,N,"",0,291,"McDonald","","Ken","Liberal","Libéral",N,Y,42
+10001,"Avalon","Avalon"," 74","Holyrood",N,N,"",0,291,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 75","Holyrood",N,N,"",0,470,"Chapman","","Matthew","Conservative","Conservateur",N,N,51
+10001,"Avalon","Avalon"," 75","Holyrood",N,N,"",0,470,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+10001,"Avalon","Avalon"," 75","Holyrood",N,N,"",0,470,"McDonald","","Ken","Liberal","Libéral",N,Y,50
+10001,"Avalon","Avalon"," 75","Holyrood",N,N,"",0,470,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 76","Conception Bay South",N,N,"",0,489,"Chapman","","Matthew","Conservative","Conservateur",N,N,49
+10001,"Avalon","Avalon"," 76","Conception Bay South",N,N,"",0,489,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+10001,"Avalon","Avalon"," 76","Conception Bay South",N,N,"",0,489,"McDonald","","Ken","Liberal","Libéral",N,Y,80
+10001,"Avalon","Avalon"," 76","Conception Bay South",N,N,"",0,489,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 77","Conception Bay South",N,N,"",0,635,"Chapman","","Matthew","Conservative","Conservateur",N,N,81
+10001,"Avalon","Avalon"," 77","Conception Bay South",N,N,"",0,635,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+10001,"Avalon","Avalon"," 77","Conception Bay South",N,N,"",0,635,"McDonald","","Ken","Liberal","Libéral",N,Y,88
+10001,"Avalon","Avalon"," 77","Conception Bay South",N,N,"",0,635,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,6
+10001,"Avalon","Avalon"," 78","Conception Bay South",N,N,"",0,490,"Chapman","","Matthew","Conservative","Conservateur",N,N,60
+10001,"Avalon","Avalon"," 78","Conception Bay South",N,N,"",0,490,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+10001,"Avalon","Avalon"," 78","Conception Bay South",N,N,"",0,490,"McDonald","","Ken","Liberal","Libéral",N,Y,57
+10001,"Avalon","Avalon"," 78","Conception Bay South",N,N,"",0,490,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 79","Conception Bay South",N,N,"",0,664,"Chapman","","Matthew","Conservative","Conservateur",N,N,84
+10001,"Avalon","Avalon"," 79","Conception Bay South",N,N,"",0,664,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+10001,"Avalon","Avalon"," 79","Conception Bay South",N,N,"",0,664,"McDonald","","Ken","Liberal","Libéral",N,Y,99
+10001,"Avalon","Avalon"," 79","Conception Bay South",N,N,"",0,664,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 80","Conception Bay South",N,N,"",0,662,"Chapman","","Matthew","Conservative","Conservateur",N,N,96
+10001,"Avalon","Avalon"," 80","Conception Bay South",N,N,"",0,662,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+10001,"Avalon","Avalon"," 80","Conception Bay South",N,N,"",0,662,"McDonald","","Ken","Liberal","Libéral",N,Y,85
+10001,"Avalon","Avalon"," 80","Conception Bay South",N,N,"",0,662,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 81","Conception Bay South",N,N,"",0,490,"Chapman","","Matthew","Conservative","Conservateur",N,N,56
+10001,"Avalon","Avalon"," 81","Conception Bay South",N,N,"",0,490,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+10001,"Avalon","Avalon"," 81","Conception Bay South",N,N,"",0,490,"McDonald","","Ken","Liberal","Libéral",N,Y,64
+10001,"Avalon","Avalon"," 81","Conception Bay South",N,N,"",0,490,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 82","Conception Bay South",N,N,"",0,521,"Chapman","","Matthew","Conservative","Conservateur",N,N,58
+10001,"Avalon","Avalon"," 82","Conception Bay South",N,N,"",0,521,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+10001,"Avalon","Avalon"," 82","Conception Bay South",N,N,"",0,521,"McDonald","","Ken","Liberal","Libéral",N,Y,77
+10001,"Avalon","Avalon"," 82","Conception Bay South",N,N,"",0,521,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 83","Conception Bay South",N,N,"",3,446,"Chapman","","Matthew","Conservative","Conservateur",N,N,42
+10001,"Avalon","Avalon"," 83","Conception Bay South",N,N,"",3,446,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+10001,"Avalon","Avalon"," 83","Conception Bay South",N,N,"",3,446,"McDonald","","Ken","Liberal","Libéral",N,Y,53
+10001,"Avalon","Avalon"," 83","Conception Bay South",N,N,"",3,446,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 84","Conception Bay South",N,N,"",0,544,"Chapman","","Matthew","Conservative","Conservateur",N,N,70
+10001,"Avalon","Avalon"," 84","Conception Bay South",N,N,"",0,544,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+10001,"Avalon","Avalon"," 84","Conception Bay South",N,N,"",0,544,"McDonald","","Ken","Liberal","Libéral",N,Y,97
+10001,"Avalon","Avalon"," 84","Conception Bay South",N,N,"",0,544,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,5
+10001,"Avalon","Avalon"," 85","Conception Bay South",N,N,"",3,477,"Chapman","","Matthew","Conservative","Conservateur",N,N,51
+10001,"Avalon","Avalon"," 85","Conception Bay South",N,N,"",3,477,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+10001,"Avalon","Avalon"," 85","Conception Bay South",N,N,"",3,477,"McDonald","","Ken","Liberal","Libéral",N,Y,76
+10001,"Avalon","Avalon"," 85","Conception Bay South",N,N,"",3,477,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,6
+10001,"Avalon","Avalon"," 86","Conception Bay South",N,N,"",0,612,"Chapman","","Matthew","Conservative","Conservateur",N,N,79
+10001,"Avalon","Avalon"," 86","Conception Bay South",N,N,"",0,612,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+10001,"Avalon","Avalon"," 86","Conception Bay South",N,N,"",0,612,"McDonald","","Ken","Liberal","Libéral",N,Y,59
+10001,"Avalon","Avalon"," 86","Conception Bay South",N,N,"",0,612,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 87","Conception Bay South",N,N,"",2,511,"Chapman","","Matthew","Conservative","Conservateur",N,N,64
+10001,"Avalon","Avalon"," 87","Conception Bay South",N,N,"",2,511,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+10001,"Avalon","Avalon"," 87","Conception Bay South",N,N,"",2,511,"McDonald","","Ken","Liberal","Libéral",N,Y,58
+10001,"Avalon","Avalon"," 87","Conception Bay South",N,N,"",2,511,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 88","Conception Bay South",N,N,"",0,528,"Chapman","","Matthew","Conservative","Conservateur",N,N,55
+10001,"Avalon","Avalon"," 88","Conception Bay South",N,N,"",0,528,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+10001,"Avalon","Avalon"," 88","Conception Bay South",N,N,"",0,528,"McDonald","","Ken","Liberal","Libéral",N,Y,73
+10001,"Avalon","Avalon"," 88","Conception Bay South",N,N,"",0,528,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,6
+10001,"Avalon","Avalon"," 89","Conception Bay South",N,N,"",0,388,"Chapman","","Matthew","Conservative","Conservateur",N,N,47
+10001,"Avalon","Avalon"," 89","Conception Bay South",N,N,"",0,388,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+10001,"Avalon","Avalon"," 89","Conception Bay South",N,N,"",0,388,"McDonald","","Ken","Liberal","Libéral",N,Y,60
+10001,"Avalon","Avalon"," 89","Conception Bay South",N,N,"",0,388,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,4
+10001,"Avalon","Avalon"," 90","Conception Bay South",N,N,"",0,448,"Chapman","","Matthew","Conservative","Conservateur",N,N,48
+10001,"Avalon","Avalon"," 90","Conception Bay South",N,N,"",0,448,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+10001,"Avalon","Avalon"," 90","Conception Bay South",N,N,"",0,448,"McDonald","","Ken","Liberal","Libéral",N,Y,63
+10001,"Avalon","Avalon"," 90","Conception Bay South",N,N,"",0,448,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 91","Conception Bay South",N,N,"",0,481,"Chapman","","Matthew","Conservative","Conservateur",N,N,42
+10001,"Avalon","Avalon"," 91","Conception Bay South",N,N,"",0,481,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+10001,"Avalon","Avalon"," 91","Conception Bay South",N,N,"",0,481,"McDonald","","Ken","Liberal","Libéral",N,Y,75
+10001,"Avalon","Avalon"," 91","Conception Bay South",N,N,"",0,481,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,4
+10001,"Avalon","Avalon"," 92","Conception Bay South",N,N,"",0,424,"Chapman","","Matthew","Conservative","Conservateur",N,N,35
+10001,"Avalon","Avalon"," 92","Conception Bay South",N,N,"",0,424,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+10001,"Avalon","Avalon"," 92","Conception Bay South",N,N,"",0,424,"McDonald","","Ken","Liberal","Libéral",N,Y,56
+10001,"Avalon","Avalon"," 92","Conception Bay South",N,N,"",0,424,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 93","Conception Bay South",N,N,"",2,527,"Chapman","","Matthew","Conservative","Conservateur",N,N,64
+10001,"Avalon","Avalon"," 93","Conception Bay South",N,N,"",2,527,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+10001,"Avalon","Avalon"," 93","Conception Bay South",N,N,"",2,527,"McDonald","","Ken","Liberal","Libéral",N,Y,72
+10001,"Avalon","Avalon"," 93","Conception Bay South",N,N,"",2,527,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 94","Conception Bay South",N,N,"",1,498,"Chapman","","Matthew","Conservative","Conservateur",N,N,61
+10001,"Avalon","Avalon"," 94","Conception Bay South",N,N,"",1,498,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+10001,"Avalon","Avalon"," 94","Conception Bay South",N,N,"",1,498,"McDonald","","Ken","Liberal","Libéral",N,Y,65
+10001,"Avalon","Avalon"," 94","Conception Bay South",N,N,"",1,498,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,4
+10001,"Avalon","Avalon"," 95","Conception Bay South",N,N,"",1,602,"Chapman","","Matthew","Conservative","Conservateur",N,N,46
+10001,"Avalon","Avalon"," 95","Conception Bay South",N,N,"",1,602,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+10001,"Avalon","Avalon"," 95","Conception Bay South",N,N,"",1,602,"McDonald","","Ken","Liberal","Libéral",N,Y,83
+10001,"Avalon","Avalon"," 95","Conception Bay South",N,N,"",1,602,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,4
+10001,"Avalon","Avalon"," 96","Conception Bay South",N,N,"",0,592,"Chapman","","Matthew","Conservative","Conservateur",N,N,61
+10001,"Avalon","Avalon"," 96","Conception Bay South",N,N,"",0,592,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+10001,"Avalon","Avalon"," 96","Conception Bay South",N,N,"",0,592,"McDonald","","Ken","Liberal","Libéral",N,Y,77
+10001,"Avalon","Avalon"," 96","Conception Bay South",N,N,"",0,592,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,5
+10001,"Avalon","Avalon"," 97","Conception Bay South",N,N,"",0,524,"Chapman","","Matthew","Conservative","Conservateur",N,N,52
+10001,"Avalon","Avalon"," 97","Conception Bay South",N,N,"",0,524,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+10001,"Avalon","Avalon"," 97","Conception Bay South",N,N,"",0,524,"McDonald","","Ken","Liberal","Libéral",N,Y,82
+10001,"Avalon","Avalon"," 97","Conception Bay South",N,N,"",0,524,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,4
+10001,"Avalon","Avalon"," 98","Conception Bay South",N,N,"",1,501,"Chapman","","Matthew","Conservative","Conservateur",N,N,55
+10001,"Avalon","Avalon"," 98","Conception Bay South",N,N,"",1,501,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+10001,"Avalon","Avalon"," 98","Conception Bay South",N,N,"",1,501,"McDonald","","Ken","Liberal","Libéral",N,Y,78
+10001,"Avalon","Avalon"," 98","Conception Bay South",N,N,"",1,501,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 99","Conception Bay South",N,N,"",7,578,"Chapman","","Matthew","Conservative","Conservateur",N,N,48
+10001,"Avalon","Avalon"," 99","Conception Bay South",N,N,"",7,578,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+10001,"Avalon","Avalon"," 99","Conception Bay South",N,N,"",7,578,"McDonald","","Ken","Liberal","Libéral",N,Y,73
+10001,"Avalon","Avalon"," 99","Conception Bay South",N,N,"",7,578,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 100","Conception Bay South",N,N,"",1,352,"Chapman","","Matthew","Conservative","Conservateur",N,N,22
+10001,"Avalon","Avalon"," 100","Conception Bay South",N,N,"",1,352,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+10001,"Avalon","Avalon"," 100","Conception Bay South",N,N,"",1,352,"McDonald","","Ken","Liberal","Libéral",N,Y,44
+10001,"Avalon","Avalon"," 100","Conception Bay South",N,N,"",1,352,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 101","Conception Bay South",N,N,"",1,510,"Chapman","","Matthew","Conservative","Conservateur",N,N,60
+10001,"Avalon","Avalon"," 101","Conception Bay South",N,N,"",1,510,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+10001,"Avalon","Avalon"," 101","Conception Bay South",N,N,"",1,510,"McDonald","","Ken","Liberal","Libéral",N,Y,70
+10001,"Avalon","Avalon"," 101","Conception Bay South",N,N,"",1,510,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 102","Conception Bay South",N,N,"",2,586,"Chapman","","Matthew","Conservative","Conservateur",N,N,56
+10001,"Avalon","Avalon"," 102","Conception Bay South",N,N,"",2,586,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+10001,"Avalon","Avalon"," 102","Conception Bay South",N,N,"",2,586,"McDonald","","Ken","Liberal","Libéral",N,Y,77
+10001,"Avalon","Avalon"," 102","Conception Bay South",N,N,"",2,586,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,4
+10001,"Avalon","Avalon"," 103","Conception Bay South",N,N,"",5,586,"Chapman","","Matthew","Conservative","Conservateur",N,N,49
+10001,"Avalon","Avalon"," 103","Conception Bay South",N,N,"",5,586,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+10001,"Avalon","Avalon"," 103","Conception Bay South",N,N,"",5,586,"McDonald","","Ken","Liberal","Libéral",N,Y,101
+10001,"Avalon","Avalon"," 103","Conception Bay South",N,N,"",5,586,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 104","Conception Bay South",N,N,"",0,436,"Chapman","","Matthew","Conservative","Conservateur",N,N,46
+10001,"Avalon","Avalon"," 104","Conception Bay South",N,N,"",0,436,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+10001,"Avalon","Avalon"," 104","Conception Bay South",N,N,"",0,436,"McDonald","","Ken","Liberal","Libéral",N,Y,62
+10001,"Avalon","Avalon"," 104","Conception Bay South",N,N,"",0,436,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 105","Conception Bay South",N,N,"",1,648,"Chapman","","Matthew","Conservative","Conservateur",N,N,51
+10001,"Avalon","Avalon"," 105","Conception Bay South",N,N,"",1,648,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+10001,"Avalon","Avalon"," 105","Conception Bay South",N,N,"",1,648,"McDonald","","Ken","Liberal","Libéral",N,Y,93
+10001,"Avalon","Avalon"," 105","Conception Bay South",N,N,"",1,648,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 106","Conception Bay South",N,N,"",0,374,"Chapman","","Matthew","Conservative","Conservateur",N,N,36
+10001,"Avalon","Avalon"," 106","Conception Bay South",N,N,"",0,374,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+10001,"Avalon","Avalon"," 106","Conception Bay South",N,N,"",0,374,"McDonald","","Ken","Liberal","Libéral",N,Y,62
+10001,"Avalon","Avalon"," 106","Conception Bay South",N,N,"",0,374,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 107","Conception Bay South",N,N,"",0,407,"Chapman","","Matthew","Conservative","Conservateur",N,N,38
+10001,"Avalon","Avalon"," 107","Conception Bay South",N,N,"",0,407,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+10001,"Avalon","Avalon"," 107","Conception Bay South",N,N,"",0,407,"McDonald","","Ken","Liberal","Libéral",N,Y,68
+10001,"Avalon","Avalon"," 107","Conception Bay South",N,N,"",0,407,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,7
+10001,"Avalon","Avalon"," 108","Conception Bay South",N,N,"",1,505,"Chapman","","Matthew","Conservative","Conservateur",N,N,51
+10001,"Avalon","Avalon"," 108","Conception Bay South",N,N,"",1,505,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+10001,"Avalon","Avalon"," 108","Conception Bay South",N,N,"",1,505,"McDonald","","Ken","Liberal","Libéral",N,Y,98
+10001,"Avalon","Avalon"," 108","Conception Bay South",N,N,"",1,505,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 109","Conception Bay South",N,N,"",1,379,"Chapman","","Matthew","Conservative","Conservateur",N,N,36
+10001,"Avalon","Avalon"," 109","Conception Bay South",N,N,"",1,379,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+10001,"Avalon","Avalon"," 109","Conception Bay South",N,N,"",1,379,"McDonald","","Ken","Liberal","Libéral",N,Y,65
+10001,"Avalon","Avalon"," 109","Conception Bay South",N,N,"",1,379,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 110","Conception Bay South",N,N,"",0,371,"Chapman","","Matthew","Conservative","Conservateur",N,N,52
+10001,"Avalon","Avalon"," 110","Conception Bay South",N,N,"",0,371,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+10001,"Avalon","Avalon"," 110","Conception Bay South",N,N,"",0,371,"McDonald","","Ken","Liberal","Libéral",N,Y,65
+10001,"Avalon","Avalon"," 110","Conception Bay South",N,N,"",0,371,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 111","Conception Bay South",N,N,"",0,554,"Chapman","","Matthew","Conservative","Conservateur",N,N,51
+10001,"Avalon","Avalon"," 111","Conception Bay South",N,N,"",0,554,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+10001,"Avalon","Avalon"," 111","Conception Bay South",N,N,"",0,554,"McDonald","","Ken","Liberal","Libéral",N,Y,84
+10001,"Avalon","Avalon"," 111","Conception Bay South",N,N,"",0,554,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 112","Conception Bay South",N,N,"",0,514,"Chapman","","Matthew","Conservative","Conservateur",N,N,51
+10001,"Avalon","Avalon"," 112","Conception Bay South",N,N,"",0,514,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+10001,"Avalon","Avalon"," 112","Conception Bay South",N,N,"",0,514,"McDonald","","Ken","Liberal","Libéral",N,Y,50
+10001,"Avalon","Avalon"," 112","Conception Bay South",N,N,"",0,514,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,4
+10001,"Avalon","Avalon"," 113","Conception Bay South",N,N,"",0,514,"Chapman","","Matthew","Conservative","Conservateur",N,N,38
+10001,"Avalon","Avalon"," 113","Conception Bay South",N,N,"",0,514,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+10001,"Avalon","Avalon"," 113","Conception Bay South",N,N,"",0,514,"McDonald","","Ken","Liberal","Libéral",N,Y,86
+10001,"Avalon","Avalon"," 113","Conception Bay South",N,N,"",0,514,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 114","Conception Bay South",N,N,"",1,501,"Chapman","","Matthew","Conservative","Conservateur",N,N,40
+10001,"Avalon","Avalon"," 114","Conception Bay South",N,N,"",1,501,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+10001,"Avalon","Avalon"," 114","Conception Bay South",N,N,"",1,501,"McDonald","","Ken","Liberal","Libéral",N,Y,78
+10001,"Avalon","Avalon"," 114","Conception Bay South",N,N,"",1,501,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,6
+10001,"Avalon","Avalon"," 115","Conception Bay South",N,N,"",1,404,"Chapman","","Matthew","Conservative","Conservateur",N,N,34
+10001,"Avalon","Avalon"," 115","Conception Bay South",N,N,"",1,404,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+10001,"Avalon","Avalon"," 115","Conception Bay South",N,N,"",1,404,"McDonald","","Ken","Liberal","Libéral",N,Y,73
+10001,"Avalon","Avalon"," 115","Conception Bay South",N,N,"",1,404,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 116","Conception Bay South",N,N,"",0,455,"Chapman","","Matthew","Conservative","Conservateur",N,N,28
+10001,"Avalon","Avalon"," 116","Conception Bay South",N,N,"",0,455,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+10001,"Avalon","Avalon"," 116","Conception Bay South",N,N,"",0,455,"McDonald","","Ken","Liberal","Libéral",N,Y,98
+10001,"Avalon","Avalon"," 116","Conception Bay South",N,N,"",0,455,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 117","Conception Bay South",N,N,"",0,507,"Chapman","","Matthew","Conservative","Conservateur",N,N,36
+10001,"Avalon","Avalon"," 117","Conception Bay South",N,N,"",0,507,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+10001,"Avalon","Avalon"," 117","Conception Bay South",N,N,"",0,507,"McDonald","","Ken","Liberal","Libéral",N,Y,99
+10001,"Avalon","Avalon"," 117","Conception Bay South",N,N,"",0,507,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,6
+10001,"Avalon","Avalon"," 118","Conception Bay South",N,N,"",0,463,"Chapman","","Matthew","Conservative","Conservateur",N,N,59
+10001,"Avalon","Avalon"," 118","Conception Bay South",N,N,"",0,463,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+10001,"Avalon","Avalon"," 118","Conception Bay South",N,N,"",0,463,"McDonald","","Ken","Liberal","Libéral",N,Y,69
+10001,"Avalon","Avalon"," 118","Conception Bay South",N,N,"",0,463,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 119","Paradise",N,N,"",0,466,"Chapman","","Matthew","Conservative","Conservateur",N,N,50
+10001,"Avalon","Avalon"," 119","Paradise",N,N,"",0,466,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+10001,"Avalon","Avalon"," 119","Paradise",N,N,"",0,466,"McDonald","","Ken","Liberal","Libéral",N,Y,63
+10001,"Avalon","Avalon"," 119","Paradise",N,N,"",0,466,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,4
+10001,"Avalon","Avalon"," 120","Paradise",N,N,"",0,409,"Chapman","","Matthew","Conservative","Conservateur",N,N,58
+10001,"Avalon","Avalon"," 120","Paradise",N,N,"",0,409,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+10001,"Avalon","Avalon"," 120","Paradise",N,N,"",0,409,"McDonald","","Ken","Liberal","Libéral",N,Y,60
+10001,"Avalon","Avalon"," 120","Paradise",N,N,"",0,409,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 121","Paradise",N,N,"",0,368,"Chapman","","Matthew","Conservative","Conservateur",N,N,50
+10001,"Avalon","Avalon"," 121","Paradise",N,N,"",0,368,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+10001,"Avalon","Avalon"," 121","Paradise",N,N,"",0,368,"McDonald","","Ken","Liberal","Libéral",N,Y,72
+10001,"Avalon","Avalon"," 121","Paradise",N,N,"",0,368,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 122","Paradise",N,N,"",0,428,"Chapman","","Matthew","Conservative","Conservateur",N,N,63
+10001,"Avalon","Avalon"," 122","Paradise",N,N,"",0,428,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+10001,"Avalon","Avalon"," 122","Paradise",N,N,"",0,428,"McDonald","","Ken","Liberal","Libéral",N,Y,86
+10001,"Avalon","Avalon"," 122","Paradise",N,N,"",0,428,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 123","Paradise",N,N,"",1,376,"Chapman","","Matthew","Conservative","Conservateur",N,N,56
+10001,"Avalon","Avalon"," 123","Paradise",N,N,"",1,376,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+10001,"Avalon","Avalon"," 123","Paradise",N,N,"",1,376,"McDonald","","Ken","Liberal","Libéral",N,Y,63
+10001,"Avalon","Avalon"," 123","Paradise",N,N,"",1,376,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 124","Paradise",N,N,"",1,710,"Chapman","","Matthew","Conservative","Conservateur",N,N,67
+10001,"Avalon","Avalon"," 124","Paradise",N,N,"",1,710,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+10001,"Avalon","Avalon"," 124","Paradise",N,N,"",1,710,"McDonald","","Ken","Liberal","Libéral",N,Y,109
+10001,"Avalon","Avalon"," 124","Paradise",N,N,"",1,710,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 125","Paradise",N,N,"",0,398,"Chapman","","Matthew","Conservative","Conservateur",N,N,47
+10001,"Avalon","Avalon"," 125","Paradise",N,N,"",0,398,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+10001,"Avalon","Avalon"," 125","Paradise",N,N,"",0,398,"McDonald","","Ken","Liberal","Libéral",N,Y,59
+10001,"Avalon","Avalon"," 125","Paradise",N,N,"",0,398,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 126","Paradise",N,N,"",0,459,"Chapman","","Matthew","Conservative","Conservateur",N,N,69
+10001,"Avalon","Avalon"," 126","Paradise",N,N,"",0,459,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+10001,"Avalon","Avalon"," 126","Paradise",N,N,"",0,459,"McDonald","","Ken","Liberal","Libéral",N,Y,53
+10001,"Avalon","Avalon"," 126","Paradise",N,N,"",0,459,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 127","Paradise",N,N,"",0,467,"Chapman","","Matthew","Conservative","Conservateur",N,N,45
+10001,"Avalon","Avalon"," 127","Paradise",N,N,"",0,467,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+10001,"Avalon","Avalon"," 127","Paradise",N,N,"",0,467,"McDonald","","Ken","Liberal","Libéral",N,Y,68
+10001,"Avalon","Avalon"," 127","Paradise",N,N,"",0,467,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,4
+10001,"Avalon","Avalon"," 128","Paradise",N,N,"",1,493,"Chapman","","Matthew","Conservative","Conservateur",N,N,47
+10001,"Avalon","Avalon"," 128","Paradise",N,N,"",1,493,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+10001,"Avalon","Avalon"," 128","Paradise",N,N,"",1,493,"McDonald","","Ken","Liberal","Libéral",N,Y,53
+10001,"Avalon","Avalon"," 128","Paradise",N,N,"",1,493,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 129","Paradise",N,N,"",2,599,"Chapman","","Matthew","Conservative","Conservateur",N,N,67
+10001,"Avalon","Avalon"," 129","Paradise",N,N,"",2,599,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+10001,"Avalon","Avalon"," 129","Paradise",N,N,"",2,599,"McDonald","","Ken","Liberal","Libéral",N,Y,114
+10001,"Avalon","Avalon"," 129","Paradise",N,N,"",2,599,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 130","Paradise",N,N,"",0,592,"Chapman","","Matthew","Conservative","Conservateur",N,N,68
+10001,"Avalon","Avalon"," 130","Paradise",N,N,"",0,592,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+10001,"Avalon","Avalon"," 130","Paradise",N,N,"",0,592,"McDonald","","Ken","Liberal","Libéral",N,Y,69
+10001,"Avalon","Avalon"," 130","Paradise",N,N,"",0,592,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,4
+10001,"Avalon","Avalon"," 131","Paradise",N,N,"",1,491,"Chapman","","Matthew","Conservative","Conservateur",N,N,60
+10001,"Avalon","Avalon"," 131","Paradise",N,N,"",1,491,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+10001,"Avalon","Avalon"," 131","Paradise",N,N,"",1,491,"McDonald","","Ken","Liberal","Libéral",N,Y,73
+10001,"Avalon","Avalon"," 131","Paradise",N,N,"",1,491,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 132","Paradise",N,N,"",1,423,"Chapman","","Matthew","Conservative","Conservateur",N,N,54
+10001,"Avalon","Avalon"," 132","Paradise",N,N,"",1,423,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+10001,"Avalon","Avalon"," 132","Paradise",N,N,"",1,423,"McDonald","","Ken","Liberal","Libéral",N,Y,62
+10001,"Avalon","Avalon"," 132","Paradise",N,N,"",1,423,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 133","Paradise",N,N,"",4,605,"Chapman","","Matthew","Conservative","Conservateur",N,N,62
+10001,"Avalon","Avalon"," 133","Paradise",N,N,"",4,605,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+10001,"Avalon","Avalon"," 133","Paradise",N,N,"",4,605,"McDonald","","Ken","Liberal","Libéral",N,Y,92
+10001,"Avalon","Avalon"," 133","Paradise",N,N,"",4,605,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 134","Paradise",N,N,"",1,512,"Chapman","","Matthew","Conservative","Conservateur",N,N,48
+10001,"Avalon","Avalon"," 134","Paradise",N,N,"",1,512,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+10001,"Avalon","Avalon"," 134","Paradise",N,N,"",1,512,"McDonald","","Ken","Liberal","Libéral",N,Y,68
+10001,"Avalon","Avalon"," 134","Paradise",N,N,"",1,512,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 135","Paradise",N,N,"",1,497,"Chapman","","Matthew","Conservative","Conservateur",N,N,58
+10001,"Avalon","Avalon"," 135","Paradise",N,N,"",1,497,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+10001,"Avalon","Avalon"," 135","Paradise",N,N,"",1,497,"McDonald","","Ken","Liberal","Libéral",N,Y,67
+10001,"Avalon","Avalon"," 135","Paradise",N,N,"",1,497,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 136","Paradise",N,N,"",0,399,"Chapman","","Matthew","Conservative","Conservateur",N,N,40
+10001,"Avalon","Avalon"," 136","Paradise",N,N,"",0,399,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+10001,"Avalon","Avalon"," 136","Paradise",N,N,"",0,399,"McDonald","","Ken","Liberal","Libéral",N,Y,46
+10001,"Avalon","Avalon"," 136","Paradise",N,N,"",0,399,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 137","Paradise",N,N,"",1,574,"Chapman","","Matthew","Conservative","Conservateur",N,N,55
+10001,"Avalon","Avalon"," 137","Paradise",N,N,"",1,574,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+10001,"Avalon","Avalon"," 137","Paradise",N,N,"",1,574,"McDonald","","Ken","Liberal","Libéral",N,Y,91
+10001,"Avalon","Avalon"," 137","Paradise",N,N,"",1,574,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 138","Paradise",N,N,"",0,462,"Chapman","","Matthew","Conservative","Conservateur",N,N,41
+10001,"Avalon","Avalon"," 138","Paradise",N,N,"",0,462,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+10001,"Avalon","Avalon"," 138","Paradise",N,N,"",0,462,"McDonald","","Ken","Liberal","Libéral",N,Y,64
+10001,"Avalon","Avalon"," 138","Paradise",N,N,"",0,462,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 139","Paradise",N,N,"",0,316,"Chapman","","Matthew","Conservative","Conservateur",N,N,45
+10001,"Avalon","Avalon"," 139","Paradise",N,N,"",0,316,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+10001,"Avalon","Avalon"," 139","Paradise",N,N,"",0,316,"McDonald","","Ken","Liberal","Libéral",N,Y,42
+10001,"Avalon","Avalon"," 139","Paradise",N,N,"",0,316,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 140","Paradise",N,N,"",0,497,"Chapman","","Matthew","Conservative","Conservateur",N,N,50
+10001,"Avalon","Avalon"," 140","Paradise",N,N,"",0,497,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+10001,"Avalon","Avalon"," 140","Paradise",N,N,"",0,497,"McDonald","","Ken","Liberal","Libéral",N,Y,67
+10001,"Avalon","Avalon"," 140","Paradise",N,N,"",0,497,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,4
+10001,"Avalon","Avalon"," 141","Paradise",N,N,"",0,398,"Chapman","","Matthew","Conservative","Conservateur",N,N,46
+10001,"Avalon","Avalon"," 141","Paradise",N,N,"",0,398,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+10001,"Avalon","Avalon"," 141","Paradise",N,N,"",0,398,"McDonald","","Ken","Liberal","Libéral",N,Y,69
+10001,"Avalon","Avalon"," 141","Paradise",N,N,"",0,398,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 142","Paradise",N,N,"",2,652,"Chapman","","Matthew","Conservative","Conservateur",N,N,85
+10001,"Avalon","Avalon"," 142","Paradise",N,N,"",2,652,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+10001,"Avalon","Avalon"," 142","Paradise",N,N,"",2,652,"McDonald","","Ken","Liberal","Libéral",N,Y,82
+10001,"Avalon","Avalon"," 142","Paradise",N,N,"",2,652,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,6
+10001,"Avalon","Avalon"," 143","Markland",N,N,"",0,163,"Chapman","","Matthew","Conservative","Conservateur",N,N,25
+10001,"Avalon","Avalon"," 143","Markland",N,N,"",0,163,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10001,"Avalon","Avalon"," 143","Markland",N,N,"",0,163,"McDonald","","Ken","Liberal","Libéral",N,Y,59
+10001,"Avalon","Avalon"," 143","Markland",N,N,"",0,163,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,4
+10001,"Avalon","Avalon"," 144","Long Harbour",N,N,"",1,239,"Chapman","","Matthew","Conservative","Conservateur",N,N,29
+10001,"Avalon","Avalon"," 144","Long Harbour",N,N,"",1,239,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+10001,"Avalon","Avalon"," 144","Long Harbour",N,N,"",1,239,"McDonald","","Ken","Liberal","Libéral",N,Y,67
+10001,"Avalon","Avalon"," 144","Long Harbour",N,N,"",1,239,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,5
+10001,"Avalon","Avalon"," 145","Ship Harbour",N,N,"",7,85,"Chapman","","Matthew","Conservative","Conservateur",N,N,14
+10001,"Avalon","Avalon"," 145","Ship Harbour",N,N,"",7,85,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+10001,"Avalon","Avalon"," 145","Ship Harbour",N,N,"",7,85,"McDonald","","Ken","Liberal","Libéral",N,Y,33
+10001,"Avalon","Avalon"," 145","Ship Harbour",N,N,"",7,85,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 146","Fox Harbour",N,N,"",1,211,"Chapman","","Matthew","Conservative","Conservateur",N,N,23
+10001,"Avalon","Avalon"," 146","Fox Harbour",N,N,"",1,211,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 146","Fox Harbour",N,N,"",1,211,"McDonald","","Ken","Liberal","Libéral",N,Y,62
+10001,"Avalon","Avalon"," 146","Fox Harbour",N,N,"",1,211,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 147","Dunville",N,N,"",1,299,"Chapman","","Matthew","Conservative","Conservateur",N,N,34
+10001,"Avalon","Avalon"," 147","Dunville",N,N,"",1,299,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10001,"Avalon","Avalon"," 147","Dunville",N,N,"",1,299,"McDonald","","Ken","Liberal","Libéral",N,Y,86
+10001,"Avalon","Avalon"," 147","Dunville",N,N,"",1,299,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 148","Dunville",N,N,"",4,489,"Chapman","","Matthew","Conservative","Conservateur",N,N,59
+10001,"Avalon","Avalon"," 148","Dunville",N,N,"",4,489,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+10001,"Avalon","Avalon"," 148","Dunville",N,N,"",4,489,"McDonald","","Ken","Liberal","Libéral",N,Y,141
+10001,"Avalon","Avalon"," 148","Dunville",N,N,"",4,489,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 149","Freshwater",N,N,"",1,259,"Chapman","","Matthew","Conservative","Conservateur",N,N,37
+10001,"Avalon","Avalon"," 149","Freshwater",N,N,"",1,259,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10001,"Avalon","Avalon"," 149","Freshwater",N,N,"",1,259,"McDonald","","Ken","Liberal","Libéral",N,Y,37
+10001,"Avalon","Avalon"," 149","Freshwater",N,N,"",1,259,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 150","Freshwater",N,N,"",0,185,"Chapman","","Matthew","Conservative","Conservateur",N,N,33
+10001,"Avalon","Avalon"," 150","Freshwater",N,N,"",0,185,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10001,"Avalon","Avalon"," 150","Freshwater",N,N,"",0,185,"McDonald","","Ken","Liberal","Libéral",N,Y,42
+10001,"Avalon","Avalon"," 150","Freshwater",N,N,"",0,185,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 151","Jerseyside",N,N,"",0,267,"Chapman","","Matthew","Conservative","Conservateur",N,N,32
+10001,"Avalon","Avalon"," 151","Jerseyside",N,N,"",0,267,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+10001,"Avalon","Avalon"," 151","Jerseyside",N,N,"",0,267,"McDonald","","Ken","Liberal","Libéral",N,Y,35
+10001,"Avalon","Avalon"," 151","Jerseyside",N,N,"",0,267,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 152","Placentia",N,N,"",2,438,"Chapman","","Matthew","Conservative","Conservateur",N,N,33
+10001,"Avalon","Avalon"," 152","Placentia",N,N,"",2,438,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+10001,"Avalon","Avalon"," 152","Placentia",N,N,"",2,438,"McDonald","","Ken","Liberal","Libéral",N,Y,70
+10001,"Avalon","Avalon"," 152","Placentia",N,N,"",2,438,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 153","Placentia",N,N,"",4,359,"Chapman","","Matthew","Conservative","Conservateur",N,N,46
+10001,"Avalon","Avalon"," 153","Placentia",N,N,"",4,359,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+10001,"Avalon","Avalon"," 153","Placentia",N,N,"",4,359,"McDonald","","Ken","Liberal","Libéral",N,Y,46
+10001,"Avalon","Avalon"," 153","Placentia",N,N,"",4,359,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 154","Southeast Placentia",N,N,"",5,614,"Chapman","","Matthew","Conservative","Conservateur",N,N,107
+10001,"Avalon","Avalon"," 154","Southeast Placentia",N,N,"",5,614,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+10001,"Avalon","Avalon"," 154","Southeast Placentia",N,N,"",5,614,"McDonald","","Ken","Liberal","Libéral",N,Y,104
+10001,"Avalon","Avalon"," 154","Southeast Placentia",N,N,"",5,614,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 155","St. Bride's",N,N,"",1,333,"Chapman","","Matthew","Conservative","Conservateur",N,N,31
+10001,"Avalon","Avalon"," 155","St. Bride's",N,N,"",1,333,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+10001,"Avalon","Avalon"," 155","St. Bride's",N,N,"",1,333,"McDonald","","Ken","Liberal","Libéral",N,Y,43
+10001,"Avalon","Avalon"," 155","St. Bride's",N,N,"",1,333,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 156","Point Lance",N,N,"",0,82,"Chapman","","Matthew","Conservative","Conservateur",N,N,11
+10001,"Avalon","Avalon"," 156","Point Lance",N,N,"",0,82,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 156","Point Lance",N,N,"",0,82,"McDonald","","Ken","Liberal","Libéral",N,Y,34
+10001,"Avalon","Avalon"," 156","Point Lance",N,N,"",0,82,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 157","Branch",N,N,"",0,178,"Chapman","","Matthew","Conservative","Conservateur",N,N,35
+10001,"Avalon","Avalon"," 157","Branch",N,N,"",0,178,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+10001,"Avalon","Avalon"," 157","Branch",N,N,"",0,178,"McDonald","","Ken","Liberal","Libéral",N,Y,69
+10001,"Avalon","Avalon"," 157","Branch",N,N,"",0,178,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 158","Brigus Junction",N,N,"",0,252,"Chapman","","Matthew","Conservative","Conservateur",N,N,36
+10001,"Avalon","Avalon"," 158","Brigus Junction",N,N,"",0,252,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10001,"Avalon","Avalon"," 158","Brigus Junction",N,N,"",0,252,"McDonald","","Ken","Liberal","Libéral",N,Y,46
+10001,"Avalon","Avalon"," 158","Brigus Junction",N,N,"",0,252,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 159","St. Catherine's",N,N,"",1,273,"Chapman","","Matthew","Conservative","Conservateur",N,N,24
+10001,"Avalon","Avalon"," 159","St. Catherine's",N,N,"",1,273,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10001,"Avalon","Avalon"," 159","St. Catherine's",N,N,"",1,273,"McDonald","","Ken","Liberal","Libéral",N,Y,38
+10001,"Avalon","Avalon"," 159","St. Catherine's",N,N,"",1,273,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 160","Mount Carmel",N,N,"",0,304,"Chapman","","Matthew","Conservative","Conservateur",N,N,36
+10001,"Avalon","Avalon"," 160","Mount Carmel",N,N,"",0,304,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10001,"Avalon","Avalon"," 160","Mount Carmel",N,N,"",0,304,"McDonald","","Ken","Liberal","Libéral",N,Y,74
+10001,"Avalon","Avalon"," 160","Mount Carmel",N,N,"",0,304,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 161","Colinet",N,N,"",3,145,"Chapman","","Matthew","Conservative","Conservateur",N,N,21
+10001,"Avalon","Avalon"," 161","Colinet",N,N,"",3,145,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+10001,"Avalon","Avalon"," 161","Colinet",N,N,"",3,145,"McDonald","","Ken","Liberal","Libéral",N,Y,35
+10001,"Avalon","Avalon"," 161","Colinet",N,N,"",3,145,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,6
+10001,"Avalon","Avalon"," 162","North Harbour",N,N,"",3,64,"Chapman","","Matthew","Conservative","Conservateur",N,N,7
+10001,"Avalon","Avalon"," 162","North Harbour",N,N,"",3,64,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+10001,"Avalon","Avalon"," 162","North Harbour",N,N,"",3,64,"McDonald","","Ken","Liberal","Libéral",N,Y,42
+10001,"Avalon","Avalon"," 162","North Harbour",N,N,"",3,64,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 163","Riverhead",N,N,"",0,158,"Chapman","","Matthew","Conservative","Conservateur",N,N,23
+10001,"Avalon","Avalon"," 163","Riverhead",N,N,"",0,158,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+10001,"Avalon","Avalon"," 163","Riverhead",N,N,"",0,158,"McDonald","","Ken","Liberal","Libéral",N,Y,54
+10001,"Avalon","Avalon"," 163","Riverhead",N,N,"",0,158,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 164","St. Joseph's",N,N,"",2,162,"Chapman","","Matthew","Conservative","Conservateur",N,N,31
+10001,"Avalon","Avalon"," 164","St. Joseph's",N,N,"",2,162,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+10001,"Avalon","Avalon"," 164","St. Joseph's",N,N,"",2,162,"McDonald","","Ken","Liberal","Libéral",N,Y,54
+10001,"Avalon","Avalon"," 164","St. Joseph's",N,N,"",2,162,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 165","Admirals Beach",N,N,"",0,109,"Chapman","","Matthew","Conservative","Conservateur",N,N,14
+10001,"Avalon","Avalon"," 165","Admirals Beach",N,N,"",0,109,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+10001,"Avalon","Avalon"," 165","Admirals Beach",N,N,"",0,109,"McDonald","","Ken","Liberal","Libéral",N,Y,35
+10001,"Avalon","Avalon"," 165","Admirals Beach",N,N,"",0,109,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 166","St. Mary's",N,N,"",1,424,"Chapman","","Matthew","Conservative","Conservateur",N,N,42
+10001,"Avalon","Avalon"," 166","St. Mary's",N,N,"",1,424,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+10001,"Avalon","Avalon"," 166","St. Mary's",N,N,"",1,424,"McDonald","","Ken","Liberal","Libéral",N,Y,79
+10001,"Avalon","Avalon"," 166","St. Mary's",N,N,"",1,424,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 167","Gaskiers-Point La Haye",N,N,"",0,143,"Chapman","","Matthew","Conservative","Conservateur",N,N,24
+10001,"Avalon","Avalon"," 167","Gaskiers-Point La Haye",N,N,"",0,143,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 167","Gaskiers-Point La Haye",N,N,"",0,143,"McDonald","","Ken","Liberal","Libéral",N,Y,48
+10001,"Avalon","Avalon"," 167","Gaskiers-Point La Haye",N,N,"",0,143,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 168","St. Vincent's-St. Stephen's-Peter's River",N,N,"",4,275,"Chapman","","Matthew","Conservative","Conservateur",N,N,28
+10001,"Avalon","Avalon"," 168","St. Vincent's-St. Stephen's-Peter's River",N,N,"",4,275,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+10001,"Avalon","Avalon"," 168","St. Vincent's-St. Stephen's-Peter's River",N,N,"",4,275,"McDonald","","Ken","Liberal","Libéral",N,Y,101
+10001,"Avalon","Avalon"," 168","St. Vincent's-St. Stephen's-Peter's River",N,N,"",4,275,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 169","St. Shotts",N,N,"",0,60,"Chapman","","Matthew","Conservative","Conservateur",N,N,15
+10001,"Avalon","Avalon"," 169","St. Shotts",N,N,"",0,60,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+10001,"Avalon","Avalon"," 169","St. Shotts",N,N,"",0,60,"McDonald","","Ken","Liberal","Libéral",N,Y,20
+10001,"Avalon","Avalon"," 169","St. Shotts",N,N,"",0,60,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 170","Mobile",N,N,"",0,270,"Chapman","","Matthew","Conservative","Conservateur",N,N,46
+10001,"Avalon","Avalon"," 170","Mobile",N,N,"",0,270,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10001,"Avalon","Avalon"," 170","Mobile",N,N,"",0,270,"McDonald","","Ken","Liberal","Libéral",N,Y,47
+10001,"Avalon","Avalon"," 170","Mobile",N,N,"",0,270,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,7
+10001,"Avalon","Avalon"," 171","Tors Cove",N,N,"",3,348,"Chapman","","Matthew","Conservative","Conservateur",N,N,64
+10001,"Avalon","Avalon"," 171","Tors Cove",N,N,"",3,348,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+10001,"Avalon","Avalon"," 171","Tors Cove",N,N,"",3,348,"McDonald","","Ken","Liberal","Libéral",N,Y,60
+10001,"Avalon","Avalon"," 171","Tors Cove",N,N,"",3,348,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 172","Bauline East",N,N,"",1,207,"Chapman","","Matthew","Conservative","Conservateur",N,N,42
+10001,"Avalon","Avalon"," 172","Bauline East",N,N,"",1,207,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+10001,"Avalon","Avalon"," 172","Bauline East",N,N,"",1,207,"McDonald","","Ken","Liberal","Libéral",N,Y,49
+10001,"Avalon","Avalon"," 172","Bauline East",N,N,"",1,207,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,4
+10001,"Avalon","Avalon"," 173","Cape Broyle",N,N,"",4,223,"Chapman","","Matthew","Conservative","Conservateur",N,N,33
+10001,"Avalon","Avalon"," 173","Cape Broyle",N,N,"",4,223,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+10001,"Avalon","Avalon"," 173","Cape Broyle",N,N,"",4,223,"McDonald","","Ken","Liberal","Libéral",N,Y,30
+10001,"Avalon","Avalon"," 173","Cape Broyle",N,N,"",4,223,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 174","Cape Broyle",N,N,"",8,443,"Chapman","","Matthew","Conservative","Conservateur",N,N,69
+10001,"Avalon","Avalon"," 174","Cape Broyle",N,N,"",8,443,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 174","Cape Broyle",N,N,"",8,443,"McDonald","","Ken","Liberal","Libéral",N,Y,86
+10001,"Avalon","Avalon"," 174","Cape Broyle",N,N,"",8,443,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,5
+10001,"Avalon","Avalon"," 175","Calvert",N,N,"",1,185,"Chapman","","Matthew","Conservative","Conservateur",N,N,27
+10001,"Avalon","Avalon"," 175","Calvert",N,N,"",1,185,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10001,"Avalon","Avalon"," 175","Calvert",N,N,"",1,185,"McDonald","","Ken","Liberal","Libéral",N,Y,50
+10001,"Avalon","Avalon"," 175","Calvert",N,N,"",1,185,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 176","Ferryland",N,N,"",3,392,"Chapman","","Matthew","Conservative","Conservateur",N,N,51
+10001,"Avalon","Avalon"," 176","Ferryland",N,N,"",3,392,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10001,"Avalon","Avalon"," 176","Ferryland",N,N,"",3,392,"McDonald","","Ken","Liberal","Libéral",N,Y,64
+10001,"Avalon","Avalon"," 176","Ferryland",N,N,"",3,392,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 177","Fermeuse--Port Kirwan",N,N,"",1,332,"Chapman","","Matthew","Conservative","Conservateur",N,N,52
+10001,"Avalon","Avalon"," 177","Fermeuse--Port Kirwan",N,N,"",1,332,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+10001,"Avalon","Avalon"," 177","Fermeuse--Port Kirwan",N,N,"",1,332,"McDonald","","Ken","Liberal","Libéral",N,Y,73
+10001,"Avalon","Avalon"," 177","Fermeuse--Port Kirwan",N,N,"",1,332,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 178","Renews",N,N,"",0,286,"Chapman","","Matthew","Conservative","Conservateur",N,N,66
+10001,"Avalon","Avalon"," 178","Renews",N,N,"",0,286,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10001,"Avalon","Avalon"," 178","Renews",N,N,"",0,286,"McDonald","","Ken","Liberal","Libéral",N,Y,56
+10001,"Avalon","Avalon"," 178","Renews",N,N,"",0,286,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 179","Portugal Cove South",N,N,"",3,98,"Chapman","","Matthew","Conservative","Conservateur",N,N,10
+10001,"Avalon","Avalon"," 179","Portugal Cove South",N,N,"",3,98,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+10001,"Avalon","Avalon"," 179","Portugal Cove South",N,N,"",3,98,"McDonald","","Ken","Liberal","Libéral",N,Y,22
+10001,"Avalon","Avalon"," 179","Portugal Cove South",N,N,"",3,98,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 180","Trepassey",N,N,"",0,241,"Chapman","","Matthew","Conservative","Conservateur",N,N,28
+10001,"Avalon","Avalon"," 180","Trepassey",N,N,"",0,241,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+10001,"Avalon","Avalon"," 180","Trepassey",N,N,"",0,241,"McDonald","","Ken","Liberal","Libéral",N,Y,40
+10001,"Avalon","Avalon"," 180","Trepassey",N,N,"",0,241,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 181","Trepassey",N,N,"",2,216,"Chapman","","Matthew","Conservative","Conservateur",N,N,15
+10001,"Avalon","Avalon"," 181","Trepassey",N,N,"",2,216,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 181","Trepassey",N,N,"",2,216,"McDonald","","Ken","Liberal","Libéral",N,Y,34
+10001,"Avalon","Avalon"," 181","Trepassey",N,N,"",2,216,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 400","Mobile poll/Bureau itinérant",N,N,"",0,74,"Chapman","","Matthew","Conservative","Conservateur",N,N,34
+10001,"Avalon","Avalon"," 400","Mobile poll/Bureau itinérant",N,N,"",0,74,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10001,"Avalon","Avalon"," 400","Mobile poll/Bureau itinérant",N,N,"",0,74,"McDonald","","Ken","Liberal","Libéral",N,Y,98
+10001,"Avalon","Avalon"," 400","Mobile poll/Bureau itinérant",N,N,"",0,74,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,9
+10001,"Avalon","Avalon"," 500","Mobile poll/Bureau itinérant",N,N,"",3,71,"Chapman","","Matthew","Conservative","Conservateur",N,N,36
+10001,"Avalon","Avalon"," 500","Mobile poll/Bureau itinérant",N,N,"",3,71,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10001,"Avalon","Avalon"," 500","Mobile poll/Bureau itinérant",N,N,"",3,71,"McDonald","","Ken","Liberal","Libéral",N,Y,82
+10001,"Avalon","Avalon"," 500","Mobile poll/Bureau itinérant",N,N,"",3,71,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 501","Mobile poll/Bureau itinérant",N,N,"",2,81,"Chapman","","Matthew","Conservative","Conservateur",N,N,28
+10001,"Avalon","Avalon"," 501","Mobile poll/Bureau itinérant",N,N,"",2,81,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+10001,"Avalon","Avalon"," 501","Mobile poll/Bureau itinérant",N,N,"",2,81,"McDonald","","Ken","Liberal","Libéral",N,Y,94
+10001,"Avalon","Avalon"," 501","Mobile poll/Bureau itinérant",N,N,"",2,81,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,5
+10001,"Avalon","Avalon"," 502","Mobile poll/Bureau itinérant",N,N,"500",0,14,"Chapman","","Matthew","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 502","Mobile poll/Bureau itinérant",N,N,"500",0,14,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 502","Mobile poll/Bureau itinérant",N,N,"500",0,14,"McDonald","","Ken","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 502","Mobile poll/Bureau itinérant",N,N,"500",0,14,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 503","Mobile poll/Bureau itinérant",N,N,"",2,15,"Chapman","","Matthew","Conservative","Conservateur",N,N,20
+10001,"Avalon","Avalon"," 503","Mobile poll/Bureau itinérant",N,N,"",2,15,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10001,"Avalon","Avalon"," 503","Mobile poll/Bureau itinérant",N,N,"",2,15,"McDonald","","Ken","Liberal","Libéral",N,Y,38
+10001,"Avalon","Avalon"," 503","Mobile poll/Bureau itinérant",N,N,"",2,15,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,6
+10001,"Avalon","Avalon"," 504","Mobile poll/Bureau itinérant",N,N,"",1,14,"Chapman","","Matthew","Conservative","Conservateur",N,N,7
+10001,"Avalon","Avalon"," 504","Mobile poll/Bureau itinérant",N,N,"",1,14,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+10001,"Avalon","Avalon"," 504","Mobile poll/Bureau itinérant",N,N,"",1,14,"McDonald","","Ken","Liberal","Libéral",N,Y,22
+10001,"Avalon","Avalon"," 504","Mobile poll/Bureau itinérant",N,N,"",1,14,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 505","Mobile poll/Bureau itinérant",N,N,"504",0,12,"Chapman","","Matthew","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 505","Mobile poll/Bureau itinérant",N,N,"504",0,12,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 505","Mobile poll/Bureau itinérant",N,N,"504",0,12,"McDonald","","Ken","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 505","Mobile poll/Bureau itinérant",N,N,"504",0,12,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 506","Mobile poll/Bureau itinérant",N,N,"501",0,13,"Chapman","","Matthew","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 506","Mobile poll/Bureau itinérant",N,N,"501",0,13,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 506","Mobile poll/Bureau itinérant",N,N,"501",0,13,"McDonald","","Ken","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 506","Mobile poll/Bureau itinérant",N,N,"501",0,13,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 507","Mobile poll/Bureau itinérant",N,N,"501",0,16,"Chapman","","Matthew","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 507","Mobile poll/Bureau itinérant",N,N,"501",0,16,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 507","Mobile poll/Bureau itinérant",N,N,"501",0,16,"McDonald","","Ken","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 507","Mobile poll/Bureau itinérant",N,N,"501",0,16,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 508","Mobile poll/Bureau itinérant",N,N,"500",0,14,"Chapman","","Matthew","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 508","Mobile poll/Bureau itinérant",N,N,"500",0,14,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 508","Mobile poll/Bureau itinérant",N,N,"500",0,14,"McDonald","","Ken","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 508","Mobile poll/Bureau itinérant",N,N,"500",0,14,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 509","Mobile poll/Bureau itinérant",N,N,"501",0,12,"Chapman","","Matthew","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 509","Mobile poll/Bureau itinérant",N,N,"501",0,12,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 509","Mobile poll/Bureau itinérant",N,N,"501",0,12,"McDonald","","Ken","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 509","Mobile poll/Bureau itinérant",N,N,"501",0,12,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 510","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Chapman","","Matthew","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 510","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 510","Mobile poll/Bureau itinérant",Y,N,"",0,0,"McDonald","","Ken","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 510","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 511","Mobile poll/Bureau itinérant",N,N,"504",0,17,"Chapman","","Matthew","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 511","Mobile poll/Bureau itinérant",N,N,"504",0,17,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 511","Mobile poll/Bureau itinérant",N,N,"504",0,17,"McDonald","","Ken","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 511","Mobile poll/Bureau itinérant",N,N,"504",0,17,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 512","Mobile poll/Bureau itinérant",N,N,"500",0,101,"Chapman","","Matthew","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 512","Mobile poll/Bureau itinérant",N,N,"500",0,101,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 512","Mobile poll/Bureau itinérant",N,N,"500",0,101,"McDonald","","Ken","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 512","Mobile poll/Bureau itinérant",N,N,"500",0,101,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 513","Mobile poll/Bureau itinérant",N,N,"503",0,10,"Chapman","","Matthew","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 513","Mobile poll/Bureau itinérant",N,N,"503",0,10,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 513","Mobile poll/Bureau itinérant",N,N,"503",0,10,"McDonald","","Ken","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 513","Mobile poll/Bureau itinérant",N,N,"503",0,10,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 514","Mobile poll/Bureau itinérant",N,N,"400",0,40,"Chapman","","Matthew","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 514","Mobile poll/Bureau itinérant",N,N,"400",0,40,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 514","Mobile poll/Bureau itinérant",N,N,"400",0,40,"McDonald","","Ken","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 514","Mobile poll/Bureau itinérant",N,N,"400",0,40,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 515","Mobile poll/Bureau itinérant",N,N,"400",0,74,"Chapman","","Matthew","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 515","Mobile poll/Bureau itinérant",N,N,"400",0,74,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 515","Mobile poll/Bureau itinérant",N,N,"400",0,74,"McDonald","","Ken","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 515","Mobile poll/Bureau itinérant",N,N,"400",0,74,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 516","Mobile poll/Bureau itinérant",N,N,"503",0,14,"Chapman","","Matthew","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 516","Mobile poll/Bureau itinérant",N,N,"503",0,14,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 516","Mobile poll/Bureau itinérant",N,N,"503",0,14,"McDonald","","Ken","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 516","Mobile poll/Bureau itinérant",N,N,"503",0,14,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 517","Mobile poll/Bureau itinérant",N,N,"500",0,12,"Chapman","","Matthew","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 517","Mobile poll/Bureau itinérant",N,N,"500",0,12,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 517","Mobile poll/Bureau itinérant",N,N,"500",0,12,"McDonald","","Ken","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 517","Mobile poll/Bureau itinérant",N,N,"500",0,12,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 518","Mobile poll/Bureau itinérant",N,N,"503",0,18,"Chapman","","Matthew","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 518","Mobile poll/Bureau itinérant",N,N,"503",0,18,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 518","Mobile poll/Bureau itinérant",N,N,"503",0,18,"McDonald","","Ken","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 518","Mobile poll/Bureau itinérant",N,N,"503",0,18,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 519","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Chapman","","Matthew","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 519","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 519","Mobile poll/Bureau itinérant",Y,N,"",0,0,"McDonald","","Ken","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 519","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 520","Mobile poll/Bureau itinérant",N,N,"",6,35,"Chapman","","Matthew","Conservative","Conservateur",N,N,10
+10001,"Avalon","Avalon"," 520","Mobile poll/Bureau itinérant",N,N,"",6,35,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+10001,"Avalon","Avalon"," 520","Mobile poll/Bureau itinérant",N,N,"",6,35,"McDonald","","Ken","Liberal","Libéral",N,Y,25
+10001,"Avalon","Avalon"," 520","Mobile poll/Bureau itinérant",N,N,"",6,35,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 521","Mobile poll/Bureau itinérant",N,N,"520",0,30,"Chapman","","Matthew","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 521","Mobile poll/Bureau itinérant",N,N,"520",0,30,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 521","Mobile poll/Bureau itinérant",N,N,"520",0,30,"McDonald","","Ken","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 521","Mobile poll/Bureau itinérant",N,N,"520",0,30,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 522","Mobile poll/Bureau itinérant",N,N,"400",0,27,"Chapman","","Matthew","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 522","Mobile poll/Bureau itinérant",N,N,"400",0,27,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 522","Mobile poll/Bureau itinérant",N,N,"400",0,27,"McDonald","","Ken","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 522","Mobile poll/Bureau itinérant",N,N,"400",0,27,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 523","Mobile poll/Bureau itinérant",N,N,"504",0,7,"Chapman","","Matthew","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 523","Mobile poll/Bureau itinérant",N,N,"504",0,7,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 523","Mobile poll/Bureau itinérant",N,N,"504",0,7,"McDonald","","Ken","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 523","Mobile poll/Bureau itinérant",N,N,"504",0,7,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 524","Mobile poll/Bureau itinérant",N,N,"504",0,9,"Chapman","","Matthew","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 524","Mobile poll/Bureau itinérant",N,N,"504",0,9,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 524","Mobile poll/Bureau itinérant",N,N,"504",0,9,"McDonald","","Ken","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 524","Mobile poll/Bureau itinérant",N,N,"504",0,9,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 525","Mobile poll/Bureau itinérant",N,N,"504",0,51,"Chapman","","Matthew","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 525","Mobile poll/Bureau itinérant",N,N,"504",0,51,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 525","Mobile poll/Bureau itinérant",N,N,"504",0,51,"McDonald","","Ken","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 525","Mobile poll/Bureau itinérant",N,N,"504",0,51,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 526","Mobile poll/Bureau itinérant",N,N,"501",0,94,"Chapman","","Matthew","Conservative","Conservateur",N,N,0
+10001,"Avalon","Avalon"," 526","Mobile poll/Bureau itinérant",N,N,"501",0,94,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10001,"Avalon","Avalon"," 526","Mobile poll/Bureau itinérant",N,N,"501",0,94,"McDonald","","Ken","Liberal","Libéral",N,Y,0
+10001,"Avalon","Avalon"," 526","Mobile poll/Bureau itinérant",N,N,"501",0,94,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 600","Victoria",N,N,"",1,0,"Chapman","","Matthew","Conservative","Conservateur",N,N,77
+10001,"Avalon","Avalon"," 600","Victoria",N,N,"",1,0,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+10001,"Avalon","Avalon"," 600","Victoria",N,N,"",1,0,"McDonald","","Ken","Liberal","Libéral",N,Y,114
+10001,"Avalon","Avalon"," 600","Victoria",N,N,"",1,0,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,8
+10001,"Avalon","Avalon"," 601","Carbonear",N,N,"",1,0,"Chapman","","Matthew","Conservative","Conservateur",N,N,60
+10001,"Avalon","Avalon"," 601","Carbonear",N,N,"",1,0,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+10001,"Avalon","Avalon"," 601","Carbonear",N,N,"",1,0,"McDonald","","Ken","Liberal","Libéral",N,Y,132
+10001,"Avalon","Avalon"," 601","Carbonear",N,N,"",1,0,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,4
+10001,"Avalon","Avalon"," 602","Carbonear",N,N,"",2,0,"Chapman","","Matthew","Conservative","Conservateur",N,N,125
+10001,"Avalon","Avalon"," 602","Carbonear",N,N,"",2,0,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+10001,"Avalon","Avalon"," 602","Carbonear",N,N,"",2,0,"McDonald","","Ken","Liberal","Libéral",N,Y,294
+10001,"Avalon","Avalon"," 602","Carbonear",N,N,"",2,0,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,4
+10001,"Avalon","Avalon"," 603","Harbour Grace--Bristol's Hope",N,N,"",4,0,"Chapman","","Matthew","Conservative","Conservateur",N,N,183
+10001,"Avalon","Avalon"," 603","Harbour Grace--Bristol's Hope",N,N,"",4,0,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+10001,"Avalon","Avalon"," 603","Harbour Grace--Bristol's Hope",N,N,"",4,0,"McDonald","","Ken","Liberal","Libéral",N,Y,252
+10001,"Avalon","Avalon"," 603","Harbour Grace--Bristol's Hope",N,N,"",4,0,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,7
+10001,"Avalon","Avalon"," 604","Upper Island Cove",N,N,"",0,0,"Chapman","","Matthew","Conservative","Conservateur",N,N,61
+10001,"Avalon","Avalon"," 604","Upper Island Cove",N,N,"",0,0,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+10001,"Avalon","Avalon"," 604","Upper Island Cove",N,N,"",0,0,"McDonald","","Ken","Liberal","Libéral",N,Y,141
+10001,"Avalon","Avalon"," 604","Upper Island Cove",N,N,"",0,0,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,4
+10001,"Avalon","Avalon"," 605","Spaniard's Bay",N,N,"",0,0,"Chapman","","Matthew","Conservative","Conservateur",N,N,113
+10001,"Avalon","Avalon"," 605","Spaniard's Bay",N,N,"",0,0,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+10001,"Avalon","Avalon"," 605","Spaniard's Bay",N,N,"",0,0,"McDonald","","Ken","Liberal","Libéral",N,Y,157
+10001,"Avalon","Avalon"," 605","Spaniard's Bay",N,N,"",0,0,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,8
+10001,"Avalon","Avalon"," 606","Bay Roberts",N,N,"",1,0,"Chapman","","Matthew","Conservative","Conservateur",N,N,242
+10001,"Avalon","Avalon"," 606","Bay Roberts",N,N,"",1,0,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+10001,"Avalon","Avalon"," 606","Bay Roberts",N,N,"",1,0,"McDonald","","Ken","Liberal","Libéral",N,Y,430
+10001,"Avalon","Avalon"," 606","Bay Roberts",N,N,"",1,0,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,9
+10001,"Avalon","Avalon"," 607","Clarke's Beach",N,N,"",0,0,"Chapman","","Matthew","Conservative","Conservateur",N,N,192
+10001,"Avalon","Avalon"," 607","Clarke's Beach",N,N,"",0,0,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+10001,"Avalon","Avalon"," 607","Clarke's Beach",N,N,"",0,0,"McDonald","","Ken","Liberal","Libéral",N,Y,239
+10001,"Avalon","Avalon"," 607","Clarke's Beach",N,N,"",0,0,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,10
+10001,"Avalon","Avalon"," 608","Conception Bay South",N,N,"",3,0,"Chapman","","Matthew","Conservative","Conservateur",N,N,297
+10001,"Avalon","Avalon"," 608","Conception Bay South",N,N,"",3,0,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,95
+10001,"Avalon","Avalon"," 608","Conception Bay South",N,N,"",3,0,"McDonald","","Ken","Liberal","Libéral",N,Y,448
+10001,"Avalon","Avalon"," 608","Conception Bay South",N,N,"",3,0,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,12
+10001,"Avalon","Avalon"," 609","Conception Bay South",N,N,"",0,0,"Chapman","","Matthew","Conservative","Conservateur",N,N,237
+10001,"Avalon","Avalon"," 609","Conception Bay South",N,N,"",0,0,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,93
+10001,"Avalon","Avalon"," 609","Conception Bay South",N,N,"",0,0,"McDonald","","Ken","Liberal","Libéral",N,Y,403
+10001,"Avalon","Avalon"," 609","Conception Bay South",N,N,"",0,0,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,12
+10001,"Avalon","Avalon"," 610","Conception Bay South",N,N,"",14,0,"Chapman","","Matthew","Conservative","Conservateur",N,N,206
+10001,"Avalon","Avalon"," 610","Conception Bay South",N,N,"",14,0,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,108
+10001,"Avalon","Avalon"," 610","Conception Bay South",N,N,"",14,0,"McDonald","","Ken","Liberal","Libéral",N,Y,507
+10001,"Avalon","Avalon"," 610","Conception Bay South",N,N,"",14,0,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,8
+10001,"Avalon","Avalon"," 611","Conception Bay South",N,N,"",1,0,"Chapman","","Matthew","Conservative","Conservateur",N,N,228
+10001,"Avalon","Avalon"," 611","Conception Bay South",N,N,"",1,0,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+10001,"Avalon","Avalon"," 611","Conception Bay South",N,N,"",1,0,"McDonald","","Ken","Liberal","Libéral",N,Y,473
+10001,"Avalon","Avalon"," 611","Conception Bay South",N,N,"",1,0,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,10
+10001,"Avalon","Avalon"," 612","Paradise",N,N,"",0,0,"Chapman","","Matthew","Conservative","Conservateur",N,N,212
+10001,"Avalon","Avalon"," 612","Paradise",N,N,"",0,0,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+10001,"Avalon","Avalon"," 612","Paradise",N,N,"",0,0,"McDonald","","Ken","Liberal","Libéral",N,Y,261
+10001,"Avalon","Avalon"," 612","Paradise",N,N,"",0,0,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,5
+10001,"Avalon","Avalon"," 613","Conception Bay South",N,N,"",3,0,"Chapman","","Matthew","Conservative","Conservateur",N,N,283
+10001,"Avalon","Avalon"," 613","Conception Bay South",N,N,"",3,0,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+10001,"Avalon","Avalon"," 613","Conception Bay South",N,N,"",3,0,"McDonald","","Ken","Liberal","Libéral",N,Y,328
+10001,"Avalon","Avalon"," 613","Conception Bay South",N,N,"",3,0,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,11
+10001,"Avalon","Avalon"," 614","Avondale",N,N,"",1,0,"Chapman","","Matthew","Conservative","Conservateur",N,N,115
+10001,"Avalon","Avalon"," 614","Avondale",N,N,"",1,0,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+10001,"Avalon","Avalon"," 614","Avondale",N,N,"",1,0,"McDonald","","Ken","Liberal","Libéral",N,Y,143
+10001,"Avalon","Avalon"," 614","Avondale",N,N,"",1,0,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 615","Holyrood",N,N,"",0,0,"Chapman","","Matthew","Conservative","Conservateur",N,N,151
+10001,"Avalon","Avalon"," 615","Holyrood",N,N,"",0,0,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+10001,"Avalon","Avalon"," 615","Holyrood",N,N,"",0,0,"McDonald","","Ken","Liberal","Libéral",N,Y,190
+10001,"Avalon","Avalon"," 615","Holyrood",N,N,"",0,0,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,4
+10001,"Avalon","Avalon"," 616","Tors Cove",N,N,"",2,0,"Chapman","","Matthew","Conservative","Conservateur",N,N,35
+10001,"Avalon","Avalon"," 616","Tors Cove",N,N,"",2,0,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+10001,"Avalon","Avalon"," 616","Tors Cove",N,N,"",2,0,"McDonald","","Ken","Liberal","Libéral",N,Y,46
+10001,"Avalon","Avalon"," 616","Tors Cove",N,N,"",2,0,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 617","Ferryland",N,N,"",4,0,"Chapman","","Matthew","Conservative","Conservateur",N,N,51
+10001,"Avalon","Avalon"," 617","Ferryland",N,N,"",4,0,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10001,"Avalon","Avalon"," 617","Ferryland",N,N,"",4,0,"McDonald","","Ken","Liberal","Libéral",N,Y,90
+10001,"Avalon","Avalon"," 617","Ferryland",N,N,"",4,0,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 618","St. Joseph's",N,N,"",0,0,"Chapman","","Matthew","Conservative","Conservateur",N,N,24
+10001,"Avalon","Avalon"," 618","St. Joseph's",N,N,"",0,0,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+10001,"Avalon","Avalon"," 618","St. Joseph's",N,N,"",0,0,"McDonald","","Ken","Liberal","Libéral",N,Y,55
+10001,"Avalon","Avalon"," 618","St. Joseph's",N,N,"",0,0,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,2
+10001,"Avalon","Avalon"," 619","Placentia",N,N,"",9,0,"Chapman","","Matthew","Conservative","Conservateur",N,N,82
+10001,"Avalon","Avalon"," 619","Placentia",N,N,"",9,0,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+10001,"Avalon","Avalon"," 619","Placentia",N,N,"",9,0,"McDonald","","Ken","Liberal","Libéral",N,Y,163
+10001,"Avalon","Avalon"," 619","Placentia",N,N,"",9,0,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,3
+10001,"Avalon","Avalon"," 620","St. Bride's",N,N,"",1,0,"Chapman","","Matthew","Conservative","Conservateur",N,N,55
+10001,"Avalon","Avalon"," 620","St. Bride's",N,N,"",1,0,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+10001,"Avalon","Avalon"," 620","St. Bride's",N,N,"",1,0,"McDonald","","Ken","Liberal","Libéral",N,Y,57
+10001,"Avalon","Avalon"," 620","St. Bride's",N,N,"",1,0,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,0
+10001,"Avalon","Avalon"," 621","Trepassey",N,N,"",0,0,"Chapman","","Matthew","Conservative","Conservateur",N,N,26
+10001,"Avalon","Avalon"," 621","Trepassey",N,N,"",0,0,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+10001,"Avalon","Avalon"," 621","Trepassey",N,N,"",0,0,"McDonald","","Ken","Liberal","Libéral",N,Y,47
+10001,"Avalon","Avalon"," 621","Trepassey",N,N,"",0,0,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," 622","St. Mary's",N,N,"",0,0,"Chapman","","Matthew","Conservative","Conservateur",N,N,43
+10001,"Avalon","Avalon"," 622","St. Mary's",N,N,"",0,0,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+10001,"Avalon","Avalon"," 622","St. Mary's",N,N,"",0,0,"McDonald","","Ken","Liberal","Libéral",N,Y,59
+10001,"Avalon","Avalon"," 622","St. Mary's",N,N,"",0,0,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,1
+10001,"Avalon","Avalon"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",16,40,"Chapman","","Matthew","Conservative","Conservateur",N,N,122
+10001,"Avalon","Avalon"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",16,40,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+10001,"Avalon","Avalon"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",16,40,"McDonald","","Ken","Liberal","Libéral",N,Y,92
+10001,"Avalon","Avalon"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",16,40,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,4
+10001,"Avalon","Avalon"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",38,0,"Chapman","","Matthew","Conservative","Conservateur",N,N,848
+10001,"Avalon","Avalon"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",38,0,"Davis","","Carolyn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,286
+10001,"Avalon","Avalon"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",38,0,"McDonald","","Ken","Liberal","Libéral",N,Y,1731
+10001,"Avalon","Avalon"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",38,0,"Stewart","","Lainie","People's Party - PPC","Parti populaire - PPC",N,N,22

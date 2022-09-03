@@ -1,0 +1,813 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+35119,"York--Simcoe","York--Simcoe"," 1","Chippewas of Georgina Island First Nation",N,N,"",0,188,"Davidson","","Scot","Conservative","Conservateur",Y,Y,49
+35119,"York--Simcoe","York--Simcoe"," 1","Chippewas of Georgina Island First Nation",N,N,"",0,188,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35119,"York--Simcoe","York--Simcoe"," 1","Chippewas of Georgina Island First Nation",N,N,"",0,188,"Johnson","","Daniella","Liberal","Libéral",N,N,18
+35119,"York--Simcoe","York--Simcoe"," 1","Chippewas of Georgina Island First Nation",N,N,"",0,188,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,6
+35119,"York--Simcoe","York--Simcoe"," 2","Georgina",N,N,"",3,594,"Davidson","","Scot","Conservative","Conservateur",Y,Y,269
+35119,"York--Simcoe","York--Simcoe"," 2","Georgina",N,N,"",3,594,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+35119,"York--Simcoe","York--Simcoe"," 2","Georgina",N,N,"",3,594,"Johnson","","Daniella","Liberal","Libéral",N,N,71
+35119,"York--Simcoe","York--Simcoe"," 2","Georgina",N,N,"",3,594,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,26
+35119,"York--Simcoe","York--Simcoe"," 3","Georgina",N,N,"8",0,500,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 3","Georgina",N,N,"8",0,500,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 3","Georgina",N,N,"8",0,500,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 3","Georgina",N,N,"8",0,500,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 4","Georgina",N,N,"2",0,576,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 4","Georgina",N,N,"2",0,576,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 4","Georgina",N,N,"2",0,576,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 4","Georgina",N,N,"2",0,576,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 5","Georgina",N,N,"",1,602,"Davidson","","Scot","Conservative","Conservateur",Y,Y,161
+35119,"York--Simcoe","York--Simcoe"," 5","Georgina",N,N,"",1,602,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35119,"York--Simcoe","York--Simcoe"," 5","Georgina",N,N,"",1,602,"Johnson","","Daniella","Liberal","Libéral",N,N,39
+35119,"York--Simcoe","York--Simcoe"," 5","Georgina",N,N,"",1,602,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,23
+35119,"York--Simcoe","York--Simcoe"," 6","Georgina",N,N,"",3,533,"Davidson","","Scot","Conservative","Conservateur",Y,Y,274
+35119,"York--Simcoe","York--Simcoe"," 6","Georgina",N,N,"",3,533,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,91
+35119,"York--Simcoe","York--Simcoe"," 6","Georgina",N,N,"",3,533,"Johnson","","Daniella","Liberal","Libéral",N,N,56
+35119,"York--Simcoe","York--Simcoe"," 6","Georgina",N,N,"",3,533,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,30
+35119,"York--Simcoe","York--Simcoe"," 7","Georgina",N,N,"6",0,530,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 7","Georgina",N,N,"6",0,530,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 7","Georgina",N,N,"6",0,530,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 7","Georgina",N,N,"6",0,530,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 8","Georgina",N,N,"",4,595,"Davidson","","Scot","Conservative","Conservateur",Y,Y,227
+35119,"York--Simcoe","York--Simcoe"," 8","Georgina",N,N,"",4,595,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35119,"York--Simcoe","York--Simcoe"," 8","Georgina",N,N,"",4,595,"Johnson","","Daniella","Liberal","Libéral",N,N,122
+35119,"York--Simcoe","York--Simcoe"," 8","Georgina",N,N,"",4,595,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,32
+35119,"York--Simcoe","York--Simcoe"," 9","Georgina",N,N,"",1,705,"Davidson","","Scot","Conservative","Conservateur",Y,Y,211
+35119,"York--Simcoe","York--Simcoe"," 9","Georgina",N,N,"",1,705,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+35119,"York--Simcoe","York--Simcoe"," 9","Georgina",N,N,"",1,705,"Johnson","","Daniella","Liberal","Libéral",N,N,77
+35119,"York--Simcoe","York--Simcoe"," 9","Georgina",N,N,"",1,705,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,26
+35119,"York--Simcoe","York--Simcoe"," 10","Georgina",N,N,"9",0,679,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 10","Georgina",N,N,"9",0,679,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 10","Georgina",N,N,"9",0,679,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 10","Georgina",N,N,"9",0,679,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 11","Georgina",N,N,"",6,714,"Davidson","","Scot","Conservative","Conservateur",Y,Y,166
+35119,"York--Simcoe","York--Simcoe"," 11","Georgina",N,N,"",6,714,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+35119,"York--Simcoe","York--Simcoe"," 11","Georgina",N,N,"",6,714,"Johnson","","Daniella","Liberal","Libéral",N,N,76
+35119,"York--Simcoe","York--Simcoe"," 11","Georgina",N,N,"",6,714,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,30
+35119,"York--Simcoe","York--Simcoe"," 12","Georgina",N,N,"",3,679,"Davidson","","Scot","Conservative","Conservateur",Y,Y,180
+35119,"York--Simcoe","York--Simcoe"," 12","Georgina",N,N,"",3,679,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35119,"York--Simcoe","York--Simcoe"," 12","Georgina",N,N,"",3,679,"Johnson","","Daniella","Liberal","Libéral",N,N,84
+35119,"York--Simcoe","York--Simcoe"," 12","Georgina",N,N,"",3,679,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,28
+35119,"York--Simcoe","York--Simcoe"," 13","Georgina",N,N,"",3,662,"Davidson","","Scot","Conservative","Conservateur",Y,Y,203
+35119,"York--Simcoe","York--Simcoe"," 13","Georgina",N,N,"",3,662,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+35119,"York--Simcoe","York--Simcoe"," 13","Georgina",N,N,"",3,662,"Johnson","","Daniella","Liberal","Libéral",N,N,62
+35119,"York--Simcoe","York--Simcoe"," 13","Georgina",N,N,"",3,662,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,24
+35119,"York--Simcoe","York--Simcoe"," 14","Georgina",N,N,"15",0,575,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 14","Georgina",N,N,"15",0,575,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 14","Georgina",N,N,"15",0,575,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 14","Georgina",N,N,"15",0,575,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 15","Georgina",N,N,"",1,610,"Davidson","","Scot","Conservative","Conservateur",Y,Y,180
+35119,"York--Simcoe","York--Simcoe"," 15","Georgina",N,N,"",1,610,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+35119,"York--Simcoe","York--Simcoe"," 15","Georgina",N,N,"",1,610,"Johnson","","Daniella","Liberal","Libéral",N,N,62
+35119,"York--Simcoe","York--Simcoe"," 15","Georgina",N,N,"",1,610,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,25
+35119,"York--Simcoe","York--Simcoe"," 16","Georgina",N,N,"17",0,664,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 16","Georgina",N,N,"17",0,664,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 16","Georgina",N,N,"17",0,664,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 16","Georgina",N,N,"17",0,664,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 17","Georgina",N,N,"",2,659,"Davidson","","Scot","Conservative","Conservateur",Y,Y,187
+35119,"York--Simcoe","York--Simcoe"," 17","Georgina",N,N,"",2,659,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+35119,"York--Simcoe","York--Simcoe"," 17","Georgina",N,N,"",2,659,"Johnson","","Daniella","Liberal","Libéral",N,N,90
+35119,"York--Simcoe","York--Simcoe"," 17","Georgina",N,N,"",2,659,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,23
+35119,"York--Simcoe","York--Simcoe"," 18","Georgina",N,N,"17",0,125,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 18","Georgina",N,N,"17",0,125,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 18","Georgina",N,N,"17",0,125,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 18","Georgina",N,N,"17",0,125,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 19","Georgina",N,N,"",7,733,"Davidson","","Scot","Conservative","Conservateur",Y,Y,158
+35119,"York--Simcoe","York--Simcoe"," 19","Georgina",N,N,"",7,733,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+35119,"York--Simcoe","York--Simcoe"," 19","Georgina",N,N,"",7,733,"Johnson","","Daniella","Liberal","Libéral",N,N,60
+35119,"York--Simcoe","York--Simcoe"," 19","Georgina",N,N,"",7,733,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,26
+35119,"York--Simcoe","York--Simcoe"," 20","Georgina",N,N,"22",0,718,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 20","Georgina",N,N,"22",0,718,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 20","Georgina",N,N,"22",0,718,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 20","Georgina",N,N,"22",0,718,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 21","Georgina",N,N,"13",0,573,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 21","Georgina",N,N,"13",0,573,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 21","Georgina",N,N,"13",0,573,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 21","Georgina",N,N,"13",0,573,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 22","Georgina",N,N,"",0,773,"Davidson","","Scot","Conservative","Conservateur",Y,Y,173
+35119,"York--Simcoe","York--Simcoe"," 22","Georgina",N,N,"",0,773,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+35119,"York--Simcoe","York--Simcoe"," 22","Georgina",N,N,"",0,773,"Johnson","","Daniella","Liberal","Libéral",N,N,81
+35119,"York--Simcoe","York--Simcoe"," 22","Georgina",N,N,"",0,773,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,31
+35119,"York--Simcoe","York--Simcoe"," 23","Georgina",N,N,"",0,840,"Davidson","","Scot","Conservative","Conservateur",Y,Y,114
+35119,"York--Simcoe","York--Simcoe"," 23","Georgina",N,N,"",0,840,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35119,"York--Simcoe","York--Simcoe"," 23","Georgina",N,N,"",0,840,"Johnson","","Daniella","Liberal","Libéral",N,N,73
+35119,"York--Simcoe","York--Simcoe"," 23","Georgina",N,N,"",0,840,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,21
+35119,"York--Simcoe","York--Simcoe"," 24","Georgina",N,N,"19",0,457,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 24","Georgina",N,N,"19",0,457,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 24","Georgina",N,N,"19",0,457,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 24","Georgina",N,N,"19",0,457,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 25","Georgina",N,N,"",1,486,"Davidson","","Scot","Conservative","Conservateur",Y,Y,204
+35119,"York--Simcoe","York--Simcoe"," 25","Georgina",N,N,"",1,486,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35119,"York--Simcoe","York--Simcoe"," 25","Georgina",N,N,"",1,486,"Johnson","","Daniella","Liberal","Libéral",N,N,59
+35119,"York--Simcoe","York--Simcoe"," 25","Georgina",N,N,"",1,486,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,31
+35119,"York--Simcoe","York--Simcoe"," 26","Georgina",N,N,"",0,433,"Davidson","","Scot","Conservative","Conservateur",Y,Y,87
+35119,"York--Simcoe","York--Simcoe"," 26","Georgina",N,N,"",0,433,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35119,"York--Simcoe","York--Simcoe"," 26","Georgina",N,N,"",0,433,"Johnson","","Daniella","Liberal","Libéral",N,N,50
+35119,"York--Simcoe","York--Simcoe"," 26","Georgina",N,N,"",0,433,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,22
+35119,"York--Simcoe","York--Simcoe"," 27","Georgina",N,N,"25",0,486,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 27","Georgina",N,N,"25",0,486,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 27","Georgina",N,N,"25",0,486,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 27","Georgina",N,N,"25",0,486,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 28","Georgina",N,N,"",2,793,"Davidson","","Scot","Conservative","Conservateur",Y,Y,181
+35119,"York--Simcoe","York--Simcoe"," 28","Georgina",N,N,"",2,793,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+35119,"York--Simcoe","York--Simcoe"," 28","Georgina",N,N,"",2,793,"Johnson","","Daniella","Liberal","Libéral",N,N,80
+35119,"York--Simcoe","York--Simcoe"," 28","Georgina",N,N,"",2,793,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,31
+35119,"York--Simcoe","York--Simcoe"," 29","Georgina",N,N,"11",0,607,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 29","Georgina",N,N,"11",0,607,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 29","Georgina",N,N,"11",0,607,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 29","Georgina",N,N,"11",0,607,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 30","Georgina",N,N,"12",0,605,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 30","Georgina",N,N,"12",0,605,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 30","Georgina",N,N,"12",0,605,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 30","Georgina",N,N,"12",0,605,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 31","Georgina",N,N,"",2,715,"Davidson","","Scot","Conservative","Conservateur",Y,Y,159
+35119,"York--Simcoe","York--Simcoe"," 31","Georgina",N,N,"",2,715,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+35119,"York--Simcoe","York--Simcoe"," 31","Georgina",N,N,"",2,715,"Johnson","","Daniella","Liberal","Libéral",N,N,74
+35119,"York--Simcoe","York--Simcoe"," 31","Georgina",N,N,"",2,715,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,14
+35119,"York--Simcoe","York--Simcoe"," 32","Georgina",N,N,"51",0,525,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 32","Georgina",N,N,"51",0,525,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 32","Georgina",N,N,"51",0,525,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 32","Georgina",N,N,"51",0,525,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 33","Georgina",N,N,"28",0,561,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 33","Georgina",N,N,"28",0,561,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 33","Georgina",N,N,"28",0,561,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 33","Georgina",N,N,"28",0,561,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 34","Georgina",N,N,"",1,592,"Davidson","","Scot","Conservative","Conservateur",Y,Y,195
+35119,"York--Simcoe","York--Simcoe"," 34","Georgina",N,N,"",1,592,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+35119,"York--Simcoe","York--Simcoe"," 34","Georgina",N,N,"",1,592,"Johnson","","Daniella","Liberal","Libéral",N,N,93
+35119,"York--Simcoe","York--Simcoe"," 34","Georgina",N,N,"",1,592,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,20
+35119,"York--Simcoe","York--Simcoe"," 35","Georgina",N,N,"31",0,606,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 35","Georgina",N,N,"31",0,606,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 35","Georgina",N,N,"31",0,606,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 35","Georgina",N,N,"31",0,606,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 36","Georgina",N,N,"37",0,544,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 36","Georgina",N,N,"37",0,544,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 36","Georgina",N,N,"37",0,544,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 36","Georgina",N,N,"37",0,544,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 37","Georgina",N,N,"",4,594,"Davidson","","Scot","Conservative","Conservateur",Y,Y,187
+35119,"York--Simcoe","York--Simcoe"," 37","Georgina",N,N,"",4,594,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+35119,"York--Simcoe","York--Simcoe"," 37","Georgina",N,N,"",4,594,"Johnson","","Daniella","Liberal","Libéral",N,N,88
+35119,"York--Simcoe","York--Simcoe"," 37","Georgina",N,N,"",4,594,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,33
+35119,"York--Simcoe","York--Simcoe"," 38","Georgina",N,N,"",3,639,"Davidson","","Scot","Conservative","Conservateur",Y,Y,146
+35119,"York--Simcoe","York--Simcoe"," 38","Georgina",N,N,"",3,639,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35119,"York--Simcoe","York--Simcoe"," 38","Georgina",N,N,"",3,639,"Johnson","","Daniella","Liberal","Libéral",N,N,87
+35119,"York--Simcoe","York--Simcoe"," 38","Georgina",N,N,"",3,639,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,23
+35119,"York--Simcoe","York--Simcoe"," 39","Georgina",N,N,"",0,635,"Davidson","","Scot","Conservative","Conservateur",Y,Y,137
+35119,"York--Simcoe","York--Simcoe"," 39","Georgina",N,N,"",0,635,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35119,"York--Simcoe","York--Simcoe"," 39","Georgina",N,N,"",0,635,"Johnson","","Daniella","Liberal","Libéral",N,N,90
+35119,"York--Simcoe","York--Simcoe"," 39","Georgina",N,N,"",0,635,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,27
+35119,"York--Simcoe","York--Simcoe"," 40","Georgina",N,N,"61",0,570,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 40","Georgina",N,N,"61",0,570,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 40","Georgina",N,N,"61",0,570,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 40","Georgina",N,N,"61",0,570,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 41","Georgina",N,N,"54",0,532,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 41","Georgina",N,N,"54",0,532,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 41","Georgina",N,N,"54",0,532,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 41","Georgina",N,N,"54",0,532,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 42","Georgina",N,N,"38",0,588,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 42","Georgina",N,N,"38",0,588,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 42","Georgina",N,N,"38",0,588,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 42","Georgina",N,N,"38",0,588,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 43","Georgina",N,N,"",3,546,"Davidson","","Scot","Conservative","Conservateur",Y,Y,108
+35119,"York--Simcoe","York--Simcoe"," 43","Georgina",N,N,"",3,546,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+35119,"York--Simcoe","York--Simcoe"," 43","Georgina",N,N,"",3,546,"Johnson","","Daniella","Liberal","Libéral",N,N,106
+35119,"York--Simcoe","York--Simcoe"," 43","Georgina",N,N,"",3,546,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,25
+35119,"York--Simcoe","York--Simcoe"," 44","Georgina",N,N,"",1,597,"Davidson","","Scot","Conservative","Conservateur",Y,Y,163
+35119,"York--Simcoe","York--Simcoe"," 44","Georgina",N,N,"",1,597,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+35119,"York--Simcoe","York--Simcoe"," 44","Georgina",N,N,"",1,597,"Johnson","","Daniella","Liberal","Libéral",N,N,97
+35119,"York--Simcoe","York--Simcoe"," 44","Georgina",N,N,"",1,597,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,26
+35119,"York--Simcoe","York--Simcoe"," 45","Georgina",N,N,"",2,586,"Davidson","","Scot","Conservative","Conservateur",Y,Y,149
+35119,"York--Simcoe","York--Simcoe"," 45","Georgina",N,N,"",2,586,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35119,"York--Simcoe","York--Simcoe"," 45","Georgina",N,N,"",2,586,"Johnson","","Daniella","Liberal","Libéral",N,N,70
+35119,"York--Simcoe","York--Simcoe"," 45","Georgina",N,N,"",2,586,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,18
+35119,"York--Simcoe","York--Simcoe"," 46","Georgina",N,N,"",2,600,"Davidson","","Scot","Conservative","Conservateur",Y,Y,136
+35119,"York--Simcoe","York--Simcoe"," 46","Georgina",N,N,"",2,600,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35119,"York--Simcoe","York--Simcoe"," 46","Georgina",N,N,"",2,600,"Johnson","","Daniella","Liberal","Libéral",N,N,62
+35119,"York--Simcoe","York--Simcoe"," 46","Georgina",N,N,"",2,600,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,24
+35119,"York--Simcoe","York--Simcoe"," 47","Georgina",N,N,"52",0,535,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 47","Georgina",N,N,"52",0,535,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 47","Georgina",N,N,"52",0,535,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 47","Georgina",N,N,"52",0,535,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 48","Georgina",N,N,"46",0,574,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 48","Georgina",N,N,"46",0,574,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 48","Georgina",N,N,"46",0,574,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 48","Georgina",N,N,"46",0,574,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 49","Georgina",N,N,"45",0,528,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 49","Georgina",N,N,"45",0,528,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 49","Georgina",N,N,"45",0,528,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 49","Georgina",N,N,"45",0,528,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 50","Georgina",N,N,"55",0,554,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 50","Georgina",N,N,"55",0,554,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 50","Georgina",N,N,"55",0,554,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 50","Georgina",N,N,"55",0,554,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 51","Georgina",N,N,"",2,551,"Davidson","","Scot","Conservative","Conservateur",Y,Y,182
+35119,"York--Simcoe","York--Simcoe"," 51","Georgina",N,N,"",2,551,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+35119,"York--Simcoe","York--Simcoe"," 51","Georgina",N,N,"",2,551,"Johnson","","Daniella","Liberal","Libéral",N,N,93
+35119,"York--Simcoe","York--Simcoe"," 51","Georgina",N,N,"",2,551,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,22
+35119,"York--Simcoe","York--Simcoe"," 52","Georgina",N,N,"",5,550,"Davidson","","Scot","Conservative","Conservateur",Y,Y,142
+35119,"York--Simcoe","York--Simcoe"," 52","Georgina",N,N,"",5,550,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+35119,"York--Simcoe","York--Simcoe"," 52","Georgina",N,N,"",5,550,"Johnson","","Daniella","Liberal","Libéral",N,N,76
+35119,"York--Simcoe","York--Simcoe"," 52","Georgina",N,N,"",5,550,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,31
+35119,"York--Simcoe","York--Simcoe"," 53","Georgina",N,N,"39",0,573,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 53","Georgina",N,N,"39",0,573,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 53","Georgina",N,N,"39",0,573,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 53","Georgina",N,N,"39",0,573,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 54","Georgina",N,N,"",4,642,"Davidson","","Scot","Conservative","Conservateur",Y,Y,161
+35119,"York--Simcoe","York--Simcoe"," 54","Georgina",N,N,"",4,642,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+35119,"York--Simcoe","York--Simcoe"," 54","Georgina",N,N,"",4,642,"Johnson","","Daniella","Liberal","Libéral",N,N,68
+35119,"York--Simcoe","York--Simcoe"," 54","Georgina",N,N,"",4,642,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,28
+35119,"York--Simcoe","York--Simcoe"," 55","Georgina",N,N,"",1,634,"Davidson","","Scot","Conservative","Conservateur",Y,Y,132
+35119,"York--Simcoe","York--Simcoe"," 55","Georgina",N,N,"",1,634,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+35119,"York--Simcoe","York--Simcoe"," 55","Georgina",N,N,"",1,634,"Johnson","","Daniella","Liberal","Libéral",N,N,88
+35119,"York--Simcoe","York--Simcoe"," 55","Georgina",N,N,"",1,634,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,21
+35119,"York--Simcoe","York--Simcoe"," 56","Georgina",N,N,"34",0,540,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 56","Georgina",N,N,"34",0,540,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 56","Georgina",N,N,"34",0,540,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 56","Georgina",N,N,"34",0,540,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 57","Georgina",N,N,"44",0,567,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 57","Georgina",N,N,"44",0,567,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 57","Georgina",N,N,"44",0,567,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 57","Georgina",N,N,"44",0,567,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 58","Georgina",N,N,"",0,876,"Davidson","","Scot","Conservative","Conservateur",Y,Y,91
+35119,"York--Simcoe","York--Simcoe"," 58","Georgina",N,N,"",0,876,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35119,"York--Simcoe","York--Simcoe"," 58","Georgina",N,N,"",0,876,"Johnson","","Daniella","Liberal","Libéral",N,N,84
+35119,"York--Simcoe","York--Simcoe"," 58","Georgina",N,N,"",0,876,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,21
+35119,"York--Simcoe","York--Simcoe"," 59","Georgina",N,N,"",2,591,"Davidson","","Scot","Conservative","Conservateur",Y,Y,123
+35119,"York--Simcoe","York--Simcoe"," 59","Georgina",N,N,"",2,591,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+35119,"York--Simcoe","York--Simcoe"," 59","Georgina",N,N,"",2,591,"Johnson","","Daniella","Liberal","Libéral",N,N,76
+35119,"York--Simcoe","York--Simcoe"," 59","Georgina",N,N,"",2,591,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,15
+35119,"York--Simcoe","York--Simcoe"," 60","Georgina",N,N,"43",0,537,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 60","Georgina",N,N,"43",0,537,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 60","Georgina",N,N,"43",0,537,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 60","Georgina",N,N,"43",0,537,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 61","Georgina",N,N,"",1,612,"Davidson","","Scot","Conservative","Conservateur",Y,Y,132
+35119,"York--Simcoe","York--Simcoe"," 61","Georgina",N,N,"",1,612,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+35119,"York--Simcoe","York--Simcoe"," 61","Georgina",N,N,"",1,612,"Johnson","","Daniella","Liberal","Libéral",N,N,95
+35119,"York--Simcoe","York--Simcoe"," 61","Georgina",N,N,"",1,612,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,32
+35119,"York--Simcoe","York--Simcoe"," 62","Georgina",N,N,"64",0,597,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 62","Georgina",N,N,"64",0,597,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 62","Georgina",N,N,"64",0,597,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 62","Georgina",N,N,"64",0,597,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 63","Georgina",N,N,"59",0,583,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 63","Georgina",N,N,"59",0,583,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 63","Georgina",N,N,"59",0,583,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 63","Georgina",N,N,"59",0,583,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 64","Georgina",N,N,"",6,592,"Davidson","","Scot","Conservative","Conservateur",Y,Y,140
+35119,"York--Simcoe","York--Simcoe"," 64","Georgina",N,N,"",6,592,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+35119,"York--Simcoe","York--Simcoe"," 64","Georgina",N,N,"",6,592,"Johnson","","Daniella","Liberal","Libéral",N,N,87
+35119,"York--Simcoe","York--Simcoe"," 64","Georgina",N,N,"",6,592,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,26
+35119,"York--Simcoe","York--Simcoe"," 65","East Gwillimbury",N,N,"",3,601,"Davidson","","Scot","Conservative","Conservateur",Y,Y,181
+35119,"York--Simcoe","York--Simcoe"," 65","East Gwillimbury",N,N,"",3,601,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+35119,"York--Simcoe","York--Simcoe"," 65","East Gwillimbury",N,N,"",3,601,"Johnson","","Daniella","Liberal","Libéral",N,N,104
+35119,"York--Simcoe","York--Simcoe"," 65","East Gwillimbury",N,N,"",3,601,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,26
+35119,"York--Simcoe","York--Simcoe"," 66","East Gwillimbury",N,N,"73",0,469,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 66","East Gwillimbury",N,N,"73",0,469,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 66","East Gwillimbury",N,N,"73",0,469,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 66","East Gwillimbury",N,N,"73",0,469,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 67","East Gwillimbury",N,N,"74",0,523,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 67","East Gwillimbury",N,N,"74",0,523,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 67","East Gwillimbury",N,N,"74",0,523,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 67","East Gwillimbury",N,N,"74",0,523,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 68","East Gwillimbury",N,N,"75",0,559,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 68","East Gwillimbury",N,N,"75",0,559,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 68","East Gwillimbury",N,N,"75",0,559,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 68","East Gwillimbury",N,N,"75",0,559,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 69","East Gwillimbury",N,N,"72",0,528,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 69","East Gwillimbury",N,N,"72",0,528,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 69","East Gwillimbury",N,N,"72",0,528,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 69","East Gwillimbury",N,N,"72",0,528,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 70","East Gwillimbury",N,N,"",1,667,"Davidson","","Scot","Conservative","Conservateur",Y,Y,95
+35119,"York--Simcoe","York--Simcoe"," 70","East Gwillimbury",N,N,"",1,667,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35119,"York--Simcoe","York--Simcoe"," 70","East Gwillimbury",N,N,"",1,667,"Johnson","","Daniella","Liberal","Libéral",N,N,84
+35119,"York--Simcoe","York--Simcoe"," 70","East Gwillimbury",N,N,"",1,667,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,27
+35119,"York--Simcoe","York--Simcoe"," 71","East Gwillimbury",N,N,"65",0,579,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 71","East Gwillimbury",N,N,"65",0,579,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 71","East Gwillimbury",N,N,"65",0,579,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 71","East Gwillimbury",N,N,"65",0,579,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 72","East Gwillimbury",N,N,"",3,620,"Davidson","","Scot","Conservative","Conservateur",Y,Y,203
+35119,"York--Simcoe","York--Simcoe"," 72","East Gwillimbury",N,N,"",3,620,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+35119,"York--Simcoe","York--Simcoe"," 72","East Gwillimbury",N,N,"",3,620,"Johnson","","Daniella","Liberal","Libéral",N,N,118
+35119,"York--Simcoe","York--Simcoe"," 72","East Gwillimbury",N,N,"",3,620,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,25
+35119,"York--Simcoe","York--Simcoe"," 73","East Gwillimbury",N,N,"",1,718,"Davidson","","Scot","Conservative","Conservateur",Y,Y,206
+35119,"York--Simcoe","York--Simcoe"," 73","East Gwillimbury",N,N,"",1,718,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35119,"York--Simcoe","York--Simcoe"," 73","East Gwillimbury",N,N,"",1,718,"Johnson","","Daniella","Liberal","Libéral",N,N,105
+35119,"York--Simcoe","York--Simcoe"," 73","East Gwillimbury",N,N,"",1,718,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,29
+35119,"York--Simcoe","York--Simcoe"," 74","East Gwillimbury",N,N,"",2,645,"Davidson","","Scot","Conservative","Conservateur",Y,Y,192
+35119,"York--Simcoe","York--Simcoe"," 74","East Gwillimbury",N,N,"",2,645,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+35119,"York--Simcoe","York--Simcoe"," 74","East Gwillimbury",N,N,"",2,645,"Johnson","","Daniella","Liberal","Libéral",N,N,141
+35119,"York--Simcoe","York--Simcoe"," 74","East Gwillimbury",N,N,"",2,645,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,27
+35119,"York--Simcoe","York--Simcoe"," 75","East Gwillimbury",N,N,"",0,599,"Davidson","","Scot","Conservative","Conservateur",Y,Y,186
+35119,"York--Simcoe","York--Simcoe"," 75","East Gwillimbury",N,N,"",0,599,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+35119,"York--Simcoe","York--Simcoe"," 75","East Gwillimbury",N,N,"",0,599,"Johnson","","Daniella","Liberal","Libéral",N,N,126
+35119,"York--Simcoe","York--Simcoe"," 75","East Gwillimbury",N,N,"",0,599,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,17
+35119,"York--Simcoe","York--Simcoe"," 76","East Gwillimbury",N,N,"92",0,435,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 76","East Gwillimbury",N,N,"92",0,435,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 76","East Gwillimbury",N,N,"92",0,435,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 76","East Gwillimbury",N,N,"92",0,435,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 77","East Gwillimbury",N,N,"93",0,392,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 77","East Gwillimbury",N,N,"93",0,392,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 77","East Gwillimbury",N,N,"93",0,392,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 77","East Gwillimbury",N,N,"93",0,392,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 78","East Gwillimbury",N,N,"",2,658,"Davidson","","Scot","Conservative","Conservateur",Y,Y,55
+35119,"York--Simcoe","York--Simcoe"," 78","East Gwillimbury",N,N,"",2,658,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35119,"York--Simcoe","York--Simcoe"," 78","East Gwillimbury",N,N,"",2,658,"Johnson","","Daniella","Liberal","Libéral",N,N,58
+35119,"York--Simcoe","York--Simcoe"," 78","East Gwillimbury",N,N,"",2,658,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,13
+35119,"York--Simcoe","York--Simcoe"," 79","East Gwillimbury",N,N,"",1,772,"Davidson","","Scot","Conservative","Conservateur",Y,Y,102
+35119,"York--Simcoe","York--Simcoe"," 79","East Gwillimbury",N,N,"",1,772,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35119,"York--Simcoe","York--Simcoe"," 79","East Gwillimbury",N,N,"",1,772,"Johnson","","Daniella","Liberal","Libéral",N,N,59
+35119,"York--Simcoe","York--Simcoe"," 79","East Gwillimbury",N,N,"",1,772,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,16
+35119,"York--Simcoe","York--Simcoe"," 80","East Gwillimbury",N,N,"",2,610,"Davidson","","Scot","Conservative","Conservateur",Y,Y,182
+35119,"York--Simcoe","York--Simcoe"," 80","East Gwillimbury",N,N,"",2,610,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35119,"York--Simcoe","York--Simcoe"," 80","East Gwillimbury",N,N,"",2,610,"Johnson","","Daniella","Liberal","Libéral",N,N,109
+35119,"York--Simcoe","York--Simcoe"," 80","East Gwillimbury",N,N,"",2,610,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,29
+35119,"York--Simcoe","York--Simcoe"," 81","East Gwillimbury",N,N,"",6,606,"Davidson","","Scot","Conservative","Conservateur",Y,Y,171
+35119,"York--Simcoe","York--Simcoe"," 81","East Gwillimbury",N,N,"",6,606,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35119,"York--Simcoe","York--Simcoe"," 81","East Gwillimbury",N,N,"",6,606,"Johnson","","Daniella","Liberal","Libéral",N,N,112
+35119,"York--Simcoe","York--Simcoe"," 81","East Gwillimbury",N,N,"",6,606,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,22
+35119,"York--Simcoe","York--Simcoe"," 82","East Gwillimbury",N,N,"80",0,487,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 82","East Gwillimbury",N,N,"80",0,487,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 82","East Gwillimbury",N,N,"80",0,487,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 82","East Gwillimbury",N,N,"80",0,487,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 83","East Gwillimbury",N,N,"",2,530,"Davidson","","Scot","Conservative","Conservateur",Y,Y,163
+35119,"York--Simcoe","York--Simcoe"," 83","East Gwillimbury",N,N,"",2,530,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+35119,"York--Simcoe","York--Simcoe"," 83","East Gwillimbury",N,N,"",2,530,"Johnson","","Daniella","Liberal","Libéral",N,N,106
+35119,"York--Simcoe","York--Simcoe"," 83","East Gwillimbury",N,N,"",2,530,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,27
+35119,"York--Simcoe","York--Simcoe"," 84","East Gwillimbury",N,N,"85",0,4,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 84","East Gwillimbury",N,N,"85",0,4,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 84","East Gwillimbury",N,N,"85",0,4,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 84","East Gwillimbury",N,N,"85",0,4,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 85","East Gwillimbury",N,N,"",1,1023,"Davidson","","Scot","Conservative","Conservateur",Y,Y,171
+35119,"York--Simcoe","York--Simcoe"," 85","East Gwillimbury",N,N,"",1,1023,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35119,"York--Simcoe","York--Simcoe"," 85","East Gwillimbury",N,N,"",1,1023,"Johnson","","Daniella","Liberal","Libéral",N,N,145
+35119,"York--Simcoe","York--Simcoe"," 85","East Gwillimbury",N,N,"",1,1023,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,15
+35119,"York--Simcoe","York--Simcoe"," 86","East Gwillimbury",N,N,"",4,825,"Davidson","","Scot","Conservative","Conservateur",Y,Y,151
+35119,"York--Simcoe","York--Simcoe"," 86","East Gwillimbury",N,N,"",4,825,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35119,"York--Simcoe","York--Simcoe"," 86","East Gwillimbury",N,N,"",4,825,"Johnson","","Daniella","Liberal","Libéral",N,N,90
+35119,"York--Simcoe","York--Simcoe"," 86","East Gwillimbury",N,N,"",4,825,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,18
+35119,"York--Simcoe","York--Simcoe"," 87","East Gwillimbury",N,N,"88",0,502,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 87","East Gwillimbury",N,N,"88",0,502,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 87","East Gwillimbury",N,N,"88",0,502,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 87","East Gwillimbury",N,N,"88",0,502,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 88","East Gwillimbury",N,N,"",0,570,"Davidson","","Scot","Conservative","Conservateur",Y,Y,161
+35119,"York--Simcoe","York--Simcoe"," 88","East Gwillimbury",N,N,"",0,570,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+35119,"York--Simcoe","York--Simcoe"," 88","East Gwillimbury",N,N,"",0,570,"Johnson","","Daniella","Liberal","Libéral",N,N,131
+35119,"York--Simcoe","York--Simcoe"," 88","East Gwillimbury",N,N,"",0,570,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,25
+35119,"York--Simcoe","York--Simcoe"," 89","East Gwillimbury",N,N,"81",0,428,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 89","East Gwillimbury",N,N,"81",0,428,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 89","East Gwillimbury",N,N,"81",0,428,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 89","East Gwillimbury",N,N,"81",0,428,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 90","East Gwillimbury",N,N,"83",0,519,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 90","East Gwillimbury",N,N,"83",0,519,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 90","East Gwillimbury",N,N,"83",0,519,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 90","East Gwillimbury",N,N,"83",0,519,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 91","East Gwillimbury",N,N,"",2,779,"Davidson","","Scot","Conservative","Conservateur",Y,Y,113
+35119,"York--Simcoe","York--Simcoe"," 91","East Gwillimbury",N,N,"",2,779,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35119,"York--Simcoe","York--Simcoe"," 91","East Gwillimbury",N,N,"",2,779,"Johnson","","Daniella","Liberal","Libéral",N,N,98
+35119,"York--Simcoe","York--Simcoe"," 91","East Gwillimbury",N,N,"",2,779,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,14
+35119,"York--Simcoe","York--Simcoe"," 92","East Gwillimbury",N,N,"",2,586,"Davidson","","Scot","Conservative","Conservateur",Y,Y,133
+35119,"York--Simcoe","York--Simcoe"," 92","East Gwillimbury",N,N,"",2,586,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35119,"York--Simcoe","York--Simcoe"," 92","East Gwillimbury",N,N,"",2,586,"Johnson","","Daniella","Liberal","Libéral",N,N,67
+35119,"York--Simcoe","York--Simcoe"," 92","East Gwillimbury",N,N,"",2,586,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,21
+35119,"York--Simcoe","York--Simcoe"," 93","East Gwillimbury",N,N,"",4,676,"Davidson","","Scot","Conservative","Conservateur",Y,Y,143
+35119,"York--Simcoe","York--Simcoe"," 93","East Gwillimbury",N,N,"",4,676,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35119,"York--Simcoe","York--Simcoe"," 93","East Gwillimbury",N,N,"",4,676,"Johnson","","Daniella","Liberal","Libéral",N,N,88
+35119,"York--Simcoe","York--Simcoe"," 93","East Gwillimbury",N,N,"",4,676,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,16
+35119,"York--Simcoe","York--Simcoe"," 94","East Gwillimbury",N,N,"95",0,589,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 94","East Gwillimbury",N,N,"95",0,589,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 94","East Gwillimbury",N,N,"95",0,589,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 94","East Gwillimbury",N,N,"95",0,589,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 95","East Gwillimbury",N,N,"",2,622,"Davidson","","Scot","Conservative","Conservateur",Y,Y,182
+35119,"York--Simcoe","York--Simcoe"," 95","East Gwillimbury",N,N,"",2,622,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35119,"York--Simcoe","York--Simcoe"," 95","East Gwillimbury",N,N,"",2,622,"Johnson","","Daniella","Liberal","Libéral",N,N,122
+35119,"York--Simcoe","York--Simcoe"," 95","East Gwillimbury",N,N,"",2,622,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,21
+35119,"York--Simcoe","York--Simcoe"," 96","East Gwillimbury",N,N,"",1,916,"Davidson","","Scot","Conservative","Conservateur",Y,Y,100
+35119,"York--Simcoe","York--Simcoe"," 96","East Gwillimbury",N,N,"",1,916,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35119,"York--Simcoe","York--Simcoe"," 96","East Gwillimbury",N,N,"",1,916,"Johnson","","Daniella","Liberal","Libéral",N,N,92
+35119,"York--Simcoe","York--Simcoe"," 96","East Gwillimbury",N,N,"",1,916,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,23
+35119,"York--Simcoe","York--Simcoe"," 97","East Gwillimbury",N,N,"",1,739,"Davidson","","Scot","Conservative","Conservateur",Y,Y,122
+35119,"York--Simcoe","York--Simcoe"," 97","East Gwillimbury",N,N,"",1,739,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35119,"York--Simcoe","York--Simcoe"," 97","East Gwillimbury",N,N,"",1,739,"Johnson","","Daniella","Liberal","Libéral",N,N,123
+35119,"York--Simcoe","York--Simcoe"," 97","East Gwillimbury",N,N,"",1,739,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,12
+35119,"York--Simcoe","York--Simcoe"," 98","East Gwillimbury",N,N,"",0,804,"Davidson","","Scot","Conservative","Conservateur",Y,Y,90
+35119,"York--Simcoe","York--Simcoe"," 98","East Gwillimbury",N,N,"",0,804,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35119,"York--Simcoe","York--Simcoe"," 98","East Gwillimbury",N,N,"",0,804,"Johnson","","Daniella","Liberal","Libéral",N,N,78
+35119,"York--Simcoe","York--Simcoe"," 98","East Gwillimbury",N,N,"",0,804,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,13
+35119,"York--Simcoe","York--Simcoe"," 99","East Gwillimbury",N,N,"97",0,414,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 99","East Gwillimbury",N,N,"97",0,414,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 99","East Gwillimbury",N,N,"97",0,414,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 99","East Gwillimbury",N,N,"97",0,414,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 100","East Gwillimbury",N,N,"102",0,504,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 100","East Gwillimbury",N,N,"102",0,504,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 100","East Gwillimbury",N,N,"102",0,504,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 100","East Gwillimbury",N,N,"102",0,504,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 101","East Gwillimbury",N,N,"",0,595,"Davidson","","Scot","Conservative","Conservateur",Y,Y,100
+35119,"York--Simcoe","York--Simcoe"," 101","East Gwillimbury",N,N,"",0,595,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35119,"York--Simcoe","York--Simcoe"," 101","East Gwillimbury",N,N,"",0,595,"Johnson","","Daniella","Liberal","Libéral",N,N,88
+35119,"York--Simcoe","York--Simcoe"," 101","East Gwillimbury",N,N,"",0,595,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,12
+35119,"York--Simcoe","York--Simcoe"," 102","East Gwillimbury",N,N,"",5,518,"Davidson","","Scot","Conservative","Conservateur",Y,Y,174
+35119,"York--Simcoe","York--Simcoe"," 102","East Gwillimbury",N,N,"",5,518,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35119,"York--Simcoe","York--Simcoe"," 102","East Gwillimbury",N,N,"",5,518,"Johnson","","Daniella","Liberal","Libéral",N,N,119
+35119,"York--Simcoe","York--Simcoe"," 102","East Gwillimbury",N,N,"",5,518,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,21
+35119,"York--Simcoe","York--Simcoe"," 103A","East Gwillimbury",N,N,"",3,624,"Davidson","","Scot","Conservative","Conservateur",Y,Y,106
+35119,"York--Simcoe","York--Simcoe"," 103A","East Gwillimbury",N,N,"",3,624,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35119,"York--Simcoe","York--Simcoe"," 103A","East Gwillimbury",N,N,"",3,624,"Johnson","","Daniella","Liberal","Libéral",N,N,89
+35119,"York--Simcoe","York--Simcoe"," 103A","East Gwillimbury",N,N,"",3,624,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,8
+35119,"York--Simcoe","York--Simcoe"," 103B","East Gwillimbury",N,N,"",0,572,"Davidson","","Scot","Conservative","Conservateur",Y,Y,89
+35119,"York--Simcoe","York--Simcoe"," 103B","East Gwillimbury",N,N,"",0,572,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35119,"York--Simcoe","York--Simcoe"," 103B","East Gwillimbury",N,N,"",0,572,"Johnson","","Daniella","Liberal","Libéral",N,N,105
+35119,"York--Simcoe","York--Simcoe"," 103B","East Gwillimbury",N,N,"",0,572,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,8
+35119,"York--Simcoe","York--Simcoe"," 104","Bradford West Gwillimbury",N,N,"105",0,268,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 104","Bradford West Gwillimbury",N,N,"105",0,268,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 104","Bradford West Gwillimbury",N,N,"105",0,268,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 104","Bradford West Gwillimbury",N,N,"105",0,268,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 105","Bradford West Gwillimbury",N,N,"",6,561,"Davidson","","Scot","Conservative","Conservateur",Y,Y,160
+35119,"York--Simcoe","York--Simcoe"," 105","Bradford West Gwillimbury",N,N,"",6,561,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35119,"York--Simcoe","York--Simcoe"," 105","Bradford West Gwillimbury",N,N,"",6,561,"Johnson","","Daniella","Liberal","Libéral",N,N,66
+35119,"York--Simcoe","York--Simcoe"," 105","Bradford West Gwillimbury",N,N,"",6,561,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,24
+35119,"York--Simcoe","York--Simcoe"," 106","Bradford West Gwillimbury",N,N,"107",0,198,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 106","Bradford West Gwillimbury",N,N,"107",0,198,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 106","Bradford West Gwillimbury",N,N,"107",0,198,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 106","Bradford West Gwillimbury",N,N,"107",0,198,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 107","Bradford West Gwillimbury",N,N,"",4,474,"Davidson","","Scot","Conservative","Conservateur",Y,Y,196
+35119,"York--Simcoe","York--Simcoe"," 107","Bradford West Gwillimbury",N,N,"",4,474,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35119,"York--Simcoe","York--Simcoe"," 107","Bradford West Gwillimbury",N,N,"",4,474,"Johnson","","Daniella","Liberal","Libéral",N,N,71
+35119,"York--Simcoe","York--Simcoe"," 107","Bradford West Gwillimbury",N,N,"",4,474,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,28
+35119,"York--Simcoe","York--Simcoe"," 108","Bradford West Gwillimbury",N,N,"",3,741,"Davidson","","Scot","Conservative","Conservateur",Y,Y,169
+35119,"York--Simcoe","York--Simcoe"," 108","Bradford West Gwillimbury",N,N,"",3,741,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35119,"York--Simcoe","York--Simcoe"," 108","Bradford West Gwillimbury",N,N,"",3,741,"Johnson","","Daniella","Liberal","Libéral",N,N,128
+35119,"York--Simcoe","York--Simcoe"," 108","Bradford West Gwillimbury",N,N,"",3,741,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,24
+35119,"York--Simcoe","York--Simcoe"," 109","Bradford West Gwillimbury",N,N,"108",0,514,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 109","Bradford West Gwillimbury",N,N,"108",0,514,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 109","Bradford West Gwillimbury",N,N,"108",0,514,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 109","Bradford West Gwillimbury",N,N,"108",0,514,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 110","Bradford West Gwillimbury",N,N,"",3,595,"Davidson","","Scot","Conservative","Conservateur",Y,Y,93
+35119,"York--Simcoe","York--Simcoe"," 110","Bradford West Gwillimbury",N,N,"",3,595,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35119,"York--Simcoe","York--Simcoe"," 110","Bradford West Gwillimbury",N,N,"",3,595,"Johnson","","Daniella","Liberal","Libéral",N,N,60
+35119,"York--Simcoe","York--Simcoe"," 110","Bradford West Gwillimbury",N,N,"",3,595,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,6
+35119,"York--Simcoe","York--Simcoe"," 111","Bradford West Gwillimbury",N,N,"",1,579,"Davidson","","Scot","Conservative","Conservateur",Y,Y,74
+35119,"York--Simcoe","York--Simcoe"," 111","Bradford West Gwillimbury",N,N,"",1,579,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35119,"York--Simcoe","York--Simcoe"," 111","Bradford West Gwillimbury",N,N,"",1,579,"Johnson","","Daniella","Liberal","Libéral",N,N,85
+35119,"York--Simcoe","York--Simcoe"," 111","Bradford West Gwillimbury",N,N,"",1,579,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,13
+35119,"York--Simcoe","York--Simcoe"," 112","Bradford West Gwillimbury",N,N,"107",0,385,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 112","Bradford West Gwillimbury",N,N,"107",0,385,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 112","Bradford West Gwillimbury",N,N,"107",0,385,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 112","Bradford West Gwillimbury",N,N,"107",0,385,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 113","Bradford West Gwillimbury",N,N,"119",0,446,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 113","Bradford West Gwillimbury",N,N,"119",0,446,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 113","Bradford West Gwillimbury",N,N,"119",0,446,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 113","Bradford West Gwillimbury",N,N,"119",0,446,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 114","Bradford West Gwillimbury",N,N,"121",0,652,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 114","Bradford West Gwillimbury",N,N,"121",0,652,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 114","Bradford West Gwillimbury",N,N,"121",0,652,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 114","Bradford West Gwillimbury",N,N,"121",0,652,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 115","Bradford West Gwillimbury",N,N,"117",0,524,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 115","Bradford West Gwillimbury",N,N,"117",0,524,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 115","Bradford West Gwillimbury",N,N,"117",0,524,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 115","Bradford West Gwillimbury",N,N,"117",0,524,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 116","Bradford West Gwillimbury",N,N,"",5,597,"Davidson","","Scot","Conservative","Conservateur",Y,Y,171
+35119,"York--Simcoe","York--Simcoe"," 116","Bradford West Gwillimbury",N,N,"",5,597,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+35119,"York--Simcoe","York--Simcoe"," 116","Bradford West Gwillimbury",N,N,"",5,597,"Johnson","","Daniella","Liberal","Libéral",N,N,121
+35119,"York--Simcoe","York--Simcoe"," 116","Bradford West Gwillimbury",N,N,"",5,597,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,25
+35119,"York--Simcoe","York--Simcoe"," 117","Bradford West Gwillimbury",N,N,"",1,683,"Davidson","","Scot","Conservative","Conservateur",Y,Y,147
+35119,"York--Simcoe","York--Simcoe"," 117","Bradford West Gwillimbury",N,N,"",1,683,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+35119,"York--Simcoe","York--Simcoe"," 117","Bradford West Gwillimbury",N,N,"",1,683,"Johnson","","Daniella","Liberal","Libéral",N,N,103
+35119,"York--Simcoe","York--Simcoe"," 117","Bradford West Gwillimbury",N,N,"",1,683,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,20
+35119,"York--Simcoe","York--Simcoe"," 118","Bradford West Gwillimbury",N,N,"116",0,543,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 118","Bradford West Gwillimbury",N,N,"116",0,543,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 118","Bradford West Gwillimbury",N,N,"116",0,543,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 118","Bradford West Gwillimbury",N,N,"116",0,543,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 119","Bradford West Gwillimbury",N,N,"",3,842,"Davidson","","Scot","Conservative","Conservateur",Y,Y,182
+35119,"York--Simcoe","York--Simcoe"," 119","Bradford West Gwillimbury",N,N,"",3,842,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,78
+35119,"York--Simcoe","York--Simcoe"," 119","Bradford West Gwillimbury",N,N,"",3,842,"Johnson","","Daniella","Liberal","Libéral",N,N,119
+35119,"York--Simcoe","York--Simcoe"," 119","Bradford West Gwillimbury",N,N,"",3,842,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,34
+35119,"York--Simcoe","York--Simcoe"," 120","Bradford West Gwillimbury",N,N,"",4,770,"Davidson","","Scot","Conservative","Conservateur",Y,Y,137
+35119,"York--Simcoe","York--Simcoe"," 120","Bradford West Gwillimbury",N,N,"",4,770,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+35119,"York--Simcoe","York--Simcoe"," 120","Bradford West Gwillimbury",N,N,"",4,770,"Johnson","","Daniella","Liberal","Libéral",N,N,103
+35119,"York--Simcoe","York--Simcoe"," 120","Bradford West Gwillimbury",N,N,"",4,770,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,19
+35119,"York--Simcoe","York--Simcoe"," 121","Bradford West Gwillimbury",N,N,"",6,662,"Davidson","","Scot","Conservative","Conservateur",Y,Y,166
+35119,"York--Simcoe","York--Simcoe"," 121","Bradford West Gwillimbury",N,N,"",6,662,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+35119,"York--Simcoe","York--Simcoe"," 121","Bradford West Gwillimbury",N,N,"",6,662,"Johnson","","Daniella","Liberal","Libéral",N,N,112
+35119,"York--Simcoe","York--Simcoe"," 121","Bradford West Gwillimbury",N,N,"",6,662,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,23
+35119,"York--Simcoe","York--Simcoe"," 122","Bradford West Gwillimbury",N,N,"126",0,535,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 122","Bradford West Gwillimbury",N,N,"126",0,535,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 122","Bradford West Gwillimbury",N,N,"126",0,535,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 122","Bradford West Gwillimbury",N,N,"126",0,535,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 123","Bradford West Gwillimbury",N,N,"",7,1003,"Davidson","","Scot","Conservative","Conservateur",Y,Y,125
+35119,"York--Simcoe","York--Simcoe"," 123","Bradford West Gwillimbury",N,N,"",7,1003,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35119,"York--Simcoe","York--Simcoe"," 123","Bradford West Gwillimbury",N,N,"",7,1003,"Johnson","","Daniella","Liberal","Libéral",N,N,123
+35119,"York--Simcoe","York--Simcoe"," 123","Bradford West Gwillimbury",N,N,"",7,1003,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,11
+35119,"York--Simcoe","York--Simcoe"," 124","Bradford West Gwillimbury",N,N,"",3,824,"Davidson","","Scot","Conservative","Conservateur",Y,Y,125
+35119,"York--Simcoe","York--Simcoe"," 124","Bradford West Gwillimbury",N,N,"",3,824,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35119,"York--Simcoe","York--Simcoe"," 124","Bradford West Gwillimbury",N,N,"",3,824,"Johnson","","Daniella","Liberal","Libéral",N,N,93
+35119,"York--Simcoe","York--Simcoe"," 124","Bradford West Gwillimbury",N,N,"",3,824,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,21
+35119,"York--Simcoe","York--Simcoe"," 125","Bradford West Gwillimbury",N,N,"120",0,458,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 125","Bradford West Gwillimbury",N,N,"120",0,458,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 125","Bradford West Gwillimbury",N,N,"120",0,458,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 125","Bradford West Gwillimbury",N,N,"120",0,458,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 126","Bradford West Gwillimbury",N,N,"",5,660,"Davidson","","Scot","Conservative","Conservateur",Y,Y,147
+35119,"York--Simcoe","York--Simcoe"," 126","Bradford West Gwillimbury",N,N,"",5,660,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35119,"York--Simcoe","York--Simcoe"," 126","Bradford West Gwillimbury",N,N,"",5,660,"Johnson","","Daniella","Liberal","Libéral",N,N,149
+35119,"York--Simcoe","York--Simcoe"," 126","Bradford West Gwillimbury",N,N,"",5,660,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,19
+35119,"York--Simcoe","York--Simcoe"," 127","Bradford West Gwillimbury",N,N,"",3,928,"Davidson","","Scot","Conservative","Conservateur",Y,Y,135
+35119,"York--Simcoe","York--Simcoe"," 127","Bradford West Gwillimbury",N,N,"",3,928,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35119,"York--Simcoe","York--Simcoe"," 127","Bradford West Gwillimbury",N,N,"",3,928,"Johnson","","Daniella","Liberal","Libéral",N,N,78
+35119,"York--Simcoe","York--Simcoe"," 127","Bradford West Gwillimbury",N,N,"",3,928,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,17
+35119,"York--Simcoe","York--Simcoe"," 128","Bradford West Gwillimbury",N,N,"",2,750,"Davidson","","Scot","Conservative","Conservateur",Y,Y,89
+35119,"York--Simcoe","York--Simcoe"," 128","Bradford West Gwillimbury",N,N,"",2,750,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35119,"York--Simcoe","York--Simcoe"," 128","Bradford West Gwillimbury",N,N,"",2,750,"Johnson","","Daniella","Liberal","Libéral",N,N,106
+35119,"York--Simcoe","York--Simcoe"," 128","Bradford West Gwillimbury",N,N,"",2,750,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,13
+35119,"York--Simcoe","York--Simcoe"," 129","Bradford West Gwillimbury",N,N,"130",0,461,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 129","Bradford West Gwillimbury",N,N,"130",0,461,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 129","Bradford West Gwillimbury",N,N,"130",0,461,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 129","Bradford West Gwillimbury",N,N,"130",0,461,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 130","Bradford West Gwillimbury",N,N,"",2,511,"Davidson","","Scot","Conservative","Conservateur",Y,Y,154
+35119,"York--Simcoe","York--Simcoe"," 130","Bradford West Gwillimbury",N,N,"",2,511,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+35119,"York--Simcoe","York--Simcoe"," 130","Bradford West Gwillimbury",N,N,"",2,511,"Johnson","","Daniella","Liberal","Libéral",N,N,118
+35119,"York--Simcoe","York--Simcoe"," 130","Bradford West Gwillimbury",N,N,"",2,511,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,25
+35119,"York--Simcoe","York--Simcoe"," 131","Bradford West Gwillimbury",N,N,"132",0,548,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 131","Bradford West Gwillimbury",N,N,"132",0,548,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 131","Bradford West Gwillimbury",N,N,"132",0,548,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 131","Bradford West Gwillimbury",N,N,"132",0,548,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 132","Bradford West Gwillimbury",N,N,"",2,611,"Davidson","","Scot","Conservative","Conservateur",Y,Y,167
+35119,"York--Simcoe","York--Simcoe"," 132","Bradford West Gwillimbury",N,N,"",2,611,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+35119,"York--Simcoe","York--Simcoe"," 132","Bradford West Gwillimbury",N,N,"",2,611,"Johnson","","Daniella","Liberal","Libéral",N,N,123
+35119,"York--Simcoe","York--Simcoe"," 132","Bradford West Gwillimbury",N,N,"",2,611,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,19
+35119,"York--Simcoe","York--Simcoe"," 133","Bradford West Gwillimbury",N,N,"136",0,444,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 133","Bradford West Gwillimbury",N,N,"136",0,444,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 133","Bradford West Gwillimbury",N,N,"136",0,444,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 133","Bradford West Gwillimbury",N,N,"136",0,444,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 134","Bradford West Gwillimbury",N,N,"",0,756,"Davidson","","Scot","Conservative","Conservateur",Y,Y,176
+35119,"York--Simcoe","York--Simcoe"," 134","Bradford West Gwillimbury",N,N,"",0,756,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+35119,"York--Simcoe","York--Simcoe"," 134","Bradford West Gwillimbury",N,N,"",0,756,"Johnson","","Daniella","Liberal","Libéral",N,N,123
+35119,"York--Simcoe","York--Simcoe"," 134","Bradford West Gwillimbury",N,N,"",0,756,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,24
+35119,"York--Simcoe","York--Simcoe"," 135","Bradford West Gwillimbury",N,N,"134",0,548,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 135","Bradford West Gwillimbury",N,N,"134",0,548,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 135","Bradford West Gwillimbury",N,N,"134",0,548,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 135","Bradford West Gwillimbury",N,N,"134",0,548,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 136","Bradford West Gwillimbury",N,N,"",3,730,"Davidson","","Scot","Conservative","Conservateur",Y,Y,145
+35119,"York--Simcoe","York--Simcoe"," 136","Bradford West Gwillimbury",N,N,"",3,730,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35119,"York--Simcoe","York--Simcoe"," 136","Bradford West Gwillimbury",N,N,"",3,730,"Johnson","","Daniella","Liberal","Libéral",N,N,79
+35119,"York--Simcoe","York--Simcoe"," 136","Bradford West Gwillimbury",N,N,"",3,730,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,19
+35119,"York--Simcoe","York--Simcoe"," 137","Bradford West Gwillimbury",N,N,"",2,836,"Davidson","","Scot","Conservative","Conservateur",Y,Y,98
+35119,"York--Simcoe","York--Simcoe"," 137","Bradford West Gwillimbury",N,N,"",2,836,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35119,"York--Simcoe","York--Simcoe"," 137","Bradford West Gwillimbury",N,N,"",2,836,"Johnson","","Daniella","Liberal","Libéral",N,N,76
+35119,"York--Simcoe","York--Simcoe"," 137","Bradford West Gwillimbury",N,N,"",2,836,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,17
+35119,"York--Simcoe","York--Simcoe"," 138","Bradford West Gwillimbury",N,N,"",3,772,"Davidson","","Scot","Conservative","Conservateur",Y,Y,98
+35119,"York--Simcoe","York--Simcoe"," 138","Bradford West Gwillimbury",N,N,"",3,772,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35119,"York--Simcoe","York--Simcoe"," 138","Bradford West Gwillimbury",N,N,"",3,772,"Johnson","","Daniella","Liberal","Libéral",N,N,67
+35119,"York--Simcoe","York--Simcoe"," 138","Bradford West Gwillimbury",N,N,"",3,772,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,22
+35119,"York--Simcoe","York--Simcoe"," 139","Bradford West Gwillimbury",N,N,"",2,587,"Davidson","","Scot","Conservative","Conservateur",Y,Y,132
+35119,"York--Simcoe","York--Simcoe"," 139","Bradford West Gwillimbury",N,N,"",2,587,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+35119,"York--Simcoe","York--Simcoe"," 139","Bradford West Gwillimbury",N,N,"",2,587,"Johnson","","Daniella","Liberal","Libéral",N,N,98
+35119,"York--Simcoe","York--Simcoe"," 139","Bradford West Gwillimbury",N,N,"",2,587,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,30
+35119,"York--Simcoe","York--Simcoe"," 140","Bradford West Gwillimbury",N,N,"",5,634,"Davidson","","Scot","Conservative","Conservateur",Y,Y,150
+35119,"York--Simcoe","York--Simcoe"," 140","Bradford West Gwillimbury",N,N,"",5,634,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,94
+35119,"York--Simcoe","York--Simcoe"," 140","Bradford West Gwillimbury",N,N,"",5,634,"Johnson","","Daniella","Liberal","Libéral",N,N,84
+35119,"York--Simcoe","York--Simcoe"," 140","Bradford West Gwillimbury",N,N,"",5,634,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,36
+35119,"York--Simcoe","York--Simcoe"," 141","Bradford West Gwillimbury",N,N,"140",0,463,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 141","Bradford West Gwillimbury",N,N,"140",0,463,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 141","Bradford West Gwillimbury",N,N,"140",0,463,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 141","Bradford West Gwillimbury",N,N,"140",0,463,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 142","Bradford West Gwillimbury",N,N,"",3,755,"Davidson","","Scot","Conservative","Conservateur",Y,Y,178
+35119,"York--Simcoe","York--Simcoe"," 142","Bradford West Gwillimbury",N,N,"",3,755,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35119,"York--Simcoe","York--Simcoe"," 142","Bradford West Gwillimbury",N,N,"",3,755,"Johnson","","Daniella","Liberal","Libéral",N,N,93
+35119,"York--Simcoe","York--Simcoe"," 142","Bradford West Gwillimbury",N,N,"",3,755,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,27
+35119,"York--Simcoe","York--Simcoe"," 143","Bradford West Gwillimbury",N,N,"139",0,525,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 143","Bradford West Gwillimbury",N,N,"139",0,525,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 143","Bradford West Gwillimbury",N,N,"139",0,525,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 143","Bradford West Gwillimbury",N,N,"139",0,525,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 144","Bradford West Gwillimbury",N,N,"",1,627,"Davidson","","Scot","Conservative","Conservateur",Y,Y,99
+35119,"York--Simcoe","York--Simcoe"," 144","Bradford West Gwillimbury",N,N,"",1,627,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35119,"York--Simcoe","York--Simcoe"," 144","Bradford West Gwillimbury",N,N,"",1,627,"Johnson","","Daniella","Liberal","Libéral",N,N,78
+35119,"York--Simcoe","York--Simcoe"," 144","Bradford West Gwillimbury",N,N,"",1,627,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,21
+35119,"York--Simcoe","York--Simcoe"," 145","Bradford West Gwillimbury",N,N,"",3,817,"Davidson","","Scot","Conservative","Conservateur",Y,Y,151
+35119,"York--Simcoe","York--Simcoe"," 145","Bradford West Gwillimbury",N,N,"",3,817,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35119,"York--Simcoe","York--Simcoe"," 145","Bradford West Gwillimbury",N,N,"",3,817,"Johnson","","Daniella","Liberal","Libéral",N,N,112
+35119,"York--Simcoe","York--Simcoe"," 145","Bradford West Gwillimbury",N,N,"",3,817,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,20
+35119,"York--Simcoe","York--Simcoe"," 146","Bradford West Gwillimbury",N,N,"",0,740,"Davidson","","Scot","Conservative","Conservateur",Y,Y,178
+35119,"York--Simcoe","York--Simcoe"," 146","Bradford West Gwillimbury",N,N,"",0,740,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35119,"York--Simcoe","York--Simcoe"," 146","Bradford West Gwillimbury",N,N,"",0,740,"Johnson","","Daniella","Liberal","Libéral",N,N,102
+35119,"York--Simcoe","York--Simcoe"," 146","Bradford West Gwillimbury",N,N,"",0,740,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,41
+35119,"York--Simcoe","York--Simcoe"," 147","Bradford West Gwillimbury",N,N,"",4,841,"Davidson","","Scot","Conservative","Conservateur",Y,Y,178
+35119,"York--Simcoe","York--Simcoe"," 147","Bradford West Gwillimbury",N,N,"",4,841,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35119,"York--Simcoe","York--Simcoe"," 147","Bradford West Gwillimbury",N,N,"",4,841,"Johnson","","Daniella","Liberal","Libéral",N,N,157
+35119,"York--Simcoe","York--Simcoe"," 147","Bradford West Gwillimbury",N,N,"",4,841,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,16
+35119,"York--Simcoe","York--Simcoe"," 148","Bradford West Gwillimbury",N,N,"",5,823,"Davidson","","Scot","Conservative","Conservateur",Y,Y,181
+35119,"York--Simcoe","York--Simcoe"," 148","Bradford West Gwillimbury",N,N,"",5,823,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35119,"York--Simcoe","York--Simcoe"," 148","Bradford West Gwillimbury",N,N,"",5,823,"Johnson","","Daniella","Liberal","Libéral",N,N,126
+35119,"York--Simcoe","York--Simcoe"," 148","Bradford West Gwillimbury",N,N,"",5,823,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,18
+35119,"York--Simcoe","York--Simcoe"," 149","Bradford West Gwillimbury",N,N,"148",0,471,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 149","Bradford West Gwillimbury",N,N,"148",0,471,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 149","Bradford West Gwillimbury",N,N,"148",0,471,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 149","Bradford West Gwillimbury",N,N,"148",0,471,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 150","Bradford West Gwillimbury",N,N,"147",0,423,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 150","Bradford West Gwillimbury",N,N,"147",0,423,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 150","Bradford West Gwillimbury",N,N,"147",0,423,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 150","Bradford West Gwillimbury",N,N,"147",0,423,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 151","Bradford West Gwillimbury",N,N,"142",0,403,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 151","Bradford West Gwillimbury",N,N,"142",0,403,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 151","Bradford West Gwillimbury",N,N,"142",0,403,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 151","Bradford West Gwillimbury",N,N,"142",0,403,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 152","Bradford West Gwillimbury",N,N,"146",0,526,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 152","Bradford West Gwillimbury",N,N,"146",0,526,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 152","Bradford West Gwillimbury",N,N,"146",0,526,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 152","Bradford West Gwillimbury",N,N,"146",0,526,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 153","King",N,N,"154",0,314,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 153","King",N,N,"154",0,314,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 153","King",N,N,"154",0,314,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 153","King",N,N,"154",0,314,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 154","King",N,N,"",4,638,"Davidson","","Scot","Conservative","Conservateur",Y,Y,248
+35119,"York--Simcoe","York--Simcoe"," 154","King",N,N,"",4,638,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35119,"York--Simcoe","York--Simcoe"," 154","King",N,N,"",4,638,"Johnson","","Daniella","Liberal","Libéral",N,N,103
+35119,"York--Simcoe","York--Simcoe"," 154","King",N,N,"",4,638,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,41
+35119,"York--Simcoe","York--Simcoe"," 400","Mobile poll/Bureau itinérant",N,N,"",7,152,"Davidson","","Scot","Conservative","Conservateur",Y,Y,39
+35119,"York--Simcoe","York--Simcoe"," 400","Mobile poll/Bureau itinérant",N,N,"",7,152,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35119,"York--Simcoe","York--Simcoe"," 400","Mobile poll/Bureau itinérant",N,N,"",7,152,"Johnson","","Daniella","Liberal","Libéral",N,N,17
+35119,"York--Simcoe","York--Simcoe"," 400","Mobile poll/Bureau itinérant",N,N,"",7,152,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,6
+35119,"York--Simcoe","York--Simcoe"," 401","Mobile poll/Bureau itinérant",N,N,"",1,116,"Davidson","","Scot","Conservative","Conservateur",Y,Y,22
+35119,"York--Simcoe","York--Simcoe"," 401","Mobile poll/Bureau itinérant",N,N,"",1,116,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35119,"York--Simcoe","York--Simcoe"," 401","Mobile poll/Bureau itinérant",N,N,"",1,116,"Johnson","","Daniella","Liberal","Libéral",N,N,21
+35119,"York--Simcoe","York--Simcoe"," 401","Mobile poll/Bureau itinérant",N,N,"",1,116,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,1
+35119,"York--Simcoe","York--Simcoe"," 402","Mobile poll/Bureau itinérant",N,N,"",2,116,"Davidson","","Scot","Conservative","Conservateur",Y,Y,21
+35119,"York--Simcoe","York--Simcoe"," 402","Mobile poll/Bureau itinérant",N,N,"",2,116,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35119,"York--Simcoe","York--Simcoe"," 402","Mobile poll/Bureau itinérant",N,N,"",2,116,"Johnson","","Daniella","Liberal","Libéral",N,N,25
+35119,"York--Simcoe","York--Simcoe"," 402","Mobile poll/Bureau itinérant",N,N,"",2,116,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,1
+35119,"York--Simcoe","York--Simcoe"," 500","Mobile poll/Bureau itinérant",N,N,"13",0,38,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 500","Mobile poll/Bureau itinérant",N,N,"13",0,38,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 500","Mobile poll/Bureau itinérant",N,N,"13",0,38,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 500","Mobile poll/Bureau itinérant",N,N,"13",0,38,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 501","Mobile poll/Bureau itinérant",N,N,"65",0,27,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 501","Mobile poll/Bureau itinérant",N,N,"65",0,27,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 501","Mobile poll/Bureau itinérant",N,N,"65",0,27,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 501","Mobile poll/Bureau itinérant",N,N,"65",0,27,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 502","Mobile poll/Bureau itinérant",N,N,"19",0,26,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 502","Mobile poll/Bureau itinérant",N,N,"19",0,26,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 502","Mobile poll/Bureau itinérant",N,N,"19",0,26,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 502","Mobile poll/Bureau itinérant",N,N,"19",0,26,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 503","Mobile poll/Bureau itinérant",N,N,"",1,50,"Davidson","","Scot","Conservative","Conservateur",Y,Y,11
+35119,"York--Simcoe","York--Simcoe"," 503","Mobile poll/Bureau itinérant",N,N,"",1,50,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35119,"York--Simcoe","York--Simcoe"," 503","Mobile poll/Bureau itinérant",N,N,"",1,50,"Johnson","","Daniella","Liberal","Libéral",N,N,7
+35119,"York--Simcoe","York--Simcoe"," 503","Mobile poll/Bureau itinérant",N,N,"",1,50,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,2
+35119,"York--Simcoe","York--Simcoe"," 504","Mobile poll/Bureau itinérant",N,N,"11",0,21,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 504","Mobile poll/Bureau itinérant",N,N,"11",0,21,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 504","Mobile poll/Bureau itinérant",N,N,"11",0,21,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 504","Mobile poll/Bureau itinérant",N,N,"11",0,21,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 505","Mobile poll/Bureau itinérant",N,N,"28",0,37,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 505","Mobile poll/Bureau itinérant",N,N,"28",0,37,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 505","Mobile poll/Bureau itinérant",N,N,"28",0,37,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 505","Mobile poll/Bureau itinérant",N,N,"28",0,37,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 506","Mobile poll/Bureau itinérant",N,N,"43",0,18,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 506","Mobile poll/Bureau itinérant",N,N,"43",0,18,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 506","Mobile poll/Bureau itinérant",N,N,"43",0,18,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 506","Mobile poll/Bureau itinérant",N,N,"43",0,18,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 507","Mobile poll/Bureau itinérant",N,N,"93",0,32,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 507","Mobile poll/Bureau itinérant",N,N,"93",0,32,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 507","Mobile poll/Bureau itinérant",N,N,"93",0,32,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 507","Mobile poll/Bureau itinérant",N,N,"93",0,32,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 508","Mobile poll/Bureau itinérant",N,N,"72",0,23,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 508","Mobile poll/Bureau itinérant",N,N,"72",0,23,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 508","Mobile poll/Bureau itinérant",N,N,"72",0,23,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 508","Mobile poll/Bureau itinérant",N,N,"72",0,23,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 509","Mobile poll/Bureau itinérant",N,N,"92",0,34,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 509","Mobile poll/Bureau itinérant",N,N,"92",0,34,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 509","Mobile poll/Bureau itinérant",N,N,"92",0,34,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 509","Mobile poll/Bureau itinérant",N,N,"92",0,34,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 510","Mobile poll/Bureau itinérant",N,N,"92",0,60,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 510","Mobile poll/Bureau itinérant",N,N,"92",0,60,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 510","Mobile poll/Bureau itinérant",N,N,"92",0,60,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 510","Mobile poll/Bureau itinérant",N,N,"92",0,60,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 511","Mobile poll/Bureau itinérant",N,N,"81",0,19,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 511","Mobile poll/Bureau itinérant",N,N,"81",0,19,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 511","Mobile poll/Bureau itinérant",N,N,"81",0,19,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 511","Mobile poll/Bureau itinérant",N,N,"81",0,19,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 512","Mobile poll/Bureau itinérant",N,N,"91",0,23,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 512","Mobile poll/Bureau itinérant",N,N,"91",0,23,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 512","Mobile poll/Bureau itinérant",N,N,"91",0,23,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 512","Mobile poll/Bureau itinérant",N,N,"91",0,23,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 513","Mobile poll/Bureau itinérant",N,N,"86",0,22,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 513","Mobile poll/Bureau itinérant",N,N,"86",0,22,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 513","Mobile poll/Bureau itinérant",N,N,"86",0,22,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 513","Mobile poll/Bureau itinérant",N,N,"86",0,22,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 514","Mobile poll/Bureau itinérant",N,N,"102",0,41,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 514","Mobile poll/Bureau itinérant",N,N,"102",0,41,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 514","Mobile poll/Bureau itinérant",N,N,"102",0,41,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 514","Mobile poll/Bureau itinérant",N,N,"102",0,41,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 515","Mobile poll/Bureau itinérant",N,N,"83",0,19,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 515","Mobile poll/Bureau itinérant",N,N,"83",0,19,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 515","Mobile poll/Bureau itinérant",N,N,"83",0,19,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 515","Mobile poll/Bureau itinérant",N,N,"83",0,19,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 516","Mobile poll/Bureau itinérant",N,N,"80",0,32,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 516","Mobile poll/Bureau itinérant",N,N,"80",0,32,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 516","Mobile poll/Bureau itinérant",N,N,"80",0,32,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 516","Mobile poll/Bureau itinérant",N,N,"80",0,32,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 517","Mobile poll/Bureau itinérant",N,N,"119",0,29,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 517","Mobile poll/Bureau itinérant",N,N,"119",0,29,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 517","Mobile poll/Bureau itinérant",N,N,"119",0,29,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 517","Mobile poll/Bureau itinérant",N,N,"119",0,29,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 518","Mobile poll/Bureau itinérant",N,N,"119",0,20,"Davidson","","Scot","Conservative","Conservateur",Y,Y,0
+35119,"York--Simcoe","York--Simcoe"," 518","Mobile poll/Bureau itinérant",N,N,"119",0,20,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 518","Mobile poll/Bureau itinérant",N,N,"119",0,20,"Johnson","","Daniella","Liberal","Libéral",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 518","Mobile poll/Bureau itinérant",N,N,"119",0,20,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,0
+35119,"York--Simcoe","York--Simcoe"," 600","Georgina",N,N,"",7,0,"Davidson","","Scot","Conservative","Conservateur",Y,Y,605
+35119,"York--Simcoe","York--Simcoe"," 600","Georgina",N,N,"",7,0,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,122
+35119,"York--Simcoe","York--Simcoe"," 600","Georgina",N,N,"",7,0,"Johnson","","Daniella","Liberal","Libéral",N,N,258
+35119,"York--Simcoe","York--Simcoe"," 600","Georgina",N,N,"",7,0,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,66
+35119,"York--Simcoe","York--Simcoe"," 601","Georgina",N,N,"",3,0,"Davidson","","Scot","Conservative","Conservateur",Y,Y,416
+35119,"York--Simcoe","York--Simcoe"," 601","Georgina",N,N,"",3,0,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,83
+35119,"York--Simcoe","York--Simcoe"," 601","Georgina",N,N,"",3,0,"Johnson","","Daniella","Liberal","Libéral",N,N,189
+35119,"York--Simcoe","York--Simcoe"," 601","Georgina",N,N,"",3,0,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,91
+35119,"York--Simcoe","York--Simcoe"," 602","Georgina",N,N,"",2,0,"Davidson","","Scot","Conservative","Conservateur",Y,Y,455
+35119,"York--Simcoe","York--Simcoe"," 602","Georgina",N,N,"",2,0,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,91
+35119,"York--Simcoe","York--Simcoe"," 602","Georgina",N,N,"",2,0,"Johnson","","Daniella","Liberal","Libéral",N,N,147
+35119,"York--Simcoe","York--Simcoe"," 602","Georgina",N,N,"",2,0,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,58
+35119,"York--Simcoe","York--Simcoe"," 603","Georgina",N,N,"",0,0,"Davidson","","Scot","Conservative","Conservateur",Y,Y,336
+35119,"York--Simcoe","York--Simcoe"," 603","Georgina",N,N,"",0,0,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+35119,"York--Simcoe","York--Simcoe"," 603","Georgina",N,N,"",0,0,"Johnson","","Daniella","Liberal","Libéral",N,N,124
+35119,"York--Simcoe","York--Simcoe"," 603","Georgina",N,N,"",0,0,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,50
+35119,"York--Simcoe","York--Simcoe"," 604","Georgina",N,N,"",1,0,"Davidson","","Scot","Conservative","Conservateur",Y,Y,506
+35119,"York--Simcoe","York--Simcoe"," 604","Georgina",N,N,"",1,0,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+35119,"York--Simcoe","York--Simcoe"," 604","Georgina",N,N,"",1,0,"Johnson","","Daniella","Liberal","Libéral",N,N,176
+35119,"York--Simcoe","York--Simcoe"," 604","Georgina",N,N,"",1,0,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,66
+35119,"York--Simcoe","York--Simcoe"," 605","Georgina",N,N,"",4,0,"Davidson","","Scot","Conservative","Conservateur",Y,Y,558
+35119,"York--Simcoe","York--Simcoe"," 605","Georgina",N,N,"",4,0,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,97
+35119,"York--Simcoe","York--Simcoe"," 605","Georgina",N,N,"",4,0,"Johnson","","Daniella","Liberal","Libéral",N,N,255
+35119,"York--Simcoe","York--Simcoe"," 605","Georgina",N,N,"",4,0,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,83
+35119,"York--Simcoe","York--Simcoe"," 606","Georgina",N,N,"",8,0,"Davidson","","Scot","Conservative","Conservateur",Y,Y,466
+35119,"York--Simcoe","York--Simcoe"," 606","Georgina",N,N,"",8,0,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,122
+35119,"York--Simcoe","York--Simcoe"," 606","Georgina",N,N,"",8,0,"Johnson","","Daniella","Liberal","Libéral",N,N,232
+35119,"York--Simcoe","York--Simcoe"," 606","Georgina",N,N,"",8,0,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,75
+35119,"York--Simcoe","York--Simcoe"," 607","Georgina",N,N,"",5,0,"Davidson","","Scot","Conservative","Conservateur",Y,Y,368
+35119,"York--Simcoe","York--Simcoe"," 607","Georgina",N,N,"",5,0,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,84
+35119,"York--Simcoe","York--Simcoe"," 607","Georgina",N,N,"",5,0,"Johnson","","Daniella","Liberal","Libéral",N,N,189
+35119,"York--Simcoe","York--Simcoe"," 607","Georgina",N,N,"",5,0,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,42
+35119,"York--Simcoe","York--Simcoe"," 608","Georgina",N,N,"",2,0,"Davidson","","Scot","Conservative","Conservateur",Y,Y,363
+35119,"York--Simcoe","York--Simcoe"," 608","Georgina",N,N,"",2,0,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,97
+35119,"York--Simcoe","York--Simcoe"," 608","Georgina",N,N,"",2,0,"Johnson","","Daniella","Liberal","Libéral",N,N,145
+35119,"York--Simcoe","York--Simcoe"," 608","Georgina",N,N,"",2,0,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,50
+35119,"York--Simcoe","York--Simcoe"," 609","Georgina",N,N,"",6,0,"Davidson","","Scot","Conservative","Conservateur",Y,Y,387
+35119,"York--Simcoe","York--Simcoe"," 609","Georgina",N,N,"",6,0,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,96
+35119,"York--Simcoe","York--Simcoe"," 609","Georgina",N,N,"",6,0,"Johnson","","Daniella","Liberal","Libéral",N,N,218
+35119,"York--Simcoe","York--Simcoe"," 609","Georgina",N,N,"",6,0,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,47
+35119,"York--Simcoe","York--Simcoe"," 610","Bradford West Gwillimbury",N,N,"",2,0,"Davidson","","Scot","Conservative","Conservateur",Y,Y,377
+35119,"York--Simcoe","York--Simcoe"," 610","Bradford West Gwillimbury",N,N,"",2,0,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+35119,"York--Simcoe","York--Simcoe"," 610","Bradford West Gwillimbury",N,N,"",2,0,"Johnson","","Daniella","Liberal","Libéral",N,N,259
+35119,"York--Simcoe","York--Simcoe"," 610","Bradford West Gwillimbury",N,N,"",2,0,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,53
+35119,"York--Simcoe","York--Simcoe"," 611","Bradford West Gwillimbury",N,N,"",15,0,"Davidson","","Scot","Conservative","Conservateur",Y,Y,509
+35119,"York--Simcoe","York--Simcoe"," 611","Bradford West Gwillimbury",N,N,"",15,0,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+35119,"York--Simcoe","York--Simcoe"," 611","Bradford West Gwillimbury",N,N,"",15,0,"Johnson","","Daniella","Liberal","Libéral",N,N,205
+35119,"York--Simcoe","York--Simcoe"," 611","Bradford West Gwillimbury",N,N,"",15,0,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,80
+35119,"York--Simcoe","York--Simcoe"," 612","Bradford West Gwillimbury",N,N,"",5,0,"Davidson","","Scot","Conservative","Conservateur",Y,Y,435
+35119,"York--Simcoe","York--Simcoe"," 612","Bradford West Gwillimbury",N,N,"",5,0,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,86
+35119,"York--Simcoe","York--Simcoe"," 612","Bradford West Gwillimbury",N,N,"",5,0,"Johnson","","Daniella","Liberal","Libéral",N,N,285
+35119,"York--Simcoe","York--Simcoe"," 612","Bradford West Gwillimbury",N,N,"",5,0,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,87
+35119,"York--Simcoe","York--Simcoe"," 613","Bradford West Gwillimbury",N,N,"",2,0,"Davidson","","Scot","Conservative","Conservateur",Y,Y,418
+35119,"York--Simcoe","York--Simcoe"," 613","Bradford West Gwillimbury",N,N,"",2,0,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+35119,"York--Simcoe","York--Simcoe"," 613","Bradford West Gwillimbury",N,N,"",2,0,"Johnson","","Daniella","Liberal","Libéral",N,N,294
+35119,"York--Simcoe","York--Simcoe"," 613","Bradford West Gwillimbury",N,N,"",2,0,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,86
+35119,"York--Simcoe","York--Simcoe"," 614","Bradford West Gwillimbury",N,N,"",3,0,"Davidson","","Scot","Conservative","Conservateur",Y,Y,370
+35119,"York--Simcoe","York--Simcoe"," 614","Bradford West Gwillimbury",N,N,"",3,0,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,106
+35119,"York--Simcoe","York--Simcoe"," 614","Bradford West Gwillimbury",N,N,"",3,0,"Johnson","","Daniella","Liberal","Libéral",N,N,238
+35119,"York--Simcoe","York--Simcoe"," 614","Bradford West Gwillimbury",N,N,"",3,0,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,60
+35119,"York--Simcoe","York--Simcoe"," 615","Bradford West Gwillimbury",N,N,"",4,0,"Davidson","","Scot","Conservative","Conservateur",Y,Y,413
+35119,"York--Simcoe","York--Simcoe"," 615","Bradford West Gwillimbury",N,N,"",4,0,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,96
+35119,"York--Simcoe","York--Simcoe"," 615","Bradford West Gwillimbury",N,N,"",4,0,"Johnson","","Daniella","Liberal","Libéral",N,N,238
+35119,"York--Simcoe","York--Simcoe"," 615","Bradford West Gwillimbury",N,N,"",4,0,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,55
+35119,"York--Simcoe","York--Simcoe"," 616","Bradford West Gwillimbury",N,N,"",1,0,"Davidson","","Scot","Conservative","Conservateur",Y,Y,339
+35119,"York--Simcoe","York--Simcoe"," 616","Bradford West Gwillimbury",N,N,"",1,0,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,91
+35119,"York--Simcoe","York--Simcoe"," 616","Bradford West Gwillimbury",N,N,"",1,0,"Johnson","","Daniella","Liberal","Libéral",N,N,205
+35119,"York--Simcoe","York--Simcoe"," 616","Bradford West Gwillimbury",N,N,"",1,0,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,54
+35119,"York--Simcoe","York--Simcoe"," 617","Bradford West Gwillimbury",N,N,"",7,0,"Davidson","","Scot","Conservative","Conservateur",Y,Y,381
+35119,"York--Simcoe","York--Simcoe"," 617","Bradford West Gwillimbury",N,N,"",7,0,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,105
+35119,"York--Simcoe","York--Simcoe"," 617","Bradford West Gwillimbury",N,N,"",7,0,"Johnson","","Daniella","Liberal","Libéral",N,N,202
+35119,"York--Simcoe","York--Simcoe"," 617","Bradford West Gwillimbury",N,N,"",7,0,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,61
+35119,"York--Simcoe","York--Simcoe"," 618","East Gwillimbury",N,N,"",1,0,"Davidson","","Scot","Conservative","Conservateur",Y,Y,351
+35119,"York--Simcoe","York--Simcoe"," 618","East Gwillimbury",N,N,"",1,0,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35119,"York--Simcoe","York--Simcoe"," 618","East Gwillimbury",N,N,"",1,0,"Johnson","","Daniella","Liberal","Libéral",N,N,205
+35119,"York--Simcoe","York--Simcoe"," 618","East Gwillimbury",N,N,"",1,0,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,43
+35119,"York--Simcoe","York--Simcoe"," 619","East Gwillimbury",N,N,"",7,0,"Davidson","","Scot","Conservative","Conservateur",Y,Y,415
+35119,"York--Simcoe","York--Simcoe"," 619","East Gwillimbury",N,N,"",7,0,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,88
+35119,"York--Simcoe","York--Simcoe"," 619","East Gwillimbury",N,N,"",7,0,"Johnson","","Daniella","Liberal","Libéral",N,N,298
+35119,"York--Simcoe","York--Simcoe"," 619","East Gwillimbury",N,N,"",7,0,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,76
+35119,"York--Simcoe","York--Simcoe"," 620","East Gwillimbury",N,N,"",12,0,"Davidson","","Scot","Conservative","Conservateur",Y,Y,579
+35119,"York--Simcoe","York--Simcoe"," 620","East Gwillimbury",N,N,"",12,0,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,83
+35119,"York--Simcoe","York--Simcoe"," 620","East Gwillimbury",N,N,"",12,0,"Johnson","","Daniella","Liberal","Libéral",N,N,330
+35119,"York--Simcoe","York--Simcoe"," 620","East Gwillimbury",N,N,"",12,0,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,81
+35119,"York--Simcoe","York--Simcoe"," 621","East Gwillimbury",N,N,"",4,0,"Davidson","","Scot","Conservative","Conservateur",Y,Y,499
+35119,"York--Simcoe","York--Simcoe"," 621","East Gwillimbury",N,N,"",4,0,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+35119,"York--Simcoe","York--Simcoe"," 621","East Gwillimbury",N,N,"",4,0,"Johnson","","Daniella","Liberal","Libéral",N,N,236
+35119,"York--Simcoe","York--Simcoe"," 621","East Gwillimbury",N,N,"",4,0,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,48
+35119,"York--Simcoe","York--Simcoe"," 622","East Gwillimbury",N,N,"",4,0,"Davidson","","Scot","Conservative","Conservateur",Y,Y,470
+35119,"York--Simcoe","York--Simcoe"," 622","East Gwillimbury",N,N,"",4,0,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+35119,"York--Simcoe","York--Simcoe"," 622","East Gwillimbury",N,N,"",4,0,"Johnson","","Daniella","Liberal","Libéral",N,N,223
+35119,"York--Simcoe","York--Simcoe"," 622","East Gwillimbury",N,N,"",4,0,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,75
+35119,"York--Simcoe","York--Simcoe"," 623","East Gwillimbury",N,N,"",12,0,"Davidson","","Scot","Conservative","Conservateur",Y,Y,465
+35119,"York--Simcoe","York--Simcoe"," 623","East Gwillimbury",N,N,"",12,0,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,133
+35119,"York--Simcoe","York--Simcoe"," 623","East Gwillimbury",N,N,"",12,0,"Johnson","","Daniella","Liberal","Libéral",N,N,305
+35119,"York--Simcoe","York--Simcoe"," 623","East Gwillimbury",N,N,"",12,0,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,60
+35119,"York--Simcoe","York--Simcoe"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",33,102,"Davidson","","Scot","Conservative","Conservateur",Y,Y,113
+35119,"York--Simcoe","York--Simcoe"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",33,102,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,90
+35119,"York--Simcoe","York--Simcoe"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",33,102,"Johnson","","Daniella","Liberal","Libéral",N,N,115
+35119,"York--Simcoe","York--Simcoe"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",33,102,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,22
+35119,"York--Simcoe","York--Simcoe"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",86,0,"Davidson","","Scot","Conservative","Conservateur",Y,Y,686
+35119,"York--Simcoe","York--Simcoe"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",86,0,"Jenkins","","Benjamin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,269
+35119,"York--Simcoe","York--Simcoe"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",86,0,"Johnson","","Daniella","Liberal","Libéral",N,N,621
+35119,"York--Simcoe","York--Simcoe"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",86,0,"Lotter","","Michael","People's Party - PPC","Parti populaire - PPC",N,N,84

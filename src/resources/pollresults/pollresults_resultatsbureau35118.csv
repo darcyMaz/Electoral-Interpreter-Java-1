@@ -1,0 +1,801 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+35118,"York Centre","York-Centre"," 1","Toronto",N,N,"",2,522,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35118,"York Centre","York-Centre"," 1","Toronto",N,N,"",2,522,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,60
+35118,"York Centre","York-Centre"," 1","Toronto",N,N,"",2,522,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,10
+35118,"York Centre","York-Centre"," 1","Toronto",N,N,"",2,522,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,42
+35118,"York Centre","York-Centre"," 2","Toronto",N,N,"",1,451,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35118,"York Centre","York-Centre"," 2","Toronto",N,N,"",1,451,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,128
+35118,"York Centre","York-Centre"," 2","Toronto",N,N,"",1,451,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,8
+35118,"York Centre","York-Centre"," 2","Toronto",N,N,"",1,451,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,65
+35118,"York Centre","York-Centre"," 3","Toronto",N,N,"",2,547,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35118,"York Centre","York-Centre"," 3","Toronto",N,N,"",2,547,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,44
+35118,"York Centre","York-Centre"," 3","Toronto",N,N,"",2,547,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,3
+35118,"York Centre","York-Centre"," 3","Toronto",N,N,"",2,547,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,51
+35118,"York Centre","York-Centre"," 4","Toronto",N,N,"",0,363,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35118,"York Centre","York-Centre"," 4","Toronto",N,N,"",0,363,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,93
+35118,"York Centre","York-Centre"," 4","Toronto",N,N,"",0,363,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,11
+35118,"York Centre","York-Centre"," 4","Toronto",N,N,"",0,363,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,48
+35118,"York Centre","York-Centre"," 5","Toronto",N,N,"4",0,331,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 5","Toronto",N,N,"4",0,331,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 5","Toronto",N,N,"4",0,331,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 5","Toronto",N,N,"4",0,331,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 6","Toronto",N,N,"",1,401,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35118,"York Centre","York-Centre"," 6","Toronto",N,N,"",1,401,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,87
+35118,"York Centre","York-Centre"," 6","Toronto",N,N,"",1,401,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,6
+35118,"York Centre","York-Centre"," 6","Toronto",N,N,"",1,401,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,52
+35118,"York Centre","York-Centre"," 7","Toronto",N,N,"6",0,337,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 7","Toronto",N,N,"6",0,337,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 7","Toronto",N,N,"6",0,337,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 7","Toronto",N,N,"6",0,337,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 8","Toronto",N,N,"",0,565,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35118,"York Centre","York-Centre"," 8","Toronto",N,N,"",0,565,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,52
+35118,"York Centre","York-Centre"," 8","Toronto",N,N,"",0,565,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,3
+35118,"York Centre","York-Centre"," 8","Toronto",N,N,"",0,565,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,20
+35118,"York Centre","York-Centre"," 9","Toronto",N,N,"",0,561,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35118,"York Centre","York-Centre"," 9","Toronto",N,N,"",0,561,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,33
+35118,"York Centre","York-Centre"," 9","Toronto",N,N,"",0,561,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,3
+35118,"York Centre","York-Centre"," 9","Toronto",N,N,"",0,561,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,37
+35118,"York Centre","York-Centre"," 10","Toronto",N,N,"13",0,376,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 10","Toronto",N,N,"13",0,376,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 10","Toronto",N,N,"13",0,376,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 10","Toronto",N,N,"13",0,376,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 11","Toronto",N,N,"",1,594,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35118,"York Centre","York-Centre"," 11","Toronto",N,N,"",1,594,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,33
+35118,"York Centre","York-Centre"," 11","Toronto",N,N,"",1,594,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,7
+35118,"York Centre","York-Centre"," 11","Toronto",N,N,"",1,594,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,28
+35118,"York Centre","York-Centre"," 12","Toronto",N,N,"",4,544,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35118,"York Centre","York-Centre"," 12","Toronto",N,N,"",4,544,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,65
+35118,"York Centre","York-Centre"," 12","Toronto",N,N,"",4,544,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,7
+35118,"York Centre","York-Centre"," 12","Toronto",N,N,"",4,544,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,75
+35118,"York Centre","York-Centre"," 13","Toronto",N,N,"",0,396,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35118,"York Centre","York-Centre"," 13","Toronto",N,N,"",0,396,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,78
+35118,"York Centre","York-Centre"," 13","Toronto",N,N,"",0,396,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,14
+35118,"York Centre","York-Centre"," 13","Toronto",N,N,"",0,396,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,61
+35118,"York Centre","York-Centre"," 14","Toronto",N,N,"",1,403,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35118,"York Centre","York-Centre"," 14","Toronto",N,N,"",1,403,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,57
+35118,"York Centre","York-Centre"," 14","Toronto",N,N,"",1,403,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,14
+35118,"York Centre","York-Centre"," 14","Toronto",N,N,"",1,403,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,73
+35118,"York Centre","York-Centre"," 15","Toronto",N,N,"14",0,130,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 15","Toronto",N,N,"14",0,130,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 15","Toronto",N,N,"14",0,130,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 15","Toronto",N,N,"14",0,130,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 16","Toronto",N,N,"",2,608,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35118,"York Centre","York-Centre"," 16","Toronto",N,N,"",2,608,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,56
+35118,"York Centre","York-Centre"," 16","Toronto",N,N,"",2,608,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,8
+35118,"York Centre","York-Centre"," 16","Toronto",N,N,"",2,608,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,103
+35118,"York Centre","York-Centre"," 17","Toronto",N,N,"",3,516,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35118,"York Centre","York-Centre"," 17","Toronto",N,N,"",3,516,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,49
+35118,"York Centre","York-Centre"," 17","Toronto",N,N,"",3,516,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,7
+35118,"York Centre","York-Centre"," 17","Toronto",N,N,"",3,516,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,77
+35118,"York Centre","York-Centre"," 18","Toronto",N,N,"",2,488,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35118,"York Centre","York-Centre"," 18","Toronto",N,N,"",2,488,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,69
+35118,"York Centre","York-Centre"," 18","Toronto",N,N,"",2,488,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,10
+35118,"York Centre","York-Centre"," 18","Toronto",N,N,"",2,488,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,34
+35118,"York Centre","York-Centre"," 19","Toronto",N,N,"",2,395,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35118,"York Centre","York-Centre"," 19","Toronto",N,N,"",2,395,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,39
+35118,"York Centre","York-Centre"," 19","Toronto",N,N,"",2,395,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,5
+35118,"York Centre","York-Centre"," 19","Toronto",N,N,"",2,395,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,48
+35118,"York Centre","York-Centre"," 20","Toronto",N,N,"2",0,438,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 20","Toronto",N,N,"2",0,438,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 20","Toronto",N,N,"2",0,438,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 20","Toronto",N,N,"2",0,438,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 21","Toronto",N,N,"",2,572,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35118,"York Centre","York-Centre"," 21","Toronto",N,N,"",2,572,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,54
+35118,"York Centre","York-Centre"," 21","Toronto",N,N,"",2,572,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,14
+35118,"York Centre","York-Centre"," 21","Toronto",N,N,"",2,572,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,78
+35118,"York Centre","York-Centre"," 22","Toronto",N,N,"",1,543,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35118,"York Centre","York-Centre"," 22","Toronto",N,N,"",1,543,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,55
+35118,"York Centre","York-Centre"," 22","Toronto",N,N,"",1,543,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,7
+35118,"York Centre","York-Centre"," 22","Toronto",N,N,"",1,543,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,66
+35118,"York Centre","York-Centre"," 23","Toronto",N,N,"26",0,368,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 23","Toronto",N,N,"26",0,368,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 23","Toronto",N,N,"26",0,368,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 23","Toronto",N,N,"26",0,368,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 24","Toronto",N,N,"",1,419,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35118,"York Centre","York-Centre"," 24","Toronto",N,N,"",1,419,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,85
+35118,"York Centre","York-Centre"," 24","Toronto",N,N,"",1,419,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,15
+35118,"York Centre","York-Centre"," 24","Toronto",N,N,"",1,419,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,111
+35118,"York Centre","York-Centre"," 25","Toronto",N,N,"24",0,344,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 25","Toronto",N,N,"24",0,344,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 25","Toronto",N,N,"24",0,344,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 25","Toronto",N,N,"24",0,344,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 26","Toronto",N,N,"",4,364,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35118,"York Centre","York-Centre"," 26","Toronto",N,N,"",4,364,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,68
+35118,"York Centre","York-Centre"," 26","Toronto",N,N,"",4,364,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,6
+35118,"York Centre","York-Centre"," 26","Toronto",N,N,"",4,364,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,88
+35118,"York Centre","York-Centre"," 27","Toronto",N,N,"",1,487,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35118,"York Centre","York-Centre"," 27","Toronto",N,N,"",1,487,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,63
+35118,"York Centre","York-Centre"," 27","Toronto",N,N,"",1,487,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,11
+35118,"York Centre","York-Centre"," 27","Toronto",N,N,"",1,487,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,57
+35118,"York Centre","York-Centre"," 28","Toronto",N,N,"",0,438,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35118,"York Centre","York-Centre"," 28","Toronto",N,N,"",0,438,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,44
+35118,"York Centre","York-Centre"," 28","Toronto",N,N,"",0,438,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,5
+35118,"York Centre","York-Centre"," 28","Toronto",N,N,"",0,438,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,43
+35118,"York Centre","York-Centre"," 29","Toronto",N,N,"",0,596,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35118,"York Centre","York-Centre"," 29","Toronto",N,N,"",0,596,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,50
+35118,"York Centre","York-Centre"," 29","Toronto",N,N,"",0,596,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,11
+35118,"York Centre","York-Centre"," 29","Toronto",N,N,"",0,596,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,97
+35118,"York Centre","York-Centre"," 30","Toronto",N,N,"",1,385,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35118,"York Centre","York-Centre"," 30","Toronto",N,N,"",1,385,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,109
+35118,"York Centre","York-Centre"," 30","Toronto",N,N,"",1,385,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,7
+35118,"York Centre","York-Centre"," 30","Toronto",N,N,"",1,385,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,112
+35118,"York Centre","York-Centre"," 31","Toronto",N,N,"",1,599,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35118,"York Centre","York-Centre"," 31","Toronto",N,N,"",1,599,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,85
+35118,"York Centre","York-Centre"," 31","Toronto",N,N,"",1,599,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,4
+35118,"York Centre","York-Centre"," 31","Toronto",N,N,"",1,599,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,79
+35118,"York Centre","York-Centre"," 32","Toronto",N,N,"",2,463,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35118,"York Centre","York-Centre"," 32","Toronto",N,N,"",2,463,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,52
+35118,"York Centre","York-Centre"," 32","Toronto",N,N,"",2,463,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,8
+35118,"York Centre","York-Centre"," 32","Toronto",N,N,"",2,463,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,57
+35118,"York Centre","York-Centre"," 33","Toronto",N,N,"",0,440,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35118,"York Centre","York-Centre"," 33","Toronto",N,N,"",0,440,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,39
+35118,"York Centre","York-Centre"," 33","Toronto",N,N,"",0,440,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,6
+35118,"York Centre","York-Centre"," 33","Toronto",N,N,"",0,440,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,44
+35118,"York Centre","York-Centre"," 34","Toronto",N,N,"",1,361,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35118,"York Centre","York-Centre"," 34","Toronto",N,N,"",1,361,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,67
+35118,"York Centre","York-Centre"," 34","Toronto",N,N,"",1,361,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,11
+35118,"York Centre","York-Centre"," 34","Toronto",N,N,"",1,361,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,74
+35118,"York Centre","York-Centre"," 35A","Toronto",N,N,"30",0,378,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 35A","Toronto",N,N,"30",0,378,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 35A","Toronto",N,N,"30",0,378,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 35A","Toronto",N,N,"30",0,378,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 35B","Toronto",N,N,"431",0,154,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 35B","Toronto",N,N,"431",0,154,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 35B","Toronto",N,N,"431",0,154,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 35B","Toronto",N,N,"431",0,154,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 36","Toronto",N,N,"",3,475,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35118,"York Centre","York-Centre"," 36","Toronto",N,N,"",3,475,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,59
+35118,"York Centre","York-Centre"," 36","Toronto",N,N,"",3,475,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 36","Toronto",N,N,"",3,475,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,51
+35118,"York Centre","York-Centre"," 37","Toronto",N,N,"",0,513,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35118,"York Centre","York-Centre"," 37","Toronto",N,N,"",0,513,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,52
+35118,"York Centre","York-Centre"," 37","Toronto",N,N,"",0,513,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,8
+35118,"York Centre","York-Centre"," 37","Toronto",N,N,"",0,513,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,61
+35118,"York Centre","York-Centre"," 38","Toronto",N,N,"55",0,373,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 38","Toronto",N,N,"55",0,373,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 38","Toronto",N,N,"55",0,373,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 38","Toronto",N,N,"55",0,373,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 39","Toronto",N,N,"",0,417,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35118,"York Centre","York-Centre"," 39","Toronto",N,N,"",0,417,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,47
+35118,"York Centre","York-Centre"," 39","Toronto",N,N,"",0,417,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,6
+35118,"York Centre","York-Centre"," 39","Toronto",N,N,"",0,417,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,56
+35118,"York Centre","York-Centre"," 40","Toronto",N,N,"",2,397,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35118,"York Centre","York-Centre"," 40","Toronto",N,N,"",2,397,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,71
+35118,"York Centre","York-Centre"," 40","Toronto",N,N,"",2,397,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,9
+35118,"York Centre","York-Centre"," 40","Toronto",N,N,"",2,397,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,76
+35118,"York Centre","York-Centre"," 41","Toronto",N,N,"40",0,388,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 41","Toronto",N,N,"40",0,388,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 41","Toronto",N,N,"40",0,388,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 41","Toronto",N,N,"40",0,388,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 42","Toronto",N,N,"",1,491,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35118,"York Centre","York-Centre"," 42","Toronto",N,N,"",1,491,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,48
+35118,"York Centre","York-Centre"," 42","Toronto",N,N,"",1,491,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,8
+35118,"York Centre","York-Centre"," 42","Toronto",N,N,"",1,491,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,42
+35118,"York Centre","York-Centre"," 43","Toronto",N,N,"",2,525,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35118,"York Centre","York-Centre"," 43","Toronto",N,N,"",2,525,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,48
+35118,"York Centre","York-Centre"," 43","Toronto",N,N,"",2,525,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,8
+35118,"York Centre","York-Centre"," 43","Toronto",N,N,"",2,525,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,65
+35118,"York Centre","York-Centre"," 44","Toronto",N,N,"",7,495,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35118,"York Centre","York-Centre"," 44","Toronto",N,N,"",7,495,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,70
+35118,"York Centre","York-Centre"," 44","Toronto",N,N,"",7,495,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,4
+35118,"York Centre","York-Centre"," 44","Toronto",N,N,"",7,495,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,64
+35118,"York Centre","York-Centre"," 45","Toronto",N,N,"",0,457,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35118,"York Centre","York-Centre"," 45","Toronto",N,N,"",0,457,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,96
+35118,"York Centre","York-Centre"," 45","Toronto",N,N,"",0,457,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 45","Toronto",N,N,"",0,457,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,52
+35118,"York Centre","York-Centre"," 46","Toronto",N,N,"",0,487,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35118,"York Centre","York-Centre"," 46","Toronto",N,N,"",0,487,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,98
+35118,"York Centre","York-Centre"," 46","Toronto",N,N,"",0,487,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,1
+35118,"York Centre","York-Centre"," 46","Toronto",N,N,"",0,487,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,53
+35118,"York Centre","York-Centre"," 47","Toronto",N,N,"",0,502,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35118,"York Centre","York-Centre"," 47","Toronto",N,N,"",0,502,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,78
+35118,"York Centre","York-Centre"," 47","Toronto",N,N,"",0,502,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,2
+35118,"York Centre","York-Centre"," 47","Toronto",N,N,"",0,502,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,53
+35118,"York Centre","York-Centre"," 48","Toronto",N,N,"",2,500,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35118,"York Centre","York-Centre"," 48","Toronto",N,N,"",2,500,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,97
+35118,"York Centre","York-Centre"," 48","Toronto",N,N,"",2,500,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,3
+35118,"York Centre","York-Centre"," 48","Toronto",N,N,"",2,500,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,63
+35118,"York Centre","York-Centre"," 49","Toronto",N,N,"",0,582,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35118,"York Centre","York-Centre"," 49","Toronto",N,N,"",0,582,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,79
+35118,"York Centre","York-Centre"," 49","Toronto",N,N,"",0,582,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,3
+35118,"York Centre","York-Centre"," 49","Toronto",N,N,"",0,582,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,86
+35118,"York Centre","York-Centre"," 50","Toronto",N,N,"",7,459,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35118,"York Centre","York-Centre"," 50","Toronto",N,N,"",7,459,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,65
+35118,"York Centre","York-Centre"," 50","Toronto",N,N,"",7,459,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,10
+35118,"York Centre","York-Centre"," 50","Toronto",N,N,"",7,459,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,112
+35118,"York Centre","York-Centre"," 51","Toronto",N,N,"",1,526,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35118,"York Centre","York-Centre"," 51","Toronto",N,N,"",1,526,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,101
+35118,"York Centre","York-Centre"," 51","Toronto",N,N,"",1,526,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,7
+35118,"York Centre","York-Centre"," 51","Toronto",N,N,"",1,526,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,77
+35118,"York Centre","York-Centre"," 52","Toronto",N,N,"50",0,427,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 52","Toronto",N,N,"50",0,427,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 52","Toronto",N,N,"50",0,427,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 52","Toronto",N,N,"50",0,427,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 53","Toronto",N,N,"",1,448,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35118,"York Centre","York-Centre"," 53","Toronto",N,N,"",1,448,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,88
+35118,"York Centre","York-Centre"," 53","Toronto",N,N,"",1,448,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,3
+35118,"York Centre","York-Centre"," 53","Toronto",N,N,"",1,448,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,103
+35118,"York Centre","York-Centre"," 54","Toronto",N,N,"",0,574,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35118,"York Centre","York-Centre"," 54","Toronto",N,N,"",0,574,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,70
+35118,"York Centre","York-Centre"," 54","Toronto",N,N,"",0,574,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,14
+35118,"York Centre","York-Centre"," 54","Toronto",N,N,"",0,574,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,82
+35118,"York Centre","York-Centre"," 55","Toronto",N,N,"",4,442,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35118,"York Centre","York-Centre"," 55","Toronto",N,N,"",4,442,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,118
+35118,"York Centre","York-Centre"," 55","Toronto",N,N,"",4,442,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,9
+35118,"York Centre","York-Centre"," 55","Toronto",N,N,"",4,442,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,83
+35118,"York Centre","York-Centre"," 56","Toronto",N,N,"",2,473,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35118,"York Centre","York-Centre"," 56","Toronto",N,N,"",2,473,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,87
+35118,"York Centre","York-Centre"," 56","Toronto",N,N,"",2,473,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,5
+35118,"York Centre","York-Centre"," 56","Toronto",N,N,"",2,473,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,49
+35118,"York Centre","York-Centre"," 57","Toronto",N,N,"53",0,384,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 57","Toronto",N,N,"53",0,384,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 57","Toronto",N,N,"53",0,384,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 57","Toronto",N,N,"53",0,384,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 58","Toronto",N,N,"65",0,411,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 58","Toronto",N,N,"65",0,411,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 58","Toronto",N,N,"65",0,411,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 58","Toronto",N,N,"65",0,411,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 59","Toronto",N,N,"",3,514,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35118,"York Centre","York-Centre"," 59","Toronto",N,N,"",3,514,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,64
+35118,"York Centre","York-Centre"," 59","Toronto",N,N,"",3,514,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,10
+35118,"York Centre","York-Centre"," 59","Toronto",N,N,"",3,514,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,53
+35118,"York Centre","York-Centre"," 60","Toronto",N,N,"",2,513,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35118,"York Centre","York-Centre"," 60","Toronto",N,N,"",2,513,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,26
+35118,"York Centre","York-Centre"," 60","Toronto",N,N,"",2,513,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,10
+35118,"York Centre","York-Centre"," 60","Toronto",N,N,"",2,513,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,54
+35118,"York Centre","York-Centre"," 61","Toronto",N,N,"",0,353,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35118,"York Centre","York-Centre"," 61","Toronto",N,N,"",0,353,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,55
+35118,"York Centre","York-Centre"," 61","Toronto",N,N,"",0,353,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,13
+35118,"York Centre","York-Centre"," 61","Toronto",N,N,"",0,353,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,80
+35118,"York Centre","York-Centre"," 62","Toronto",N,N,"",0,537,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35118,"York Centre","York-Centre"," 62","Toronto",N,N,"",0,537,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,42
+35118,"York Centre","York-Centre"," 62","Toronto",N,N,"",0,537,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,7
+35118,"York Centre","York-Centre"," 62","Toronto",N,N,"",0,537,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,115
+35118,"York Centre","York-Centre"," 63","Toronto",N,N,"",3,467,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35118,"York Centre","York-Centre"," 63","Toronto",N,N,"",3,467,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,22
+35118,"York Centre","York-Centre"," 63","Toronto",N,N,"",3,467,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,3
+35118,"York Centre","York-Centre"," 63","Toronto",N,N,"",3,467,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,64
+35118,"York Centre","York-Centre"," 64","Toronto",N,N,"",1,505,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35118,"York Centre","York-Centre"," 64","Toronto",N,N,"",1,505,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,58
+35118,"York Centre","York-Centre"," 64","Toronto",N,N,"",1,505,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,9
+35118,"York Centre","York-Centre"," 64","Toronto",N,N,"",1,505,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,85
+35118,"York Centre","York-Centre"," 65","Toronto",N,N,"",3,441,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35118,"York Centre","York-Centre"," 65","Toronto",N,N,"",3,441,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,100
+35118,"York Centre","York-Centre"," 65","Toronto",N,N,"",3,441,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,5
+35118,"York Centre","York-Centre"," 65","Toronto",N,N,"",3,441,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,57
+35118,"York Centre","York-Centre"," 66","Toronto",N,N,"",2,505,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35118,"York Centre","York-Centre"," 66","Toronto",N,N,"",2,505,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,52
+35118,"York Centre","York-Centre"," 66","Toronto",N,N,"",2,505,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,3
+35118,"York Centre","York-Centre"," 66","Toronto",N,N,"",2,505,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,56
+35118,"York Centre","York-Centre"," 67","Toronto",N,N,"",0,548,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35118,"York Centre","York-Centre"," 67","Toronto",N,N,"",0,548,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,59
+35118,"York Centre","York-Centre"," 67","Toronto",N,N,"",0,548,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,3
+35118,"York Centre","York-Centre"," 67","Toronto",N,N,"",0,548,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,50
+35118,"York Centre","York-Centre"," 68","Toronto",N,N,"",3,457,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35118,"York Centre","York-Centre"," 68","Toronto",N,N,"",3,457,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,97
+35118,"York Centre","York-Centre"," 68","Toronto",N,N,"",3,457,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,12
+35118,"York Centre","York-Centre"," 68","Toronto",N,N,"",3,457,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,110
+35118,"York Centre","York-Centre"," 69","Toronto",N,N,"51",0,291,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 69","Toronto",N,N,"51",0,291,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 69","Toronto",N,N,"51",0,291,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 69","Toronto",N,N,"51",0,291,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 70","Toronto",N,N,"68",0,398,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 70","Toronto",N,N,"68",0,398,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 70","Toronto",N,N,"68",0,398,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 70","Toronto",N,N,"68",0,398,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 71","Toronto",N,N,"",0,534,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35118,"York Centre","York-Centre"," 71","Toronto",N,N,"",0,534,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,58
+35118,"York Centre","York-Centre"," 71","Toronto",N,N,"",0,534,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,9
+35118,"York Centre","York-Centre"," 71","Toronto",N,N,"",0,534,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,64
+35118,"York Centre","York-Centre"," 72","Toronto",N,N,"",3,768,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35118,"York Centre","York-Centre"," 72","Toronto",N,N,"",3,768,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,55
+35118,"York Centre","York-Centre"," 72","Toronto",N,N,"",3,768,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,10
+35118,"York Centre","York-Centre"," 72","Toronto",N,N,"",3,768,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,112
+35118,"York Centre","York-Centre"," 73","Toronto",N,N,"",4,513,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35118,"York Centre","York-Centre"," 73","Toronto",N,N,"",4,513,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,50
+35118,"York Centre","York-Centre"," 73","Toronto",N,N,"",4,513,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,13
+35118,"York Centre","York-Centre"," 73","Toronto",N,N,"",4,513,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,94
+35118,"York Centre","York-Centre"," 74","Toronto",N,N,"97",0,378,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 74","Toronto",N,N,"97",0,378,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 74","Toronto",N,N,"97",0,378,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 74","Toronto",N,N,"97",0,378,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 75","Toronto",N,N,"",2,538,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35118,"York Centre","York-Centre"," 75","Toronto",N,N,"",2,538,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,49
+35118,"York Centre","York-Centre"," 75","Toronto",N,N,"",2,538,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,2
+35118,"York Centre","York-Centre"," 75","Toronto",N,N,"",2,538,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,87
+35118,"York Centre","York-Centre"," 76","Toronto",N,N,"",2,551,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35118,"York Centre","York-Centre"," 76","Toronto",N,N,"",2,551,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,23
+35118,"York Centre","York-Centre"," 76","Toronto",N,N,"",2,551,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,2
+35118,"York Centre","York-Centre"," 76","Toronto",N,N,"",2,551,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,98
+35118,"York Centre","York-Centre"," 77","Toronto",N,N,"",4,580,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35118,"York Centre","York-Centre"," 77","Toronto",N,N,"",4,580,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,17
+35118,"York Centre","York-Centre"," 77","Toronto",N,N,"",4,580,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,5
+35118,"York Centre","York-Centre"," 77","Toronto",N,N,"",4,580,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,75
+35118,"York Centre","York-Centre"," 78","Toronto",N,N,"",2,628,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35118,"York Centre","York-Centre"," 78","Toronto",N,N,"",2,628,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,39
+35118,"York Centre","York-Centre"," 78","Toronto",N,N,"",2,628,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,5
+35118,"York Centre","York-Centre"," 78","Toronto",N,N,"",2,628,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,94
+35118,"York Centre","York-Centre"," 79","Toronto",N,N,"92",0,396,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 79","Toronto",N,N,"92",0,396,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 79","Toronto",N,N,"92",0,396,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 79","Toronto",N,N,"92",0,396,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 80A","Toronto",N,N,"",1,499,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35118,"York Centre","York-Centre"," 80A","Toronto",N,N,"",1,499,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,38
+35118,"York Centre","York-Centre"," 80A","Toronto",N,N,"",1,499,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,2
+35118,"York Centre","York-Centre"," 80A","Toronto",N,N,"",1,499,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,62
+35118,"York Centre","York-Centre"," 80B","Toronto",N,N,"",0,540,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35118,"York Centre","York-Centre"," 80B","Toronto",N,N,"",0,540,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,38
+35118,"York Centre","York-Centre"," 80B","Toronto",N,N,"",0,540,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,8
+35118,"York Centre","York-Centre"," 80B","Toronto",N,N,"",0,540,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,66
+35118,"York Centre","York-Centre"," 81","Toronto",N,N,"",3,386,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35118,"York Centre","York-Centre"," 81","Toronto",N,N,"",3,386,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,65
+35118,"York Centre","York-Centre"," 81","Toronto",N,N,"",3,386,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,15
+35118,"York Centre","York-Centre"," 81","Toronto",N,N,"",3,386,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,136
+35118,"York Centre","York-Centre"," 82","Toronto",N,N,"",2,382,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35118,"York Centre","York-Centre"," 82","Toronto",N,N,"",2,382,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,39
+35118,"York Centre","York-Centre"," 82","Toronto",N,N,"",2,382,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,10
+35118,"York Centre","York-Centre"," 82","Toronto",N,N,"",2,382,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,38
+35118,"York Centre","York-Centre"," 83","Toronto",N,N,"81",0,382,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 83","Toronto",N,N,"81",0,382,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 83","Toronto",N,N,"81",0,382,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 83","Toronto",N,N,"81",0,382,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 84","Toronto",N,N,"",4,408,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35118,"York Centre","York-Centre"," 84","Toronto",N,N,"",4,408,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,41
+35118,"York Centre","York-Centre"," 84","Toronto",N,N,"",4,408,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,9
+35118,"York Centre","York-Centre"," 84","Toronto",N,N,"",4,408,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,76
+35118,"York Centre","York-Centre"," 85","Toronto",N,N,"",2,456,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35118,"York Centre","York-Centre"," 85","Toronto",N,N,"",2,456,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,27
+35118,"York Centre","York-Centre"," 85","Toronto",N,N,"",2,456,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,7
+35118,"York Centre","York-Centre"," 85","Toronto",N,N,"",2,456,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,53
+35118,"York Centre","York-Centre"," 86","Toronto",N,N,"61",0,342,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 86","Toronto",N,N,"61",0,342,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 86","Toronto",N,N,"61",0,342,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 86","Toronto",N,N,"61",0,342,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 87","Toronto",N,N,"",1,447,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35118,"York Centre","York-Centre"," 87","Toronto",N,N,"",1,447,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,35
+35118,"York Centre","York-Centre"," 87","Toronto",N,N,"",1,447,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,13
+35118,"York Centre","York-Centre"," 87","Toronto",N,N,"",1,447,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,56
+35118,"York Centre","York-Centre"," 88","Toronto",N,N,"100",0,350,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 88","Toronto",N,N,"100",0,350,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 88","Toronto",N,N,"100",0,350,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 88","Toronto",N,N,"100",0,350,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 89","Toronto",N,N,"",4,502,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35118,"York Centre","York-Centre"," 89","Toronto",N,N,"",4,502,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,25
+35118,"York Centre","York-Centre"," 89","Toronto",N,N,"",4,502,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,1
+35118,"York Centre","York-Centre"," 89","Toronto",N,N,"",4,502,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,53
+35118,"York Centre","York-Centre"," 90","Toronto",N,N,"",2,604,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35118,"York Centre","York-Centre"," 90","Toronto",N,N,"",2,604,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,26
+35118,"York Centre","York-Centre"," 90","Toronto",N,N,"",2,604,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,9
+35118,"York Centre","York-Centre"," 90","Toronto",N,N,"",2,604,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,97
+35118,"York Centre","York-Centre"," 91","Toronto",N,N,"",4,409,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35118,"York Centre","York-Centre"," 91","Toronto",N,N,"",4,409,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,39
+35118,"York Centre","York-Centre"," 91","Toronto",N,N,"",4,409,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,6
+35118,"York Centre","York-Centre"," 91","Toronto",N,N,"",4,409,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,84
+35118,"York Centre","York-Centre"," 92","Toronto",N,N,"",1,431,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35118,"York Centre","York-Centre"," 92","Toronto",N,N,"",1,431,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,62
+35118,"York Centre","York-Centre"," 92","Toronto",N,N,"",1,431,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,13
+35118,"York Centre","York-Centre"," 92","Toronto",N,N,"",1,431,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,89
+35118,"York Centre","York-Centre"," 93","Toronto",N,N,"",2,462,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35118,"York Centre","York-Centre"," 93","Toronto",N,N,"",2,462,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,51
+35118,"York Centre","York-Centre"," 93","Toronto",N,N,"",2,462,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,4
+35118,"York Centre","York-Centre"," 93","Toronto",N,N,"",2,462,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,64
+35118,"York Centre","York-Centre"," 94","Toronto",N,N,"",0,493,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35118,"York Centre","York-Centre"," 94","Toronto",N,N,"",0,493,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,31
+35118,"York Centre","York-Centre"," 94","Toronto",N,N,"",0,493,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,6
+35118,"York Centre","York-Centre"," 94","Toronto",N,N,"",0,493,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,71
+35118,"York Centre","York-Centre"," 95","Toronto",N,N,"91",0,333,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 95","Toronto",N,N,"91",0,333,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 95","Toronto",N,N,"91",0,333,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 95","Toronto",N,N,"91",0,333,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 96","Toronto",N,N,"",5,676,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35118,"York Centre","York-Centre"," 96","Toronto",N,N,"",5,676,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,65
+35118,"York Centre","York-Centre"," 96","Toronto",N,N,"",5,676,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,8
+35118,"York Centre","York-Centre"," 96","Toronto",N,N,"",5,676,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,80
+35118,"York Centre","York-Centre"," 97","Toronto",N,N,"",1,386,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35118,"York Centre","York-Centre"," 97","Toronto",N,N,"",1,386,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,63
+35118,"York Centre","York-Centre"," 97","Toronto",N,N,"",1,386,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,16
+35118,"York Centre","York-Centre"," 97","Toronto",N,N,"",1,386,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,83
+35118,"York Centre","York-Centre"," 98","Toronto",N,N,"",0,476,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35118,"York Centre","York-Centre"," 98","Toronto",N,N,"",0,476,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,20
+35118,"York Centre","York-Centre"," 98","Toronto",N,N,"",0,476,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,1
+35118,"York Centre","York-Centre"," 98","Toronto",N,N,"",0,476,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,49
+35118,"York Centre","York-Centre"," 99","Toronto",N,N,"",1,515,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35118,"York Centre","York-Centre"," 99","Toronto",N,N,"",1,515,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,20
+35118,"York Centre","York-Centre"," 99","Toronto",N,N,"",1,515,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,1
+35118,"York Centre","York-Centre"," 99","Toronto",N,N,"",1,515,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,53
+35118,"York Centre","York-Centre"," 100","Toronto",N,N,"",1,351,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35118,"York Centre","York-Centre"," 100","Toronto",N,N,"",1,351,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,52
+35118,"York Centre","York-Centre"," 100","Toronto",N,N,"",1,351,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,14
+35118,"York Centre","York-Centre"," 100","Toronto",N,N,"",1,351,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,83
+35118,"York Centre","York-Centre"," 101","Toronto",N,N,"",1,682,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35118,"York Centre","York-Centre"," 101","Toronto",N,N,"",1,682,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,58
+35118,"York Centre","York-Centre"," 101","Toronto",N,N,"",1,682,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,2
+35118,"York Centre","York-Centre"," 101","Toronto",N,N,"",1,682,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,101
+35118,"York Centre","York-Centre"," 102","Toronto",N,N,"",0,460,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35118,"York Centre","York-Centre"," 102","Toronto",N,N,"",0,460,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,57
+35118,"York Centre","York-Centre"," 102","Toronto",N,N,"",0,460,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,5
+35118,"York Centre","York-Centre"," 102","Toronto",N,N,"",0,460,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,96
+35118,"York Centre","York-Centre"," 103","Toronto",N,N,"",0,480,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35118,"York Centre","York-Centre"," 103","Toronto",N,N,"",0,480,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,22
+35118,"York Centre","York-Centre"," 103","Toronto",N,N,"",0,480,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,1
+35118,"York Centre","York-Centre"," 103","Toronto",N,N,"",0,480,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,77
+35118,"York Centre","York-Centre"," 104","Toronto",N,N,"",2,397,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35118,"York Centre","York-Centre"," 104","Toronto",N,N,"",2,397,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,28
+35118,"York Centre","York-Centre"," 104","Toronto",N,N,"",2,397,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,4
+35118,"York Centre","York-Centre"," 104","Toronto",N,N,"",2,397,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,56
+35118,"York Centre","York-Centre"," 105","Toronto",N,N,"108",0,374,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 105","Toronto",N,N,"108",0,374,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 105","Toronto",N,N,"108",0,374,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 105","Toronto",N,N,"108",0,374,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 106","Toronto",N,N,"",2,424,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35118,"York Centre","York-Centre"," 106","Toronto",N,N,"",2,424,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,20
+35118,"York Centre","York-Centre"," 106","Toronto",N,N,"",2,424,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,6
+35118,"York Centre","York-Centre"," 106","Toronto",N,N,"",2,424,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,59
+35118,"York Centre","York-Centre"," 107","Toronto",N,N,"",1,455,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35118,"York Centre","York-Centre"," 107","Toronto",N,N,"",1,455,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,33
+35118,"York Centre","York-Centre"," 107","Toronto",N,N,"",1,455,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,5
+35118,"York Centre","York-Centre"," 107","Toronto",N,N,"",1,455,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,62
+35118,"York Centre","York-Centre"," 108","Toronto",N,N,"",4,430,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35118,"York Centre","York-Centre"," 108","Toronto",N,N,"",4,430,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,72
+35118,"York Centre","York-Centre"," 108","Toronto",N,N,"",4,430,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,9
+35118,"York Centre","York-Centre"," 108","Toronto",N,N,"",4,430,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,62
+35118,"York Centre","York-Centre"," 109","Toronto",N,N,"",5,508,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35118,"York Centre","York-Centre"," 109","Toronto",N,N,"",5,508,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,22
+35118,"York Centre","York-Centre"," 109","Toronto",N,N,"",5,508,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,10
+35118,"York Centre","York-Centre"," 109","Toronto",N,N,"",5,508,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,41
+35118,"York Centre","York-Centre"," 110","Toronto",N,N,"",1,392,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35118,"York Centre","York-Centre"," 110","Toronto",N,N,"",1,392,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,35
+35118,"York Centre","York-Centre"," 110","Toronto",N,N,"",1,392,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,5
+35118,"York Centre","York-Centre"," 110","Toronto",N,N,"",1,392,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,72
+35118,"York Centre","York-Centre"," 111","Toronto",N,N,"",0,378,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35118,"York Centre","York-Centre"," 111","Toronto",N,N,"",0,378,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,28
+35118,"York Centre","York-Centre"," 111","Toronto",N,N,"",0,378,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,19
+35118,"York Centre","York-Centre"," 111","Toronto",N,N,"",0,378,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,87
+35118,"York Centre","York-Centre"," 112","Toronto",N,N,"",1,549,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35118,"York Centre","York-Centre"," 112","Toronto",N,N,"",1,549,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,24
+35118,"York Centre","York-Centre"," 112","Toronto",N,N,"",1,549,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,8
+35118,"York Centre","York-Centre"," 112","Toronto",N,N,"",1,549,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,70
+35118,"York Centre","York-Centre"," 113","Toronto",N,N,"110",0,334,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 113","Toronto",N,N,"110",0,334,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 113","Toronto",N,N,"110",0,334,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 113","Toronto",N,N,"110",0,334,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 114","Toronto",N,N,"",3,431,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35118,"York Centre","York-Centre"," 114","Toronto",N,N,"",3,431,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,32
+35118,"York Centre","York-Centre"," 114","Toronto",N,N,"",3,431,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,5
+35118,"York Centre","York-Centre"," 114","Toronto",N,N,"",3,431,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,91
+35118,"York Centre","York-Centre"," 115","Toronto",N,N,"",2,395,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35118,"York Centre","York-Centre"," 115","Toronto",N,N,"",2,395,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,54
+35118,"York Centre","York-Centre"," 115","Toronto",N,N,"",2,395,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,11
+35118,"York Centre","York-Centre"," 115","Toronto",N,N,"",2,395,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,80
+35118,"York Centre","York-Centre"," 400","Toronto",N,N,"",9,299,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35118,"York Centre","York-Centre"," 400","Toronto",N,N,"",9,299,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,115
+35118,"York Centre","York-Centre"," 400","Toronto",N,N,"",9,299,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,8
+35118,"York Centre","York-Centre"," 400","Toronto",N,N,"",9,299,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,93
+35118,"York Centre","York-Centre"," 401","Toronto",N,N,"",8,302,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35118,"York Centre","York-Centre"," 401","Toronto",N,N,"",8,302,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,108
+35118,"York Centre","York-Centre"," 401","Toronto",N,N,"",8,302,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,6
+35118,"York Centre","York-Centre"," 401","Toronto",N,N,"",8,302,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,67
+35118,"York Centre","York-Centre"," 402","Toronto",N,N,"404",0,285,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 402","Toronto",N,N,"404",0,285,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 402","Toronto",N,N,"404",0,285,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 402","Toronto",N,N,"404",0,285,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 403","Toronto",N,N,"",1,183,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35118,"York Centre","York-Centre"," 403","Toronto",N,N,"",1,183,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,31
+35118,"York Centre","York-Centre"," 403","Toronto",N,N,"",1,183,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 403","Toronto",N,N,"",1,183,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,52
+35118,"York Centre","York-Centre"," 404","Toronto",N,N,"",13,329,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35118,"York Centre","York-Centre"," 404","Toronto",N,N,"",13,329,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,94
+35118,"York Centre","York-Centre"," 404","Toronto",N,N,"",13,329,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,11
+35118,"York Centre","York-Centre"," 404","Toronto",N,N,"",13,329,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,42
+35118,"York Centre","York-Centre"," 405","Toronto",N,N,"401",0,193,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 405","Toronto",N,N,"401",0,193,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 405","Toronto",N,N,"401",0,193,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 405","Toronto",N,N,"401",0,193,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 406","Toronto",N,N,"",7,275,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35118,"York Centre","York-Centre"," 406","Toronto",N,N,"",7,275,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,54
+35118,"York Centre","York-Centre"," 406","Toronto",N,N,"",7,275,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,9
+35118,"York Centre","York-Centre"," 406","Toronto",N,N,"",7,275,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,58
+35118,"York Centre","York-Centre"," 407","Toronto",N,N,"400",0,195,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 407","Toronto",N,N,"400",0,195,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 407","Toronto",N,N,"400",0,195,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 407","Toronto",N,N,"400",0,195,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 408","Toronto",N,N,"400",0,180,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 408","Toronto",N,N,"400",0,180,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 408","Toronto",N,N,"400",0,180,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 408","Toronto",N,N,"400",0,180,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 409","Toronto",N,N,"401",0,171,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 409","Toronto",N,N,"401",0,171,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 409","Toronto",N,N,"401",0,171,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 409","Toronto",N,N,"401",0,171,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 410","Toronto",N,N,"406",0,243,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 410","Toronto",N,N,"406",0,243,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 410","Toronto",N,N,"406",0,243,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 410","Toronto",N,N,"406",0,243,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 411","Toronto",N,N,"",0,178,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35118,"York Centre","York-Centre"," 411","Toronto",N,N,"",0,178,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,30
+35118,"York Centre","York-Centre"," 411","Toronto",N,N,"",0,178,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,5
+35118,"York Centre","York-Centre"," 411","Toronto",N,N,"",0,178,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,53
+35118,"York Centre","York-Centre"," 412","Toronto",N,N,"",2,144,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35118,"York Centre","York-Centre"," 412","Toronto",N,N,"",2,144,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,27
+35118,"York Centre","York-Centre"," 412","Toronto",N,N,"",2,144,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,11
+35118,"York Centre","York-Centre"," 412","Toronto",N,N,"",2,144,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,24
+35118,"York Centre","York-Centre"," 413","Toronto",N,N,"",1,178,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35118,"York Centre","York-Centre"," 413","Toronto",N,N,"",1,178,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,19
+35118,"York Centre","York-Centre"," 413","Toronto",N,N,"",1,178,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,4
+35118,"York Centre","York-Centre"," 413","Toronto",N,N,"",1,178,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,61
+35118,"York Centre","York-Centre"," 414","Toronto",N,N,"406",0,153,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 414","Toronto",N,N,"406",0,153,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 414","Toronto",N,N,"406",0,153,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 414","Toronto",N,N,"406",0,153,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 415","Toronto",N,N,"418",0,222,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 415","Toronto",N,N,"418",0,222,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 415","Toronto",N,N,"418",0,222,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 415","Toronto",N,N,"418",0,222,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 416","Toronto",N,N,"",3,170,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35118,"York Centre","York-Centre"," 416","Toronto",N,N,"",3,170,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,39
+35118,"York Centre","York-Centre"," 416","Toronto",N,N,"",3,170,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,5
+35118,"York Centre","York-Centre"," 416","Toronto",N,N,"",3,170,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,31
+35118,"York Centre","York-Centre"," 417","Toronto",N,N,"",3,373,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35118,"York Centre","York-Centre"," 417","Toronto",N,N,"",3,373,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,78
+35118,"York Centre","York-Centre"," 417","Toronto",N,N,"",3,373,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,11
+35118,"York Centre","York-Centre"," 417","Toronto",N,N,"",3,373,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,61
+35118,"York Centre","York-Centre"," 418","Toronto",N,N,"",0,330,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35118,"York Centre","York-Centre"," 418","Toronto",N,N,"",0,330,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,65
+35118,"York Centre","York-Centre"," 418","Toronto",N,N,"",0,330,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,11
+35118,"York Centre","York-Centre"," 418","Toronto",N,N,"",0,330,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,72
+35118,"York Centre","York-Centre"," 419","Toronto",N,N,"",0,369,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35118,"York Centre","York-Centre"," 419","Toronto",N,N,"",0,369,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,41
+35118,"York Centre","York-Centre"," 419","Toronto",N,N,"",0,369,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,8
+35118,"York Centre","York-Centre"," 419","Toronto",N,N,"",0,369,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,65
+35118,"York Centre","York-Centre"," 420","Toronto",N,N,"",2,560,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35118,"York Centre","York-Centre"," 420","Toronto",N,N,"",2,560,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,77
+35118,"York Centre","York-Centre"," 420","Toronto",N,N,"",2,560,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,15
+35118,"York Centre","York-Centre"," 420","Toronto",N,N,"",2,560,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,122
+35118,"York Centre","York-Centre"," 421","Toronto",N,N,"419",0,343,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 421","Toronto",N,N,"419",0,343,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 421","Toronto",N,N,"419",0,343,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 421","Toronto",N,N,"419",0,343,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 422","Toronto",N,N,"",0,307,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35118,"York Centre","York-Centre"," 422","Toronto",N,N,"",0,307,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,78
+35118,"York Centre","York-Centre"," 422","Toronto",N,N,"",0,307,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,12
+35118,"York Centre","York-Centre"," 422","Toronto",N,N,"",0,307,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,69
+35118,"York Centre","York-Centre"," 423","Toronto",N,N,"",2,285,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35118,"York Centre","York-Centre"," 423","Toronto",N,N,"",2,285,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,99
+35118,"York Centre","York-Centre"," 423","Toronto",N,N,"",2,285,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,8
+35118,"York Centre","York-Centre"," 423","Toronto",N,N,"",2,285,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,47
+35118,"York Centre","York-Centre"," 424","Toronto",N,N,"",6,314,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35118,"York Centre","York-Centre"," 424","Toronto",N,N,"",6,314,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,96
+35118,"York Centre","York-Centre"," 424","Toronto",N,N,"",6,314,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,7
+35118,"York Centre","York-Centre"," 424","Toronto",N,N,"",6,314,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,63
+35118,"York Centre","York-Centre"," 425","Toronto",N,N,"418",0,208,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 425","Toronto",N,N,"418",0,208,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 425","Toronto",N,N,"418",0,208,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 425","Toronto",N,N,"418",0,208,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 426","Toronto",N,N,"",0,356,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35118,"York Centre","York-Centre"," 426","Toronto",N,N,"",0,356,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,72
+35118,"York Centre","York-Centre"," 426","Toronto",N,N,"",0,356,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,15
+35118,"York Centre","York-Centre"," 426","Toronto",N,N,"",0,356,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,71
+35118,"York Centre","York-Centre"," 427","Toronto",N,N,"464",0,241,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 427","Toronto",N,N,"464",0,241,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 427","Toronto",N,N,"464",0,241,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 427","Toronto",N,N,"464",0,241,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 428","Toronto",N,N,"",6,285,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35118,"York Centre","York-Centre"," 428","Toronto",N,N,"",6,285,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,81
+35118,"York Centre","York-Centre"," 428","Toronto",N,N,"",6,285,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,9
+35118,"York Centre","York-Centre"," 428","Toronto",N,N,"",6,285,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,33
+35118,"York Centre","York-Centre"," 429","Toronto",N,N,"",2,328,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35118,"York Centre","York-Centre"," 429","Toronto",N,N,"",2,328,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,70
+35118,"York Centre","York-Centre"," 429","Toronto",N,N,"",2,328,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,13
+35118,"York Centre","York-Centre"," 429","Toronto",N,N,"",2,328,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,76
+35118,"York Centre","York-Centre"," 430","Toronto",N,N,"434",0,144,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 430","Toronto",N,N,"434",0,144,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 430","Toronto",N,N,"434",0,144,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 430","Toronto",N,N,"434",0,144,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 431","Toronto",N,N,"",2,155,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35118,"York Centre","York-Centre"," 431","Toronto",N,N,"",2,155,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,67
+35118,"York Centre","York-Centre"," 431","Toronto",N,N,"",2,155,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,15
+35118,"York Centre","York-Centre"," 431","Toronto",N,N,"",2,155,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,66
+35118,"York Centre","York-Centre"," 432","Toronto",N,N,"",3,252,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35118,"York Centre","York-Centre"," 432","Toronto",N,N,"",3,252,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,47
+35118,"York Centre","York-Centre"," 432","Toronto",N,N,"",3,252,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,13
+35118,"York Centre","York-Centre"," 432","Toronto",N,N,"",3,252,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,76
+35118,"York Centre","York-Centre"," 433","Toronto",N,N,"",2,279,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35118,"York Centre","York-Centre"," 433","Toronto",N,N,"",2,279,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,49
+35118,"York Centre","York-Centre"," 433","Toronto",N,N,"",2,279,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,4
+35118,"York Centre","York-Centre"," 433","Toronto",N,N,"",2,279,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,92
+35118,"York Centre","York-Centre"," 434","Toronto",N,N,"",1,157,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35118,"York Centre","York-Centre"," 434","Toronto",N,N,"",1,157,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,52
+35118,"York Centre","York-Centre"," 434","Toronto",N,N,"",1,157,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,10
+35118,"York Centre","York-Centre"," 434","Toronto",N,N,"",1,157,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,56
+35118,"York Centre","York-Centre"," 435","Toronto",N,N,"",1,257,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35118,"York Centre","York-Centre"," 435","Toronto",N,N,"",1,257,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,69
+35118,"York Centre","York-Centre"," 435","Toronto",N,N,"",1,257,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,8
+35118,"York Centre","York-Centre"," 435","Toronto",N,N,"",1,257,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,80
+35118,"York Centre","York-Centre"," 436","Toronto",N,N,"428",0,184,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 436","Toronto",N,N,"428",0,184,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 436","Toronto",N,N,"428",0,184,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 436","Toronto",N,N,"428",0,184,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 437","Toronto",N,N,"434",0,152,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 437","Toronto",N,N,"434",0,152,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 437","Toronto",N,N,"434",0,152,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 437","Toronto",N,N,"434",0,152,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 438","Toronto",N,N,"440",0,213,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 438","Toronto",N,N,"440",0,213,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 438","Toronto",N,N,"440",0,213,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 438","Toronto",N,N,"440",0,213,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 439","Toronto",N,N,"",0,323,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35118,"York Centre","York-Centre"," 439","Toronto",N,N,"",0,323,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,70
+35118,"York Centre","York-Centre"," 439","Toronto",N,N,"",0,323,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,14
+35118,"York Centre","York-Centre"," 439","Toronto",N,N,"",0,323,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,103
+35118,"York Centre","York-Centre"," 440","Toronto",N,N,"",0,241,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35118,"York Centre","York-Centre"," 440","Toronto",N,N,"",0,241,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,55
+35118,"York Centre","York-Centre"," 440","Toronto",N,N,"",0,241,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,7
+35118,"York Centre","York-Centre"," 440","Toronto",N,N,"",0,241,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,89
+35118,"York Centre","York-Centre"," 441","Toronto",N,N,"439",0,319,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 441","Toronto",N,N,"439",0,319,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 441","Toronto",N,N,"439",0,319,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 441","Toronto",N,N,"439",0,319,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 442","Toronto",N,N,"443",0,98,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 442","Toronto",N,N,"443",0,98,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 442","Toronto",N,N,"443",0,98,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 442","Toronto",N,N,"443",0,98,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 443","Toronto",N,N,"",2,283,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35118,"York Centre","York-Centre"," 443","Toronto",N,N,"",2,283,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,15
+35118,"York Centre","York-Centre"," 443","Toronto",N,N,"",2,283,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 443","Toronto",N,N,"",2,283,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,87
+35118,"York Centre","York-Centre"," 444","Toronto",N,N,"440",0,178,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 444","Toronto",N,N,"440",0,178,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 444","Toronto",N,N,"440",0,178,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 444","Toronto",N,N,"440",0,178,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 445","Toronto",N,N,"",5,364,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35118,"York Centre","York-Centre"," 445","Toronto",N,N,"",5,364,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,34
+35118,"York Centre","York-Centre"," 445","Toronto",N,N,"",5,364,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,6
+35118,"York Centre","York-Centre"," 445","Toronto",N,N,"",5,364,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,127
+35118,"York Centre","York-Centre"," 446","Toronto",N,N,"111",0,189,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 446","Toronto",N,N,"111",0,189,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 446","Toronto",N,N,"111",0,189,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 446","Toronto",N,N,"111",0,189,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 447","Toronto",N,N,"443",0,230,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 447","Toronto",N,N,"443",0,230,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 447","Toronto",N,N,"443",0,230,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 447","Toronto",N,N,"443",0,230,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 448","Toronto",N,N,"",2,571,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+35118,"York Centre","York-Centre"," 448","Toronto",N,N,"",2,571,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,104
+35118,"York Centre","York-Centre"," 448","Toronto",N,N,"",2,571,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,17
+35118,"York Centre","York-Centre"," 448","Toronto",N,N,"",2,571,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,178
+35118,"York Centre","York-Centre"," 449","Toronto",Y,N,"",0,0,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 449","Toronto",Y,N,"",0,0,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 449","Toronto",Y,N,"",0,0,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 449","Toronto",Y,N,"",0,0,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 450","Toronto",N,N,"44",0,189,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 450","Toronto",N,N,"44",0,189,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 450","Toronto",N,N,"44",0,189,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 450","Toronto",N,N,"44",0,189,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 451","Toronto",N,N,"",5,438,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35118,"York Centre","York-Centre"," 451","Toronto",N,N,"",5,438,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,31
+35118,"York Centre","York-Centre"," 451","Toronto",N,N,"",5,438,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,10
+35118,"York Centre","York-Centre"," 451","Toronto",N,N,"",5,438,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,139
+35118,"York Centre","York-Centre"," 452","Toronto",N,N,"",1,185,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35118,"York Centre","York-Centre"," 452","Toronto",N,N,"",1,185,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,20
+35118,"York Centre","York-Centre"," 452","Toronto",N,N,"",1,185,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,9
+35118,"York Centre","York-Centre"," 452","Toronto",N,N,"",1,185,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,69
+35118,"York Centre","York-Centre"," 453","Toronto",N,N,"",2,252,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35118,"York Centre","York-Centre"," 453","Toronto",N,N,"",2,252,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,18
+35118,"York Centre","York-Centre"," 453","Toronto",N,N,"",2,252,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,12
+35118,"York Centre","York-Centre"," 453","Toronto",N,N,"",2,252,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,79
+35118,"York Centre","York-Centre"," 454","Toronto",N,N,"",3,229,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35118,"York Centre","York-Centre"," 454","Toronto",N,N,"",3,229,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,25
+35118,"York Centre","York-Centre"," 454","Toronto",N,N,"",3,229,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,9
+35118,"York Centre","York-Centre"," 454","Toronto",N,N,"",3,229,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,85
+35118,"York Centre","York-Centre"," 455","Toronto",N,N,"75",0,136,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 455","Toronto",N,N,"75",0,136,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 455","Toronto",N,N,"75",0,136,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 455","Toronto",N,N,"75",0,136,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 456","Toronto",N,N,"",0,150,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35118,"York Centre","York-Centre"," 456","Toronto",N,N,"",0,150,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,16
+35118,"York Centre","York-Centre"," 456","Toronto",N,N,"",0,150,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,4
+35118,"York Centre","York-Centre"," 456","Toronto",N,N,"",0,150,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,56
+35118,"York Centre","York-Centre"," 457","Toronto",N,N,"84",0,240,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 457","Toronto",N,N,"84",0,240,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 457","Toronto",N,N,"84",0,240,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 457","Toronto",N,N,"84",0,240,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 458","Toronto",N,N,"454",0,220,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 458","Toronto",N,N,"454",0,220,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 458","Toronto",N,N,"454",0,220,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 458","Toronto",N,N,"454",0,220,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 459","Toronto",N,N,"454",0,207,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 459","Toronto",N,N,"454",0,207,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 459","Toronto",N,N,"454",0,207,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 459","Toronto",N,N,"454",0,207,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 460","Toronto",N,N,"",6,321,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35118,"York Centre","York-Centre"," 460","Toronto",N,N,"",6,321,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,53
+35118,"York Centre","York-Centre"," 460","Toronto",N,N,"",6,321,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,12
+35118,"York Centre","York-Centre"," 460","Toronto",N,N,"",6,321,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,113
+35118,"York Centre","York-Centre"," 461","Toronto",N,N,"73",0,156,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 461","Toronto",N,N,"73",0,156,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 461","Toronto",N,N,"73",0,156,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 461","Toronto",N,N,"73",0,156,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 462","Toronto",N,N,"114",0,264,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 462","Toronto",N,N,"114",0,264,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 462","Toronto",N,N,"114",0,264,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 462","Toronto",N,N,"114",0,264,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 463","Toronto",N,N,"",1,199,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35118,"York Centre","York-Centre"," 463","Toronto",N,N,"",1,199,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,27
+35118,"York Centre","York-Centre"," 463","Toronto",N,N,"",1,199,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,6
+35118,"York Centre","York-Centre"," 463","Toronto",N,N,"",1,199,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,61
+35118,"York Centre","York-Centre"," 464","Toronto",N,N,"",6,240,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35118,"York Centre","York-Centre"," 464","Toronto",N,N,"",6,240,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,79
+35118,"York Centre","York-Centre"," 464","Toronto",N,N,"",6,240,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,14
+35118,"York Centre","York-Centre"," 464","Toronto",N,N,"",6,240,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,135
+35118,"York Centre","York-Centre"," 500","Toronto",N,N,"12",0,43,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 500","Toronto",N,N,"12",0,43,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 500","Toronto",N,N,"12",0,43,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 500","Toronto",N,N,"12",0,43,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 501","Toronto",N,N,"2",0,62,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 501","Toronto",N,N,"2",0,62,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 501","Toronto",N,N,"2",0,62,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 501","Toronto",N,N,"2",0,62,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 502","Toronto",N,N,"36",0,27,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 502","Toronto",N,N,"36",0,27,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 502","Toronto",N,N,"36",0,27,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 502","Toronto",N,N,"36",0,27,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 503","Toronto",N,N,"43",0,55,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 503","Toronto",N,N,"43",0,55,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 503","Toronto",N,N,"43",0,55,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 503","Toronto",N,N,"43",0,55,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 504","Toronto",N,N,"111",0,1,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35118,"York Centre","York-Centre"," 504","Toronto",N,N,"111",0,1,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,0
+35118,"York Centre","York-Centre"," 504","Toronto",N,N,"111",0,1,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,0
+35118,"York Centre","York-Centre"," 504","Toronto",N,N,"111",0,1,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,0
+35118,"York Centre","York-Centre"," 600","Toronto",N,N,"",6,0,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+35118,"York Centre","York-Centre"," 600","Toronto",N,N,"",6,0,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,596
+35118,"York Centre","York-Centre"," 600","Toronto",N,N,"",6,0,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,62
+35118,"York Centre","York-Centre"," 600","Toronto",N,N,"",6,0,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,425
+35118,"York Centre","York-Centre"," 601","Toronto",N,N,"",7,0,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,101
+35118,"York Centre","York-Centre"," 601","Toronto",N,N,"",7,0,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,582
+35118,"York Centre","York-Centre"," 601","Toronto",N,N,"",7,0,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,94
+35118,"York Centre","York-Centre"," 601","Toronto",N,N,"",7,0,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,522
+35118,"York Centre","York-Centre"," 602","Toronto",N,N,"",7,0,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,80
+35118,"York Centre","York-Centre"," 602","Toronto",N,N,"",7,0,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,627
+35118,"York Centre","York-Centre"," 602","Toronto",N,N,"",7,0,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,54
+35118,"York Centre","York-Centre"," 602","Toronto",N,N,"",7,0,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,616
+35118,"York Centre","York-Centre"," 603","Toronto",N,N,"",7,0,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,119
+35118,"York Centre","York-Centre"," 603","Toronto",N,N,"",7,0,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,707
+35118,"York Centre","York-Centre"," 603","Toronto",N,N,"",7,0,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,62
+35118,"York Centre","York-Centre"," 603","Toronto",N,N,"",7,0,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,718
+35118,"York Centre","York-Centre"," 604","Toronto",N,N,"",8,0,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+35118,"York Centre","York-Centre"," 604","Toronto",N,N,"",8,0,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,529
+35118,"York Centre","York-Centre"," 604","Toronto",N,N,"",8,0,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,40
+35118,"York Centre","York-Centre"," 604","Toronto",N,N,"",8,0,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,434
+35118,"York Centre","York-Centre"," 605","Toronto",N,N,"",10,0,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+35118,"York Centre","York-Centre"," 605","Toronto",N,N,"",10,0,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,814
+35118,"York Centre","York-Centre"," 605","Toronto",N,N,"",10,0,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,27
+35118,"York Centre","York-Centre"," 605","Toronto",N,N,"",10,0,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,586
+35118,"York Centre","York-Centre"," 606","Toronto",N,N,"",8,0,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,102
+35118,"York Centre","York-Centre"," 606","Toronto",N,N,"",8,0,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,640
+35118,"York Centre","York-Centre"," 606","Toronto",N,N,"",8,0,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,44
+35118,"York Centre","York-Centre"," 606","Toronto",N,N,"",8,0,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,566
+35118,"York Centre","York-Centre"," 607","Toronto",N,N,"",12,0,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,112
+35118,"York Centre","York-Centre"," 607","Toronto",N,N,"",12,0,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,350
+35118,"York Centre","York-Centre"," 607","Toronto",N,N,"",12,0,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,75
+35118,"York Centre","York-Centre"," 607","Toronto",N,N,"",12,0,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,675
+35118,"York Centre","York-Centre"," 608","Toronto",N,N,"",24,0,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,114
+35118,"York Centre","York-Centre"," 608","Toronto",N,N,"",24,0,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,322
+35118,"York Centre","York-Centre"," 608","Toronto",N,N,"",24,0,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,71
+35118,"York Centre","York-Centre"," 608","Toronto",N,N,"",24,0,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,898
+35118,"York Centre","York-Centre"," 609","Toronto",N,N,"",16,0,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,83
+35118,"York Centre","York-Centre"," 609","Toronto",N,N,"",16,0,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,282
+35118,"York Centre","York-Centre"," 609","Toronto",N,N,"",16,0,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,62
+35118,"York Centre","York-Centre"," 609","Toronto",N,N,"",16,0,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,549
+35118,"York Centre","York-Centre"," 610","Toronto",N,N,"",26,0,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,117
+35118,"York Centre","York-Centre"," 610","Toronto",N,N,"",26,0,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,335
+35118,"York Centre","York-Centre"," 610","Toronto",N,N,"",26,0,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,61
+35118,"York Centre","York-Centre"," 610","Toronto",N,N,"",26,0,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,760
+35118,"York Centre","York-Centre"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",36,253,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35118,"York Centre","York-Centre"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",36,253,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,151
+35118,"York Centre","York-Centre"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",36,253,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,18
+35118,"York Centre","York-Centre"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",36,253,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,282
+35118,"York Centre","York-Centre"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",76,0,"Ahmed","","Kemal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,210
+35118,"York Centre","York-Centre"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",76,0,"Etienne","","Joel Yakov","Conservative","Conservateur",N,N,735
+35118,"York Centre","York-Centre"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",76,0,"Nguyen","","Nixon","People's Party - PPC","Parti populaire - PPC",N,N,43
+35118,"York Centre","York-Centre"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",76,0,"Saks","","Ya'ara","Liberal","Libéral",Y,Y,1005

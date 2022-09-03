@@ -1,0 +1,846 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+47012,"Saskatoon West","Saskatoon-Ouest"," 1","Saskatoon",N,N,"",0,523,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+47012,"Saskatoon West","Saskatoon-Ouest"," 1","Saskatoon",N,N,"",0,523,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+47012,"Saskatoon West","Saskatoon-Ouest"," 1","Saskatoon",N,N,"",0,523,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 1","Saskatoon",N,N,"",0,523,"Rajakumar","","Ruben","Liberal","Libéral",N,N,13
+47012,"Saskatoon West","Saskatoon-Ouest"," 1","Saskatoon",N,N,"",0,523,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,66
+47012,"Saskatoon West","Saskatoon-Ouest"," 2","Saskatoon",N,N,"",0,396,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+47012,"Saskatoon West","Saskatoon-Ouest"," 2","Saskatoon",N,N,"",0,396,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+47012,"Saskatoon West","Saskatoon-Ouest"," 2","Saskatoon",N,N,"",0,396,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 2","Saskatoon",N,N,"",0,396,"Rajakumar","","Ruben","Liberal","Libéral",N,N,32
+47012,"Saskatoon West","Saskatoon-Ouest"," 2","Saskatoon",N,N,"",0,396,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,70
+47012,"Saskatoon West","Saskatoon-Ouest"," 3","Saskatoon",N,N,"",4,523,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 3","Saskatoon",N,N,"",4,523,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+47012,"Saskatoon West","Saskatoon-Ouest"," 3","Saskatoon",N,N,"",4,523,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 3","Saskatoon",N,N,"",4,523,"Rajakumar","","Ruben","Liberal","Libéral",N,N,16
+47012,"Saskatoon West","Saskatoon-Ouest"," 3","Saskatoon",N,N,"",4,523,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,122
+47012,"Saskatoon West","Saskatoon-Ouest"," 4","Saskatoon",N,N,"",0,531,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,14
+47012,"Saskatoon West","Saskatoon-Ouest"," 4","Saskatoon",N,N,"",0,531,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+47012,"Saskatoon West","Saskatoon-Ouest"," 4","Saskatoon",N,N,"",0,531,"Greenfield","","Dave","Green Party","Parti Vert",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 4","Saskatoon",N,N,"",0,531,"Rajakumar","","Ruben","Liberal","Libéral",N,N,24
+47012,"Saskatoon West","Saskatoon-Ouest"," 4","Saskatoon",N,N,"",0,531,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,111
+47012,"Saskatoon West","Saskatoon-Ouest"," 5","Saskatoon",N,N,"",0,396,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,12
+47012,"Saskatoon West","Saskatoon-Ouest"," 5","Saskatoon",N,N,"",0,396,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+47012,"Saskatoon West","Saskatoon-Ouest"," 5","Saskatoon",N,N,"",0,396,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 5","Saskatoon",N,N,"",0,396,"Rajakumar","","Ruben","Liberal","Libéral",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 5","Saskatoon",N,N,"",0,396,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,78
+47012,"Saskatoon West","Saskatoon-Ouest"," 6","Saskatoon",N,N,"",3,629,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,11
+47012,"Saskatoon West","Saskatoon-Ouest"," 6","Saskatoon",N,N,"",3,629,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+47012,"Saskatoon West","Saskatoon-Ouest"," 6","Saskatoon",N,N,"",3,629,"Greenfield","","Dave","Green Party","Parti Vert",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 6","Saskatoon",N,N,"",3,629,"Rajakumar","","Ruben","Liberal","Libéral",N,N,19
+47012,"Saskatoon West","Saskatoon-Ouest"," 6","Saskatoon",N,N,"",3,629,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,111
+47012,"Saskatoon West","Saskatoon-Ouest"," 7","Saskatoon",N,N,"",0,441,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+47012,"Saskatoon West","Saskatoon-Ouest"," 7","Saskatoon",N,N,"",0,441,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+47012,"Saskatoon West","Saskatoon-Ouest"," 7","Saskatoon",N,N,"",0,441,"Greenfield","","Dave","Green Party","Parti Vert",N,N,5
+47012,"Saskatoon West","Saskatoon-Ouest"," 7","Saskatoon",N,N,"",0,441,"Rajakumar","","Ruben","Liberal","Libéral",N,N,5
+47012,"Saskatoon West","Saskatoon-Ouest"," 7","Saskatoon",N,N,"",0,441,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,37
+47012,"Saskatoon West","Saskatoon-Ouest"," 8","Saskatoon",N,N,"",0,708,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,17
+47012,"Saskatoon West","Saskatoon-Ouest"," 8","Saskatoon",N,N,"",0,708,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,89
+47012,"Saskatoon West","Saskatoon-Ouest"," 8","Saskatoon",N,N,"",0,708,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 8","Saskatoon",N,N,"",0,708,"Rajakumar","","Ruben","Liberal","Libéral",N,N,21
+47012,"Saskatoon West","Saskatoon-Ouest"," 8","Saskatoon",N,N,"",0,708,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,148
+47012,"Saskatoon West","Saskatoon-Ouest"," 9","Saskatoon",N,N,"",0,631,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,11
+47012,"Saskatoon West","Saskatoon-Ouest"," 9","Saskatoon",N,N,"",0,631,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+47012,"Saskatoon West","Saskatoon-Ouest"," 9","Saskatoon",N,N,"",0,631,"Greenfield","","Dave","Green Party","Parti Vert",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 9","Saskatoon",N,N,"",0,631,"Rajakumar","","Ruben","Liberal","Libéral",N,N,16
+47012,"Saskatoon West","Saskatoon-Ouest"," 9","Saskatoon",N,N,"",0,631,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,117
+47012,"Saskatoon West","Saskatoon-Ouest"," 10","Saskatoon",N,N,"",1,479,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,8
+47012,"Saskatoon West","Saskatoon-Ouest"," 10","Saskatoon",N,N,"",1,479,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+47012,"Saskatoon West","Saskatoon-Ouest"," 10","Saskatoon",N,N,"",1,479,"Greenfield","","Dave","Green Party","Parti Vert",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 10","Saskatoon",N,N,"",1,479,"Rajakumar","","Ruben","Liberal","Libéral",N,N,24
+47012,"Saskatoon West","Saskatoon-Ouest"," 10","Saskatoon",N,N,"",1,479,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,101
+47012,"Saskatoon West","Saskatoon-Ouest"," 11","Saskatoon",N,N,"",5,524,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,8
+47012,"Saskatoon West","Saskatoon-Ouest"," 11","Saskatoon",N,N,"",5,524,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+47012,"Saskatoon West","Saskatoon-Ouest"," 11","Saskatoon",N,N,"",5,524,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 11","Saskatoon",N,N,"",5,524,"Rajakumar","","Ruben","Liberal","Libéral",N,N,15
+47012,"Saskatoon West","Saskatoon-Ouest"," 11","Saskatoon",N,N,"",5,524,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,125
+47012,"Saskatoon West","Saskatoon-Ouest"," 12","Saskatoon",N,N,"",2,454,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 12","Saskatoon",N,N,"",2,454,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+47012,"Saskatoon West","Saskatoon-Ouest"," 12","Saskatoon",N,N,"",2,454,"Greenfield","","Dave","Green Party","Parti Vert",N,N,4
+47012,"Saskatoon West","Saskatoon-Ouest"," 12","Saskatoon",N,N,"",2,454,"Rajakumar","","Ruben","Liberal","Libéral",N,N,11
+47012,"Saskatoon West","Saskatoon-Ouest"," 12","Saskatoon",N,N,"",2,454,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,85
+47012,"Saskatoon West","Saskatoon-Ouest"," 13","Saskatoon",N,N,"",0,365,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+47012,"Saskatoon West","Saskatoon-Ouest"," 13","Saskatoon",N,N,"",0,365,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+47012,"Saskatoon West","Saskatoon-Ouest"," 13","Saskatoon",N,N,"",0,365,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 13","Saskatoon",N,N,"",0,365,"Rajakumar","","Ruben","Liberal","Libéral",N,N,18
+47012,"Saskatoon West","Saskatoon-Ouest"," 13","Saskatoon",N,N,"",0,365,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,74
+47012,"Saskatoon West","Saskatoon-Ouest"," 14","Saskatoon",N,N,"",0,455,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,9
+47012,"Saskatoon West","Saskatoon-Ouest"," 14","Saskatoon",N,N,"",0,455,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+47012,"Saskatoon West","Saskatoon-Ouest"," 14","Saskatoon",N,N,"",0,455,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 14","Saskatoon",N,N,"",0,455,"Rajakumar","","Ruben","Liberal","Libéral",N,N,16
+47012,"Saskatoon West","Saskatoon-Ouest"," 14","Saskatoon",N,N,"",0,455,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,69
+47012,"Saskatoon West","Saskatoon-Ouest"," 15","Saskatoon",N,N,"",2,433,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,11
+47012,"Saskatoon West","Saskatoon-Ouest"," 15","Saskatoon",N,N,"",2,433,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+47012,"Saskatoon West","Saskatoon-Ouest"," 15","Saskatoon",N,N,"",2,433,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 15","Saskatoon",N,N,"",2,433,"Rajakumar","","Ruben","Liberal","Libéral",N,N,12
+47012,"Saskatoon West","Saskatoon-Ouest"," 15","Saskatoon",N,N,"",2,433,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,87
+47012,"Saskatoon West","Saskatoon-Ouest"," 16","Saskatoon",N,N,"",0,424,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+47012,"Saskatoon West","Saskatoon-Ouest"," 16","Saskatoon",N,N,"",0,424,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+47012,"Saskatoon West","Saskatoon-Ouest"," 16","Saskatoon",N,N,"",0,424,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 16","Saskatoon",N,N,"",0,424,"Rajakumar","","Ruben","Liberal","Libéral",N,N,14
+47012,"Saskatoon West","Saskatoon-Ouest"," 16","Saskatoon",N,N,"",0,424,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,50
+47012,"Saskatoon West","Saskatoon-Ouest"," 17","Saskatoon",N,N,"",0,352,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+47012,"Saskatoon West","Saskatoon-Ouest"," 17","Saskatoon",N,N,"",0,352,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+47012,"Saskatoon West","Saskatoon-Ouest"," 17","Saskatoon",N,N,"",0,352,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 17","Saskatoon",N,N,"",0,352,"Rajakumar","","Ruben","Liberal","Libéral",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 17","Saskatoon",N,N,"",0,352,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,79
+47012,"Saskatoon West","Saskatoon-Ouest"," 18","Saskatoon",N,N,"",0,388,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,9
+47012,"Saskatoon West","Saskatoon-Ouest"," 18","Saskatoon",N,N,"",0,388,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+47012,"Saskatoon West","Saskatoon-Ouest"," 18","Saskatoon",N,N,"",0,388,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 18","Saskatoon",N,N,"",0,388,"Rajakumar","","Ruben","Liberal","Libéral",N,N,5
+47012,"Saskatoon West","Saskatoon-Ouest"," 18","Saskatoon",N,N,"",0,388,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,79
+47012,"Saskatoon West","Saskatoon-Ouest"," 19","Saskatoon",N,N,"",0,465,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,8
+47012,"Saskatoon West","Saskatoon-Ouest"," 19","Saskatoon",N,N,"",0,465,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+47012,"Saskatoon West","Saskatoon-Ouest"," 19","Saskatoon",N,N,"",0,465,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 19","Saskatoon",N,N,"",0,465,"Rajakumar","","Ruben","Liberal","Libéral",N,N,13
+47012,"Saskatoon West","Saskatoon-Ouest"," 19","Saskatoon",N,N,"",0,465,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,86
+47012,"Saskatoon West","Saskatoon-Ouest"," 20","Saskatoon",N,N,"",1,404,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 20","Saskatoon",N,N,"",1,404,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+47012,"Saskatoon West","Saskatoon-Ouest"," 20","Saskatoon",N,N,"",1,404,"Greenfield","","Dave","Green Party","Parti Vert",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 20","Saskatoon",N,N,"",1,404,"Rajakumar","","Ruben","Liberal","Libéral",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 20","Saskatoon",N,N,"",1,404,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,78
+47012,"Saskatoon West","Saskatoon-Ouest"," 21","Saskatoon",N,N,"",3,468,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+47012,"Saskatoon West","Saskatoon-Ouest"," 21","Saskatoon",N,N,"",3,468,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+47012,"Saskatoon West","Saskatoon-Ouest"," 21","Saskatoon",N,N,"",3,468,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 21","Saskatoon",N,N,"",3,468,"Rajakumar","","Ruben","Liberal","Libéral",N,N,15
+47012,"Saskatoon West","Saskatoon-Ouest"," 21","Saskatoon",N,N,"",3,468,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,84
+47012,"Saskatoon West","Saskatoon-Ouest"," 22","Saskatoon",N,N,"",1,401,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,8
+47012,"Saskatoon West","Saskatoon-Ouest"," 22","Saskatoon",N,N,"",1,401,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+47012,"Saskatoon West","Saskatoon-Ouest"," 22","Saskatoon",N,N,"",1,401,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 22","Saskatoon",N,N,"",1,401,"Rajakumar","","Ruben","Liberal","Libéral",N,N,11
+47012,"Saskatoon West","Saskatoon-Ouest"," 22","Saskatoon",N,N,"",1,401,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,87
+47012,"Saskatoon West","Saskatoon-Ouest"," 23","Saskatoon",N,N,"",0,344,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 23","Saskatoon",N,N,"",0,344,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+47012,"Saskatoon West","Saskatoon-Ouest"," 23","Saskatoon",N,N,"",0,344,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 23","Saskatoon",N,N,"",0,344,"Rajakumar","","Ruben","Liberal","Libéral",N,N,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 23","Saskatoon",N,N,"",0,344,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,44
+47012,"Saskatoon West","Saskatoon-Ouest"," 24","Saskatoon",N,N,"",2,387,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 24","Saskatoon",N,N,"",2,387,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+47012,"Saskatoon West","Saskatoon-Ouest"," 24","Saskatoon",N,N,"",2,387,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 24","Saskatoon",N,N,"",2,387,"Rajakumar","","Ruben","Liberal","Libéral",N,N,14
+47012,"Saskatoon West","Saskatoon-Ouest"," 24","Saskatoon",N,N,"",2,387,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,71
+47012,"Saskatoon West","Saskatoon-Ouest"," 25","Saskatoon",N,N,"",1,375,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,11
+47012,"Saskatoon West","Saskatoon-Ouest"," 25","Saskatoon",N,N,"",1,375,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+47012,"Saskatoon West","Saskatoon-Ouest"," 25","Saskatoon",N,N,"",1,375,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 25","Saskatoon",N,N,"",1,375,"Rajakumar","","Ruben","Liberal","Libéral",N,N,8
+47012,"Saskatoon West","Saskatoon-Ouest"," 25","Saskatoon",N,N,"",1,375,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,56
+47012,"Saskatoon West","Saskatoon-Ouest"," 26","Saskatoon",N,N,"",0,356,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,11
+47012,"Saskatoon West","Saskatoon-Ouest"," 26","Saskatoon",N,N,"",0,356,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+47012,"Saskatoon West","Saskatoon-Ouest"," 26","Saskatoon",N,N,"",0,356,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 26","Saskatoon",N,N,"",0,356,"Rajakumar","","Ruben","Liberal","Libéral",N,N,20
+47012,"Saskatoon West","Saskatoon-Ouest"," 26","Saskatoon",N,N,"",0,356,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,54
+47012,"Saskatoon West","Saskatoon-Ouest"," 27","Saskatoon",N,N,"",2,445,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,23
+47012,"Saskatoon West","Saskatoon-Ouest"," 27","Saskatoon",N,N,"",2,445,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+47012,"Saskatoon West","Saskatoon-Ouest"," 27","Saskatoon",N,N,"",2,445,"Greenfield","","Dave","Green Party","Parti Vert",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 27","Saskatoon",N,N,"",2,445,"Rajakumar","","Ruben","Liberal","Libéral",N,N,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 27","Saskatoon",N,N,"",2,445,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,89
+47012,"Saskatoon West","Saskatoon-Ouest"," 28","Saskatoon",N,N,"",0,497,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,14
+47012,"Saskatoon West","Saskatoon-Ouest"," 28","Saskatoon",N,N,"",0,497,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+47012,"Saskatoon West","Saskatoon-Ouest"," 28","Saskatoon",N,N,"",0,497,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 28","Saskatoon",N,N,"",0,497,"Rajakumar","","Ruben","Liberal","Libéral",N,N,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 28","Saskatoon",N,N,"",0,497,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,110
+47012,"Saskatoon West","Saskatoon-Ouest"," 29","Saskatoon",N,N,"",0,355,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,12
+47012,"Saskatoon West","Saskatoon-Ouest"," 29","Saskatoon",N,N,"",0,355,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+47012,"Saskatoon West","Saskatoon-Ouest"," 29","Saskatoon",N,N,"",0,355,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 29","Saskatoon",N,N,"",0,355,"Rajakumar","","Ruben","Liberal","Libéral",N,N,11
+47012,"Saskatoon West","Saskatoon-Ouest"," 29","Saskatoon",N,N,"",0,355,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,65
+47012,"Saskatoon West","Saskatoon-Ouest"," 30","Saskatoon",N,N,"",3,486,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,12
+47012,"Saskatoon West","Saskatoon-Ouest"," 30","Saskatoon",N,N,"",3,486,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+47012,"Saskatoon West","Saskatoon-Ouest"," 30","Saskatoon",N,N,"",3,486,"Greenfield","","Dave","Green Party","Parti Vert",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 30","Saskatoon",N,N,"",3,486,"Rajakumar","","Ruben","Liberal","Libéral",N,N,17
+47012,"Saskatoon West","Saskatoon-Ouest"," 30","Saskatoon",N,N,"",3,486,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,55
+47012,"Saskatoon West","Saskatoon-Ouest"," 31","Saskatoon",N,N,"",2,428,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,11
+47012,"Saskatoon West","Saskatoon-Ouest"," 31","Saskatoon",N,N,"",2,428,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+47012,"Saskatoon West","Saskatoon-Ouest"," 31","Saskatoon",N,N,"",2,428,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 31","Saskatoon",N,N,"",2,428,"Rajakumar","","Ruben","Liberal","Libéral",N,N,9
+47012,"Saskatoon West","Saskatoon-Ouest"," 31","Saskatoon",N,N,"",2,428,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,77
+47012,"Saskatoon West","Saskatoon-Ouest"," 32","Saskatoon",N,N,"",0,470,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,13
+47012,"Saskatoon West","Saskatoon-Ouest"," 32","Saskatoon",N,N,"",0,470,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+47012,"Saskatoon West","Saskatoon-Ouest"," 32","Saskatoon",N,N,"",0,470,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 32","Saskatoon",N,N,"",0,470,"Rajakumar","","Ruben","Liberal","Libéral",N,N,14
+47012,"Saskatoon West","Saskatoon-Ouest"," 32","Saskatoon",N,N,"",0,470,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,68
+47012,"Saskatoon West","Saskatoon-Ouest"," 33","Saskatoon",N,N,"",2,669,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 33","Saskatoon",N,N,"",2,669,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,114
+47012,"Saskatoon West","Saskatoon-Ouest"," 33","Saskatoon",N,N,"",2,669,"Greenfield","","Dave","Green Party","Parti Vert",N,N,4
+47012,"Saskatoon West","Saskatoon-Ouest"," 33","Saskatoon",N,N,"",2,669,"Rajakumar","","Ruben","Liberal","Libéral",N,N,27
+47012,"Saskatoon West","Saskatoon-Ouest"," 33","Saskatoon",N,N,"",2,669,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,98
+47012,"Saskatoon West","Saskatoon-Ouest"," 34","Saskatoon",N,N,"",2,458,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,16
+47012,"Saskatoon West","Saskatoon-Ouest"," 34","Saskatoon",N,N,"",2,458,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+47012,"Saskatoon West","Saskatoon-Ouest"," 34","Saskatoon",N,N,"",2,458,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 34","Saskatoon",N,N,"",2,458,"Rajakumar","","Ruben","Liberal","Libéral",N,N,8
+47012,"Saskatoon West","Saskatoon-Ouest"," 34","Saskatoon",N,N,"",2,458,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,52
+47012,"Saskatoon West","Saskatoon-Ouest"," 35","Saskatoon",N,N,"",1,481,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+47012,"Saskatoon West","Saskatoon-Ouest"," 35","Saskatoon",N,N,"",1,481,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+47012,"Saskatoon West","Saskatoon-Ouest"," 35","Saskatoon",N,N,"",1,481,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 35","Saskatoon",N,N,"",1,481,"Rajakumar","","Ruben","Liberal","Libéral",N,N,5
+47012,"Saskatoon West","Saskatoon-Ouest"," 35","Saskatoon",N,N,"",1,481,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,73
+47012,"Saskatoon West","Saskatoon-Ouest"," 36","Saskatoon",N,N,"",1,413,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,16
+47012,"Saskatoon West","Saskatoon-Ouest"," 36","Saskatoon",N,N,"",1,413,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+47012,"Saskatoon West","Saskatoon-Ouest"," 36","Saskatoon",N,N,"",1,413,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 36","Saskatoon",N,N,"",1,413,"Rajakumar","","Ruben","Liberal","Libéral",N,N,6
+47012,"Saskatoon West","Saskatoon-Ouest"," 36","Saskatoon",N,N,"",1,413,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,50
+47012,"Saskatoon West","Saskatoon-Ouest"," 37","Saskatoon",N,N,"",0,478,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,16
+47012,"Saskatoon West","Saskatoon-Ouest"," 37","Saskatoon",N,N,"",0,478,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+47012,"Saskatoon West","Saskatoon-Ouest"," 37","Saskatoon",N,N,"",0,478,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 37","Saskatoon",N,N,"",0,478,"Rajakumar","","Ruben","Liberal","Libéral",N,N,9
+47012,"Saskatoon West","Saskatoon-Ouest"," 37","Saskatoon",N,N,"",0,478,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,56
+47012,"Saskatoon West","Saskatoon-Ouest"," 38","Saskatoon",N,N,"",0,417,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,9
+47012,"Saskatoon West","Saskatoon-Ouest"," 38","Saskatoon",N,N,"",0,417,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+47012,"Saskatoon West","Saskatoon-Ouest"," 38","Saskatoon",N,N,"",0,417,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 38","Saskatoon",N,N,"",0,417,"Rajakumar","","Ruben","Liberal","Libéral",N,N,13
+47012,"Saskatoon West","Saskatoon-Ouest"," 38","Saskatoon",N,N,"",0,417,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,58
+47012,"Saskatoon West","Saskatoon-Ouest"," 39","Saskatoon",N,N,"",1,443,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+47012,"Saskatoon West","Saskatoon-Ouest"," 39","Saskatoon",N,N,"",1,443,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+47012,"Saskatoon West","Saskatoon-Ouest"," 39","Saskatoon",N,N,"",1,443,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 39","Saskatoon",N,N,"",1,443,"Rajakumar","","Ruben","Liberal","Libéral",N,N,11
+47012,"Saskatoon West","Saskatoon-Ouest"," 39","Saskatoon",N,N,"",1,443,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,82
+47012,"Saskatoon West","Saskatoon-Ouest"," 40","Saskatoon",N,N,"",1,399,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 40","Saskatoon",N,N,"",1,399,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+47012,"Saskatoon West","Saskatoon-Ouest"," 40","Saskatoon",N,N,"",1,399,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 40","Saskatoon",N,N,"",1,399,"Rajakumar","","Ruben","Liberal","Libéral",N,N,13
+47012,"Saskatoon West","Saskatoon-Ouest"," 40","Saskatoon",N,N,"",1,399,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,47
+47012,"Saskatoon West","Saskatoon-Ouest"," 41","Saskatoon",N,N,"",0,456,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 41","Saskatoon",N,N,"",0,456,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+47012,"Saskatoon West","Saskatoon-Ouest"," 41","Saskatoon",N,N,"",0,456,"Greenfield","","Dave","Green Party","Parti Vert",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 41","Saskatoon",N,N,"",0,456,"Rajakumar","","Ruben","Liberal","Libéral",N,N,11
+47012,"Saskatoon West","Saskatoon-Ouest"," 41","Saskatoon",N,N,"",0,456,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,38
+47012,"Saskatoon West","Saskatoon-Ouest"," 42","Saskatoon",N,N,"",1,394,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,8
+47012,"Saskatoon West","Saskatoon-Ouest"," 42","Saskatoon",N,N,"",1,394,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+47012,"Saskatoon West","Saskatoon-Ouest"," 42","Saskatoon",N,N,"",1,394,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 42","Saskatoon",N,N,"",1,394,"Rajakumar","","Ruben","Liberal","Libéral",N,N,9
+47012,"Saskatoon West","Saskatoon-Ouest"," 42","Saskatoon",N,N,"",1,394,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,65
+47012,"Saskatoon West","Saskatoon-Ouest"," 43","Saskatoon",N,N,"",0,368,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 43","Saskatoon",N,N,"",0,368,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+47012,"Saskatoon West","Saskatoon-Ouest"," 43","Saskatoon",N,N,"",0,368,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 43","Saskatoon",N,N,"",0,368,"Rajakumar","","Ruben","Liberal","Libéral",N,N,12
+47012,"Saskatoon West","Saskatoon-Ouest"," 43","Saskatoon",N,N,"",0,368,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,61
+47012,"Saskatoon West","Saskatoon-Ouest"," 44","Saskatoon",N,N,"",0,378,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,9
+47012,"Saskatoon West","Saskatoon-Ouest"," 44","Saskatoon",N,N,"",0,378,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+47012,"Saskatoon West","Saskatoon-Ouest"," 44","Saskatoon",N,N,"",0,378,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 44","Saskatoon",N,N,"",0,378,"Rajakumar","","Ruben","Liberal","Libéral",N,N,9
+47012,"Saskatoon West","Saskatoon-Ouest"," 44","Saskatoon",N,N,"",0,378,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,56
+47012,"Saskatoon West","Saskatoon-Ouest"," 45","Saskatoon",N,N,"",2,394,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 45","Saskatoon",N,N,"",2,394,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+47012,"Saskatoon West","Saskatoon-Ouest"," 45","Saskatoon",N,N,"",2,394,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 45","Saskatoon",N,N,"",2,394,"Rajakumar","","Ruben","Liberal","Libéral",N,N,14
+47012,"Saskatoon West","Saskatoon-Ouest"," 45","Saskatoon",N,N,"",2,394,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,53
+47012,"Saskatoon West","Saskatoon-Ouest"," 46","Saskatoon",N,N,"",1,444,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+47012,"Saskatoon West","Saskatoon-Ouest"," 46","Saskatoon",N,N,"",1,444,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+47012,"Saskatoon West","Saskatoon-Ouest"," 46","Saskatoon",N,N,"",1,444,"Greenfield","","Dave","Green Party","Parti Vert",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 46","Saskatoon",N,N,"",1,444,"Rajakumar","","Ruben","Liberal","Libéral",N,N,15
+47012,"Saskatoon West","Saskatoon-Ouest"," 46","Saskatoon",N,N,"",1,444,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,63
+47012,"Saskatoon West","Saskatoon-Ouest"," 47","Saskatoon",N,N,"",1,585,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,21
+47012,"Saskatoon West","Saskatoon-Ouest"," 47","Saskatoon",N,N,"",1,585,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+47012,"Saskatoon West","Saskatoon-Ouest"," 47","Saskatoon",N,N,"",1,585,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 47","Saskatoon",N,N,"",1,585,"Rajakumar","","Ruben","Liberal","Libéral",N,N,21
+47012,"Saskatoon West","Saskatoon-Ouest"," 47","Saskatoon",N,N,"",1,585,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,98
+47012,"Saskatoon West","Saskatoon-Ouest"," 48","Saskatoon",N,N,"",1,481,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 48","Saskatoon",N,N,"",1,481,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+47012,"Saskatoon West","Saskatoon-Ouest"," 48","Saskatoon",N,N,"",1,481,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 48","Saskatoon",N,N,"",1,481,"Rajakumar","","Ruben","Liberal","Libéral",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 48","Saskatoon",N,N,"",1,481,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,93
+47012,"Saskatoon West","Saskatoon-Ouest"," 49","Saskatoon",N,N,"",1,332,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,16
+47012,"Saskatoon West","Saskatoon-Ouest"," 49","Saskatoon",N,N,"",1,332,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+47012,"Saskatoon West","Saskatoon-Ouest"," 49","Saskatoon",N,N,"",1,332,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 49","Saskatoon",N,N,"",1,332,"Rajakumar","","Ruben","Liberal","Libéral",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 49","Saskatoon",N,N,"",1,332,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,67
+47012,"Saskatoon West","Saskatoon-Ouest"," 50","Saskatoon",N,N,"",0,432,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,18
+47012,"Saskatoon West","Saskatoon-Ouest"," 50","Saskatoon",N,N,"",0,432,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+47012,"Saskatoon West","Saskatoon-Ouest"," 50","Saskatoon",N,N,"",0,432,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 50","Saskatoon",N,N,"",0,432,"Rajakumar","","Ruben","Liberal","Libéral",N,N,15
+47012,"Saskatoon West","Saskatoon-Ouest"," 50","Saskatoon",N,N,"",0,432,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,56
+47012,"Saskatoon West","Saskatoon-Ouest"," 51","Saskatoon",N,N,"",0,365,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 51","Saskatoon",N,N,"",0,365,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+47012,"Saskatoon West","Saskatoon-Ouest"," 51","Saskatoon",N,N,"",0,365,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 51","Saskatoon",N,N,"",0,365,"Rajakumar","","Ruben","Liberal","Libéral",N,N,8
+47012,"Saskatoon West","Saskatoon-Ouest"," 51","Saskatoon",N,N,"",0,365,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,77
+47012,"Saskatoon West","Saskatoon-Ouest"," 52","Saskatoon",N,N,"",3,502,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,12
+47012,"Saskatoon West","Saskatoon-Ouest"," 52","Saskatoon",N,N,"",3,502,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,93
+47012,"Saskatoon West","Saskatoon-Ouest"," 52","Saskatoon",N,N,"",3,502,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 52","Saskatoon",N,N,"",3,502,"Rajakumar","","Ruben","Liberal","Libéral",N,N,23
+47012,"Saskatoon West","Saskatoon-Ouest"," 52","Saskatoon",N,N,"",3,502,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,106
+47012,"Saskatoon West","Saskatoon-Ouest"," 53","Saskatoon",N,N,"",2,423,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,15
+47012,"Saskatoon West","Saskatoon-Ouest"," 53","Saskatoon",N,N,"",2,423,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+47012,"Saskatoon West","Saskatoon-Ouest"," 53","Saskatoon",N,N,"",2,423,"Greenfield","","Dave","Green Party","Parti Vert",N,N,4
+47012,"Saskatoon West","Saskatoon-Ouest"," 53","Saskatoon",N,N,"",2,423,"Rajakumar","","Ruben","Liberal","Libéral",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 53","Saskatoon",N,N,"",2,423,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,91
+47012,"Saskatoon West","Saskatoon-Ouest"," 54A","Saskatoon",N,N,"",2,606,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,17
+47012,"Saskatoon West","Saskatoon-Ouest"," 54A","Saskatoon",N,N,"",2,606,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+47012,"Saskatoon West","Saskatoon-Ouest"," 54A","Saskatoon",N,N,"",2,606,"Greenfield","","Dave","Green Party","Parti Vert",N,N,5
+47012,"Saskatoon West","Saskatoon-Ouest"," 54A","Saskatoon",N,N,"",2,606,"Rajakumar","","Ruben","Liberal","Libéral",N,N,23
+47012,"Saskatoon West","Saskatoon-Ouest"," 54A","Saskatoon",N,N,"",2,606,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,117
+47012,"Saskatoon West","Saskatoon-Ouest"," 54B","Saskatoon",N,N,"",0,561,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 54B","Saskatoon",N,N,"",0,561,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+47012,"Saskatoon West","Saskatoon-Ouest"," 54B","Saskatoon",N,N,"",0,561,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 54B","Saskatoon",N,N,"",0,561,"Rajakumar","","Ruben","Liberal","Libéral",N,N,20
+47012,"Saskatoon West","Saskatoon-Ouest"," 54B","Saskatoon",N,N,"",0,561,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,98
+47012,"Saskatoon West","Saskatoon-Ouest"," 54C","Saskatoon",N,N,"",0,522,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,15
+47012,"Saskatoon West","Saskatoon-Ouest"," 54C","Saskatoon",N,N,"",0,522,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+47012,"Saskatoon West","Saskatoon-Ouest"," 54C","Saskatoon",N,N,"",0,522,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 54C","Saskatoon",N,N,"",0,522,"Rajakumar","","Ruben","Liberal","Libéral",N,N,22
+47012,"Saskatoon West","Saskatoon-Ouest"," 54C","Saskatoon",N,N,"",0,522,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,84
+47012,"Saskatoon West","Saskatoon-Ouest"," 55A","Saskatoon",N,N,"",0,432,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 55A","Saskatoon",N,N,"",0,432,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+47012,"Saskatoon West","Saskatoon-Ouest"," 55A","Saskatoon",N,N,"",0,432,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 55A","Saskatoon",N,N,"",0,432,"Rajakumar","","Ruben","Liberal","Libéral",N,N,16
+47012,"Saskatoon West","Saskatoon-Ouest"," 55A","Saskatoon",N,N,"",0,432,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,37
+47012,"Saskatoon West","Saskatoon-Ouest"," 55B","Saskatoon",N,N,"",0,412,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+47012,"Saskatoon West","Saskatoon-Ouest"," 55B","Saskatoon",N,N,"",0,412,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+47012,"Saskatoon West","Saskatoon-Ouest"," 55B","Saskatoon",N,N,"",0,412,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 55B","Saskatoon",N,N,"",0,412,"Rajakumar","","Ruben","Liberal","Libéral",N,N,14
+47012,"Saskatoon West","Saskatoon-Ouest"," 55B","Saskatoon",N,N,"",0,412,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,48
+47012,"Saskatoon West","Saskatoon-Ouest"," 56","Saskatoon",N,N,"",0,495,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,12
+47012,"Saskatoon West","Saskatoon-Ouest"," 56","Saskatoon",N,N,"",0,495,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+47012,"Saskatoon West","Saskatoon-Ouest"," 56","Saskatoon",N,N,"",0,495,"Greenfield","","Dave","Green Party","Parti Vert",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 56","Saskatoon",N,N,"",0,495,"Rajakumar","","Ruben","Liberal","Libéral",N,N,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 56","Saskatoon",N,N,"",0,495,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,144
+47012,"Saskatoon West","Saskatoon-Ouest"," 57","Saskatoon",N,N,"",0,389,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,15
+47012,"Saskatoon West","Saskatoon-Ouest"," 57","Saskatoon",N,N,"",0,389,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+47012,"Saskatoon West","Saskatoon-Ouest"," 57","Saskatoon",N,N,"",0,389,"Greenfield","","Dave","Green Party","Parti Vert",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 57","Saskatoon",N,N,"",0,389,"Rajakumar","","Ruben","Liberal","Libéral",N,N,11
+47012,"Saskatoon West","Saskatoon-Ouest"," 57","Saskatoon",N,N,"",0,389,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,106
+47012,"Saskatoon West","Saskatoon-Ouest"," 58","Saskatoon",N,N,"",1,385,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 58","Saskatoon",N,N,"",1,385,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+47012,"Saskatoon West","Saskatoon-Ouest"," 58","Saskatoon",N,N,"",1,385,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 58","Saskatoon",N,N,"",1,385,"Rajakumar","","Ruben","Liberal","Libéral",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 58","Saskatoon",N,N,"",1,385,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,125
+47012,"Saskatoon West","Saskatoon-Ouest"," 59","Saskatoon",N,N,"",0,337,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+47012,"Saskatoon West","Saskatoon-Ouest"," 59","Saskatoon",N,N,"",0,337,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+47012,"Saskatoon West","Saskatoon-Ouest"," 59","Saskatoon",N,N,"",0,337,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 59","Saskatoon",N,N,"",0,337,"Rajakumar","","Ruben","Liberal","Libéral",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 59","Saskatoon",N,N,"",0,337,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,92
+47012,"Saskatoon West","Saskatoon-Ouest"," 60","Saskatoon",N,N,"",0,402,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,11
+47012,"Saskatoon West","Saskatoon-Ouest"," 60","Saskatoon",N,N,"",0,402,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+47012,"Saskatoon West","Saskatoon-Ouest"," 60","Saskatoon",N,N,"",0,402,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 60","Saskatoon",N,N,"",0,402,"Rajakumar","","Ruben","Liberal","Libéral",N,N,14
+47012,"Saskatoon West","Saskatoon-Ouest"," 60","Saskatoon",N,N,"",0,402,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,112
+47012,"Saskatoon West","Saskatoon-Ouest"," 61","Saskatoon",N,N,"",1,417,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,13
+47012,"Saskatoon West","Saskatoon-Ouest"," 61","Saskatoon",N,N,"",1,417,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+47012,"Saskatoon West","Saskatoon-Ouest"," 61","Saskatoon",N,N,"",1,417,"Greenfield","","Dave","Green Party","Parti Vert",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 61","Saskatoon",N,N,"",1,417,"Rajakumar","","Ruben","Liberal","Libéral",N,N,12
+47012,"Saskatoon West","Saskatoon-Ouest"," 61","Saskatoon",N,N,"",1,417,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,40
+47012,"Saskatoon West","Saskatoon-Ouest"," 62","Saskatoon",N,N,"",0,343,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 62","Saskatoon",N,N,"",0,343,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+47012,"Saskatoon West","Saskatoon-Ouest"," 62","Saskatoon",N,N,"",0,343,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 62","Saskatoon",N,N,"",0,343,"Rajakumar","","Ruben","Liberal","Libéral",N,N,15
+47012,"Saskatoon West","Saskatoon-Ouest"," 62","Saskatoon",N,N,"",0,343,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,38
+47012,"Saskatoon West","Saskatoon-Ouest"," 63","Saskatoon",N,N,"",1,539,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,14
+47012,"Saskatoon West","Saskatoon-Ouest"," 63","Saskatoon",N,N,"",1,539,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,121
+47012,"Saskatoon West","Saskatoon-Ouest"," 63","Saskatoon",N,N,"",1,539,"Greenfield","","Dave","Green Party","Parti Vert",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 63","Saskatoon",N,N,"",1,539,"Rajakumar","","Ruben","Liberal","Libéral",N,N,12
+47012,"Saskatoon West","Saskatoon-Ouest"," 63","Saskatoon",N,N,"",1,539,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,65
+47012,"Saskatoon West","Saskatoon-Ouest"," 64","Saskatoon",N,N,"",1,199,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 64","Saskatoon",N,N,"",1,199,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 64","Saskatoon",N,N,"",1,199,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 64","Saskatoon",N,N,"",1,199,"Rajakumar","","Ruben","Liberal","Libéral",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 64","Saskatoon",N,N,"",1,199,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,19
+47012,"Saskatoon West","Saskatoon-Ouest"," 65","Saskatoon",N,N,"",0,773,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,12
+47012,"Saskatoon West","Saskatoon-Ouest"," 65","Saskatoon",N,N,"",0,773,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+47012,"Saskatoon West","Saskatoon-Ouest"," 65","Saskatoon",N,N,"",0,773,"Greenfield","","Dave","Green Party","Parti Vert",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 65","Saskatoon",N,N,"",0,773,"Rajakumar","","Ruben","Liberal","Libéral",N,N,33
+47012,"Saskatoon West","Saskatoon-Ouest"," 65","Saskatoon",N,N,"",0,773,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,126
+47012,"Saskatoon West","Saskatoon-Ouest"," 66","Saskatoon",N,N,"",1,481,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,15
+47012,"Saskatoon West","Saskatoon-Ouest"," 66","Saskatoon",N,N,"",1,481,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+47012,"Saskatoon West","Saskatoon-Ouest"," 66","Saskatoon",N,N,"",1,481,"Greenfield","","Dave","Green Party","Parti Vert",N,N,4
+47012,"Saskatoon West","Saskatoon-Ouest"," 66","Saskatoon",N,N,"",1,481,"Rajakumar","","Ruben","Liberal","Libéral",N,N,16
+47012,"Saskatoon West","Saskatoon-Ouest"," 66","Saskatoon",N,N,"",1,481,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,103
+47012,"Saskatoon West","Saskatoon-Ouest"," 67","Saskatoon",N,N,"",0,465,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 67","Saskatoon",N,N,"",0,465,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+47012,"Saskatoon West","Saskatoon-Ouest"," 67","Saskatoon",N,N,"",0,465,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 67","Saskatoon",N,N,"",0,465,"Rajakumar","","Ruben","Liberal","Libéral",N,N,14
+47012,"Saskatoon West","Saskatoon-Ouest"," 67","Saskatoon",N,N,"",0,465,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,111
+47012,"Saskatoon West","Saskatoon-Ouest"," 68","Saskatoon",N,N,"",0,447,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 68","Saskatoon",N,N,"",0,447,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+47012,"Saskatoon West","Saskatoon-Ouest"," 68","Saskatoon",N,N,"",0,447,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 68","Saskatoon",N,N,"",0,447,"Rajakumar","","Ruben","Liberal","Libéral",N,N,9
+47012,"Saskatoon West","Saskatoon-Ouest"," 68","Saskatoon",N,N,"",0,447,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,84
+47012,"Saskatoon West","Saskatoon-Ouest"," 69","Saskatoon",N,N,"",0,478,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+47012,"Saskatoon West","Saskatoon-Ouest"," 69","Saskatoon",N,N,"",0,478,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+47012,"Saskatoon West","Saskatoon-Ouest"," 69","Saskatoon",N,N,"",0,478,"Greenfield","","Dave","Green Party","Parti Vert",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 69","Saskatoon",N,N,"",0,478,"Rajakumar","","Ruben","Liberal","Libéral",N,N,9
+47012,"Saskatoon West","Saskatoon-Ouest"," 69","Saskatoon",N,N,"",0,478,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,71
+47012,"Saskatoon West","Saskatoon-Ouest"," 70","Saskatoon",N,N,"",1,366,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,8
+47012,"Saskatoon West","Saskatoon-Ouest"," 70","Saskatoon",N,N,"",1,366,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+47012,"Saskatoon West","Saskatoon-Ouest"," 70","Saskatoon",N,N,"",1,366,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 70","Saskatoon",N,N,"",1,366,"Rajakumar","","Ruben","Liberal","Libéral",N,N,8
+47012,"Saskatoon West","Saskatoon-Ouest"," 70","Saskatoon",N,N,"",1,366,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,66
+47012,"Saskatoon West","Saskatoon-Ouest"," 71","Saskatoon",N,N,"",0,511,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 71","Saskatoon",N,N,"",0,511,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+47012,"Saskatoon West","Saskatoon-Ouest"," 71","Saskatoon",N,N,"",0,511,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 71","Saskatoon",N,N,"",0,511,"Rajakumar","","Ruben","Liberal","Libéral",N,N,4
+47012,"Saskatoon West","Saskatoon-Ouest"," 71","Saskatoon",N,N,"",0,511,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,61
+47012,"Saskatoon West","Saskatoon-Ouest"," 72","Saskatoon",N,N,"",0,424,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,8
+47012,"Saskatoon West","Saskatoon-Ouest"," 72","Saskatoon",N,N,"",0,424,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+47012,"Saskatoon West","Saskatoon-Ouest"," 72","Saskatoon",N,N,"",0,424,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 72","Saskatoon",N,N,"",0,424,"Rajakumar","","Ruben","Liberal","Libéral",N,N,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 72","Saskatoon",N,N,"",0,424,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,61
+47012,"Saskatoon West","Saskatoon-Ouest"," 73","Saskatoon",N,N,"",2,456,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,14
+47012,"Saskatoon West","Saskatoon-Ouest"," 73","Saskatoon",N,N,"",2,456,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+47012,"Saskatoon West","Saskatoon-Ouest"," 73","Saskatoon",N,N,"",2,456,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 73","Saskatoon",N,N,"",2,456,"Rajakumar","","Ruben","Liberal","Libéral",N,N,9
+47012,"Saskatoon West","Saskatoon-Ouest"," 73","Saskatoon",N,N,"",2,456,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,60
+47012,"Saskatoon West","Saskatoon-Ouest"," 74","Saskatoon",N,N,"",1,438,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,8
+47012,"Saskatoon West","Saskatoon-Ouest"," 74","Saskatoon",N,N,"",1,438,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+47012,"Saskatoon West","Saskatoon-Ouest"," 74","Saskatoon",N,N,"",1,438,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 74","Saskatoon",N,N,"",1,438,"Rajakumar","","Ruben","Liberal","Libéral",N,N,16
+47012,"Saskatoon West","Saskatoon-Ouest"," 74","Saskatoon",N,N,"",1,438,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,71
+47012,"Saskatoon West","Saskatoon-Ouest"," 75","Saskatoon",N,N,"",1,503,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,18
+47012,"Saskatoon West","Saskatoon-Ouest"," 75","Saskatoon",N,N,"",1,503,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+47012,"Saskatoon West","Saskatoon-Ouest"," 75","Saskatoon",N,N,"",1,503,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 75","Saskatoon",N,N,"",1,503,"Rajakumar","","Ruben","Liberal","Libéral",N,N,11
+47012,"Saskatoon West","Saskatoon-Ouest"," 75","Saskatoon",N,N,"",1,503,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,43
+47012,"Saskatoon West","Saskatoon-Ouest"," 76","Saskatoon",N,N,"",1,472,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 76","Saskatoon",N,N,"",1,472,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+47012,"Saskatoon West","Saskatoon-Ouest"," 76","Saskatoon",N,N,"",1,472,"Greenfield","","Dave","Green Party","Parti Vert",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 76","Saskatoon",N,N,"",1,472,"Rajakumar","","Ruben","Liberal","Libéral",N,N,14
+47012,"Saskatoon West","Saskatoon-Ouest"," 76","Saskatoon",N,N,"",1,472,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,38
+47012,"Saskatoon West","Saskatoon-Ouest"," 77","Saskatoon",N,N,"",2,410,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,9
+47012,"Saskatoon West","Saskatoon-Ouest"," 77","Saskatoon",N,N,"",2,410,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+47012,"Saskatoon West","Saskatoon-Ouest"," 77","Saskatoon",N,N,"",2,410,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 77","Saskatoon",N,N,"",2,410,"Rajakumar","","Ruben","Liberal","Libéral",N,N,14
+47012,"Saskatoon West","Saskatoon-Ouest"," 77","Saskatoon",N,N,"",2,410,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,32
+47012,"Saskatoon West","Saskatoon-Ouest"," 78","Saskatoon",N,N,"",1,412,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 78","Saskatoon",N,N,"",1,412,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+47012,"Saskatoon West","Saskatoon-Ouest"," 78","Saskatoon",N,N,"",1,412,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 78","Saskatoon",N,N,"",1,412,"Rajakumar","","Ruben","Liberal","Libéral",N,N,12
+47012,"Saskatoon West","Saskatoon-Ouest"," 78","Saskatoon",N,N,"",1,412,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,22
+47012,"Saskatoon West","Saskatoon-Ouest"," 79","Saskatoon",N,N,"",1,387,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+47012,"Saskatoon West","Saskatoon-Ouest"," 79","Saskatoon",N,N,"",1,387,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,89
+47012,"Saskatoon West","Saskatoon-Ouest"," 79","Saskatoon",N,N,"",1,387,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 79","Saskatoon",N,N,"",1,387,"Rajakumar","","Ruben","Liberal","Libéral",N,N,15
+47012,"Saskatoon West","Saskatoon-Ouest"," 79","Saskatoon",N,N,"",1,387,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,39
+47012,"Saskatoon West","Saskatoon-Ouest"," 80","Saskatoon",N,N,"",0,375,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 80","Saskatoon",N,N,"",0,375,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,81
+47012,"Saskatoon West","Saskatoon-Ouest"," 80","Saskatoon",N,N,"",0,375,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 80","Saskatoon",N,N,"",0,375,"Rajakumar","","Ruben","Liberal","Libéral",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 80","Saskatoon",N,N,"",0,375,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,26
+47012,"Saskatoon West","Saskatoon-Ouest"," 81","Saskatoon",N,N,"",1,443,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,13
+47012,"Saskatoon West","Saskatoon-Ouest"," 81","Saskatoon",N,N,"",1,443,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+47012,"Saskatoon West","Saskatoon-Ouest"," 81","Saskatoon",N,N,"",1,443,"Greenfield","","Dave","Green Party","Parti Vert",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 81","Saskatoon",N,N,"",1,443,"Rajakumar","","Ruben","Liberal","Libéral",N,N,5
+47012,"Saskatoon West","Saskatoon-Ouest"," 81","Saskatoon",N,N,"",1,443,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,34
+47012,"Saskatoon West","Saskatoon-Ouest"," 82","Saskatoon",N,N,"",0,422,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+47012,"Saskatoon West","Saskatoon-Ouest"," 82","Saskatoon",N,N,"",0,422,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,81
+47012,"Saskatoon West","Saskatoon-Ouest"," 82","Saskatoon",N,N,"",0,422,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 82","Saskatoon",N,N,"",0,422,"Rajakumar","","Ruben","Liberal","Libéral",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 82","Saskatoon",N,N,"",0,422,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,35
+47012,"Saskatoon West","Saskatoon-Ouest"," 83","Saskatoon",N,N,"",0,455,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,9
+47012,"Saskatoon West","Saskatoon-Ouest"," 83","Saskatoon",N,N,"",0,455,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,112
+47012,"Saskatoon West","Saskatoon-Ouest"," 83","Saskatoon",N,N,"",0,455,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 83","Saskatoon",N,N,"",0,455,"Rajakumar","","Ruben","Liberal","Libéral",N,N,12
+47012,"Saskatoon West","Saskatoon-Ouest"," 83","Saskatoon",N,N,"",0,455,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,50
+47012,"Saskatoon West","Saskatoon-Ouest"," 84","Saskatoon",N,N,"",1,376,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 84","Saskatoon",N,N,"",1,376,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+47012,"Saskatoon West","Saskatoon-Ouest"," 84","Saskatoon",N,N,"",1,376,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 84","Saskatoon",N,N,"",1,376,"Rajakumar","","Ruben","Liberal","Libéral",N,N,5
+47012,"Saskatoon West","Saskatoon-Ouest"," 84","Saskatoon",N,N,"",1,376,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,28
+47012,"Saskatoon West","Saskatoon-Ouest"," 85","Saskatoon",N,N,"",0,459,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,9
+47012,"Saskatoon West","Saskatoon-Ouest"," 85","Saskatoon",N,N,"",0,459,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+47012,"Saskatoon West","Saskatoon-Ouest"," 85","Saskatoon",N,N,"",0,459,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 85","Saskatoon",N,N,"",0,459,"Rajakumar","","Ruben","Liberal","Libéral",N,N,11
+47012,"Saskatoon West","Saskatoon-Ouest"," 85","Saskatoon",N,N,"",0,459,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,48
+47012,"Saskatoon West","Saskatoon-Ouest"," 86","Saskatoon",N,N,"",1,383,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 86","Saskatoon",N,N,"",1,383,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,94
+47012,"Saskatoon West","Saskatoon-Ouest"," 86","Saskatoon",N,N,"",1,383,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 86","Saskatoon",N,N,"",1,383,"Rajakumar","","Ruben","Liberal","Libéral",N,N,13
+47012,"Saskatoon West","Saskatoon-Ouest"," 86","Saskatoon",N,N,"",1,383,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,37
+47012,"Saskatoon West","Saskatoon-Ouest"," 87","Saskatoon",N,N,"",0,287,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 87","Saskatoon",N,N,"",0,287,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+47012,"Saskatoon West","Saskatoon-Ouest"," 87","Saskatoon",N,N,"",0,287,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 87","Saskatoon",N,N,"",0,287,"Rajakumar","","Ruben","Liberal","Libéral",N,N,9
+47012,"Saskatoon West","Saskatoon-Ouest"," 87","Saskatoon",N,N,"",0,287,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,27
+47012,"Saskatoon West","Saskatoon-Ouest"," 88","Saskatoon",N,N,"",0,431,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 88","Saskatoon",N,N,"",0,431,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,95
+47012,"Saskatoon West","Saskatoon-Ouest"," 88","Saskatoon",N,N,"",0,431,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 88","Saskatoon",N,N,"",0,431,"Rajakumar","","Ruben","Liberal","Libéral",N,N,4
+47012,"Saskatoon West","Saskatoon-Ouest"," 88","Saskatoon",N,N,"",0,431,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,43
+47012,"Saskatoon West","Saskatoon-Ouest"," 89","Saskatoon",N,N,"",5,405,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+47012,"Saskatoon West","Saskatoon-Ouest"," 89","Saskatoon",N,N,"",5,405,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+47012,"Saskatoon West","Saskatoon-Ouest"," 89","Saskatoon",N,N,"",5,405,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 89","Saskatoon",N,N,"",5,405,"Rajakumar","","Ruben","Liberal","Libéral",N,N,4
+47012,"Saskatoon West","Saskatoon-Ouest"," 89","Saskatoon",N,N,"",5,405,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,29
+47012,"Saskatoon West","Saskatoon-Ouest"," 90","Saskatoon",N,N,"",2,335,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,14
+47012,"Saskatoon West","Saskatoon-Ouest"," 90","Saskatoon",N,N,"",2,335,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+47012,"Saskatoon West","Saskatoon-Ouest"," 90","Saskatoon",N,N,"",2,335,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 90","Saskatoon",N,N,"",2,335,"Rajakumar","","Ruben","Liberal","Libéral",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 90","Saskatoon",N,N,"",2,335,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,22
+47012,"Saskatoon West","Saskatoon-Ouest"," 91","Saskatoon",N,N,"",0,525,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,11
+47012,"Saskatoon West","Saskatoon-Ouest"," 91","Saskatoon",N,N,"",0,525,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+47012,"Saskatoon West","Saskatoon-Ouest"," 91","Saskatoon",N,N,"",0,525,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 91","Saskatoon",N,N,"",0,525,"Rajakumar","","Ruben","Liberal","Libéral",N,N,22
+47012,"Saskatoon West","Saskatoon-Ouest"," 91","Saskatoon",N,N,"",0,525,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,68
+47012,"Saskatoon West","Saskatoon-Ouest"," 92","Saskatoon",N,N,"",0,408,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,9
+47012,"Saskatoon West","Saskatoon-Ouest"," 92","Saskatoon",N,N,"",0,408,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+47012,"Saskatoon West","Saskatoon-Ouest"," 92","Saskatoon",N,N,"",0,408,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 92","Saskatoon",N,N,"",0,408,"Rajakumar","","Ruben","Liberal","Libéral",N,N,6
+47012,"Saskatoon West","Saskatoon-Ouest"," 92","Saskatoon",N,N,"",0,408,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,59
+47012,"Saskatoon West","Saskatoon-Ouest"," 93","Saskatoon",N,N,"",4,541,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,14
+47012,"Saskatoon West","Saskatoon-Ouest"," 93","Saskatoon",N,N,"",4,541,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+47012,"Saskatoon West","Saskatoon-Ouest"," 93","Saskatoon",N,N,"",4,541,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 93","Saskatoon",N,N,"",4,541,"Rajakumar","","Ruben","Liberal","Libéral",N,N,20
+47012,"Saskatoon West","Saskatoon-Ouest"," 93","Saskatoon",N,N,"",4,541,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,69
+47012,"Saskatoon West","Saskatoon-Ouest"," 94","Saskatoon",N,N,"",1,392,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 94","Saskatoon",N,N,"",1,392,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+47012,"Saskatoon West","Saskatoon-Ouest"," 94","Saskatoon",N,N,"",1,392,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 94","Saskatoon",N,N,"",1,392,"Rajakumar","","Ruben","Liberal","Libéral",N,N,13
+47012,"Saskatoon West","Saskatoon-Ouest"," 94","Saskatoon",N,N,"",1,392,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,83
+47012,"Saskatoon West","Saskatoon-Ouest"," 95","Saskatoon",N,N,"",0,449,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 95","Saskatoon",N,N,"",0,449,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,78
+47012,"Saskatoon West","Saskatoon-Ouest"," 95","Saskatoon",N,N,"",0,449,"Greenfield","","Dave","Green Party","Parti Vert",N,N,5
+47012,"Saskatoon West","Saskatoon-Ouest"," 95","Saskatoon",N,N,"",0,449,"Rajakumar","","Ruben","Liberal","Libéral",N,N,17
+47012,"Saskatoon West","Saskatoon-Ouest"," 95","Saskatoon",N,N,"",0,449,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,84
+47012,"Saskatoon West","Saskatoon-Ouest"," 96","Saskatoon",N,N,"",0,374,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,9
+47012,"Saskatoon West","Saskatoon-Ouest"," 96","Saskatoon",N,N,"",0,374,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+47012,"Saskatoon West","Saskatoon-Ouest"," 96","Saskatoon",N,N,"",0,374,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 96","Saskatoon",N,N,"",0,374,"Rajakumar","","Ruben","Liberal","Libéral",N,N,14
+47012,"Saskatoon West","Saskatoon-Ouest"," 96","Saskatoon",N,N,"",0,374,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,69
+47012,"Saskatoon West","Saskatoon-Ouest"," 97","Saskatoon",N,N,"",2,428,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+47012,"Saskatoon West","Saskatoon-Ouest"," 97","Saskatoon",N,N,"",2,428,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+47012,"Saskatoon West","Saskatoon-Ouest"," 97","Saskatoon",N,N,"",2,428,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 97","Saskatoon",N,N,"",2,428,"Rajakumar","","Ruben","Liberal","Libéral",N,N,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 97","Saskatoon",N,N,"",2,428,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,65
+47012,"Saskatoon West","Saskatoon-Ouest"," 98","Saskatoon",N,N,"",1,475,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 98","Saskatoon",N,N,"",1,475,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,88
+47012,"Saskatoon West","Saskatoon-Ouest"," 98","Saskatoon",N,N,"",1,475,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 98","Saskatoon",N,N,"",1,475,"Rajakumar","","Ruben","Liberal","Libéral",N,N,13
+47012,"Saskatoon West","Saskatoon-Ouest"," 98","Saskatoon",N,N,"",1,475,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,80
+47012,"Saskatoon West","Saskatoon-Ouest"," 99","Saskatoon",N,N,"",1,558,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,11
+47012,"Saskatoon West","Saskatoon-Ouest"," 99","Saskatoon",N,N,"",1,558,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,88
+47012,"Saskatoon West","Saskatoon-Ouest"," 99","Saskatoon",N,N,"",1,558,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 99","Saskatoon",N,N,"",1,558,"Rajakumar","","Ruben","Liberal","Libéral",N,N,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 99","Saskatoon",N,N,"",1,558,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,62
+47012,"Saskatoon West","Saskatoon-Ouest"," 100","Saskatoon",N,N,"",1,423,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,9
+47012,"Saskatoon West","Saskatoon-Ouest"," 100","Saskatoon",N,N,"",1,423,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+47012,"Saskatoon West","Saskatoon-Ouest"," 100","Saskatoon",N,N,"",1,423,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 100","Saskatoon",N,N,"",1,423,"Rajakumar","","Ruben","Liberal","Libéral",N,N,8
+47012,"Saskatoon West","Saskatoon-Ouest"," 100","Saskatoon",N,N,"",1,423,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,50
+47012,"Saskatoon West","Saskatoon-Ouest"," 101","Saskatoon",N,N,"",1,370,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,14
+47012,"Saskatoon West","Saskatoon-Ouest"," 101","Saskatoon",N,N,"",1,370,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+47012,"Saskatoon West","Saskatoon-Ouest"," 101","Saskatoon",N,N,"",1,370,"Greenfield","","Dave","Green Party","Parti Vert",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 101","Saskatoon",N,N,"",1,370,"Rajakumar","","Ruben","Liberal","Libéral",N,N,12
+47012,"Saskatoon West","Saskatoon-Ouest"," 101","Saskatoon",N,N,"",1,370,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,41
+47012,"Saskatoon West","Saskatoon-Ouest"," 102","Saskatoon",N,N,"",1,335,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+47012,"Saskatoon West","Saskatoon-Ouest"," 102","Saskatoon",N,N,"",1,335,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+47012,"Saskatoon West","Saskatoon-Ouest"," 102","Saskatoon",N,N,"",1,335,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 102","Saskatoon",N,N,"",1,335,"Rajakumar","","Ruben","Liberal","Libéral",N,N,8
+47012,"Saskatoon West","Saskatoon-Ouest"," 102","Saskatoon",N,N,"",1,335,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,26
+47012,"Saskatoon West","Saskatoon-Ouest"," 103","Saskatoon",N,N,"",2,506,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+47012,"Saskatoon West","Saskatoon-Ouest"," 103","Saskatoon",N,N,"",2,506,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+47012,"Saskatoon West","Saskatoon-Ouest"," 103","Saskatoon",N,N,"",2,506,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 103","Saskatoon",N,N,"",2,506,"Rajakumar","","Ruben","Liberal","Libéral",N,N,20
+47012,"Saskatoon West","Saskatoon-Ouest"," 103","Saskatoon",N,N,"",2,506,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,22
+47012,"Saskatoon West","Saskatoon-Ouest"," 104","Saskatoon",N,N,"",4,344,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+47012,"Saskatoon West","Saskatoon-Ouest"," 104","Saskatoon",N,N,"",4,344,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+47012,"Saskatoon West","Saskatoon-Ouest"," 104","Saskatoon",N,N,"",4,344,"Greenfield","","Dave","Green Party","Parti Vert",N,N,4
+47012,"Saskatoon West","Saskatoon-Ouest"," 104","Saskatoon",N,N,"",4,344,"Rajakumar","","Ruben","Liberal","Libéral",N,N,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 104","Saskatoon",N,N,"",4,344,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,47
+47012,"Saskatoon West","Saskatoon-Ouest"," 105","Saskatoon",N,N,"",0,399,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,11
+47012,"Saskatoon West","Saskatoon-Ouest"," 105","Saskatoon",N,N,"",0,399,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+47012,"Saskatoon West","Saskatoon-Ouest"," 105","Saskatoon",N,N,"",0,399,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 105","Saskatoon",N,N,"",0,399,"Rajakumar","","Ruben","Liberal","Libéral",N,N,17
+47012,"Saskatoon West","Saskatoon-Ouest"," 105","Saskatoon",N,N,"",0,399,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,58
+47012,"Saskatoon West","Saskatoon-Ouest"," 106","Saskatoon",N,N,"",1,405,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,12
+47012,"Saskatoon West","Saskatoon-Ouest"," 106","Saskatoon",N,N,"",1,405,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+47012,"Saskatoon West","Saskatoon-Ouest"," 106","Saskatoon",N,N,"",1,405,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 106","Saskatoon",N,N,"",1,405,"Rajakumar","","Ruben","Liberal","Libéral",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 106","Saskatoon",N,N,"",1,405,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,28
+47012,"Saskatoon West","Saskatoon-Ouest"," 107","Saskatoon",N,N,"",1,506,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 107","Saskatoon",N,N,"",1,506,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+47012,"Saskatoon West","Saskatoon-Ouest"," 107","Saskatoon",N,N,"",1,506,"Greenfield","","Dave","Green Party","Parti Vert",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 107","Saskatoon",N,N,"",1,506,"Rajakumar","","Ruben","Liberal","Libéral",N,N,14
+47012,"Saskatoon West","Saskatoon-Ouest"," 107","Saskatoon",N,N,"",1,506,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,48
+47012,"Saskatoon West","Saskatoon-Ouest"," 108","Saskatoon",N,N,"",1,410,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+47012,"Saskatoon West","Saskatoon-Ouest"," 108","Saskatoon",N,N,"",1,410,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+47012,"Saskatoon West","Saskatoon-Ouest"," 108","Saskatoon",N,N,"",1,410,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 108","Saskatoon",N,N,"",1,410,"Rajakumar","","Ruben","Liberal","Libéral",N,N,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 108","Saskatoon",N,N,"",1,410,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,32
+47012,"Saskatoon West","Saskatoon-Ouest"," 109","Saskatoon",N,N,"",0,389,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,11
+47012,"Saskatoon West","Saskatoon-Ouest"," 109","Saskatoon",N,N,"",0,389,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+47012,"Saskatoon West","Saskatoon-Ouest"," 109","Saskatoon",N,N,"",0,389,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 109","Saskatoon",N,N,"",0,389,"Rajakumar","","Ruben","Liberal","Libéral",N,N,9
+47012,"Saskatoon West","Saskatoon-Ouest"," 109","Saskatoon",N,N,"",0,389,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,44
+47012,"Saskatoon West","Saskatoon-Ouest"," 110","Saskatoon",N,N,"",0,403,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,9
+47012,"Saskatoon West","Saskatoon-Ouest"," 110","Saskatoon",N,N,"",0,403,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+47012,"Saskatoon West","Saskatoon-Ouest"," 110","Saskatoon",N,N,"",0,403,"Greenfield","","Dave","Green Party","Parti Vert",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 110","Saskatoon",N,N,"",0,403,"Rajakumar","","Ruben","Liberal","Libéral",N,N,16
+47012,"Saskatoon West","Saskatoon-Ouest"," 110","Saskatoon",N,N,"",0,403,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,66
+47012,"Saskatoon West","Saskatoon-Ouest"," 111","Saskatoon",N,N,"",0,526,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 111","Saskatoon",N,N,"",0,526,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,80
+47012,"Saskatoon West","Saskatoon-Ouest"," 111","Saskatoon",N,N,"",0,526,"Greenfield","","Dave","Green Party","Parti Vert",N,N,4
+47012,"Saskatoon West","Saskatoon-Ouest"," 111","Saskatoon",N,N,"",0,526,"Rajakumar","","Ruben","Liberal","Libéral",N,N,13
+47012,"Saskatoon West","Saskatoon-Ouest"," 111","Saskatoon",N,N,"",0,526,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,40
+47012,"Saskatoon West","Saskatoon-Ouest"," 112","Saskatoon",N,N,"",2,477,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+47012,"Saskatoon West","Saskatoon-Ouest"," 112","Saskatoon",N,N,"",2,477,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,79
+47012,"Saskatoon West","Saskatoon-Ouest"," 112","Saskatoon",N,N,"",2,477,"Greenfield","","Dave","Green Party","Parti Vert",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 112","Saskatoon",N,N,"",2,477,"Rajakumar","","Ruben","Liberal","Libéral",N,N,18
+47012,"Saskatoon West","Saskatoon-Ouest"," 112","Saskatoon",N,N,"",2,477,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,30
+47012,"Saskatoon West","Saskatoon-Ouest"," 113","Saskatoon",N,N,"",0,418,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+47012,"Saskatoon West","Saskatoon-Ouest"," 113","Saskatoon",N,N,"",0,418,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+47012,"Saskatoon West","Saskatoon-Ouest"," 113","Saskatoon",N,N,"",0,418,"Greenfield","","Dave","Green Party","Parti Vert",N,N,5
+47012,"Saskatoon West","Saskatoon-Ouest"," 113","Saskatoon",N,N,"",0,418,"Rajakumar","","Ruben","Liberal","Libéral",N,N,14
+47012,"Saskatoon West","Saskatoon-Ouest"," 113","Saskatoon",N,N,"",0,418,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,36
+47012,"Saskatoon West","Saskatoon-Ouest"," 114","Saskatoon",N,N,"",0,309,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+47012,"Saskatoon West","Saskatoon-Ouest"," 114","Saskatoon",N,N,"",0,309,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+47012,"Saskatoon West","Saskatoon-Ouest"," 114","Saskatoon",N,N,"",0,309,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 114","Saskatoon",N,N,"",0,309,"Rajakumar","","Ruben","Liberal","Libéral",N,N,9
+47012,"Saskatoon West","Saskatoon-Ouest"," 114","Saskatoon",N,N,"",0,309,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,21
+47012,"Saskatoon West","Saskatoon-Ouest"," 115","Saskatoon",N,N,"",0,443,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+47012,"Saskatoon West","Saskatoon-Ouest"," 115","Saskatoon",N,N,"",0,443,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+47012,"Saskatoon West","Saskatoon-Ouest"," 115","Saskatoon",N,N,"",0,443,"Greenfield","","Dave","Green Party","Parti Vert",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 115","Saskatoon",N,N,"",0,443,"Rajakumar","","Ruben","Liberal","Libéral",N,N,20
+47012,"Saskatoon West","Saskatoon-Ouest"," 115","Saskatoon",N,N,"",0,443,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,48
+47012,"Saskatoon West","Saskatoon-Ouest"," 116","Saskatoon",N,N,"",0,379,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 116","Saskatoon",N,N,"",0,379,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+47012,"Saskatoon West","Saskatoon-Ouest"," 116","Saskatoon",N,N,"",0,379,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 116","Saskatoon",N,N,"",0,379,"Rajakumar","","Ruben","Liberal","Libéral",N,N,12
+47012,"Saskatoon West","Saskatoon-Ouest"," 116","Saskatoon",N,N,"",0,379,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,30
+47012,"Saskatoon West","Saskatoon-Ouest"," 117","Saskatoon",N,N,"",0,383,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 117","Saskatoon",N,N,"",0,383,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+47012,"Saskatoon West","Saskatoon-Ouest"," 117","Saskatoon",N,N,"",0,383,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 117","Saskatoon",N,N,"",0,383,"Rajakumar","","Ruben","Liberal","Libéral",N,N,19
+47012,"Saskatoon West","Saskatoon-Ouest"," 117","Saskatoon",N,N,"",0,383,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,54
+47012,"Saskatoon West","Saskatoon-Ouest"," 118","Saskatoon",N,N,"",0,427,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,13
+47012,"Saskatoon West","Saskatoon-Ouest"," 118","Saskatoon",N,N,"",0,427,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+47012,"Saskatoon West","Saskatoon-Ouest"," 118","Saskatoon",N,N,"",0,427,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 118","Saskatoon",N,N,"",0,427,"Rajakumar","","Ruben","Liberal","Libéral",N,N,13
+47012,"Saskatoon West","Saskatoon-Ouest"," 118","Saskatoon",N,N,"",0,427,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,42
+47012,"Saskatoon West","Saskatoon-Ouest"," 119","Saskatoon",N,N,"",0,453,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 119","Saskatoon",N,N,"",0,453,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+47012,"Saskatoon West","Saskatoon-Ouest"," 119","Saskatoon",N,N,"",0,453,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 119","Saskatoon",N,N,"",0,453,"Rajakumar","","Ruben","Liberal","Libéral",N,N,9
+47012,"Saskatoon West","Saskatoon-Ouest"," 119","Saskatoon",N,N,"",0,453,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,20
+47012,"Saskatoon West","Saskatoon-Ouest"," 120","Saskatoon",N,N,"",0,512,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+47012,"Saskatoon West","Saskatoon-Ouest"," 120","Saskatoon",N,N,"",0,512,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+47012,"Saskatoon West","Saskatoon-Ouest"," 120","Saskatoon",N,N,"",0,512,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 120","Saskatoon",N,N,"",0,512,"Rajakumar","","Ruben","Liberal","Libéral",N,N,8
+47012,"Saskatoon West","Saskatoon-Ouest"," 120","Saskatoon",N,N,"",0,512,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,16
+47012,"Saskatoon West","Saskatoon-Ouest"," 121","Saskatoon",N,N,"",0,456,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 121","Saskatoon",N,N,"",0,456,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+47012,"Saskatoon West","Saskatoon-Ouest"," 121","Saskatoon",N,N,"",0,456,"Greenfield","","Dave","Green Party","Parti Vert",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 121","Saskatoon",N,N,"",0,456,"Rajakumar","","Ruben","Liberal","Libéral",N,N,11
+47012,"Saskatoon West","Saskatoon-Ouest"," 121","Saskatoon",N,N,"",0,456,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,40
+47012,"Saskatoon West","Saskatoon-Ouest"," 122","Saskatoon",N,N,"",0,425,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,13
+47012,"Saskatoon West","Saskatoon-Ouest"," 122","Saskatoon",N,N,"",0,425,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+47012,"Saskatoon West","Saskatoon-Ouest"," 122","Saskatoon",N,N,"",0,425,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 122","Saskatoon",N,N,"",0,425,"Rajakumar","","Ruben","Liberal","Libéral",N,N,4
+47012,"Saskatoon West","Saskatoon-Ouest"," 122","Saskatoon",N,N,"",0,425,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,30
+47012,"Saskatoon West","Saskatoon-Ouest"," 123","Saskatoon",N,N,"",2,422,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+47012,"Saskatoon West","Saskatoon-Ouest"," 123","Saskatoon",N,N,"",2,422,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+47012,"Saskatoon West","Saskatoon-Ouest"," 123","Saskatoon",N,N,"",2,422,"Greenfield","","Dave","Green Party","Parti Vert",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 123","Saskatoon",N,N,"",2,422,"Rajakumar","","Ruben","Liberal","Libéral",N,N,6
+47012,"Saskatoon West","Saskatoon-Ouest"," 123","Saskatoon",N,N,"",2,422,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,11
+47012,"Saskatoon West","Saskatoon-Ouest"," 124","Saskatoon",N,N,"",0,383,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+47012,"Saskatoon West","Saskatoon-Ouest"," 124","Saskatoon",N,N,"",0,383,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+47012,"Saskatoon West","Saskatoon-Ouest"," 124","Saskatoon",N,N,"",0,383,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 124","Saskatoon",N,N,"",0,383,"Rajakumar","","Ruben","Liberal","Libéral",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 124","Saskatoon",N,N,"",0,383,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,23
+47012,"Saskatoon West","Saskatoon-Ouest"," 125","Saskatoon",N,N,"",1,523,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,8
+47012,"Saskatoon West","Saskatoon-Ouest"," 125","Saskatoon",N,N,"",1,523,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+47012,"Saskatoon West","Saskatoon-Ouest"," 125","Saskatoon",N,N,"",1,523,"Greenfield","","Dave","Green Party","Parti Vert",N,N,4
+47012,"Saskatoon West","Saskatoon-Ouest"," 125","Saskatoon",N,N,"",1,523,"Rajakumar","","Ruben","Liberal","Libéral",N,N,12
+47012,"Saskatoon West","Saskatoon-Ouest"," 125","Saskatoon",N,N,"",1,523,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,37
+47012,"Saskatoon West","Saskatoon-Ouest"," 126","Saskatoon",N,N,"",1,461,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,11
+47012,"Saskatoon West","Saskatoon-Ouest"," 126","Saskatoon",N,N,"",1,461,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+47012,"Saskatoon West","Saskatoon-Ouest"," 126","Saskatoon",N,N,"",1,461,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 126","Saskatoon",N,N,"",1,461,"Rajakumar","","Ruben","Liberal","Libéral",N,N,12
+47012,"Saskatoon West","Saskatoon-Ouest"," 126","Saskatoon",N,N,"",1,461,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,36
+47012,"Saskatoon West","Saskatoon-Ouest"," 127","Saskatoon",N,N,"",2,452,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,9
+47012,"Saskatoon West","Saskatoon-Ouest"," 127","Saskatoon",N,N,"",2,452,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+47012,"Saskatoon West","Saskatoon-Ouest"," 127","Saskatoon",N,N,"",2,452,"Greenfield","","Dave","Green Party","Parti Vert",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 127","Saskatoon",N,N,"",2,452,"Rajakumar","","Ruben","Liberal","Libéral",N,N,9
+47012,"Saskatoon West","Saskatoon-Ouest"," 127","Saskatoon",N,N,"",2,452,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,29
+47012,"Saskatoon West","Saskatoon-Ouest"," 128","Saskatoon",N,N,"",0,483,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,14
+47012,"Saskatoon West","Saskatoon-Ouest"," 128","Saskatoon",N,N,"",0,483,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+47012,"Saskatoon West","Saskatoon-Ouest"," 128","Saskatoon",N,N,"",0,483,"Greenfield","","Dave","Green Party","Parti Vert",N,N,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 128","Saskatoon",N,N,"",0,483,"Rajakumar","","Ruben","Liberal","Libéral",N,N,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 128","Saskatoon",N,N,"",0,483,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,47
+47012,"Saskatoon West","Saskatoon-Ouest"," 129","Saskatoon",N,N,"",0,393,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 129","Saskatoon",N,N,"",0,393,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+47012,"Saskatoon West","Saskatoon-Ouest"," 129","Saskatoon",N,N,"",0,393,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 129","Saskatoon",N,N,"",0,393,"Rajakumar","","Ruben","Liberal","Libéral",N,N,5
+47012,"Saskatoon West","Saskatoon-Ouest"," 129","Saskatoon",N,N,"",0,393,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,51
+47012,"Saskatoon West","Saskatoon-Ouest"," 130","Saskatoon",N,N,"",0,355,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,12
+47012,"Saskatoon West","Saskatoon-Ouest"," 130","Saskatoon",N,N,"",0,355,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+47012,"Saskatoon West","Saskatoon-Ouest"," 130","Saskatoon",N,N,"",0,355,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 130","Saskatoon",N,N,"",0,355,"Rajakumar","","Ruben","Liberal","Libéral",N,N,8
+47012,"Saskatoon West","Saskatoon-Ouest"," 130","Saskatoon",N,N,"",0,355,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,42
+47012,"Saskatoon West","Saskatoon-Ouest"," 131","Saskatoon",N,N,"",2,611,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 131","Saskatoon",N,N,"",2,611,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+47012,"Saskatoon West","Saskatoon-Ouest"," 131","Saskatoon",N,N,"",2,611,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 131","Saskatoon",N,N,"",2,611,"Rajakumar","","Ruben","Liberal","Libéral",N,N,20
+47012,"Saskatoon West","Saskatoon-Ouest"," 131","Saskatoon",N,N,"",2,611,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,58
+47012,"Saskatoon West","Saskatoon-Ouest"," 500","Mobile poll/Bureau itinérant",N,N,"",0,198,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+47012,"Saskatoon West","Saskatoon-Ouest"," 500","Mobile poll/Bureau itinérant",N,N,"",0,198,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+47012,"Saskatoon West","Saskatoon-Ouest"," 500","Mobile poll/Bureau itinérant",N,N,"",0,198,"Greenfield","","Dave","Green Party","Parti Vert",N,N,6
+47012,"Saskatoon West","Saskatoon-Ouest"," 500","Mobile poll/Bureau itinérant",N,N,"",0,198,"Rajakumar","","Ruben","Liberal","Libéral",N,N,17
+47012,"Saskatoon West","Saskatoon-Ouest"," 500","Mobile poll/Bureau itinérant",N,N,"",0,198,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,24
+47012,"Saskatoon West","Saskatoon-Ouest"," 501","Mobile poll/Bureau itinérant",N,N,"",1,137,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 501","Mobile poll/Bureau itinérant",N,N,"",1,137,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+47012,"Saskatoon West","Saskatoon-Ouest"," 501","Mobile poll/Bureau itinérant",N,N,"",1,137,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 501","Mobile poll/Bureau itinérant",N,N,"",1,137,"Rajakumar","","Ruben","Liberal","Libéral",N,N,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 501","Mobile poll/Bureau itinérant",N,N,"",1,137,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,57
+47012,"Saskatoon West","Saskatoon-Ouest"," 502","Mobile poll/Bureau itinérant",N,N,"",0,82,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 502","Mobile poll/Bureau itinérant",N,N,"",0,82,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+47012,"Saskatoon West","Saskatoon-Ouest"," 502","Mobile poll/Bureau itinérant",N,N,"",0,82,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 502","Mobile poll/Bureau itinérant",N,N,"",0,82,"Rajakumar","","Ruben","Liberal","Libéral",N,N,6
+47012,"Saskatoon West","Saskatoon-Ouest"," 502","Mobile poll/Bureau itinérant",N,N,"",0,82,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,26
+47012,"Saskatoon West","Saskatoon-Ouest"," 503","Mobile poll/Bureau itinérant",N,N,"",2,137,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 503","Mobile poll/Bureau itinérant",N,N,"",2,137,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+47012,"Saskatoon West","Saskatoon-Ouest"," 503","Mobile poll/Bureau itinérant",N,N,"",2,137,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 503","Mobile poll/Bureau itinérant",N,N,"",2,137,"Rajakumar","","Ruben","Liberal","Libéral",N,N,4
+47012,"Saskatoon West","Saskatoon-Ouest"," 503","Mobile poll/Bureau itinérant",N,N,"",2,137,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,16
+47012,"Saskatoon West","Saskatoon-Ouest"," 504","Mobile poll/Bureau itinérant",N,N,"",3,69,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 504","Mobile poll/Bureau itinérant",N,N,"",3,69,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 504","Mobile poll/Bureau itinérant",N,N,"",3,69,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 504","Mobile poll/Bureau itinérant",N,N,"",3,69,"Rajakumar","","Ruben","Liberal","Libéral",N,N,5
+47012,"Saskatoon West","Saskatoon-Ouest"," 504","Mobile poll/Bureau itinérant",N,N,"",3,69,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,19
+47012,"Saskatoon West","Saskatoon-Ouest"," 505","Mobile poll/Bureau itinérant",N,N,"",0,44,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 505","Mobile poll/Bureau itinérant",N,N,"",0,44,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47012,"Saskatoon West","Saskatoon-Ouest"," 505","Mobile poll/Bureau itinérant",N,N,"",0,44,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 505","Mobile poll/Bureau itinérant",N,N,"",0,44,"Rajakumar","","Ruben","Liberal","Libéral",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 505","Mobile poll/Bureau itinérant",N,N,"",0,44,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,8
+47012,"Saskatoon West","Saskatoon-Ouest"," 506","Saskatoon",Y,N,"36",0,0,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 506","Saskatoon",Y,N,"36",0,0,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 506","Saskatoon",Y,N,"36",0,0,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 506","Saskatoon",Y,N,"36",0,0,"Rajakumar","","Ruben","Liberal","Libéral",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 506","Saskatoon",Y,N,"36",0,0,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 507","Mobile poll/Bureau itinérant",N,N,"",2,59,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 507","Mobile poll/Bureau itinérant",N,N,"",2,59,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+47012,"Saskatoon West","Saskatoon-Ouest"," 507","Mobile poll/Bureau itinérant",N,N,"",2,59,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 507","Mobile poll/Bureau itinérant",N,N,"",2,59,"Rajakumar","","Ruben","Liberal","Libéral",N,N,5
+47012,"Saskatoon West","Saskatoon-Ouest"," 507","Mobile poll/Bureau itinérant",N,N,"",2,59,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,8
+47012,"Saskatoon West","Saskatoon-Ouest"," 508","Mobile poll/Bureau itinérant",N,N,"",0,34,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 508","Mobile poll/Bureau itinérant",N,N,"",0,34,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 508","Mobile poll/Bureau itinérant",N,N,"",0,34,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 508","Mobile poll/Bureau itinérant",N,N,"",0,34,"Rajakumar","","Ruben","Liberal","Libéral",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 508","Mobile poll/Bureau itinérant",N,N,"",0,34,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,4
+47012,"Saskatoon West","Saskatoon-Ouest"," 509","Mobile poll/Bureau itinérant",N,N,"",0,57,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 509","Mobile poll/Bureau itinérant",N,N,"",0,57,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 509","Mobile poll/Bureau itinérant",N,N,"",0,57,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 509","Mobile poll/Bureau itinérant",N,N,"",0,57,"Rajakumar","","Ruben","Liberal","Libéral",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 509","Mobile poll/Bureau itinérant",N,N,"",0,57,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,20
+47012,"Saskatoon West","Saskatoon-Ouest"," 510","Mobile poll/Bureau itinérant",N,N,"",1,72,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 510","Mobile poll/Bureau itinérant",N,N,"",1,72,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+47012,"Saskatoon West","Saskatoon-Ouest"," 510","Mobile poll/Bureau itinérant",N,N,"",1,72,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 510","Mobile poll/Bureau itinérant",N,N,"",1,72,"Rajakumar","","Ruben","Liberal","Libéral",N,N,8
+47012,"Saskatoon West","Saskatoon-Ouest"," 510","Mobile poll/Bureau itinérant",N,N,"",1,72,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,14
+47012,"Saskatoon West","Saskatoon-Ouest"," 511","Mobile poll/Bureau itinérant",N,N,"",1,134,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 511","Mobile poll/Bureau itinérant",N,N,"",1,134,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+47012,"Saskatoon West","Saskatoon-Ouest"," 511","Mobile poll/Bureau itinérant",N,N,"",1,134,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 511","Mobile poll/Bureau itinérant",N,N,"",1,134,"Rajakumar","","Ruben","Liberal","Libéral",N,N,12
+47012,"Saskatoon West","Saskatoon-Ouest"," 511","Mobile poll/Bureau itinérant",N,N,"",1,134,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,13
+47012,"Saskatoon West","Saskatoon-Ouest"," 512","Mobile poll/Bureau itinérant",N,N,"",0,54,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 512","Mobile poll/Bureau itinérant",N,N,"",0,54,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+47012,"Saskatoon West","Saskatoon-Ouest"," 512","Mobile poll/Bureau itinérant",N,N,"",0,54,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 512","Mobile poll/Bureau itinérant",N,N,"",0,54,"Rajakumar","","Ruben","Liberal","Libéral",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 512","Mobile poll/Bureau itinérant",N,N,"",0,54,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 513","Mobile poll/Bureau itinérant",N,N,"",0,116,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 513","Mobile poll/Bureau itinérant",N,N,"",0,116,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+47012,"Saskatoon West","Saskatoon-Ouest"," 513","Mobile poll/Bureau itinérant",N,N,"",0,116,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 513","Mobile poll/Bureau itinérant",N,N,"",0,116,"Rajakumar","","Ruben","Liberal","Libéral",N,N,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 513","Mobile poll/Bureau itinérant",N,N,"",0,116,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,26
+47012,"Saskatoon West","Saskatoon-Ouest"," 514","Mobile poll/Bureau itinérant",N,N,"",1,53,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 514","Mobile poll/Bureau itinérant",N,N,"",1,53,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47012,"Saskatoon West","Saskatoon-Ouest"," 514","Mobile poll/Bureau itinérant",N,N,"",1,53,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 514","Mobile poll/Bureau itinérant",N,N,"",1,53,"Rajakumar","","Ruben","Liberal","Libéral",N,N,6
+47012,"Saskatoon West","Saskatoon-Ouest"," 514","Mobile poll/Bureau itinérant",N,N,"",1,53,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 515","Mobile poll/Bureau itinérant",N,N,"",1,115,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 515","Mobile poll/Bureau itinérant",N,N,"",1,115,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+47012,"Saskatoon West","Saskatoon-Ouest"," 515","Mobile poll/Bureau itinérant",N,N,"",1,115,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 515","Mobile poll/Bureau itinérant",N,N,"",1,115,"Rajakumar","","Ruben","Liberal","Libéral",N,N,6
+47012,"Saskatoon West","Saskatoon-Ouest"," 515","Mobile poll/Bureau itinérant",N,N,"",1,115,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,21
+47012,"Saskatoon West","Saskatoon-Ouest"," 516","Mobile poll/Bureau itinérant",N,N,"",1,143,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 516","Mobile poll/Bureau itinérant",N,N,"",1,143,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+47012,"Saskatoon West","Saskatoon-Ouest"," 516","Mobile poll/Bureau itinérant",N,N,"",1,143,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 516","Mobile poll/Bureau itinérant",N,N,"",1,143,"Rajakumar","","Ruben","Liberal","Libéral",N,N,11
+47012,"Saskatoon West","Saskatoon-Ouest"," 516","Mobile poll/Bureau itinérant",N,N,"",1,143,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,27
+47012,"Saskatoon West","Saskatoon-Ouest"," 517","Mobile poll/Bureau itinérant",N,N,"",1,71,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 517","Mobile poll/Bureau itinérant",N,N,"",1,71,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+47012,"Saskatoon West","Saskatoon-Ouest"," 517","Mobile poll/Bureau itinérant",N,N,"",1,71,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 517","Mobile poll/Bureau itinérant",N,N,"",1,71,"Rajakumar","","Ruben","Liberal","Libéral",N,N,17
+47012,"Saskatoon West","Saskatoon-Ouest"," 517","Mobile poll/Bureau itinérant",N,N,"",1,71,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,15
+47012,"Saskatoon West","Saskatoon-Ouest"," 518","Mobile poll/Bureau itinérant",N,N,"",5,80,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 518","Mobile poll/Bureau itinérant",N,N,"",5,80,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 518","Mobile poll/Bureau itinérant",N,N,"",5,80,"Greenfield","","Dave","Green Party","Parti Vert",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 518","Mobile poll/Bureau itinérant",N,N,"",5,80,"Rajakumar","","Ruben","Liberal","Libéral",N,N,14
+47012,"Saskatoon West","Saskatoon-Ouest"," 518","Mobile poll/Bureau itinérant",N,N,"",5,80,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,9
+47012,"Saskatoon West","Saskatoon-Ouest"," 519","Mobile poll/Bureau itinérant",N,N,"",4,77,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 519","Mobile poll/Bureau itinérant",N,N,"",4,77,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+47012,"Saskatoon West","Saskatoon-Ouest"," 519","Mobile poll/Bureau itinérant",N,N,"",4,77,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 519","Mobile poll/Bureau itinérant",N,N,"",4,77,"Rajakumar","","Ruben","Liberal","Libéral",N,N,5
+47012,"Saskatoon West","Saskatoon-Ouest"," 519","Mobile poll/Bureau itinérant",N,N,"",4,77,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,21
+47012,"Saskatoon West","Saskatoon-Ouest"," 520","Mobile poll/Bureau itinérant",N,N,"",1,74,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 520","Mobile poll/Bureau itinérant",N,N,"",1,74,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+47012,"Saskatoon West","Saskatoon-Ouest"," 520","Mobile poll/Bureau itinérant",N,N,"",1,74,"Greenfield","","Dave","Green Party","Parti Vert",N,N,0
+47012,"Saskatoon West","Saskatoon-Ouest"," 520","Mobile poll/Bureau itinérant",N,N,"",1,74,"Rajakumar","","Ruben","Liberal","Libéral",N,N,6
+47012,"Saskatoon West","Saskatoon-Ouest"," 520","Mobile poll/Bureau itinérant",N,N,"",1,74,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,15
+47012,"Saskatoon West","Saskatoon-Ouest"," 521","Mobile poll/Bureau itinérant",N,N,"",1,103,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+47012,"Saskatoon West","Saskatoon-Ouest"," 521","Mobile poll/Bureau itinérant",N,N,"",1,103,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+47012,"Saskatoon West","Saskatoon-Ouest"," 521","Mobile poll/Bureau itinérant",N,N,"",1,103,"Greenfield","","Dave","Green Party","Parti Vert",N,N,2
+47012,"Saskatoon West","Saskatoon-Ouest"," 521","Mobile poll/Bureau itinérant",N,N,"",1,103,"Rajakumar","","Ruben","Liberal","Libéral",N,N,12
+47012,"Saskatoon West","Saskatoon-Ouest"," 521","Mobile poll/Bureau itinérant",N,N,"",1,103,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 600","Saskatoon",N,N,"",3,0,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,68
+47012,"Saskatoon West","Saskatoon-Ouest"," 600","Saskatoon",N,N,"",3,0,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,320
+47012,"Saskatoon West","Saskatoon-Ouest"," 600","Saskatoon",N,N,"",3,0,"Greenfield","","Dave","Green Party","Parti Vert",N,N,9
+47012,"Saskatoon West","Saskatoon-Ouest"," 600","Saskatoon",N,N,"",3,0,"Rajakumar","","Ruben","Liberal","Libéral",N,N,81
+47012,"Saskatoon West","Saskatoon-Ouest"," 600","Saskatoon",N,N,"",3,0,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,724
+47012,"Saskatoon West","Saskatoon-Ouest"," 601","Saskatoon",N,N,"",2,0,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,69
+47012,"Saskatoon West","Saskatoon-Ouest"," 601","Saskatoon",N,N,"",2,0,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,330
+47012,"Saskatoon West","Saskatoon-Ouest"," 601","Saskatoon",N,N,"",2,0,"Greenfield","","Dave","Green Party","Parti Vert",N,N,6
+47012,"Saskatoon West","Saskatoon-Ouest"," 601","Saskatoon",N,N,"",2,0,"Rajakumar","","Ruben","Liberal","Libéral",N,N,61
+47012,"Saskatoon West","Saskatoon-Ouest"," 601","Saskatoon",N,N,"",2,0,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,794
+47012,"Saskatoon West","Saskatoon-Ouest"," 602","Saskatoon",N,N,"",3,0,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,93
+47012,"Saskatoon West","Saskatoon-Ouest"," 602","Saskatoon",N,N,"",3,0,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,381
+47012,"Saskatoon West","Saskatoon-Ouest"," 602","Saskatoon",N,N,"",3,0,"Greenfield","","Dave","Green Party","Parti Vert",N,N,1
+47012,"Saskatoon West","Saskatoon-Ouest"," 602","Saskatoon",N,N,"",3,0,"Rajakumar","","Ruben","Liberal","Libéral",N,N,65
+47012,"Saskatoon West","Saskatoon-Ouest"," 602","Saskatoon",N,N,"",3,0,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,722
+47012,"Saskatoon West","Saskatoon-Ouest"," 603","Saskatoon",N,N,"",4,0,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,46
+47012,"Saskatoon West","Saskatoon-Ouest"," 603","Saskatoon",N,N,"",4,0,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,254
+47012,"Saskatoon West","Saskatoon-Ouest"," 603","Saskatoon",N,N,"",4,0,"Greenfield","","Dave","Green Party","Parti Vert",N,N,6
+47012,"Saskatoon West","Saskatoon-Ouest"," 603","Saskatoon",N,N,"",4,0,"Rajakumar","","Ruben","Liberal","Libéral",N,N,46
+47012,"Saskatoon West","Saskatoon-Ouest"," 603","Saskatoon",N,N,"",4,0,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,411
+47012,"Saskatoon West","Saskatoon-Ouest"," 604","Saskatoon",N,N,"",0,0,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,65
+47012,"Saskatoon West","Saskatoon-Ouest"," 604","Saskatoon",N,N,"",0,0,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,281
+47012,"Saskatoon West","Saskatoon-Ouest"," 604","Saskatoon",N,N,"",0,0,"Greenfield","","Dave","Green Party","Parti Vert",N,N,6
+47012,"Saskatoon West","Saskatoon-Ouest"," 604","Saskatoon",N,N,"",0,0,"Rajakumar","","Ruben","Liberal","Libéral",N,N,38
+47012,"Saskatoon West","Saskatoon-Ouest"," 604","Saskatoon",N,N,"",0,0,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,563
+47012,"Saskatoon West","Saskatoon-Ouest"," 605","Saskatoon",N,N,"",4,0,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,47
+47012,"Saskatoon West","Saskatoon-Ouest"," 605","Saskatoon",N,N,"",4,0,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,247
+47012,"Saskatoon West","Saskatoon-Ouest"," 605","Saskatoon",N,N,"",4,0,"Greenfield","","Dave","Green Party","Parti Vert",N,N,4
+47012,"Saskatoon West","Saskatoon-Ouest"," 605","Saskatoon",N,N,"",4,0,"Rajakumar","","Ruben","Liberal","Libéral",N,N,31
+47012,"Saskatoon West","Saskatoon-Ouest"," 605","Saskatoon",N,N,"",4,0,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,604
+47012,"Saskatoon West","Saskatoon-Ouest"," 606","Saskatoon",N,N,"",7,0,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,85
+47012,"Saskatoon West","Saskatoon-Ouest"," 606","Saskatoon",N,N,"",7,0,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,390
+47012,"Saskatoon West","Saskatoon-Ouest"," 606","Saskatoon",N,N,"",7,0,"Greenfield","","Dave","Green Party","Parti Vert",N,N,6
+47012,"Saskatoon West","Saskatoon-Ouest"," 606","Saskatoon",N,N,"",7,0,"Rajakumar","","Ruben","Liberal","Libéral",N,N,72
+47012,"Saskatoon West","Saskatoon-Ouest"," 606","Saskatoon",N,N,"",7,0,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,618
+47012,"Saskatoon West","Saskatoon-Ouest"," 607","Saskatoon",N,N,"",5,0,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,51
+47012,"Saskatoon West","Saskatoon-Ouest"," 607","Saskatoon",N,N,"",5,0,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,420
+47012,"Saskatoon West","Saskatoon-Ouest"," 607","Saskatoon",N,N,"",5,0,"Greenfield","","Dave","Green Party","Parti Vert",N,N,8
+47012,"Saskatoon West","Saskatoon-Ouest"," 607","Saskatoon",N,N,"",5,0,"Rajakumar","","Ruben","Liberal","Libéral",N,N,38
+47012,"Saskatoon West","Saskatoon-Ouest"," 607","Saskatoon",N,N,"",5,0,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,259
+47012,"Saskatoon West","Saskatoon-Ouest"," 608","Saskatoon",N,N,"",11,0,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,67
+47012,"Saskatoon West","Saskatoon-Ouest"," 608","Saskatoon",N,N,"",11,0,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,599
+47012,"Saskatoon West","Saskatoon-Ouest"," 608","Saskatoon",N,N,"",11,0,"Greenfield","","Dave","Green Party","Parti Vert",N,N,15
+47012,"Saskatoon West","Saskatoon-Ouest"," 608","Saskatoon",N,N,"",11,0,"Rajakumar","","Ruben","Liberal","Libéral",N,N,134
+47012,"Saskatoon West","Saskatoon-Ouest"," 608","Saskatoon",N,N,"",11,0,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,372
+47012,"Saskatoon West","Saskatoon-Ouest"," 609","Saskatoon",N,N,"",3,0,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,57
+47012,"Saskatoon West","Saskatoon-Ouest"," 609","Saskatoon",N,N,"",3,0,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,523
+47012,"Saskatoon West","Saskatoon-Ouest"," 609","Saskatoon",N,N,"",3,0,"Greenfield","","Dave","Green Party","Parti Vert",N,N,10
+47012,"Saskatoon West","Saskatoon-Ouest"," 609","Saskatoon",N,N,"",3,0,"Rajakumar","","Ruben","Liberal","Libéral",N,N,57
+47012,"Saskatoon West","Saskatoon-Ouest"," 609","Saskatoon",N,N,"",3,0,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,307
+47012,"Saskatoon West","Saskatoon-Ouest"," 610","Saskatoon",N,N,"",3,0,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,54
+47012,"Saskatoon West","Saskatoon-Ouest"," 610","Saskatoon",N,N,"",3,0,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,237
+47012,"Saskatoon West","Saskatoon-Ouest"," 610","Saskatoon",N,N,"",3,0,"Greenfield","","Dave","Green Party","Parti Vert",N,N,7
+47012,"Saskatoon West","Saskatoon-Ouest"," 610","Saskatoon",N,N,"",3,0,"Rajakumar","","Ruben","Liberal","Libéral",N,N,47
+47012,"Saskatoon West","Saskatoon-Ouest"," 610","Saskatoon",N,N,"",3,0,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,355
+47012,"Saskatoon West","Saskatoon-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",29,402,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,27
+47012,"Saskatoon West","Saskatoon-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",29,402,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,246
+47012,"Saskatoon West","Saskatoon-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",29,402,"Greenfield","","Dave","Green Party","Parti Vert",N,N,16
+47012,"Saskatoon West","Saskatoon-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",29,402,"Rajakumar","","Ruben","Liberal","Libéral",N,N,136
+47012,"Saskatoon West","Saskatoon-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",29,402,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,115
+47012,"Saskatoon West","Saskatoon-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",75,0,"Boychuk","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,50
+47012,"Saskatoon West","Saskatoon-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",75,0,"Doucette","","Robert","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1120
+47012,"Saskatoon West","Saskatoon-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",75,0,"Greenfield","","Dave","Green Party","Parti Vert",N,N,15
+47012,"Saskatoon West","Saskatoon-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",75,0,"Rajakumar","","Ruben","Liberal","Libéral",N,N,176
+47012,"Saskatoon West","Saskatoon-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",75,0,"Redekopp","","Brad","Conservative","Conservateur",Y,Y,761

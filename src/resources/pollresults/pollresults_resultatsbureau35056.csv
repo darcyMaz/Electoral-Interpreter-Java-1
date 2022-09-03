@@ -1,0 +1,877 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+35056,"Markham--Unionville","Markham--Unionville"," 1","Markham",N,N,"3",0,319,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 1","Markham",N,N,"3",0,319,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 1","Markham",N,N,"3",0,319,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 1","Markham",N,N,"3",0,319,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 2","Markham",N,N,"",3,639,"Chiang","","Paul","Liberal","Libéral",N,Y,104
+35056,"Markham--Unionville","Markham--Unionville"," 2","Markham",N,N,"",3,639,"Kao","","Elvin","Green Party","Parti Vert",N,N,8
+35056,"Markham--Unionville","Markham--Unionville"," 2","Markham",N,N,"",3,639,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35056,"Markham--Unionville","Markham--Unionville"," 2","Markham",N,N,"",3,639,"Saroya","","Bob","Conservative","Conservateur",Y,N,87
+35056,"Markham--Unionville","Markham--Unionville"," 3","Markham",N,N,"",4,550,"Chiang","","Paul","Liberal","Libéral",N,Y,138
+35056,"Markham--Unionville","Markham--Unionville"," 3","Markham",N,N,"",4,550,"Kao","","Elvin","Green Party","Parti Vert",N,N,5
+35056,"Markham--Unionville","Markham--Unionville"," 3","Markham",N,N,"",4,550,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35056,"Markham--Unionville","Markham--Unionville"," 3","Markham",N,N,"",4,550,"Saroya","","Bob","Conservative","Conservateur",Y,N,130
+35056,"Markham--Unionville","Markham--Unionville"," 4","Markham",N,N,"",2,482,"Chiang","","Paul","Liberal","Libéral",N,Y,75
+35056,"Markham--Unionville","Markham--Unionville"," 4","Markham",N,N,"",2,482,"Kao","","Elvin","Green Party","Parti Vert",N,N,8
+35056,"Markham--Unionville","Markham--Unionville"," 4","Markham",N,N,"",2,482,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35056,"Markham--Unionville","Markham--Unionville"," 4","Markham",N,N,"",2,482,"Saroya","","Bob","Conservative","Conservateur",Y,N,54
+35056,"Markham--Unionville","Markham--Unionville"," 5","Markham",N,N,"",0,450,"Chiang","","Paul","Liberal","Libéral",N,Y,81
+35056,"Markham--Unionville","Markham--Unionville"," 5","Markham",N,N,"",0,450,"Kao","","Elvin","Green Party","Parti Vert",N,N,2
+35056,"Markham--Unionville","Markham--Unionville"," 5","Markham",N,N,"",0,450,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35056,"Markham--Unionville","Markham--Unionville"," 5","Markham",N,N,"",0,450,"Saroya","","Bob","Conservative","Conservateur",Y,N,62
+35056,"Markham--Unionville","Markham--Unionville"," 6","Markham",N,N,"",0,594,"Chiang","","Paul","Liberal","Libéral",N,Y,96
+35056,"Markham--Unionville","Markham--Unionville"," 6","Markham",N,N,"",0,594,"Kao","","Elvin","Green Party","Parti Vert",N,N,3
+35056,"Markham--Unionville","Markham--Unionville"," 6","Markham",N,N,"",0,594,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35056,"Markham--Unionville","Markham--Unionville"," 6","Markham",N,N,"",0,594,"Saroya","","Bob","Conservative","Conservateur",Y,N,74
+35056,"Markham--Unionville","Markham--Unionville"," 7","Markham",N,N,"",4,484,"Chiang","","Paul","Liberal","Libéral",N,Y,88
+35056,"Markham--Unionville","Markham--Unionville"," 7","Markham",N,N,"",4,484,"Kao","","Elvin","Green Party","Parti Vert",N,N,2
+35056,"Markham--Unionville","Markham--Unionville"," 7","Markham",N,N,"",4,484,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35056,"Markham--Unionville","Markham--Unionville"," 7","Markham",N,N,"",4,484,"Saroya","","Bob","Conservative","Conservateur",Y,N,48
+35056,"Markham--Unionville","Markham--Unionville"," 8","Markham",N,N,"",4,415,"Chiang","","Paul","Liberal","Libéral",N,Y,189
+35056,"Markham--Unionville","Markham--Unionville"," 8","Markham",N,N,"",4,415,"Kao","","Elvin","Green Party","Parti Vert",N,N,5
+35056,"Markham--Unionville","Markham--Unionville"," 8","Markham",N,N,"",4,415,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35056,"Markham--Unionville","Markham--Unionville"," 8","Markham",N,N,"",4,415,"Saroya","","Bob","Conservative","Conservateur",Y,N,100
+35056,"Markham--Unionville","Markham--Unionville"," 9","Markham",N,N,"",4,885,"Chiang","","Paul","Liberal","Libéral",N,Y,114
+35056,"Markham--Unionville","Markham--Unionville"," 9","Markham",N,N,"",4,885,"Kao","","Elvin","Green Party","Parti Vert",N,N,10
+35056,"Markham--Unionville","Markham--Unionville"," 9","Markham",N,N,"",4,885,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35056,"Markham--Unionville","Markham--Unionville"," 9","Markham",N,N,"",4,885,"Saroya","","Bob","Conservative","Conservateur",Y,N,97
+35056,"Markham--Unionville","Markham--Unionville"," 10","Markham",N,N,"",5,755,"Chiang","","Paul","Liberal","Libéral",N,Y,94
+35056,"Markham--Unionville","Markham--Unionville"," 10","Markham",N,N,"",5,755,"Kao","","Elvin","Green Party","Parti Vert",N,N,2
+35056,"Markham--Unionville","Markham--Unionville"," 10","Markham",N,N,"",5,755,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35056,"Markham--Unionville","Markham--Unionville"," 10","Markham",N,N,"",5,755,"Saroya","","Bob","Conservative","Conservateur",Y,N,95
+35056,"Markham--Unionville","Markham--Unionville"," 11","Markham",N,N,"",6,458,"Chiang","","Paul","Liberal","Libéral",N,Y,80
+35056,"Markham--Unionville","Markham--Unionville"," 11","Markham",N,N,"",6,458,"Kao","","Elvin","Green Party","Parti Vert",N,N,6
+35056,"Markham--Unionville","Markham--Unionville"," 11","Markham",N,N,"",6,458,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35056,"Markham--Unionville","Markham--Unionville"," 11","Markham",N,N,"",6,458,"Saroya","","Bob","Conservative","Conservateur",Y,N,88
+35056,"Markham--Unionville","Markham--Unionville"," 12","Markham",N,N,"",3,580,"Chiang","","Paul","Liberal","Libéral",N,Y,108
+35056,"Markham--Unionville","Markham--Unionville"," 12","Markham",N,N,"",3,580,"Kao","","Elvin","Green Party","Parti Vert",N,N,6
+35056,"Markham--Unionville","Markham--Unionville"," 12","Markham",N,N,"",3,580,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35056,"Markham--Unionville","Markham--Unionville"," 12","Markham",N,N,"",3,580,"Saroya","","Bob","Conservative","Conservateur",Y,N,75
+35056,"Markham--Unionville","Markham--Unionville"," 13","Markham",N,N,"",1,455,"Chiang","","Paul","Liberal","Libéral",N,Y,71
+35056,"Markham--Unionville","Markham--Unionville"," 13","Markham",N,N,"",1,455,"Kao","","Elvin","Green Party","Parti Vert",N,N,3
+35056,"Markham--Unionville","Markham--Unionville"," 13","Markham",N,N,"",1,455,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35056,"Markham--Unionville","Markham--Unionville"," 13","Markham",N,N,"",1,455,"Saroya","","Bob","Conservative","Conservateur",Y,N,50
+35056,"Markham--Unionville","Markham--Unionville"," 14","Markham",N,N,"",0,577,"Chiang","","Paul","Liberal","Libéral",N,Y,82
+35056,"Markham--Unionville","Markham--Unionville"," 14","Markham",N,N,"",0,577,"Kao","","Elvin","Green Party","Parti Vert",N,N,1
+35056,"Markham--Unionville","Markham--Unionville"," 14","Markham",N,N,"",0,577,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35056,"Markham--Unionville","Markham--Unionville"," 14","Markham",N,N,"",0,577,"Saroya","","Bob","Conservative","Conservateur",Y,N,85
+35056,"Markham--Unionville","Markham--Unionville"," 15","Markham",N,N,"",2,562,"Chiang","","Paul","Liberal","Libéral",N,Y,88
+35056,"Markham--Unionville","Markham--Unionville"," 15","Markham",N,N,"",2,562,"Kao","","Elvin","Green Party","Parti Vert",N,N,3
+35056,"Markham--Unionville","Markham--Unionville"," 15","Markham",N,N,"",2,562,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35056,"Markham--Unionville","Markham--Unionville"," 15","Markham",N,N,"",2,562,"Saroya","","Bob","Conservative","Conservateur",Y,N,45
+35056,"Markham--Unionville","Markham--Unionville"," 16","Markham",N,N,"8",0,398,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 16","Markham",N,N,"8",0,398,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 16","Markham",N,N,"8",0,398,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 16","Markham",N,N,"8",0,398,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 17","Markham",N,N,"",0,678,"Chiang","","Paul","Liberal","Libéral",N,Y,81
+35056,"Markham--Unionville","Markham--Unionville"," 17","Markham",N,N,"",0,678,"Kao","","Elvin","Green Party","Parti Vert",N,N,5
+35056,"Markham--Unionville","Markham--Unionville"," 17","Markham",N,N,"",0,678,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35056,"Markham--Unionville","Markham--Unionville"," 17","Markham",N,N,"",0,678,"Saroya","","Bob","Conservative","Conservateur",Y,N,79
+35056,"Markham--Unionville","Markham--Unionville"," 18","Markham",N,N,"",1,435,"Chiang","","Paul","Liberal","Libéral",N,Y,67
+35056,"Markham--Unionville","Markham--Unionville"," 18","Markham",N,N,"",1,435,"Kao","","Elvin","Green Party","Parti Vert",N,N,2
+35056,"Markham--Unionville","Markham--Unionville"," 18","Markham",N,N,"",1,435,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35056,"Markham--Unionville","Markham--Unionville"," 18","Markham",N,N,"",1,435,"Saroya","","Bob","Conservative","Conservateur",Y,N,44
+35056,"Markham--Unionville","Markham--Unionville"," 19","Markham",N,N,"",2,526,"Chiang","","Paul","Liberal","Libéral",N,Y,67
+35056,"Markham--Unionville","Markham--Unionville"," 19","Markham",N,N,"",2,526,"Kao","","Elvin","Green Party","Parti Vert",N,N,2
+35056,"Markham--Unionville","Markham--Unionville"," 19","Markham",N,N,"",2,526,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35056,"Markham--Unionville","Markham--Unionville"," 19","Markham",N,N,"",2,526,"Saroya","","Bob","Conservative","Conservateur",Y,N,75
+35056,"Markham--Unionville","Markham--Unionville"," 20","Markham",N,N,"",0,631,"Chiang","","Paul","Liberal","Libéral",N,Y,85
+35056,"Markham--Unionville","Markham--Unionville"," 20","Markham",N,N,"",0,631,"Kao","","Elvin","Green Party","Parti Vert",N,N,4
+35056,"Markham--Unionville","Markham--Unionville"," 20","Markham",N,N,"",0,631,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35056,"Markham--Unionville","Markham--Unionville"," 20","Markham",N,N,"",0,631,"Saroya","","Bob","Conservative","Conservateur",Y,N,115
+35056,"Markham--Unionville","Markham--Unionville"," 21","Markham",N,N,"",0,669,"Chiang","","Paul","Liberal","Libéral",N,Y,95
+35056,"Markham--Unionville","Markham--Unionville"," 21","Markham",N,N,"",0,669,"Kao","","Elvin","Green Party","Parti Vert",N,N,3
+35056,"Markham--Unionville","Markham--Unionville"," 21","Markham",N,N,"",0,669,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35056,"Markham--Unionville","Markham--Unionville"," 21","Markham",N,N,"",0,669,"Saroya","","Bob","Conservative","Conservateur",Y,N,72
+35056,"Markham--Unionville","Markham--Unionville"," 22","Markham",N,N,"",2,772,"Chiang","","Paul","Liberal","Libéral",N,Y,102
+35056,"Markham--Unionville","Markham--Unionville"," 22","Markham",N,N,"",2,772,"Kao","","Elvin","Green Party","Parti Vert",N,N,69
+35056,"Markham--Unionville","Markham--Unionville"," 22","Markham",N,N,"",2,772,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35056,"Markham--Unionville","Markham--Unionville"," 22","Markham",N,N,"",2,772,"Saroya","","Bob","Conservative","Conservateur",Y,N,11
+35056,"Markham--Unionville","Markham--Unionville"," 23","Markham",N,N,"",2,571,"Chiang","","Paul","Liberal","Libéral",N,Y,79
+35056,"Markham--Unionville","Markham--Unionville"," 23","Markham",N,N,"",2,571,"Kao","","Elvin","Green Party","Parti Vert",N,N,12
+35056,"Markham--Unionville","Markham--Unionville"," 23","Markham",N,N,"",2,571,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35056,"Markham--Unionville","Markham--Unionville"," 23","Markham",N,N,"",2,571,"Saroya","","Bob","Conservative","Conservateur",Y,N,75
+35056,"Markham--Unionville","Markham--Unionville"," 24","Markham",N,N,"",0,541,"Chiang","","Paul","Liberal","Libéral",N,Y,116
+35056,"Markham--Unionville","Markham--Unionville"," 24","Markham",N,N,"",0,541,"Kao","","Elvin","Green Party","Parti Vert",N,N,3
+35056,"Markham--Unionville","Markham--Unionville"," 24","Markham",N,N,"",0,541,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35056,"Markham--Unionville","Markham--Unionville"," 24","Markham",N,N,"",0,541,"Saroya","","Bob","Conservative","Conservateur",Y,N,40
+35056,"Markham--Unionville","Markham--Unionville"," 25","Markham",N,N,"",0,444,"Chiang","","Paul","Liberal","Libéral",N,Y,155
+35056,"Markham--Unionville","Markham--Unionville"," 25","Markham",N,N,"",0,444,"Kao","","Elvin","Green Party","Parti Vert",N,N,3
+35056,"Markham--Unionville","Markham--Unionville"," 25","Markham",N,N,"",0,444,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35056,"Markham--Unionville","Markham--Unionville"," 25","Markham",N,N,"",0,444,"Saroya","","Bob","Conservative","Conservateur",Y,N,104
+35056,"Markham--Unionville","Markham--Unionville"," 26","Markham",N,N,"25",0,432,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 26","Markham",N,N,"25",0,432,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 26","Markham",N,N,"25",0,432,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 26","Markham",N,N,"25",0,432,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 27","Markham",N,N,"",2,516,"Chiang","","Paul","Liberal","Libéral",N,Y,61
+35056,"Markham--Unionville","Markham--Unionville"," 27","Markham",N,N,"",2,516,"Kao","","Elvin","Green Party","Parti Vert",N,N,1
+35056,"Markham--Unionville","Markham--Unionville"," 27","Markham",N,N,"",2,516,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35056,"Markham--Unionville","Markham--Unionville"," 27","Markham",N,N,"",2,516,"Saroya","","Bob","Conservative","Conservateur",Y,N,28
+35056,"Markham--Unionville","Markham--Unionville"," 28","Markham",N,N,"",0,502,"Chiang","","Paul","Liberal","Libéral",N,Y,70
+35056,"Markham--Unionville","Markham--Unionville"," 28","Markham",N,N,"",0,502,"Kao","","Elvin","Green Party","Parti Vert",N,N,1
+35056,"Markham--Unionville","Markham--Unionville"," 28","Markham",N,N,"",0,502,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35056,"Markham--Unionville","Markham--Unionville"," 28","Markham",N,N,"",0,502,"Saroya","","Bob","Conservative","Conservateur",Y,N,61
+35056,"Markham--Unionville","Markham--Unionville"," 29","Markham",N,N,"",1,492,"Chiang","","Paul","Liberal","Libéral",N,Y,127
+35056,"Markham--Unionville","Markham--Unionville"," 29","Markham",N,N,"",1,492,"Kao","","Elvin","Green Party","Parti Vert",N,N,6
+35056,"Markham--Unionville","Markham--Unionville"," 29","Markham",N,N,"",1,492,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35056,"Markham--Unionville","Markham--Unionville"," 29","Markham",N,N,"",1,492,"Saroya","","Bob","Conservative","Conservateur",Y,N,88
+35056,"Markham--Unionville","Markham--Unionville"," 30","Markham",N,N,"29",0,453,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 30","Markham",N,N,"29",0,453,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 30","Markham",N,N,"29",0,453,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 30","Markham",N,N,"29",0,453,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 31","Markham",N,N,"",1,506,"Chiang","","Paul","Liberal","Libéral",N,Y,59
+35056,"Markham--Unionville","Markham--Unionville"," 31","Markham",N,N,"",1,506,"Kao","","Elvin","Green Party","Parti Vert",N,N,5
+35056,"Markham--Unionville","Markham--Unionville"," 31","Markham",N,N,"",1,506,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35056,"Markham--Unionville","Markham--Unionville"," 31","Markham",N,N,"",1,506,"Saroya","","Bob","Conservative","Conservateur",Y,N,38
+35056,"Markham--Unionville","Markham--Unionville"," 32","Markham",N,N,"",0,573,"Chiang","","Paul","Liberal","Libéral",N,Y,74
+35056,"Markham--Unionville","Markham--Unionville"," 32","Markham",N,N,"",0,573,"Kao","","Elvin","Green Party","Parti Vert",N,N,5
+35056,"Markham--Unionville","Markham--Unionville"," 32","Markham",N,N,"",0,573,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35056,"Markham--Unionville","Markham--Unionville"," 32","Markham",N,N,"",0,573,"Saroya","","Bob","Conservative","Conservateur",Y,N,55
+35056,"Markham--Unionville","Markham--Unionville"," 33","Markham",N,N,"",2,558,"Chiang","","Paul","Liberal","Libéral",N,Y,76
+35056,"Markham--Unionville","Markham--Unionville"," 33","Markham",N,N,"",2,558,"Kao","","Elvin","Green Party","Parti Vert",N,N,6
+35056,"Markham--Unionville","Markham--Unionville"," 33","Markham",N,N,"",2,558,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35056,"Markham--Unionville","Markham--Unionville"," 33","Markham",N,N,"",2,558,"Saroya","","Bob","Conservative","Conservateur",Y,N,56
+35056,"Markham--Unionville","Markham--Unionville"," 34","Markham",N,N,"52",0,364,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 34","Markham",N,N,"52",0,364,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 34","Markham",N,N,"52",0,364,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 34","Markham",N,N,"52",0,364,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 35","Markham",N,N,"",0,550,"Chiang","","Paul","Liberal","Libéral",N,Y,63
+35056,"Markham--Unionville","Markham--Unionville"," 35","Markham",N,N,"",0,550,"Kao","","Elvin","Green Party","Parti Vert",N,N,5
+35056,"Markham--Unionville","Markham--Unionville"," 35","Markham",N,N,"",0,550,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35056,"Markham--Unionville","Markham--Unionville"," 35","Markham",N,N,"",0,550,"Saroya","","Bob","Conservative","Conservateur",Y,N,49
+35056,"Markham--Unionville","Markham--Unionville"," 36","Markham",N,N,"",2,496,"Chiang","","Paul","Liberal","Libéral",N,Y,130
+35056,"Markham--Unionville","Markham--Unionville"," 36","Markham",N,N,"",2,496,"Kao","","Elvin","Green Party","Parti Vert",N,N,5
+35056,"Markham--Unionville","Markham--Unionville"," 36","Markham",N,N,"",2,496,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35056,"Markham--Unionville","Markham--Unionville"," 36","Markham",N,N,"",2,496,"Saroya","","Bob","Conservative","Conservateur",Y,N,89
+35056,"Markham--Unionville","Markham--Unionville"," 37","Markham",N,N,"36",0,446,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 37","Markham",N,N,"36",0,446,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 37","Markham",N,N,"36",0,446,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 37","Markham",N,N,"36",0,446,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 38","Markham",N,N,"",0,525,"Chiang","","Paul","Liberal","Libéral",N,Y,87
+35056,"Markham--Unionville","Markham--Unionville"," 38","Markham",N,N,"",0,525,"Kao","","Elvin","Green Party","Parti Vert",N,N,4
+35056,"Markham--Unionville","Markham--Unionville"," 38","Markham",N,N,"",0,525,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35056,"Markham--Unionville","Markham--Unionville"," 38","Markham",N,N,"",0,525,"Saroya","","Bob","Conservative","Conservateur",Y,N,37
+35056,"Markham--Unionville","Markham--Unionville"," 39","Markham",N,N,"",3,633,"Chiang","","Paul","Liberal","Libéral",N,Y,58
+35056,"Markham--Unionville","Markham--Unionville"," 39","Markham",N,N,"",3,633,"Kao","","Elvin","Green Party","Parti Vert",N,N,2
+35056,"Markham--Unionville","Markham--Unionville"," 39","Markham",N,N,"",3,633,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35056,"Markham--Unionville","Markham--Unionville"," 39","Markham",N,N,"",3,633,"Saroya","","Bob","Conservative","Conservateur",Y,N,59
+35056,"Markham--Unionville","Markham--Unionville"," 40","Markham",N,N,"",1,513,"Chiang","","Paul","Liberal","Libéral",N,Y,88
+35056,"Markham--Unionville","Markham--Unionville"," 40","Markham",N,N,"",1,513,"Kao","","Elvin","Green Party","Parti Vert",N,N,1
+35056,"Markham--Unionville","Markham--Unionville"," 40","Markham",N,N,"",1,513,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35056,"Markham--Unionville","Markham--Unionville"," 40","Markham",N,N,"",1,513,"Saroya","","Bob","Conservative","Conservateur",Y,N,38
+35056,"Markham--Unionville","Markham--Unionville"," 41","Markham",N,N,"",2,694,"Chiang","","Paul","Liberal","Libéral",N,Y,84
+35056,"Markham--Unionville","Markham--Unionville"," 41","Markham",N,N,"",2,694,"Kao","","Elvin","Green Party","Parti Vert",N,N,5
+35056,"Markham--Unionville","Markham--Unionville"," 41","Markham",N,N,"",2,694,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35056,"Markham--Unionville","Markham--Unionville"," 41","Markham",N,N,"",2,694,"Saroya","","Bob","Conservative","Conservateur",Y,N,40
+35056,"Markham--Unionville","Markham--Unionville"," 42","Markham",N,N,"43",0,403,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 42","Markham",N,N,"43",0,403,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 42","Markham",N,N,"43",0,403,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 42","Markham",N,N,"43",0,403,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 43","Markham",N,N,"",0,404,"Chiang","","Paul","Liberal","Libéral",N,Y,125
+35056,"Markham--Unionville","Markham--Unionville"," 43","Markham",N,N,"",0,404,"Kao","","Elvin","Green Party","Parti Vert",N,N,7
+35056,"Markham--Unionville","Markham--Unionville"," 43","Markham",N,N,"",0,404,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35056,"Markham--Unionville","Markham--Unionville"," 43","Markham",N,N,"",0,404,"Saroya","","Bob","Conservative","Conservateur",Y,N,90
+35056,"Markham--Unionville","Markham--Unionville"," 44","Markham",N,N,"",0,453,"Chiang","","Paul","Liberal","Libéral",N,Y,67
+35056,"Markham--Unionville","Markham--Unionville"," 44","Markham",N,N,"",0,453,"Kao","","Elvin","Green Party","Parti Vert",N,N,4
+35056,"Markham--Unionville","Markham--Unionville"," 44","Markham",N,N,"",0,453,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35056,"Markham--Unionville","Markham--Unionville"," 44","Markham",N,N,"",0,453,"Saroya","","Bob","Conservative","Conservateur",Y,N,43
+35056,"Markham--Unionville","Markham--Unionville"," 45","Markham",N,N,"",1,451,"Chiang","","Paul","Liberal","Libéral",N,Y,54
+35056,"Markham--Unionville","Markham--Unionville"," 45","Markham",N,N,"",1,451,"Kao","","Elvin","Green Party","Parti Vert",N,N,5
+35056,"Markham--Unionville","Markham--Unionville"," 45","Markham",N,N,"",1,451,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35056,"Markham--Unionville","Markham--Unionville"," 45","Markham",N,N,"",1,451,"Saroya","","Bob","Conservative","Conservateur",Y,N,64
+35056,"Markham--Unionville","Markham--Unionville"," 46","Markham",N,N,"48",0,407,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 46","Markham",N,N,"48",0,407,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 46","Markham",N,N,"48",0,407,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 46","Markham",N,N,"48",0,407,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 47","Markham",N,N,"",2,477,"Chiang","","Paul","Liberal","Libéral",N,Y,67
+35056,"Markham--Unionville","Markham--Unionville"," 47","Markham",N,N,"",2,477,"Kao","","Elvin","Green Party","Parti Vert",N,N,9
+35056,"Markham--Unionville","Markham--Unionville"," 47","Markham",N,N,"",2,477,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35056,"Markham--Unionville","Markham--Unionville"," 47","Markham",N,N,"",2,477,"Saroya","","Bob","Conservative","Conservateur",Y,N,53
+35056,"Markham--Unionville","Markham--Unionville"," 48","Markham",N,N,"",1,417,"Chiang","","Paul","Liberal","Libéral",N,Y,109
+35056,"Markham--Unionville","Markham--Unionville"," 48","Markham",N,N,"",1,417,"Kao","","Elvin","Green Party","Parti Vert",N,N,4
+35056,"Markham--Unionville","Markham--Unionville"," 48","Markham",N,N,"",1,417,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35056,"Markham--Unionville","Markham--Unionville"," 48","Markham",N,N,"",1,417,"Saroya","","Bob","Conservative","Conservateur",Y,N,101
+35056,"Markham--Unionville","Markham--Unionville"," 49","Markham",N,N,"",1,592,"Chiang","","Paul","Liberal","Libéral",N,Y,91
+35056,"Markham--Unionville","Markham--Unionville"," 49","Markham",N,N,"",1,592,"Kao","","Elvin","Green Party","Parti Vert",N,N,1
+35056,"Markham--Unionville","Markham--Unionville"," 49","Markham",N,N,"",1,592,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35056,"Markham--Unionville","Markham--Unionville"," 49","Markham",N,N,"",1,592,"Saroya","","Bob","Conservative","Conservateur",Y,N,62
+35056,"Markham--Unionville","Markham--Unionville"," 50","Markham",N,N,"",1,637,"Chiang","","Paul","Liberal","Libéral",N,Y,63
+35056,"Markham--Unionville","Markham--Unionville"," 50","Markham",N,N,"",1,637,"Kao","","Elvin","Green Party","Parti Vert",N,N,4
+35056,"Markham--Unionville","Markham--Unionville"," 50","Markham",N,N,"",1,637,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35056,"Markham--Unionville","Markham--Unionville"," 50","Markham",N,N,"",1,637,"Saroya","","Bob","Conservative","Conservateur",Y,N,49
+35056,"Markham--Unionville","Markham--Unionville"," 51","Markham",N,N,"",3,621,"Chiang","","Paul","Liberal","Libéral",N,Y,76
+35056,"Markham--Unionville","Markham--Unionville"," 51","Markham",N,N,"",3,621,"Kao","","Elvin","Green Party","Parti Vert",N,N,2
+35056,"Markham--Unionville","Markham--Unionville"," 51","Markham",N,N,"",3,621,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35056,"Markham--Unionville","Markham--Unionville"," 51","Markham",N,N,"",3,621,"Saroya","","Bob","Conservative","Conservateur",Y,N,75
+35056,"Markham--Unionville","Markham--Unionville"," 52","Markham",N,N,"",2,417,"Chiang","","Paul","Liberal","Libéral",N,Y,103
+35056,"Markham--Unionville","Markham--Unionville"," 52","Markham",N,N,"",2,417,"Kao","","Elvin","Green Party","Parti Vert",N,N,9
+35056,"Markham--Unionville","Markham--Unionville"," 52","Markham",N,N,"",2,417,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35056,"Markham--Unionville","Markham--Unionville"," 52","Markham",N,N,"",2,417,"Saroya","","Bob","Conservative","Conservateur",Y,N,70
+35056,"Markham--Unionville","Markham--Unionville"," 53","Markham",N,N,"54",0,353,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 53","Markham",N,N,"54",0,353,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 53","Markham",N,N,"54",0,353,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 53","Markham",N,N,"54",0,353,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 54","Markham",N,N,"",1,412,"Chiang","","Paul","Liberal","Libéral",N,Y,92
+35056,"Markham--Unionville","Markham--Unionville"," 54","Markham",N,N,"",1,412,"Kao","","Elvin","Green Party","Parti Vert",N,N,6
+35056,"Markham--Unionville","Markham--Unionville"," 54","Markham",N,N,"",1,412,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35056,"Markham--Unionville","Markham--Unionville"," 54","Markham",N,N,"",1,412,"Saroya","","Bob","Conservative","Conservateur",Y,N,71
+35056,"Markham--Unionville","Markham--Unionville"," 55","Markham",N,N,"56",0,374,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 55","Markham",N,N,"56",0,374,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 55","Markham",N,N,"56",0,374,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 55","Markham",N,N,"56",0,374,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 56","Markham",N,N,"",0,426,"Chiang","","Paul","Liberal","Libéral",N,Y,104
+35056,"Markham--Unionville","Markham--Unionville"," 56","Markham",N,N,"",0,426,"Kao","","Elvin","Green Party","Parti Vert",N,N,4
+35056,"Markham--Unionville","Markham--Unionville"," 56","Markham",N,N,"",0,426,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35056,"Markham--Unionville","Markham--Unionville"," 56","Markham",N,N,"",0,426,"Saroya","","Bob","Conservative","Conservateur",Y,N,60
+35056,"Markham--Unionville","Markham--Unionville"," 57","Markham",N,N,"",0,435,"Chiang","","Paul","Liberal","Libéral",N,Y,48
+35056,"Markham--Unionville","Markham--Unionville"," 57","Markham",N,N,"",0,435,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 57","Markham",N,N,"",0,435,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35056,"Markham--Unionville","Markham--Unionville"," 57","Markham",N,N,"",0,435,"Saroya","","Bob","Conservative","Conservateur",Y,N,34
+35056,"Markham--Unionville","Markham--Unionville"," 58","Markham",N,N,"",1,472,"Chiang","","Paul","Liberal","Libéral",N,Y,72
+35056,"Markham--Unionville","Markham--Unionville"," 58","Markham",N,N,"",1,472,"Kao","","Elvin","Green Party","Parti Vert",N,N,2
+35056,"Markham--Unionville","Markham--Unionville"," 58","Markham",N,N,"",1,472,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35056,"Markham--Unionville","Markham--Unionville"," 58","Markham",N,N,"",1,472,"Saroya","","Bob","Conservative","Conservateur",Y,N,42
+35056,"Markham--Unionville","Markham--Unionville"," 59","Markham",N,N,"",0,482,"Chiang","","Paul","Liberal","Libéral",N,Y,59
+35056,"Markham--Unionville","Markham--Unionville"," 59","Markham",N,N,"",0,482,"Kao","","Elvin","Green Party","Parti Vert",N,N,3
+35056,"Markham--Unionville","Markham--Unionville"," 59","Markham",N,N,"",0,482,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35056,"Markham--Unionville","Markham--Unionville"," 59","Markham",N,N,"",0,482,"Saroya","","Bob","Conservative","Conservateur",Y,N,60
+35056,"Markham--Unionville","Markham--Unionville"," 60","Markham",N,N,"",0,557,"Chiang","","Paul","Liberal","Libéral",N,Y,73
+35056,"Markham--Unionville","Markham--Unionville"," 60","Markham",N,N,"",0,557,"Kao","","Elvin","Green Party","Parti Vert",N,N,10
+35056,"Markham--Unionville","Markham--Unionville"," 60","Markham",N,N,"",0,557,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35056,"Markham--Unionville","Markham--Unionville"," 60","Markham",N,N,"",0,557,"Saroya","","Bob","Conservative","Conservateur",Y,N,67
+35056,"Markham--Unionville","Markham--Unionville"," 61","Markham",N,N,"",0,526,"Chiang","","Paul","Liberal","Libéral",N,Y,89
+35056,"Markham--Unionville","Markham--Unionville"," 61","Markham",N,N,"",0,526,"Kao","","Elvin","Green Party","Parti Vert",N,N,3
+35056,"Markham--Unionville","Markham--Unionville"," 61","Markham",N,N,"",0,526,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35056,"Markham--Unionville","Markham--Unionville"," 61","Markham",N,N,"",0,526,"Saroya","","Bob","Conservative","Conservateur",Y,N,64
+35056,"Markham--Unionville","Markham--Unionville"," 62","Markham",N,N,"",0,505,"Chiang","","Paul","Liberal","Libéral",N,Y,75
+35056,"Markham--Unionville","Markham--Unionville"," 62","Markham",N,N,"",0,505,"Kao","","Elvin","Green Party","Parti Vert",N,N,7
+35056,"Markham--Unionville","Markham--Unionville"," 62","Markham",N,N,"",0,505,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35056,"Markham--Unionville","Markham--Unionville"," 62","Markham",N,N,"",0,505,"Saroya","","Bob","Conservative","Conservateur",Y,N,65
+35056,"Markham--Unionville","Markham--Unionville"," 63","Markham",N,N,"",1,653,"Chiang","","Paul","Liberal","Libéral",N,Y,79
+35056,"Markham--Unionville","Markham--Unionville"," 63","Markham",N,N,"",1,653,"Kao","","Elvin","Green Party","Parti Vert",N,N,11
+35056,"Markham--Unionville","Markham--Unionville"," 63","Markham",N,N,"",1,653,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35056,"Markham--Unionville","Markham--Unionville"," 63","Markham",N,N,"",1,653,"Saroya","","Bob","Conservative","Conservateur",Y,N,55
+35056,"Markham--Unionville","Markham--Unionville"," 64","Markham",N,N,"",0,448,"Chiang","","Paul","Liberal","Libéral",N,Y,45
+35056,"Markham--Unionville","Markham--Unionville"," 64","Markham",N,N,"",0,448,"Kao","","Elvin","Green Party","Parti Vert",N,N,3
+35056,"Markham--Unionville","Markham--Unionville"," 64","Markham",N,N,"",0,448,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35056,"Markham--Unionville","Markham--Unionville"," 64","Markham",N,N,"",0,448,"Saroya","","Bob","Conservative","Conservateur",Y,N,50
+35056,"Markham--Unionville","Markham--Unionville"," 65","Markham",N,N,"",1,562,"Chiang","","Paul","Liberal","Libéral",N,Y,98
+35056,"Markham--Unionville","Markham--Unionville"," 65","Markham",N,N,"",1,562,"Kao","","Elvin","Green Party","Parti Vert",N,N,2
+35056,"Markham--Unionville","Markham--Unionville"," 65","Markham",N,N,"",1,562,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35056,"Markham--Unionville","Markham--Unionville"," 65","Markham",N,N,"",1,562,"Saroya","","Bob","Conservative","Conservateur",Y,N,48
+35056,"Markham--Unionville","Markham--Unionville"," 66","Markham",N,N,"",2,583,"Chiang","","Paul","Liberal","Libéral",N,Y,92
+35056,"Markham--Unionville","Markham--Unionville"," 66","Markham",N,N,"",2,583,"Kao","","Elvin","Green Party","Parti Vert",N,N,4
+35056,"Markham--Unionville","Markham--Unionville"," 66","Markham",N,N,"",2,583,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35056,"Markham--Unionville","Markham--Unionville"," 66","Markham",N,N,"",2,583,"Saroya","","Bob","Conservative","Conservateur",Y,N,60
+35056,"Markham--Unionville","Markham--Unionville"," 67","Markham",N,N,"",1,588,"Chiang","","Paul","Liberal","Libéral",N,Y,78
+35056,"Markham--Unionville","Markham--Unionville"," 67","Markham",N,N,"",1,588,"Kao","","Elvin","Green Party","Parti Vert",N,N,1
+35056,"Markham--Unionville","Markham--Unionville"," 67","Markham",N,N,"",1,588,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35056,"Markham--Unionville","Markham--Unionville"," 67","Markham",N,N,"",1,588,"Saroya","","Bob","Conservative","Conservateur",Y,N,70
+35056,"Markham--Unionville","Markham--Unionville"," 68","Markham",N,N,"",0,571,"Chiang","","Paul","Liberal","Libéral",N,Y,75
+35056,"Markham--Unionville","Markham--Unionville"," 68","Markham",N,N,"",0,571,"Kao","","Elvin","Green Party","Parti Vert",N,N,1
+35056,"Markham--Unionville","Markham--Unionville"," 68","Markham",N,N,"",0,571,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35056,"Markham--Unionville","Markham--Unionville"," 68","Markham",N,N,"",0,571,"Saroya","","Bob","Conservative","Conservateur",Y,N,34
+35056,"Markham--Unionville","Markham--Unionville"," 69","Markham",N,N,"",1,646,"Chiang","","Paul","Liberal","Libéral",N,Y,82
+35056,"Markham--Unionville","Markham--Unionville"," 69","Markham",N,N,"",1,646,"Kao","","Elvin","Green Party","Parti Vert",N,N,7
+35056,"Markham--Unionville","Markham--Unionville"," 69","Markham",N,N,"",1,646,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35056,"Markham--Unionville","Markham--Unionville"," 69","Markham",N,N,"",1,646,"Saroya","","Bob","Conservative","Conservateur",Y,N,58
+35056,"Markham--Unionville","Markham--Unionville"," 70","Markham",N,N,"",0,567,"Chiang","","Paul","Liberal","Libéral",N,Y,81
+35056,"Markham--Unionville","Markham--Unionville"," 70","Markham",N,N,"",0,567,"Kao","","Elvin","Green Party","Parti Vert",N,N,4
+35056,"Markham--Unionville","Markham--Unionville"," 70","Markham",N,N,"",0,567,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35056,"Markham--Unionville","Markham--Unionville"," 70","Markham",N,N,"",0,567,"Saroya","","Bob","Conservative","Conservateur",Y,N,60
+35056,"Markham--Unionville","Markham--Unionville"," 71","Markham",N,N,"",2,765,"Chiang","","Paul","Liberal","Libéral",N,Y,96
+35056,"Markham--Unionville","Markham--Unionville"," 71","Markham",N,N,"",2,765,"Kao","","Elvin","Green Party","Parti Vert",N,N,11
+35056,"Markham--Unionville","Markham--Unionville"," 71","Markham",N,N,"",2,765,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35056,"Markham--Unionville","Markham--Unionville"," 71","Markham",N,N,"",2,765,"Saroya","","Bob","Conservative","Conservateur",Y,N,65
+35056,"Markham--Unionville","Markham--Unionville"," 72","Markham",N,N,"",1,449,"Chiang","","Paul","Liberal","Libéral",N,Y,124
+35056,"Markham--Unionville","Markham--Unionville"," 72","Markham",N,N,"",1,449,"Kao","","Elvin","Green Party","Parti Vert",N,N,7
+35056,"Markham--Unionville","Markham--Unionville"," 72","Markham",N,N,"",1,449,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35056,"Markham--Unionville","Markham--Unionville"," 72","Markham",N,N,"",1,449,"Saroya","","Bob","Conservative","Conservateur",Y,N,94
+35056,"Markham--Unionville","Markham--Unionville"," 73","Markham",N,N,"",1,446,"Chiang","","Paul","Liberal","Libéral",N,Y,49
+35056,"Markham--Unionville","Markham--Unionville"," 73","Markham",N,N,"",1,446,"Kao","","Elvin","Green Party","Parti Vert",N,N,5
+35056,"Markham--Unionville","Markham--Unionville"," 73","Markham",N,N,"",1,446,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35056,"Markham--Unionville","Markham--Unionville"," 73","Markham",N,N,"",1,446,"Saroya","","Bob","Conservative","Conservateur",Y,N,52
+35056,"Markham--Unionville","Markham--Unionville"," 74","Markham",N,N,"",2,541,"Chiang","","Paul","Liberal","Libéral",N,Y,66
+35056,"Markham--Unionville","Markham--Unionville"," 74","Markham",N,N,"",2,541,"Kao","","Elvin","Green Party","Parti Vert",N,N,9
+35056,"Markham--Unionville","Markham--Unionville"," 74","Markham",N,N,"",2,541,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35056,"Markham--Unionville","Markham--Unionville"," 74","Markham",N,N,"",2,541,"Saroya","","Bob","Conservative","Conservateur",Y,N,64
+35056,"Markham--Unionville","Markham--Unionville"," 75","Markham",N,N,"",2,595,"Chiang","","Paul","Liberal","Libéral",N,Y,73
+35056,"Markham--Unionville","Markham--Unionville"," 75","Markham",N,N,"",2,595,"Kao","","Elvin","Green Party","Parti Vert",N,N,6
+35056,"Markham--Unionville","Markham--Unionville"," 75","Markham",N,N,"",2,595,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35056,"Markham--Unionville","Markham--Unionville"," 75","Markham",N,N,"",2,595,"Saroya","","Bob","Conservative","Conservateur",Y,N,75
+35056,"Markham--Unionville","Markham--Unionville"," 76","Markham",N,N,"72",0,404,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 76","Markham",N,N,"72",0,404,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 76","Markham",N,N,"72",0,404,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 76","Markham",N,N,"72",0,404,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 77","Markham",N,N,"78",0,388,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 77","Markham",N,N,"78",0,388,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 77","Markham",N,N,"78",0,388,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 77","Markham",N,N,"78",0,388,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 78","Markham",N,N,"",1,429,"Chiang","","Paul","Liberal","Libéral",N,Y,124
+35056,"Markham--Unionville","Markham--Unionville"," 78","Markham",N,N,"",1,429,"Kao","","Elvin","Green Party","Parti Vert",N,N,5
+35056,"Markham--Unionville","Markham--Unionville"," 78","Markham",N,N,"",1,429,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35056,"Markham--Unionville","Markham--Unionville"," 78","Markham",N,N,"",1,429,"Saroya","","Bob","Conservative","Conservateur",Y,N,98
+35056,"Markham--Unionville","Markham--Unionville"," 79","Markham",N,N,"81",0,372,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 79","Markham",N,N,"81",0,372,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 79","Markham",N,N,"81",0,372,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 79","Markham",N,N,"81",0,372,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 80","Markham",N,N,"",0,468,"Chiang","","Paul","Liberal","Libéral",N,Y,57
+35056,"Markham--Unionville","Markham--Unionville"," 80","Markham",N,N,"",0,468,"Kao","","Elvin","Green Party","Parti Vert",N,N,2
+35056,"Markham--Unionville","Markham--Unionville"," 80","Markham",N,N,"",0,468,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35056,"Markham--Unionville","Markham--Unionville"," 80","Markham",N,N,"",0,468,"Saroya","","Bob","Conservative","Conservateur",Y,N,52
+35056,"Markham--Unionville","Markham--Unionville"," 81","Markham",N,N,"",3,430,"Chiang","","Paul","Liberal","Libéral",N,Y,92
+35056,"Markham--Unionville","Markham--Unionville"," 81","Markham",N,N,"",3,430,"Kao","","Elvin","Green Party","Parti Vert",N,N,8
+35056,"Markham--Unionville","Markham--Unionville"," 81","Markham",N,N,"",3,430,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35056,"Markham--Unionville","Markham--Unionville"," 81","Markham",N,N,"",3,430,"Saroya","","Bob","Conservative","Conservateur",Y,N,84
+35056,"Markham--Unionville","Markham--Unionville"," 82","Markham",N,N,"",4,483,"Chiang","","Paul","Liberal","Libéral",N,Y,47
+35056,"Markham--Unionville","Markham--Unionville"," 82","Markham",N,N,"",4,483,"Kao","","Elvin","Green Party","Parti Vert",N,N,3
+35056,"Markham--Unionville","Markham--Unionville"," 82","Markham",N,N,"",4,483,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35056,"Markham--Unionville","Markham--Unionville"," 82","Markham",N,N,"",4,483,"Saroya","","Bob","Conservative","Conservateur",Y,N,57
+35056,"Markham--Unionville","Markham--Unionville"," 83","Markham",N,N,"",2,540,"Chiang","","Paul","Liberal","Libéral",N,Y,76
+35056,"Markham--Unionville","Markham--Unionville"," 83","Markham",N,N,"",2,540,"Kao","","Elvin","Green Party","Parti Vert",N,N,2
+35056,"Markham--Unionville","Markham--Unionville"," 83","Markham",N,N,"",2,540,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35056,"Markham--Unionville","Markham--Unionville"," 83","Markham",N,N,"",2,540,"Saroya","","Bob","Conservative","Conservateur",Y,N,87
+35056,"Markham--Unionville","Markham--Unionville"," 84","Markham",N,N,"",3,480,"Chiang","","Paul","Liberal","Libéral",N,Y,50
+35056,"Markham--Unionville","Markham--Unionville"," 84","Markham",N,N,"",3,480,"Kao","","Elvin","Green Party","Parti Vert",N,N,6
+35056,"Markham--Unionville","Markham--Unionville"," 84","Markham",N,N,"",3,480,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35056,"Markham--Unionville","Markham--Unionville"," 84","Markham",N,N,"",3,480,"Saroya","","Bob","Conservative","Conservateur",Y,N,62
+35056,"Markham--Unionville","Markham--Unionville"," 85","Markham",N,N,"",4,514,"Chiang","","Paul","Liberal","Libéral",N,Y,65
+35056,"Markham--Unionville","Markham--Unionville"," 85","Markham",N,N,"",4,514,"Kao","","Elvin","Green Party","Parti Vert",N,N,4
+35056,"Markham--Unionville","Markham--Unionville"," 85","Markham",N,N,"",4,514,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35056,"Markham--Unionville","Markham--Unionville"," 85","Markham",N,N,"",4,514,"Saroya","","Bob","Conservative","Conservateur",Y,N,72
+35056,"Markham--Unionville","Markham--Unionville"," 86","Markham",N,N,"",2,454,"Chiang","","Paul","Liberal","Libéral",N,Y,70
+35056,"Markham--Unionville","Markham--Unionville"," 86","Markham",N,N,"",2,454,"Kao","","Elvin","Green Party","Parti Vert",N,N,3
+35056,"Markham--Unionville","Markham--Unionville"," 86","Markham",N,N,"",2,454,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35056,"Markham--Unionville","Markham--Unionville"," 86","Markham",N,N,"",2,454,"Saroya","","Bob","Conservative","Conservateur",Y,N,51
+35056,"Markham--Unionville","Markham--Unionville"," 87","Markham",N,N,"",1,559,"Chiang","","Paul","Liberal","Libéral",N,Y,52
+35056,"Markham--Unionville","Markham--Unionville"," 87","Markham",N,N,"",1,559,"Kao","","Elvin","Green Party","Parti Vert",N,N,1
+35056,"Markham--Unionville","Markham--Unionville"," 87","Markham",N,N,"",1,559,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35056,"Markham--Unionville","Markham--Unionville"," 87","Markham",N,N,"",1,559,"Saroya","","Bob","Conservative","Conservateur",Y,N,86
+35056,"Markham--Unionville","Markham--Unionville"," 88","Markham",N,N,"",0,544,"Chiang","","Paul","Liberal","Libéral",N,Y,133
+35056,"Markham--Unionville","Markham--Unionville"," 88","Markham",N,N,"",0,544,"Kao","","Elvin","Green Party","Parti Vert",N,N,8
+35056,"Markham--Unionville","Markham--Unionville"," 88","Markham",N,N,"",0,544,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35056,"Markham--Unionville","Markham--Unionville"," 88","Markham",N,N,"",0,544,"Saroya","","Bob","Conservative","Conservateur",Y,N,86
+35056,"Markham--Unionville","Markham--Unionville"," 89","Markham",N,N,"88",0,337,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 89","Markham",N,N,"88",0,337,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 89","Markham",N,N,"88",0,337,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 89","Markham",N,N,"88",0,337,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 90","Markham",N,N,"",0,504,"Chiang","","Paul","Liberal","Libéral",N,Y,133
+35056,"Markham--Unionville","Markham--Unionville"," 90","Markham",N,N,"",0,504,"Kao","","Elvin","Green Party","Parti Vert",N,N,3
+35056,"Markham--Unionville","Markham--Unionville"," 90","Markham",N,N,"",0,504,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35056,"Markham--Unionville","Markham--Unionville"," 90","Markham",N,N,"",0,504,"Saroya","","Bob","Conservative","Conservateur",Y,N,109
+35056,"Markham--Unionville","Markham--Unionville"," 91","Markham",N,N,"90",0,446,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 91","Markham",N,N,"90",0,446,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 91","Markham",N,N,"90",0,446,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 91","Markham",N,N,"90",0,446,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 92","Markham",N,N,"",1,544,"Chiang","","Paul","Liberal","Libéral",N,Y,80
+35056,"Markham--Unionville","Markham--Unionville"," 92","Markham",N,N,"",1,544,"Kao","","Elvin","Green Party","Parti Vert",N,N,1
+35056,"Markham--Unionville","Markham--Unionville"," 92","Markham",N,N,"",1,544,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35056,"Markham--Unionville","Markham--Unionville"," 92","Markham",N,N,"",1,544,"Saroya","","Bob","Conservative","Conservateur",Y,N,49
+35056,"Markham--Unionville","Markham--Unionville"," 93","Markham",N,N,"",3,524,"Chiang","","Paul","Liberal","Libéral",N,Y,71
+35056,"Markham--Unionville","Markham--Unionville"," 93","Markham",N,N,"",3,524,"Kao","","Elvin","Green Party","Parti Vert",N,N,2
+35056,"Markham--Unionville","Markham--Unionville"," 93","Markham",N,N,"",3,524,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35056,"Markham--Unionville","Markham--Unionville"," 93","Markham",N,N,"",3,524,"Saroya","","Bob","Conservative","Conservateur",Y,N,53
+35056,"Markham--Unionville","Markham--Unionville"," 94","Markham",N,N,"",0,544,"Chiang","","Paul","Liberal","Libéral",N,Y,61
+35056,"Markham--Unionville","Markham--Unionville"," 94","Markham",N,N,"",0,544,"Kao","","Elvin","Green Party","Parti Vert",N,N,4
+35056,"Markham--Unionville","Markham--Unionville"," 94","Markham",N,N,"",0,544,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35056,"Markham--Unionville","Markham--Unionville"," 94","Markham",N,N,"",0,544,"Saroya","","Bob","Conservative","Conservateur",Y,N,51
+35056,"Markham--Unionville","Markham--Unionville"," 95","Markham",N,N,"",3,758,"Chiang","","Paul","Liberal","Libéral",N,Y,102
+35056,"Markham--Unionville","Markham--Unionville"," 95","Markham",N,N,"",3,758,"Kao","","Elvin","Green Party","Parti Vert",N,N,7
+35056,"Markham--Unionville","Markham--Unionville"," 95","Markham",N,N,"",3,758,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35056,"Markham--Unionville","Markham--Unionville"," 95","Markham",N,N,"",3,758,"Saroya","","Bob","Conservative","Conservateur",Y,N,71
+35056,"Markham--Unionville","Markham--Unionville"," 96","Markham",N,N,"",1,494,"Chiang","","Paul","Liberal","Libéral",N,Y,146
+35056,"Markham--Unionville","Markham--Unionville"," 96","Markham",N,N,"",1,494,"Kao","","Elvin","Green Party","Parti Vert",N,N,7
+35056,"Markham--Unionville","Markham--Unionville"," 96","Markham",N,N,"",1,494,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35056,"Markham--Unionville","Markham--Unionville"," 96","Markham",N,N,"",1,494,"Saroya","","Bob","Conservative","Conservateur",Y,N,84
+35056,"Markham--Unionville","Markham--Unionville"," 97","Markham",N,N,"96",0,441,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 97","Markham",N,N,"96",0,441,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 97","Markham",N,N,"96",0,441,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 97","Markham",N,N,"96",0,441,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 98","Markham",N,N,"",3,363,"Chiang","","Paul","Liberal","Libéral",N,Y,69
+35056,"Markham--Unionville","Markham--Unionville"," 98","Markham",N,N,"",3,363,"Kao","","Elvin","Green Party","Parti Vert",N,N,7
+35056,"Markham--Unionville","Markham--Unionville"," 98","Markham",N,N,"",3,363,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35056,"Markham--Unionville","Markham--Unionville"," 98","Markham",N,N,"",3,363,"Saroya","","Bob","Conservative","Conservateur",Y,N,77
+35056,"Markham--Unionville","Markham--Unionville"," 99","Markham",N,N,"",2,392,"Chiang","","Paul","Liberal","Libéral",N,Y,97
+35056,"Markham--Unionville","Markham--Unionville"," 99","Markham",N,N,"",2,392,"Kao","","Elvin","Green Party","Parti Vert",N,N,4
+35056,"Markham--Unionville","Markham--Unionville"," 99","Markham",N,N,"",2,392,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35056,"Markham--Unionville","Markham--Unionville"," 99","Markham",N,N,"",2,392,"Saroya","","Bob","Conservative","Conservateur",Y,N,86
+35056,"Markham--Unionville","Markham--Unionville"," 100","Markham",N,N,"99",0,357,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 100","Markham",N,N,"99",0,357,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 100","Markham",N,N,"99",0,357,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 100","Markham",N,N,"99",0,357,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 101","Markham",N,N,"",1,334,"Chiang","","Paul","Liberal","Libéral",N,Y,85
+35056,"Markham--Unionville","Markham--Unionville"," 101","Markham",N,N,"",1,334,"Kao","","Elvin","Green Party","Parti Vert",N,N,3
+35056,"Markham--Unionville","Markham--Unionville"," 101","Markham",N,N,"",1,334,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35056,"Markham--Unionville","Markham--Unionville"," 101","Markham",N,N,"",1,334,"Saroya","","Bob","Conservative","Conservateur",Y,N,57
+35056,"Markham--Unionville","Markham--Unionville"," 102","Markham",N,N,"101",0,309,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 102","Markham",N,N,"101",0,309,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 102","Markham",N,N,"101",0,309,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 102","Markham",N,N,"101",0,309,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 103","Markham",N,N,"",0,454,"Chiang","","Paul","Liberal","Libéral",N,Y,57
+35056,"Markham--Unionville","Markham--Unionville"," 103","Markham",N,N,"",0,454,"Kao","","Elvin","Green Party","Parti Vert",N,N,5
+35056,"Markham--Unionville","Markham--Unionville"," 103","Markham",N,N,"",0,454,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35056,"Markham--Unionville","Markham--Unionville"," 103","Markham",N,N,"",0,454,"Saroya","","Bob","Conservative","Conservateur",Y,N,40
+35056,"Markham--Unionville","Markham--Unionville"," 104","Markham",N,N,"",2,374,"Chiang","","Paul","Liberal","Libéral",N,Y,80
+35056,"Markham--Unionville","Markham--Unionville"," 104","Markham",N,N,"",2,374,"Kao","","Elvin","Green Party","Parti Vert",N,N,9
+35056,"Markham--Unionville","Markham--Unionville"," 104","Markham",N,N,"",2,374,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35056,"Markham--Unionville","Markham--Unionville"," 104","Markham",N,N,"",2,374,"Saroya","","Bob","Conservative","Conservateur",Y,N,74
+35056,"Markham--Unionville","Markham--Unionville"," 105","Markham",N,N,"104",0,350,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 105","Markham",N,N,"104",0,350,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 105","Markham",N,N,"104",0,350,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 105","Markham",N,N,"104",0,350,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 106","Markham",N,N,"",3,360,"Chiang","","Paul","Liberal","Libéral",N,Y,48
+35056,"Markham--Unionville","Markham--Unionville"," 106","Markham",N,N,"",3,360,"Kao","","Elvin","Green Party","Parti Vert",N,N,8
+35056,"Markham--Unionville","Markham--Unionville"," 106","Markham",N,N,"",3,360,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35056,"Markham--Unionville","Markham--Unionville"," 106","Markham",N,N,"",3,360,"Saroya","","Bob","Conservative","Conservateur",Y,N,52
+35056,"Markham--Unionville","Markham--Unionville"," 107","Markham",N,N,"",4,478,"Chiang","","Paul","Liberal","Libéral",N,Y,61
+35056,"Markham--Unionville","Markham--Unionville"," 107","Markham",N,N,"",4,478,"Kao","","Elvin","Green Party","Parti Vert",N,N,6
+35056,"Markham--Unionville","Markham--Unionville"," 107","Markham",N,N,"",4,478,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35056,"Markham--Unionville","Markham--Unionville"," 107","Markham",N,N,"",4,478,"Saroya","","Bob","Conservative","Conservateur",Y,N,47
+35056,"Markham--Unionville","Markham--Unionville"," 108","Markham",N,N,"",0,428,"Chiang","","Paul","Liberal","Libéral",N,Y,60
+35056,"Markham--Unionville","Markham--Unionville"," 108","Markham",N,N,"",0,428,"Kao","","Elvin","Green Party","Parti Vert",N,N,1
+35056,"Markham--Unionville","Markham--Unionville"," 108","Markham",N,N,"",0,428,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35056,"Markham--Unionville","Markham--Unionville"," 108","Markham",N,N,"",0,428,"Saroya","","Bob","Conservative","Conservateur",Y,N,36
+35056,"Markham--Unionville","Markham--Unionville"," 109","Markham",N,N,"110",0,321,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 109","Markham",N,N,"110",0,321,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 109","Markham",N,N,"110",0,321,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 109","Markham",N,N,"110",0,321,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 110","Markham",N,N,"",0,336,"Chiang","","Paul","Liberal","Libéral",N,Y,71
+35056,"Markham--Unionville","Markham--Unionville"," 110","Markham",N,N,"",0,336,"Kao","","Elvin","Green Party","Parti Vert",N,N,5
+35056,"Markham--Unionville","Markham--Unionville"," 110","Markham",N,N,"",0,336,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35056,"Markham--Unionville","Markham--Unionville"," 110","Markham",N,N,"",0,336,"Saroya","","Bob","Conservative","Conservateur",Y,N,84
+35056,"Markham--Unionville","Markham--Unionville"," 111","Markham",N,N,"",4,552,"Chiang","","Paul","Liberal","Libéral",N,Y,70
+35056,"Markham--Unionville","Markham--Unionville"," 111","Markham",N,N,"",4,552,"Kao","","Elvin","Green Party","Parti Vert",N,N,9
+35056,"Markham--Unionville","Markham--Unionville"," 111","Markham",N,N,"",4,552,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35056,"Markham--Unionville","Markham--Unionville"," 111","Markham",N,N,"",4,552,"Saroya","","Bob","Conservative","Conservateur",Y,N,70
+35056,"Markham--Unionville","Markham--Unionville"," 112","Markham",N,N,"98",0,320,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 112","Markham",N,N,"98",0,320,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 112","Markham",N,N,"98",0,320,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 112","Markham",N,N,"98",0,320,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 113","Markham",N,N,"",0,526,"Chiang","","Paul","Liberal","Libéral",N,Y,76
+35056,"Markham--Unionville","Markham--Unionville"," 113","Markham",N,N,"",0,526,"Kao","","Elvin","Green Party","Parti Vert",N,N,4
+35056,"Markham--Unionville","Markham--Unionville"," 113","Markham",N,N,"",0,526,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35056,"Markham--Unionville","Markham--Unionville"," 113","Markham",N,N,"",0,526,"Saroya","","Bob","Conservative","Conservateur",Y,N,64
+35056,"Markham--Unionville","Markham--Unionville"," 114","Markham",N,N,"",0,531,"Chiang","","Paul","Liberal","Libéral",N,Y,72
+35056,"Markham--Unionville","Markham--Unionville"," 114","Markham",N,N,"",0,531,"Kao","","Elvin","Green Party","Parti Vert",N,N,10
+35056,"Markham--Unionville","Markham--Unionville"," 114","Markham",N,N,"",0,531,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35056,"Markham--Unionville","Markham--Unionville"," 114","Markham",N,N,"",0,531,"Saroya","","Bob","Conservative","Conservateur",Y,N,100
+35056,"Markham--Unionville","Markham--Unionville"," 115","Markham",N,N,"",1,559,"Chiang","","Paul","Liberal","Libéral",N,Y,65
+35056,"Markham--Unionville","Markham--Unionville"," 115","Markham",N,N,"",1,559,"Kao","","Elvin","Green Party","Parti Vert",N,N,4
+35056,"Markham--Unionville","Markham--Unionville"," 115","Markham",N,N,"",1,559,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35056,"Markham--Unionville","Markham--Unionville"," 115","Markham",N,N,"",1,559,"Saroya","","Bob","Conservative","Conservateur",Y,N,63
+35056,"Markham--Unionville","Markham--Unionville"," 116","Markham",N,N,"",1,425,"Chiang","","Paul","Liberal","Libéral",N,Y,36
+35056,"Markham--Unionville","Markham--Unionville"," 116","Markham",N,N,"",1,425,"Kao","","Elvin","Green Party","Parti Vert",N,N,3
+35056,"Markham--Unionville","Markham--Unionville"," 116","Markham",N,N,"",1,425,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35056,"Markham--Unionville","Markham--Unionville"," 116","Markham",N,N,"",1,425,"Saroya","","Bob","Conservative","Conservateur",Y,N,66
+35056,"Markham--Unionville","Markham--Unionville"," 117","Markham",N,N,"",3,378,"Chiang","","Paul","Liberal","Libéral",N,Y,95
+35056,"Markham--Unionville","Markham--Unionville"," 117","Markham",N,N,"",3,378,"Kao","","Elvin","Green Party","Parti Vert",N,N,8
+35056,"Markham--Unionville","Markham--Unionville"," 117","Markham",N,N,"",3,378,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35056,"Markham--Unionville","Markham--Unionville"," 117","Markham",N,N,"",3,378,"Saroya","","Bob","Conservative","Conservateur",Y,N,85
+35056,"Markham--Unionville","Markham--Unionville"," 118","Markham",N,N,"117",0,360,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 118","Markham",N,N,"117",0,360,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 118","Markham",N,N,"117",0,360,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 118","Markham",N,N,"117",0,360,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 119","Markham",N,N,"",0,471,"Chiang","","Paul","Liberal","Libéral",N,Y,52
+35056,"Markham--Unionville","Markham--Unionville"," 119","Markham",N,N,"",0,471,"Kao","","Elvin","Green Party","Parti Vert",N,N,7
+35056,"Markham--Unionville","Markham--Unionville"," 119","Markham",N,N,"",0,471,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35056,"Markham--Unionville","Markham--Unionville"," 119","Markham",N,N,"",0,471,"Saroya","","Bob","Conservative","Conservateur",Y,N,60
+35056,"Markham--Unionville","Markham--Unionville"," 120","Markham",N,N,"",4,385,"Chiang","","Paul","Liberal","Libéral",N,Y,128
+35056,"Markham--Unionville","Markham--Unionville"," 120","Markham",N,N,"",4,385,"Kao","","Elvin","Green Party","Parti Vert",N,N,11
+35056,"Markham--Unionville","Markham--Unionville"," 120","Markham",N,N,"",4,385,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35056,"Markham--Unionville","Markham--Unionville"," 120","Markham",N,N,"",4,385,"Saroya","","Bob","Conservative","Conservateur",Y,N,80
+35056,"Markham--Unionville","Markham--Unionville"," 121","Markham",N,N,"120",0,357,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 121","Markham",N,N,"120",0,357,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 121","Markham",N,N,"120",0,357,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 121","Markham",N,N,"120",0,357,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 122","Markham",N,N,"",4,416,"Chiang","","Paul","Liberal","Libéral",N,Y,99
+35056,"Markham--Unionville","Markham--Unionville"," 122","Markham",N,N,"",4,416,"Kao","","Elvin","Green Party","Parti Vert",N,N,5
+35056,"Markham--Unionville","Markham--Unionville"," 122","Markham",N,N,"",4,416,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35056,"Markham--Unionville","Markham--Unionville"," 122","Markham",N,N,"",4,416,"Saroya","","Bob","Conservative","Conservateur",Y,N,95
+35056,"Markham--Unionville","Markham--Unionville"," 123","Markham",N,N,"122",0,351,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 123","Markham",N,N,"122",0,351,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 123","Markham",N,N,"122",0,351,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 123","Markham",N,N,"122",0,351,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 124","Markham",N,N,"",7,378,"Chiang","","Paul","Liberal","Libéral",N,Y,95
+35056,"Markham--Unionville","Markham--Unionville"," 124","Markham",N,N,"",7,378,"Kao","","Elvin","Green Party","Parti Vert",N,N,6
+35056,"Markham--Unionville","Markham--Unionville"," 124","Markham",N,N,"",7,378,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35056,"Markham--Unionville","Markham--Unionville"," 124","Markham",N,N,"",7,378,"Saroya","","Bob","Conservative","Conservateur",Y,N,94
+35056,"Markham--Unionville","Markham--Unionville"," 125","Markham",N,N,"163",0,399,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 125","Markham",N,N,"163",0,399,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 125","Markham",N,N,"163",0,399,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 125","Markham",N,N,"163",0,399,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 126","Markham",N,N,"",3,384,"Chiang","","Paul","Liberal","Libéral",N,Y,72
+35056,"Markham--Unionville","Markham--Unionville"," 126","Markham",N,N,"",3,384,"Kao","","Elvin","Green Party","Parti Vert",N,N,7
+35056,"Markham--Unionville","Markham--Unionville"," 126","Markham",N,N,"",3,384,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35056,"Markham--Unionville","Markham--Unionville"," 126","Markham",N,N,"",3,384,"Saroya","","Bob","Conservative","Conservateur",Y,N,48
+35056,"Markham--Unionville","Markham--Unionville"," 127","Markham",N,N,"",0,341,"Chiang","","Paul","Liberal","Libéral",N,Y,70
+35056,"Markham--Unionville","Markham--Unionville"," 127","Markham",N,N,"",0,341,"Kao","","Elvin","Green Party","Parti Vert",N,N,3
+35056,"Markham--Unionville","Markham--Unionville"," 127","Markham",N,N,"",0,341,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35056,"Markham--Unionville","Markham--Unionville"," 127","Markham",N,N,"",0,341,"Saroya","","Bob","Conservative","Conservateur",Y,N,44
+35056,"Markham--Unionville","Markham--Unionville"," 128","Markham",N,N,"124",0,368,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 128","Markham",N,N,"124",0,368,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 128","Markham",N,N,"124",0,368,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 128","Markham",N,N,"124",0,368,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 129","Markham",N,N,"",3,324,"Chiang","","Paul","Liberal","Libéral",N,Y,64
+35056,"Markham--Unionville","Markham--Unionville"," 129","Markham",N,N,"",3,324,"Kao","","Elvin","Green Party","Parti Vert",N,N,5
+35056,"Markham--Unionville","Markham--Unionville"," 129","Markham",N,N,"",3,324,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35056,"Markham--Unionville","Markham--Unionville"," 129","Markham",N,N,"",3,324,"Saroya","","Bob","Conservative","Conservateur",Y,N,64
+35056,"Markham--Unionville","Markham--Unionville"," 130","Markham",N,N,"",1,430,"Chiang","","Paul","Liberal","Libéral",N,Y,121
+35056,"Markham--Unionville","Markham--Unionville"," 130","Markham",N,N,"",1,430,"Kao","","Elvin","Green Party","Parti Vert",N,N,7
+35056,"Markham--Unionville","Markham--Unionville"," 130","Markham",N,N,"",1,430,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35056,"Markham--Unionville","Markham--Unionville"," 130","Markham",N,N,"",1,430,"Saroya","","Bob","Conservative","Conservateur",Y,N,95
+35056,"Markham--Unionville","Markham--Unionville"," 131","Markham",N,N,"130",0,359,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 131","Markham",N,N,"130",0,359,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 131","Markham",N,N,"130",0,359,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 131","Markham",N,N,"130",0,359,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 132","Markham",N,N,"143",0,196,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 132","Markham",N,N,"143",0,196,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 132","Markham",N,N,"143",0,196,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 132","Markham",N,N,"143",0,196,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 133","Markham",N,N,"",2,581,"Chiang","","Paul","Liberal","Libéral",N,Y,98
+35056,"Markham--Unionville","Markham--Unionville"," 133","Markham",N,N,"",2,581,"Kao","","Elvin","Green Party","Parti Vert",N,N,8
+35056,"Markham--Unionville","Markham--Unionville"," 133","Markham",N,N,"",2,581,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35056,"Markham--Unionville","Markham--Unionville"," 133","Markham",N,N,"",2,581,"Saroya","","Bob","Conservative","Conservateur",Y,N,58
+35056,"Markham--Unionville","Markham--Unionville"," 134A","Markham",N,N,"",2,502,"Chiang","","Paul","Liberal","Libéral",N,Y,54
+35056,"Markham--Unionville","Markham--Unionville"," 134A","Markham",N,N,"",2,502,"Kao","","Elvin","Green Party","Parti Vert",N,N,2
+35056,"Markham--Unionville","Markham--Unionville"," 134A","Markham",N,N,"",2,502,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35056,"Markham--Unionville","Markham--Unionville"," 134A","Markham",N,N,"",2,502,"Saroya","","Bob","Conservative","Conservateur",Y,N,68
+35056,"Markham--Unionville","Markham--Unionville"," 134B","Mobile poll/Bureau itinérant",N,N,"",0,22,"Chiang","","Paul","Liberal","Libéral",N,Y,3
+35056,"Markham--Unionville","Markham--Unionville"," 134B","Mobile poll/Bureau itinérant",N,N,"",0,22,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 134B","Mobile poll/Bureau itinérant",N,N,"",0,22,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35056,"Markham--Unionville","Markham--Unionville"," 134B","Mobile poll/Bureau itinérant",N,N,"",0,22,"Saroya","","Bob","Conservative","Conservateur",Y,N,15
+35056,"Markham--Unionville","Markham--Unionville"," 135","Markham",N,N,"",4,511,"Chiang","","Paul","Liberal","Libéral",N,Y,130
+35056,"Markham--Unionville","Markham--Unionville"," 135","Markham",N,N,"",4,511,"Kao","","Elvin","Green Party","Parti Vert",N,N,9
+35056,"Markham--Unionville","Markham--Unionville"," 135","Markham",N,N,"",4,511,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35056,"Markham--Unionville","Markham--Unionville"," 135","Markham",N,N,"",4,511,"Saroya","","Bob","Conservative","Conservateur",Y,N,96
+35056,"Markham--Unionville","Markham--Unionville"," 136","Markham",N,N,"",1,567,"Chiang","","Paul","Liberal","Libéral",N,Y,83
+35056,"Markham--Unionville","Markham--Unionville"," 136","Markham",N,N,"",1,567,"Kao","","Elvin","Green Party","Parti Vert",N,N,6
+35056,"Markham--Unionville","Markham--Unionville"," 136","Markham",N,N,"",1,567,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35056,"Markham--Unionville","Markham--Unionville"," 136","Markham",N,N,"",1,567,"Saroya","","Bob","Conservative","Conservateur",Y,N,35
+35056,"Markham--Unionville","Markham--Unionville"," 137","Markham",N,N,"",4,544,"Chiang","","Paul","Liberal","Libéral",N,Y,87
+35056,"Markham--Unionville","Markham--Unionville"," 137","Markham",N,N,"",4,544,"Kao","","Elvin","Green Party","Parti Vert",N,N,4
+35056,"Markham--Unionville","Markham--Unionville"," 137","Markham",N,N,"",4,544,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35056,"Markham--Unionville","Markham--Unionville"," 137","Markham",N,N,"",4,544,"Saroya","","Bob","Conservative","Conservateur",Y,N,39
+35056,"Markham--Unionville","Markham--Unionville"," 138","Markham",N,N,"135",0,490,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 138","Markham",N,N,"135",0,490,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 138","Markham",N,N,"135",0,490,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 138","Markham",N,N,"135",0,490,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 139","Markham",N,N,"",3,600,"Chiang","","Paul","Liberal","Libéral",N,Y,89
+35056,"Markham--Unionville","Markham--Unionville"," 139","Markham",N,N,"",3,600,"Kao","","Elvin","Green Party","Parti Vert",N,N,7
+35056,"Markham--Unionville","Markham--Unionville"," 139","Markham",N,N,"",3,600,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35056,"Markham--Unionville","Markham--Unionville"," 139","Markham",N,N,"",3,600,"Saroya","","Bob","Conservative","Conservateur",Y,N,43
+35056,"Markham--Unionville","Markham--Unionville"," 140","Markham",N,N,"",3,524,"Chiang","","Paul","Liberal","Libéral",N,Y,134
+35056,"Markham--Unionville","Markham--Unionville"," 140","Markham",N,N,"",3,524,"Kao","","Elvin","Green Party","Parti Vert",N,N,3
+35056,"Markham--Unionville","Markham--Unionville"," 140","Markham",N,N,"",3,524,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35056,"Markham--Unionville","Markham--Unionville"," 140","Markham",N,N,"",3,524,"Saroya","","Bob","Conservative","Conservateur",Y,N,88
+35056,"Markham--Unionville","Markham--Unionville"," 141","Markham",N,N,"",2,578,"Chiang","","Paul","Liberal","Libéral",N,Y,97
+35056,"Markham--Unionville","Markham--Unionville"," 141","Markham",N,N,"",2,578,"Kao","","Elvin","Green Party","Parti Vert",N,N,3
+35056,"Markham--Unionville","Markham--Unionville"," 141","Markham",N,N,"",2,578,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35056,"Markham--Unionville","Markham--Unionville"," 141","Markham",N,N,"",2,578,"Saroya","","Bob","Conservative","Conservateur",Y,N,59
+35056,"Markham--Unionville","Markham--Unionville"," 142","Markham",N,N,"",1,560,"Chiang","","Paul","Liberal","Libéral",N,Y,126
+35056,"Markham--Unionville","Markham--Unionville"," 142","Markham",N,N,"",1,560,"Kao","","Elvin","Green Party","Parti Vert",N,N,5
+35056,"Markham--Unionville","Markham--Unionville"," 142","Markham",N,N,"",1,560,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35056,"Markham--Unionville","Markham--Unionville"," 142","Markham",N,N,"",1,560,"Saroya","","Bob","Conservative","Conservateur",Y,N,63
+35056,"Markham--Unionville","Markham--Unionville"," 143","Markham",N,N,"",3,556,"Chiang","","Paul","Liberal","Libéral",N,Y,77
+35056,"Markham--Unionville","Markham--Unionville"," 143","Markham",N,N,"",3,556,"Kao","","Elvin","Green Party","Parti Vert",N,N,11
+35056,"Markham--Unionville","Markham--Unionville"," 143","Markham",N,N,"",3,556,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35056,"Markham--Unionville","Markham--Unionville"," 143","Markham",N,N,"",3,556,"Saroya","","Bob","Conservative","Conservateur",Y,N,87
+35056,"Markham--Unionville","Markham--Unionville"," 144","Markham",N,N,"",4,665,"Chiang","","Paul","Liberal","Libéral",N,Y,97
+35056,"Markham--Unionville","Markham--Unionville"," 144","Markham",N,N,"",4,665,"Kao","","Elvin","Green Party","Parti Vert",N,N,2
+35056,"Markham--Unionville","Markham--Unionville"," 144","Markham",N,N,"",4,665,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35056,"Markham--Unionville","Markham--Unionville"," 144","Markham",N,N,"",4,665,"Saroya","","Bob","Conservative","Conservateur",Y,N,98
+35056,"Markham--Unionville","Markham--Unionville"," 145","Markham",N,N,"",0,481,"Chiang","","Paul","Liberal","Libéral",N,Y,44
+35056,"Markham--Unionville","Markham--Unionville"," 145","Markham",N,N,"",0,481,"Kao","","Elvin","Green Party","Parti Vert",N,N,5
+35056,"Markham--Unionville","Markham--Unionville"," 145","Markham",N,N,"",0,481,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35056,"Markham--Unionville","Markham--Unionville"," 145","Markham",N,N,"",0,481,"Saroya","","Bob","Conservative","Conservateur",Y,N,54
+35056,"Markham--Unionville","Markham--Unionville"," 146","Markham",N,N,"",3,899,"Chiang","","Paul","Liberal","Libéral",N,Y,108
+35056,"Markham--Unionville","Markham--Unionville"," 146","Markham",N,N,"",3,899,"Kao","","Elvin","Green Party","Parti Vert",N,N,6
+35056,"Markham--Unionville","Markham--Unionville"," 146","Markham",N,N,"",3,899,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35056,"Markham--Unionville","Markham--Unionville"," 146","Markham",N,N,"",3,899,"Saroya","","Bob","Conservative","Conservateur",Y,N,98
+35056,"Markham--Unionville","Markham--Unionville"," 147","Markham",N,N,"",0,819,"Chiang","","Paul","Liberal","Libéral",N,Y,102
+35056,"Markham--Unionville","Markham--Unionville"," 147","Markham",N,N,"",0,819,"Kao","","Elvin","Green Party","Parti Vert",N,N,6
+35056,"Markham--Unionville","Markham--Unionville"," 147","Markham",N,N,"",0,819,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35056,"Markham--Unionville","Markham--Unionville"," 147","Markham",N,N,"",0,819,"Saroya","","Bob","Conservative","Conservateur",Y,N,76
+35056,"Markham--Unionville","Markham--Unionville"," 148","Markham",N,N,"140",0,461,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 148","Markham",N,N,"140",0,461,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 148","Markham",N,N,"140",0,461,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 148","Markham",N,N,"140",0,461,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 149","Markham",N,N,"",2,396,"Chiang","","Paul","Liberal","Libéral",N,Y,52
+35056,"Markham--Unionville","Markham--Unionville"," 149","Markham",N,N,"",2,396,"Kao","","Elvin","Green Party","Parti Vert",N,N,4
+35056,"Markham--Unionville","Markham--Unionville"," 149","Markham",N,N,"",2,396,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35056,"Markham--Unionville","Markham--Unionville"," 149","Markham",N,N,"",2,396,"Saroya","","Bob","Conservative","Conservateur",Y,N,67
+35056,"Markham--Unionville","Markham--Unionville"," 150","Markham",N,N,"",1,373,"Chiang","","Paul","Liberal","Libéral",N,Y,96
+35056,"Markham--Unionville","Markham--Unionville"," 150","Markham",N,N,"",1,373,"Kao","","Elvin","Green Party","Parti Vert",N,N,8
+35056,"Markham--Unionville","Markham--Unionville"," 150","Markham",N,N,"",1,373,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35056,"Markham--Unionville","Markham--Unionville"," 150","Markham",N,N,"",1,373,"Saroya","","Bob","Conservative","Conservateur",Y,N,68
+35056,"Markham--Unionville","Markham--Unionville"," 151","Markham",N,N,"150",0,337,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 151","Markham",N,N,"150",0,337,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 151","Markham",N,N,"150",0,337,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 151","Markham",N,N,"150",0,337,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 152","Markham",N,N,"",1,553,"Chiang","","Paul","Liberal","Libéral",N,Y,86
+35056,"Markham--Unionville","Markham--Unionville"," 152","Markham",N,N,"",1,553,"Kao","","Elvin","Green Party","Parti Vert",N,N,13
+35056,"Markham--Unionville","Markham--Unionville"," 152","Markham",N,N,"",1,553,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35056,"Markham--Unionville","Markham--Unionville"," 152","Markham",N,N,"",1,553,"Saroya","","Bob","Conservative","Conservateur",Y,N,81
+35056,"Markham--Unionville","Markham--Unionville"," 153","Markham",N,N,"152",0,415,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 153","Markham",N,N,"152",0,415,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 153","Markham",N,N,"152",0,415,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 153","Markham",N,N,"152",0,415,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 154","Markham",N,N,"",1,420,"Chiang","","Paul","Liberal","Libéral",N,Y,59
+35056,"Markham--Unionville","Markham--Unionville"," 154","Markham",N,N,"",1,420,"Kao","","Elvin","Green Party","Parti Vert",N,N,8
+35056,"Markham--Unionville","Markham--Unionville"," 154","Markham",N,N,"",1,420,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35056,"Markham--Unionville","Markham--Unionville"," 154","Markham",N,N,"",1,420,"Saroya","","Bob","Conservative","Conservateur",Y,N,55
+35056,"Markham--Unionville","Markham--Unionville"," 155","Markham",N,N,"",0,413,"Chiang","","Paul","Liberal","Libéral",N,Y,78
+35056,"Markham--Unionville","Markham--Unionville"," 155","Markham",N,N,"",0,413,"Kao","","Elvin","Green Party","Parti Vert",N,N,4
+35056,"Markham--Unionville","Markham--Unionville"," 155","Markham",N,N,"",0,413,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35056,"Markham--Unionville","Markham--Unionville"," 155","Markham",N,N,"",0,413,"Saroya","","Bob","Conservative","Conservateur",Y,N,41
+35056,"Markham--Unionville","Markham--Unionville"," 156","Markham",N,N,"",3,383,"Chiang","","Paul","Liberal","Libéral",N,Y,91
+35056,"Markham--Unionville","Markham--Unionville"," 156","Markham",N,N,"",3,383,"Kao","","Elvin","Green Party","Parti Vert",N,N,5
+35056,"Markham--Unionville","Markham--Unionville"," 156","Markham",N,N,"",3,383,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35056,"Markham--Unionville","Markham--Unionville"," 156","Markham",N,N,"",3,383,"Saroya","","Bob","Conservative","Conservateur",Y,N,91
+35056,"Markham--Unionville","Markham--Unionville"," 157","Markham",N,N,"156",0,351,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 157","Markham",N,N,"156",0,351,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 157","Markham",N,N,"156",0,351,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 157","Markham",N,N,"156",0,351,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 158","Markham",N,N,"159",0,347,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 158","Markham",N,N,"159",0,347,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 158","Markham",N,N,"159",0,347,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 158","Markham",N,N,"159",0,347,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 159","Markham",N,N,"",1,480,"Chiang","","Paul","Liberal","Libéral",N,Y,121
+35056,"Markham--Unionville","Markham--Unionville"," 159","Markham",N,N,"",1,480,"Kao","","Elvin","Green Party","Parti Vert",N,N,4
+35056,"Markham--Unionville","Markham--Unionville"," 159","Markham",N,N,"",1,480,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35056,"Markham--Unionville","Markham--Unionville"," 159","Markham",N,N,"",1,480,"Saroya","","Bob","Conservative","Conservateur",Y,N,91
+35056,"Markham--Unionville","Markham--Unionville"," 160","Markham",N,N,"161",0,373,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 160","Markham",N,N,"161",0,373,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 160","Markham",N,N,"161",0,373,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 160","Markham",N,N,"161",0,373,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 161","Markham",N,N,"",5,397,"Chiang","","Paul","Liberal","Libéral",N,Y,110
+35056,"Markham--Unionville","Markham--Unionville"," 161","Markham",N,N,"",5,397,"Kao","","Elvin","Green Party","Parti Vert",N,N,6
+35056,"Markham--Unionville","Markham--Unionville"," 161","Markham",N,N,"",5,397,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35056,"Markham--Unionville","Markham--Unionville"," 161","Markham",N,N,"",5,397,"Saroya","","Bob","Conservative","Conservateur",Y,N,89
+35056,"Markham--Unionville","Markham--Unionville"," 162","Markham",N,N,"",3,413,"Chiang","","Paul","Liberal","Libéral",N,Y,106
+35056,"Markham--Unionville","Markham--Unionville"," 162","Markham",N,N,"",3,413,"Kao","","Elvin","Green Party","Parti Vert",N,N,5
+35056,"Markham--Unionville","Markham--Unionville"," 162","Markham",N,N,"",3,413,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35056,"Markham--Unionville","Markham--Unionville"," 162","Markham",N,N,"",3,413,"Saroya","","Bob","Conservative","Conservateur",Y,N,55
+35056,"Markham--Unionville","Markham--Unionville"," 163","Markham",N,N,"",2,404,"Chiang","","Paul","Liberal","Libéral",N,Y,93
+35056,"Markham--Unionville","Markham--Unionville"," 163","Markham",N,N,"",2,404,"Kao","","Elvin","Green Party","Parti Vert",N,N,10
+35056,"Markham--Unionville","Markham--Unionville"," 163","Markham",N,N,"",2,404,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35056,"Markham--Unionville","Markham--Unionville"," 163","Markham",N,N,"",2,404,"Saroya","","Bob","Conservative","Conservateur",Y,N,92
+35056,"Markham--Unionville","Markham--Unionville"," 164","Markham",N,N,"",4,960,"Chiang","","Paul","Liberal","Libéral",N,Y,134
+35056,"Markham--Unionville","Markham--Unionville"," 164","Markham",N,N,"",4,960,"Kao","","Elvin","Green Party","Parti Vert",N,N,8
+35056,"Markham--Unionville","Markham--Unionville"," 164","Markham",N,N,"",4,960,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35056,"Markham--Unionville","Markham--Unionville"," 164","Markham",N,N,"",4,960,"Saroya","","Bob","Conservative","Conservateur",Y,N,86
+35056,"Markham--Unionville","Markham--Unionville"," 165","Markham",N,N,"",0,251,"Chiang","","Paul","Liberal","Libéral",N,Y,62
+35056,"Markham--Unionville","Markham--Unionville"," 165","Markham",N,N,"",0,251,"Kao","","Elvin","Green Party","Parti Vert",N,N,4
+35056,"Markham--Unionville","Markham--Unionville"," 165","Markham",N,N,"",0,251,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35056,"Markham--Unionville","Markham--Unionville"," 165","Markham",N,N,"",0,251,"Saroya","","Bob","Conservative","Conservateur",Y,N,61
+35056,"Markham--Unionville","Markham--Unionville"," 166","Markham",N,N,"",0,207,"Chiang","","Paul","Liberal","Libéral",N,Y,61
+35056,"Markham--Unionville","Markham--Unionville"," 166","Markham",N,N,"",0,207,"Kao","","Elvin","Green Party","Parti Vert",N,N,3
+35056,"Markham--Unionville","Markham--Unionville"," 166","Markham",N,N,"",0,207,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35056,"Markham--Unionville","Markham--Unionville"," 166","Markham",N,N,"",0,207,"Saroya","","Bob","Conservative","Conservateur",Y,N,35
+35056,"Markham--Unionville","Markham--Unionville"," 167","Markham",N,N,"168",0,318,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 167","Markham",N,N,"168",0,318,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 167","Markham",N,N,"168",0,318,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 167","Markham",N,N,"168",0,318,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 168","Markham",N,N,"",1,484,"Chiang","","Paul","Liberal","Libéral",N,Y,72
+35056,"Markham--Unionville","Markham--Unionville"," 168","Markham",N,N,"",1,484,"Kao","","Elvin","Green Party","Parti Vert",N,N,7
+35056,"Markham--Unionville","Markham--Unionville"," 168","Markham",N,N,"",1,484,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35056,"Markham--Unionville","Markham--Unionville"," 168","Markham",N,N,"",1,484,"Saroya","","Bob","Conservative","Conservateur",Y,N,70
+35056,"Markham--Unionville","Markham--Unionville"," 400","Markham",N,N,"",0,244,"Chiang","","Paul","Liberal","Libéral",N,Y,76
+35056,"Markham--Unionville","Markham--Unionville"," 400","Markham",N,N,"",0,244,"Kao","","Elvin","Green Party","Parti Vert",N,N,5
+35056,"Markham--Unionville","Markham--Unionville"," 400","Markham",N,N,"",0,244,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35056,"Markham--Unionville","Markham--Unionville"," 400","Markham",N,N,"",0,244,"Saroya","","Bob","Conservative","Conservateur",Y,N,38
+35056,"Markham--Unionville","Markham--Unionville"," 401","Markham",N,N,"",0,255,"Chiang","","Paul","Liberal","Libéral",N,Y,82
+35056,"Markham--Unionville","Markham--Unionville"," 401","Markham",N,N,"",0,255,"Kao","","Elvin","Green Party","Parti Vert",N,N,3
+35056,"Markham--Unionville","Markham--Unionville"," 401","Markham",N,N,"",0,255,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35056,"Markham--Unionville","Markham--Unionville"," 401","Markham",N,N,"",0,255,"Saroya","","Bob","Conservative","Conservateur",Y,N,52
+35056,"Markham--Unionville","Markham--Unionville"," 402","Markham",N,N,"",3,190,"Chiang","","Paul","Liberal","Libéral",N,Y,53
+35056,"Markham--Unionville","Markham--Unionville"," 402","Markham",N,N,"",3,190,"Kao","","Elvin","Green Party","Parti Vert",N,N,5
+35056,"Markham--Unionville","Markham--Unionville"," 402","Markham",N,N,"",3,190,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35056,"Markham--Unionville","Markham--Unionville"," 402","Markham",N,N,"",3,190,"Saroya","","Bob","Conservative","Conservateur",Y,N,31
+35056,"Markham--Unionville","Markham--Unionville"," 403","Markham",N,N,"",1,222,"Chiang","","Paul","Liberal","Libéral",N,Y,72
+35056,"Markham--Unionville","Markham--Unionville"," 403","Markham",N,N,"",1,222,"Kao","","Elvin","Green Party","Parti Vert",N,N,2
+35056,"Markham--Unionville","Markham--Unionville"," 403","Markham",N,N,"",1,222,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35056,"Markham--Unionville","Markham--Unionville"," 403","Markham",N,N,"",1,222,"Saroya","","Bob","Conservative","Conservateur",Y,N,65
+35056,"Markham--Unionville","Markham--Unionville"," 404","Markham",N,N,"",4,217,"Chiang","","Paul","Liberal","Libéral",N,Y,88
+35056,"Markham--Unionville","Markham--Unionville"," 404","Markham",N,N,"",4,217,"Kao","","Elvin","Green Party","Parti Vert",N,N,1
+35056,"Markham--Unionville","Markham--Unionville"," 404","Markham",N,N,"",4,217,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35056,"Markham--Unionville","Markham--Unionville"," 404","Markham",N,N,"",4,217,"Saroya","","Bob","Conservative","Conservateur",Y,N,52
+35056,"Markham--Unionville","Markham--Unionville"," 405","Markham",N,N,"",1,384,"Chiang","","Paul","Liberal","Libéral",N,Y,156
+35056,"Markham--Unionville","Markham--Unionville"," 405","Markham",N,N,"",1,384,"Kao","","Elvin","Green Party","Parti Vert",N,N,7
+35056,"Markham--Unionville","Markham--Unionville"," 405","Markham",N,N,"",1,384,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35056,"Markham--Unionville","Markham--Unionville"," 405","Markham",N,N,"",1,384,"Saroya","","Bob","Conservative","Conservateur",Y,N,107
+35056,"Markham--Unionville","Markham--Unionville"," 406","Markham",N,N,"",1,201,"Chiang","","Paul","Liberal","Libéral",N,Y,33
+35056,"Markham--Unionville","Markham--Unionville"," 406","Markham",N,N,"",1,201,"Kao","","Elvin","Green Party","Parti Vert",N,N,2
+35056,"Markham--Unionville","Markham--Unionville"," 406","Markham",N,N,"",1,201,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35056,"Markham--Unionville","Markham--Unionville"," 406","Markham",N,N,"",1,201,"Saroya","","Bob","Conservative","Conservateur",Y,N,24
+35056,"Markham--Unionville","Markham--Unionville"," 407","Markham",N,N,"408",0,153,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 407","Markham",N,N,"408",0,153,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 407","Markham",N,N,"408",0,153,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 407","Markham",N,N,"408",0,153,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 408","Markham",N,N,"",5,229,"Chiang","","Paul","Liberal","Libéral",N,Y,79
+35056,"Markham--Unionville","Markham--Unionville"," 408","Markham",N,N,"",5,229,"Kao","","Elvin","Green Party","Parti Vert",N,N,9
+35056,"Markham--Unionville","Markham--Unionville"," 408","Markham",N,N,"",5,229,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35056,"Markham--Unionville","Markham--Unionville"," 408","Markham",N,N,"",5,229,"Saroya","","Bob","Conservative","Conservateur",Y,N,71
+35056,"Markham--Unionville","Markham--Unionville"," 409","Markham",N,N,"",0,173,"Chiang","","Paul","Liberal","Libéral",N,Y,76
+35056,"Markham--Unionville","Markham--Unionville"," 409","Markham",N,N,"",0,173,"Kao","","Elvin","Green Party","Parti Vert",N,N,3
+35056,"Markham--Unionville","Markham--Unionville"," 409","Markham",N,N,"",0,173,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35056,"Markham--Unionville","Markham--Unionville"," 409","Markham",N,N,"",0,173,"Saroya","","Bob","Conservative","Conservateur",Y,N,54
+35056,"Markham--Unionville","Markham--Unionville"," 410","Markham",N,N,"409",0,162,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 410","Markham",N,N,"409",0,162,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 410","Markham",N,N,"409",0,162,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 410","Markham",N,N,"409",0,162,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 411","Markham",N,N,"",0,188,"Chiang","","Paul","Liberal","Libéral",N,Y,53
+35056,"Markham--Unionville","Markham--Unionville"," 411","Markham",N,N,"",0,188,"Kao","","Elvin","Green Party","Parti Vert",N,N,1
+35056,"Markham--Unionville","Markham--Unionville"," 411","Markham",N,N,"",0,188,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35056,"Markham--Unionville","Markham--Unionville"," 411","Markham",N,N,"",0,188,"Saroya","","Bob","Conservative","Conservateur",Y,N,27
+35056,"Markham--Unionville","Markham--Unionville"," 412","Markham",N,N,"",4,489,"Chiang","","Paul","Liberal","Libéral",N,Y,98
+35056,"Markham--Unionville","Markham--Unionville"," 412","Markham",N,N,"",4,489,"Kao","","Elvin","Green Party","Parti Vert",N,N,4
+35056,"Markham--Unionville","Markham--Unionville"," 412","Markham",N,N,"",4,489,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35056,"Markham--Unionville","Markham--Unionville"," 412","Markham",N,N,"",4,489,"Saroya","","Bob","Conservative","Conservateur",Y,N,88
+35056,"Markham--Unionville","Markham--Unionville"," 413","Markham",N,N,"",1,505,"Chiang","","Paul","Liberal","Libéral",N,Y,112
+35056,"Markham--Unionville","Markham--Unionville"," 413","Markham",N,N,"",1,505,"Kao","","Elvin","Green Party","Parti Vert",N,N,8
+35056,"Markham--Unionville","Markham--Unionville"," 413","Markham",N,N,"",1,505,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35056,"Markham--Unionville","Markham--Unionville"," 413","Markham",N,N,"",1,505,"Saroya","","Bob","Conservative","Conservateur",Y,N,97
+35056,"Markham--Unionville","Markham--Unionville"," 414","Markham",N,N,"",5,167,"Chiang","","Paul","Liberal","Libéral",N,Y,23
+35056,"Markham--Unionville","Markham--Unionville"," 414","Markham",N,N,"",5,167,"Kao","","Elvin","Green Party","Parti Vert",N,N,1
+35056,"Markham--Unionville","Markham--Unionville"," 414","Markham",N,N,"",5,167,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35056,"Markham--Unionville","Markham--Unionville"," 414","Markham",N,N,"",5,167,"Saroya","","Bob","Conservative","Conservateur",Y,N,34
+35056,"Markham--Unionville","Markham--Unionville"," 415","Markham",N,N,"",0,114,"Chiang","","Paul","Liberal","Libéral",N,Y,24
+35056,"Markham--Unionville","Markham--Unionville"," 415","Markham",N,N,"",0,114,"Kao","","Elvin","Green Party","Parti Vert",N,N,2
+35056,"Markham--Unionville","Markham--Unionville"," 415","Markham",N,N,"",0,114,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35056,"Markham--Unionville","Markham--Unionville"," 415","Markham",N,N,"",0,114,"Saroya","","Bob","Conservative","Conservateur",Y,N,17
+35056,"Markham--Unionville","Markham--Unionville"," 416","Markham",N,N,"",2,164,"Chiang","","Paul","Liberal","Libéral",N,Y,46
+35056,"Markham--Unionville","Markham--Unionville"," 416","Markham",N,N,"",2,164,"Kao","","Elvin","Green Party","Parti Vert",N,N,2
+35056,"Markham--Unionville","Markham--Unionville"," 416","Markham",N,N,"",2,164,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35056,"Markham--Unionville","Markham--Unionville"," 416","Markham",N,N,"",2,164,"Saroya","","Bob","Conservative","Conservateur",Y,N,34
+35056,"Markham--Unionville","Markham--Unionville"," 417","Markham",N,N,"418",0,109,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 417","Markham",N,N,"418",0,109,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 417","Markham",N,N,"418",0,109,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 417","Markham",N,N,"418",0,109,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 418","Markham",N,N,"",0,158,"Chiang","","Paul","Liberal","Libéral",N,Y,69
+35056,"Markham--Unionville","Markham--Unionville"," 418","Markham",N,N,"",0,158,"Kao","","Elvin","Green Party","Parti Vert",N,N,1
+35056,"Markham--Unionville","Markham--Unionville"," 418","Markham",N,N,"",0,158,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35056,"Markham--Unionville","Markham--Unionville"," 418","Markham",N,N,"",0,158,"Saroya","","Bob","Conservative","Conservateur",Y,N,40
+35056,"Markham--Unionville","Markham--Unionville"," 419","Markham",N,N,"",2,202,"Chiang","","Paul","Liberal","Libéral",N,Y,29
+35056,"Markham--Unionville","Markham--Unionville"," 419","Markham",N,N,"",2,202,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 419","Markham",N,N,"",2,202,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35056,"Markham--Unionville","Markham--Unionville"," 419","Markham",N,N,"",2,202,"Saroya","","Bob","Conservative","Conservateur",Y,N,28
+35056,"Markham--Unionville","Markham--Unionville"," 420","Markham",N,N,"",4,149,"Chiang","","Paul","Liberal","Libéral",N,Y,35
+35056,"Markham--Unionville","Markham--Unionville"," 420","Markham",N,N,"",4,149,"Kao","","Elvin","Green Party","Parti Vert",N,N,2
+35056,"Markham--Unionville","Markham--Unionville"," 420","Markham",N,N,"",4,149,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35056,"Markham--Unionville","Markham--Unionville"," 420","Markham",N,N,"",4,149,"Saroya","","Bob","Conservative","Conservateur",Y,N,22
+35056,"Markham--Unionville","Markham--Unionville"," 421","Markham",N,N,"",2,150,"Chiang","","Paul","Liberal","Libéral",N,Y,54
+35056,"Markham--Unionville","Markham--Unionville"," 421","Markham",N,N,"",2,150,"Kao","","Elvin","Green Party","Parti Vert",N,N,1
+35056,"Markham--Unionville","Markham--Unionville"," 421","Markham",N,N,"",2,150,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35056,"Markham--Unionville","Markham--Unionville"," 421","Markham",N,N,"",2,150,"Saroya","","Bob","Conservative","Conservateur",Y,N,41
+35056,"Markham--Unionville","Markham--Unionville"," 422","Markham",N,N,"421",0,124,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 422","Markham",N,N,"421",0,124,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 422","Markham",N,N,"421",0,124,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 422","Markham",N,N,"421",0,124,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 423","Markham",N,N,"",0,141,"Chiang","","Paul","Liberal","Libéral",N,Y,67
+35056,"Markham--Unionville","Markham--Unionville"," 423","Markham",N,N,"",0,141,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 423","Markham",N,N,"",0,141,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35056,"Markham--Unionville","Markham--Unionville"," 423","Markham",N,N,"",0,141,"Saroya","","Bob","Conservative","Conservateur",Y,N,35
+35056,"Markham--Unionville","Markham--Unionville"," 424","Markham",N,N,"423",0,123,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 424","Markham",N,N,"423",0,123,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 424","Markham",N,N,"423",0,123,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 424","Markham",N,N,"423",0,123,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 425","Markham",N,N,"",0,275,"Chiang","","Paul","Liberal","Libéral",N,Y,52
+35056,"Markham--Unionville","Markham--Unionville"," 425","Markham",N,N,"",0,275,"Kao","","Elvin","Green Party","Parti Vert",N,N,6
+35056,"Markham--Unionville","Markham--Unionville"," 425","Markham",N,N,"",0,275,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35056,"Markham--Unionville","Markham--Unionville"," 425","Markham",N,N,"",0,275,"Saroya","","Bob","Conservative","Conservateur",Y,N,45
+35056,"Markham--Unionville","Markham--Unionville"," 426","Markham",N,N,"",4,321,"Chiang","","Paul","Liberal","Libéral",N,Y,66
+35056,"Markham--Unionville","Markham--Unionville"," 426","Markham",N,N,"",4,321,"Kao","","Elvin","Green Party","Parti Vert",N,N,7
+35056,"Markham--Unionville","Markham--Unionville"," 426","Markham",N,N,"",4,321,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35056,"Markham--Unionville","Markham--Unionville"," 426","Markham",N,N,"",4,321,"Saroya","","Bob","Conservative","Conservateur",Y,N,34
+35056,"Markham--Unionville","Markham--Unionville"," 500","Mobile poll/Bureau itinérant",N,N,"",0,45,"Chiang","","Paul","Liberal","Libéral",N,Y,17
+35056,"Markham--Unionville","Markham--Unionville"," 500","Mobile poll/Bureau itinérant",N,N,"",0,45,"Kao","","Elvin","Green Party","Parti Vert",N,N,2
+35056,"Markham--Unionville","Markham--Unionville"," 500","Mobile poll/Bureau itinérant",N,N,"",0,45,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35056,"Markham--Unionville","Markham--Unionville"," 500","Mobile poll/Bureau itinérant",N,N,"",0,45,"Saroya","","Bob","Conservative","Conservateur",Y,N,11
+35056,"Markham--Unionville","Markham--Unionville"," 501","Mobile poll/Bureau itinérant",N,N,"",3,32,"Chiang","","Paul","Liberal","Libéral",N,Y,7
+35056,"Markham--Unionville","Markham--Unionville"," 501","Mobile poll/Bureau itinérant",N,N,"",3,32,"Kao","","Elvin","Green Party","Parti Vert",N,N,2
+35056,"Markham--Unionville","Markham--Unionville"," 501","Mobile poll/Bureau itinérant",N,N,"",3,32,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35056,"Markham--Unionville","Markham--Unionville"," 501","Mobile poll/Bureau itinérant",N,N,"",3,32,"Saroya","","Bob","Conservative","Conservateur",Y,N,14
+35056,"Markham--Unionville","Markham--Unionville"," 502","Mobile poll/Bureau itinérant",N,Y,"",0,35,"Chiang","","Paul","Liberal","Libéral",N,Y,0
+35056,"Markham--Unionville","Markham--Unionville"," 502","Mobile poll/Bureau itinérant",N,Y,"",0,35,"Kao","","Elvin","Green Party","Parti Vert",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 502","Mobile poll/Bureau itinérant",N,Y,"",0,35,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 502","Mobile poll/Bureau itinérant",N,Y,"",0,35,"Saroya","","Bob","Conservative","Conservateur",Y,N,0
+35056,"Markham--Unionville","Markham--Unionville"," 503","Mobile poll/Bureau itinérant",N,N,"",3,81,"Chiang","","Paul","Liberal","Libéral",N,Y,24
+35056,"Markham--Unionville","Markham--Unionville"," 503","Mobile poll/Bureau itinérant",N,N,"",3,81,"Kao","","Elvin","Green Party","Parti Vert",N,N,1
+35056,"Markham--Unionville","Markham--Unionville"," 503","Mobile poll/Bureau itinérant",N,N,"",3,81,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35056,"Markham--Unionville","Markham--Unionville"," 503","Mobile poll/Bureau itinérant",N,N,"",3,81,"Saroya","","Bob","Conservative","Conservateur",Y,N,16
+35056,"Markham--Unionville","Markham--Unionville"," 504","Mobile poll/Bureau itinérant",N,N,"",3,110,"Chiang","","Paul","Liberal","Libéral",N,Y,42
+35056,"Markham--Unionville","Markham--Unionville"," 504","Mobile poll/Bureau itinérant",N,N,"",3,110,"Kao","","Elvin","Green Party","Parti Vert",N,N,2
+35056,"Markham--Unionville","Markham--Unionville"," 504","Mobile poll/Bureau itinérant",N,N,"",3,110,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35056,"Markham--Unionville","Markham--Unionville"," 504","Mobile poll/Bureau itinérant",N,N,"",3,110,"Saroya","","Bob","Conservative","Conservateur",Y,N,15
+35056,"Markham--Unionville","Markham--Unionville"," 600","Markham",N,N,"",10,0,"Chiang","","Paul","Liberal","Libéral",N,Y,561
+35056,"Markham--Unionville","Markham--Unionville"," 600","Markham",N,N,"",10,0,"Kao","","Elvin","Green Party","Parti Vert",N,N,23
+35056,"Markham--Unionville","Markham--Unionville"," 600","Markham",N,N,"",10,0,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35056,"Markham--Unionville","Markham--Unionville"," 600","Markham",N,N,"",10,0,"Saroya","","Bob","Conservative","Conservateur",Y,N,681
+35056,"Markham--Unionville","Markham--Unionville"," 601","Markham",N,N,"",9,0,"Chiang","","Paul","Liberal","Libéral",N,Y,581
+35056,"Markham--Unionville","Markham--Unionville"," 601","Markham",N,N,"",9,0,"Kao","","Elvin","Green Party","Parti Vert",N,N,32
+35056,"Markham--Unionville","Markham--Unionville"," 601","Markham",N,N,"",9,0,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+35056,"Markham--Unionville","Markham--Unionville"," 601","Markham",N,N,"",9,0,"Saroya","","Bob","Conservative","Conservateur",Y,N,718
+35056,"Markham--Unionville","Markham--Unionville"," 602","Markham",N,N,"",1,0,"Chiang","","Paul","Liberal","Libéral",N,Y,417
+35056,"Markham--Unionville","Markham--Unionville"," 602","Markham",N,N,"",1,0,"Kao","","Elvin","Green Party","Parti Vert",N,N,31
+35056,"Markham--Unionville","Markham--Unionville"," 602","Markham",N,N,"",1,0,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35056,"Markham--Unionville","Markham--Unionville"," 602","Markham",N,N,"",1,0,"Saroya","","Bob","Conservative","Conservateur",Y,N,489
+35056,"Markham--Unionville","Markham--Unionville"," 603","Markham",N,N,"",8,0,"Chiang","","Paul","Liberal","Libéral",N,Y,465
+35056,"Markham--Unionville","Markham--Unionville"," 603","Markham",N,N,"",8,0,"Kao","","Elvin","Green Party","Parti Vert",N,N,41
+35056,"Markham--Unionville","Markham--Unionville"," 603","Markham",N,N,"",8,0,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+35056,"Markham--Unionville","Markham--Unionville"," 603","Markham",N,N,"",8,0,"Saroya","","Bob","Conservative","Conservateur",Y,N,479
+35056,"Markham--Unionville","Markham--Unionville"," 604","Markham",N,N,"",3,0,"Chiang","","Paul","Liberal","Libéral",N,Y,590
+35056,"Markham--Unionville","Markham--Unionville"," 604","Markham",N,N,"",3,0,"Kao","","Elvin","Green Party","Parti Vert",N,N,31
+35056,"Markham--Unionville","Markham--Unionville"," 604","Markham",N,N,"",3,0,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+35056,"Markham--Unionville","Markham--Unionville"," 604","Markham",N,N,"",3,0,"Saroya","","Bob","Conservative","Conservateur",Y,N,556
+35056,"Markham--Unionville","Markham--Unionville"," 605","Markham",N,N,"",6,0,"Chiang","","Paul","Liberal","Libéral",N,Y,234
+35056,"Markham--Unionville","Markham--Unionville"," 605","Markham",N,N,"",6,0,"Kao","","Elvin","Green Party","Parti Vert",N,N,13
+35056,"Markham--Unionville","Markham--Unionville"," 605","Markham",N,N,"",6,0,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35056,"Markham--Unionville","Markham--Unionville"," 605","Markham",N,N,"",6,0,"Saroya","","Bob","Conservative","Conservateur",Y,N,202
+35056,"Markham--Unionville","Markham--Unionville"," 606","Markham",N,N,"",8,0,"Chiang","","Paul","Liberal","Libéral",N,Y,542
+35056,"Markham--Unionville","Markham--Unionville"," 606","Markham",N,N,"",8,0,"Kao","","Elvin","Green Party","Parti Vert",N,N,29
+35056,"Markham--Unionville","Markham--Unionville"," 606","Markham",N,N,"",8,0,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+35056,"Markham--Unionville","Markham--Unionville"," 606","Markham",N,N,"",8,0,"Saroya","","Bob","Conservative","Conservateur",Y,N,498
+35056,"Markham--Unionville","Markham--Unionville"," 607","Markham",N,N,"",7,0,"Chiang","","Paul","Liberal","Libéral",N,Y,625
+35056,"Markham--Unionville","Markham--Unionville"," 607","Markham",N,N,"",7,0,"Kao","","Elvin","Green Party","Parti Vert",N,N,36
+35056,"Markham--Unionville","Markham--Unionville"," 607","Markham",N,N,"",7,0,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+35056,"Markham--Unionville","Markham--Unionville"," 607","Markham",N,N,"",7,0,"Saroya","","Bob","Conservative","Conservateur",Y,N,607
+35056,"Markham--Unionville","Markham--Unionville"," 608","Markham",N,N,"",5,0,"Chiang","","Paul","Liberal","Libéral",N,Y,363
+35056,"Markham--Unionville","Markham--Unionville"," 608","Markham",N,N,"",5,0,"Kao","","Elvin","Green Party","Parti Vert",N,N,13
+35056,"Markham--Unionville","Markham--Unionville"," 608","Markham",N,N,"",5,0,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35056,"Markham--Unionville","Markham--Unionville"," 608","Markham",N,N,"",5,0,"Saroya","","Bob","Conservative","Conservateur",Y,N,288
+35056,"Markham--Unionville","Markham--Unionville"," 609","Markham",N,N,"",3,0,"Chiang","","Paul","Liberal","Libéral",N,Y,338
+35056,"Markham--Unionville","Markham--Unionville"," 609","Markham",N,N,"",3,0,"Kao","","Elvin","Green Party","Parti Vert",N,N,18
+35056,"Markham--Unionville","Markham--Unionville"," 609","Markham",N,N,"",3,0,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35056,"Markham--Unionville","Markham--Unionville"," 609","Markham",N,N,"",3,0,"Saroya","","Bob","Conservative","Conservateur",Y,N,285
+35056,"Markham--Unionville","Markham--Unionville"," 610","Markham",N,N,"",4,0,"Chiang","","Paul","Liberal","Libéral",N,Y,421
+35056,"Markham--Unionville","Markham--Unionville"," 610","Markham",N,N,"",4,0,"Kao","","Elvin","Green Party","Parti Vert",N,N,26
+35056,"Markham--Unionville","Markham--Unionville"," 610","Markham",N,N,"",4,0,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35056,"Markham--Unionville","Markham--Unionville"," 610","Markham",N,N,"",4,0,"Saroya","","Bob","Conservative","Conservateur",Y,N,462
+35056,"Markham--Unionville","Markham--Unionville"," 611","Markham",N,N,"",6,0,"Chiang","","Paul","Liberal","Libéral",N,Y,437
+35056,"Markham--Unionville","Markham--Unionville"," 611","Markham",N,N,"",6,0,"Kao","","Elvin","Green Party","Parti Vert",N,N,30
+35056,"Markham--Unionville","Markham--Unionville"," 611","Markham",N,N,"",6,0,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+35056,"Markham--Unionville","Markham--Unionville"," 611","Markham",N,N,"",6,0,"Saroya","","Bob","Conservative","Conservateur",Y,N,452
+35056,"Markham--Unionville","Markham--Unionville"," 612","Markham",N,N,"",8,0,"Chiang","","Paul","Liberal","Libéral",N,Y,524
+35056,"Markham--Unionville","Markham--Unionville"," 612","Markham",N,N,"",8,0,"Kao","","Elvin","Green Party","Parti Vert",N,N,22
+35056,"Markham--Unionville","Markham--Unionville"," 612","Markham",N,N,"",8,0,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+35056,"Markham--Unionville","Markham--Unionville"," 612","Markham",N,N,"",8,0,"Saroya","","Bob","Conservative","Conservateur",Y,N,534
+35056,"Markham--Unionville","Markham--Unionville"," 613","Markham",N,N,"",7,0,"Chiang","","Paul","Liberal","Libéral",N,Y,507
+35056,"Markham--Unionville","Markham--Unionville"," 613","Markham",N,N,"",7,0,"Kao","","Elvin","Green Party","Parti Vert",N,N,22
+35056,"Markham--Unionville","Markham--Unionville"," 613","Markham",N,N,"",7,0,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+35056,"Markham--Unionville","Markham--Unionville"," 613","Markham",N,N,"",7,0,"Saroya","","Bob","Conservative","Conservateur",Y,N,478
+35056,"Markham--Unionville","Markham--Unionville"," 614","Markham",N,N,"",1,0,"Chiang","","Paul","Liberal","Libéral",N,Y,466
+35056,"Markham--Unionville","Markham--Unionville"," 614","Markham",N,N,"",1,0,"Kao","","Elvin","Green Party","Parti Vert",N,N,16
+35056,"Markham--Unionville","Markham--Unionville"," 614","Markham",N,N,"",1,0,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35056,"Markham--Unionville","Markham--Unionville"," 614","Markham",N,N,"",1,0,"Saroya","","Bob","Conservative","Conservateur",Y,N,392
+35056,"Markham--Unionville","Markham--Unionville"," 615","Markham",N,N,"",9,0,"Chiang","","Paul","Liberal","Libéral",N,Y,528
+35056,"Markham--Unionville","Markham--Unionville"," 615","Markham",N,N,"",9,0,"Kao","","Elvin","Green Party","Parti Vert",N,N,21
+35056,"Markham--Unionville","Markham--Unionville"," 615","Markham",N,N,"",9,0,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+35056,"Markham--Unionville","Markham--Unionville"," 615","Markham",N,N,"",9,0,"Saroya","","Bob","Conservative","Conservateur",Y,N,455
+35056,"Markham--Unionville","Markham--Unionville"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",23,347,"Chiang","","Paul","Liberal","Libéral",N,Y,257
+35056,"Markham--Unionville","Markham--Unionville"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",23,347,"Kao","","Elvin","Green Party","Parti Vert",N,N,24
+35056,"Markham--Unionville","Markham--Unionville"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",23,347,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+35056,"Markham--Unionville","Markham--Unionville"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",23,347,"Saroya","","Bob","Conservative","Conservateur",Y,N,173
+35056,"Markham--Unionville","Markham--Unionville"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",70,0,"Chiang","","Paul","Liberal","Libéral",N,Y,1280
+35056,"Markham--Unionville","Markham--Unionville"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",70,0,"Kao","","Elvin","Green Party","Parti Vert",N,N,66
+35056,"Markham--Unionville","Markham--Unionville"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",70,0,"Qureshi","","Aftab","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,175
+35056,"Markham--Unionville","Markham--Unionville"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",70,0,"Saroya","","Bob","Conservative","Conservateur",Y,N,1228

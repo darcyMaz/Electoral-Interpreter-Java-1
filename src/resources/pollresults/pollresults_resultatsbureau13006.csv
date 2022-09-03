@@ -1,0 +1,906 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 1","Rivière-du-Portage",N,N,"",1,346,"Deitch","","Patty","Green Party","Parti Vert",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 1","Rivière-du-Portage",N,N,"",1,346,"Harris","","Lisa","Liberal","Libéral",N,N,104
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 1","Rivière-du-Portage",N,N,"",1,346,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 1","Rivière-du-Portage",N,N,"",1,346,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 1","Rivière-du-Portage",N,N,"",1,346,"Stewart","","Jake","Conservative","Conservateur",N,Y,19
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 2","Pontgravé",N,N,"",2,311,"Deitch","","Patty","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 2","Pontgravé",N,N,"",2,311,"Harris","","Lisa","Liberal","Libéral",N,N,87
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 2","Pontgravé",N,N,"",2,311,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 2","Pontgravé",N,N,"",2,311,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 2","Pontgravé",N,N,"",2,311,"Stewart","","Jake","Conservative","Conservateur",N,Y,29
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 3","Pontgravé",N,N,"",2,307,"Deitch","","Patty","Green Party","Parti Vert",N,N,11
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 3","Pontgravé",N,N,"",2,307,"Harris","","Lisa","Liberal","Libéral",N,N,106
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 3","Pontgravé",N,N,"",2,307,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 3","Pontgravé",N,N,"",2,307,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 3","Pontgravé",N,N,"",2,307,"Stewart","","Jake","Conservative","Conservateur",N,Y,17
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 4","Brantville",N,N,"",4,280,"Deitch","","Patty","Green Party","Parti Vert",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 4","Brantville",N,N,"",4,280,"Harris","","Lisa","Liberal","Libéral",N,N,92
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 4","Brantville",N,N,"",4,280,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 4","Brantville",N,N,"",4,280,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 4","Brantville",N,N,"",4,280,"Stewart","","Jake","Conservative","Conservateur",N,Y,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 5","Brantville",N,N,"",0,277,"Deitch","","Patty","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 5","Brantville",N,N,"",0,277,"Harris","","Lisa","Liberal","Libéral",N,N,108
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 5","Brantville",N,N,"",0,277,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 5","Brantville",N,N,"",0,277,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 5","Brantville",N,N,"",0,277,"Stewart","","Jake","Conservative","Conservateur",N,Y,24
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 6","Brantville",N,N,"",1,358,"Deitch","","Patty","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 6","Brantville",N,N,"",1,358,"Harris","","Lisa","Liberal","Libéral",N,N,132
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 6","Brantville",N,N,"",1,358,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 6","Brantville",N,N,"",1,358,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 6","Brantville",N,N,"",1,358,"Stewart","","Jake","Conservative","Conservateur",N,Y,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 7","Tabusintac 9",N,N,"",4,415,"Deitch","","Patty","Green Party","Parti Vert",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 7","Tabusintac 9",N,N,"",4,415,"Harris","","Lisa","Liberal","Libéral",N,N,76
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 7","Tabusintac 9",N,N,"",4,415,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 7","Tabusintac 9",N,N,"",4,415,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 7","Tabusintac 9",N,N,"",4,415,"Stewart","","Jake","Conservative","Conservateur",N,Y,74
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 8","Covedell",N,N,"",3,421,"Deitch","","Patty","Green Party","Parti Vert",N,N,1
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 8","Covedell",N,N,"",3,421,"Harris","","Lisa","Liberal","Libéral",N,N,78
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 8","Covedell",N,N,"",3,421,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 8","Covedell",N,N,"",3,421,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 8","Covedell",N,N,"",3,421,"Stewart","","Jake","Conservative","Conservateur",N,Y,59
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 9","Fairisle",N,N,"",0,341,"Deitch","","Patty","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 9","Fairisle",N,N,"",0,341,"Harris","","Lisa","Liberal","Libéral",N,N,66
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 9","Fairisle",N,N,"",0,341,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,12
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 9","Fairisle",N,N,"",0,341,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 9","Fairisle",N,N,"",0,341,"Stewart","","Jake","Conservative","Conservateur",N,Y,17
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 10","Alnwick",N,N,"",1,334,"Deitch","","Patty","Green Party","Parti Vert",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 10","Alnwick",N,N,"",1,334,"Harris","","Lisa","Liberal","Libéral",N,N,73
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 10","Alnwick",N,N,"",1,334,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 10","Alnwick",N,N,"",1,334,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 10","Alnwick",N,N,"",1,334,"Stewart","","Jake","Conservative","Conservateur",N,Y,27
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 11","Neguac",N,N,"",0,339,"Deitch","","Patty","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 11","Neguac",N,N,"",0,339,"Harris","","Lisa","Liberal","Libéral",N,N,77
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 11","Neguac",N,N,"",0,339,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 11","Neguac",N,N,"",0,339,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 11","Neguac",N,N,"",0,339,"Stewart","","Jake","Conservative","Conservateur",N,Y,31
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 12","Lower Neguac",N,N,"",1,342,"Deitch","","Patty","Green Party","Parti Vert",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 12","Lower Neguac",N,N,"",1,342,"Harris","","Lisa","Liberal","Libéral",N,N,96
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 12","Lower Neguac",N,N,"",1,342,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,17
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 12","Lower Neguac",N,N,"",1,342,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 12","Lower Neguac",N,N,"",1,342,"Stewart","","Jake","Conservative","Conservateur",N,Y,22
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 13","Neguac",N,N,"",1,285,"Deitch","","Patty","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 13","Neguac",N,N,"",1,285,"Harris","","Lisa","Liberal","Libéral",N,N,54
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 13","Neguac",N,N,"",1,285,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 13","Neguac",N,N,"",1,285,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 13","Neguac",N,N,"",1,285,"Stewart","","Jake","Conservative","Conservateur",N,Y,29
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 14","Neguac",N,N,"",0,391,"Deitch","","Patty","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 14","Neguac",N,N,"",0,391,"Harris","","Lisa","Liberal","Libéral",N,N,83
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 14","Neguac",N,N,"",0,391,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,19
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 14","Neguac",N,N,"",0,391,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 14","Neguac",N,N,"",0,391,"Stewart","","Jake","Conservative","Conservateur",N,Y,42
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 15","Burnt Church 14",N,N,"",0,492,"Deitch","","Patty","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 15","Burnt Church 14",N,N,"",0,492,"Harris","","Lisa","Liberal","Libéral",N,N,56
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 15","Burnt Church 14",N,N,"",0,492,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 15","Burnt Church 14",N,N,"",0,492,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 15","Burnt Church 14",N,N,"",0,492,"Stewart","","Jake","Conservative","Conservateur",N,Y,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 16","Esgenoôpetitj 14",N,N,"",0,414,"Deitch","","Patty","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 16","Esgenoôpetitj 14",N,N,"",0,414,"Harris","","Lisa","Liberal","Libéral",N,N,39
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 16","Esgenoôpetitj 14",N,N,"",0,414,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 16","Esgenoôpetitj 14",N,N,"",0,414,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 16","Esgenoôpetitj 14",N,N,"",0,414,"Stewart","","Jake","Conservative","Conservateur",N,Y,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 17","Saint-Wilfred",N,N,"",1,225,"Deitch","","Patty","Green Party","Parti Vert",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 17","Saint-Wilfred",N,N,"",1,225,"Harris","","Lisa","Liberal","Libéral",N,N,66
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 17","Saint-Wilfred",N,N,"",1,225,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 17","Saint-Wilfred",N,N,"",1,225,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 17","Saint-Wilfred",N,N,"",1,225,"Stewart","","Jake","Conservative","Conservateur",N,Y,25
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 18","Lavillette",N,N,"",5,288,"Deitch","","Patty","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 18","Lavillette",N,N,"",5,288,"Harris","","Lisa","Liberal","Libéral",N,N,98
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 18","Lavillette",N,N,"",5,288,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,12
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 18","Lavillette",N,N,"",5,288,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 18","Lavillette",N,N,"",5,288,"Stewart","","Jake","Conservative","Conservateur",N,Y,19
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 19","Alnwick",N,N,"",3,292,"Deitch","","Patty","Green Party","Parti Vert",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 19","Alnwick",N,N,"",3,292,"Harris","","Lisa","Liberal","Libéral",N,N,101
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 19","Alnwick",N,N,"",3,292,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 19","Alnwick",N,N,"",3,292,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 19","Alnwick",N,N,"",3,292,"Stewart","","Jake","Conservative","Conservateur",N,Y,34
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 20","Lagacéville",N,N,"",2,438,"Deitch","","Patty","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 20","Lagacéville",N,N,"",2,438,"Harris","","Lisa","Liberal","Libéral",N,N,128
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 20","Lagacéville",N,N,"",2,438,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,16
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 20","Lagacéville",N,N,"",2,438,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 20","Lagacéville",N,N,"",2,438,"Stewart","","Jake","Conservative","Conservateur",N,Y,51
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 21","New Jersey",N,N,"",1,378,"Deitch","","Patty","Green Party","Parti Vert",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 21","New Jersey",N,N,"",1,378,"Harris","","Lisa","Liberal","Libéral",N,N,90
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 21","New Jersey",N,N,"",1,378,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,11
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 21","New Jersey",N,N,"",1,378,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 21","New Jersey",N,N,"",1,378,"Stewart","","Jake","Conservative","Conservateur",N,Y,65
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 22","Escuminac",N,N,"",0,409,"Deitch","","Patty","Green Party","Parti Vert",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 22","Escuminac",N,N,"",0,409,"Harris","","Lisa","Liberal","Libéral",N,N,47
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 22","Escuminac",N,N,"",0,409,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 22","Escuminac",N,N,"",0,409,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 22","Escuminac",N,N,"",0,409,"Stewart","","Jake","Conservative","Conservateur",N,Y,101
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 23","Escuminac",N,N,"",2,277,"Deitch","","Patty","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 23","Escuminac",N,N,"",2,277,"Harris","","Lisa","Liberal","Libéral",N,N,36
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 23","Escuminac",N,N,"",2,277,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 23","Escuminac",N,N,"",2,277,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 23","Escuminac",N,N,"",2,277,"Stewart","","Jake","Conservative","Conservateur",N,Y,61
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 24","Hardwicke",N,N,"",3,282,"Deitch","","Patty","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 24","Hardwicke",N,N,"",3,282,"Harris","","Lisa","Liberal","Libéral",N,N,40
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 24","Hardwicke",N,N,"",3,282,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,1
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 24","Hardwicke",N,N,"",3,282,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 24","Hardwicke",N,N,"",3,282,"Stewart","","Jake","Conservative","Conservateur",N,Y,67
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 25","Manuels",N,N,"",2,288,"Deitch","","Patty","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 25","Manuels",N,N,"",2,288,"Harris","","Lisa","Liberal","Libéral",N,N,59
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 25","Manuels",N,N,"",2,288,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 25","Manuels",N,N,"",2,288,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 25","Manuels",N,N,"",2,288,"Stewart","","Jake","Conservative","Conservateur",N,Y,50
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 26","Eel River Bridge",N,N,"",2,299,"Deitch","","Patty","Green Party","Parti Vert",N,N,1
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 26","Eel River Bridge",N,N,"",2,299,"Harris","","Lisa","Liberal","Libéral",N,N,56
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 26","Eel River Bridge",N,N,"",2,299,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 26","Eel River Bridge",N,N,"",2,299,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 26","Eel River Bridge",N,N,"",2,299,"Stewart","","Jake","Conservative","Conservateur",N,Y,56
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 27","Lower Newcastle",N,N,"",0,393,"Deitch","","Patty","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 27","Lower Newcastle",N,N,"",0,393,"Harris","","Lisa","Liberal","Libéral",N,N,48
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 27","Lower Newcastle",N,N,"",0,393,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,11
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 27","Lower Newcastle",N,N,"",0,393,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 27","Lower Newcastle",N,N,"",0,393,"Stewart","","Jake","Conservative","Conservateur",N,Y,63
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 28","Miramichi",N,N,"",0,267,"Deitch","","Patty","Green Party","Parti Vert",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 28","Miramichi",N,N,"",0,267,"Harris","","Lisa","Liberal","Libéral",N,N,34
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 28","Miramichi",N,N,"",0,267,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 28","Miramichi",N,N,"",0,267,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 28","Miramichi",N,N,"",0,267,"Stewart","","Jake","Conservative","Conservateur",N,Y,50
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 29","Miramichi",N,N,"",1,449,"Deitch","","Patty","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 29","Miramichi",N,N,"",1,449,"Harris","","Lisa","Liberal","Libéral",N,N,68
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 29","Miramichi",N,N,"",1,449,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 29","Miramichi",N,N,"",1,449,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 29","Miramichi",N,N,"",1,449,"Stewart","","Jake","Conservative","Conservateur",N,Y,64
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 30","Miramichi",N,N,"",1,450,"Deitch","","Patty","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 30","Miramichi",N,N,"",1,450,"Harris","","Lisa","Liberal","Libéral",N,N,56
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 30","Miramichi",N,N,"",1,450,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,1
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 30","Miramichi",N,N,"",1,450,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 30","Miramichi",N,N,"",1,450,"Stewart","","Jake","Conservative","Conservateur",N,Y,60
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 31","Miramichi",N,N,"",0,420,"Deitch","","Patty","Green Party","Parti Vert",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 31","Miramichi",N,N,"",0,420,"Harris","","Lisa","Liberal","Libéral",N,N,46
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 31","Miramichi",N,N,"",0,420,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 31","Miramichi",N,N,"",0,420,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 31","Miramichi",N,N,"",0,420,"Stewart","","Jake","Conservative","Conservateur",N,Y,67
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 32","Miramichi",N,N,"",0,497,"Deitch","","Patty","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 32","Miramichi",N,N,"",0,497,"Harris","","Lisa","Liberal","Libéral",N,N,81
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 32","Miramichi",N,N,"",0,497,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 32","Miramichi",N,N,"",0,497,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 32","Miramichi",N,N,"",0,497,"Stewart","","Jake","Conservative","Conservateur",N,Y,82
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 33","Miramichi",N,N,"",2,631,"Deitch","","Patty","Green Party","Parti Vert",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 33","Miramichi",N,N,"",2,631,"Harris","","Lisa","Liberal","Libéral",N,N,91
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 33","Miramichi",N,N,"",2,631,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 33","Miramichi",N,N,"",2,631,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 33","Miramichi",N,N,"",2,631,"Stewart","","Jake","Conservative","Conservateur",N,Y,96
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 34","Bay du Vin",N,N,"",0,380,"Deitch","","Patty","Green Party","Parti Vert",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 34","Bay du Vin",N,N,"",0,380,"Harris","","Lisa","Liberal","Libéral",N,N,70
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 34","Bay du Vin",N,N,"",0,380,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 34","Bay du Vin",N,N,"",0,380,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 34","Bay du Vin",N,N,"",0,380,"Stewart","","Jake","Conservative","Conservateur",N,Y,120
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 35","Pointe-Sapin",N,N,"",6,403,"Deitch","","Patty","Green Party","Parti Vert",N,N,31
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 35","Pointe-Sapin",N,N,"",6,403,"Harris","","Lisa","Liberal","Libéral",N,N,140
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 35","Pointe-Sapin",N,N,"",6,403,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,34
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 35","Pointe-Sapin",N,N,"",6,403,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 35","Pointe-Sapin",N,N,"",6,403,"Stewart","","Jake","Conservative","Conservateur",N,Y,65
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 36","Bellefond--Beaver Brook Station",N,N,"",0,416,"Deitch","","Patty","Green Party","Parti Vert",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 36","Bellefond--Beaver Brook Station",N,N,"",0,416,"Harris","","Lisa","Liberal","Libéral",N,N,93
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 36","Bellefond--Beaver Brook Station",N,N,"",0,416,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,21
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 36","Bellefond--Beaver Brook Station",N,N,"",0,416,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 36","Bellefond--Beaver Brook Station",N,N,"",0,416,"Stewart","","Jake","Conservative","Conservateur",N,Y,99
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 37","Chatham",N,N,"",3,360,"Deitch","","Patty","Green Party","Parti Vert",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 37","Chatham",N,N,"",3,360,"Harris","","Lisa","Liberal","Libéral",N,N,73
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 37","Chatham",N,N,"",3,360,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,12
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 37","Chatham",N,N,"",3,360,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 37","Chatham",N,N,"",3,360,"Stewart","","Jake","Conservative","Conservateur",N,Y,77
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 38","Miramichi",N,N,"",1,365,"Deitch","","Patty","Green Party","Parti Vert",N,N,13
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 38","Miramichi",N,N,"",1,365,"Harris","","Lisa","Liberal","Libéral",N,N,50
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 38","Miramichi",N,N,"",1,365,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 38","Miramichi",N,N,"",1,365,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 38","Miramichi",N,N,"",1,365,"Stewart","","Jake","Conservative","Conservateur",N,Y,83
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 39","Miramichi",N,N,"",5,364,"Deitch","","Patty","Green Party","Parti Vert",N,N,19
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 39","Miramichi",N,N,"",5,364,"Harris","","Lisa","Liberal","Libéral",N,N,75
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 39","Miramichi",N,N,"",5,364,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 39","Miramichi",N,N,"",5,364,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 39","Miramichi",N,N,"",5,364,"Stewart","","Jake","Conservative","Conservateur",N,Y,81
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 40","Miramichi",N,N,"",3,434,"Deitch","","Patty","Green Party","Parti Vert",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 40","Miramichi",N,N,"",3,434,"Harris","","Lisa","Liberal","Libéral",N,N,71
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 40","Miramichi",N,N,"",3,434,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 40","Miramichi",N,N,"",3,434,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 40","Miramichi",N,N,"",3,434,"Stewart","","Jake","Conservative","Conservateur",N,Y,78
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 41","Miramichi",N,N,"",1,376,"Deitch","","Patty","Green Party","Parti Vert",N,N,16
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 41","Miramichi",N,N,"",1,376,"Harris","","Lisa","Liberal","Libéral",N,N,54
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 41","Miramichi",N,N,"",1,376,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 41","Miramichi",N,N,"",1,376,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 41","Miramichi",N,N,"",1,376,"Stewart","","Jake","Conservative","Conservateur",N,Y,50
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 42","Miramichi",N,N,"",3,387,"Deitch","","Patty","Green Party","Parti Vert",N,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 42","Miramichi",N,N,"",3,387,"Harris","","Lisa","Liberal","Libéral",N,N,41
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 42","Miramichi",N,N,"",3,387,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 42","Miramichi",N,N,"",3,387,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 42","Miramichi",N,N,"",3,387,"Stewart","","Jake","Conservative","Conservateur",N,Y,42
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 43","Miramichi",N,N,"",0,415,"Deitch","","Patty","Green Party","Parti Vert",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 43","Miramichi",N,N,"",0,415,"Harris","","Lisa","Liberal","Libéral",N,N,46
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 43","Miramichi",N,N,"",0,415,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 43","Miramichi",N,N,"",0,415,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 43","Miramichi",N,N,"",0,415,"Stewart","","Jake","Conservative","Conservateur",N,Y,55
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 44","Napan Bay",N,N,"",0,369,"Deitch","","Patty","Green Party","Parti Vert",N,N,11
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 44","Napan Bay",N,N,"",0,369,"Harris","","Lisa","Liberal","Libéral",N,N,83
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 44","Napan Bay",N,N,"",0,369,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,12
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 44","Napan Bay",N,N,"",0,369,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 44","Napan Bay",N,N,"",0,369,"Stewart","","Jake","Conservative","Conservateur",N,Y,78
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 45","Lower Napan",N,N,"",3,318,"Deitch","","Patty","Green Party","Parti Vert",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 45","Lower Napan",N,N,"",3,318,"Harris","","Lisa","Liberal","Libéral",N,N,50
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 45","Lower Napan",N,N,"",3,318,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,15
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 45","Lower Napan",N,N,"",3,318,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 45","Lower Napan",N,N,"",3,318,"Stewart","","Jake","Conservative","Conservateur",N,Y,72
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 46","Glenwood",N,N,"",3,403,"Deitch","","Patty","Green Party","Parti Vert",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 46","Glenwood",N,N,"",3,403,"Harris","","Lisa","Liberal","Libéral",N,N,55
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 46","Glenwood",N,N,"",3,403,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 46","Glenwood",N,N,"",3,403,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 46","Glenwood",N,N,"",3,403,"Stewart","","Jake","Conservative","Conservateur",N,Y,118
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 47","Curventon",N,N,"",4,403,"Deitch","","Patty","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 47","Curventon",N,N,"",4,403,"Harris","","Lisa","Liberal","Libéral",N,N,50
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 47","Curventon",N,N,"",4,403,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,13
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 47","Curventon",N,N,"",4,403,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 47","Curventon",N,N,"",4,403,"Stewart","","Jake","Conservative","Conservateur",N,Y,92
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 48","Maple Glen",N,N,"",0,169,"Deitch","","Patty","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 48","Maple Glen",N,N,"",0,169,"Harris","","Lisa","Liberal","Libéral",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 48","Maple Glen",N,N,"",0,169,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 48","Maple Glen",N,N,"",0,169,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 48","Maple Glen",N,N,"",0,169,"Stewart","","Jake","Conservative","Conservateur",N,Y,24
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 49","Miramichi",N,N,"",1,444,"Deitch","","Patty","Green Party","Parti Vert",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 49","Miramichi",N,N,"",1,444,"Harris","","Lisa","Liberal","Libéral",N,N,69
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 49","Miramichi",N,N,"",1,444,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,18
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 49","Miramichi",N,N,"",1,444,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 49","Miramichi",N,N,"",1,444,"Stewart","","Jake","Conservative","Conservateur",N,Y,49
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 50","Miramichi",N,N,"",1,436,"Deitch","","Patty","Green Party","Parti Vert",N,N,19
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 50","Miramichi",N,N,"",1,436,"Harris","","Lisa","Liberal","Libéral",N,N,69
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 50","Miramichi",N,N,"",1,436,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 50","Miramichi",N,N,"",1,436,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 50","Miramichi",N,N,"",1,436,"Stewart","","Jake","Conservative","Conservateur",N,Y,65
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 51","Miramichi",N,N,"",3,417,"Deitch","","Patty","Green Party","Parti Vert",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 51","Miramichi",N,N,"",3,417,"Harris","","Lisa","Liberal","Libéral",N,N,45
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 51","Miramichi",N,N,"",3,417,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 51","Miramichi",N,N,"",3,417,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 51","Miramichi",N,N,"",3,417,"Stewart","","Jake","Conservative","Conservateur",N,Y,64
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 52","Miramichi",N,N,"",2,489,"Deitch","","Patty","Green Party","Parti Vert",N,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 52","Miramichi",N,N,"",2,489,"Harris","","Lisa","Liberal","Libéral",N,N,68
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 52","Miramichi",N,N,"",2,489,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,16
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 52","Miramichi",N,N,"",2,489,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 52","Miramichi",N,N,"",2,489,"Stewart","","Jake","Conservative","Conservateur",N,Y,48
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 53","Miramichi",N,N,"",3,542,"Deitch","","Patty","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 53","Miramichi",N,N,"",3,542,"Harris","","Lisa","Liberal","Libéral",N,N,65
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 53","Miramichi",N,N,"",3,542,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 53","Miramichi",N,N,"",3,542,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 53","Miramichi",N,N,"",3,542,"Stewart","","Jake","Conservative","Conservateur",N,Y,51
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 54","St. Margarets",N,N,"",0,217,"Deitch","","Patty","Green Party","Parti Vert",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 54","St. Margarets",N,N,"",0,217,"Harris","","Lisa","Liberal","Libéral",N,N,50
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 54","St. Margarets",N,N,"",0,217,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 54","St. Margarets",N,N,"",0,217,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 54","St. Margarets",N,N,"",0,217,"Stewart","","Jake","Conservative","Conservateur",N,Y,51
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 55","Miramichi",N,N,"",0,294,"Deitch","","Patty","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 55","Miramichi",N,N,"",0,294,"Harris","","Lisa","Liberal","Libéral",N,N,38
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 55","Miramichi",N,N,"",0,294,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 55","Miramichi",N,N,"",0,294,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 55","Miramichi",N,N,"",0,294,"Stewart","","Jake","Conservative","Conservateur",N,Y,56
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 56","Miramichi",N,N,"",1,448,"Deitch","","Patty","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 56","Miramichi",N,N,"",1,448,"Harris","","Lisa","Liberal","Libéral",N,N,55
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 56","Miramichi",N,N,"",1,448,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 56","Miramichi",N,N,"",1,448,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 56","Miramichi",N,N,"",1,448,"Stewart","","Jake","Conservative","Conservateur",N,Y,53
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 57","Miramichi",N,N,"",1,459,"Deitch","","Patty","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 57","Miramichi",N,N,"",1,459,"Harris","","Lisa","Liberal","Libéral",N,N,41
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 57","Miramichi",N,N,"",1,459,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 57","Miramichi",N,N,"",1,459,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 57","Miramichi",N,N,"",1,459,"Stewart","","Jake","Conservative","Conservateur",N,Y,66
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 58","Miramichi",N,N,"",1,486,"Deitch","","Patty","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 58","Miramichi",N,N,"",1,486,"Harris","","Lisa","Liberal","Libéral",N,N,55
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 58","Miramichi",N,N,"",1,486,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 58","Miramichi",N,N,"",1,486,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 58","Miramichi",N,N,"",1,486,"Stewart","","Jake","Conservative","Conservateur",N,Y,48
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 59","Black River Bridge",N,N,"",0,366,"Deitch","","Patty","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 59","Black River Bridge",N,N,"",0,366,"Harris","","Lisa","Liberal","Libéral",N,N,42
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 59","Black River Bridge",N,N,"",0,366,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,13
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 59","Black River Bridge",N,N,"",0,366,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 59","Black River Bridge",N,N,"",0,366,"Stewart","","Jake","Conservative","Conservateur",N,Y,122
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 60","Miramichi",N,N,"",5,440,"Deitch","","Patty","Green Party","Parti Vert",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 60","Miramichi",N,N,"",5,440,"Harris","","Lisa","Liberal","Libéral",N,N,78
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 60","Miramichi",N,N,"",5,440,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 60","Miramichi",N,N,"",5,440,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 60","Miramichi",N,N,"",5,440,"Stewart","","Jake","Conservative","Conservateur",N,Y,112
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 61","Miramichi",N,N,"",2,340,"Deitch","","Patty","Green Party","Parti Vert",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 61","Miramichi",N,N,"",2,340,"Harris","","Lisa","Liberal","Libéral",N,N,63
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 61","Miramichi",N,N,"",2,340,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,11
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 61","Miramichi",N,N,"",2,340,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 61","Miramichi",N,N,"",2,340,"Stewart","","Jake","Conservative","Conservateur",N,Y,69
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 62","Miramichi",N,N,"",0,338,"Deitch","","Patty","Green Party","Parti Vert",N,N,15
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 62","Miramichi",N,N,"",0,338,"Harris","","Lisa","Liberal","Libéral",N,N,86
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 62","Miramichi",N,N,"",0,338,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,11
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 62","Miramichi",N,N,"",0,338,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 62","Miramichi",N,N,"",0,338,"Stewart","","Jake","Conservative","Conservateur",N,Y,63
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 63","Miramichi",N,N,"",0,351,"Deitch","","Patty","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 63","Miramichi",N,N,"",0,351,"Harris","","Lisa","Liberal","Libéral",N,N,25
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 63","Miramichi",N,N,"",0,351,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 63","Miramichi",N,N,"",0,351,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 63","Miramichi",N,N,"",0,351,"Stewart","","Jake","Conservative","Conservateur",N,Y,41
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 64","Miramichi",N,N,"",0,424,"Deitch","","Patty","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 64","Miramichi",N,N,"",0,424,"Harris","","Lisa","Liberal","Libéral",N,N,47
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 64","Miramichi",N,N,"",0,424,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 64","Miramichi",N,N,"",0,424,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 64","Miramichi",N,N,"",0,424,"Stewart","","Jake","Conservative","Conservateur",N,Y,50
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 65","Miramichi",N,N,"",1,426,"Deitch","","Patty","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 65","Miramichi",N,N,"",1,426,"Harris","","Lisa","Liberal","Libéral",N,N,38
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 65","Miramichi",N,N,"",1,426,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 65","Miramichi",N,N,"",1,426,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 65","Miramichi",N,N,"",1,426,"Stewart","","Jake","Conservative","Conservateur",N,Y,50
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 66","Miramichi",N,N,"",0,403,"Deitch","","Patty","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 66","Miramichi",N,N,"",0,403,"Harris","","Lisa","Liberal","Libéral",N,N,61
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 66","Miramichi",N,N,"",0,403,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 66","Miramichi",N,N,"",0,403,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 66","Miramichi",N,N,"",0,403,"Stewart","","Jake","Conservative","Conservateur",N,Y,46
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 67","Miramichi",N,N,"",0,423,"Deitch","","Patty","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 67","Miramichi",N,N,"",0,423,"Harris","","Lisa","Liberal","Libéral",N,N,52
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 67","Miramichi",N,N,"",0,423,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,15
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 67","Miramichi",N,N,"",0,423,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 67","Miramichi",N,N,"",0,423,"Stewart","","Jake","Conservative","Conservateur",N,Y,57
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 68","Miramichi",N,N,"",1,320,"Deitch","","Patty","Green Party","Parti Vert",N,N,1
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 68","Miramichi",N,N,"",1,320,"Harris","","Lisa","Liberal","Libéral",N,N,54
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 68","Miramichi",N,N,"",1,320,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 68","Miramichi",N,N,"",1,320,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 68","Miramichi",N,N,"",1,320,"Stewart","","Jake","Conservative","Conservateur",N,Y,60
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 69","Miramichi",N,N,"",0,332,"Deitch","","Patty","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 69","Miramichi",N,N,"",0,332,"Harris","","Lisa","Liberal","Libéral",N,N,43
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 69","Miramichi",N,N,"",0,332,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 69","Miramichi",N,N,"",0,332,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 69","Miramichi",N,N,"",0,332,"Stewart","","Jake","Conservative","Conservateur",N,Y,37
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 70","Miramichi",N,N,"",0,350,"Deitch","","Patty","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 70","Miramichi",N,N,"",0,350,"Harris","","Lisa","Liberal","Libéral",N,N,35
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 70","Miramichi",N,N,"",0,350,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 70","Miramichi",N,N,"",0,350,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 70","Miramichi",N,N,"",0,350,"Stewart","","Jake","Conservative","Conservateur",N,Y,59
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 71","Kouchibouguac",N,N,"",3,208,"Deitch","","Patty","Green Party","Parti Vert",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 71","Kouchibouguac",N,N,"",3,208,"Harris","","Lisa","Liberal","Libéral",N,N,62
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 71","Kouchibouguac",N,N,"",3,208,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 71","Kouchibouguac",N,N,"",3,208,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 71","Kouchibouguac",N,N,"",3,208,"Stewart","","Jake","Conservative","Conservateur",N,Y,43
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 72","Eel Ground",N,N,"",4,453,"Deitch","","Patty","Green Party","Parti Vert",N,N,11
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 72","Eel Ground",N,N,"",4,453,"Harris","","Lisa","Liberal","Libéral",N,N,122
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 72","Eel Ground",N,N,"",4,453,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 72","Eel Ground",N,N,"",4,453,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 72","Eel Ground",N,N,"",4,453,"Stewart","","Jake","Conservative","Conservateur",N,Y,23
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 73","Miramichi",N,N,"",2,395,"Deitch","","Patty","Green Party","Parti Vert",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 73","Miramichi",N,N,"",2,395,"Harris","","Lisa","Liberal","Libéral",N,N,93
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 73","Miramichi",N,N,"",2,395,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,12
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 73","Miramichi",N,N,"",2,395,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 73","Miramichi",N,N,"",2,395,"Stewart","","Jake","Conservative","Conservateur",N,Y,80
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 74","Miramichi",N,N,"",6,362,"Deitch","","Patty","Green Party","Parti Vert",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 74","Miramichi",N,N,"",6,362,"Harris","","Lisa","Liberal","Libéral",N,N,67
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 74","Miramichi",N,N,"",6,362,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 74","Miramichi",N,N,"",6,362,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 74","Miramichi",N,N,"",6,362,"Stewart","","Jake","Conservative","Conservateur",N,Y,106
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 75","Miramichi",N,N,"",2,341,"Deitch","","Patty","Green Party","Parti Vert",N,N,11
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 75","Miramichi",N,N,"",2,341,"Harris","","Lisa","Liberal","Libéral",N,N,61
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 75","Miramichi",N,N,"",2,341,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 75","Miramichi",N,N,"",2,341,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 75","Miramichi",N,N,"",2,341,"Stewart","","Jake","Conservative","Conservateur",N,Y,89
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 76","Nelson",N,N,"",0,243,"Deitch","","Patty","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 76","Nelson",N,N,"",0,243,"Harris","","Lisa","Liberal","Libéral",N,N,37
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 76","Nelson",N,N,"",0,243,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 76","Nelson",N,N,"",0,243,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 76","Nelson",N,N,"",0,243,"Stewart","","Jake","Conservative","Conservateur",N,Y,56
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 77","Whitney",N,N,"",1,367,"Deitch","","Patty","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 77","Whitney",N,N,"",1,367,"Harris","","Lisa","Liberal","Libéral",N,N,77
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 77","Whitney",N,N,"",1,367,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 77","Whitney",N,N,"",1,367,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 77","Whitney",N,N,"",1,367,"Stewart","","Jake","Conservative","Conservateur",N,Y,75
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 78","Whitney",N,N,"",1,355,"Deitch","","Patty","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 78","Whitney",N,N,"",1,355,"Harris","","Lisa","Liberal","Libéral",N,N,35
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 78","Whitney",N,N,"",1,355,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 78","Whitney",N,N,"",1,355,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 78","Whitney",N,N,"",1,355,"Stewart","","Jake","Conservative","Conservateur",N,Y,68
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 79","Exmoor",N,N,"",0,277,"Deitch","","Patty","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 79","Exmoor",N,N,"",0,277,"Harris","","Lisa","Liberal","Libéral",N,N,33
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 79","Exmoor",N,N,"",0,277,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 79","Exmoor",N,N,"",0,277,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 79","Exmoor",N,N,"",0,277,"Stewart","","Jake","Conservative","Conservateur",N,Y,37
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 80","Boom Road",N,N,"",0,301,"Deitch","","Patty","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 80","Boom Road",N,N,"",0,301,"Harris","","Lisa","Liberal","Libéral",N,N,35
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 80","Boom Road",N,N,"",0,301,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 80","Boom Road",N,N,"",0,301,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 80","Boom Road",N,N,"",0,301,"Stewart","","Jake","Conservative","Conservateur",N,Y,57
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 81","Millerton--Derby Junction",N,N,"",0,324,"Deitch","","Patty","Green Party","Parti Vert",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 81","Millerton--Derby Junction",N,N,"",0,324,"Harris","","Lisa","Liberal","Libéral",N,N,28
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 81","Millerton--Derby Junction",N,N,"",0,324,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 81","Millerton--Derby Junction",N,N,"",0,324,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 81","Millerton--Derby Junction",N,N,"",0,324,"Stewart","","Jake","Conservative","Conservateur",N,Y,101
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 82","South Esk",N,N,"",1,406,"Deitch","","Patty","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 82","South Esk",N,N,"",1,406,"Harris","","Lisa","Liberal","Libéral",N,N,56
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 82","South Esk",N,N,"",1,406,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 82","South Esk",N,N,"",1,406,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 82","South Esk",N,N,"",1,406,"Stewart","","Jake","Conservative","Conservateur",N,Y,135
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 83","Williamstown",N,N,"",2,375,"Deitch","","Patty","Green Party","Parti Vert",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 83","Williamstown",N,N,"",2,375,"Harris","","Lisa","Liberal","Libéral",N,N,37
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 83","Williamstown",N,N,"",2,375,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 83","Williamstown",N,N,"",2,375,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 83","Williamstown",N,N,"",2,375,"Stewart","","Jake","Conservative","Conservateur",N,Y,109
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 84","Barnaby River",N,N,"",1,254,"Deitch","","Patty","Green Party","Parti Vert",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 84","Barnaby River",N,N,"",1,254,"Harris","","Lisa","Liberal","Libéral",N,N,53
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 84","Barnaby River",N,N,"",1,254,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,12
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 84","Barnaby River",N,N,"",1,254,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 84","Barnaby River",N,N,"",1,254,"Stewart","","Jake","Conservative","Conservateur",N,Y,74
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 85","East Collette",N,N,"",1,224,"Deitch","","Patty","Green Party","Parti Vert",N,N,17
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 85","East Collette",N,N,"",1,224,"Harris","","Lisa","Liberal","Libéral",N,N,49
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 85","East Collette",N,N,"",1,224,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 85","East Collette",N,N,"",1,224,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 85","East Collette",N,N,"",1,224,"Stewart","","Jake","Conservative","Conservateur",N,Y,24
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 86","Collette",N,N,"",0,207,"Deitch","","Patty","Green Party","Parti Vert",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 86","Collette",N,N,"",0,207,"Harris","","Lisa","Liberal","Libéral",N,N,52
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 86","Collette",N,N,"",0,207,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 86","Collette",N,N,"",0,207,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 86","Collette",N,N,"",0,207,"Stewart","","Jake","Conservative","Conservateur",N,Y,20
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 87","Acadieville",N,N,"",1,284,"Deitch","","Patty","Green Party","Parti Vert",N,N,19
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 87","Acadieville",N,N,"",1,284,"Harris","","Lisa","Liberal","Libéral",N,N,61
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 87","Acadieville",N,N,"",1,284,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 87","Acadieville",N,N,"",1,284,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 87","Acadieville",N,N,"",1,284,"Stewart","","Jake","Conservative","Conservateur",N,Y,34
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 88","Acadieville",N,N,"",3,342,"Deitch","","Patty","Green Party","Parti Vert",N,N,15
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 88","Acadieville",N,N,"",3,342,"Harris","","Lisa","Liberal","Libéral",N,N,52
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 88","Acadieville",N,N,"",3,342,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,13
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 88","Acadieville",N,N,"",3,342,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 88","Acadieville",N,N,"",3,342,"Stewart","","Jake","Conservative","Conservateur",N,Y,16
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 89","Rogersville",N,N,"",1,260,"Deitch","","Patty","Green Party","Parti Vert",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 89","Rogersville",N,N,"",1,260,"Harris","","Lisa","Liberal","Libéral",N,N,43
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 89","Rogersville",N,N,"",1,260,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 89","Rogersville",N,N,"",1,260,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 89","Rogersville",N,N,"",1,260,"Stewart","","Jake","Conservative","Conservateur",N,Y,25
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 90","Rogersville",N,N,"",2,319,"Deitch","","Patty","Green Party","Parti Vert",N,N,15
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 90","Rogersville",N,N,"",2,319,"Harris","","Lisa","Liberal","Libéral",N,N,54
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 90","Rogersville",N,N,"",2,319,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,13
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 90","Rogersville",N,N,"",2,319,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 90","Rogersville",N,N,"",2,319,"Stewart","","Jake","Conservative","Conservateur",N,Y,19
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 91","Rogersville",N,N,"",2,311,"Deitch","","Patty","Green Party","Parti Vert",N,N,13
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 91","Rogersville",N,N,"",2,311,"Harris","","Lisa","Liberal","Libéral",N,N,44
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 91","Rogersville",N,N,"",2,311,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 91","Rogersville",N,N,"",2,311,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 91","Rogersville",N,N,"",2,311,"Stewart","","Jake","Conservative","Conservateur",N,Y,30
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 92","Rogersville",N,N,"",3,277,"Deitch","","Patty","Green Party","Parti Vert",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 92","Rogersville",N,N,"",3,277,"Harris","","Lisa","Liberal","Libéral",N,N,40
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 92","Rogersville",N,N,"",3,277,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 92","Rogersville",N,N,"",3,277,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 92","Rogersville",N,N,"",3,277,"Stewart","","Jake","Conservative","Conservateur",N,Y,17
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 93","Rogersville",N,N,"",1,305,"Deitch","","Patty","Green Party","Parti Vert",N,N,16
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 93","Rogersville",N,N,"",1,305,"Harris","","Lisa","Liberal","Libéral",N,N,39
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 93","Rogersville",N,N,"",1,305,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,18
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 93","Rogersville",N,N,"",1,305,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 93","Rogersville",N,N,"",1,305,"Stewart","","Jake","Conservative","Conservateur",N,Y,21
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 94","Warwick Settlement",N,N,"",1,212,"Deitch","","Patty","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 94","Warwick Settlement",N,N,"",1,212,"Harris","","Lisa","Liberal","Libéral",N,N,20
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 94","Warwick Settlement",N,N,"",1,212,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 94","Warwick Settlement",N,N,"",1,212,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 94","Warwick Settlement",N,N,"",1,212,"Stewart","","Jake","Conservative","Conservateur",N,Y,30
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 95","Warwick Settlement",N,N,"",0,244,"Deitch","","Patty","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 95","Warwick Settlement",N,N,"",0,244,"Harris","","Lisa","Liberal","Libéral",N,N,42
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 95","Warwick Settlement",N,N,"",0,244,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 95","Warwick Settlement",N,N,"",0,244,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 95","Warwick Settlement",N,N,"",0,244,"Stewart","","Jake","Conservative","Conservateur",N,Y,17
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 96","Red Bank 4",N,N,"",2,323,"Deitch","","Patty","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 96","Red Bank 4",N,N,"",2,323,"Harris","","Lisa","Liberal","Libéral",N,N,61
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 96","Red Bank 4",N,N,"",2,323,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 96","Red Bank 4",N,N,"",2,323,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 96","Red Bank 4",N,N,"",2,323,"Stewart","","Jake","Conservative","Conservateur",N,Y,41
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 97","Matthews",N,N,"",0,341,"Deitch","","Patty","Green Party","Parti Vert",N,N,1
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 97","Matthews",N,N,"",0,341,"Harris","","Lisa","Liberal","Libéral",N,N,45
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 97","Matthews",N,N,"",0,341,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 97","Matthews",N,N,"",0,341,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 97","Matthews",N,N,"",0,341,"Stewart","","Jake","Conservative","Conservateur",N,Y,75
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 98","Richibucto 15",N,N,"",0,331,"Deitch","","Patty","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 98","Richibucto 15",N,N,"",0,331,"Harris","","Lisa","Liberal","Libéral",N,N,29
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 98","Richibucto 15",N,N,"",0,331,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 98","Richibucto 15",N,N,"",0,331,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 98","Richibucto 15",N,N,"",0,331,"Stewart","","Jake","Conservative","Conservateur",N,Y,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 99","Richibucto 15",N,N,"",0,505,"Deitch","","Patty","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 99","Richibucto 15",N,N,"",0,505,"Harris","","Lisa","Liberal","Libéral",N,N,45
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 99","Richibucto 15",N,N,"",0,505,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 99","Richibucto 15",N,N,"",0,505,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 99","Richibucto 15",N,N,"",0,505,"Stewart","","Jake","Conservative","Conservateur",N,Y,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 100","Richibucto 15",N,N,"",1,218,"Deitch","","Patty","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 100","Richibucto 15",N,N,"",1,218,"Harris","","Lisa","Liberal","Libéral",N,N,27
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 100","Richibucto 15",N,N,"",1,218,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 100","Richibucto 15",N,N,"",1,218,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 100","Richibucto 15",N,N,"",1,218,"Stewart","","Jake","Conservative","Conservateur",N,Y,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 101","Richibucto 15",N,N,"",0,493,"Deitch","","Patty","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 101","Richibucto 15",N,N,"",0,493,"Harris","","Lisa","Liberal","Libéral",N,N,57
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 101","Richibucto 15",N,N,"",0,493,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 101","Richibucto 15",N,N,"",0,493,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 101","Richibucto 15",N,N,"",0,493,"Stewart","","Jake","Conservative","Conservateur",N,Y,1
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 102","South Branch--West Branch",N,N,"",0,289,"Deitch","","Patty","Green Party","Parti Vert",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 102","South Branch--West Branch",N,N,"",0,289,"Harris","","Lisa","Liberal","Libéral",N,N,40
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 102","South Branch--West Branch",N,N,"",0,289,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 102","South Branch--West Branch",N,N,"",0,289,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 102","South Branch--West Branch",N,N,"",0,289,"Stewart","","Jake","Conservative","Conservateur",N,Y,43
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 103","Ford Bank",N,N,"",1,252,"Deitch","","Patty","Green Party","Parti Vert",N,N,19
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 103","Ford Bank",N,N,"",1,252,"Harris","","Lisa","Liberal","Libéral",N,N,28
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 103","Ford Bank",N,N,"",1,252,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 103","Ford Bank",N,N,"",1,252,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 103","Ford Bank",N,N,"",1,252,"Stewart","","Jake","Conservative","Conservateur",N,Y,37
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 104","Bass River",N,N,"",3,289,"Deitch","","Patty","Green Party","Parti Vert",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 104","Bass River",N,N,"",3,289,"Harris","","Lisa","Liberal","Libéral",N,N,55
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 104","Bass River",N,N,"",3,289,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,12
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 104","Bass River",N,N,"",3,289,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 104","Bass River",N,N,"",3,289,"Stewart","","Jake","Conservative","Conservateur",N,Y,54
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 105","Upper Derby",N,N,"",0,337,"Deitch","","Patty","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 105","Upper Derby",N,N,"",0,337,"Harris","","Lisa","Liberal","Libéral",N,N,44
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 105","Upper Derby",N,N,"",0,337,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 105","Upper Derby",N,N,"",0,337,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 105","Upper Derby",N,N,"",0,337,"Stewart","","Jake","Conservative","Conservateur",N,Y,106
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 106","McKinleyville",N,N,"",0,263,"Deitch","","Patty","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 106","McKinleyville",N,N,"",0,263,"Harris","","Lisa","Liberal","Libéral",N,N,31
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 106","McKinleyville",N,N,"",0,263,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 106","McKinleyville",N,N,"",0,263,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 106","McKinleyville",N,N,"",0,263,"Stewart","","Jake","Conservative","Conservateur",N,Y,64
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 107","White Rapids",N,N,"",0,373,"Deitch","","Patty","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 107","White Rapids",N,N,"",0,373,"Harris","","Lisa","Liberal","Libéral",N,N,55
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 107","White Rapids",N,N,"",0,373,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 107","White Rapids",N,N,"",0,373,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 107","White Rapids",N,N,"",0,373,"Stewart","","Jake","Conservative","Conservateur",N,Y,110
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 108","Renous--Barnettville",N,N,"",0,348,"Deitch","","Patty","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 108","Renous--Barnettville",N,N,"",0,348,"Harris","","Lisa","Liberal","Libéral",N,N,26
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 108","Renous--Barnettville",N,N,"",0,348,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,1
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 108","Renous--Barnettville",N,N,"",0,348,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 108","Renous--Barnettville",N,N,"",0,348,"Stewart","","Jake","Conservative","Conservateur",N,Y,99
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 109","Renous",N,N,"",0,380,"Deitch","","Patty","Green Party","Parti Vert",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 109","Renous",N,N,"",0,380,"Harris","","Lisa","Liberal","Libéral",N,N,68
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 109","Renous",N,N,"",0,380,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 109","Renous",N,N,"",0,380,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 109","Renous",N,N,"",0,380,"Stewart","","Jake","Conservative","Conservateur",N,Y,90
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 110","Beersville",N,N,"",3,329,"Deitch","","Patty","Green Party","Parti Vert",N,N,16
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 110","Beersville",N,N,"",3,329,"Harris","","Lisa","Liberal","Libéral",N,N,49
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 110","Beersville",N,N,"",3,329,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,19
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 110","Beersville",N,N,"",3,329,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 110","Beersville",N,N,"",3,329,"Stewart","","Jake","Conservative","Conservateur",N,Y,53
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 111","Blackville",N,N,"",1,342,"Deitch","","Patty","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 111","Blackville",N,N,"",1,342,"Harris","","Lisa","Liberal","Libéral",N,N,19
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 111","Blackville",N,N,"",1,342,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,1
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 111","Blackville",N,N,"",1,342,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 111","Blackville",N,N,"",1,342,"Stewart","","Jake","Conservative","Conservateur",N,Y,101
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 112","Blackville",N,N,"",0,393,"Deitch","","Patty","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 112","Blackville",N,N,"",0,393,"Harris","","Lisa","Liberal","Libéral",N,N,30
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 112","Blackville",N,N,"",0,393,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 112","Blackville",N,N,"",0,393,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 112","Blackville",N,N,"",0,393,"Stewart","","Jake","Conservative","Conservateur",N,Y,101
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 113","Blackville",N,N,"",1,376,"Deitch","","Patty","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 113","Blackville",N,N,"",1,376,"Harris","","Lisa","Liberal","Libéral",N,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 113","Blackville",N,N,"",1,376,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 113","Blackville",N,N,"",1,376,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 113","Blackville",N,N,"",1,376,"Stewart","","Jake","Conservative","Conservateur",N,Y,97
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 114","Upper Blackville",N,N,"",1,317,"Deitch","","Patty","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 114","Upper Blackville",N,N,"",1,317,"Harris","","Lisa","Liberal","Libéral",N,N,33
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 114","Upper Blackville",N,N,"",1,317,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,1
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 114","Upper Blackville",N,N,"",1,317,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 114","Upper Blackville",N,N,"",1,317,"Stewart","","Jake","Conservative","Conservateur",N,Y,77
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 115","Harcourt",N,N,"",1,365,"Deitch","","Patty","Green Party","Parti Vert",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 115","Harcourt",N,N,"",1,365,"Harris","","Lisa","Liberal","Libéral",N,N,36
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 115","Harcourt",N,N,"",1,365,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,22
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 115","Harcourt",N,N,"",1,365,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 115","Harcourt",N,N,"",1,365,"Stewart","","Jake","Conservative","Conservateur",N,Y,35
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 116","Blissfield",N,N,"",2,395,"Deitch","","Patty","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 116","Blissfield",N,N,"",2,395,"Harris","","Lisa","Liberal","Libéral",N,N,17
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 116","Blissfield",N,N,"",2,395,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,11
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 116","Blissfield",N,N,"",2,395,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 116","Blissfield",N,N,"",2,395,"Stewart","","Jake","Conservative","Conservateur",N,Y,91
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 117","Storeytown",N,N,"",1,344,"Deitch","","Patty","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 117","Storeytown",N,N,"",1,344,"Harris","","Lisa","Liberal","Libéral",N,N,21
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 117","Storeytown",N,N,"",1,344,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 117","Storeytown",N,N,"",1,344,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 117","Storeytown",N,N,"",1,344,"Stewart","","Jake","Conservative","Conservateur",N,Y,87
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 118","Blissfield",N,N,"",2,379,"Deitch","","Patty","Green Party","Parti Vert",N,N,2
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 118","Blissfield",N,N,"",2,379,"Harris","","Lisa","Liberal","Libéral",N,N,28
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 118","Blissfield",N,N,"",2,379,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,16
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 118","Blissfield",N,N,"",2,379,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 118","Blissfield",N,N,"",2,379,"Stewart","","Jake","Conservative","Conservateur",N,Y,69
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 119","Holtville",N,N,"",1,240,"Deitch","","Patty","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 119","Holtville",N,N,"",1,240,"Harris","","Lisa","Liberal","Libéral",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 119","Holtville",N,N,"",1,240,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 119","Holtville",N,N,"",1,240,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 119","Holtville",N,N,"",1,240,"Stewart","","Jake","Conservative","Conservateur",N,Y,49
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 120","Carrolls Crossing",N,N,"",3,369,"Deitch","","Patty","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 120","Carrolls Crossing",N,N,"",3,369,"Harris","","Lisa","Liberal","Libéral",N,N,21
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 120","Carrolls Crossing",N,N,"",3,369,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,15
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 120","Carrolls Crossing",N,N,"",3,369,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 120","Carrolls Crossing",N,N,"",3,369,"Stewart","","Jake","Conservative","Conservateur",N,Y,100
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 121","Ludlow",N,N,"",2,285,"Deitch","","Patty","Green Party","Parti Vert",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 121","Ludlow",N,N,"",2,285,"Harris","","Lisa","Liberal","Libéral",N,N,18
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 121","Ludlow",N,N,"",2,285,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 121","Ludlow",N,N,"",2,285,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 121","Ludlow",N,N,"",2,285,"Stewart","","Jake","Conservative","Conservateur",N,Y,62
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 122","Bloomfield Ridge",N,N,"",1,534,"Deitch","","Patty","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 122","Bloomfield Ridge",N,N,"",1,534,"Harris","","Lisa","Liberal","Libéral",N,N,16
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 122","Bloomfield Ridge",N,N,"",1,534,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,18
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 122","Bloomfield Ridge",N,N,"",1,534,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 122","Bloomfield Ridge",N,N,"",1,534,"Stewart","","Jake","Conservative","Conservateur",N,Y,125
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 123","Astle",N,N,"",2,427,"Deitch","","Patty","Green Party","Parti Vert",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 123","Astle",N,N,"",2,427,"Harris","","Lisa","Liberal","Libéral",N,N,27
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 123","Astle",N,N,"",2,427,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,20
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 123","Astle",N,N,"",2,427,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 123","Astle",N,N,"",2,427,"Stewart","","Jake","Conservative","Conservateur",N,Y,76
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 124","Chipman",N,N,"",1,278,"Deitch","","Patty","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 124","Chipman",N,N,"",1,278,"Harris","","Lisa","Liberal","Libéral",N,N,24
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 124","Chipman",N,N,"",1,278,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,15
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 124","Chipman",N,N,"",1,278,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 124","Chipman",N,N,"",1,278,"Stewart","","Jake","Conservative","Conservateur",N,Y,36
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 125","Chipman",N,N,"",0,327,"Deitch","","Patty","Green Party","Parti Vert",N,N,12
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 125","Chipman",N,N,"",0,327,"Harris","","Lisa","Liberal","Libéral",N,N,17
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 125","Chipman",N,N,"",0,327,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 125","Chipman",N,N,"",0,327,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 125","Chipman",N,N,"",0,327,"Stewart","","Jake","Conservative","Conservateur",N,Y,47
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 126","Chipman",N,N,"",0,245,"Deitch","","Patty","Green Party","Parti Vert",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 126","Chipman",N,N,"",0,245,"Harris","","Lisa","Liberal","Libéral",N,N,25
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 126","Chipman",N,N,"",0,245,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 126","Chipman",N,N,"",0,245,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 126","Chipman",N,N,"",0,245,"Stewart","","Jake","Conservative","Conservateur",N,Y,38
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 127","Northfield",N,N,"",0,268,"Deitch","","Patty","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 127","Northfield",N,N,"",0,268,"Harris","","Lisa","Liberal","Libéral",N,N,17
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 127","Northfield",N,N,"",0,268,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 127","Northfield",N,N,"",0,268,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 127","Northfield",N,N,"",0,268,"Stewart","","Jake","Conservative","Conservateur",N,Y,32
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 128","Chipman",N,N,"",1,366,"Deitch","","Patty","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 128","Chipman",N,N,"",1,366,"Harris","","Lisa","Liberal","Libéral",N,N,17
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 128","Chipman",N,N,"",1,366,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,12
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 128","Chipman",N,N,"",1,366,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 128","Chipman",N,N,"",1,366,"Stewart","","Jake","Conservative","Conservateur",N,Y,30
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 129","Chipman",N,N,"",0,303,"Deitch","","Patty","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 129","Chipman",N,N,"",0,303,"Harris","","Lisa","Liberal","Libéral",N,N,15
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 129","Chipman",N,N,"",0,303,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,17
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 129","Chipman",N,N,"",0,303,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 129","Chipman",N,N,"",0,303,"Stewart","","Jake","Conservative","Conservateur",N,Y,38
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 130","Chipman",N,N,"",0,284,"Deitch","","Patty","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 130","Chipman",N,N,"",0,284,"Harris","","Lisa","Liberal","Libéral",N,N,17
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 130","Chipman",N,N,"",0,284,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,13
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 130","Chipman",N,N,"",0,284,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 130","Chipman",N,N,"",0,284,"Stewart","","Jake","Conservative","Conservateur",N,Y,52
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 131","Minto",N,N,"",0,270,"Deitch","","Patty","Green Party","Parti Vert",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 131","Minto",N,N,"",0,270,"Harris","","Lisa","Liberal","Libéral",N,N,15
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 131","Minto",N,N,"",0,270,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 131","Minto",N,N,"",0,270,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 131","Minto",N,N,"",0,270,"Stewart","","Jake","Conservative","Conservateur",N,Y,49
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 132","Northfield",N,N,"",0,294,"Deitch","","Patty","Green Party","Parti Vert",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 132","Northfield",N,N,"",0,294,"Harris","","Lisa","Liberal","Libéral",N,N,26
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 132","Northfield",N,N,"",0,294,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 132","Northfield",N,N,"",0,294,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 132","Northfield",N,N,"",0,294,"Stewart","","Jake","Conservative","Conservateur",N,Y,48
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 133","Minto",N,N,"",1,256,"Deitch","","Patty","Green Party","Parti Vert",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 133","Minto",N,N,"",1,256,"Harris","","Lisa","Liberal","Libéral",N,N,18
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 133","Minto",N,N,"",1,256,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 133","Minto",N,N,"",1,256,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 133","Minto",N,N,"",1,256,"Stewart","","Jake","Conservative","Conservateur",N,Y,31
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 134","Minto",N,N,"",0,274,"Deitch","","Patty","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 134","Minto",N,N,"",0,274,"Harris","","Lisa","Liberal","Libéral",N,N,19
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 134","Minto",N,N,"",0,274,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,5
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 134","Minto",N,N,"",0,274,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 134","Minto",N,N,"",0,274,"Stewart","","Jake","Conservative","Conservateur",N,Y,25
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 135","Minto",N,N,"",1,262,"Deitch","","Patty","Green Party","Parti Vert",N,N,3
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 135","Minto",N,N,"",1,262,"Harris","","Lisa","Liberal","Libéral",N,N,17
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 135","Minto",N,N,"",1,262,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,12
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 135","Minto",N,N,"",1,262,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 135","Minto",N,N,"",1,262,"Stewart","","Jake","Conservative","Conservateur",N,Y,26
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 136","Minto",N,N,"",0,266,"Deitch","","Patty","Green Party","Parti Vert",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 136","Minto",N,N,"",0,266,"Harris","","Lisa","Liberal","Libéral",N,N,22
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 136","Minto",N,N,"",0,266,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,20
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 136","Minto",N,N,"",0,266,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 136","Minto",N,N,"",0,266,"Stewart","","Jake","Conservative","Conservateur",N,Y,32
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 137","Minto",N,N,"",2,280,"Deitch","","Patty","Green Party","Parti Vert",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 137","Minto",N,N,"",2,280,"Harris","","Lisa","Liberal","Libéral",N,N,28
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 137","Minto",N,N,"",2,280,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 137","Minto",N,N,"",2,280,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 137","Minto",N,N,"",2,280,"Stewart","","Jake","Conservative","Conservateur",N,Y,28
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 138","Minto",N,N,"",0,294,"Deitch","","Patty","Green Party","Parti Vert",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 138","Minto",N,N,"",0,294,"Harris","","Lisa","Liberal","Libéral",N,N,22
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 138","Minto",N,N,"",0,294,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 138","Minto",N,N,"",0,294,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 138","Minto",N,N,"",0,294,"Stewart","","Jake","Conservative","Conservateur",N,Y,57
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 139","Newcastle Creek",N,N,"",1,356,"Deitch","","Patty","Green Party","Parti Vert",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 139","Newcastle Creek",N,N,"",1,356,"Harris","","Lisa","Liberal","Libéral",N,N,39
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 139","Newcastle Creek",N,N,"",1,356,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,13
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 139","Newcastle Creek",N,N,"",1,356,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 139","Newcastle Creek",N,N,"",1,356,"Stewart","","Jake","Conservative","Conservateur",N,Y,45
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 500","Mobile poll/Bureau itinérant",N,N,"3",0,17,"Deitch","","Patty","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 500","Mobile poll/Bureau itinérant",N,N,"3",0,17,"Harris","","Lisa","Liberal","Libéral",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 500","Mobile poll/Bureau itinérant",N,N,"3",0,17,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 500","Mobile poll/Bureau itinérant",N,N,"3",0,17,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 500","Mobile poll/Bureau itinérant",N,N,"3",0,17,"Stewart","","Jake","Conservative","Conservateur",N,Y,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 501","Mobile poll/Bureau itinérant",N,N,"8",0,14,"Deitch","","Patty","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 501","Mobile poll/Bureau itinérant",N,N,"8",0,14,"Harris","","Lisa","Liberal","Libéral",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 501","Mobile poll/Bureau itinérant",N,N,"8",0,14,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 501","Mobile poll/Bureau itinérant",N,N,"8",0,14,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 501","Mobile poll/Bureau itinérant",N,N,"8",0,14,"Stewart","","Jake","Conservative","Conservateur",N,Y,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 502","Mobile poll/Bureau itinérant",N,N,"11",0,15,"Deitch","","Patty","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 502","Mobile poll/Bureau itinérant",N,N,"11",0,15,"Harris","","Lisa","Liberal","Libéral",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 502","Mobile poll/Bureau itinérant",N,N,"11",0,15,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 502","Mobile poll/Bureau itinérant",N,N,"11",0,15,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 502","Mobile poll/Bureau itinérant",N,N,"11",0,15,"Stewart","","Jake","Conservative","Conservateur",N,Y,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 503","Mobile poll/Bureau itinérant",N,N,"13",0,16,"Deitch","","Patty","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 503","Mobile poll/Bureau itinérant",N,N,"13",0,16,"Harris","","Lisa","Liberal","Libéral",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 503","Mobile poll/Bureau itinérant",N,N,"13",0,16,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 503","Mobile poll/Bureau itinérant",N,N,"13",0,16,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 503","Mobile poll/Bureau itinérant",N,N,"13",0,16,"Stewart","","Jake","Conservative","Conservateur",N,Y,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 504","Mobile poll/Bureau itinérant",N,N,"14",0,10,"Deitch","","Patty","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 504","Mobile poll/Bureau itinérant",N,N,"14",0,10,"Harris","","Lisa","Liberal","Libéral",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 504","Mobile poll/Bureau itinérant",N,N,"14",0,10,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 504","Mobile poll/Bureau itinérant",N,N,"14",0,10,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 504","Mobile poll/Bureau itinérant",N,N,"14",0,10,"Stewart","","Jake","Conservative","Conservateur",N,Y,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 505","Mobile poll/Bureau itinérant",N,N,"26",0,14,"Deitch","","Patty","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 505","Mobile poll/Bureau itinérant",N,N,"26",0,14,"Harris","","Lisa","Liberal","Libéral",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 505","Mobile poll/Bureau itinérant",N,N,"26",0,14,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 505","Mobile poll/Bureau itinérant",N,N,"26",0,14,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 505","Mobile poll/Bureau itinérant",N,N,"26",0,14,"Stewart","","Jake","Conservative","Conservateur",N,Y,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 506","Mobile poll/Bureau itinérant",N,N,"40",0,20,"Deitch","","Patty","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 506","Mobile poll/Bureau itinérant",N,N,"40",0,20,"Harris","","Lisa","Liberal","Libéral",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 506","Mobile poll/Bureau itinérant",N,N,"40",0,20,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 506","Mobile poll/Bureau itinérant",N,N,"40",0,20,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 506","Mobile poll/Bureau itinérant",N,N,"40",0,20,"Stewart","","Jake","Conservative","Conservateur",N,Y,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 507","Mobile poll/Bureau itinérant",N,N,"50",0,3,"Deitch","","Patty","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 507","Mobile poll/Bureau itinérant",N,N,"50",0,3,"Harris","","Lisa","Liberal","Libéral",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 507","Mobile poll/Bureau itinérant",N,N,"50",0,3,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 507","Mobile poll/Bureau itinérant",N,N,"50",0,3,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 507","Mobile poll/Bureau itinérant",N,N,"50",0,3,"Stewart","","Jake","Conservative","Conservateur",N,Y,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 508","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Deitch","","Patty","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 508","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Harris","","Lisa","Liberal","Libéral",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 508","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 508","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 508","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Stewart","","Jake","Conservative","Conservateur",N,Y,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 509","Mobile poll/Bureau itinérant",N,N,"60",0,8,"Deitch","","Patty","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 509","Mobile poll/Bureau itinérant",N,N,"60",0,8,"Harris","","Lisa","Liberal","Libéral",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 509","Mobile poll/Bureau itinérant",N,N,"60",0,8,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 509","Mobile poll/Bureau itinérant",N,N,"60",0,8,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 509","Mobile poll/Bureau itinérant",N,N,"60",0,8,"Stewart","","Jake","Conservative","Conservateur",N,Y,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 510","Mobile poll/Bureau itinérant",N,N,"57",0,9,"Deitch","","Patty","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 510","Mobile poll/Bureau itinérant",N,N,"57",0,9,"Harris","","Lisa","Liberal","Libéral",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 510","Mobile poll/Bureau itinérant",N,N,"57",0,9,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 510","Mobile poll/Bureau itinérant",N,N,"57",0,9,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 510","Mobile poll/Bureau itinérant",N,N,"57",0,9,"Stewart","","Jake","Conservative","Conservateur",N,Y,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 511","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Deitch","","Patty","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 511","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Harris","","Lisa","Liberal","Libéral",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 511","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 511","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 511","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Stewart","","Jake","Conservative","Conservateur",N,Y,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 512","Mobile poll/Bureau itinérant",N,N,"89",0,41,"Deitch","","Patty","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 512","Mobile poll/Bureau itinérant",N,N,"89",0,41,"Harris","","Lisa","Liberal","Libéral",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 512","Mobile poll/Bureau itinérant",N,N,"89",0,41,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 512","Mobile poll/Bureau itinérant",N,N,"89",0,41,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 512","Mobile poll/Bureau itinérant",N,N,"89",0,41,"Stewart","","Jake","Conservative","Conservateur",N,Y,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 513","Mobile poll/Bureau itinérant",N,N,"92",0,11,"Deitch","","Patty","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 513","Mobile poll/Bureau itinérant",N,N,"92",0,11,"Harris","","Lisa","Liberal","Libéral",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 513","Mobile poll/Bureau itinérant",N,N,"92",0,11,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 513","Mobile poll/Bureau itinérant",N,N,"92",0,11,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 513","Mobile poll/Bureau itinérant",N,N,"92",0,11,"Stewart","","Jake","Conservative","Conservateur",N,Y,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 514","Mobile poll/Bureau itinérant",N,N,"92",0,29,"Deitch","","Patty","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 514","Mobile poll/Bureau itinérant",N,N,"92",0,29,"Harris","","Lisa","Liberal","Libéral",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 514","Mobile poll/Bureau itinérant",N,N,"92",0,29,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 514","Mobile poll/Bureau itinérant",N,N,"92",0,29,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 514","Mobile poll/Bureau itinérant",N,N,"92",0,29,"Stewart","","Jake","Conservative","Conservateur",N,Y,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 515","Mobile poll/Bureau itinérant",N,N,"105",0,23,"Deitch","","Patty","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 515","Mobile poll/Bureau itinérant",N,N,"105",0,23,"Harris","","Lisa","Liberal","Libéral",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 515","Mobile poll/Bureau itinérant",N,N,"105",0,23,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 515","Mobile poll/Bureau itinérant",N,N,"105",0,23,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 515","Mobile poll/Bureau itinérant",N,N,"105",0,23,"Stewart","","Jake","Conservative","Conservateur",N,Y,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 516","Mobile poll/Bureau itinérant",N,N,"123",0,0,"Deitch","","Patty","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 516","Mobile poll/Bureau itinérant",N,N,"123",0,0,"Harris","","Lisa","Liberal","Libéral",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 516","Mobile poll/Bureau itinérant",N,N,"123",0,0,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 516","Mobile poll/Bureau itinérant",N,N,"123",0,0,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 516","Mobile poll/Bureau itinérant",N,N,"123",0,0,"Stewart","","Jake","Conservative","Conservateur",N,Y,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 517","Mobile poll/Bureau itinérant",N,N,"131",0,10,"Deitch","","Patty","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 517","Mobile poll/Bureau itinérant",N,N,"131",0,10,"Harris","","Lisa","Liberal","Libéral",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 517","Mobile poll/Bureau itinérant",N,N,"131",0,10,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 517","Mobile poll/Bureau itinérant",N,N,"131",0,10,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 517","Mobile poll/Bureau itinérant",N,N,"131",0,10,"Stewart","","Jake","Conservative","Conservateur",N,Y,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 518","Mobile poll/Bureau itinérant",N,N,"139",0,36,"Deitch","","Patty","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 518","Mobile poll/Bureau itinérant",N,N,"139",0,36,"Harris","","Lisa","Liberal","Libéral",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 518","Mobile poll/Bureau itinérant",N,N,"139",0,36,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 518","Mobile poll/Bureau itinérant",N,N,"139",0,36,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 518","Mobile poll/Bureau itinérant",N,N,"139",0,36,"Stewart","","Jake","Conservative","Conservateur",N,Y,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 519","Mobile poll/Bureau itinérant",N,N,"50",0,20,"Deitch","","Patty","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 519","Mobile poll/Bureau itinérant",N,N,"50",0,20,"Harris","","Lisa","Liberal","Libéral",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 519","Mobile poll/Bureau itinérant",N,N,"50",0,20,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 519","Mobile poll/Bureau itinérant",N,N,"50",0,20,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 519","Mobile poll/Bureau itinérant",N,N,"50",0,20,"Stewart","","Jake","Conservative","Conservateur",N,Y,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 520","Mobile poll/Bureau itinérant",N,N,"33",0,44,"Deitch","","Patty","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 520","Mobile poll/Bureau itinérant",N,N,"33",0,44,"Harris","","Lisa","Liberal","Libéral",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 520","Mobile poll/Bureau itinérant",N,N,"33",0,44,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 520","Mobile poll/Bureau itinérant",N,N,"33",0,44,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 520","Mobile poll/Bureau itinérant",N,N,"33",0,44,"Stewart","","Jake","Conservative","Conservateur",N,Y,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 521","Mobile poll/Bureau itinérant",N,N,"14",0,22,"Deitch","","Patty","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 521","Mobile poll/Bureau itinérant",N,N,"14",0,22,"Harris","","Lisa","Liberal","Libéral",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 521","Mobile poll/Bureau itinérant",N,N,"14",0,22,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 521","Mobile poll/Bureau itinérant",N,N,"14",0,22,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 521","Mobile poll/Bureau itinérant",N,N,"14",0,22,"Stewart","","Jake","Conservative","Conservateur",N,Y,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 522","Mobile poll/Bureau itinérant",N,N,"60",0,154,"Deitch","","Patty","Green Party","Parti Vert",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 522","Mobile poll/Bureau itinérant",N,N,"60",0,154,"Harris","","Lisa","Liberal","Libéral",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 522","Mobile poll/Bureau itinérant",N,N,"60",0,154,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 522","Mobile poll/Bureau itinérant",N,N,"60",0,154,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 522","Mobile poll/Bureau itinérant",N,N,"60",0,154,"Stewart","","Jake","Conservative","Conservateur",N,Y,0
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 600","Sunny Corner--Red Bank",N,N,"",5,0,"Deitch","","Patty","Green Party","Parti Vert",N,N,20
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 600","Sunny Corner--Red Bank",N,N,"",5,0,"Harris","","Lisa","Liberal","Libéral",N,N,235
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 600","Sunny Corner--Red Bank",N,N,"",5,0,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,34
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 600","Sunny Corner--Red Bank",N,N,"",5,0,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 600","Sunny Corner--Red Bank",N,N,"",5,0,"Stewart","","Jake","Conservative","Conservateur",N,Y,512
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 601","Miramichi",N,N,"",1,0,"Deitch","","Patty","Green Party","Parti Vert",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 601","Miramichi",N,N,"",1,0,"Harris","","Lisa","Liberal","Libéral",N,N,156
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 601","Miramichi",N,N,"",1,0,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,20
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 601","Miramichi",N,N,"",1,0,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 601","Miramichi",N,N,"",1,0,"Stewart","","Jake","Conservative","Conservateur",N,Y,275
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 602","Miramichi",N,N,"",10,0,"Deitch","","Patty","Green Party","Parti Vert",N,N,56
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 602","Miramichi",N,N,"",10,0,"Harris","","Lisa","Liberal","Libéral",N,N,570
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 602","Miramichi",N,N,"",10,0,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,26
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 602","Miramichi",N,N,"",10,0,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,93
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 602","Miramichi",N,N,"",10,0,"Stewart","","Jake","Conservative","Conservateur",N,Y,742
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 603","Miramichi",N,N,"",12,0,"Deitch","","Patty","Green Party","Parti Vert",N,N,62
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 603","Miramichi",N,N,"",12,0,"Harris","","Lisa","Liberal","Libéral",N,N,566
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 603","Miramichi",N,N,"",12,0,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,49
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 603","Miramichi",N,N,"",12,0,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 603","Miramichi",N,N,"",12,0,"Stewart","","Jake","Conservative","Conservateur",N,Y,616
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 604","Miramichi",N,N,"",9,0,"Deitch","","Patty","Green Party","Parti Vert",N,N,20
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 604","Miramichi",N,N,"",9,0,"Harris","","Lisa","Liberal","Libéral",N,N,425
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 604","Miramichi",N,N,"",9,0,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,45
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 604","Miramichi",N,N,"",9,0,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 604","Miramichi",N,N,"",9,0,"Stewart","","Jake","Conservative","Conservateur",N,Y,617
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 605","Alnwick",N,N,"",8,0,"Deitch","","Patty","Green Party","Parti Vert",N,N,17
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 605","Alnwick",N,N,"",8,0,"Harris","","Lisa","Liberal","Libéral",N,N,476
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 605","Alnwick",N,N,"",8,0,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,26
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 605","Alnwick",N,N,"",8,0,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 605","Alnwick",N,N,"",8,0,"Stewart","","Jake","Conservative","Conservateur",N,Y,173
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 606","Neguac",N,N,"",4,0,"Deitch","","Patty","Green Party","Parti Vert",N,N,23
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 606","Neguac",N,N,"",4,0,"Harris","","Lisa","Liberal","Libéral",N,N,517
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 606","Neguac",N,N,"",4,0,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,33
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 606","Neguac",N,N,"",4,0,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 606","Neguac",N,N,"",4,0,"Stewart","","Jake","Conservative","Conservateur",N,Y,148
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 607","Baie-Sainte-Anne",N,N,"",2,0,"Deitch","","Patty","Green Party","Parti Vert",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 607","Baie-Sainte-Anne",N,N,"",2,0,"Harris","","Lisa","Liberal","Libéral",N,N,204
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 607","Baie-Sainte-Anne",N,N,"",2,0,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,15
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 607","Baie-Sainte-Anne",N,N,"",2,0,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 607","Baie-Sainte-Anne",N,N,"",2,0,"Stewart","","Jake","Conservative","Conservateur",N,Y,269
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 608","Miramichi",N,N,"",10,0,"Deitch","","Patty","Green Party","Parti Vert",N,N,15
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 608","Miramichi",N,N,"",10,0,"Harris","","Lisa","Liberal","Libéral",N,N,176
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 608","Miramichi",N,N,"",10,0,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,26
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 608","Miramichi",N,N,"",10,0,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 608","Miramichi",N,N,"",10,0,"Stewart","","Jake","Conservative","Conservateur",N,Y,265
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 609","Rogersville",N,N,"",9,0,"Deitch","","Patty","Green Party","Parti Vert",N,N,96
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 609","Rogersville",N,N,"",9,0,"Harris","","Lisa","Liberal","Libéral",N,N,496
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 609","Rogersville",N,N,"",9,0,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,42
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 609","Rogersville",N,N,"",9,0,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 609","Rogersville",N,N,"",9,0,"Stewart","","Jake","Conservative","Conservateur",N,Y,166
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 610","Richibucto 15--Weldford",N,N,"",2,0,"Deitch","","Patty","Green Party","Parti Vert",N,N,21
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 610","Richibucto 15--Weldford",N,N,"",2,0,"Harris","","Lisa","Liberal","Libéral",N,N,72
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 610","Richibucto 15--Weldford",N,N,"",2,0,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,14
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 610","Richibucto 15--Weldford",N,N,"",2,0,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 610","Richibucto 15--Weldford",N,N,"",2,0,"Stewart","","Jake","Conservative","Conservateur",N,Y,40
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 611","Harcourt--Weldford",N,N,"",2,0,"Deitch","","Patty","Green Party","Parti Vert",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 611","Harcourt--Weldford",N,N,"",2,0,"Harris","","Lisa","Liberal","Libéral",N,N,66
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 611","Harcourt--Weldford",N,N,"",2,0,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,15
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 611","Harcourt--Weldford",N,N,"",2,0,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 611","Harcourt--Weldford",N,N,"",2,0,"Stewart","","Jake","Conservative","Conservateur",N,Y,49
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 612","Blackville",N,N,"",6,0,"Deitch","","Patty","Green Party","Parti Vert",N,N,18
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 612","Blackville",N,N,"",6,0,"Harris","","Lisa","Liberal","Libéral",N,N,164
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 612","Blackville",N,N,"",6,0,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,26
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 612","Blackville",N,N,"",6,0,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 612","Blackville",N,N,"",6,0,"Stewart","","Jake","Conservative","Conservateur",N,Y,603
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 613","Blissfield--Doaktown",N,N,"",3,0,"Deitch","","Patty","Green Party","Parti Vert",N,N,6
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 613","Blissfield--Doaktown",N,N,"",3,0,"Harris","","Lisa","Liberal","Libéral",N,N,93
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 613","Blissfield--Doaktown",N,N,"",3,0,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,17
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 613","Blissfield--Doaktown",N,N,"",3,0,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 613","Blissfield--Doaktown",N,N,"",3,0,"Stewart","","Jake","Conservative","Conservateur",N,Y,317
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 614","Upper Miramichi",N,N,"",1,0,"Deitch","","Patty","Green Party","Parti Vert",N,N,10
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 614","Upper Miramichi",N,N,"",1,0,"Harris","","Lisa","Liberal","Libéral",N,N,91
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 614","Upper Miramichi",N,N,"",1,0,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,28
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 614","Upper Miramichi",N,N,"",1,0,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 614","Upper Miramichi",N,N,"",1,0,"Stewart","","Jake","Conservative","Conservateur",N,Y,335
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 615","Chipman",N,N,"",6,0,"Deitch","","Patty","Green Party","Parti Vert",N,N,21
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 615","Chipman",N,N,"",6,0,"Harris","","Lisa","Liberal","Libéral",N,N,179
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 615","Chipman",N,N,"",6,0,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,47
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 615","Chipman",N,N,"",6,0,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 615","Chipman",N,N,"",6,0,"Stewart","","Jake","Conservative","Conservateur",N,Y,390
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 616","Minto",N,N,"",3,0,"Deitch","","Patty","Green Party","Parti Vert",N,N,30
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 616","Minto",N,N,"",3,0,"Harris","","Lisa","Liberal","Libéral",N,N,228
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 616","Minto",N,N,"",3,0,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,61
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 616","Minto",N,N,"",3,0,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," 616","Minto",N,N,"",3,0,"Stewart","","Jake","Conservative","Conservateur",N,Y,317
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",11,67,"Deitch","","Patty","Green Party","Parti Vert",N,N,8
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",11,67,"Harris","","Lisa","Liberal","Libéral",N,N,115
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",11,67,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,11
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",11,67,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",11,67,"Stewart","","Jake","Conservative","Conservateur",N,Y,53
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",30,0,"Deitch","","Patty","Green Party","Parti Vert",N,N,53
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",30,0,"Harris","","Lisa","Liberal","Libéral",N,N,747
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",30,0,"Nowlan","","Ron","People's Party - PPC","Parti populaire - PPC",N,N,54
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",30,0,"Potter","","Bruce","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+13006,"Miramichi--Grand Lake","Miramichi--Grand Lake"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",30,0,"Stewart","","Jake","Conservative","Conservateur",N,Y,683

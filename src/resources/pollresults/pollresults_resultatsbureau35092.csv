@@ -1,0 +1,757 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 1","Montreal River Harbour",N,N,"",2,207,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 1","Montreal River Harbour",N,N,"",2,207,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 1","Montreal River Harbour",N,N,"",2,207,"Sheehan","","Terry","Liberal","Libéral",Y,Y,20
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 1","Montreal River Harbour",N,N,"",2,207,"Spina","","Sonny","Conservative","Conservateur",N,N,59
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 2","Searchmont",N,N,"",2,349,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,26
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 2","Searchmont",N,N,"",2,349,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 2","Searchmont",N,N,"",2,349,"Sheehan","","Terry","Liberal","Libéral",Y,Y,49
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 2","Searchmont",N,N,"",2,349,"Spina","","Sonny","Conservative","Conservateur",N,N,73
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 3","Jones Landing--Havilland",N,N,"",2,575,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,14
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 3","Jones Landing--Havilland",N,N,"",2,575,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 3","Jones Landing--Havilland",N,N,"",2,575,"Sheehan","","Terry","Liberal","Libéral",Y,Y,117
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 3","Jones Landing--Havilland",N,N,"",2,575,"Spina","","Sonny","Conservative","Conservateur",N,N,117
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 4","Karalash Corners",N,N,"",0,283,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,23
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 4","Karalash Corners",N,N,"",0,283,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 4","Karalash Corners",N,N,"",0,283,"Sheehan","","Terry","Liberal","Libéral",Y,Y,33
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 4","Karalash Corners",N,N,"",0,283,"Spina","","Sonny","Conservative","Conservateur",N,N,87
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 5","Kirby's Corner",N,N,"",0,348,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,32
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 5","Kirby's Corner",N,N,"",0,348,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 5","Kirby's Corner",N,N,"",0,348,"Sheehan","","Terry","Liberal","Libéral",Y,Y,38
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 5","Kirby's Corner",N,N,"",0,348,"Spina","","Sonny","Conservative","Conservateur",N,N,86
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 6","Goulais Bay",N,N,"",2,444,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,26
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 6","Goulais Bay",N,N,"",2,444,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 6","Goulais Bay",N,N,"",2,444,"Sheehan","","Terry","Liberal","Libéral",Y,Y,50
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 6","Goulais Bay",N,N,"",2,444,"Spina","","Sonny","Conservative","Conservateur",N,N,123
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 7","Goulais Bay 15A",N,N,"",0,383,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,11
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 7","Goulais Bay 15A",N,N,"",0,383,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 7","Goulais Bay 15A",N,N,"",0,383,"Sheehan","","Terry","Liberal","Libéral",Y,Y,67
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 7","Goulais Bay 15A",N,N,"",0,383,"Spina","","Sonny","Conservative","Conservateur",N,N,71
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 8","Goulais River",N,N,"",4,580,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,34
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 8","Goulais River",N,N,"",4,580,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 8","Goulais River",N,N,"",4,580,"Sheehan","","Terry","Liberal","Libéral",Y,Y,57
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 8","Goulais River",N,N,"",4,580,"Spina","","Sonny","Conservative","Conservateur",N,N,167
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 9","Heyden",N,N,"",0,452,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,17
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 9","Heyden",N,N,"",0,452,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 9","Heyden",N,N,"",0,452,"Sheehan","","Terry","Liberal","Libéral",Y,Y,28
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 9","Heyden",N,N,"",0,452,"Spina","","Sonny","Conservative","Conservateur",N,N,54
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 10","Heyden--Island Lake",N,N,"",0,379,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 10","Heyden--Island Lake",N,N,"",0,379,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 10","Heyden--Island Lake",N,N,"",0,379,"Sheehan","","Terry","Liberal","Libéral",Y,Y,37
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 10","Heyden--Island Lake",N,N,"",0,379,"Spina","","Sonny","Conservative","Conservateur",N,N,84
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 11","Heyden",N,N,"",1,323,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,11
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 11","Heyden",N,N,"",1,323,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 11","Heyden",N,N,"",1,323,"Sheehan","","Terry","Liberal","Libéral",Y,Y,30
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 11","Heyden",N,N,"",1,323,"Spina","","Sonny","Conservative","Conservateur",N,N,52
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 12","Sault Ste. Marie",N,N,"",0,292,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 12","Sault Ste. Marie",N,N,"",0,292,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 12","Sault Ste. Marie",N,N,"",0,292,"Sheehan","","Terry","Liberal","Libéral",Y,Y,61
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 12","Sault Ste. Marie",N,N,"",0,292,"Spina","","Sonny","Conservative","Conservateur",N,N,67
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 13","Sault Ste. Marie",N,N,"",2,377,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 13","Sault Ste. Marie",N,N,"",2,377,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 13","Sault Ste. Marie",N,N,"",2,377,"Sheehan","","Terry","Liberal","Libéral",Y,Y,75
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 13","Sault Ste. Marie",N,N,"",2,377,"Spina","","Sonny","Conservative","Conservateur",N,N,79
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 14","Sault Ste. Marie",N,N,"",0,467,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,9
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 14","Sault Ste. Marie",N,N,"",0,467,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 14","Sault Ste. Marie",N,N,"",0,467,"Sheehan","","Terry","Liberal","Libéral",Y,Y,105
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 14","Sault Ste. Marie",N,N,"",0,467,"Spina","","Sonny","Conservative","Conservateur",N,N,109
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 15","Garden River 14",N,N,"",0,262,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 15","Garden River 14",N,N,"",0,262,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 15","Garden River 14",N,N,"",0,262,"Sheehan","","Terry","Liberal","Libéral",Y,Y,23
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 15","Garden River 14",N,N,"",0,262,"Spina","","Sonny","Conservative","Conservateur",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 16","Garden River 14",N,N,"",1,641,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,10
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 16","Garden River 14",N,N,"",1,641,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,129
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 16","Garden River 14",N,N,"",1,641,"Sheehan","","Terry","Liberal","Libéral",Y,Y,52
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 16","Garden River 14",N,N,"",1,641,"Spina","","Sonny","Conservative","Conservateur",N,N,9
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 17","Prince",N,N,"",0,565,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 17","Prince",N,N,"",0,565,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 17","Prince",N,N,"",0,565,"Sheehan","","Terry","Liberal","Libéral",Y,Y,97
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 17","Prince",N,N,"",0,565,"Spina","","Sonny","Conservative","Conservateur",N,N,135
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 18","Prince",N,N,"",0,375,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,9
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 18","Prince",N,N,"",0,375,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 18","Prince",N,N,"",0,375,"Sheehan","","Terry","Liberal","Libéral",Y,Y,57
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 18","Prince",N,N,"",0,375,"Spina","","Sonny","Conservative","Conservateur",N,N,103
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 19","Sault Ste. Marie",N,N,"",2,420,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 19","Sault Ste. Marie",N,N,"",2,420,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 19","Sault Ste. Marie",N,N,"",2,420,"Sheehan","","Terry","Liberal","Libéral",Y,Y,92
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 19","Sault Ste. Marie",N,N,"",2,420,"Spina","","Sonny","Conservative","Conservateur",N,N,96
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 20","Sault Ste. Marie",N,N,"",0,488,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,12
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 20","Sault Ste. Marie",N,N,"",0,488,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 20","Sault Ste. Marie",N,N,"",0,488,"Sheehan","","Terry","Liberal","Libéral",Y,Y,84
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 20","Sault Ste. Marie",N,N,"",0,488,"Spina","","Sonny","Conservative","Conservateur",N,N,121
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 21","Sault Ste. Marie",N,N,"",0,280,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 21","Sault Ste. Marie",N,N,"",0,280,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 21","Sault Ste. Marie",N,N,"",0,280,"Sheehan","","Terry","Liberal","Libéral",Y,Y,29
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 21","Sault Ste. Marie",N,N,"",0,280,"Spina","","Sonny","Conservative","Conservateur",N,N,68
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 22","Sault Ste. Marie",N,N,"",0,364,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,13
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 22","Sault Ste. Marie",N,N,"",0,364,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 22","Sault Ste. Marie",N,N,"",0,364,"Sheehan","","Terry","Liberal","Libéral",Y,Y,52
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 22","Sault Ste. Marie",N,N,"",0,364,"Spina","","Sonny","Conservative","Conservateur",N,N,74
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 23","Sault Ste. Marie",N,N,"",0,464,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,13
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 23","Sault Ste. Marie",N,N,"",0,464,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 23","Sault Ste. Marie",N,N,"",0,464,"Sheehan","","Terry","Liberal","Libéral",Y,Y,72
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 23","Sault Ste. Marie",N,N,"",0,464,"Spina","","Sonny","Conservative","Conservateur",N,N,104
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 24","Sault Ste. Marie",N,N,"",0,440,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,9
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 24","Sault Ste. Marie",N,N,"",0,440,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 24","Sault Ste. Marie",N,N,"",0,440,"Sheehan","","Terry","Liberal","Libéral",Y,Y,61
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 24","Sault Ste. Marie",N,N,"",0,440,"Spina","","Sonny","Conservative","Conservateur",N,N,74
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 25","Sault Ste. Marie",N,N,"",0,323,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 25","Sault Ste. Marie",N,N,"",0,323,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 25","Sault Ste. Marie",N,N,"",0,323,"Sheehan","","Terry","Liberal","Libéral",Y,Y,78
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 25","Sault Ste. Marie",N,N,"",0,323,"Spina","","Sonny","Conservative","Conservateur",N,N,83
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 26","Rankin Location 15D",N,N,"",1,329,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 26","Rankin Location 15D",N,N,"",1,329,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 26","Rankin Location 15D",N,N,"",1,329,"Sheehan","","Terry","Liberal","Libéral",Y,Y,33
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 26","Rankin Location 15D",N,N,"",1,329,"Spina","","Sonny","Conservative","Conservateur",N,N,17
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 27","Rankin Location 15D",N,N,"",0,308,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 27","Rankin Location 15D",N,N,"",0,308,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 27","Rankin Location 15D",N,N,"",0,308,"Sheehan","","Terry","Liberal","Libéral",Y,Y,29
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 27","Rankin Location 15D",N,N,"",0,308,"Spina","","Sonny","Conservative","Conservateur",N,N,7
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 28","Sault Ste. Marie",N,N,"",0,424,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,10
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 28","Sault Ste. Marie",N,N,"",0,424,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 28","Sault Ste. Marie",N,N,"",0,424,"Sheehan","","Terry","Liberal","Libéral",Y,Y,69
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 28","Sault Ste. Marie",N,N,"",0,424,"Spina","","Sonny","Conservative","Conservateur",N,N,88
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 29","Sault Ste. Marie",N,N,"",1,402,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,9
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 29","Sault Ste. Marie",N,N,"",1,402,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 29","Sault Ste. Marie",N,N,"",1,402,"Sheehan","","Terry","Liberal","Libéral",Y,Y,71
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 29","Sault Ste. Marie",N,N,"",1,402,"Spina","","Sonny","Conservative","Conservateur",N,N,115
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 30","Sault Ste. Marie",N,N,"",2,450,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,11
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 30","Sault Ste. Marie",N,N,"",2,450,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 30","Sault Ste. Marie",N,N,"",2,450,"Sheehan","","Terry","Liberal","Libéral",Y,Y,106
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 30","Sault Ste. Marie",N,N,"",2,450,"Spina","","Sonny","Conservative","Conservateur",N,N,99
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 31","Sault Ste. Marie",N,N,"",0,460,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 31","Sault Ste. Marie",N,N,"",0,460,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 31","Sault Ste. Marie",N,N,"",0,460,"Sheehan","","Terry","Liberal","Libéral",Y,Y,50
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 31","Sault Ste. Marie",N,N,"",0,460,"Spina","","Sonny","Conservative","Conservateur",N,N,100
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 32","Sault Ste. Marie",N,N,"",0,451,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,7
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 32","Sault Ste. Marie",N,N,"",0,451,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 32","Sault Ste. Marie",N,N,"",0,451,"Sheehan","","Terry","Liberal","Libéral",Y,Y,77
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 32","Sault Ste. Marie",N,N,"",0,451,"Spina","","Sonny","Conservative","Conservateur",N,N,98
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 33","Sault Ste. Marie",N,N,"",3,484,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 33","Sault Ste. Marie",N,N,"",3,484,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 33","Sault Ste. Marie",N,N,"",3,484,"Sheehan","","Terry","Liberal","Libéral",Y,Y,99
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 33","Sault Ste. Marie",N,N,"",3,484,"Spina","","Sonny","Conservative","Conservateur",N,N,104
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 34","Sault Ste. Marie",N,N,"",0,359,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,11
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 34","Sault Ste. Marie",N,N,"",0,359,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 34","Sault Ste. Marie",N,N,"",0,359,"Sheehan","","Terry","Liberal","Libéral",Y,Y,49
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 34","Sault Ste. Marie",N,N,"",0,359,"Spina","","Sonny","Conservative","Conservateur",N,N,65
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 35","Sault Ste. Marie",N,N,"",0,287,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 35","Sault Ste. Marie",N,N,"",0,287,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 35","Sault Ste. Marie",N,N,"",0,287,"Sheehan","","Terry","Liberal","Libéral",Y,Y,48
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 35","Sault Ste. Marie",N,N,"",0,287,"Spina","","Sonny","Conservative","Conservateur",N,N,61
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 36","Sault Ste. Marie",N,N,"",0,532,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 36","Sault Ste. Marie",N,N,"",0,532,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 36","Sault Ste. Marie",N,N,"",0,532,"Sheehan","","Terry","Liberal","Libéral",Y,Y,75
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 36","Sault Ste. Marie",N,N,"",0,532,"Spina","","Sonny","Conservative","Conservateur",N,N,103
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 37","Sault Ste. Marie",N,N,"",2,456,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,15
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 37","Sault Ste. Marie",N,N,"",2,456,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 37","Sault Ste. Marie",N,N,"",2,456,"Sheehan","","Terry","Liberal","Libéral",Y,Y,79
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 37","Sault Ste. Marie",N,N,"",2,456,"Spina","","Sonny","Conservative","Conservateur",N,N,71
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 38","Sault Ste. Marie",N,N,"",2,537,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,12
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 38","Sault Ste. Marie",N,N,"",2,537,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 38","Sault Ste. Marie",N,N,"",2,537,"Sheehan","","Terry","Liberal","Libéral",Y,Y,88
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 38","Sault Ste. Marie",N,N,"",2,537,"Spina","","Sonny","Conservative","Conservateur",N,N,112
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 39","Sault Ste. Marie",N,N,"",1,466,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 39","Sault Ste. Marie",N,N,"",1,466,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 39","Sault Ste. Marie",N,N,"",1,466,"Sheehan","","Terry","Liberal","Libéral",Y,Y,99
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 39","Sault Ste. Marie",N,N,"",1,466,"Spina","","Sonny","Conservative","Conservateur",N,N,80
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 40","Sault Ste. Marie",N,N,"",2,401,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 40","Sault Ste. Marie",N,N,"",2,401,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 40","Sault Ste. Marie",N,N,"",2,401,"Sheehan","","Terry","Liberal","Libéral",Y,Y,58
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 40","Sault Ste. Marie",N,N,"",2,401,"Spina","","Sonny","Conservative","Conservateur",N,N,70
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 41","Sault Ste. Marie",N,N,"",7,405,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,17
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 41","Sault Ste. Marie",N,N,"",7,405,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 41","Sault Ste. Marie",N,N,"",7,405,"Sheehan","","Terry","Liberal","Libéral",Y,Y,57
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 41","Sault Ste. Marie",N,N,"",7,405,"Spina","","Sonny","Conservative","Conservateur",N,N,67
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 42","Sault Ste. Marie",N,N,"",5,336,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 42","Sault Ste. Marie",N,N,"",5,336,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 42","Sault Ste. Marie",N,N,"",5,336,"Sheehan","","Terry","Liberal","Libéral",Y,Y,85
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 42","Sault Ste. Marie",N,N,"",5,336,"Spina","","Sonny","Conservative","Conservateur",N,N,69
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 43","Sault Ste. Marie",N,N,"",6,384,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,9
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 43","Sault Ste. Marie",N,N,"",6,384,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 43","Sault Ste. Marie",N,N,"",6,384,"Sheehan","","Terry","Liberal","Libéral",Y,Y,78
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 43","Sault Ste. Marie",N,N,"",6,384,"Spina","","Sonny","Conservative","Conservateur",N,N,73
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 44","Sault Ste. Marie",N,N,"",1,396,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,13
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 44","Sault Ste. Marie",N,N,"",1,396,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 44","Sault Ste. Marie",N,N,"",1,396,"Sheehan","","Terry","Liberal","Libéral",Y,Y,75
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 44","Sault Ste. Marie",N,N,"",1,396,"Spina","","Sonny","Conservative","Conservateur",N,N,68
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 45","Sault Ste. Marie",N,N,"",1,372,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 45","Sault Ste. Marie",N,N,"",1,372,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 45","Sault Ste. Marie",N,N,"",1,372,"Sheehan","","Terry","Liberal","Libéral",Y,Y,41
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 45","Sault Ste. Marie",N,N,"",1,372,"Spina","","Sonny","Conservative","Conservateur",N,N,52
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 46","Sault Ste. Marie",N,N,"",0,450,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,12
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 46","Sault Ste. Marie",N,N,"",0,450,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 46","Sault Ste. Marie",N,N,"",0,450,"Sheehan","","Terry","Liberal","Libéral",Y,Y,57
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 46","Sault Ste. Marie",N,N,"",0,450,"Spina","","Sonny","Conservative","Conservateur",N,N,104
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 47","Sault Ste. Marie",N,N,"",2,381,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,14
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 47","Sault Ste. Marie",N,N,"",2,381,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 47","Sault Ste. Marie",N,N,"",2,381,"Sheehan","","Terry","Liberal","Libéral",Y,Y,63
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 47","Sault Ste. Marie",N,N,"",2,381,"Spina","","Sonny","Conservative","Conservateur",N,N,86
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 48","Sault Ste. Marie",N,N,"",0,457,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 48","Sault Ste. Marie",N,N,"",0,457,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 48","Sault Ste. Marie",N,N,"",0,457,"Sheehan","","Terry","Liberal","Libéral",Y,Y,39
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 48","Sault Ste. Marie",N,N,"",0,457,"Spina","","Sonny","Conservative","Conservateur",N,N,37
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 49","Sault Ste. Marie",N,N,"",0,475,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 49","Sault Ste. Marie",N,N,"",0,475,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 49","Sault Ste. Marie",N,N,"",0,475,"Sheehan","","Terry","Liberal","Libéral",Y,Y,66
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 49","Sault Ste. Marie",N,N,"",0,475,"Spina","","Sonny","Conservative","Conservateur",N,N,98
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 50","Sault Ste. Marie",N,N,"",0,525,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 50","Sault Ste. Marie",N,N,"",0,525,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 50","Sault Ste. Marie",N,N,"",0,525,"Sheehan","","Terry","Liberal","Libéral",Y,Y,86
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 50","Sault Ste. Marie",N,N,"",0,525,"Spina","","Sonny","Conservative","Conservateur",N,N,85
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 51","Sault Ste. Marie",N,N,"",0,447,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,10
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 51","Sault Ste. Marie",N,N,"",0,447,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 51","Sault Ste. Marie",N,N,"",0,447,"Sheehan","","Terry","Liberal","Libéral",Y,Y,56
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 51","Sault Ste. Marie",N,N,"",0,447,"Spina","","Sonny","Conservative","Conservateur",N,N,70
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 52","Sault Ste. Marie",N,N,"",4,512,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 52","Sault Ste. Marie",N,N,"",4,512,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 52","Sault Ste. Marie",N,N,"",4,512,"Sheehan","","Terry","Liberal","Libéral",Y,Y,89
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 52","Sault Ste. Marie",N,N,"",4,512,"Spina","","Sonny","Conservative","Conservateur",N,N,70
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 53","Sault Ste. Marie",N,N,"",0,431,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,10
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 53","Sault Ste. Marie",N,N,"",0,431,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 53","Sault Ste. Marie",N,N,"",0,431,"Sheehan","","Terry","Liberal","Libéral",Y,Y,67
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 53","Sault Ste. Marie",N,N,"",0,431,"Spina","","Sonny","Conservative","Conservateur",N,N,87
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 54","Sault Ste. Marie",N,N,"",4,421,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 54","Sault Ste. Marie",N,N,"",4,421,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 54","Sault Ste. Marie",N,N,"",4,421,"Sheehan","","Terry","Liberal","Libéral",Y,Y,77
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 54","Sault Ste. Marie",N,N,"",4,421,"Spina","","Sonny","Conservative","Conservateur",N,N,80
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 55","Sault Ste. Marie",N,N,"",3,421,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,9
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 55","Sault Ste. Marie",N,N,"",3,421,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 55","Sault Ste. Marie",N,N,"",3,421,"Sheehan","","Terry","Liberal","Libéral",Y,Y,53
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 55","Sault Ste. Marie",N,N,"",3,421,"Spina","","Sonny","Conservative","Conservateur",N,N,92
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 56","Sault Ste. Marie",N,N,"",1,558,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,17
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 56","Sault Ste. Marie",N,N,"",1,558,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 56","Sault Ste. Marie",N,N,"",1,558,"Sheehan","","Terry","Liberal","Libéral",Y,Y,65
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 56","Sault Ste. Marie",N,N,"",1,558,"Spina","","Sonny","Conservative","Conservateur",N,N,68
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 57","Sault Ste. Marie",N,N,"",0,359,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,14
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 57","Sault Ste. Marie",N,N,"",0,359,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 57","Sault Ste. Marie",N,N,"",0,359,"Sheehan","","Terry","Liberal","Libéral",Y,Y,47
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 57","Sault Ste. Marie",N,N,"",0,359,"Spina","","Sonny","Conservative","Conservateur",N,N,38
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 58","Sault Ste. Marie",N,N,"",0,262,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 58","Sault Ste. Marie",N,N,"",0,262,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 58","Sault Ste. Marie",N,N,"",0,262,"Sheehan","","Terry","Liberal","Libéral",Y,Y,48
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 58","Sault Ste. Marie",N,N,"",0,262,"Spina","","Sonny","Conservative","Conservateur",N,N,32
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 59","Sault Ste. Marie",N,N,"",3,447,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,10
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 59","Sault Ste. Marie",N,N,"",3,447,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 59","Sault Ste. Marie",N,N,"",3,447,"Sheehan","","Terry","Liberal","Libéral",Y,Y,72
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 59","Sault Ste. Marie",N,N,"",3,447,"Spina","","Sonny","Conservative","Conservateur",N,N,76
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 60","Sault Ste. Marie",N,N,"",2,451,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 60","Sault Ste. Marie",N,N,"",2,451,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 60","Sault Ste. Marie",N,N,"",2,451,"Sheehan","","Terry","Liberal","Libéral",Y,Y,87
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 60","Sault Ste. Marie",N,N,"",2,451,"Spina","","Sonny","Conservative","Conservateur",N,N,73
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 61","Sault Ste. Marie",N,N,"",0,373,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,10
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 61","Sault Ste. Marie",N,N,"",0,373,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 61","Sault Ste. Marie",N,N,"",0,373,"Sheehan","","Terry","Liberal","Libéral",Y,Y,81
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 61","Sault Ste. Marie",N,N,"",0,373,"Spina","","Sonny","Conservative","Conservateur",N,N,69
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 62","Sault Ste. Marie",N,N,"",0,366,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 62","Sault Ste. Marie",N,N,"",0,366,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 62","Sault Ste. Marie",N,N,"",0,366,"Sheehan","","Terry","Liberal","Libéral",Y,Y,72
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 62","Sault Ste. Marie",N,N,"",0,366,"Spina","","Sonny","Conservative","Conservateur",N,N,61
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 63","Sault Ste. Marie",N,N,"",1,416,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,10
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 63","Sault Ste. Marie",N,N,"",1,416,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 63","Sault Ste. Marie",N,N,"",1,416,"Sheehan","","Terry","Liberal","Libéral",Y,Y,84
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 63","Sault Ste. Marie",N,N,"",1,416,"Spina","","Sonny","Conservative","Conservateur",N,N,80
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 64","Sault Ste. Marie",N,N,"",1,348,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,7
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 64","Sault Ste. Marie",N,N,"",1,348,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 64","Sault Ste. Marie",N,N,"",1,348,"Sheehan","","Terry","Liberal","Libéral",Y,Y,57
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 64","Sault Ste. Marie",N,N,"",1,348,"Spina","","Sonny","Conservative","Conservateur",N,N,67
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 65","Sault Ste. Marie",N,N,"",0,438,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,10
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 65","Sault Ste. Marie",N,N,"",0,438,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 65","Sault Ste. Marie",N,N,"",0,438,"Sheehan","","Terry","Liberal","Libéral",Y,Y,67
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 65","Sault Ste. Marie",N,N,"",0,438,"Spina","","Sonny","Conservative","Conservateur",N,N,73
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 66","Sault Ste. Marie",N,N,"",1,503,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,10
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 66","Sault Ste. Marie",N,N,"",1,503,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 66","Sault Ste. Marie",N,N,"",1,503,"Sheehan","","Terry","Liberal","Libéral",Y,Y,64
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 66","Sault Ste. Marie",N,N,"",1,503,"Spina","","Sonny","Conservative","Conservateur",N,N,102
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 67","Sault Ste. Marie",N,N,"",1,369,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,7
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 67","Sault Ste. Marie",N,N,"",1,369,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 67","Sault Ste. Marie",N,N,"",1,369,"Sheehan","","Terry","Liberal","Libéral",Y,Y,57
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 67","Sault Ste. Marie",N,N,"",1,369,"Spina","","Sonny","Conservative","Conservateur",N,N,37
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 68","Sault Ste. Marie",N,N,"",0,399,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,10
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 68","Sault Ste. Marie",N,N,"",0,399,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 68","Sault Ste. Marie",N,N,"",0,399,"Sheehan","","Terry","Liberal","Libéral",Y,Y,66
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 68","Sault Ste. Marie",N,N,"",0,399,"Spina","","Sonny","Conservative","Conservateur",N,N,90
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 69","Sault Ste. Marie",N,N,"",3,436,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,9
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 69","Sault Ste. Marie",N,N,"",3,436,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 69","Sault Ste. Marie",N,N,"",3,436,"Sheehan","","Terry","Liberal","Libéral",Y,Y,64
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 69","Sault Ste. Marie",N,N,"",3,436,"Spina","","Sonny","Conservative","Conservateur",N,N,72
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 70","Sault Ste. Marie",N,N,"",1,426,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,12
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 70","Sault Ste. Marie",N,N,"",1,426,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 70","Sault Ste. Marie",N,N,"",1,426,"Sheehan","","Terry","Liberal","Libéral",Y,Y,53
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 70","Sault Ste. Marie",N,N,"",1,426,"Spina","","Sonny","Conservative","Conservateur",N,N,73
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 71","Sault Ste. Marie",N,N,"",0,411,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 71","Sault Ste. Marie",N,N,"",0,411,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 71","Sault Ste. Marie",N,N,"",0,411,"Sheehan","","Terry","Liberal","Libéral",Y,Y,47
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 71","Sault Ste. Marie",N,N,"",0,411,"Spina","","Sonny","Conservative","Conservateur",N,N,52
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 72","Sault Ste. Marie",N,N,"",1,451,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 72","Sault Ste. Marie",N,N,"",1,451,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 72","Sault Ste. Marie",N,N,"",1,451,"Sheehan","","Terry","Liberal","Libéral",Y,Y,42
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 72","Sault Ste. Marie",N,N,"",1,451,"Spina","","Sonny","Conservative","Conservateur",N,N,70
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 73","Sault Ste. Marie",N,N,"",2,369,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,11
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 73","Sault Ste. Marie",N,N,"",2,369,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 73","Sault Ste. Marie",N,N,"",2,369,"Sheehan","","Terry","Liberal","Libéral",Y,Y,47
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 73","Sault Ste. Marie",N,N,"",2,369,"Spina","","Sonny","Conservative","Conservateur",N,N,45
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 74","Sault Ste. Marie",N,N,"",0,309,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 74","Sault Ste. Marie",N,N,"",0,309,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 74","Sault Ste. Marie",N,N,"",0,309,"Sheehan","","Terry","Liberal","Libéral",Y,Y,31
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 74","Sault Ste. Marie",N,N,"",0,309,"Spina","","Sonny","Conservative","Conservateur",N,N,31
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 75","Sault Ste. Marie",N,N,"",0,382,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,13
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 75","Sault Ste. Marie",N,N,"",0,382,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 75","Sault Ste. Marie",N,N,"",0,382,"Sheehan","","Terry","Liberal","Libéral",Y,Y,72
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 75","Sault Ste. Marie",N,N,"",0,382,"Spina","","Sonny","Conservative","Conservateur",N,N,45
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 76","Sault Ste. Marie",N,N,"",3,360,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 76","Sault Ste. Marie",N,N,"",3,360,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 76","Sault Ste. Marie",N,N,"",3,360,"Sheehan","","Terry","Liberal","Libéral",Y,Y,90
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 76","Sault Ste. Marie",N,N,"",3,360,"Spina","","Sonny","Conservative","Conservateur",N,N,42
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 77","Sault Ste. Marie",N,N,"",2,199,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 77","Sault Ste. Marie",N,N,"",2,199,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 77","Sault Ste. Marie",N,N,"",2,199,"Sheehan","","Terry","Liberal","Libéral",Y,Y,26
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 77","Sault Ste. Marie",N,N,"",2,199,"Spina","","Sonny","Conservative","Conservateur",N,N,25
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 78","Sault Ste. Marie",N,N,"",0,355,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 78","Sault Ste. Marie",N,N,"",0,355,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 78","Sault Ste. Marie",N,N,"",0,355,"Sheehan","","Terry","Liberal","Libéral",Y,Y,92
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 78","Sault Ste. Marie",N,N,"",0,355,"Spina","","Sonny","Conservative","Conservateur",N,N,48
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 79","Sault Ste. Marie",N,N,"",1,347,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,12
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 79","Sault Ste. Marie",N,N,"",1,347,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 79","Sault Ste. Marie",N,N,"",1,347,"Sheehan","","Terry","Liberal","Libéral",Y,Y,41
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 79","Sault Ste. Marie",N,N,"",1,347,"Spina","","Sonny","Conservative","Conservateur",N,N,39
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 80","Sault Ste. Marie",N,N,"",0,393,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 80","Sault Ste. Marie",N,N,"",0,393,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 80","Sault Ste. Marie",N,N,"",0,393,"Sheehan","","Terry","Liberal","Libéral",Y,Y,70
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 80","Sault Ste. Marie",N,N,"",0,393,"Spina","","Sonny","Conservative","Conservateur",N,N,71
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 81","Sault Ste. Marie",N,N,"",0,260,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,7
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 81","Sault Ste. Marie",N,N,"",0,260,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 81","Sault Ste. Marie",N,N,"",0,260,"Sheehan","","Terry","Liberal","Libéral",Y,Y,40
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 81","Sault Ste. Marie",N,N,"",0,260,"Spina","","Sonny","Conservative","Conservateur",N,N,47
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 82","Sault Ste. Marie",N,N,"",1,344,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 82","Sault Ste. Marie",N,N,"",1,344,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 82","Sault Ste. Marie",N,N,"",1,344,"Sheehan","","Terry","Liberal","Libéral",Y,Y,55
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 82","Sault Ste. Marie",N,N,"",1,344,"Spina","","Sonny","Conservative","Conservateur",N,N,57
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 83","Sault Ste. Marie",N,N,"",3,455,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,15
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 83","Sault Ste. Marie",N,N,"",3,455,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 83","Sault Ste. Marie",N,N,"",3,455,"Sheehan","","Terry","Liberal","Libéral",Y,Y,55
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 83","Sault Ste. Marie",N,N,"",3,455,"Spina","","Sonny","Conservative","Conservateur",N,N,68
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 84","Sault Ste. Marie",N,N,"",0,383,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,24
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 84","Sault Ste. Marie",N,N,"",0,383,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 84","Sault Ste. Marie",N,N,"",0,383,"Sheehan","","Terry","Liberal","Libéral",Y,Y,41
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 84","Sault Ste. Marie",N,N,"",0,383,"Spina","","Sonny","Conservative","Conservateur",N,N,68
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 85","Sault Ste. Marie",N,N,"",1,347,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 85","Sault Ste. Marie",N,N,"",1,347,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 85","Sault Ste. Marie",N,N,"",1,347,"Sheehan","","Terry","Liberal","Libéral",Y,Y,46
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 85","Sault Ste. Marie",N,N,"",1,347,"Spina","","Sonny","Conservative","Conservateur",N,N,55
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 86","Sault Ste. Marie",N,N,"",2,457,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 86","Sault Ste. Marie",N,N,"",2,457,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 86","Sault Ste. Marie",N,N,"",2,457,"Sheehan","","Terry","Liberal","Libéral",Y,Y,48
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 86","Sault Ste. Marie",N,N,"",2,457,"Spina","","Sonny","Conservative","Conservateur",N,N,42
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 87","Sault Ste. Marie",N,N,"",0,458,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,12
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 87","Sault Ste. Marie",N,N,"",0,458,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 87","Sault Ste. Marie",N,N,"",0,458,"Sheehan","","Terry","Liberal","Libéral",Y,Y,49
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 87","Sault Ste. Marie",N,N,"",0,458,"Spina","","Sonny","Conservative","Conservateur",N,N,63
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 88","Sault Ste. Marie",N,N,"",0,329,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,7
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 88","Sault Ste. Marie",N,N,"",0,329,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 88","Sault Ste. Marie",N,N,"",0,329,"Sheehan","","Terry","Liberal","Libéral",Y,Y,41
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 88","Sault Ste. Marie",N,N,"",0,329,"Spina","","Sonny","Conservative","Conservateur",N,N,31
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 89","Sault Ste. Marie",N,N,"",3,544,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 89","Sault Ste. Marie",N,N,"",3,544,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 89","Sault Ste. Marie",N,N,"",3,544,"Sheehan","","Terry","Liberal","Libéral",Y,Y,104
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 89","Sault Ste. Marie",N,N,"",3,544,"Spina","","Sonny","Conservative","Conservateur",N,N,77
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 90","Sault Ste. Marie",N,N,"",0,350,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 90","Sault Ste. Marie",N,N,"",0,350,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 90","Sault Ste. Marie",N,N,"",0,350,"Sheehan","","Terry","Liberal","Libéral",Y,Y,45
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 90","Sault Ste. Marie",N,N,"",0,350,"Spina","","Sonny","Conservative","Conservateur",N,N,47
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 91","Sault Ste. Marie",N,N,"",0,273,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 91","Sault Ste. Marie",N,N,"",0,273,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 91","Sault Ste. Marie",N,N,"",0,273,"Sheehan","","Terry","Liberal","Libéral",Y,Y,36
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 91","Sault Ste. Marie",N,N,"",0,273,"Spina","","Sonny","Conservative","Conservateur",N,N,30
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 92","Sault Ste. Marie",N,N,"",0,379,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 92","Sault Ste. Marie",N,N,"",0,379,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 92","Sault Ste. Marie",N,N,"",0,379,"Sheehan","","Terry","Liberal","Libéral",Y,Y,79
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 92","Sault Ste. Marie",N,N,"",0,379,"Spina","","Sonny","Conservative","Conservateur",N,N,58
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 93","Sault Ste. Marie",N,N,"",1,449,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,14
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 93","Sault Ste. Marie",N,N,"",1,449,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 93","Sault Ste. Marie",N,N,"",1,449,"Sheehan","","Terry","Liberal","Libéral",Y,Y,66
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 93","Sault Ste. Marie",N,N,"",1,449,"Spina","","Sonny","Conservative","Conservateur",N,N,84
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 94","Sault Ste. Marie",N,N,"",3,448,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 94","Sault Ste. Marie",N,N,"",3,448,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 94","Sault Ste. Marie",N,N,"",3,448,"Sheehan","","Terry","Liberal","Libéral",Y,Y,87
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 94","Sault Ste. Marie",N,N,"",3,448,"Spina","","Sonny","Conservative","Conservateur",N,N,77
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 95","Sault Ste. Marie",N,N,"",2,430,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,11
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 95","Sault Ste. Marie",N,N,"",2,430,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 95","Sault Ste. Marie",N,N,"",2,430,"Sheehan","","Terry","Liberal","Libéral",Y,Y,73
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 95","Sault Ste. Marie",N,N,"",2,430,"Spina","","Sonny","Conservative","Conservateur",N,N,67
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 96","Sault Ste. Marie",N,N,"",0,440,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,12
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 96","Sault Ste. Marie",N,N,"",0,440,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 96","Sault Ste. Marie",N,N,"",0,440,"Sheehan","","Terry","Liberal","Libéral",Y,Y,58
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 96","Sault Ste. Marie",N,N,"",0,440,"Spina","","Sonny","Conservative","Conservateur",N,N,69
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 97","Sault Ste. Marie",N,N,"",1,409,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 97","Sault Ste. Marie",N,N,"",1,409,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 97","Sault Ste. Marie",N,N,"",1,409,"Sheehan","","Terry","Liberal","Libéral",Y,Y,79
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 97","Sault Ste. Marie",N,N,"",1,409,"Spina","","Sonny","Conservative","Conservateur",N,N,73
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 98","Sault Ste. Marie",N,N,"",0,294,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 98","Sault Ste. Marie",N,N,"",0,294,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 98","Sault Ste. Marie",N,N,"",0,294,"Sheehan","","Terry","Liberal","Libéral",Y,Y,53
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 98","Sault Ste. Marie",N,N,"",0,294,"Spina","","Sonny","Conservative","Conservateur",N,N,29
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 99","Sault Ste. Marie",N,N,"",2,481,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 99","Sault Ste. Marie",N,N,"",2,481,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 99","Sault Ste. Marie",N,N,"",2,481,"Sheehan","","Terry","Liberal","Libéral",Y,Y,98
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 99","Sault Ste. Marie",N,N,"",2,481,"Spina","","Sonny","Conservative","Conservateur",N,N,104
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 100","Sault Ste. Marie",N,N,"",0,407,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,12
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 100","Sault Ste. Marie",N,N,"",0,407,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 100","Sault Ste. Marie",N,N,"",0,407,"Sheehan","","Terry","Liberal","Libéral",Y,Y,43
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 100","Sault Ste. Marie",N,N,"",0,407,"Spina","","Sonny","Conservative","Conservateur",N,N,32
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 101","Sault Ste. Marie",N,N,"",0,375,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 101","Sault Ste. Marie",N,N,"",0,375,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 101","Sault Ste. Marie",N,N,"",0,375,"Sheehan","","Terry","Liberal","Libéral",Y,Y,86
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 101","Sault Ste. Marie",N,N,"",0,375,"Spina","","Sonny","Conservative","Conservateur",N,N,54
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 102","Sault Ste. Marie",N,N,"",2,391,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,11
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 102","Sault Ste. Marie",N,N,"",2,391,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 102","Sault Ste. Marie",N,N,"",2,391,"Sheehan","","Terry","Liberal","Libéral",Y,Y,63
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 102","Sault Ste. Marie",N,N,"",2,391,"Spina","","Sonny","Conservative","Conservateur",N,N,54
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 103","Sault Ste. Marie",N,N,"",1,379,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,11
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 103","Sault Ste. Marie",N,N,"",1,379,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 103","Sault Ste. Marie",N,N,"",1,379,"Sheehan","","Terry","Liberal","Libéral",Y,Y,50
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 103","Sault Ste. Marie",N,N,"",1,379,"Spina","","Sonny","Conservative","Conservateur",N,N,61
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 104","Sault Ste. Marie",N,N,"",0,544,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,10
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 104","Sault Ste. Marie",N,N,"",0,544,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 104","Sault Ste. Marie",N,N,"",0,544,"Sheehan","","Terry","Liberal","Libéral",Y,Y,56
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 104","Sault Ste. Marie",N,N,"",0,544,"Spina","","Sonny","Conservative","Conservateur",N,N,49
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 105","Sault Ste. Marie",N,N,"",0,401,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 105","Sault Ste. Marie",N,N,"",0,401,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 105","Sault Ste. Marie",N,N,"",0,401,"Sheehan","","Terry","Liberal","Libéral",Y,Y,44
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 105","Sault Ste. Marie",N,N,"",0,401,"Spina","","Sonny","Conservative","Conservateur",N,N,52
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 106","Sault Ste. Marie",N,N,"",1,290,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 106","Sault Ste. Marie",N,N,"",1,290,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 106","Sault Ste. Marie",N,N,"",1,290,"Sheehan","","Terry","Liberal","Libéral",Y,Y,47
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 106","Sault Ste. Marie",N,N,"",1,290,"Spina","","Sonny","Conservative","Conservateur",N,N,37
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 107","Sault Ste. Marie",N,N,"",1,355,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 107","Sault Ste. Marie",N,N,"",1,355,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 107","Sault Ste. Marie",N,N,"",1,355,"Sheehan","","Terry","Liberal","Libéral",Y,Y,35
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 107","Sault Ste. Marie",N,N,"",1,355,"Spina","","Sonny","Conservative","Conservateur",N,N,38
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 108","Sault Ste. Marie",N,N,"",0,383,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,12
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 108","Sault Ste. Marie",N,N,"",0,383,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 108","Sault Ste. Marie",N,N,"",0,383,"Sheehan","","Terry","Liberal","Libéral",Y,Y,30
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 108","Sault Ste. Marie",N,N,"",0,383,"Spina","","Sonny","Conservative","Conservateur",N,N,39
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 109","Sault Ste. Marie",N,N,"",0,320,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,7
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 109","Sault Ste. Marie",N,N,"",0,320,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 109","Sault Ste. Marie",N,N,"",0,320,"Sheehan","","Terry","Liberal","Libéral",Y,Y,29
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 109","Sault Ste. Marie",N,N,"",0,320,"Spina","","Sonny","Conservative","Conservateur",N,N,29
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 110","Sault Ste. Marie",N,N,"",0,317,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 110","Sault Ste. Marie",N,N,"",0,317,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 110","Sault Ste. Marie",N,N,"",0,317,"Sheehan","","Terry","Liberal","Libéral",Y,Y,42
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 110","Sault Ste. Marie",N,N,"",0,317,"Spina","","Sonny","Conservative","Conservateur",N,N,31
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 111","Sault Ste. Marie",N,N,"",0,329,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 111","Sault Ste. Marie",N,N,"",0,329,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 111","Sault Ste. Marie",N,N,"",0,329,"Sheehan","","Terry","Liberal","Libéral",Y,Y,40
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 111","Sault Ste. Marie",N,N,"",0,329,"Spina","","Sonny","Conservative","Conservateur",N,N,45
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 112","Sault Ste. Marie",N,N,"",0,366,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 112","Sault Ste. Marie",N,N,"",0,366,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 112","Sault Ste. Marie",N,N,"",0,366,"Sheehan","","Terry","Liberal","Libéral",Y,Y,84
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 112","Sault Ste. Marie",N,N,"",0,366,"Spina","","Sonny","Conservative","Conservateur",N,N,70
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 113","Sault Ste. Marie",N,N,"",1,367,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,9
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 113","Sault Ste. Marie",N,N,"",1,367,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 113","Sault Ste. Marie",N,N,"",1,367,"Sheehan","","Terry","Liberal","Libéral",Y,Y,55
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 113","Sault Ste. Marie",N,N,"",1,367,"Spina","","Sonny","Conservative","Conservateur",N,N,44
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 114","Sault Ste. Marie",N,N,"",2,321,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 114","Sault Ste. Marie",N,N,"",2,321,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 114","Sault Ste. Marie",N,N,"",2,321,"Sheehan","","Terry","Liberal","Libéral",Y,Y,61
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 114","Sault Ste. Marie",N,N,"",2,321,"Spina","","Sonny","Conservative","Conservateur",N,N,37
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 115","Sault Ste. Marie",N,N,"",0,328,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,15
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 115","Sault Ste. Marie",N,N,"",0,328,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 115","Sault Ste. Marie",N,N,"",0,328,"Sheehan","","Terry","Liberal","Libéral",Y,Y,49
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 115","Sault Ste. Marie",N,N,"",0,328,"Spina","","Sonny","Conservative","Conservateur",N,N,43
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 116","Sault Ste. Marie",N,N,"",0,361,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 116","Sault Ste. Marie",N,N,"",0,361,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 116","Sault Ste. Marie",N,N,"",0,361,"Sheehan","","Terry","Liberal","Libéral",Y,Y,95
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 116","Sault Ste. Marie",N,N,"",0,361,"Spina","","Sonny","Conservative","Conservateur",N,N,58
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 117","Sault Ste. Marie",N,N,"",4,416,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 117","Sault Ste. Marie",N,N,"",4,416,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 117","Sault Ste. Marie",N,N,"",4,416,"Sheehan","","Terry","Liberal","Libéral",Y,Y,70
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 117","Sault Ste. Marie",N,N,"",4,416,"Spina","","Sonny","Conservative","Conservateur",N,N,68
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 118","Sault Ste. Marie",N,N,"",0,436,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,10
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 118","Sault Ste. Marie",N,N,"",0,436,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 118","Sault Ste. Marie",N,N,"",0,436,"Sheehan","","Terry","Liberal","Libéral",Y,Y,64
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 118","Sault Ste. Marie",N,N,"",0,436,"Spina","","Sonny","Conservative","Conservateur",N,N,66
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 119","Sault Ste. Marie",N,N,"",0,454,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,9
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 119","Sault Ste. Marie",N,N,"",0,454,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 119","Sault Ste. Marie",N,N,"",0,454,"Sheehan","","Terry","Liberal","Libéral",Y,Y,45
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 119","Sault Ste. Marie",N,N,"",0,454,"Spina","","Sonny","Conservative","Conservateur",N,N,71
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 120","Sault Ste. Marie",N,N,"",1,486,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,14
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 120","Sault Ste. Marie",N,N,"",1,486,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 120","Sault Ste. Marie",N,N,"",1,486,"Sheehan","","Terry","Liberal","Libéral",Y,Y,39
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 120","Sault Ste. Marie",N,N,"",1,486,"Spina","","Sonny","Conservative","Conservateur",N,N,50
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 121","Sault Ste. Marie",N,N,"",3,444,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,12
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 121","Sault Ste. Marie",N,N,"",3,444,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 121","Sault Ste. Marie",N,N,"",3,444,"Sheehan","","Terry","Liberal","Libéral",Y,Y,38
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 121","Sault Ste. Marie",N,N,"",3,444,"Spina","","Sonny","Conservative","Conservateur",N,N,55
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 122","Sault Ste. Marie",N,N,"",0,411,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,7
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 122","Sault Ste. Marie",N,N,"",0,411,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 122","Sault Ste. Marie",N,N,"",0,411,"Sheehan","","Terry","Liberal","Libéral",Y,Y,26
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 122","Sault Ste. Marie",N,N,"",0,411,"Spina","","Sonny","Conservative","Conservateur",N,N,27
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 123","Sault Ste. Marie",N,N,"",0,373,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,10
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 123","Sault Ste. Marie",N,N,"",0,373,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 123","Sault Ste. Marie",N,N,"",0,373,"Sheehan","","Terry","Liberal","Libéral",Y,Y,38
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 123","Sault Ste. Marie",N,N,"",0,373,"Spina","","Sonny","Conservative","Conservateur",N,N,28
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 124","Sault Ste. Marie",N,N,"",0,302,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 124","Sault Ste. Marie",N,N,"",0,302,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 124","Sault Ste. Marie",N,N,"",0,302,"Sheehan","","Terry","Liberal","Libéral",Y,Y,16
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 124","Sault Ste. Marie",N,N,"",0,302,"Spina","","Sonny","Conservative","Conservateur",N,N,20
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 125","Sault Ste. Marie",N,N,"",2,484,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,14
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 125","Sault Ste. Marie",N,N,"",2,484,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 125","Sault Ste. Marie",N,N,"",2,484,"Sheehan","","Terry","Liberal","Libéral",Y,Y,67
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 125","Sault Ste. Marie",N,N,"",2,484,"Spina","","Sonny","Conservative","Conservateur",N,N,74
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 126","Sault Ste. Marie",N,N,"",0,440,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,14
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 126","Sault Ste. Marie",N,N,"",0,440,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 126","Sault Ste. Marie",N,N,"",0,440,"Sheehan","","Terry","Liberal","Libéral",Y,Y,81
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 126","Sault Ste. Marie",N,N,"",0,440,"Spina","","Sonny","Conservative","Conservateur",N,N,87
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 127","Sault Ste. Marie",N,N,"",0,452,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,10
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 127","Sault Ste. Marie",N,N,"",0,452,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 127","Sault Ste. Marie",N,N,"",0,452,"Sheehan","","Terry","Liberal","Libéral",Y,Y,38
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 127","Sault Ste. Marie",N,N,"",0,452,"Spina","","Sonny","Conservative","Conservateur",N,N,44
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 128","Sault Ste. Marie",N,N,"",1,404,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,25
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 128","Sault Ste. Marie",N,N,"",1,404,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 128","Sault Ste. Marie",N,N,"",1,404,"Sheehan","","Terry","Liberal","Libéral",Y,Y,28
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 128","Sault Ste. Marie",N,N,"",1,404,"Spina","","Sonny","Conservative","Conservateur",N,N,60
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 129","Sault Ste. Marie",N,N,"",2,452,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,19
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 129","Sault Ste. Marie",N,N,"",2,452,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 129","Sault Ste. Marie",N,N,"",2,452,"Sheehan","","Terry","Liberal","Libéral",Y,Y,25
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 129","Sault Ste. Marie",N,N,"",2,452,"Spina","","Sonny","Conservative","Conservateur",N,N,55
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 130","Sault Ste. Marie",N,N,"",5,418,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 130","Sault Ste. Marie",N,N,"",5,418,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 130","Sault Ste. Marie",N,N,"",5,418,"Sheehan","","Terry","Liberal","Libéral",Y,Y,75
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 130","Sault Ste. Marie",N,N,"",5,418,"Spina","","Sonny","Conservative","Conservateur",N,N,84
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 131","Sault Ste. Marie",N,N,"",1,338,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,11
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 131","Sault Ste. Marie",N,N,"",1,338,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 131","Sault Ste. Marie",N,N,"",1,338,"Sheehan","","Terry","Liberal","Libéral",Y,Y,83
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 131","Sault Ste. Marie",N,N,"",1,338,"Spina","","Sonny","Conservative","Conservateur",N,N,72
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 132","Sault Ste. Marie",N,N,"",0,307,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 132","Sault Ste. Marie",N,N,"",0,307,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 132","Sault Ste. Marie",N,N,"",0,307,"Sheehan","","Terry","Liberal","Libéral",Y,Y,70
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 132","Sault Ste. Marie",N,N,"",0,307,"Spina","","Sonny","Conservative","Conservateur",N,N,62
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 133","Sault Ste. Marie",N,N,"",0,419,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 133","Sault Ste. Marie",N,N,"",0,419,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 133","Sault Ste. Marie",N,N,"",0,419,"Sheehan","","Terry","Liberal","Libéral",Y,Y,76
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 133","Sault Ste. Marie",N,N,"",0,419,"Spina","","Sonny","Conservative","Conservateur",N,N,60
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 134","Sault Ste. Marie",N,N,"",0,420,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 134","Sault Ste. Marie",N,N,"",0,420,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 134","Sault Ste. Marie",N,N,"",0,420,"Sheehan","","Terry","Liberal","Libéral",Y,Y,66
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 134","Sault Ste. Marie",N,N,"",0,420,"Spina","","Sonny","Conservative","Conservateur",N,N,82
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 135","Sault Ste. Marie",N,N,"",0,454,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,5
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 135","Sault Ste. Marie",N,N,"",0,454,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 135","Sault Ste. Marie",N,N,"",0,454,"Sheehan","","Terry","Liberal","Libéral",Y,Y,92
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 135","Sault Ste. Marie",N,N,"",0,454,"Spina","","Sonny","Conservative","Conservateur",N,N,62
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 136","Sault Ste. Marie",N,N,"",0,379,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,9
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 136","Sault Ste. Marie",N,N,"",0,379,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 136","Sault Ste. Marie",N,N,"",0,379,"Sheehan","","Terry","Liberal","Libéral",Y,Y,68
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 136","Sault Ste. Marie",N,N,"",0,379,"Spina","","Sonny","Conservative","Conservateur",N,N,69
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 137","Sault Ste. Marie",N,N,"",0,382,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 137","Sault Ste. Marie",N,N,"",0,382,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 137","Sault Ste. Marie",N,N,"",0,382,"Sheehan","","Terry","Liberal","Libéral",Y,Y,61
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 137","Sault Ste. Marie",N,N,"",0,382,"Spina","","Sonny","Conservative","Conservateur",N,N,69
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 138","Sault Ste. Marie",N,N,"",0,369,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 138","Sault Ste. Marie",N,N,"",0,369,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 138","Sault Ste. Marie",N,N,"",0,369,"Sheehan","","Terry","Liberal","Libéral",Y,Y,35
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 138","Sault Ste. Marie",N,N,"",0,369,"Spina","","Sonny","Conservative","Conservateur",N,N,25
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 139","Sault Ste. Marie",N,N,"",0,341,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,9
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 139","Sault Ste. Marie",N,N,"",0,341,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 139","Sault Ste. Marie",N,N,"",0,341,"Sheehan","","Terry","Liberal","Libéral",Y,Y,64
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 139","Sault Ste. Marie",N,N,"",0,341,"Spina","","Sonny","Conservative","Conservateur",N,N,29
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 140","Sault Ste. Marie",N,N,"",0,381,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,7
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 140","Sault Ste. Marie",N,N,"",0,381,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 140","Sault Ste. Marie",N,N,"",0,381,"Sheehan","","Terry","Liberal","Libéral",Y,Y,78
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 140","Sault Ste. Marie",N,N,"",0,381,"Spina","","Sonny","Conservative","Conservateur",N,N,25
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 141","Sault Ste. Marie",N,N,"",3,471,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,16
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 141","Sault Ste. Marie",N,N,"",3,471,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 141","Sault Ste. Marie",N,N,"",3,471,"Sheehan","","Terry","Liberal","Libéral",Y,Y,63
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 141","Sault Ste. Marie",N,N,"",3,471,"Spina","","Sonny","Conservative","Conservateur",N,N,45
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 142","Sault Ste. Marie",N,N,"",0,395,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,12
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 142","Sault Ste. Marie",N,N,"",0,395,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 142","Sault Ste. Marie",N,N,"",0,395,"Sheehan","","Terry","Liberal","Libéral",Y,Y,97
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 142","Sault Ste. Marie",N,N,"",0,395,"Spina","","Sonny","Conservative","Conservateur",N,N,42
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 143","Sault Ste. Marie",N,N,"",1,392,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 143","Sault Ste. Marie",N,N,"",1,392,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 143","Sault Ste. Marie",N,N,"",1,392,"Sheehan","","Terry","Liberal","Libéral",Y,Y,58
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 143","Sault Ste. Marie",N,N,"",1,392,"Spina","","Sonny","Conservative","Conservateur",N,N,44
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 144","Sault Ste. Marie",N,N,"",0,384,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 144","Sault Ste. Marie",N,N,"",0,384,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 144","Sault Ste. Marie",N,N,"",0,384,"Sheehan","","Terry","Liberal","Libéral",Y,Y,67
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 144","Sault Ste. Marie",N,N,"",0,384,"Spina","","Sonny","Conservative","Conservateur",N,N,48
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 145","Sault Ste. Marie",N,N,"",2,515,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,13
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 145","Sault Ste. Marie",N,N,"",2,515,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,80
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 145","Sault Ste. Marie",N,N,"",2,515,"Sheehan","","Terry","Liberal","Libéral",Y,Y,55
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 145","Sault Ste. Marie",N,N,"",2,515,"Spina","","Sonny","Conservative","Conservateur",N,N,37
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 146","Sault Ste. Marie",N,N,"",0,541,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,13
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 146","Sault Ste. Marie",N,N,"",0,541,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 146","Sault Ste. Marie",N,N,"",0,541,"Sheehan","","Terry","Liberal","Libéral",Y,Y,53
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 146","Sault Ste. Marie",N,N,"",0,541,"Spina","","Sonny","Conservative","Conservateur",N,N,31
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 147","Sault Ste. Marie",N,N,"",0,450,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,13
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 147","Sault Ste. Marie",N,N,"",0,450,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 147","Sault Ste. Marie",N,N,"",0,450,"Sheehan","","Terry","Liberal","Libéral",Y,Y,116
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 147","Sault Ste. Marie",N,N,"",0,450,"Spina","","Sonny","Conservative","Conservateur",N,N,54
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 148","Sault Ste. Marie",N,N,"",0,320,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 148","Sault Ste. Marie",N,N,"",0,320,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 148","Sault Ste. Marie",N,N,"",0,320,"Sheehan","","Terry","Liberal","Libéral",Y,Y,37
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 148","Sault Ste. Marie",N,N,"",0,320,"Spina","","Sonny","Conservative","Conservateur",N,N,50
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 149","Sault Ste. Marie",N,N,"",0,256,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 149","Sault Ste. Marie",N,N,"",0,256,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 149","Sault Ste. Marie",N,N,"",0,256,"Sheehan","","Terry","Liberal","Libéral",Y,Y,40
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 149","Sault Ste. Marie",N,N,"",0,256,"Spina","","Sonny","Conservative","Conservateur",N,N,36
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 150","Sault Ste. Marie",N,N,"",2,371,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 150","Sault Ste. Marie",N,N,"",2,371,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 150","Sault Ste. Marie",N,N,"",2,371,"Sheehan","","Terry","Liberal","Libéral",Y,Y,49
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 150","Sault Ste. Marie",N,N,"",2,371,"Spina","","Sonny","Conservative","Conservateur",N,N,40
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 151","Sault Ste. Marie",N,N,"",2,337,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,9
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 151","Sault Ste. Marie",N,N,"",2,337,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 151","Sault Ste. Marie",N,N,"",2,337,"Sheehan","","Terry","Liberal","Libéral",Y,Y,52
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 151","Sault Ste. Marie",N,N,"",2,337,"Spina","","Sonny","Conservative","Conservateur",N,N,54
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 152","Sault Ste. Marie",N,N,"",0,409,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 152","Sault Ste. Marie",N,N,"",0,409,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 152","Sault Ste. Marie",N,N,"",0,409,"Sheehan","","Terry","Liberal","Libéral",Y,Y,78
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 152","Sault Ste. Marie",N,N,"",0,409,"Spina","","Sonny","Conservative","Conservateur",N,N,51
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 153","Sault Ste. Marie",N,N,"",0,367,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,4
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 153","Sault Ste. Marie",N,N,"",0,367,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 153","Sault Ste. Marie",N,N,"",0,367,"Sheehan","","Terry","Liberal","Libéral",Y,Y,62
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 153","Sault Ste. Marie",N,N,"",0,367,"Spina","","Sonny","Conservative","Conservateur",N,N,56
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 154","Sault Ste. Marie",N,N,"",0,509,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 154","Sault Ste. Marie",N,N,"",0,509,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 154","Sault Ste. Marie",N,N,"",0,509,"Sheehan","","Terry","Liberal","Libéral",Y,Y,89
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 154","Sault Ste. Marie",N,N,"",0,509,"Spina","","Sonny","Conservative","Conservateur",N,N,76
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 155","Sault Ste. Marie",N,N,"",0,358,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 155","Sault Ste. Marie",N,N,"",0,358,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 155","Sault Ste. Marie",N,N,"",0,358,"Sheehan","","Terry","Liberal","Libéral",Y,Y,76
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 155","Sault Ste. Marie",N,N,"",0,358,"Spina","","Sonny","Conservative","Conservateur",N,N,51
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 156","Sault Ste. Marie",N,N,"",0,448,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,10
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 156","Sault Ste. Marie",N,N,"",0,448,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 156","Sault Ste. Marie",N,N,"",0,448,"Sheehan","","Terry","Liberal","Libéral",Y,Y,45
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 156","Sault Ste. Marie",N,N,"",0,448,"Spina","","Sonny","Conservative","Conservateur",N,N,45
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 157","Sault Ste. Marie",N,N,"",0,334,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,7
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 157","Sault Ste. Marie",N,N,"",0,334,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 157","Sault Ste. Marie",N,N,"",0,334,"Sheehan","","Terry","Liberal","Libéral",Y,Y,113
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 157","Sault Ste. Marie",N,N,"",0,334,"Spina","","Sonny","Conservative","Conservateur",N,N,48
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 158","Sault Ste. Marie",N,N,"",2,428,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,11
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 158","Sault Ste. Marie",N,N,"",2,428,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 158","Sault Ste. Marie",N,N,"",2,428,"Sheehan","","Terry","Liberal","Libéral",Y,Y,114
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 158","Sault Ste. Marie",N,N,"",2,428,"Spina","","Sonny","Conservative","Conservateur",N,N,49
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 159","Sault Ste. Marie",N,N,"",1,516,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 159","Sault Ste. Marie",N,N,"",1,516,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 159","Sault Ste. Marie",N,N,"",1,516,"Sheehan","","Terry","Liberal","Libéral",Y,Y,100
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 159","Sault Ste. Marie",N,N,"",1,516,"Spina","","Sonny","Conservative","Conservateur",N,N,76
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 160","Sault Ste. Marie",N,N,"",0,429,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,11
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 160","Sault Ste. Marie",N,N,"",0,429,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 160","Sault Ste. Marie",N,N,"",0,429,"Sheehan","","Terry","Liberal","Libéral",Y,Y,55
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 160","Sault Ste. Marie",N,N,"",0,429,"Spina","","Sonny","Conservative","Conservateur",N,N,81
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 161","Sault Ste. Marie",N,N,"",0,384,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,13
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 161","Sault Ste. Marie",N,N,"",0,384,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 161","Sault Ste. Marie",N,N,"",0,384,"Sheehan","","Terry","Liberal","Libéral",Y,Y,55
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 161","Sault Ste. Marie",N,N,"",0,384,"Spina","","Sonny","Conservative","Conservateur",N,N,103
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 162","Sault Ste. Marie",N,N,"",0,425,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 162","Sault Ste. Marie",N,N,"",0,425,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 162","Sault Ste. Marie",N,N,"",0,425,"Sheehan","","Terry","Liberal","Libéral",Y,Y,73
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 162","Sault Ste. Marie",N,N,"",0,425,"Spina","","Sonny","Conservative","Conservateur",N,N,109
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 400","Mobile poll/Bureau itinérant",N,N,"",4,219,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 400","Mobile poll/Bureau itinérant",N,N,"",4,219,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 400","Mobile poll/Bureau itinérant",N,N,"",4,219,"Sheehan","","Terry","Liberal","Libéral",Y,Y,40
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 400","Mobile poll/Bureau itinérant",N,N,"",4,219,"Spina","","Sonny","Conservative","Conservateur",N,N,18
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 500","Mobile poll/Bureau itinérant",N,N,"32",0,25,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 500","Mobile poll/Bureau itinérant",N,N,"32",0,25,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 500","Mobile poll/Bureau itinérant",N,N,"32",0,25,"Sheehan","","Terry","Liberal","Libéral",Y,Y,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 500","Mobile poll/Bureau itinérant",N,N,"32",0,25,"Spina","","Sonny","Conservative","Conservateur",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 501","Mobile poll/Bureau itinérant",N,N,"",1,100,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 501","Mobile poll/Bureau itinérant",N,N,"",1,100,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 501","Mobile poll/Bureau itinérant",N,N,"",1,100,"Sheehan","","Terry","Liberal","Libéral",Y,Y,41
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 501","Mobile poll/Bureau itinérant",N,N,"",1,100,"Spina","","Sonny","Conservative","Conservateur",N,N,14
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 502","Mobile poll/Bureau itinérant",N,N,"34",0,11,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 502","Mobile poll/Bureau itinérant",N,N,"34",0,11,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 502","Mobile poll/Bureau itinérant",N,N,"34",0,11,"Sheehan","","Terry","Liberal","Libéral",Y,Y,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 502","Mobile poll/Bureau itinérant",N,N,"34",0,11,"Spina","","Sonny","Conservative","Conservateur",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 503","Mobile poll/Bureau itinérant",N,N,"",5,102,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 503","Mobile poll/Bureau itinérant",N,N,"",5,102,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 503","Mobile poll/Bureau itinérant",N,N,"",5,102,"Sheehan","","Terry","Liberal","Libéral",Y,Y,30
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 503","Mobile poll/Bureau itinérant",N,N,"",5,102,"Spina","","Sonny","Conservative","Conservateur",N,N,14
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 504","Mobile poll/Bureau itinérant",N,N,"40",0,45,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 504","Mobile poll/Bureau itinérant",N,N,"40",0,45,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 504","Mobile poll/Bureau itinérant",N,N,"40",0,45,"Sheehan","","Terry","Liberal","Libéral",Y,Y,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 504","Mobile poll/Bureau itinérant",N,N,"40",0,45,"Spina","","Sonny","Conservative","Conservateur",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 505","Mobile poll/Bureau itinérant",N,N,"",4,146,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 505","Mobile poll/Bureau itinérant",N,N,"",4,146,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 505","Mobile poll/Bureau itinérant",N,N,"",4,146,"Sheehan","","Terry","Liberal","Libéral",Y,Y,35
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 505","Mobile poll/Bureau itinérant",N,N,"",4,146,"Spina","","Sonny","Conservative","Conservateur",N,N,21
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 506","Mobile poll/Bureau itinérant",N,N,"",6,160,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,2
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 506","Mobile poll/Bureau itinérant",N,N,"",6,160,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 506","Mobile poll/Bureau itinérant",N,N,"",6,160,"Sheehan","","Terry","Liberal","Libéral",Y,Y,33
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 506","Mobile poll/Bureau itinérant",N,N,"",6,160,"Spina","","Sonny","Conservative","Conservateur",N,N,11
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 507","Sault Ste. Marie",N,N,"72",0,25,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 507","Sault Ste. Marie",N,N,"72",0,25,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 507","Sault Ste. Marie",N,N,"72",0,25,"Sheehan","","Terry","Liberal","Libéral",Y,Y,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 507","Sault Ste. Marie",N,N,"72",0,25,"Spina","","Sonny","Conservative","Conservateur",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 508","Mobile poll/Bureau itinérant",N,N,"",2,55,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 508","Mobile poll/Bureau itinérant",N,N,"",2,55,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 508","Mobile poll/Bureau itinérant",N,N,"",2,55,"Sheehan","","Terry","Liberal","Libéral",Y,Y,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 508","Mobile poll/Bureau itinérant",N,N,"",2,55,"Spina","","Sonny","Conservative","Conservateur",N,N,3
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 509","Mobile poll/Bureau itinérant",N,N,"",5,84,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,1
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 509","Mobile poll/Bureau itinérant",N,N,"",5,84,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 509","Mobile poll/Bureau itinérant",N,N,"",5,84,"Sheehan","","Terry","Liberal","Libéral",Y,Y,29
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 509","Mobile poll/Bureau itinérant",N,N,"",5,84,"Spina","","Sonny","Conservative","Conservateur",N,N,13
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 510","Mobile poll/Bureau itinérant",N,N,"115",0,98,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 510","Mobile poll/Bureau itinérant",N,N,"115",0,98,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 510","Mobile poll/Bureau itinérant",N,N,"115",0,98,"Sheehan","","Terry","Liberal","Libéral",Y,Y,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 510","Mobile poll/Bureau itinérant",N,N,"115",0,98,"Spina","","Sonny","Conservative","Conservateur",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 511","Mobile poll/Bureau itinérant",N,N,"",5,103,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,0
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 511","Mobile poll/Bureau itinérant",N,N,"",5,103,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 511","Mobile poll/Bureau itinérant",N,N,"",5,103,"Sheehan","","Terry","Liberal","Libéral",Y,Y,52
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 511","Mobile poll/Bureau itinérant",N,N,"",5,103,"Spina","","Sonny","Conservative","Conservateur",N,N,18
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 600","Algoma",N,N,"",2,0,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,34
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 600","Algoma",N,N,"",2,0,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 600","Algoma",N,N,"",2,0,"Sheehan","","Terry","Liberal","Libéral",Y,Y,113
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 600","Algoma",N,N,"",2,0,"Spina","","Sonny","Conservative","Conservateur",N,N,191
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 601","Sault Ste. Marie",N,N,"",3,0,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,38
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 601","Sault Ste. Marie",N,N,"",3,0,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,110
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 601","Sault Ste. Marie",N,N,"",3,0,"Sheehan","","Terry","Liberal","Libéral",Y,Y,323
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 601","Sault Ste. Marie",N,N,"",3,0,"Spina","","Sonny","Conservative","Conservateur",N,N,512
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 602","Sault Ste. Marie",N,N,"",5,0,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,26
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 602","Sault Ste. Marie",N,N,"",5,0,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,115
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 602","Sault Ste. Marie",N,N,"",5,0,"Sheehan","","Terry","Liberal","Libéral",Y,Y,356
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 602","Sault Ste. Marie",N,N,"",5,0,"Spina","","Sonny","Conservative","Conservateur",N,N,308
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 603","Sault Ste. Marie",N,N,"",10,0,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,22
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 603","Sault Ste. Marie",N,N,"",10,0,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,119
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 603","Sault Ste. Marie",N,N,"",10,0,"Sheehan","","Terry","Liberal","Libéral",Y,Y,257
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 603","Sault Ste. Marie",N,N,"",10,0,"Spina","","Sonny","Conservative","Conservateur",N,N,223
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 604","Sault Ste. Marie",N,N,"",6,0,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,42
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 604","Sault Ste. Marie",N,N,"",6,0,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,161
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 604","Sault Ste. Marie",N,N,"",6,0,"Sheehan","","Terry","Liberal","Libéral",Y,Y,290
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 604","Sault Ste. Marie",N,N,"",6,0,"Spina","","Sonny","Conservative","Conservateur",N,N,209
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 605","Sault Ste. Marie",N,N,"",2,0,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,36
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 605","Sault Ste. Marie",N,N,"",2,0,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,115
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 605","Sault Ste. Marie",N,N,"",2,0,"Sheehan","","Terry","Liberal","Libéral",Y,Y,303
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 605","Sault Ste. Marie",N,N,"",2,0,"Spina","","Sonny","Conservative","Conservateur",N,N,317
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 606","Sault Ste. Marie",N,N,"",5,0,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,25
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 606","Sault Ste. Marie",N,N,"",5,0,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,104
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 606","Sault Ste. Marie",N,N,"",5,0,"Sheehan","","Terry","Liberal","Libéral",Y,Y,425
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 606","Sault Ste. Marie",N,N,"",5,0,"Spina","","Sonny","Conservative","Conservateur",N,N,408
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 607","Sault Ste. Marie",N,N,"",12,0,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,35
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 607","Sault Ste. Marie",N,N,"",12,0,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,136
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 607","Sault Ste. Marie",N,N,"",12,0,"Sheehan","","Terry","Liberal","Libéral",Y,Y,404
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 607","Sault Ste. Marie",N,N,"",12,0,"Spina","","Sonny","Conservative","Conservateur",N,N,363
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 608","Sault Ste. Marie",N,N,"",6,0,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,23
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 608","Sault Ste. Marie",N,N,"",6,0,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,95
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 608","Sault Ste. Marie",N,N,"",6,0,"Sheehan","","Terry","Liberal","Libéral",Y,Y,524
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 608","Sault Ste. Marie",N,N,"",6,0,"Spina","","Sonny","Conservative","Conservateur",N,N,354
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 609","Sault Ste. Marie",N,N,"",8,0,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,29
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 609","Sault Ste. Marie",N,N,"",8,0,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,148
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 609","Sault Ste. Marie",N,N,"",8,0,"Sheehan","","Terry","Liberal","Libéral",Y,Y,564
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 609","Sault Ste. Marie",N,N,"",8,0,"Spina","","Sonny","Conservative","Conservateur",N,N,455
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 610","Sault Ste. Marie",N,N,"",3,0,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,33
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 610","Sault Ste. Marie",N,N,"",3,0,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,154
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 610","Sault Ste. Marie",N,N,"",3,0,"Sheehan","","Terry","Liberal","Libéral",Y,Y,326
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 610","Sault Ste. Marie",N,N,"",3,0,"Spina","","Sonny","Conservative","Conservateur",N,N,365
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 611","Sault Ste. Marie",N,N,"",3,0,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,18
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 611","Sault Ste. Marie",N,N,"",3,0,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 611","Sault Ste. Marie",N,N,"",3,0,"Sheehan","","Terry","Liberal","Libéral",Y,Y,219
+35092,"Sault Ste. Marie","Sault Ste. Marie"," 611","Sault Ste. Marie",N,N,"",3,0,"Spina","","Sonny","Conservative","Conservateur",N,N,134
+35092,"Sault Ste. Marie","Sault Ste. Marie"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",14,134,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,17
+35092,"Sault Ste. Marie","Sault Ste. Marie"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",14,134,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,92
+35092,"Sault Ste. Marie","Sault Ste. Marie"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",14,134,"Sheehan","","Terry","Liberal","Libéral",Y,Y,123
+35092,"Sault Ste. Marie","Sault Ste. Marie"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",14,134,"Spina","","Sonny","Conservative","Conservateur",N,N,60
+35092,"Sault Ste. Marie","Sault Ste. Marie"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",23,0,"Makowski","","Kasper","People's Party - PPC","Parti populaire - PPC",N,N,52
+35092,"Sault Ste. Marie","Sault Ste. Marie"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",23,0,"Morin-Strom","","Marie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,270
+35092,"Sault Ste. Marie","Sault Ste. Marie"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",23,0,"Sheehan","","Terry","Liberal","Libéral",Y,Y,764
+35092,"Sault Ste. Marie","Sault Ste. Marie"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",23,0,"Spina","","Sonny","Conservative","Conservateur",N,N,578

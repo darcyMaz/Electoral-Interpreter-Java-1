@@ -1,0 +1,793 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 1","Toronto",N,N,"",0,370,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,69
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 1","Toronto",N,N,"",0,370,"Choudhary","","Zia","Conservative","Conservateur",N,N,20
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 1","Toronto",N,N,"",0,370,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 1","Toronto",N,N,"",0,370,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,5
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 2","Toronto",N,N,"",0,358,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,115
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 2","Toronto",N,N,"",0,358,"Choudhary","","Zia","Conservative","Conservateur",N,N,21
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 2","Toronto",N,N,"",0,358,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 2","Toronto",N,N,"",0,358,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,2
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 3","Toronto",N,N,"",0,461,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,115
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 3","Toronto",N,N,"",0,461,"Choudhary","","Zia","Conservative","Conservateur",N,N,25
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 3","Toronto",N,N,"",0,461,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 3","Toronto",N,N,"",0,461,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,3
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 4","Toronto",N,N,"",0,379,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,107
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 4","Toronto",N,N,"",0,379,"Choudhary","","Zia","Conservative","Conservateur",N,N,17
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 4","Toronto",N,N,"",0,379,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 4","Toronto",N,N,"",0,379,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,2
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 5","Toronto",N,N,"",0,344,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,95
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 5","Toronto",N,N,"",0,344,"Choudhary","","Zia","Conservative","Conservateur",N,N,18
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 5","Toronto",N,N,"",0,344,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 5","Toronto",N,N,"",0,344,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,5
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 6","Toronto",N,N,"",0,395,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,104
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 6","Toronto",N,N,"",0,395,"Choudhary","","Zia","Conservative","Conservateur",N,N,26
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 6","Toronto",N,N,"",0,395,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 6","Toronto",N,N,"",0,395,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,2
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 7","Toronto",N,N,"",0,464,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,130
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 7","Toronto",N,N,"",0,464,"Choudhary","","Zia","Conservative","Conservateur",N,N,9
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 7","Toronto",N,N,"",0,464,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 7","Toronto",N,N,"",0,464,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,3
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 8","Toronto",N,N,"",1,296,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,76
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 8","Toronto",N,N,"",1,296,"Choudhary","","Zia","Conservative","Conservateur",N,N,13
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 8","Toronto",N,N,"",1,296,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 8","Toronto",N,N,"",1,296,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 9","Toronto",N,N,"",1,521,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,139
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 9","Toronto",N,N,"",1,521,"Choudhary","","Zia","Conservative","Conservateur",N,N,24
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 9","Toronto",N,N,"",1,521,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 9","Toronto",N,N,"",1,521,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,5
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 10","Toronto",N,N,"",1,494,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,97
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 10","Toronto",N,N,"",1,494,"Choudhary","","Zia","Conservative","Conservateur",N,N,13
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 10","Toronto",N,N,"",1,494,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 10","Toronto",N,N,"",1,494,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,3
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 11","Toronto",N,N,"",0,384,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,70
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 11","Toronto",N,N,"",0,384,"Choudhary","","Zia","Conservative","Conservateur",N,N,9
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 11","Toronto",N,N,"",0,384,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 11","Toronto",N,N,"",0,384,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 12","Toronto",N,N,"",2,394,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,103
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 12","Toronto",N,N,"",2,394,"Choudhary","","Zia","Conservative","Conservateur",N,N,15
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 12","Toronto",N,N,"",2,394,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 12","Toronto",N,N,"",2,394,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 13","Toronto",N,N,"",0,354,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,73
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 13","Toronto",N,N,"",0,354,"Choudhary","","Zia","Conservative","Conservateur",N,N,18
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 13","Toronto",N,N,"",0,354,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 13","Toronto",N,N,"",0,354,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,2
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 14","Toronto",N,N,"",1,422,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,96
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 14","Toronto",N,N,"",1,422,"Choudhary","","Zia","Conservative","Conservateur",N,N,34
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 14","Toronto",N,N,"",1,422,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 14","Toronto",N,N,"",1,422,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,10
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 15","Toronto",N,N,"",0,404,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,99
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 15","Toronto",N,N,"",0,404,"Choudhary","","Zia","Conservative","Conservateur",N,N,34
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 15","Toronto",N,N,"",0,404,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 15","Toronto",N,N,"",0,404,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,2
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 16","Toronto",N,N,"",1,416,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,126
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 16","Toronto",N,N,"",1,416,"Choudhary","","Zia","Conservative","Conservateur",N,N,38
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 16","Toronto",N,N,"",1,416,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 16","Toronto",N,N,"",1,416,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,1
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 17","Toronto",N,N,"",0,438,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,138
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 17","Toronto",N,N,"",0,438,"Choudhary","","Zia","Conservative","Conservateur",N,N,41
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 17","Toronto",N,N,"",0,438,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 17","Toronto",N,N,"",0,438,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,5
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 18","Toronto",N,N,"",0,420,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,144
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 18","Toronto",N,N,"",0,420,"Choudhary","","Zia","Conservative","Conservateur",N,N,29
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 18","Toronto",N,N,"",0,420,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 18","Toronto",N,N,"",0,420,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,2
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 19","Toronto",N,N,"",5,366,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,119
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 19","Toronto",N,N,"",5,366,"Choudhary","","Zia","Conservative","Conservateur",N,N,36
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 19","Toronto",N,N,"",5,366,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 19","Toronto",N,N,"",5,366,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,0
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 20","Toronto",N,N,"",4,472,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,145
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 20","Toronto",N,N,"",4,472,"Choudhary","","Zia","Conservative","Conservateur",N,N,35
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 20","Toronto",N,N,"",4,472,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 20","Toronto",N,N,"",4,472,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,3
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 21","Toronto",N,N,"",2,422,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,126
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 21","Toronto",N,N,"",2,422,"Choudhary","","Zia","Conservative","Conservateur",N,N,14
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 21","Toronto",N,N,"",2,422,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 21","Toronto",N,N,"",2,422,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,2
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 22","Toronto",N,N,"",2,458,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,210
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 22","Toronto",N,N,"",2,458,"Choudhary","","Zia","Conservative","Conservateur",N,N,28
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 22","Toronto",N,N,"",2,458,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 22","Toronto",N,N,"",2,458,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,5
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 23","Toronto",N,N,"",1,428,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,145
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 23","Toronto",N,N,"",1,428,"Choudhary","","Zia","Conservative","Conservateur",N,N,19
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 23","Toronto",N,N,"",1,428,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 23","Toronto",N,N,"",1,428,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,2
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 24","Toronto",N,N,"",0,476,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,228
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 24","Toronto",N,N,"",0,476,"Choudhary","","Zia","Conservative","Conservateur",N,N,27
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 24","Toronto",N,N,"",0,476,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 24","Toronto",N,N,"",0,476,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,6
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 25","Toronto",N,N,"",3,423,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,194
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 25","Toronto",N,N,"",3,423,"Choudhary","","Zia","Conservative","Conservateur",N,N,28
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 25","Toronto",N,N,"",3,423,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 25","Toronto",N,N,"",3,423,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,5
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 26","Toronto",N,N,"",1,466,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,140
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 26","Toronto",N,N,"",1,466,"Choudhary","","Zia","Conservative","Conservateur",N,N,21
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 26","Toronto",N,N,"",1,466,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 26","Toronto",N,N,"",1,466,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,5
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 27","Toronto",N,N,"",0,385,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,164
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 27","Toronto",N,N,"",0,385,"Choudhary","","Zia","Conservative","Conservateur",N,N,21
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 27","Toronto",N,N,"",0,385,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 27","Toronto",N,N,"",0,385,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,1
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 28","Toronto",N,N,"",1,445,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,167
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 28","Toronto",N,N,"",1,445,"Choudhary","","Zia","Conservative","Conservateur",N,N,29
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 28","Toronto",N,N,"",1,445,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 28","Toronto",N,N,"",1,445,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 29","Toronto",N,N,"",0,351,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,146
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 29","Toronto",N,N,"",0,351,"Choudhary","","Zia","Conservative","Conservateur",N,N,28
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 29","Toronto",N,N,"",0,351,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 29","Toronto",N,N,"",0,351,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,2
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 30","Toronto",N,N,"",0,469,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,90
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 30","Toronto",N,N,"",0,469,"Choudhary","","Zia","Conservative","Conservateur",N,N,25
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 30","Toronto",N,N,"",0,469,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 30","Toronto",N,N,"",0,469,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,7
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 31","Toronto",N,N,"",2,465,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,156
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 31","Toronto",N,N,"",2,465,"Choudhary","","Zia","Conservative","Conservateur",N,N,27
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 31","Toronto",N,N,"",2,465,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 31","Toronto",N,N,"",2,465,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,2
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 32","Toronto",N,N,"",1,416,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,105
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 32","Toronto",N,N,"",1,416,"Choudhary","","Zia","Conservative","Conservateur",N,N,30
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 32","Toronto",N,N,"",1,416,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 32","Toronto",N,N,"",1,416,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,0
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 33","Toronto",N,N,"",1,419,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,111
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 33","Toronto",N,N,"",1,419,"Choudhary","","Zia","Conservative","Conservateur",N,N,25
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 33","Toronto",N,N,"",1,419,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 33","Toronto",N,N,"",1,419,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,8
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 34","Toronto",N,N,"",0,538,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,183
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 34","Toronto",N,N,"",0,538,"Choudhary","","Zia","Conservative","Conservateur",N,N,31
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 34","Toronto",N,N,"",0,538,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 34","Toronto",N,N,"",0,538,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 35","Toronto",N,N,"",6,517,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,216
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 35","Toronto",N,N,"",6,517,"Choudhary","","Zia","Conservative","Conservateur",N,N,25
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 35","Toronto",N,N,"",6,517,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 35","Toronto",N,N,"",6,517,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,1
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 36","Toronto",N,N,"",1,422,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,155
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 36","Toronto",N,N,"",1,422,"Choudhary","","Zia","Conservative","Conservateur",N,N,19
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 36","Toronto",N,N,"",1,422,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 36","Toronto",N,N,"",1,422,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 37","Toronto",N,N,"",0,354,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,76
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 37","Toronto",N,N,"",0,354,"Choudhary","","Zia","Conservative","Conservateur",N,N,19
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 37","Toronto",N,N,"",0,354,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 37","Toronto",N,N,"",0,354,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,2
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 38","Toronto",N,N,"",1,386,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,96
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 38","Toronto",N,N,"",1,386,"Choudhary","","Zia","Conservative","Conservateur",N,N,17
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 38","Toronto",N,N,"",1,386,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 38","Toronto",N,N,"",1,386,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,2
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 39","Toronto",N,N,"",2,340,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,93
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 39","Toronto",N,N,"",2,340,"Choudhary","","Zia","Conservative","Conservateur",N,N,14
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 39","Toronto",N,N,"",2,340,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 39","Toronto",N,N,"",2,340,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,9
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 40","Toronto",N,N,"",1,449,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,126
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 40","Toronto",N,N,"",1,449,"Choudhary","","Zia","Conservative","Conservateur",N,N,32
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 40","Toronto",N,N,"",1,449,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 40","Toronto",N,N,"",1,449,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,8
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 41","Toronto",N,N,"",1,359,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,118
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 41","Toronto",N,N,"",1,359,"Choudhary","","Zia","Conservative","Conservateur",N,N,13
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 41","Toronto",N,N,"",1,359,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 41","Toronto",N,N,"",1,359,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,6
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 42","Toronto",N,N,"",2,415,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,140
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 42","Toronto",N,N,"",2,415,"Choudhary","","Zia","Conservative","Conservateur",N,N,20
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 42","Toronto",N,N,"",2,415,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 42","Toronto",N,N,"",2,415,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,2
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 43","Toronto",N,N,"",0,419,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,116
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 43","Toronto",N,N,"",0,419,"Choudhary","","Zia","Conservative","Conservateur",N,N,30
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 43","Toronto",N,N,"",0,419,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 43","Toronto",N,N,"",0,419,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,6
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 44","Toronto",N,N,"",5,432,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,134
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 44","Toronto",N,N,"",5,432,"Choudhary","","Zia","Conservative","Conservateur",N,N,16
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 44","Toronto",N,N,"",5,432,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 44","Toronto",N,N,"",5,432,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,2
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 45","Toronto",N,N,"",5,473,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,101
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 45","Toronto",N,N,"",5,473,"Choudhary","","Zia","Conservative","Conservateur",N,N,14
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 45","Toronto",N,N,"",5,473,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 45","Toronto",N,N,"",5,473,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,2
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 46","Toronto",N,N,"",5,423,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,125
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 46","Toronto",N,N,"",5,423,"Choudhary","","Zia","Conservative","Conservateur",N,N,23
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 46","Toronto",N,N,"",5,423,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 46","Toronto",N,N,"",5,423,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,7
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 47","Toronto",N,N,"",2,533,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,131
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 47","Toronto",N,N,"",2,533,"Choudhary","","Zia","Conservative","Conservateur",N,N,27
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 47","Toronto",N,N,"",2,533,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 47","Toronto",N,N,"",2,533,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,8
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 48","Toronto",N,N,"",1,362,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,97
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 48","Toronto",N,N,"",1,362,"Choudhary","","Zia","Conservative","Conservateur",N,N,16
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 48","Toronto",N,N,"",1,362,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 48","Toronto",N,N,"",1,362,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,2
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 49","Toronto",N,N,"",1,397,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,101
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 49","Toronto",N,N,"",1,397,"Choudhary","","Zia","Conservative","Conservateur",N,N,27
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 49","Toronto",N,N,"",1,397,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 49","Toronto",N,N,"",1,397,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,1
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 50","Toronto",N,N,"",1,379,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,109
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 50","Toronto",N,N,"",1,379,"Choudhary","","Zia","Conservative","Conservateur",N,N,29
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 50","Toronto",N,N,"",1,379,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 50","Toronto",N,N,"",1,379,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,1
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 51","Toronto",N,N,"",0,337,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,68
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 51","Toronto",N,N,"",0,337,"Choudhary","","Zia","Conservative","Conservateur",N,N,13
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 51","Toronto",N,N,"",0,337,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 51","Toronto",N,N,"",0,337,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,2
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 52","Toronto",N,N,"",0,419,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,83
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 52","Toronto",N,N,"",0,419,"Choudhary","","Zia","Conservative","Conservateur",N,N,10
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 52","Toronto",N,N,"",0,419,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 52","Toronto",N,N,"",0,419,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,5
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 53","Toronto",N,N,"",0,684,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,139
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 53","Toronto",N,N,"",0,684,"Choudhary","","Zia","Conservative","Conservateur",N,N,23
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 53","Toronto",N,N,"",0,684,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 53","Toronto",N,N,"",0,684,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,0
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 54","Toronto",N,N,"",0,611,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,112
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 54","Toronto",N,N,"",0,611,"Choudhary","","Zia","Conservative","Conservateur",N,N,32
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 54","Toronto",N,N,"",0,611,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 54","Toronto",N,N,"",0,611,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,5
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 55","Toronto",N,N,"",0,332,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,66
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 55","Toronto",N,N,"",0,332,"Choudhary","","Zia","Conservative","Conservateur",N,N,12
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 55","Toronto",N,N,"",0,332,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 55","Toronto",N,N,"",0,332,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 56","Toronto",N,N,"",0,326,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,86
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 56","Toronto",N,N,"",0,326,"Choudhary","","Zia","Conservative","Conservateur",N,N,27
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 56","Toronto",N,N,"",0,326,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 56","Toronto",N,N,"",0,326,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 57","Toronto",N,N,"",1,450,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,141
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 57","Toronto",N,N,"",1,450,"Choudhary","","Zia","Conservative","Conservateur",N,N,40
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 57","Toronto",N,N,"",1,450,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 57","Toronto",N,N,"",1,450,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,7
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 58","Toronto",N,N,"",1,379,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,108
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 58","Toronto",N,N,"",1,379,"Choudhary","","Zia","Conservative","Conservateur",N,N,34
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 58","Toronto",N,N,"",1,379,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 58","Toronto",N,N,"",1,379,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,6
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 59","Toronto",N,N,"",0,415,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,98
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 59","Toronto",N,N,"",0,415,"Choudhary","","Zia","Conservative","Conservateur",N,N,44
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 59","Toronto",N,N,"",0,415,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 59","Toronto",N,N,"",0,415,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,11
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 60","Toronto",N,N,"",0,477,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,119
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 60","Toronto",N,N,"",0,477,"Choudhary","","Zia","Conservative","Conservateur",N,N,26
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 60","Toronto",N,N,"",0,477,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 60","Toronto",N,N,"",0,477,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,14
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 61","Toronto",N,N,"",1,386,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,78
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 61","Toronto",N,N,"",1,386,"Choudhary","","Zia","Conservative","Conservateur",N,N,15
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 61","Toronto",N,N,"",1,386,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 61","Toronto",N,N,"",1,386,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 62","Toronto",N,N,"",1,522,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,114
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 62","Toronto",N,N,"",1,522,"Choudhary","","Zia","Conservative","Conservateur",N,N,35
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 62","Toronto",N,N,"",1,522,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 62","Toronto",N,N,"",1,522,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,5
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 63","Toronto",N,N,"",1,460,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,102
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 63","Toronto",N,N,"",1,460,"Choudhary","","Zia","Conservative","Conservateur",N,N,35
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 63","Toronto",N,N,"",1,460,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 63","Toronto",N,N,"",1,460,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,6
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 64","Toronto",N,N,"",3,462,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,97
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 64","Toronto",N,N,"",3,462,"Choudhary","","Zia","Conservative","Conservateur",N,N,39
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 64","Toronto",N,N,"",3,462,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 64","Toronto",N,N,"",3,462,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,5
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 65","Toronto",N,N,"",4,544,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,162
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 65","Toronto",N,N,"",4,544,"Choudhary","","Zia","Conservative","Conservateur",N,N,39
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 65","Toronto",N,N,"",4,544,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 65","Toronto",N,N,"",4,544,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,8
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 66","Toronto",N,N,"",1,402,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,122
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 66","Toronto",N,N,"",1,402,"Choudhary","","Zia","Conservative","Conservateur",N,N,15
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 66","Toronto",N,N,"",1,402,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 66","Toronto",N,N,"",1,402,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,5
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 67","Toronto",N,N,"",1,425,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,107
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 67","Toronto",N,N,"",1,425,"Choudhary","","Zia","Conservative","Conservateur",N,N,17
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 67","Toronto",N,N,"",1,425,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 67","Toronto",N,N,"",1,425,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,7
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 68","Toronto",N,N,"",4,358,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,81
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 68","Toronto",N,N,"",4,358,"Choudhary","","Zia","Conservative","Conservateur",N,N,23
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 68","Toronto",N,N,"",4,358,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 68","Toronto",N,N,"",4,358,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,10
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 69","Toronto",N,N,"",0,452,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,104
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 69","Toronto",N,N,"",0,452,"Choudhary","","Zia","Conservative","Conservateur",N,N,31
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 69","Toronto",N,N,"",0,452,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 69","Toronto",N,N,"",0,452,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,6
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 70","Toronto",N,N,"",0,392,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,70
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 70","Toronto",N,N,"",0,392,"Choudhary","","Zia","Conservative","Conservateur",N,N,46
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 70","Toronto",N,N,"",0,392,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 70","Toronto",N,N,"",0,392,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,3
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 71","Toronto",N,N,"",1,476,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,77
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 71","Toronto",N,N,"",1,476,"Choudhary","","Zia","Conservative","Conservateur",N,N,64
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 71","Toronto",N,N,"",1,476,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 71","Toronto",N,N,"",1,476,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,10
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 72","Toronto",N,N,"",1,323,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,57
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 72","Toronto",N,N,"",1,323,"Choudhary","","Zia","Conservative","Conservateur",N,N,33
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 72","Toronto",N,N,"",1,323,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 72","Toronto",N,N,"",1,323,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,7
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 73","Toronto",N,N,"",1,399,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,77
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 73","Toronto",N,N,"",1,399,"Choudhary","","Zia","Conservative","Conservateur",N,N,45
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 73","Toronto",N,N,"",1,399,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 73","Toronto",N,N,"",1,399,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,7
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 74","Toronto",N,N,"",0,323,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,60
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 74","Toronto",N,N,"",0,323,"Choudhary","","Zia","Conservative","Conservateur",N,N,24
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 74","Toronto",N,N,"",0,323,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 74","Toronto",N,N,"",0,323,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,6
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 75","Toronto",N,N,"",0,312,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,64
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 75","Toronto",N,N,"",0,312,"Choudhary","","Zia","Conservative","Conservateur",N,N,39
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 75","Toronto",N,N,"",0,312,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 75","Toronto",N,N,"",0,312,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,2
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 76","Toronto",N,N,"",0,350,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,63
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 76","Toronto",N,N,"",0,350,"Choudhary","","Zia","Conservative","Conservateur",N,N,34
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 76","Toronto",N,N,"",0,350,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 76","Toronto",N,N,"",0,350,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,1
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 77","Toronto",N,N,"",0,397,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,76
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 77","Toronto",N,N,"",0,397,"Choudhary","","Zia","Conservative","Conservateur",N,N,35
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 77","Toronto",N,N,"",0,397,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 77","Toronto",N,N,"",0,397,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,3
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 78","Toronto",N,N,"",1,352,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,71
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 78","Toronto",N,N,"",1,352,"Choudhary","","Zia","Conservative","Conservateur",N,N,33
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 78","Toronto",N,N,"",1,352,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 78","Toronto",N,N,"",1,352,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,3
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 79","Toronto",N,N,"",0,373,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,84
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 79","Toronto",N,N,"",0,373,"Choudhary","","Zia","Conservative","Conservateur",N,N,29
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 79","Toronto",N,N,"",0,373,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 79","Toronto",N,N,"",0,373,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,2
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 80","Toronto",N,N,"",1,484,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,99
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 80","Toronto",N,N,"",1,484,"Choudhary","","Zia","Conservative","Conservateur",N,N,70
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 80","Toronto",N,N,"",1,484,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 80","Toronto",N,N,"",1,484,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,3
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 81","Toronto",N,N,"",2,443,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,97
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 81","Toronto",N,N,"",2,443,"Choudhary","","Zia","Conservative","Conservateur",N,N,45
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 81","Toronto",N,N,"",2,443,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 81","Toronto",N,N,"",2,443,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,6
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 82","Toronto",N,N,"",0,484,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,119
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 82","Toronto",N,N,"",0,484,"Choudhary","","Zia","Conservative","Conservateur",N,N,39
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 82","Toronto",N,N,"",0,484,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 82","Toronto",N,N,"",0,484,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,6
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 83","Toronto",N,N,"",1,370,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,71
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 83","Toronto",N,N,"",1,370,"Choudhary","","Zia","Conservative","Conservateur",N,N,42
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 83","Toronto",N,N,"",1,370,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 83","Toronto",N,N,"",1,370,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,8
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 84","Toronto",N,N,"",0,398,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,66
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 84","Toronto",N,N,"",0,398,"Choudhary","","Zia","Conservative","Conservateur",N,N,36
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 84","Toronto",N,N,"",0,398,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 84","Toronto",N,N,"",0,398,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,5
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 85","Toronto",N,N,"",3,655,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,134
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 85","Toronto",N,N,"",3,655,"Choudhary","","Zia","Conservative","Conservateur",N,N,45
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 85","Toronto",N,N,"",3,655,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 85","Toronto",N,N,"",3,655,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,7
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 86","Toronto",N,N,"",3,455,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,125
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 86","Toronto",N,N,"",3,455,"Choudhary","","Zia","Conservative","Conservateur",N,N,35
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 86","Toronto",N,N,"",3,455,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 86","Toronto",N,N,"",3,455,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,11
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 87","Toronto",N,N,"",0,522,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,125
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 87","Toronto",N,N,"",0,522,"Choudhary","","Zia","Conservative","Conservateur",N,N,31
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 87","Toronto",N,N,"",0,522,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 87","Toronto",N,N,"",0,522,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 88","Toronto",N,N,"",2,548,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,132
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 88","Toronto",N,N,"",2,548,"Choudhary","","Zia","Conservative","Conservateur",N,N,31
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 88","Toronto",N,N,"",2,548,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 88","Toronto",N,N,"",2,548,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,6
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 89","Toronto",N,N,"",0,501,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,143
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 89","Toronto",N,N,"",0,501,"Choudhary","","Zia","Conservative","Conservateur",N,N,34
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 89","Toronto",N,N,"",0,501,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 89","Toronto",N,N,"",0,501,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,11
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 90","Toronto",N,N,"",1,517,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,151
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 90","Toronto",N,N,"",1,517,"Choudhary","","Zia","Conservative","Conservateur",N,N,46
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 90","Toronto",N,N,"",1,517,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 90","Toronto",N,N,"",1,517,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,12
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 91","Toronto",N,N,"",0,421,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,111
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 91","Toronto",N,N,"",0,421,"Choudhary","","Zia","Conservative","Conservateur",N,N,46
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 91","Toronto",N,N,"",0,421,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 91","Toronto",N,N,"",0,421,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,3
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 92","Toronto",N,N,"",0,348,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,114
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 92","Toronto",N,N,"",0,348,"Choudhary","","Zia","Conservative","Conservateur",N,N,26
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 92","Toronto",N,N,"",0,348,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 92","Toronto",N,N,"",0,348,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,8
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 93","Toronto",N,N,"",1,473,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,129
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 93","Toronto",N,N,"",1,473,"Choudhary","","Zia","Conservative","Conservateur",N,N,33
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 93","Toronto",N,N,"",1,473,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 93","Toronto",N,N,"",1,473,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,3
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 94","Toronto",N,N,"",1,389,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,94
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 94","Toronto",N,N,"",1,389,"Choudhary","","Zia","Conservative","Conservateur",N,N,26
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 94","Toronto",N,N,"",1,389,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 94","Toronto",N,N,"",1,389,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,1
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 95","Toronto",N,N,"",0,370,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,80
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 95","Toronto",N,N,"",0,370,"Choudhary","","Zia","Conservative","Conservateur",N,N,35
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 95","Toronto",N,N,"",0,370,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 95","Toronto",N,N,"",0,370,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,13
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 96","Toronto",N,N,"",3,390,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,122
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 96","Toronto",N,N,"",3,390,"Choudhary","","Zia","Conservative","Conservateur",N,N,18
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 96","Toronto",N,N,"",3,390,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 96","Toronto",N,N,"",3,390,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,1
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 97","Toronto",N,N,"",2,553,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,107
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 97","Toronto",N,N,"",2,553,"Choudhary","","Zia","Conservative","Conservateur",N,N,35
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 97","Toronto",N,N,"",2,553,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 97","Toronto",N,N,"",2,553,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,15
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 98","Toronto",N,N,"",0,389,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,63
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 98","Toronto",N,N,"",0,389,"Choudhary","","Zia","Conservative","Conservateur",N,N,25
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 98","Toronto",N,N,"",0,389,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 98","Toronto",N,N,"",0,389,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,6
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 99","Toronto",N,N,"",0,420,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,104
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 99","Toronto",N,N,"",0,420,"Choudhary","","Zia","Conservative","Conservateur",N,N,35
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 99","Toronto",N,N,"",0,420,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 99","Toronto",N,N,"",0,420,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,7
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 100","Toronto",N,N,"",0,370,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,81
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 100","Toronto",N,N,"",0,370,"Choudhary","","Zia","Conservative","Conservateur",N,N,27
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 100","Toronto",N,N,"",0,370,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 100","Toronto",N,N,"",0,370,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,2
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 101","Toronto",N,N,"",0,444,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,109
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 101","Toronto",N,N,"",0,444,"Choudhary","","Zia","Conservative","Conservateur",N,N,51
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 101","Toronto",N,N,"",0,444,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 101","Toronto",N,N,"",0,444,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,3
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 102","Toronto",N,N,"",0,531,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,159
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 102","Toronto",N,N,"",0,531,"Choudhary","","Zia","Conservative","Conservateur",N,N,28
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 102","Toronto",N,N,"",0,531,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 102","Toronto",N,N,"",0,531,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,6
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 103","Toronto",N,N,"",0,332,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,106
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 103","Toronto",N,N,"",0,332,"Choudhary","","Zia","Conservative","Conservateur",N,N,33
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 103","Toronto",N,N,"",0,332,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 103","Toronto",N,N,"",0,332,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 104","Toronto",N,N,"",0,314,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,108
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 104","Toronto",N,N,"",0,314,"Choudhary","","Zia","Conservative","Conservateur",N,N,21
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 104","Toronto",N,N,"",0,314,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 104","Toronto",N,N,"",0,314,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,5
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 105","Toronto",N,N,"",1,437,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,134
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 105","Toronto",N,N,"",1,437,"Choudhary","","Zia","Conservative","Conservateur",N,N,20
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 105","Toronto",N,N,"",1,437,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 105","Toronto",N,N,"",1,437,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,5
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 106","Toronto",N,N,"",0,371,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,152
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 106","Toronto",N,N,"",0,371,"Choudhary","","Zia","Conservative","Conservateur",N,N,19
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 106","Toronto",N,N,"",0,371,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 106","Toronto",N,N,"",0,371,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,2
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 107","Toronto",N,N,"",2,435,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,119
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 107","Toronto",N,N,"",2,435,"Choudhary","","Zia","Conservative","Conservateur",N,N,33
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 107","Toronto",N,N,"",2,435,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 107","Toronto",N,N,"",2,435,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 108","Toronto",N,N,"",2,526,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,176
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 108","Toronto",N,N,"",2,526,"Choudhary","","Zia","Conservative","Conservateur",N,N,31
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 108","Toronto",N,N,"",2,526,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 108","Toronto",N,N,"",2,526,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 109","Toronto",N,N,"",0,392,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,92
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 109","Toronto",N,N,"",0,392,"Choudhary","","Zia","Conservative","Conservateur",N,N,34
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 109","Toronto",N,N,"",0,392,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 109","Toronto",N,N,"",0,392,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 110","Toronto",N,N,"",0,415,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,99
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 110","Toronto",N,N,"",0,415,"Choudhary","","Zia","Conservative","Conservateur",N,N,27
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 110","Toronto",N,N,"",0,415,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 110","Toronto",N,N,"",0,415,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,5
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 111","Toronto",N,N,"",1,428,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,80
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 111","Toronto",N,N,"",1,428,"Choudhary","","Zia","Conservative","Conservateur",N,N,62
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 111","Toronto",N,N,"",1,428,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 111","Toronto",N,N,"",1,428,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,1
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 112","Toronto",N,N,"",1,322,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,72
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 112","Toronto",N,N,"",1,322,"Choudhary","","Zia","Conservative","Conservateur",N,N,37
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 112","Toronto",N,N,"",1,322,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 112","Toronto",N,N,"",1,322,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,7
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 113","Toronto",N,N,"",3,513,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,94
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 113","Toronto",N,N,"",3,513,"Choudhary","","Zia","Conservative","Conservateur",N,N,61
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 113","Toronto",N,N,"",3,513,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 113","Toronto",N,N,"",3,513,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,14
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 114","Toronto",N,N,"",0,423,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,54
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 114","Toronto",N,N,"",0,423,"Choudhary","","Zia","Conservative","Conservateur",N,N,49
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 114","Toronto",N,N,"",0,423,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 114","Toronto",N,N,"",0,423,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,9
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 115","Toronto",N,N,"",1,402,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,71
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 115","Toronto",N,N,"",1,402,"Choudhary","","Zia","Conservative","Conservateur",N,N,30
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 115","Toronto",N,N,"",1,402,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 115","Toronto",N,N,"",1,402,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,8
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 116","Toronto",N,N,"",0,397,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,85
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 116","Toronto",N,N,"",0,397,"Choudhary","","Zia","Conservative","Conservateur",N,N,54
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 116","Toronto",N,N,"",0,397,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 116","Toronto",N,N,"",0,397,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,7
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 117","Toronto",N,N,"",0,409,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,64
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 117","Toronto",N,N,"",0,409,"Choudhary","","Zia","Conservative","Conservateur",N,N,49
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 117","Toronto",N,N,"",0,409,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 117","Toronto",N,N,"",0,409,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,2
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 118","Toronto",N,N,"",0,330,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,69
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 118","Toronto",N,N,"",0,330,"Choudhary","","Zia","Conservative","Conservateur",N,N,41
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 118","Toronto",N,N,"",0,330,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 118","Toronto",N,N,"",0,330,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 119","Toronto",N,N,"",3,544,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,81
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 119","Toronto",N,N,"",3,544,"Choudhary","","Zia","Conservative","Conservateur",N,N,55
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 119","Toronto",N,N,"",3,544,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 119","Toronto",N,N,"",3,544,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,8
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 120","Toronto",N,N,"",0,406,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,71
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 120","Toronto",N,N,"",0,406,"Choudhary","","Zia","Conservative","Conservateur",N,N,28
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 120","Toronto",N,N,"",0,406,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 120","Toronto",N,N,"",0,406,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,5
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 121","Toronto",N,N,"",1,429,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,70
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 121","Toronto",N,N,"",1,429,"Choudhary","","Zia","Conservative","Conservateur",N,N,38
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 121","Toronto",N,N,"",1,429,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 121","Toronto",N,N,"",1,429,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,5
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 122","Toronto",N,N,"",3,483,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,64
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 122","Toronto",N,N,"",3,483,"Choudhary","","Zia","Conservative","Conservateur",N,N,51
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 122","Toronto",N,N,"",3,483,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 122","Toronto",N,N,"",3,483,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,6
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 123","Toronto",N,N,"",5,457,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,73
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 123","Toronto",N,N,"",5,457,"Choudhary","","Zia","Conservative","Conservateur",N,N,36
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 123","Toronto",N,N,"",5,457,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 123","Toronto",N,N,"",5,457,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,11
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 124","Toronto",N,N,"",1,498,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,80
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 124","Toronto",N,N,"",1,498,"Choudhary","","Zia","Conservative","Conservateur",N,N,46
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 124","Toronto",N,N,"",1,498,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 124","Toronto",N,N,"",1,498,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,7
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 125","Toronto",N,N,"",2,442,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,103
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 125","Toronto",N,N,"",2,442,"Choudhary","","Zia","Conservative","Conservateur",N,N,42
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 125","Toronto",N,N,"",2,442,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 125","Toronto",N,N,"",2,442,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,5
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 126","Toronto",N,N,"",0,515,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,109
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 126","Toronto",N,N,"",0,515,"Choudhary","","Zia","Conservative","Conservateur",N,N,40
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 126","Toronto",N,N,"",0,515,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 126","Toronto",N,N,"",0,515,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,6
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 127","Toronto",N,N,"",0,424,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,79
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 127","Toronto",N,N,"",0,424,"Choudhary","","Zia","Conservative","Conservateur",N,N,42
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 127","Toronto",N,N,"",0,424,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 127","Toronto",N,N,"",0,424,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,3
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 128","Toronto",N,N,"",0,499,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,79
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 128","Toronto",N,N,"",0,499,"Choudhary","","Zia","Conservative","Conservateur",N,N,49
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 128","Toronto",N,N,"",0,499,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 128","Toronto",N,N,"",0,499,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 129","Toronto",N,N,"",0,301,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,63
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 129","Toronto",N,N,"",0,301,"Choudhary","","Zia","Conservative","Conservateur",N,N,29
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 129","Toronto",N,N,"",0,301,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 129","Toronto",N,N,"",0,301,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,2
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 130","Toronto",N,N,"",3,483,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,91
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 130","Toronto",N,N,"",3,483,"Choudhary","","Zia","Conservative","Conservateur",N,N,40
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 130","Toronto",N,N,"",3,483,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 130","Toronto",N,N,"",3,483,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,6
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 131","Toronto",N,N,"",2,425,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,87
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 131","Toronto",N,N,"",2,425,"Choudhary","","Zia","Conservative","Conservateur",N,N,41
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 131","Toronto",N,N,"",2,425,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 131","Toronto",N,N,"",2,425,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,8
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 132","Toronto",N,N,"",0,315,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,74
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 132","Toronto",N,N,"",0,315,"Choudhary","","Zia","Conservative","Conservateur",N,N,23
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 132","Toronto",N,N,"",0,315,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 132","Toronto",N,N,"",0,315,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,1
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 133","Toronto",N,N,"",3,307,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,81
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 133","Toronto",N,N,"",3,307,"Choudhary","","Zia","Conservative","Conservateur",N,N,33
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 133","Toronto",N,N,"",3,307,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 133","Toronto",N,N,"",3,307,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,9
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 134","Toronto",N,N,"",0,442,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,100
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 134","Toronto",N,N,"",0,442,"Choudhary","","Zia","Conservative","Conservateur",N,N,57
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 134","Toronto",N,N,"",0,442,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 134","Toronto",N,N,"",0,442,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,14
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 135","Toronto",N,N,"",1,510,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,109
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 135","Toronto",N,N,"",1,510,"Choudhary","","Zia","Conservative","Conservateur",N,N,55
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 135","Toronto",N,N,"",1,510,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 135","Toronto",N,N,"",1,510,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,9
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 136","Toronto",N,N,"",1,428,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,74
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 136","Toronto",N,N,"",1,428,"Choudhary","","Zia","Conservative","Conservateur",N,N,32
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 136","Toronto",N,N,"",1,428,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 136","Toronto",N,N,"",1,428,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,6
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 137","Toronto",N,N,"",0,463,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,85
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 137","Toronto",N,N,"",0,463,"Choudhary","","Zia","Conservative","Conservateur",N,N,43
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 137","Toronto",N,N,"",0,463,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 137","Toronto",N,N,"",0,463,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,8
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 138","Toronto",N,N,"",0,413,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,68
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 138","Toronto",N,N,"",0,413,"Choudhary","","Zia","Conservative","Conservateur",N,N,35
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 138","Toronto",N,N,"",0,413,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 138","Toronto",N,N,"",0,413,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,2
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 139","Toronto",N,N,"",0,327,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,64
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 139","Toronto",N,N,"",0,327,"Choudhary","","Zia","Conservative","Conservateur",N,N,35
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 139","Toronto",N,N,"",0,327,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 139","Toronto",N,N,"",0,327,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,13
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 140","Toronto",N,N,"",1,352,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,65
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 140","Toronto",N,N,"",1,352,"Choudhary","","Zia","Conservative","Conservateur",N,N,43
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 140","Toronto",N,N,"",1,352,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 140","Toronto",N,N,"",1,352,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,3
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 141","Toronto",N,N,"",0,412,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,60
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 141","Toronto",N,N,"",0,412,"Choudhary","","Zia","Conservative","Conservateur",N,N,64
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 141","Toronto",N,N,"",0,412,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 141","Toronto",N,N,"",0,412,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 142","Toronto",N,N,"",1,407,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,59
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 142","Toronto",N,N,"",1,407,"Choudhary","","Zia","Conservative","Conservateur",N,N,51
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 142","Toronto",N,N,"",1,407,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 142","Toronto",N,N,"",1,407,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,6
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 143","Toronto",N,N,"",0,383,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,60
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 143","Toronto",N,N,"",0,383,"Choudhary","","Zia","Conservative","Conservateur",N,N,59
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 143","Toronto",N,N,"",0,383,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 143","Toronto",N,N,"",0,383,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,10
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 144","Toronto",N,N,"",0,410,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,67
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 144","Toronto",N,N,"",0,410,"Choudhary","","Zia","Conservative","Conservateur",N,N,41
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 144","Toronto",N,N,"",0,410,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 144","Toronto",N,N,"",0,410,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 145","Toronto",N,N,"",2,448,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,101
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 145","Toronto",N,N,"",2,448,"Choudhary","","Zia","Conservative","Conservateur",N,N,46
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 145","Toronto",N,N,"",2,448,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 145","Toronto",N,N,"",2,448,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,8
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 146","Toronto",N,N,"",1,528,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,85
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 146","Toronto",N,N,"",1,528,"Choudhary","","Zia","Conservative","Conservateur",N,N,49
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 146","Toronto",N,N,"",1,528,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 146","Toronto",N,N,"",1,528,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,5
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 147","Toronto",N,N,"",4,564,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,117
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 147","Toronto",N,N,"",4,564,"Choudhary","","Zia","Conservative","Conservateur",N,N,49
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 147","Toronto",N,N,"",4,564,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 147","Toronto",N,N,"",4,564,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,2
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 148","Toronto",N,N,"",0,417,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,88
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 148","Toronto",N,N,"",0,417,"Choudhary","","Zia","Conservative","Conservateur",N,N,51
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 148","Toronto",N,N,"",0,417,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 148","Toronto",N,N,"",0,417,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 149","Toronto",N,N,"",1,455,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,67
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 149","Toronto",N,N,"",1,455,"Choudhary","","Zia","Conservative","Conservateur",N,N,46
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 149","Toronto",N,N,"",1,455,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 149","Toronto",N,N,"",1,455,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,9
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 150","Toronto",N,N,"",0,368,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,50
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 150","Toronto",N,N,"",0,368,"Choudhary","","Zia","Conservative","Conservateur",N,N,51
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 150","Toronto",N,N,"",0,368,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 150","Toronto",N,N,"",0,368,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,5
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 151","Toronto",N,N,"",3,451,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,108
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 151","Toronto",N,N,"",3,451,"Choudhary","","Zia","Conservative","Conservateur",N,N,45
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 151","Toronto",N,N,"",3,451,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 151","Toronto",N,N,"",3,451,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,10
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 152","Toronto",N,N,"",1,406,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,63
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 152","Toronto",N,N,"",1,406,"Choudhary","","Zia","Conservative","Conservateur",N,N,49
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 152","Toronto",N,N,"",1,406,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 152","Toronto",N,N,"",1,406,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,12
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 153","Toronto",N,N,"",1,437,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,82
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 153","Toronto",N,N,"",1,437,"Choudhary","","Zia","Conservative","Conservateur",N,N,42
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 153","Toronto",N,N,"",1,437,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 153","Toronto",N,N,"",1,437,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 154","Toronto",N,N,"",0,516,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,120
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 154","Toronto",N,N,"",0,516,"Choudhary","","Zia","Conservative","Conservateur",N,N,23
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 154","Toronto",N,N,"",0,516,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 154","Toronto",N,N,"",0,516,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 155","Toronto",N,N,"",1,395,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,85
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 155","Toronto",N,N,"",1,395,"Choudhary","","Zia","Conservative","Conservateur",N,N,23
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 155","Toronto",N,N,"",1,395,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 155","Toronto",N,N,"",1,395,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 156","Toronto",N,N,"",1,486,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,90
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 156","Toronto",N,N,"",1,486,"Choudhary","","Zia","Conservative","Conservateur",N,N,24
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 156","Toronto",N,N,"",1,486,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 156","Toronto",N,N,"",1,486,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 157","Toronto",N,N,"",1,472,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,74
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 157","Toronto",N,N,"",1,472,"Choudhary","","Zia","Conservative","Conservateur",N,N,27
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 157","Toronto",N,N,"",1,472,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 157","Toronto",N,N,"",1,472,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,3
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 158","Toronto",N,N,"",4,391,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,66
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 158","Toronto",N,N,"",4,391,"Choudhary","","Zia","Conservative","Conservateur",N,N,5
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 158","Toronto",N,N,"",4,391,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 158","Toronto",N,N,"",4,391,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,2
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 159","Toronto",N,N,"",0,480,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,87
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 159","Toronto",N,N,"",0,480,"Choudhary","","Zia","Conservative","Conservateur",N,N,33
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 159","Toronto",N,N,"",0,480,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 159","Toronto",N,N,"",0,480,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,3
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 160","Toronto",N,N,"",1,720,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,146
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 160","Toronto",N,N,"",1,720,"Choudhary","","Zia","Conservative","Conservateur",N,N,38
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 160","Toronto",N,N,"",1,720,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 160","Toronto",N,N,"",1,720,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,13
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 161","Toronto",N,N,"",1,439,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,76
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 161","Toronto",N,N,"",1,439,"Choudhary","","Zia","Conservative","Conservateur",N,N,20
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 161","Toronto",N,N,"",1,439,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 161","Toronto",N,N,"",1,439,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 162","Toronto",N,N,"",0,351,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,35
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 162","Toronto",N,N,"",0,351,"Choudhary","","Zia","Conservative","Conservateur",N,N,11
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 162","Toronto",N,N,"",0,351,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 162","Toronto",N,N,"",0,351,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,3
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 163","Toronto",N,N,"",1,228,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,39
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 163","Toronto",N,N,"",1,228,"Choudhary","","Zia","Conservative","Conservateur",N,N,24
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 163","Toronto",N,N,"",1,228,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 163","Toronto",N,N,"",1,228,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,6
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 164","Toronto",N,N,"",1,579,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,102
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 164","Toronto",N,N,"",1,579,"Choudhary","","Zia","Conservative","Conservateur",N,N,54
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 164","Toronto",N,N,"",1,579,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 164","Toronto",N,N,"",1,579,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,7
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 165","Toronto",N,N,"",2,640,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,109
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 165","Toronto",N,N,"",2,640,"Choudhary","","Zia","Conservative","Conservateur",N,N,59
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 165","Toronto",N,N,"",2,640,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 165","Toronto",N,N,"",2,640,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,5
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 166","Toronto",N,N,"",2,467,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,66
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 166","Toronto",N,N,"",2,467,"Choudhary","","Zia","Conservative","Conservateur",N,N,53
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 166","Toronto",N,N,"",2,467,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 166","Toronto",N,N,"",2,467,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,12
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 400","Toronto",N,N,"",0,341,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,87
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 400","Toronto",N,N,"",0,341,"Choudhary","","Zia","Conservative","Conservateur",N,N,19
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 400","Toronto",N,N,"",0,341,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 400","Toronto",N,N,"",0,341,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 401","Toronto",N,N,"",0,208,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,65
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 401","Toronto",N,N,"",0,208,"Choudhary","","Zia","Conservative","Conservateur",N,N,17
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 401","Toronto",N,N,"",0,208,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 401","Toronto",N,N,"",0,208,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,2
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 402","Toronto",N,N,"",2,443,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,159
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 402","Toronto",N,N,"",2,443,"Choudhary","","Zia","Conservative","Conservateur",N,N,29
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 402","Toronto",N,N,"",2,443,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 402","Toronto",N,N,"",2,443,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,1
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 403","Toronto",N,N,"",1,353,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,104
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 403","Toronto",N,N,"",1,353,"Choudhary","","Zia","Conservative","Conservateur",N,N,24
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 403","Toronto",N,N,"",1,353,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 403","Toronto",N,N,"",1,353,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 404","Toronto",N,N,"",1,354,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,117
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 404","Toronto",N,N,"",1,354,"Choudhary","","Zia","Conservative","Conservateur",N,N,25
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 404","Toronto",N,N,"",1,354,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 404","Toronto",N,N,"",1,354,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,1
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 405","Toronto",N,N,"",1,187,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,30
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 405","Toronto",N,N,"",1,187,"Choudhary","","Zia","Conservative","Conservateur",N,N,12
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 405","Toronto",N,N,"",1,187,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 405","Toronto",N,N,"",1,187,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,0
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 406","Toronto",N,N,"",1,391,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,83
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 406","Toronto",N,N,"",1,391,"Choudhary","","Zia","Conservative","Conservateur",N,N,27
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 406","Toronto",N,N,"",1,391,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 406","Toronto",N,N,"",1,391,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,10
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 407","Toronto",N,N,"",2,296,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,52
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 407","Toronto",N,N,"",2,296,"Choudhary","","Zia","Conservative","Conservateur",N,N,36
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 407","Toronto",N,N,"",2,296,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 407","Toronto",N,N,"",2,296,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,1
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 408","Toronto",N,N,"",2,297,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,69
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 408","Toronto",N,N,"",2,297,"Choudhary","","Zia","Conservative","Conservateur",N,N,17
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 408","Toronto",N,N,"",2,297,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 408","Toronto",N,N,"",2,297,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,2
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 409","Toronto",N,N,"",1,195,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,59
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 409","Toronto",N,N,"",1,195,"Choudhary","","Zia","Conservative","Conservateur",N,N,18
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 409","Toronto",N,N,"",1,195,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 409","Toronto",N,N,"",1,195,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,0
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 410","Toronto",N,N,"",0,141,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,82
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 410","Toronto",N,N,"",0,141,"Choudhary","","Zia","Conservative","Conservateur",N,N,3
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 410","Toronto",N,N,"",0,141,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 410","Toronto",N,N,"",0,141,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,0
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 411","Toronto",N,N,"",0,357,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,65
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 411","Toronto",N,N,"",0,357,"Choudhary","","Zia","Conservative","Conservateur",N,N,24
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 411","Toronto",N,N,"",0,357,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 411","Toronto",N,N,"",0,357,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,1
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 500","Mobile poll/Bureau itinérant",N,N,"",1,85,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,11
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 500","Mobile poll/Bureau itinérant",N,N,"",1,85,"Choudhary","","Zia","Conservative","Conservateur",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 500","Mobile poll/Bureau itinérant",N,N,"",1,85,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 500","Mobile poll/Bureau itinérant",N,N,"",1,85,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,0
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 501","Mobile poll/Bureau itinérant",N,N,"",1,65,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,9
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 501","Mobile poll/Bureau itinérant",N,N,"",1,65,"Choudhary","","Zia","Conservative","Conservateur",N,N,5
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 501","Mobile poll/Bureau itinérant",N,N,"",1,65,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 501","Mobile poll/Bureau itinérant",N,N,"",1,65,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,1
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 502","Mobile poll/Bureau itinérant",N,N,"",0,138,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,22
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 502","Mobile poll/Bureau itinérant",N,N,"",0,138,"Choudhary","","Zia","Conservative","Conservateur",N,N,26
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 502","Mobile poll/Bureau itinérant",N,N,"",0,138,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 502","Mobile poll/Bureau itinérant",N,N,"",0,138,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,4
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 503","Mobile poll/Bureau itinérant",N,N,"",0,88,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,14
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 503","Mobile poll/Bureau itinérant",N,N,"",0,88,"Choudhary","","Zia","Conservative","Conservateur",N,N,16
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 503","Mobile poll/Bureau itinérant",N,N,"",0,88,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 503","Mobile poll/Bureau itinérant",N,N,"",0,88,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,3
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 600","Toronto",N,N,"",5,0,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,403
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 600","Toronto",N,N,"",5,0,"Choudhary","","Zia","Conservative","Conservateur",N,N,58
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 600","Toronto",N,N,"",5,0,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 600","Toronto",N,N,"",5,0,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,3
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 601","Toronto",N,N,"",1,0,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,762
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 601","Toronto",N,N,"",1,0,"Choudhary","","Zia","Conservative","Conservateur",N,N,122
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 601","Toronto",N,N,"",1,0,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,101
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 601","Toronto",N,N,"",1,0,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,21
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 602","Toronto",N,N,"",5,0,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,849
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 602","Toronto",N,N,"",5,0,"Choudhary","","Zia","Conservative","Conservateur",N,N,146
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 602","Toronto",N,N,"",5,0,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,102
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 602","Toronto",N,N,"",5,0,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,21
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 603","Toronto",N,N,"",0,0,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,310
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 603","Toronto",N,N,"",0,0,"Choudhary","","Zia","Conservative","Conservateur",N,N,134
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 603","Toronto",N,N,"",0,0,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 603","Toronto",N,N,"",0,0,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,6
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 604","Toronto",N,N,"",1,0,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,369
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 604","Toronto",N,N,"",1,0,"Choudhary","","Zia","Conservative","Conservateur",N,N,59
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 604","Toronto",N,N,"",1,0,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 604","Toronto",N,N,"",1,0,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,12
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 605","Toronto",N,N,"",12,0,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,830
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 605","Toronto",N,N,"",12,0,"Choudhary","","Zia","Conservative","Conservateur",N,N,209
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 605","Toronto",N,N,"",12,0,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,163
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 605","Toronto",N,N,"",12,0,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,30
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 606","Toronto",N,N,"",4,0,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,529
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 606","Toronto",N,N,"",4,0,"Choudhary","","Zia","Conservative","Conservateur",N,N,166
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 606","Toronto",N,N,"",4,0,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,81
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 606","Toronto",N,N,"",4,0,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,20
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 607","Toronto",N,N,"",2,0,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,757
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 607","Toronto",N,N,"",2,0,"Choudhary","","Zia","Conservative","Conservateur",N,N,215
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 607","Toronto",N,N,"",2,0,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,88
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 607","Toronto",N,N,"",2,0,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,31
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 608","Toronto",N,N,"",7,0,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,480
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 608","Toronto",N,N,"",7,0,"Choudhary","","Zia","Conservative","Conservateur",N,N,205
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 608","Toronto",N,N,"",7,0,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 608","Toronto",N,N,"",7,0,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,22
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 609","Toronto",N,N,"",23,0,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,856
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 609","Toronto",N,N,"",23,0,"Choudhary","","Zia","Conservative","Conservateur",N,N,608
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 609","Toronto",N,N,"",23,0,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,142
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 609","Toronto",N,N,"",23,0,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,40
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 610","Toronto",N,N,"",9,0,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,904
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 610","Toronto",N,N,"",9,0,"Choudhary","","Zia","Conservative","Conservateur",N,N,502
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 610","Toronto",N,N,"",9,0,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,186
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 610","Toronto",N,N,"",9,0,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,49
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 611","Toronto",N,N,"",16,0,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,1087
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 611","Toronto",N,N,"",16,0,"Choudhary","","Zia","Conservative","Conservateur",N,N,522
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 611","Toronto",N,N,"",16,0,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,221
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 611","Toronto",N,N,"",16,0,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,51
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 612","Toronto",N,N,"",4,0,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,401
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 612","Toronto",N,N,"",4,0,"Choudhary","","Zia","Conservative","Conservateur",N,N,220
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 612","Toronto",N,N,"",4,0,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,92
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 612","Toronto",N,N,"",4,0,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,26
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 613","Toronto",N,N,"",19,0,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,1011
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 613","Toronto",N,N,"",19,0,"Choudhary","","Zia","Conservative","Conservateur",N,N,374
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 613","Toronto",N,N,"",19,0,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,222
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," 613","Toronto",N,N,"",19,0,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,62
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",18,185,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,156
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",18,185,"Choudhary","","Zia","Conservative","Conservateur",N,N,43
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",18,185,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",18,185,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,9
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",39,0,"Anandasangaree","","Gary","Liberal","Libéral",Y,Y,1043
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",39,0,"Choudhary","","Zia","Conservative","Conservateur",N,N,312
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",39,0,"Kwok","","Kingsley Arnold","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,233
+35097,"Scarborough--Rouge Park","Scarborough--Rouge Park"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",39,0,"Rehman","","Asad","People's Party - PPC","Parti populaire - PPC",N,N,18

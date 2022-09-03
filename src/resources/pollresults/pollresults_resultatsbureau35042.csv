@@ -1,0 +1,766 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+35042,"Kenora","Kenora"," 1","Fort Severn 89",N,N,"",0,231,"Bruno","","David","Liberal","Libéral",N,N,14
+35042,"Kenora","Kenora"," 1","Fort Severn 89",N,N,"",0,231,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,6
+35042,"Kenora","Kenora"," 1","Fort Severn 89",N,N,"",0,231,"Melillo","","Eric","Conservative","Conservateur",Y,Y,6
+35042,"Kenora","Kenora"," 1","Fort Severn 89",N,N,"",0,231,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 1","Fort Severn 89",N,N,"",0,231,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35042,"Kenora","Kenora"," 2","Wapekeka 2",N,N,"",0,255,"Bruno","","David","Liberal","Libéral",N,N,1
+35042,"Kenora","Kenora"," 2","Wapekeka 2",N,N,"",0,255,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,1
+35042,"Kenora","Kenora"," 2","Wapekeka 2",N,N,"",0,255,"Melillo","","Eric","Conservative","Conservateur",Y,Y,2
+35042,"Kenora","Kenora"," 2","Wapekeka 2",N,N,"",0,255,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 2","Wapekeka 2",N,N,"",0,255,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,87
+35042,"Kenora","Kenora"," 3","Bearskin Lake",N,N,"",2,227,"Bruno","","David","Liberal","Libéral",N,N,8
+35042,"Kenora","Kenora"," 3","Bearskin Lake",N,N,"",2,227,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,1
+35042,"Kenora","Kenora"," 3","Bearskin Lake",N,N,"",2,227,"Melillo","","Eric","Conservative","Conservateur",Y,Y,0
+35042,"Kenora","Kenora"," 3","Bearskin Lake",N,N,"",2,227,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 3","Bearskin Lake",N,N,"",2,227,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,79
+35042,"Kenora","Kenora"," 4","Big Trout Lake",N,N,"",0,555,"Bruno","","David","Liberal","Libéral",N,N,20
+35042,"Kenora","Kenora"," 4","Big Trout Lake",N,N,"",0,555,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,0
+35042,"Kenora","Kenora"," 4","Big Trout Lake",N,N,"",0,555,"Melillo","","Eric","Conservative","Conservateur",Y,Y,8
+35042,"Kenora","Kenora"," 4","Big Trout Lake",N,N,"",0,555,"Rheault","","Remi","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 4","Big Trout Lake",N,N,"",0,555,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,98
+35042,"Kenora","Kenora"," 5","Sachigo Lake 1",N,N,"",2,216,"Bruno","","David","Liberal","Libéral",N,N,9
+35042,"Kenora","Kenora"," 5","Sachigo Lake 1",N,N,"",2,216,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,1
+35042,"Kenora","Kenora"," 5","Sachigo Lake 1",N,N,"",2,216,"Melillo","","Eric","Conservative","Conservateur",Y,Y,1
+35042,"Kenora","Kenora"," 5","Sachigo Lake 1",N,N,"",2,216,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 5","Sachigo Lake 1",N,N,"",2,216,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+35042,"Kenora","Kenora"," 6","Kasabonika Lake",N,N,"",0,296,"Bruno","","David","Liberal","Libéral",N,N,9
+35042,"Kenora","Kenora"," 6","Kasabonika Lake",N,N,"",0,296,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,2
+35042,"Kenora","Kenora"," 6","Kasabonika Lake",N,N,"",0,296,"Melillo","","Eric","Conservative","Conservateur",Y,Y,2
+35042,"Kenora","Kenora"," 6","Kasabonika Lake",N,N,"",0,296,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 6","Kasabonika Lake",N,N,"",0,296,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,110
+35042,"Kenora","Kenora"," 7","Muskrat Dam Lake",N,N,"",1,143,"Bruno","","David","Liberal","Libéral",N,N,17
+35042,"Kenora","Kenora"," 7","Muskrat Dam Lake",N,N,"",1,143,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,2
+35042,"Kenora","Kenora"," 7","Muskrat Dam Lake",N,N,"",1,143,"Melillo","","Eric","Conservative","Conservateur",Y,Y,3
+35042,"Kenora","Kenora"," 7","Muskrat Dam Lake",N,N,"",1,143,"Rheault","","Remi","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 7","Muskrat Dam Lake",N,N,"",1,143,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+35042,"Kenora","Kenora"," 8","Kee-Way-Win",N,N,"",0,188,"Bruno","","David","Liberal","Libéral",N,N,26
+35042,"Kenora","Kenora"," 8","Kee-Way-Win",N,N,"",0,188,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,1
+35042,"Kenora","Kenora"," 8","Kee-Way-Win",N,N,"",0,188,"Melillo","","Eric","Conservative","Conservateur",Y,Y,2
+35042,"Kenora","Kenora"," 8","Kee-Way-Win",N,N,"",0,188,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 8","Kee-Way-Win",N,N,"",0,188,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35042,"Kenora","Kenora"," 9","Kingfisher Lake 1",N,N,"",0,325,"Bruno","","David","Liberal","Libéral",N,N,1
+35042,"Kenora","Kenora"," 9","Kingfisher Lake 1",N,N,"",0,325,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,3
+35042,"Kenora","Kenora"," 9","Kingfisher Lake 1",N,N,"",0,325,"Melillo","","Eric","Conservative","Conservateur",Y,Y,4
+35042,"Kenora","Kenora"," 9","Kingfisher Lake 1",N,N,"",0,325,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 9","Kingfisher Lake 1",N,N,"",0,325,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,174
+35042,"Kenora","Kenora"," 10A","Sandy Lake 88",N,N,"",0,582,"Bruno","","David","Liberal","Libéral",N,N,182
+35042,"Kenora","Kenora"," 10A","Sandy Lake 88",N,N,"",0,582,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,2
+35042,"Kenora","Kenora"," 10A","Sandy Lake 88",N,N,"",0,582,"Melillo","","Eric","Conservative","Conservateur",Y,Y,6
+35042,"Kenora","Kenora"," 10A","Sandy Lake 88",N,N,"",0,582,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 10A","Sandy Lake 88",N,N,"",0,582,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35042,"Kenora","Kenora"," 10B","Sandy Lake 88",N,N,"10A",0,421,"Bruno","","David","Liberal","Libéral",N,N,0
+35042,"Kenora","Kenora"," 10B","Sandy Lake 88",N,N,"10A",0,421,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,0
+35042,"Kenora","Kenora"," 10B","Sandy Lake 88",N,N,"10A",0,421,"Melillo","","Eric","Conservative","Conservateur",Y,Y,0
+35042,"Kenora","Kenora"," 10B","Sandy Lake 88",N,N,"10A",0,421,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 10B","Sandy Lake 88",N,N,"10A",0,421,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35042,"Kenora","Kenora"," 11","Weagamow Lake 87",N,N,"",2,573,"Bruno","","David","Liberal","Libéral",N,N,30
+35042,"Kenora","Kenora"," 11","Weagamow Lake 87",N,N,"",2,573,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,2
+35042,"Kenora","Kenora"," 11","Weagamow Lake 87",N,N,"",2,573,"Melillo","","Eric","Conservative","Conservateur",Y,Y,6
+35042,"Kenora","Kenora"," 11","Weagamow Lake 87",N,N,"",2,573,"Rheault","","Remi","Green Party","Parti Vert",N,N,5
+35042,"Kenora","Kenora"," 11","Weagamow Lake 87",N,N,"",2,573,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,120
+35042,"Kenora","Kenora"," 12","Webequie",N,N,"",6,389,"Bruno","","David","Liberal","Libéral",N,N,57
+35042,"Kenora","Kenora"," 12","Webequie",N,N,"",6,389,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,9
+35042,"Kenora","Kenora"," 12","Webequie",N,N,"",6,389,"Melillo","","Eric","Conservative","Conservateur",Y,Y,8
+35042,"Kenora","Kenora"," 12","Webequie",N,N,"",6,389,"Rheault","","Remi","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 12","Webequie",N,N,"",6,389,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,129
+35042,"Kenora","Kenora"," 13","Wunnummin Lake",N,N,"",0,343,"Bruno","","David","Liberal","Libéral",N,N,9
+35042,"Kenora","Kenora"," 13","Wunnummin Lake",N,N,"",0,343,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,1
+35042,"Kenora","Kenora"," 13","Wunnummin Lake",N,N,"",0,343,"Melillo","","Eric","Conservative","Conservateur",Y,Y,1
+35042,"Kenora","Kenora"," 13","Wunnummin Lake",N,N,"",0,343,"Rheault","","Remi","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 13","Wunnummin Lake",N,N,"",0,343,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,139
+35042,"Kenora","Kenora"," 14","Summer Beaver",N,N,"",0,226,"Bruno","","David","Liberal","Libéral",N,N,28
+35042,"Kenora","Kenora"," 14","Summer Beaver",N,N,"",0,226,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,3
+35042,"Kenora","Kenora"," 14","Summer Beaver",N,N,"",0,226,"Melillo","","Eric","Conservative","Conservateur",Y,Y,1
+35042,"Kenora","Kenora"," 14","Summer Beaver",N,N,"",0,226,"Rheault","","Remi","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 14","Summer Beaver",N,N,"",0,226,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35042,"Kenora","Kenora"," 15","North Spirit Lake",N,N,"",1,143,"Bruno","","David","Liberal","Libéral",N,N,14
+35042,"Kenora","Kenora"," 15","North Spirit Lake",N,N,"",1,143,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,0
+35042,"Kenora","Kenora"," 15","North Spirit Lake",N,N,"",1,143,"Melillo","","Eric","Conservative","Conservateur",Y,Y,2
+35042,"Kenora","Kenora"," 15","North Spirit Lake",N,N,"",1,143,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 15","North Spirit Lake",N,N,"",1,143,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35042,"Kenora","Kenora"," 16","Deer Lake",N,N,"",1,434,"Bruno","","David","Liberal","Libéral",N,N,27
+35042,"Kenora","Kenora"," 16","Deer Lake",N,N,"",1,434,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,3
+35042,"Kenora","Kenora"," 16","Deer Lake",N,N,"",1,434,"Melillo","","Eric","Conservative","Conservateur",Y,Y,0
+35042,"Kenora","Kenora"," 16","Deer Lake",N,N,"",1,434,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 16","Deer Lake",N,N,"",1,434,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35042,"Kenora","Kenora"," 17","Neskantaga",N,N,"",1,104,"Bruno","","David","Liberal","Libéral",N,N,10
+35042,"Kenora","Kenora"," 17","Neskantaga",N,N,"",1,104,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,2
+35042,"Kenora","Kenora"," 17","Neskantaga",N,N,"",1,104,"Melillo","","Eric","Conservative","Conservateur",Y,Y,5
+35042,"Kenora","Kenora"," 17","Neskantaga",N,N,"",1,104,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 17","Neskantaga",N,N,"",1,104,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+35042,"Kenora","Kenora"," 18","Poplar Hill",N,N,"",0,308,"Bruno","","David","Liberal","Libéral",N,N,6
+35042,"Kenora","Kenora"," 18","Poplar Hill",N,N,"",0,308,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,4
+35042,"Kenora","Kenora"," 18","Poplar Hill",N,N,"",0,308,"Melillo","","Eric","Conservative","Conservateur",Y,Y,5
+35042,"Kenora","Kenora"," 18","Poplar Hill",N,N,"",0,308,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 18","Poplar Hill",N,N,"",0,308,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35042,"Kenora","Kenora"," 19","Pickle Lake",N,N,"",0,264,"Bruno","","David","Liberal","Libéral",N,N,19
+35042,"Kenora","Kenora"," 19","Pickle Lake",N,N,"",0,264,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,9
+35042,"Kenora","Kenora"," 19","Pickle Lake",N,N,"",0,264,"Melillo","","Eric","Conservative","Conservateur",Y,Y,54
+35042,"Kenora","Kenora"," 19","Pickle Lake",N,N,"",0,264,"Rheault","","Remi","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 19","Pickle Lake",N,N,"",0,264,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35042,"Kenora","Kenora"," 20","Fort Hope 64",N,N,"",0,510,"Bruno","","David","Liberal","Libéral",N,N,17
+35042,"Kenora","Kenora"," 20","Fort Hope 64",N,N,"",0,510,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,1
+35042,"Kenora","Kenora"," 20","Fort Hope 64",N,N,"",0,510,"Melillo","","Eric","Conservative","Conservateur",Y,Y,4
+35042,"Kenora","Kenora"," 20","Fort Hope 64",N,N,"",0,510,"Rheault","","Remi","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 20","Fort Hope 64",N,N,"",0,510,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,99
+35042,"Kenora","Kenora"," 21","Cat Lake 63C",N,N,"",1,195,"Bruno","","David","Liberal","Libéral",N,N,7
+35042,"Kenora","Kenora"," 21","Cat Lake 63C",N,N,"",1,195,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,1
+35042,"Kenora","Kenora"," 21","Cat Lake 63C",N,N,"",1,195,"Melillo","","Eric","Conservative","Conservateur",Y,Y,1
+35042,"Kenora","Kenora"," 21","Cat Lake 63C",N,N,"",1,195,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 21","Cat Lake 63C",N,N,"",1,195,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+35042,"Kenora","Kenora"," 22A","Pikangikum 14",N,N,"",0,524,"Bruno","","David","Liberal","Libéral",N,N,0
+35042,"Kenora","Kenora"," 22A","Pikangikum 14",N,N,"",0,524,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,1
+35042,"Kenora","Kenora"," 22A","Pikangikum 14",N,N,"",0,524,"Melillo","","Eric","Conservative","Conservateur",Y,Y,1
+35042,"Kenora","Kenora"," 22A","Pikangikum 14",N,N,"",0,524,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 22A","Pikangikum 14",N,N,"",0,524,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35042,"Kenora","Kenora"," 22B","Pikangikum 14",N,N,"22A",0,648,"Bruno","","David","Liberal","Libéral",N,N,0
+35042,"Kenora","Kenora"," 22B","Pikangikum 14",N,N,"22A",0,648,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,0
+35042,"Kenora","Kenora"," 22B","Pikangikum 14",N,N,"22A",0,648,"Melillo","","Eric","Conservative","Conservateur",Y,Y,0
+35042,"Kenora","Kenora"," 22B","Pikangikum 14",N,N,"22A",0,648,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 22B","Pikangikum 14",N,N,"22A",0,648,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35042,"Kenora","Kenora"," 23","Osnaburgh 63A",N,N,"",0,238,"Bruno","","David","Liberal","Libéral",N,N,10
+35042,"Kenora","Kenora"," 23","Osnaburgh 63A",N,N,"",0,238,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,1
+35042,"Kenora","Kenora"," 23","Osnaburgh 63A",N,N,"",0,238,"Melillo","","Eric","Conservative","Conservateur",Y,Y,8
+35042,"Kenora","Kenora"," 23","Osnaburgh 63A",N,N,"",0,238,"Rheault","","Remi","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 23","Osnaburgh 63A",N,N,"",0,238,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35042,"Kenora","Kenora"," 24","McKenzie Island",N,N,"",0,429,"Bruno","","David","Liberal","Libéral",N,N,46
+35042,"Kenora","Kenora"," 24","McKenzie Island",N,N,"",0,429,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,11
+35042,"Kenora","Kenora"," 24","McKenzie Island",N,N,"",0,429,"Melillo","","Eric","Conservative","Conservateur",Y,Y,97
+35042,"Kenora","Kenora"," 24","McKenzie Island",N,N,"",0,429,"Rheault","","Remi","Green Party","Parti Vert",N,N,9
+35042,"Kenora","Kenora"," 24","McKenzie Island",N,N,"",0,429,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35042,"Kenora","Kenora"," 25","Balmertown",N,N,"",0,241,"Bruno","","David","Liberal","Libéral",N,N,13
+35042,"Kenora","Kenora"," 25","Balmertown",N,N,"",0,241,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,12
+35042,"Kenora","Kenora"," 25","Balmertown",N,N,"",0,241,"Melillo","","Eric","Conservative","Conservateur",Y,Y,52
+35042,"Kenora","Kenora"," 25","Balmertown",N,N,"",0,241,"Rheault","","Remi","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 25","Balmertown",N,N,"",0,241,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35042,"Kenora","Kenora"," 26","Balmertown",N,N,"",0,458,"Bruno","","David","Liberal","Libéral",N,N,35
+35042,"Kenora","Kenora"," 26","Balmertown",N,N,"",0,458,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,18
+35042,"Kenora","Kenora"," 26","Balmertown",N,N,"",0,458,"Melillo","","Eric","Conservative","Conservateur",Y,Y,107
+35042,"Kenora","Kenora"," 26","Balmertown",N,N,"",0,458,"Rheault","","Remi","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 26","Balmertown",N,N,"",0,458,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35042,"Kenora","Kenora"," 27","Balmertown",N,N,"",1,309,"Bruno","","David","Liberal","Libéral",N,N,32
+35042,"Kenora","Kenora"," 27","Balmertown",N,N,"",1,309,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,12
+35042,"Kenora","Kenora"," 27","Balmertown",N,N,"",1,309,"Melillo","","Eric","Conservative","Conservateur",Y,Y,59
+35042,"Kenora","Kenora"," 27","Balmertown",N,N,"",1,309,"Rheault","","Remi","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 27","Balmertown",N,N,"",1,309,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35042,"Kenora","Kenora"," 28","Red Lake",N,N,"",1,409,"Bruno","","David","Liberal","Libéral",N,N,36
+35042,"Kenora","Kenora"," 28","Red Lake",N,N,"",1,409,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,8
+35042,"Kenora","Kenora"," 28","Red Lake",N,N,"",1,409,"Melillo","","Eric","Conservative","Conservateur",Y,Y,70
+35042,"Kenora","Kenora"," 28","Red Lake",N,N,"",1,409,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 28","Red Lake",N,N,"",1,409,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35042,"Kenora","Kenora"," 29","Ear Falls",N,N,"",1,429,"Bruno","","David","Liberal","Libéral",N,N,13
+35042,"Kenora","Kenora"," 29","Ear Falls",N,N,"",1,429,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,10
+35042,"Kenora","Kenora"," 29","Ear Falls",N,N,"",1,429,"Melillo","","Eric","Conservative","Conservateur",Y,Y,76
+35042,"Kenora","Kenora"," 29","Ear Falls",N,N,"",1,429,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 29","Ear Falls",N,N,"",1,429,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35042,"Kenora","Kenora"," 30","Ear Falls",N,N,"",1,320,"Bruno","","David","Liberal","Libéral",N,N,13
+35042,"Kenora","Kenora"," 30","Ear Falls",N,N,"",1,320,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,12
+35042,"Kenora","Kenora"," 30","Ear Falls",N,N,"",1,320,"Melillo","","Eric","Conservative","Conservateur",Y,Y,64
+35042,"Kenora","Kenora"," 30","Ear Falls",N,N,"",1,320,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 30","Ear Falls",N,N,"",1,320,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35042,"Kenora","Kenora"," 31","Red Lake",N,N,"",2,461,"Bruno","","David","Liberal","Libéral",N,N,22
+35042,"Kenora","Kenora"," 31","Red Lake",N,N,"",2,461,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,17
+35042,"Kenora","Kenora"," 31","Red Lake",N,N,"",2,461,"Melillo","","Eric","Conservative","Conservateur",Y,Y,109
+35042,"Kenora","Kenora"," 31","Red Lake",N,N,"",2,461,"Rheault","","Remi","Green Party","Parti Vert",N,N,6
+35042,"Kenora","Kenora"," 31","Red Lake",N,N,"",2,461,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35042,"Kenora","Kenora"," 32","Red Lake",N,N,"",0,435,"Bruno","","David","Liberal","Libéral",N,N,30
+35042,"Kenora","Kenora"," 32","Red Lake",N,N,"",0,435,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,16
+35042,"Kenora","Kenora"," 32","Red Lake",N,N,"",0,435,"Melillo","","Eric","Conservative","Conservateur",Y,Y,87
+35042,"Kenora","Kenora"," 32","Red Lake",N,N,"",0,435,"Rheault","","Remi","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 32","Red Lake",N,N,"",0,435,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35042,"Kenora","Kenora"," 33","Madsen",N,N,"",1,460,"Bruno","","David","Liberal","Libéral",N,N,18
+35042,"Kenora","Kenora"," 33","Madsen",N,N,"",1,460,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,19
+35042,"Kenora","Kenora"," 33","Madsen",N,N,"",1,460,"Melillo","","Eric","Conservative","Conservateur",Y,Y,69
+35042,"Kenora","Kenora"," 33","Madsen",N,N,"",1,460,"Rheault","","Remi","Green Party","Parti Vert",N,N,6
+35042,"Kenora","Kenora"," 33","Madsen",N,N,"",1,460,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35042,"Kenora","Kenora"," 34","Slate Falls",N,N,"",0,155,"Bruno","","David","Liberal","Libéral",N,N,10
+35042,"Kenora","Kenora"," 34","Slate Falls",N,N,"",0,155,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,0
+35042,"Kenora","Kenora"," 34","Slate Falls",N,N,"",0,155,"Melillo","","Eric","Conservative","Conservateur",Y,Y,9
+35042,"Kenora","Kenora"," 34","Slate Falls",N,N,"",0,155,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 34","Slate Falls",N,N,"",0,155,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35042,"Kenora","Kenora"," 35"," Saugeen First Nation ",Y,N,"",0,0,"Bruno","","David","Liberal","Libéral",N,N,0
+35042,"Kenora","Kenora"," 35"," Saugeen First Nation ",Y,N,"",0,0,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,0
+35042,"Kenora","Kenora"," 35"," Saugeen First Nation ",Y,N,"",0,0,"Melillo","","Eric","Conservative","Conservateur",Y,Y,0
+35042,"Kenora","Kenora"," 35"," Saugeen First Nation ",Y,N,"",0,0,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 35"," Saugeen First Nation ",Y,N,"",0,0,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35042,"Kenora","Kenora"," 36","Lac Seul 28",Y,N,"",0,0,"Bruno","","David","Liberal","Libéral",N,N,0
+35042,"Kenora","Kenora"," 36","Lac Seul 28",Y,N,"",0,0,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,0
+35042,"Kenora","Kenora"," 36","Lac Seul 28",Y,N,"",0,0,"Melillo","","Eric","Conservative","Conservateur",Y,Y,0
+35042,"Kenora","Kenora"," 36","Lac Seul 28",Y,N,"",0,0,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 36","Lac Seul 28",Y,N,"",0,0,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35042,"Kenora","Kenora"," 37","Wabaseemoong",N,N,"",0,454,"Bruno","","David","Liberal","Libéral",N,N,21
+35042,"Kenora","Kenora"," 37","Wabaseemoong",N,N,"",0,454,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,1
+35042,"Kenora","Kenora"," 37","Wabaseemoong",N,N,"",0,454,"Melillo","","Eric","Conservative","Conservateur",Y,Y,1
+35042,"Kenora","Kenora"," 37","Wabaseemoong",N,N,"",0,454,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 37","Wabaseemoong",N,N,"",0,454,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,80
+35042,"Kenora","Kenora"," 38A","Lac Seul 28",N,N,"",0,159,"Bruno","","David","Liberal","Libéral",N,N,10
+35042,"Kenora","Kenora"," 38A","Lac Seul 28",N,N,"",0,159,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,2
+35042,"Kenora","Kenora"," 38A","Lac Seul 28",N,N,"",0,159,"Melillo","","Eric","Conservative","Conservateur",Y,Y,10
+35042,"Kenora","Kenora"," 38A","Lac Seul 28",N,N,"",0,159,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 38A","Lac Seul 28",N,N,"",0,159,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+35042,"Kenora","Kenora"," 38B","Lac Seul 28",N,N,"",0,208,"Bruno","","David","Liberal","Libéral",N,N,10
+35042,"Kenora","Kenora"," 38B","Lac Seul 28",N,N,"",0,208,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,0
+35042,"Kenora","Kenora"," 38B","Lac Seul 28",N,N,"",0,208,"Melillo","","Eric","Conservative","Conservateur",Y,Y,5
+35042,"Kenora","Kenora"," 38B","Lac Seul 28",N,N,"",0,208,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 38B","Lac Seul 28",N,N,"",0,208,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+35042,"Kenora","Kenora"," 39","Savant Lake",N,N,"",0,53,"Bruno","","David","Liberal","Libéral",N,N,1
+35042,"Kenora","Kenora"," 39","Savant Lake",N,N,"",0,53,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,1
+35042,"Kenora","Kenora"," 39","Savant Lake",N,N,"",0,53,"Melillo","","Eric","Conservative","Conservateur",Y,Y,5
+35042,"Kenora","Kenora"," 39","Savant Lake",N,N,"",0,53,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 39","Savant Lake",N,N,"",0,53,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35042,"Kenora","Kenora"," 40","Grassy Narrows",N,N,"",0,404,"Bruno","","David","Liberal","Libéral",N,N,32
+35042,"Kenora","Kenora"," 40","Grassy Narrows",N,N,"",0,404,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,4
+35042,"Kenora","Kenora"," 40","Grassy Narrows",N,N,"",0,404,"Melillo","","Eric","Conservative","Conservateur",Y,Y,7
+35042,"Kenora","Kenora"," 40","Grassy Narrows",N,N,"",0,404,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 40","Grassy Narrows",N,N,"",0,404,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+35042,"Kenora","Kenora"," 41","Quibell",N,N,"",0,217,"Bruno","","David","Liberal","Libéral",N,N,18
+35042,"Kenora","Kenora"," 41","Quibell",N,N,"",0,217,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,14
+35042,"Kenora","Kenora"," 41","Quibell",N,N,"",0,217,"Melillo","","Eric","Conservative","Conservateur",Y,Y,81
+35042,"Kenora","Kenora"," 41","Quibell",N,N,"",0,217,"Rheault","","Remi","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 41","Quibell",N,N,"",0,217,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35042,"Kenora","Kenora"," 42","Machin",N,N,"",0,204,"Bruno","","David","Liberal","Libéral",N,N,23
+35042,"Kenora","Kenora"," 42","Machin",N,N,"",0,204,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,8
+35042,"Kenora","Kenora"," 42","Machin",N,N,"",0,204,"Melillo","","Eric","Conservative","Conservateur",Y,Y,64
+35042,"Kenora","Kenora"," 42","Machin",N,N,"",0,204,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 42","Machin",N,N,"",0,204,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35042,"Kenora","Kenora"," 43","Machin",N,N,"",0,296,"Bruno","","David","Liberal","Libéral",N,N,28
+35042,"Kenora","Kenora"," 43","Machin",N,N,"",0,296,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,13
+35042,"Kenora","Kenora"," 43","Machin",N,N,"",0,296,"Melillo","","Eric","Conservative","Conservateur",Y,Y,88
+35042,"Kenora","Kenora"," 43","Machin",N,N,"",0,296,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 43","Machin",N,N,"",0,296,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35042,"Kenora","Kenora"," 44","Lac Seul--Sioux Lookout",N,N,"",0,386,"Bruno","","David","Liberal","Libéral",N,N,23
+35042,"Kenora","Kenora"," 44","Lac Seul--Sioux Lookout",N,N,"",0,386,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,4
+35042,"Kenora","Kenora"," 44","Lac Seul--Sioux Lookout",N,N,"",0,386,"Melillo","","Eric","Conservative","Conservateur",Y,Y,50
+35042,"Kenora","Kenora"," 44","Lac Seul--Sioux Lookout",N,N,"",0,386,"Rheault","","Remi","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 44","Lac Seul--Sioux Lookout",N,N,"",0,386,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35042,"Kenora","Kenora"," 45","Sioux Lookout",N,N,"",0,479,"Bruno","","David","Liberal","Libéral",N,N,34
+35042,"Kenora","Kenora"," 45","Sioux Lookout",N,N,"",0,479,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,6
+35042,"Kenora","Kenora"," 45","Sioux Lookout",N,N,"",0,479,"Melillo","","Eric","Conservative","Conservateur",Y,Y,65
+35042,"Kenora","Kenora"," 45","Sioux Lookout",N,N,"",0,479,"Rheault","","Remi","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 45","Sioux Lookout",N,N,"",0,479,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+35042,"Kenora","Kenora"," 46","Sioux Lookout",N,N,"",0,518,"Bruno","","David","Liberal","Libéral",N,N,14
+35042,"Kenora","Kenora"," 46","Sioux Lookout",N,N,"",0,518,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,9
+35042,"Kenora","Kenora"," 46","Sioux Lookout",N,N,"",0,518,"Melillo","","Eric","Conservative","Conservateur",Y,Y,41
+35042,"Kenora","Kenora"," 46","Sioux Lookout",N,N,"",0,518,"Rheault","","Remi","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 46","Sioux Lookout",N,N,"",0,518,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,103
+35042,"Kenora","Kenora"," 47","Sioux Lookout",N,N,"",0,274,"Bruno","","David","Liberal","Libéral",N,N,17
+35042,"Kenora","Kenora"," 47","Sioux Lookout",N,N,"",0,274,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,3
+35042,"Kenora","Kenora"," 47","Sioux Lookout",N,N,"",0,274,"Melillo","","Eric","Conservative","Conservateur",Y,Y,37
+35042,"Kenora","Kenora"," 47","Sioux Lookout",N,N,"",0,274,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 47","Sioux Lookout",N,N,"",0,274,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35042,"Kenora","Kenora"," 48","Sioux Lookout",N,N,"",0,323,"Bruno","","David","Liberal","Libéral",N,N,30
+35042,"Kenora","Kenora"," 48","Sioux Lookout",N,N,"",0,323,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,3
+35042,"Kenora","Kenora"," 48","Sioux Lookout",N,N,"",0,323,"Melillo","","Eric","Conservative","Conservateur",Y,Y,40
+35042,"Kenora","Kenora"," 48","Sioux Lookout",N,N,"",0,323,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 48","Sioux Lookout",N,N,"",0,323,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35042,"Kenora","Kenora"," 49","Sioux Lookout",N,N,"",0,342,"Bruno","","David","Liberal","Libéral",N,N,17
+35042,"Kenora","Kenora"," 49","Sioux Lookout",N,N,"",0,342,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,2
+35042,"Kenora","Kenora"," 49","Sioux Lookout",N,N,"",0,342,"Melillo","","Eric","Conservative","Conservateur",Y,Y,24
+35042,"Kenora","Kenora"," 49","Sioux Lookout",N,N,"",0,342,"Rheault","","Remi","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 49","Sioux Lookout",N,N,"",0,342,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35042,"Kenora","Kenora"," 50","Sioux Lookout",N,N,"",0,429,"Bruno","","David","Liberal","Libéral",N,N,26
+35042,"Kenora","Kenora"," 50","Sioux Lookout",N,N,"",0,429,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,3
+35042,"Kenora","Kenora"," 50","Sioux Lookout",N,N,"",0,429,"Melillo","","Eric","Conservative","Conservateur",Y,Y,57
+35042,"Kenora","Kenora"," 50","Sioux Lookout",N,N,"",0,429,"Rheault","","Remi","Green Party","Parti Vert",N,N,5
+35042,"Kenora","Kenora"," 50","Sioux Lookout",N,N,"",0,429,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35042,"Kenora","Kenora"," 51","Two Mile Corner",N,N,"",0,429,"Bruno","","David","Liberal","Libéral",N,N,16
+35042,"Kenora","Kenora"," 51","Two Mile Corner",N,N,"",0,429,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,16
+35042,"Kenora","Kenora"," 51","Two Mile Corner",N,N,"",0,429,"Melillo","","Eric","Conservative","Conservateur",Y,Y,72
+35042,"Kenora","Kenora"," 51","Two Mile Corner",N,N,"",0,429,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 51","Two Mile Corner",N,N,"",0,429,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35042,"Kenora","Kenora"," 52","Oxdrift",N,N,"",0,446,"Bruno","","David","Liberal","Libéral",N,N,33
+35042,"Kenora","Kenora"," 52","Oxdrift",N,N,"",0,446,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,21
+35042,"Kenora","Kenora"," 52","Oxdrift",N,N,"",0,446,"Melillo","","Eric","Conservative","Conservateur",Y,Y,154
+35042,"Kenora","Kenora"," 52","Oxdrift",N,N,"",0,446,"Rheault","","Remi","Green Party","Parti Vert",N,N,6
+35042,"Kenora","Kenora"," 52","Oxdrift",N,N,"",0,446,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35042,"Kenora","Kenora"," 53","Two Mile Corner",N,N,"",0,300,"Bruno","","David","Liberal","Libéral",N,N,20
+35042,"Kenora","Kenora"," 53","Two Mile Corner",N,N,"",0,300,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,7
+35042,"Kenora","Kenora"," 53","Two Mile Corner",N,N,"",0,300,"Melillo","","Eric","Conservative","Conservateur",Y,Y,85
+35042,"Kenora","Kenora"," 53","Two Mile Corner",N,N,"",0,300,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 53","Two Mile Corner",N,N,"",0,300,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35042,"Kenora","Kenora"," 54","Sioux Lookout",N,N,"",1,430,"Bruno","","David","Liberal","Libéral",N,N,18
+35042,"Kenora","Kenora"," 54","Sioux Lookout",N,N,"",1,430,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,7
+35042,"Kenora","Kenora"," 54","Sioux Lookout",N,N,"",1,430,"Melillo","","Eric","Conservative","Conservateur",Y,Y,66
+35042,"Kenora","Kenora"," 54","Sioux Lookout",N,N,"",1,430,"Rheault","","Remi","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 54","Sioux Lookout",N,N,"",1,430,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35042,"Kenora","Kenora"," 55","Sioux Lookout",N,N,"",0,310,"Bruno","","David","Liberal","Libéral",N,N,21
+35042,"Kenora","Kenora"," 55","Sioux Lookout",N,N,"",0,310,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,7
+35042,"Kenora","Kenora"," 55","Sioux Lookout",N,N,"",0,310,"Melillo","","Eric","Conservative","Conservateur",Y,Y,31
+35042,"Kenora","Kenora"," 55","Sioux Lookout",N,N,"",0,310,"Rheault","","Remi","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 55","Sioux Lookout",N,N,"",0,310,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35042,"Kenora","Kenora"," 56","Sioux Lookout",N,N,"",0,300,"Bruno","","David","Liberal","Libéral",N,N,12
+35042,"Kenora","Kenora"," 56","Sioux Lookout",N,N,"",0,300,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,5
+35042,"Kenora","Kenora"," 56","Sioux Lookout",N,N,"",0,300,"Melillo","","Eric","Conservative","Conservateur",Y,Y,32
+35042,"Kenora","Kenora"," 56","Sioux Lookout",N,N,"",0,300,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 56","Sioux Lookout",N,N,"",0,300,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35042,"Kenora","Kenora"," 57","Sioux Lookout",N,N,"",0,263,"Bruno","","David","Liberal","Libéral",N,N,13
+35042,"Kenora","Kenora"," 57","Sioux Lookout",N,N,"",0,263,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,9
+35042,"Kenora","Kenora"," 57","Sioux Lookout",N,N,"",0,263,"Melillo","","Eric","Conservative","Conservateur",Y,Y,23
+35042,"Kenora","Kenora"," 57","Sioux Lookout",N,N,"",0,263,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 57","Sioux Lookout",N,N,"",0,263,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35042,"Kenora","Kenora"," 58","Kenora, Unorganized",N,N,"",0,336,"Bruno","","David","Liberal","Libéral",N,N,33
+35042,"Kenora","Kenora"," 58","Kenora, Unorganized",N,N,"",0,336,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,10
+35042,"Kenora","Kenora"," 58","Kenora, Unorganized",N,N,"",0,336,"Melillo","","Eric","Conservative","Conservateur",Y,Y,45
+35042,"Kenora","Kenora"," 58","Kenora, Unorganized",N,N,"",0,336,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 58","Kenora, Unorganized",N,N,"",0,336,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+35042,"Kenora","Kenora"," 59","Redditt",N,N,"",0,84,"Bruno","","David","Liberal","Libéral",N,N,11
+35042,"Kenora","Kenora"," 59","Redditt",N,N,"",0,84,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,0
+35042,"Kenora","Kenora"," 59","Redditt",N,N,"",0,84,"Melillo","","Eric","Conservative","Conservateur",Y,Y,39
+35042,"Kenora","Kenora"," 59","Redditt",N,N,"",0,84,"Rheault","","Remi","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 59","Redditt",N,N,"",0,84,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35042,"Kenora","Kenora"," 60","Minaki",N,N,"",0,130,"Bruno","","David","Liberal","Libéral",N,N,21
+35042,"Kenora","Kenora"," 60","Minaki",N,N,"",0,130,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,2
+35042,"Kenora","Kenora"," 60","Minaki",N,N,"",0,130,"Melillo","","Eric","Conservative","Conservateur",Y,Y,42
+35042,"Kenora","Kenora"," 60","Minaki",N,N,"",0,130,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 60","Minaki",N,N,"",0,130,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35042,"Kenora","Kenora"," 61","The Dalles 38C",N,N,"",0,110,"Bruno","","David","Liberal","Libéral",N,N,5
+35042,"Kenora","Kenora"," 61","The Dalles 38C",N,N,"",0,110,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,0
+35042,"Kenora","Kenora"," 61","The Dalles 38C",N,N,"",0,110,"Melillo","","Eric","Conservative","Conservateur",Y,Y,5
+35042,"Kenora","Kenora"," 61","The Dalles 38C",N,N,"",0,110,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 61","The Dalles 38C",N,N,"",0,110,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35042,"Kenora","Kenora"," 62","Kenora",N,N,"",0,514,"Bruno","","David","Liberal","Libéral",N,N,44
+35042,"Kenora","Kenora"," 62","Kenora",N,N,"",0,514,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,20
+35042,"Kenora","Kenora"," 62","Kenora",N,N,"",0,514,"Melillo","","Eric","Conservative","Conservateur",Y,Y,140
+35042,"Kenora","Kenora"," 62","Kenora",N,N,"",0,514,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 62","Kenora",N,N,"",0,514,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+35042,"Kenora","Kenora"," 63","Kenora",N,N,"",0,515,"Bruno","","David","Liberal","Libéral",N,N,49
+35042,"Kenora","Kenora"," 63","Kenora",N,N,"",0,515,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,16
+35042,"Kenora","Kenora"," 63","Kenora",N,N,"",0,515,"Melillo","","Eric","Conservative","Conservateur",Y,Y,122
+35042,"Kenora","Kenora"," 63","Kenora",N,N,"",0,515,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 63","Kenora",N,N,"",0,515,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+35042,"Kenora","Kenora"," 64","Kenora",N,N,"",0,565,"Bruno","","David","Liberal","Libéral",N,N,29
+35042,"Kenora","Kenora"," 64","Kenora",N,N,"",0,565,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,15
+35042,"Kenora","Kenora"," 64","Kenora",N,N,"",0,565,"Melillo","","Eric","Conservative","Conservateur",Y,Y,167
+35042,"Kenora","Kenora"," 64","Kenora",N,N,"",0,565,"Rheault","","Remi","Green Party","Parti Vert",N,N,6
+35042,"Kenora","Kenora"," 64","Kenora",N,N,"",0,565,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+35042,"Kenora","Kenora"," 65","Kenora, Unorganized",N,N,"",0,248,"Bruno","","David","Liberal","Libéral",N,N,25
+35042,"Kenora","Kenora"," 65","Kenora, Unorganized",N,N,"",0,248,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,2
+35042,"Kenora","Kenora"," 65","Kenora, Unorganized",N,N,"",0,248,"Melillo","","Eric","Conservative","Conservateur",Y,Y,83
+35042,"Kenora","Kenora"," 65","Kenora, Unorganized",N,N,"",0,248,"Rheault","","Remi","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 65","Kenora, Unorganized",N,N,"",0,248,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35042,"Kenora","Kenora"," 66","Laclu",N,N,"",1,336,"Bruno","","David","Liberal","Libéral",N,N,45
+35042,"Kenora","Kenora"," 66","Laclu",N,N,"",1,336,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,9
+35042,"Kenora","Kenora"," 66","Laclu",N,N,"",1,336,"Melillo","","Eric","Conservative","Conservateur",Y,Y,116
+35042,"Kenora","Kenora"," 66","Laclu",N,N,"",1,336,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 66","Laclu",N,N,"",1,336,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35042,"Kenora","Kenora"," 67","Kenora",N,N,"",0,305,"Bruno","","David","Liberal","Libéral",N,N,27
+35042,"Kenora","Kenora"," 67","Kenora",N,N,"",0,305,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,6
+35042,"Kenora","Kenora"," 67","Kenora",N,N,"",0,305,"Melillo","","Eric","Conservative","Conservateur",Y,Y,86
+35042,"Kenora","Kenora"," 67","Kenora",N,N,"",0,305,"Rheault","","Remi","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 67","Kenora",N,N,"",0,305,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35042,"Kenora","Kenora"," 68","Kenora",N,N,"",3,442,"Bruno","","David","Liberal","Libéral",N,N,32
+35042,"Kenora","Kenora"," 68","Kenora",N,N,"",3,442,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,8
+35042,"Kenora","Kenora"," 68","Kenora",N,N,"",3,442,"Melillo","","Eric","Conservative","Conservateur",Y,Y,60
+35042,"Kenora","Kenora"," 68","Kenora",N,N,"",3,442,"Rheault","","Remi","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 68","Kenora",N,N,"",3,442,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+35042,"Kenora","Kenora"," 69","Kenora",N,N,"",0,242,"Bruno","","David","Liberal","Libéral",N,N,8
+35042,"Kenora","Kenora"," 69","Kenora",N,N,"",0,242,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,7
+35042,"Kenora","Kenora"," 69","Kenora",N,N,"",0,242,"Melillo","","Eric","Conservative","Conservateur",Y,Y,33
+35042,"Kenora","Kenora"," 69","Kenora",N,N,"",0,242,"Rheault","","Remi","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 69","Kenora",N,N,"",0,242,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35042,"Kenora","Kenora"," 70","Kenora",N,N,"",2,440,"Bruno","","David","Liberal","Libéral",N,N,20
+35042,"Kenora","Kenora"," 70","Kenora",N,N,"",2,440,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,10
+35042,"Kenora","Kenora"," 70","Kenora",N,N,"",2,440,"Melillo","","Eric","Conservative","Conservateur",Y,Y,55
+35042,"Kenora","Kenora"," 70","Kenora",N,N,"",2,440,"Rheault","","Remi","Green Party","Parti Vert",N,N,5
+35042,"Kenora","Kenora"," 70","Kenora",N,N,"",2,440,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+35042,"Kenora","Kenora"," 71","Kenora",N,N,"",0,278,"Bruno","","David","Liberal","Libéral",N,N,21
+35042,"Kenora","Kenora"," 71","Kenora",N,N,"",0,278,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,4
+35042,"Kenora","Kenora"," 71","Kenora",N,N,"",0,278,"Melillo","","Eric","Conservative","Conservateur",Y,Y,64
+35042,"Kenora","Kenora"," 71","Kenora",N,N,"",0,278,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 71","Kenora",N,N,"",0,278,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35042,"Kenora","Kenora"," 72","Kenora",N,N,"",0,312,"Bruno","","David","Liberal","Libéral",N,N,29
+35042,"Kenora","Kenora"," 72","Kenora",N,N,"",0,312,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,7
+35042,"Kenora","Kenora"," 72","Kenora",N,N,"",0,312,"Melillo","","Eric","Conservative","Conservateur",Y,Y,47
+35042,"Kenora","Kenora"," 72","Kenora",N,N,"",0,312,"Rheault","","Remi","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 72","Kenora",N,N,"",0,312,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35042,"Kenora","Kenora"," 73","Kenora",N,N,"",1,518,"Bruno","","David","Liberal","Libéral",N,N,47
+35042,"Kenora","Kenora"," 73","Kenora",N,N,"",1,518,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,5
+35042,"Kenora","Kenora"," 73","Kenora",N,N,"",1,518,"Melillo","","Eric","Conservative","Conservateur",Y,Y,135
+35042,"Kenora","Kenora"," 73","Kenora",N,N,"",1,518,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 73","Kenora",N,N,"",1,518,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35042,"Kenora","Kenora"," 74","Two Mile Corner",N,N,"",2,588,"Bruno","","David","Liberal","Libéral",N,N,44
+35042,"Kenora","Kenora"," 74","Two Mile Corner",N,N,"",2,588,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,19
+35042,"Kenora","Kenora"," 74","Two Mile Corner",N,N,"",2,588,"Melillo","","Eric","Conservative","Conservateur",Y,Y,97
+35042,"Kenora","Kenora"," 74","Two Mile Corner",N,N,"",2,588,"Rheault","","Remi","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 74","Two Mile Corner",N,N,"",2,588,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35042,"Kenora","Kenora"," 75","Dryden",N,N,"",1,499,"Bruno","","David","Liberal","Libéral",N,N,43
+35042,"Kenora","Kenora"," 75","Dryden",N,N,"",1,499,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,14
+35042,"Kenora","Kenora"," 75","Dryden",N,N,"",1,499,"Melillo","","Eric","Conservative","Conservateur",Y,Y,81
+35042,"Kenora","Kenora"," 75","Dryden",N,N,"",1,499,"Rheault","","Remi","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 75","Dryden",N,N,"",1,499,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35042,"Kenora","Kenora"," 76","Dryden",N,N,"",0,352,"Bruno","","David","Liberal","Libéral",N,N,6
+35042,"Kenora","Kenora"," 76","Dryden",N,N,"",0,352,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,10
+35042,"Kenora","Kenora"," 76","Dryden",N,N,"",0,352,"Melillo","","Eric","Conservative","Conservateur",Y,Y,54
+35042,"Kenora","Kenora"," 76","Dryden",N,N,"",0,352,"Rheault","","Remi","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 76","Dryden",N,N,"",0,352,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35042,"Kenora","Kenora"," 77","Dryden",N,N,"",0,361,"Bruno","","David","Liberal","Libéral",N,N,22
+35042,"Kenora","Kenora"," 77","Dryden",N,N,"",0,361,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,13
+35042,"Kenora","Kenora"," 77","Dryden",N,N,"",0,361,"Melillo","","Eric","Conservative","Conservateur",Y,Y,67
+35042,"Kenora","Kenora"," 77","Dryden",N,N,"",0,361,"Rheault","","Remi","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 77","Dryden",N,N,"",0,361,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35042,"Kenora","Kenora"," 78","Dryden",N,N,"",0,263,"Bruno","","David","Liberal","Libéral",N,N,24
+35042,"Kenora","Kenora"," 78","Dryden",N,N,"",0,263,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,8
+35042,"Kenora","Kenora"," 78","Dryden",N,N,"",0,263,"Melillo","","Eric","Conservative","Conservateur",Y,Y,53
+35042,"Kenora","Kenora"," 78","Dryden",N,N,"",0,263,"Rheault","","Remi","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 78","Dryden",N,N,"",0,263,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35042,"Kenora","Kenora"," 79","Kenora, Unorganized",N,N,"",0,427,"Bruno","","David","Liberal","Libéral",N,N,14
+35042,"Kenora","Kenora"," 79","Kenora, Unorganized",N,N,"",0,427,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,15
+35042,"Kenora","Kenora"," 79","Kenora, Unorganized",N,N,"",0,427,"Melillo","","Eric","Conservative","Conservateur",Y,Y,77
+35042,"Kenora","Kenora"," 79","Kenora, Unorganized",N,N,"",0,427,"Rheault","","Remi","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 79","Kenora, Unorganized",N,N,"",0,427,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35042,"Kenora","Kenora"," 80","Kenora",N,N,"",0,484,"Bruno","","David","Liberal","Libéral",N,N,18
+35042,"Kenora","Kenora"," 80","Kenora",N,N,"",0,484,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,4
+35042,"Kenora","Kenora"," 80","Kenora",N,N,"",0,484,"Melillo","","Eric","Conservative","Conservateur",Y,Y,44
+35042,"Kenora","Kenora"," 80","Kenora",N,N,"",0,484,"Rheault","","Remi","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 80","Kenora",N,N,"",0,484,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+35042,"Kenora","Kenora"," 81","Kenora",N,N,"",0,509,"Bruno","","David","Liberal","Libéral",N,N,42
+35042,"Kenora","Kenora"," 81","Kenora",N,N,"",0,509,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,8
+35042,"Kenora","Kenora"," 81","Kenora",N,N,"",0,509,"Melillo","","Eric","Conservative","Conservateur",Y,Y,77
+35042,"Kenora","Kenora"," 81","Kenora",N,N,"",0,509,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 81","Kenora",N,N,"",0,509,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+35042,"Kenora","Kenora"," 82","Kenora",N,N,"",0,310,"Bruno","","David","Liberal","Libéral",N,N,20
+35042,"Kenora","Kenora"," 82","Kenora",N,N,"",0,310,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,6
+35042,"Kenora","Kenora"," 82","Kenora",N,N,"",0,310,"Melillo","","Eric","Conservative","Conservateur",Y,Y,67
+35042,"Kenora","Kenora"," 82","Kenora",N,N,"",0,310,"Rheault","","Remi","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 82","Kenora",N,N,"",0,310,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35042,"Kenora","Kenora"," 83","Kenora",N,N,"",0,305,"Bruno","","David","Liberal","Libéral",N,N,24
+35042,"Kenora","Kenora"," 83","Kenora",N,N,"",0,305,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,8
+35042,"Kenora","Kenora"," 83","Kenora",N,N,"",0,305,"Melillo","","Eric","Conservative","Conservateur",Y,Y,74
+35042,"Kenora","Kenora"," 83","Kenora",N,N,"",0,305,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 83","Kenora",N,N,"",0,305,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35042,"Kenora","Kenora"," 84","Kenora",N,N,"",0,446,"Bruno","","David","Liberal","Libéral",N,N,46
+35042,"Kenora","Kenora"," 84","Kenora",N,N,"",0,446,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,4
+35042,"Kenora","Kenora"," 84","Kenora",N,N,"",0,446,"Melillo","","Eric","Conservative","Conservateur",Y,Y,96
+35042,"Kenora","Kenora"," 84","Kenora",N,N,"",0,446,"Rheault","","Remi","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 84","Kenora",N,N,"",0,446,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+35042,"Kenora","Kenora"," 85","Kenora",N,N,"",1,355,"Bruno","","David","Liberal","Libéral",N,N,24
+35042,"Kenora","Kenora"," 85","Kenora",N,N,"",1,355,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,17
+35042,"Kenora","Kenora"," 85","Kenora",N,N,"",1,355,"Melillo","","Eric","Conservative","Conservateur",Y,Y,71
+35042,"Kenora","Kenora"," 85","Kenora",N,N,"",1,355,"Rheault","","Remi","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 85","Kenora",N,N,"",1,355,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35042,"Kenora","Kenora"," 86","Kenora",N,N,"",0,291,"Bruno","","David","Liberal","Libéral",N,N,48
+35042,"Kenora","Kenora"," 86","Kenora",N,N,"",0,291,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,5
+35042,"Kenora","Kenora"," 86","Kenora",N,N,"",0,291,"Melillo","","Eric","Conservative","Conservateur",Y,Y,43
+35042,"Kenora","Kenora"," 86","Kenora",N,N,"",0,291,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 86","Kenora",N,N,"",0,291,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35042,"Kenora","Kenora"," 87","Kenora",N,N,"",0,325,"Bruno","","David","Liberal","Libéral",N,N,15
+35042,"Kenora","Kenora"," 87","Kenora",N,N,"",0,325,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,6
+35042,"Kenora","Kenora"," 87","Kenora",N,N,"",0,325,"Melillo","","Eric","Conservative","Conservateur",Y,Y,73
+35042,"Kenora","Kenora"," 87","Kenora",N,N,"",0,325,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 87","Kenora",N,N,"",0,325,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35042,"Kenora","Kenora"," 88","Kenora",N,N,"",0,392,"Bruno","","David","Liberal","Libéral",N,N,16
+35042,"Kenora","Kenora"," 88","Kenora",N,N,"",0,392,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,9
+35042,"Kenora","Kenora"," 88","Kenora",N,N,"",0,392,"Melillo","","Eric","Conservative","Conservateur",Y,Y,51
+35042,"Kenora","Kenora"," 88","Kenora",N,N,"",0,392,"Rheault","","Remi","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 88","Kenora",N,N,"",0,392,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35042,"Kenora","Kenora"," 89","Eagle River",N,N,"",0,585,"Bruno","","David","Liberal","Libéral",N,N,64
+35042,"Kenora","Kenora"," 89","Eagle River",N,N,"",0,585,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,23
+35042,"Kenora","Kenora"," 89","Eagle River",N,N,"",0,585,"Melillo","","Eric","Conservative","Conservateur",Y,Y,199
+35042,"Kenora","Kenora"," 89","Eagle River",N,N,"",0,585,"Rheault","","Remi","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 89","Eagle River",N,N,"",0,585,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35042,"Kenora","Kenora"," 90","Kenora",N,N,"",2,444,"Bruno","","David","Liberal","Libéral",N,N,37
+35042,"Kenora","Kenora"," 90","Kenora",N,N,"",2,444,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,12
+35042,"Kenora","Kenora"," 90","Kenora",N,N,"",2,444,"Melillo","","Eric","Conservative","Conservateur",Y,Y,82
+35042,"Kenora","Kenora"," 90","Kenora",N,N,"",2,444,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 90","Kenora",N,N,"",2,444,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+35042,"Kenora","Kenora"," 91","Kenora",N,N,"",1,396,"Bruno","","David","Liberal","Libéral",N,N,39
+35042,"Kenora","Kenora"," 91","Kenora",N,N,"",1,396,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,3
+35042,"Kenora","Kenora"," 91","Kenora",N,N,"",1,396,"Melillo","","Eric","Conservative","Conservateur",Y,Y,40
+35042,"Kenora","Kenora"," 91","Kenora",N,N,"",1,396,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 91","Kenora",N,N,"",1,396,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35042,"Kenora","Kenora"," 92","Kenora",N,N,"",3,501,"Bruno","","David","Liberal","Libéral",N,N,50
+35042,"Kenora","Kenora"," 92","Kenora",N,N,"",3,501,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,14
+35042,"Kenora","Kenora"," 92","Kenora",N,N,"",3,501,"Melillo","","Eric","Conservative","Conservateur",Y,Y,92
+35042,"Kenora","Kenora"," 92","Kenora",N,N,"",3,501,"Rheault","","Remi","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 92","Kenora",N,N,"",3,501,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+35042,"Kenora","Kenora"," 93","Kenora",N,N,"",1,515,"Bruno","","David","Liberal","Libéral",N,N,57
+35042,"Kenora","Kenora"," 93","Kenora",N,N,"",1,515,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,9
+35042,"Kenora","Kenora"," 93","Kenora",N,N,"",1,515,"Melillo","","Eric","Conservative","Conservateur",Y,Y,133
+35042,"Kenora","Kenora"," 93","Kenora",N,N,"",1,515,"Rheault","","Remi","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 93","Kenora",N,N,"",1,515,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+35042,"Kenora","Kenora"," 94","Clearwater Bay--Granite Lake",N,N,"",0,128,"Bruno","","David","Liberal","Libéral",N,N,7
+35042,"Kenora","Kenora"," 94","Clearwater Bay--Granite Lake",N,N,"",0,128,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,2
+35042,"Kenora","Kenora"," 94","Clearwater Bay--Granite Lake",N,N,"",0,128,"Melillo","","Eric","Conservative","Conservateur",Y,Y,39
+35042,"Kenora","Kenora"," 94","Clearwater Bay--Granite Lake",N,N,"",0,128,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 94","Clearwater Bay--Granite Lake",N,N,"",0,128,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35042,"Kenora","Kenora"," 95","Kenora",N,N,"",0,295,"Bruno","","David","Liberal","Libéral",N,N,21
+35042,"Kenora","Kenora"," 95","Kenora",N,N,"",0,295,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,8
+35042,"Kenora","Kenora"," 95","Kenora",N,N,"",0,295,"Melillo","","Eric","Conservative","Conservateur",Y,Y,85
+35042,"Kenora","Kenora"," 95","Kenora",N,N,"",0,295,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 95","Kenora",N,N,"",0,295,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35042,"Kenora","Kenora"," 96","Kenora",N,N,"",1,430,"Bruno","","David","Liberal","Libéral",N,N,32
+35042,"Kenora","Kenora"," 96","Kenora",N,N,"",1,430,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,8
+35042,"Kenora","Kenora"," 96","Kenora",N,N,"",1,430,"Melillo","","Eric","Conservative","Conservateur",Y,Y,87
+35042,"Kenora","Kenora"," 96","Kenora",N,N,"",1,430,"Rheault","","Remi","Green Party","Parti Vert",N,N,5
+35042,"Kenora","Kenora"," 96","Kenora",N,N,"",1,430,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35042,"Kenora","Kenora"," 97","Kenora",N,N,"",0,368,"Bruno","","David","Liberal","Libéral",N,N,36
+35042,"Kenora","Kenora"," 97","Kenora",N,N,"",0,368,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,7
+35042,"Kenora","Kenora"," 97","Kenora",N,N,"",0,368,"Melillo","","Eric","Conservative","Conservateur",Y,Y,86
+35042,"Kenora","Kenora"," 97","Kenora",N,N,"",0,368,"Rheault","","Remi","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 97","Kenora",N,N,"",0,368,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35042,"Kenora","Kenora"," 98","Kenora",N,N,"",0,391,"Bruno","","David","Liberal","Libéral",N,N,36
+35042,"Kenora","Kenora"," 98","Kenora",N,N,"",0,391,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,4
+35042,"Kenora","Kenora"," 98","Kenora",N,N,"",0,391,"Melillo","","Eric","Conservative","Conservateur",Y,Y,92
+35042,"Kenora","Kenora"," 98","Kenora",N,N,"",0,391,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 98","Kenora",N,N,"",0,391,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35042,"Kenora","Kenora"," 99","Kenora",N,N,"",0,385,"Bruno","","David","Liberal","Libéral",N,N,34
+35042,"Kenora","Kenora"," 99","Kenora",N,N,"",0,385,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,0
+35042,"Kenora","Kenora"," 99","Kenora",N,N,"",0,385,"Melillo","","Eric","Conservative","Conservateur",Y,Y,66
+35042,"Kenora","Kenora"," 99","Kenora",N,N,"",0,385,"Rheault","","Remi","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 99","Kenora",N,N,"",0,385,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+35042,"Kenora","Kenora"," 100","Kenora",N,N,"",1,356,"Bruno","","David","Liberal","Libéral",N,N,31
+35042,"Kenora","Kenora"," 100","Kenora",N,N,"",1,356,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,11
+35042,"Kenora","Kenora"," 100","Kenora",N,N,"",1,356,"Melillo","","Eric","Conservative","Conservateur",Y,Y,104
+35042,"Kenora","Kenora"," 100","Kenora",N,N,"",1,356,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 100","Kenora",N,N,"",1,356,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35042,"Kenora","Kenora"," 101","Kenora",N,N,"",0,290,"Bruno","","David","Liberal","Libéral",N,N,22
+35042,"Kenora","Kenora"," 101","Kenora",N,N,"",0,290,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,8
+35042,"Kenora","Kenora"," 101","Kenora",N,N,"",0,290,"Melillo","","Eric","Conservative","Conservateur",Y,Y,99
+35042,"Kenora","Kenora"," 101","Kenora",N,N,"",0,290,"Rheault","","Remi","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 101","Kenora",N,N,"",0,290,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35042,"Kenora","Kenora"," 102","Dryden",N,N,"",0,332,"Bruno","","David","Liberal","Libéral",N,N,24
+35042,"Kenora","Kenora"," 102","Dryden",N,N,"",0,332,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,10
+35042,"Kenora","Kenora"," 102","Dryden",N,N,"",0,332,"Melillo","","Eric","Conservative","Conservateur",Y,Y,29
+35042,"Kenora","Kenora"," 102","Dryden",N,N,"",0,332,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 102","Dryden",N,N,"",0,332,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35042,"Kenora","Kenora"," 103","Dryden",N,N,"",0,243,"Bruno","","David","Liberal","Libéral",N,N,13
+35042,"Kenora","Kenora"," 103","Dryden",N,N,"",0,243,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,5
+35042,"Kenora","Kenora"," 103","Dryden",N,N,"",0,243,"Melillo","","Eric","Conservative","Conservateur",Y,Y,23
+35042,"Kenora","Kenora"," 103","Dryden",N,N,"",0,243,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 103","Dryden",N,N,"",0,243,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35042,"Kenora","Kenora"," 104","Dryden",N,N,"",0,467,"Bruno","","David","Liberal","Libéral",N,N,53
+35042,"Kenora","Kenora"," 104","Dryden",N,N,"",0,467,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,19
+35042,"Kenora","Kenora"," 104","Dryden",N,N,"",0,467,"Melillo","","Eric","Conservative","Conservateur",Y,Y,79
+35042,"Kenora","Kenora"," 104","Dryden",N,N,"",0,467,"Rheault","","Remi","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 104","Dryden",N,N,"",0,467,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35042,"Kenora","Kenora"," 105","Dryden",N,N,"",0,468,"Bruno","","David","Liberal","Libéral",N,N,28
+35042,"Kenora","Kenora"," 105","Dryden",N,N,"",0,468,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,16
+35042,"Kenora","Kenora"," 105","Dryden",N,N,"",0,468,"Melillo","","Eric","Conservative","Conservateur",Y,Y,57
+35042,"Kenora","Kenora"," 105","Dryden",N,N,"",0,468,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 105","Dryden",N,N,"",0,468,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35042,"Kenora","Kenora"," 106","Dryden",N,N,"",0,355,"Bruno","","David","Liberal","Libéral",N,N,33
+35042,"Kenora","Kenora"," 106","Dryden",N,N,"",0,355,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,8
+35042,"Kenora","Kenora"," 106","Dryden",N,N,"",0,355,"Melillo","","Eric","Conservative","Conservateur",Y,Y,47
+35042,"Kenora","Kenora"," 106","Dryden",N,N,"",0,355,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 106","Dryden",N,N,"",0,355,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35042,"Kenora","Kenora"," 107","Dryden",N,N,"",0,324,"Bruno","","David","Liberal","Libéral",N,N,31
+35042,"Kenora","Kenora"," 107","Dryden",N,N,"",0,324,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,14
+35042,"Kenora","Kenora"," 107","Dryden",N,N,"",0,324,"Melillo","","Eric","Conservative","Conservateur",Y,Y,55
+35042,"Kenora","Kenora"," 107","Dryden",N,N,"",0,324,"Rheault","","Remi","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 107","Dryden",N,N,"",0,324,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35042,"Kenora","Kenora"," 108","Dryden",N,N,"",0,393,"Bruno","","David","Liberal","Libéral",N,N,32
+35042,"Kenora","Kenora"," 108","Dryden",N,N,"",0,393,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,9
+35042,"Kenora","Kenora"," 108","Dryden",N,N,"",0,393,"Melillo","","Eric","Conservative","Conservateur",Y,Y,65
+35042,"Kenora","Kenora"," 108","Dryden",N,N,"",0,393,"Rheault","","Remi","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 108","Dryden",N,N,"",0,393,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35042,"Kenora","Kenora"," 109","Dryden",N,N,"",3,411,"Bruno","","David","Liberal","Libéral",N,N,73
+35042,"Kenora","Kenora"," 109","Dryden",N,N,"",3,411,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,8
+35042,"Kenora","Kenora"," 109","Dryden",N,N,"",3,411,"Melillo","","Eric","Conservative","Conservateur",Y,Y,67
+35042,"Kenora","Kenora"," 109","Dryden",N,N,"",3,411,"Rheault","","Remi","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 109","Dryden",N,N,"",3,411,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35042,"Kenora","Kenora"," 110A","Dryden",N,N,"",2,340,"Bruno","","David","Liberal","Libéral",N,N,42
+35042,"Kenora","Kenora"," 110A","Dryden",N,N,"",2,340,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,6
+35042,"Kenora","Kenora"," 110A","Dryden",N,N,"",2,340,"Melillo","","Eric","Conservative","Conservateur",Y,Y,58
+35042,"Kenora","Kenora"," 110A","Dryden",N,N,"",2,340,"Rheault","","Remi","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 110A","Dryden",N,N,"",2,340,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35042,"Kenora","Kenora"," 110B","Dryden",N,N,"112",0,39,"Bruno","","David","Liberal","Libéral",N,N,0
+35042,"Kenora","Kenora"," 110B","Dryden",N,N,"112",0,39,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,0
+35042,"Kenora","Kenora"," 110B","Dryden",N,N,"112",0,39,"Melillo","","Eric","Conservative","Conservateur",Y,Y,0
+35042,"Kenora","Kenora"," 110B","Dryden",N,N,"112",0,39,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 110B","Dryden",N,N,"112",0,39,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35042,"Kenora","Kenora"," 111","Dryden",N,N,"",0,355,"Bruno","","David","Liberal","Libéral",N,N,47
+35042,"Kenora","Kenora"," 111","Dryden",N,N,"",0,355,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,9
+35042,"Kenora","Kenora"," 111","Dryden",N,N,"",0,355,"Melillo","","Eric","Conservative","Conservateur",Y,Y,51
+35042,"Kenora","Kenora"," 111","Dryden",N,N,"",0,355,"Rheault","","Remi","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 111","Dryden",N,N,"",0,355,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35042,"Kenora","Kenora"," 112","Dryden",N,N,"",4,276,"Bruno","","David","Liberal","Libéral",N,N,30
+35042,"Kenora","Kenora"," 112","Dryden",N,N,"",4,276,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,7
+35042,"Kenora","Kenora"," 112","Dryden",N,N,"",4,276,"Melillo","","Eric","Conservative","Conservateur",Y,Y,60
+35042,"Kenora","Kenora"," 112","Dryden",N,N,"",4,276,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 112","Dryden",N,N,"",4,276,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35042,"Kenora","Kenora"," 113","Kenora 38B",N,N,"",0,161,"Bruno","","David","Liberal","Libéral",N,N,8
+35042,"Kenora","Kenora"," 113","Kenora 38B",N,N,"",0,161,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,0
+35042,"Kenora","Kenora"," 113","Kenora 38B",N,N,"",0,161,"Melillo","","Eric","Conservative","Conservateur",Y,Y,2
+35042,"Kenora","Kenora"," 113","Kenora 38B",N,N,"",0,161,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 113","Kenora 38B",N,N,"",0,161,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,135
+35042,"Kenora","Kenora"," 114","Dryden",N,N,"",0,385,"Bruno","","David","Liberal","Libéral",N,N,23
+35042,"Kenora","Kenora"," 114","Dryden",N,N,"",0,385,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,13
+35042,"Kenora","Kenora"," 114","Dryden",N,N,"",0,385,"Melillo","","Eric","Conservative","Conservateur",Y,Y,71
+35042,"Kenora","Kenora"," 114","Dryden",N,N,"",0,385,"Rheault","","Remi","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 114","Dryden",N,N,"",0,385,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35042,"Kenora","Kenora"," 115","Dryden",N,N,"",0,545,"Bruno","","David","Liberal","Libéral",N,N,41
+35042,"Kenora","Kenora"," 115","Dryden",N,N,"",0,545,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,24
+35042,"Kenora","Kenora"," 115","Dryden",N,N,"",0,545,"Melillo","","Eric","Conservative","Conservateur",Y,Y,82
+35042,"Kenora","Kenora"," 115","Dryden",N,N,"",0,545,"Rheault","","Remi","Green Party","Parti Vert",N,N,6
+35042,"Kenora","Kenora"," 115","Dryden",N,N,"",0,545,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35042,"Kenora","Kenora"," 116","Eagle Lake 27",N,N,"",0,181,"Bruno","","David","Liberal","Libéral",N,N,17
+35042,"Kenora","Kenora"," 116","Eagle Lake 27",N,N,"",0,181,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,2
+35042,"Kenora","Kenora"," 116","Eagle Lake 27",N,N,"",0,181,"Melillo","","Eric","Conservative","Conservateur",Y,Y,3
+35042,"Kenora","Kenora"," 116","Eagle Lake 27",N,N,"",0,181,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 116","Eagle Lake 27",N,N,"",0,181,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+35042,"Kenora","Kenora"," 117","Rat Portage 38A",N,N,"",2,78,"Bruno","","David","Liberal","Libéral",N,N,3
+35042,"Kenora","Kenora"," 117","Rat Portage 38A",N,N,"",2,78,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,1
+35042,"Kenora","Kenora"," 117","Rat Portage 38A",N,N,"",2,78,"Melillo","","Eric","Conservative","Conservateur",Y,Y,6
+35042,"Kenora","Kenora"," 117","Rat Portage 38A",N,N,"",2,78,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 117","Rat Portage 38A",N,N,"",2,78,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35042,"Kenora","Kenora"," 118","Kenora",N,N,"",0,464,"Bruno","","David","Liberal","Libéral",N,N,38
+35042,"Kenora","Kenora"," 118","Kenora",N,N,"",0,464,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,10
+35042,"Kenora","Kenora"," 118","Kenora",N,N,"",0,464,"Melillo","","Eric","Conservative","Conservateur",Y,Y,113
+35042,"Kenora","Kenora"," 118","Kenora",N,N,"",0,464,"Rheault","","Remi","Green Party","Parti Vert",N,N,3
+35042,"Kenora","Kenora"," 118","Kenora",N,N,"",0,464,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+35042,"Kenora","Kenora"," 119","Kenora, Unorganized",N,N,"",1,444,"Bruno","","David","Liberal","Libéral",N,N,56
+35042,"Kenora","Kenora"," 119","Kenora, Unorganized",N,N,"",1,444,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,11
+35042,"Kenora","Kenora"," 119","Kenora, Unorganized",N,N,"",1,444,"Melillo","","Eric","Conservative","Conservateur",Y,Y,119
+35042,"Kenora","Kenora"," 119","Kenora, Unorganized",N,N,"",1,444,"Rheault","","Remi","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 119","Kenora, Unorganized",N,N,"",1,444,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35042,"Kenora","Kenora"," 120","Longbow Lake",N,N,"",2,501,"Bruno","","David","Liberal","Libéral",N,N,80
+35042,"Kenora","Kenora"," 120","Longbow Lake",N,N,"",2,501,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,12
+35042,"Kenora","Kenora"," 120","Longbow Lake",N,N,"",2,501,"Melillo","","Eric","Conservative","Conservateur",Y,Y,148
+35042,"Kenora","Kenora"," 120","Longbow Lake",N,N,"",2,501,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 120","Longbow Lake",N,N,"",2,501,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35042,"Kenora","Kenora"," 121","Shoal Lake 39A",N,N,"",1,371,"Bruno","","David","Liberal","Libéral",N,N,28
+35042,"Kenora","Kenora"," 121","Shoal Lake 39A",N,N,"",1,371,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,1
+35042,"Kenora","Kenora"," 121","Shoal Lake 39A",N,N,"",1,371,"Melillo","","Eric","Conservative","Conservateur",Y,Y,7
+35042,"Kenora","Kenora"," 121","Shoal Lake 39A",N,N,"",1,371,"Rheault","","Remi","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 121","Shoal Lake 39A",N,N,"",1,371,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+35042,"Kenora","Kenora"," 122","Shoal Lake 34B2",N,N,"",0,17,"Bruno","","David","Liberal","Libéral",N,N,9
+35042,"Kenora","Kenora"," 122","Shoal Lake 34B2",N,N,"",0,17,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,4
+35042,"Kenora","Kenora"," 122","Shoal Lake 34B2",N,N,"",0,17,"Melillo","","Eric","Conservative","Conservateur",Y,Y,1
+35042,"Kenora","Kenora"," 122","Shoal Lake 34B2",N,N,"",0,17,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 122","Shoal Lake 34B2",N,N,"",0,17,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35042,"Kenora","Kenora"," 123","Wabigoon Lake 27",N,N,"",0,55,"Bruno","","David","Liberal","Libéral",N,N,12
+35042,"Kenora","Kenora"," 123","Wabigoon Lake 27",N,N,"",0,55,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,1
+35042,"Kenora","Kenora"," 123","Wabigoon Lake 27",N,N,"",0,55,"Melillo","","Eric","Conservative","Conservateur",Y,Y,7
+35042,"Kenora","Kenora"," 123","Wabigoon Lake 27",N,N,"",0,55,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 123","Wabigoon Lake 27",N,N,"",0,55,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+35042,"Kenora","Kenora"," 124","Northwest Angle 34C & 37B",N,N,"",0,99,"Bruno","","David","Liberal","Libéral",N,N,1
+35042,"Kenora","Kenora"," 124","Northwest Angle 34C & 37B",N,N,"",0,99,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,3
+35042,"Kenora","Kenora"," 124","Northwest Angle 34C & 37B",N,N,"",0,99,"Melillo","","Eric","Conservative","Conservateur",Y,Y,1
+35042,"Kenora","Kenora"," 124","Northwest Angle 34C & 37B",N,N,"",0,99,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 124","Northwest Angle 34C & 37B",N,N,"",0,99,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35042,"Kenora","Kenora"," 125","Ignace",N,N,"",1,566,"Bruno","","David","Liberal","Libéral",N,N,20
+35042,"Kenora","Kenora"," 125","Ignace",N,N,"",1,566,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,24
+35042,"Kenora","Kenora"," 125","Ignace",N,N,"",1,566,"Melillo","","Eric","Conservative","Conservateur",Y,Y,61
+35042,"Kenora","Kenora"," 125","Ignace",N,N,"",1,566,"Rheault","","Remi","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 125","Ignace",N,N,"",1,566,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35042,"Kenora","Kenora"," 126","Ignace",N,N,"",0,443,"Bruno","","David","Liberal","Libéral",N,N,25
+35042,"Kenora","Kenora"," 126","Ignace",N,N,"",0,443,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,23
+35042,"Kenora","Kenora"," 126","Ignace",N,N,"",0,443,"Melillo","","Eric","Conservative","Conservateur",Y,Y,56
+35042,"Kenora","Kenora"," 126","Ignace",N,N,"",0,443,"Rheault","","Remi","Green Party","Parti Vert",N,N,4
+35042,"Kenora","Kenora"," 126","Ignace",N,N,"",0,443,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35042,"Kenora","Kenora"," 127","Sioux Narrows",N,N,"130",0,5,"Bruno","","David","Liberal","Libéral",N,N,0
+35042,"Kenora","Kenora"," 127","Sioux Narrows",N,N,"130",0,5,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,0
+35042,"Kenora","Kenora"," 127","Sioux Narrows",N,N,"130",0,5,"Melillo","","Eric","Conservative","Conservateur",Y,Y,0
+35042,"Kenora","Kenora"," 127","Sioux Narrows",N,N,"130",0,5,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 127","Sioux Narrows",N,N,"130",0,5,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35042,"Kenora","Kenora"," 128","Dinorwic",N,N,"",1,523,"Bruno","","David","Liberal","Libéral",N,N,45
+35042,"Kenora","Kenora"," 128","Dinorwic",N,N,"",1,523,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,23
+35042,"Kenora","Kenora"," 128","Dinorwic",N,N,"",1,523,"Melillo","","Eric","Conservative","Conservateur",Y,Y,85
+35042,"Kenora","Kenora"," 128","Dinorwic",N,N,"",1,523,"Rheault","","Remi","Green Party","Parti Vert",N,N,7
+35042,"Kenora","Kenora"," 128","Dinorwic",N,N,"",1,523,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+35042,"Kenora","Kenora"," 129","Whitefish Bay 32A",N,N,"",0,379,"Bruno","","David","Liberal","Libéral",N,N,11
+35042,"Kenora","Kenora"," 129","Whitefish Bay 32A",N,N,"",0,379,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,1
+35042,"Kenora","Kenora"," 129","Whitefish Bay 32A",N,N,"",0,379,"Melillo","","Eric","Conservative","Conservateur",Y,Y,2
+35042,"Kenora","Kenora"," 129","Whitefish Bay 32A",N,N,"",0,379,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 129","Whitefish Bay 32A",N,N,"",0,379,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,149
+35042,"Kenora","Kenora"," 130","Sioux Narrows",N,N,"",1,372,"Bruno","","David","Liberal","Libéral",N,N,68
+35042,"Kenora","Kenora"," 130","Sioux Narrows",N,N,"",1,372,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,11
+35042,"Kenora","Kenora"," 130","Sioux Narrows",N,N,"",1,372,"Melillo","","Eric","Conservative","Conservateur",Y,Y,117
+35042,"Kenora","Kenora"," 130","Sioux Narrows",N,N,"",1,372,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 130","Sioux Narrows",N,N,"",1,372,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+35042,"Kenora","Kenora"," 131","Lake Of The Woods 37",N,N,"",0,7,"Bruno","","David","Liberal","Libéral",N,N,2
+35042,"Kenora","Kenora"," 131","Lake Of The Woods 37",N,N,"",0,7,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,0
+35042,"Kenora","Kenora"," 131","Lake Of The Woods 37",N,N,"",0,7,"Melillo","","Eric","Conservative","Conservateur",Y,Y,0
+35042,"Kenora","Kenora"," 131","Lake Of The Woods 37",N,N,"",0,7,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 131","Lake Of The Woods 37",N,N,"",0,7,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35042,"Kenora","Kenora"," 132","Whitefish Bay 33A--Whitefish Bay 34A",N,N,"",0,13,"Bruno","","David","Liberal","Libéral",N,N,1
+35042,"Kenora","Kenora"," 132","Whitefish Bay 33A--Whitefish Bay 34A",N,N,"",0,13,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,0
+35042,"Kenora","Kenora"," 132","Whitefish Bay 33A--Whitefish Bay 34A",N,N,"",0,13,"Melillo","","Eric","Conservative","Conservateur",Y,Y,0
+35042,"Kenora","Kenora"," 132","Whitefish Bay 33A--Whitefish Bay 34A",N,N,"",0,13,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 132","Whitefish Bay 33A--Whitefish Bay 34A",N,N,"",0,13,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35042,"Kenora","Kenora"," 133","Sabaskong Bay 35D",N,N,"",3,174,"Bruno","","David","Liberal","Libéral",N,N,10
+35042,"Kenora","Kenora"," 133","Sabaskong Bay 35D",N,N,"",3,174,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,1
+35042,"Kenora","Kenora"," 133","Sabaskong Bay 35D",N,N,"",3,174,"Melillo","","Eric","Conservative","Conservateur",Y,Y,2
+35042,"Kenora","Kenora"," 133","Sabaskong Bay 35D",N,N,"",3,174,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 133","Sabaskong Bay 35D",N,N,"",3,174,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,124
+35042,"Kenora","Kenora"," 134","Nestor Falls",N,N,"",2,278,"Bruno","","David","Liberal","Libéral",N,N,23
+35042,"Kenora","Kenora"," 134","Nestor Falls",N,N,"",2,278,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,13
+35042,"Kenora","Kenora"," 134","Nestor Falls",N,N,"",2,278,"Melillo","","Eric","Conservative","Conservateur",Y,Y,95
+35042,"Kenora","Kenora"," 134","Nestor Falls",N,N,"",2,278,"Rheault","","Remi","Green Party","Parti Vert",N,N,1
+35042,"Kenora","Kenora"," 134","Nestor Falls",N,N,"",2,278,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35042,"Kenora","Kenora"," 500","Mobile poll/Bureau itinérant",N,N,"",1,108,"Bruno","","David","Liberal","Libéral",N,N,19
+35042,"Kenora","Kenora"," 500","Mobile poll/Bureau itinérant",N,N,"",1,108,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,0
+35042,"Kenora","Kenora"," 500","Mobile poll/Bureau itinérant",N,N,"",1,108,"Melillo","","Eric","Conservative","Conservateur",Y,Y,14
+35042,"Kenora","Kenora"," 500","Mobile poll/Bureau itinérant",N,N,"",1,108,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 500","Mobile poll/Bureau itinérant",N,N,"",1,108,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35042,"Kenora","Kenora"," 501","Mobile poll/Bureau itinérant",N,N,"",2,78,"Bruno","","David","Liberal","Libéral",N,N,16
+35042,"Kenora","Kenora"," 501","Mobile poll/Bureau itinérant",N,N,"",2,78,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,3
+35042,"Kenora","Kenora"," 501","Mobile poll/Bureau itinérant",N,N,"",2,78,"Melillo","","Eric","Conservative","Conservateur",Y,Y,11
+35042,"Kenora","Kenora"," 501","Mobile poll/Bureau itinérant",N,N,"",2,78,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 501","Mobile poll/Bureau itinérant",N,N,"",2,78,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35042,"Kenora","Kenora"," 600","Sioux Lookout",N,N,"",0,0,"Bruno","","David","Liberal","Libéral",N,N,174
+35042,"Kenora","Kenora"," 600","Sioux Lookout",N,N,"",0,0,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,32
+35042,"Kenora","Kenora"," 600","Sioux Lookout",N,N,"",0,0,"Melillo","","Eric","Conservative","Conservateur",Y,Y,399
+35042,"Kenora","Kenora"," 600","Sioux Lookout",N,N,"",0,0,"Rheault","","Remi","Green Party","Parti Vert",N,N,11
+35042,"Kenora","Kenora"," 600","Sioux Lookout",N,N,"",0,0,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,296
+35042,"Kenora","Kenora"," 601","Red Lake",N,N,"",4,0,"Bruno","","David","Liberal","Libéral",N,N,74
+35042,"Kenora","Kenora"," 601","Red Lake",N,N,"",4,0,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,34
+35042,"Kenora","Kenora"," 601","Red Lake",N,N,"",4,0,"Melillo","","Eric","Conservative","Conservateur",Y,Y,242
+35042,"Kenora","Kenora"," 601","Red Lake",N,N,"",4,0,"Rheault","","Remi","Green Party","Parti Vert",N,N,14
+35042,"Kenora","Kenora"," 601","Red Lake",N,N,"",4,0,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+35042,"Kenora","Kenora"," 602","Ear Falls",N,N,"",0,0,"Bruno","","David","Liberal","Libéral",N,N,33
+35042,"Kenora","Kenora"," 602","Ear Falls",N,N,"",0,0,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,15
+35042,"Kenora","Kenora"," 602","Ear Falls",N,N,"",0,0,"Melillo","","Eric","Conservative","Conservateur",Y,Y,123
+35042,"Kenora","Kenora"," 602","Ear Falls",N,N,"",0,0,"Rheault","","Remi","Green Party","Parti Vert",N,N,2
+35042,"Kenora","Kenora"," 602","Ear Falls",N,N,"",0,0,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35042,"Kenora","Kenora"," 603","Dryden",N,N,"",4,0,"Bruno","","David","Liberal","Libéral",N,N,255
+35042,"Kenora","Kenora"," 603","Dryden",N,N,"",4,0,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,72
+35042,"Kenora","Kenora"," 603","Dryden",N,N,"",4,0,"Melillo","","Eric","Conservative","Conservateur",Y,Y,600
+35042,"Kenora","Kenora"," 603","Dryden",N,N,"",4,0,"Rheault","","Remi","Green Party","Parti Vert",N,N,15
+35042,"Kenora","Kenora"," 603","Dryden",N,N,"",4,0,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,154
+35042,"Kenora","Kenora"," 604","Kenora",N,N,"",1,0,"Bruno","","David","Liberal","Libéral",N,N,92
+35042,"Kenora","Kenora"," 604","Kenora",N,N,"",1,0,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,212
+35042,"Kenora","Kenora"," 604","Kenora",N,N,"",1,0,"Melillo","","Eric","Conservative","Conservateur",Y,Y,228
+35042,"Kenora","Kenora"," 604","Kenora",N,N,"",1,0,"Rheault","","Remi","Green Party","Parti Vert",N,N,8
+35042,"Kenora","Kenora"," 604","Kenora",N,N,"",1,0,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,101
+35042,"Kenora","Kenora"," 605","Kenora",N,N,"",1,0,"Bruno","","David","Liberal","Libéral",N,N,73
+35042,"Kenora","Kenora"," 605","Kenora",N,N,"",1,0,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,18
+35042,"Kenora","Kenora"," 605","Kenora",N,N,"",1,0,"Melillo","","Eric","Conservative","Conservateur",Y,Y,215
+35042,"Kenora","Kenora"," 605","Kenora",N,N,"",1,0,"Rheault","","Remi","Green Party","Parti Vert",N,N,7
+35042,"Kenora","Kenora"," 605","Kenora",N,N,"",1,0,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,95
+35042,"Kenora","Kenora"," 606","Kenora",N,N,"",0,0,"Bruno","","David","Liberal","Libéral",N,N,122
+35042,"Kenora","Kenora"," 606","Kenora",N,N,"",0,0,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,27
+35042,"Kenora","Kenora"," 606","Kenora",N,N,"",0,0,"Melillo","","Eric","Conservative","Conservateur",Y,Y,288
+35042,"Kenora","Kenora"," 606","Kenora",N,N,"",0,0,"Rheault","","Remi","Green Party","Parti Vert",N,N,6
+35042,"Kenora","Kenora"," 606","Kenora",N,N,"",0,0,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,109
+35042,"Kenora","Kenora"," 607","Dryden",N,N,"",1,0,"Bruno","","David","Liberal","Libéral",N,N,216
+35042,"Kenora","Kenora"," 607","Dryden",N,N,"",1,0,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,53
+35042,"Kenora","Kenora"," 607","Dryden",N,N,"",1,0,"Melillo","","Eric","Conservative","Conservateur",Y,Y,529
+35042,"Kenora","Kenora"," 607","Dryden",N,N,"",1,0,"Rheault","","Remi","Green Party","Parti Vert",N,N,12
+35042,"Kenora","Kenora"," 607","Dryden",N,N,"",1,0,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,154
+35042,"Kenora","Kenora"," 608","Ignace",N,N,"",2,0,"Bruno","","David","Liberal","Libéral",N,N,69
+35042,"Kenora","Kenora"," 608","Ignace",N,N,"",2,0,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,32
+35042,"Kenora","Kenora"," 608","Ignace",N,N,"",2,0,"Melillo","","Eric","Conservative","Conservateur",Y,Y,176
+35042,"Kenora","Kenora"," 608","Ignace",N,N,"",2,0,"Rheault","","Remi","Green Party","Parti Vert",N,N,5
+35042,"Kenora","Kenora"," 608","Ignace",N,N,"",2,0,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35042,"Kenora","Kenora"," 609","Kenora",N,N,"",1,0,"Bruno","","David","Liberal","Libéral",N,N,140
+35042,"Kenora","Kenora"," 609","Kenora",N,N,"",1,0,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,49
+35042,"Kenora","Kenora"," 609","Kenora",N,N,"",1,0,"Melillo","","Eric","Conservative","Conservateur",Y,Y,430
+35042,"Kenora","Kenora"," 609","Kenora",N,N,"",1,0,"Rheault","","Remi","Green Party","Parti Vert",N,N,12
+35042,"Kenora","Kenora"," 609","Kenora",N,N,"",1,0,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,212
+35042,"Kenora","Kenora"," 610","Kenora",N,N,"609",0,0,"Bruno","","David","Liberal","Libéral",N,N,0
+35042,"Kenora","Kenora"," 610","Kenora",N,N,"609",0,0,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,0
+35042,"Kenora","Kenora"," 610","Kenora",N,N,"609",0,0,"Melillo","","Eric","Conservative","Conservateur",Y,Y,0
+35042,"Kenora","Kenora"," 610","Kenora",N,N,"609",0,0,"Rheault","","Remi","Green Party","Parti Vert",N,N,0
+35042,"Kenora","Kenora"," 610","Kenora",N,N,"609",0,0,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35042,"Kenora","Kenora"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",13,98,"Bruno","","David","Liberal","Libéral",N,N,65
+35042,"Kenora","Kenora"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",13,98,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,12
+35042,"Kenora","Kenora"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",13,98,"Melillo","","Eric","Conservative","Conservateur",Y,Y,71
+35042,"Kenora","Kenora"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",13,98,"Rheault","","Remi","Green Party","Parti Vert",N,N,7
+35042,"Kenora","Kenora"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",13,98,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+35042,"Kenora","Kenora"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",20,0,"Bruno","","David","Liberal","Libéral",N,N,371
+35042,"Kenora","Kenora"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",20,0,"Martin","","Craig","People's Party - PPC","Parti populaire - PPC",N,N,65
+35042,"Kenora","Kenora"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",20,0,"Melillo","","Eric","Conservative","Conservateur",Y,Y,773
+35042,"Kenora","Kenora"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",20,0,"Rheault","","Remi","Green Party","Parti Vert",N,N,14
+35042,"Kenora","Kenora"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",20,0,"Seymour","","Janine","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,279

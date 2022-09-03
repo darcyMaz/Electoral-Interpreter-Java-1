@@ -1,0 +1,885 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 1","Petit Étang",N,N,"",0,275,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,10
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 1","Petit Étang",N,N,"",0,275,"Kelloway","","Mike","Liberal","Libéral",Y,Y,84
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 1","Petit Étang",N,N,"",0,275,"MacLeod","","Fiona","Conservative","Conservateur",N,N,37
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 1","Petit Étang",N,N,"",0,275,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 2","Belle-Marche",N,N,"",1,247,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 2","Belle-Marche",N,N,"",1,247,"Kelloway","","Mike","Liberal","Libéral",Y,Y,55
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 2","Belle-Marche",N,N,"",1,247,"MacLeod","","Fiona","Conservative","Conservateur",N,N,30
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 2","Belle-Marche",N,N,"",1,247,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 3","Chéticamp",N,N,"",0,407,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,10
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 3","Chéticamp",N,N,"",0,407,"Kelloway","","Mike","Liberal","Libéral",Y,Y,114
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 3","Chéticamp",N,N,"",0,407,"MacLeod","","Fiona","Conservative","Conservateur",N,N,42
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 3","Chéticamp",N,N,"",0,407,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 4","Plateau",N,N,"",0,361,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,17
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 4","Plateau",N,N,"",0,361,"Kelloway","","Mike","Liberal","Libéral",Y,Y,88
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 4","Plateau",N,N,"",0,361,"MacLeod","","Fiona","Conservative","Conservateur",N,N,61
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 4","Plateau",N,N,"",0,361,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 5","Plateau",N,N,"",1,198,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 5","Plateau",N,N,"",1,198,"Kelloway","","Mike","Liberal","Libéral",Y,Y,65
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 5","Plateau",N,N,"",1,198,"MacLeod","","Fiona","Conservative","Conservateur",N,N,14
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 5","Plateau",N,N,"",1,198,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 6","Donkin",N,N,"",2,297,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,1
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 6","Donkin",N,N,"",2,297,"Kelloway","","Mike","Liberal","Libéral",Y,Y,34
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 6","Donkin",N,N,"",2,297,"MacLeod","","Fiona","Conservative","Conservateur",N,N,34
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 6","Donkin",N,N,"",2,297,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 7","Chéticamp",N,N,"",0,301,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 7","Chéticamp",N,N,"",0,301,"Kelloway","","Mike","Liberal","Libéral",Y,Y,104
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 7","Chéticamp",N,N,"",0,301,"MacLeod","","Fiona","Conservative","Conservateur",N,N,32
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 7","Chéticamp",N,N,"",0,301,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 8","Cape Breton",N,N,"",2,411,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 8","Cape Breton",N,N,"",2,411,"Kelloway","","Mike","Liberal","Libéral",Y,Y,99
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 8","Cape Breton",N,N,"",2,411,"MacLeod","","Fiona","Conservative","Conservateur",N,N,58
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 8","Cape Breton",N,N,"",2,411,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 9","Cape Breton",N,N,"",1,308,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 9","Cape Breton",N,N,"",1,308,"Kelloway","","Mike","Liberal","Libéral",Y,Y,26
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 9","Cape Breton",N,N,"",1,308,"MacLeod","","Fiona","Conservative","Conservateur",N,N,37
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 9","Cape Breton",N,N,"",1,308,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 10","Cape Breton",N,N,"",0,317,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 10","Cape Breton",N,N,"",0,317,"Kelloway","","Mike","Liberal","Libéral",Y,Y,55
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 10","Cape Breton",N,N,"",0,317,"MacLeod","","Fiona","Conservative","Conservateur",N,N,40
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 10","Cape Breton",N,N,"",0,317,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 11","Cape Breton",N,N,"",0,381,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,9
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 11","Cape Breton",N,N,"",0,381,"Kelloway","","Mike","Liberal","Libéral",Y,Y,56
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 11","Cape Breton",N,N,"",0,381,"MacLeod","","Fiona","Conservative","Conservateur",N,N,57
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 11","Cape Breton",N,N,"",0,381,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 12","Cape Breton",N,N,"",1,321,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 12","Cape Breton",N,N,"",1,321,"Kelloway","","Mike","Liberal","Libéral",Y,Y,52
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 12","Cape Breton",N,N,"",1,321,"MacLeod","","Fiona","Conservative","Conservateur",N,N,43
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 12","Cape Breton",N,N,"",1,321,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 13","Cape Breton",N,N,"",2,359,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 13","Cape Breton",N,N,"",2,359,"Kelloway","","Mike","Liberal","Libéral",Y,Y,41
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 13","Cape Breton",N,N,"",2,359,"MacLeod","","Fiona","Conservative","Conservateur",N,N,33
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 13","Cape Breton",N,N,"",2,359,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 14","Cape Breton",N,N,"",0,406,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,9
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 14","Cape Breton",N,N,"",0,406,"Kelloway","","Mike","Liberal","Libéral",Y,Y,83
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 14","Cape Breton",N,N,"",0,406,"MacLeod","","Fiona","Conservative","Conservateur",N,N,49
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 14","Cape Breton",N,N,"",0,406,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 15","Cape Breton",N,N,"",1,415,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 15","Cape Breton",N,N,"",1,415,"Kelloway","","Mike","Liberal","Libéral",Y,Y,78
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 15","Cape Breton",N,N,"",1,415,"MacLeod","","Fiona","Conservative","Conservateur",N,N,23
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 15","Cape Breton",N,N,"",1,415,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 16","Cape Breton",N,N,"",3,416,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 16","Cape Breton",N,N,"",3,416,"Kelloway","","Mike","Liberal","Libéral",Y,Y,60
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 16","Cape Breton",N,N,"",3,416,"MacLeod","","Fiona","Conservative","Conservateur",N,N,44
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 16","Cape Breton",N,N,"",3,416,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 17","Cape Breton",N,N,"",1,462,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 17","Cape Breton",N,N,"",1,462,"Kelloway","","Mike","Liberal","Libéral",Y,Y,65
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 17","Cape Breton",N,N,"",1,462,"MacLeod","","Fiona","Conservative","Conservateur",N,N,26
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 17","Cape Breton",N,N,"",1,462,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 18","Cape Breton",N,N,"",2,358,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 18","Cape Breton",N,N,"",2,358,"Kelloway","","Mike","Liberal","Libéral",Y,Y,66
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 18","Cape Breton",N,N,"",2,358,"MacLeod","","Fiona","Conservative","Conservateur",N,N,59
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 18","Cape Breton",N,N,"",2,358,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 19","Cape Breton",N,N,"",2,402,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 19","Cape Breton",N,N,"",2,402,"Kelloway","","Mike","Liberal","Libéral",Y,Y,92
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 19","Cape Breton",N,N,"",2,402,"MacLeod","","Fiona","Conservative","Conservateur",N,N,44
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 19","Cape Breton",N,N,"",2,402,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 20","Cape Breton",N,N,"",0,507,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,10
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 20","Cape Breton",N,N,"",0,507,"Kelloway","","Mike","Liberal","Libéral",Y,Y,88
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 20","Cape Breton",N,N,"",0,507,"MacLeod","","Fiona","Conservative","Conservateur",N,N,68
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 20","Cape Breton",N,N,"",0,507,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 21","Cape Breton",N,N,"",2,359,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 21","Cape Breton",N,N,"",2,359,"Kelloway","","Mike","Liberal","Libéral",Y,Y,73
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 21","Cape Breton",N,N,"",2,359,"MacLeod","","Fiona","Conservative","Conservateur",N,N,38
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 21","Cape Breton",N,N,"",2,359,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 22","Cape Breton",N,N,"",1,423,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 22","Cape Breton",N,N,"",1,423,"Kelloway","","Mike","Liberal","Libéral",Y,Y,79
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 22","Cape Breton",N,N,"",1,423,"MacLeod","","Fiona","Conservative","Conservateur",N,N,36
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 22","Cape Breton",N,N,"",1,423,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 23","Cape Breton",N,N,"",0,382,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 23","Cape Breton",N,N,"",0,382,"Kelloway","","Mike","Liberal","Libéral",Y,Y,73
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 23","Cape Breton",N,N,"",0,382,"MacLeod","","Fiona","Conservative","Conservateur",N,N,45
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 23","Cape Breton",N,N,"",0,382,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 24","Cape Breton",N,N,"",1,398,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 24","Cape Breton",N,N,"",1,398,"Kelloway","","Mike","Liberal","Libéral",Y,Y,64
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 24","Cape Breton",N,N,"",1,398,"MacLeod","","Fiona","Conservative","Conservateur",N,N,50
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 24","Cape Breton",N,N,"",1,398,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 25","Cape Breton",N,N,"",5,341,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 25","Cape Breton",N,N,"",5,341,"Kelloway","","Mike","Liberal","Libéral",Y,Y,66
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 25","Cape Breton",N,N,"",5,341,"MacLeod","","Fiona","Conservative","Conservateur",N,N,40
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 25","Cape Breton",N,N,"",5,341,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 26","Cape Breton",N,N,"",0,540,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 26","Cape Breton",N,N,"",0,540,"Kelloway","","Mike","Liberal","Libéral",Y,Y,119
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 26","Cape Breton",N,N,"",0,540,"MacLeod","","Fiona","Conservative","Conservateur",N,N,58
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 26","Cape Breton",N,N,"",0,540,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 27","Cape Breton",N,N,"",1,340,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 27","Cape Breton",N,N,"",1,340,"Kelloway","","Mike","Liberal","Libéral",Y,Y,58
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 27","Cape Breton",N,N,"",1,340,"MacLeod","","Fiona","Conservative","Conservateur",N,N,43
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 27","Cape Breton",N,N,"",1,340,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 28","Cape Breton",N,N,"",0,436,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 28","Cape Breton",N,N,"",0,436,"Kelloway","","Mike","Liberal","Libéral",Y,Y,60
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 28","Cape Breton",N,N,"",0,436,"MacLeod","","Fiona","Conservative","Conservateur",N,N,45
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 28","Cape Breton",N,N,"",0,436,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 29","Cape Breton",N,N,"",0,346,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 29","Cape Breton",N,N,"",0,346,"Kelloway","","Mike","Liberal","Libéral",Y,Y,60
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 29","Cape Breton",N,N,"",0,346,"MacLeod","","Fiona","Conservative","Conservateur",N,N,30
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 29","Cape Breton",N,N,"",0,346,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 30","Cape Breton",N,N,"",0,351,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 30","Cape Breton",N,N,"",0,351,"Kelloway","","Mike","Liberal","Libéral",Y,Y,56
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 30","Cape Breton",N,N,"",0,351,"MacLeod","","Fiona","Conservative","Conservateur",N,N,35
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 30","Cape Breton",N,N,"",0,351,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 31A","Cape Breton",N,N,"",0,312,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 31A","Cape Breton",N,N,"",0,312,"Kelloway","","Mike","Liberal","Libéral",Y,Y,71
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 31A","Cape Breton",N,N,"",0,312,"MacLeod","","Fiona","Conservative","Conservateur",N,N,31
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 31A","Cape Breton",N,N,"",0,312,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 31B","Cape Breton",N,N,"",0,429,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 31B","Cape Breton",N,N,"",0,429,"Kelloway","","Mike","Liberal","Libéral",Y,Y,100
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 31B","Cape Breton",N,N,"",0,429,"MacLeod","","Fiona","Conservative","Conservateur",N,N,44
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 31B","Cape Breton",N,N,"",0,429,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 32","Cape Breton",N,N,"",0,531,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 32","Cape Breton",N,N,"",0,531,"Kelloway","","Mike","Liberal","Libéral",Y,Y,94
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 32","Cape Breton",N,N,"",0,531,"MacLeod","","Fiona","Conservative","Conservateur",N,N,53
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 32","Cape Breton",N,N,"",0,531,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 33","Cape Breton",N,N,"",0,440,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 33","Cape Breton",N,N,"",0,440,"Kelloway","","Mike","Liberal","Libéral",Y,Y,64
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 33","Cape Breton",N,N,"",0,440,"MacLeod","","Fiona","Conservative","Conservateur",N,N,27
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 33","Cape Breton",N,N,"",0,440,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 34","Port Morien",N,N,"",0,271,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 34","Port Morien",N,N,"",0,271,"Kelloway","","Mike","Liberal","Libéral",Y,Y,64
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 34","Port Morien",N,N,"",0,271,"MacLeod","","Fiona","Conservative","Conservateur",N,N,49
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 34","Port Morien",N,N,"",0,271,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 35","Cape Breton",N,N,"",2,521,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 35","Cape Breton",N,N,"",2,521,"Kelloway","","Mike","Liberal","Libéral",Y,Y,76
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 35","Cape Breton",N,N,"",2,521,"MacLeod","","Fiona","Conservative","Conservateur",N,N,45
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 35","Cape Breton",N,N,"",2,521,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 36","Cape Breton",N,N,"",1,437,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 36","Cape Breton",N,N,"",1,437,"Kelloway","","Mike","Liberal","Libéral",Y,Y,46
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 36","Cape Breton",N,N,"",1,437,"MacLeod","","Fiona","Conservative","Conservateur",N,N,47
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 36","Cape Breton",N,N,"",1,437,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 37","Cape Breton",N,N,"",2,243,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 37","Cape Breton",N,N,"",2,243,"Kelloway","","Mike","Liberal","Libéral",Y,Y,47
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 37","Cape Breton",N,N,"",2,243,"MacLeod","","Fiona","Conservative","Conservateur",N,N,33
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 37","Cape Breton",N,N,"",2,243,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 38","Cape Breton",N,N,"",3,445,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,9
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 38","Cape Breton",N,N,"",3,445,"Kelloway","","Mike","Liberal","Libéral",Y,Y,73
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 38","Cape Breton",N,N,"",3,445,"MacLeod","","Fiona","Conservative","Conservateur",N,N,40
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 38","Cape Breton",N,N,"",3,445,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 39","Cape Breton",N,N,"",6,330,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 39","Cape Breton",N,N,"",6,330,"Kelloway","","Mike","Liberal","Libéral",Y,Y,77
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 39","Cape Breton",N,N,"",6,330,"MacLeod","","Fiona","Conservative","Conservateur",N,N,40
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 39","Cape Breton",N,N,"",6,330,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 40","Gardiner Mines",N,N,"",0,349,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 40","Gardiner Mines",N,N,"",0,349,"Kelloway","","Mike","Liberal","Libéral",Y,Y,63
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 40","Gardiner Mines",N,N,"",0,349,"MacLeod","","Fiona","Conservative","Conservateur",N,N,57
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 40","Gardiner Mines",N,N,"",0,349,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 41","Cape Breton",N,N,"",3,342,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 41","Cape Breton",N,N,"",3,342,"Kelloway","","Mike","Liberal","Libéral",Y,Y,61
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 41","Cape Breton",N,N,"",3,342,"MacLeod","","Fiona","Conservative","Conservateur",N,N,40
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 41","Cape Breton",N,N,"",3,342,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 42","Cape Breton",N,N,"",5,401,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 42","Cape Breton",N,N,"",5,401,"Kelloway","","Mike","Liberal","Libéral",Y,Y,86
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 42","Cape Breton",N,N,"",5,401,"MacLeod","","Fiona","Conservative","Conservateur",N,N,36
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 42","Cape Breton",N,N,"",5,401,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 43","Cape Breton",N,N,"",2,446,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 43","Cape Breton",N,N,"",2,446,"Kelloway","","Mike","Liberal","Libéral",Y,Y,78
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 43","Cape Breton",N,N,"",2,446,"MacLeod","","Fiona","Conservative","Conservateur",N,N,53
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 43","Cape Breton",N,N,"",2,446,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 44","Point Cross",N,N,"",4,213,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 44","Point Cross",N,N,"",4,213,"Kelloway","","Mike","Liberal","Libéral",Y,Y,38
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 44","Point Cross",N,N,"",4,213,"MacLeod","","Fiona","Conservative","Conservateur",N,N,19
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 44","Point Cross",N,N,"",4,213,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 45","St. Joseph du Moine",N,N,"",3,246,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,13
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 45","St. Joseph du Moine",N,N,"",3,246,"Kelloway","","Mike","Liberal","Libéral",Y,Y,47
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 45","St. Joseph du Moine",N,N,"",3,246,"MacLeod","","Fiona","Conservative","Conservateur",N,N,19
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 45","St. Joseph du Moine",N,N,"",3,246,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 46","Belgiumtown",N,N,"",1,352,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 46","Belgiumtown",N,N,"",1,352,"Kelloway","","Mike","Liberal","Libéral",Y,Y,36
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 46","Belgiumtown",N,N,"",1,352,"MacLeod","","Fiona","Conservative","Conservateur",N,N,40
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 46","Belgiumtown",N,N,"",1,352,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 47","Reserve Mines",N,N,"",1,298,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 47","Reserve Mines",N,N,"",1,298,"Kelloway","","Mike","Liberal","Libéral",Y,Y,44
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 47","Reserve Mines",N,N,"",1,298,"MacLeod","","Fiona","Conservative","Conservateur",N,N,44
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 47","Reserve Mines",N,N,"",1,298,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 48","Reserve Mines",N,N,"",0,341,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 48","Reserve Mines",N,N,"",0,341,"Kelloway","","Mike","Liberal","Libéral",Y,Y,63
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 48","Reserve Mines",N,N,"",0,341,"MacLeod","","Fiona","Conservative","Conservateur",N,N,61
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 48","Reserve Mines",N,N,"",0,341,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 49","Reserve Rows",N,N,"",6,315,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 49","Reserve Rows",N,N,"",6,315,"Kelloway","","Mike","Liberal","Libéral",Y,Y,59
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 49","Reserve Rows",N,N,"",6,315,"MacLeod","","Fiona","Conservative","Conservateur",N,N,34
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 49","Reserve Rows",N,N,"",6,315,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 50","Port Morien",N,N,"",1,261,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 50","Port Morien",N,N,"",1,261,"Kelloway","","Mike","Liberal","Libéral",Y,Y,70
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 50","Port Morien",N,N,"",1,261,"MacLeod","","Fiona","Conservative","Conservateur",N,N,51
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 50","Port Morien",N,N,"",1,261,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 51","Grand Lake Road",N,N,"",0,354,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,9
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 51","Grand Lake Road",N,N,"",0,354,"Kelloway","","Mike","Liberal","Libéral",Y,Y,72
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 51","Grand Lake Road",N,N,"",0,354,"MacLeod","","Fiona","Conservative","Conservateur",N,N,50
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 51","Grand Lake Road",N,N,"",0,354,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 52","Kytes Hill",N,N,"",1,372,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,10
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 52","Kytes Hill",N,N,"",1,372,"Kelloway","","Mike","Liberal","Libéral",Y,Y,94
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 52","Kytes Hill",N,N,"",1,372,"MacLeod","","Fiona","Conservative","Conservateur",N,N,49
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 52","Kytes Hill",N,N,"",1,372,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 53","Sand Lake",N,N,"",1,256,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 53","Sand Lake",N,N,"",1,256,"Kelloway","","Mike","Liberal","Libéral",Y,Y,44
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 53","Sand Lake",N,N,"",1,256,"MacLeod","","Fiona","Conservative","Conservateur",N,N,37
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 53","Sand Lake",N,N,"",1,256,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 54","Birch Grove",N,N,"",3,305,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,9
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 54","Birch Grove",N,N,"",3,305,"Kelloway","","Mike","Liberal","Libéral",Y,Y,59
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 54","Birch Grove",N,N,"",3,305,"MacLeod","","Fiona","Conservative","Conservateur",N,N,58
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 54","Birch Grove",N,N,"",3,305,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 55","Main-à-Dieu",N,N,"",1,229,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 55","Main-à-Dieu",N,N,"",1,229,"Kelloway","","Mike","Liberal","Libéral",Y,Y,56
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 55","Main-à-Dieu",N,N,"",1,229,"MacLeod","","Fiona","Conservative","Conservateur",N,N,45
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 55","Main-à-Dieu",N,N,"",1,229,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 56","Mira Road",N,N,"",6,435,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 56","Mira Road",N,N,"",6,435,"Kelloway","","Mike","Liberal","Libéral",Y,Y,129
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 56","Mira Road",N,N,"",6,435,"MacLeod","","Fiona","Conservative","Conservateur",N,N,51
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 56","Mira Road",N,N,"",6,435,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 57","Mira Road",N,N,"",0,398,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 57","Mira Road",N,N,"",0,398,"Kelloway","","Mike","Liberal","Libéral",Y,Y,101
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 57","Mira Road",N,N,"",0,398,"MacLeod","","Fiona","Conservative","Conservateur",N,N,57
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 57","Mira Road",N,N,"",0,398,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 58","Big Intervale",N,N,"",0,235,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 58","Big Intervale",N,N,"",0,235,"Kelloway","","Mike","Liberal","Libéral",Y,Y,63
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 58","Big Intervale",N,N,"",0,235,"MacLeod","","Fiona","Conservative","Conservateur",N,N,67
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 58","Big Intervale",N,N,"",0,235,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 59","Mira Gut",N,N,"",3,452,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 59","Mira Gut",N,N,"",3,452,"Kelloway","","Mike","Liberal","Libéral",Y,Y,114
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 59","Mira Gut",N,N,"",3,452,"MacLeod","","Fiona","Conservative","Conservateur",N,N,108
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 59","Mira Gut",N,N,"",3,452,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 60","Catalone",N,N,"",1,440,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 60","Catalone",N,N,"",1,440,"Kelloway","","Mike","Liberal","Libéral",Y,Y,103
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 60","Catalone",N,N,"",1,440,"MacLeod","","Fiona","Conservative","Conservateur",N,N,76
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 60","Catalone",N,N,"",1,440,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 61","Hillside",N,N,"",2,405,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 61","Hillside",N,N,"",2,405,"Kelloway","","Mike","Liberal","Libéral",Y,Y,107
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 61","Hillside",N,N,"",2,405,"MacLeod","","Fiona","Conservative","Conservateur",N,N,79
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 61","Hillside",N,N,"",2,405,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 62","Sydney River",N,N,"",2,467,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 62","Sydney River",N,N,"",2,467,"Kelloway","","Mike","Liberal","Libéral",Y,Y,92
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 62","Sydney River",N,N,"",2,467,"MacLeod","","Fiona","Conservative","Conservateur",N,N,62
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 62","Sydney River",N,N,"",2,467,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 63","Sydney River",N,N,"",1,444,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 63","Sydney River",N,N,"",1,444,"Kelloway","","Mike","Liberal","Libéral",Y,Y,147
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 63","Sydney River",N,N,"",1,444,"MacLeod","","Fiona","Conservative","Conservateur",N,N,44
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 63","Sydney River",N,N,"",1,444,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 64","Sydney River",N,N,"",2,420,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 64","Sydney River",N,N,"",2,420,"Kelloway","","Mike","Liberal","Libéral",Y,Y,103
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 64","Sydney River",N,N,"",2,420,"MacLeod","","Fiona","Conservative","Conservateur",N,N,25
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 64","Sydney River",N,N,"",2,420,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 65","Sydney River",N,N,"",0,403,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 65","Sydney River",N,N,"",0,403,"Kelloway","","Mike","Liberal","Libéral",Y,Y,94
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 65","Sydney River",N,N,"",0,403,"MacLeod","","Fiona","Conservative","Conservateur",N,N,35
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 65","Sydney River",N,N,"",0,403,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 66","North East Margaree",N,N,"",1,411,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,18
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 66","North East Margaree",N,N,"",1,411,"Kelloway","","Mike","Liberal","Libéral",Y,Y,99
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 66","North East Margaree",N,N,"",1,411,"MacLeod","","Fiona","Conservative","Conservateur",N,N,108
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 66","North East Margaree",N,N,"",1,411,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 67","Belle Côte",N,N,"",0,233,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 67","Belle Côte",N,N,"",0,233,"Kelloway","","Mike","Liberal","Libéral",Y,Y,79
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 67","Belle Côte",N,N,"",0,233,"MacLeod","","Fiona","Conservative","Conservateur",N,N,39
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 67","Belle Côte",N,N,"",0,233,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 68","Margaree Harbour",N,N,"",0,205,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 68","Margaree Harbour",N,N,"",0,205,"Kelloway","","Mike","Liberal","Libéral",Y,Y,45
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 68","Margaree Harbour",N,N,"",0,205,"MacLeod","","Fiona","Conservative","Conservateur",N,N,27
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 68","Margaree Harbour",N,N,"",0,205,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 69","Dutch Brook",N,N,"",0,484,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,14
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 69","Dutch Brook",N,N,"",0,484,"Kelloway","","Mike","Liberal","Libéral",Y,Y,126
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 69","Dutch Brook",N,N,"",0,484,"MacLeod","","Fiona","Conservative","Conservateur",N,N,75
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 69","Dutch Brook",N,N,"",0,484,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 70","Margaree",N,N,"",0,126,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 70","Margaree",N,N,"",0,126,"Kelloway","","Mike","Liberal","Libéral",Y,Y,47
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 70","Margaree",N,N,"",0,126,"MacLeod","","Fiona","Conservative","Conservateur",N,N,25
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 70","Margaree",N,N,"",0,126,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 71","Sydney River",N,N,"",2,345,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 71","Sydney River",N,N,"",2,345,"Kelloway","","Mike","Liberal","Libéral",Y,Y,75
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 71","Sydney River",N,N,"",2,345,"MacLeod","","Fiona","Conservative","Conservateur",N,N,29
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 71","Sydney River",N,N,"",2,345,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 72","Howie Centre",N,N,"",0,432,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 72","Howie Centre",N,N,"",0,432,"Kelloway","","Mike","Liberal","Libéral",Y,Y,97
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 72","Howie Centre",N,N,"",0,432,"MacLeod","","Fiona","Conservative","Conservateur",N,N,40
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 72","Howie Centre",N,N,"",0,432,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 73","Howie Centre",N,N,"",2,412,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 73","Howie Centre",N,N,"",2,412,"Kelloway","","Mike","Liberal","Libéral",Y,Y,65
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 73","Howie Centre",N,N,"",2,412,"MacLeod","","Fiona","Conservative","Conservateur",N,N,33
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 73","Howie Centre",N,N,"",2,412,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 74","Bateston",N,N,"",1,419,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 74","Bateston",N,N,"",1,419,"Kelloway","","Mike","Liberal","Libéral",Y,Y,90
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 74","Bateston",N,N,"",1,419,"MacLeod","","Fiona","Conservative","Conservateur",N,N,85
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 74","Bateston",N,N,"",1,419,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 75","Louisbourg",N,N,"",1,154,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 75","Louisbourg",N,N,"",1,154,"Kelloway","","Mike","Liberal","Libéral",Y,Y,32
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 75","Louisbourg",N,N,"",1,154,"MacLeod","","Fiona","Conservative","Conservateur",N,N,23
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 75","Louisbourg",N,N,"",1,154,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 76","Louisbourg",N,N,"",0,269,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 76","Louisbourg",N,N,"",0,269,"Kelloway","","Mike","Liberal","Libéral",Y,Y,73
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 76","Louisbourg",N,N,"",0,269,"MacLeod","","Fiona","Conservative","Conservateur",N,N,25
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 76","Louisbourg",N,N,"",0,269,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 77","Louisbourg",N,N,"",2,327,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 77","Louisbourg",N,N,"",2,327,"Kelloway","","Mike","Liberal","Libéral",Y,Y,72
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 77","Louisbourg",N,N,"",2,327,"MacLeod","","Fiona","Conservative","Conservateur",N,N,35
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 77","Louisbourg",N,N,"",2,327,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 78","Howie Centre",N,N,"",1,406,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 78","Howie Centre",N,N,"",1,406,"Kelloway","","Mike","Liberal","Libéral",Y,Y,82
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 78","Howie Centre",N,N,"",1,406,"MacLeod","","Fiona","Conservative","Conservateur",N,N,71
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 78","Howie Centre",N,N,"",1,406,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 79","Howie Centre",N,N,"",2,399,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 79","Howie Centre",N,N,"",2,399,"Kelloway","","Mike","Liberal","Libéral",Y,Y,84
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 79","Howie Centre",N,N,"",2,399,"MacLeod","","Fiona","Conservative","Conservateur",N,N,52
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 79","Howie Centre",N,N,"",2,399,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 80","Sydney Forks",N,N,"",2,347,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 80","Sydney Forks",N,N,"",2,347,"Kelloway","","Mike","Liberal","Libéral",Y,Y,40
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 80","Sydney Forks",N,N,"",2,347,"MacLeod","","Fiona","Conservative","Conservateur",N,N,23
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 80","Sydney Forks",N,N,"",2,347,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 81","Meadows Road",N,N,"",0,438,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 81","Meadows Road",N,N,"",0,438,"Kelloway","","Mike","Liberal","Libéral",Y,Y,96
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 81","Meadows Road",N,N,"",0,438,"MacLeod","","Fiona","Conservative","Conservateur",N,N,55
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 81","Meadows Road",N,N,"",0,438,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 82","Marion Bridge",N,N,"",0,382,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 82","Marion Bridge",N,N,"",0,382,"Kelloway","","Mike","Liberal","Libéral",Y,Y,96
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 82","Marion Bridge",N,N,"",0,382,"MacLeod","","Fiona","Conservative","Conservateur",N,N,68
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 82","Marion Bridge",N,N,"",0,382,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 83","Trout Brook",N,N,"",3,518,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 83","Trout Brook",N,N,"",3,518,"Kelloway","","Mike","Liberal","Libéral",Y,Y,134
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 83","Trout Brook",N,N,"",3,518,"MacLeod","","Fiona","Conservative","Conservateur",N,N,94
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 83","Trout Brook",N,N,"",3,518,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 84","Margaree Forks",N,N,"",0,134,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 84","Margaree Forks",N,N,"",0,134,"Kelloway","","Mike","Liberal","Libéral",Y,Y,54
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 84","Margaree Forks",N,N,"",0,134,"MacLeod","","Fiona","Conservative","Conservateur",N,N,32
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 84","Margaree Forks",N,N,"",0,134,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 85","East Bay",N,N,"",1,279,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 85","East Bay",N,N,"",1,279,"Kelloway","","Mike","Liberal","Libéral",Y,Y,71
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 85","East Bay",N,N,"",1,279,"MacLeod","","Fiona","Conservative","Conservateur",N,N,39
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 85","East Bay",N,N,"",1,279,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 86","Rear of East Bay",N,N,"",0,259,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 86","Rear of East Bay",N,N,"",0,259,"Kelloway","","Mike","Liberal","Libéral",Y,Y,82
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 86","Rear of East Bay",N,N,"",0,259,"MacLeod","","Fiona","Conservative","Conservateur",N,N,37
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 86","Rear of East Bay",N,N,"",0,259,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 87","Dunvegan",N,N,"",0,238,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 87","Dunvegan",N,N,"",0,238,"Kelloway","","Mike","Liberal","Libéral",Y,Y,69
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 87","Dunvegan",N,N,"",0,238,"MacLeod","","Fiona","Conservative","Conservateur",N,N,46
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 87","Dunvegan",N,N,"",0,238,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 88","Scotsville",N,N,"",0,266,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,9
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 88","Scotsville",N,N,"",0,266,"Kelloway","","Mike","Liberal","Libéral",Y,Y,73
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 88","Scotsville",N,N,"",0,266,"MacLeod","","Fiona","Conservative","Conservateur",N,N,57
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 88","Scotsville",N,N,"",0,266,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 89","Inverness",N,N,"",1,272,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 89","Inverness",N,N,"",1,272,"Kelloway","","Mike","Liberal","Libéral",Y,Y,47
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 89","Inverness",N,N,"",1,272,"MacLeod","","Fiona","Conservative","Conservateur",N,N,55
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 89","Inverness",N,N,"",1,272,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 90","Inverness",N,N,"",1,271,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 90","Inverness",N,N,"",1,271,"Kelloway","","Mike","Liberal","Libéral",Y,Y,43
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 90","Inverness",N,N,"",1,271,"MacLeod","","Fiona","Conservative","Conservateur",N,N,55
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 90","Inverness",N,N,"",1,271,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 91","Inverness",N,N,"",1,204,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 91","Inverness",N,N,"",1,204,"Kelloway","","Mike","Liberal","Libéral",Y,Y,40
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 91","Inverness",N,N,"",1,204,"MacLeod","","Fiona","Conservative","Conservateur",N,N,29
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 91","Inverness",N,N,"",1,204,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 92","Gabarus",N,N,"",1,181,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 92","Gabarus",N,N,"",1,181,"Kelloway","","Mike","Liberal","Libéral",Y,Y,40
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 92","Gabarus",N,N,"",1,181,"MacLeod","","Fiona","Conservative","Conservateur",N,N,50
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 92","Gabarus",N,N,"",1,181,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 93","Juniper Mountain",N,N,"",3,256,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,12
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 93","Juniper Mountain",N,N,"",3,256,"Kelloway","","Mike","Liberal","Libéral",Y,Y,66
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 93","Juniper Mountain",N,N,"",3,256,"MacLeod","","Fiona","Conservative","Conservateur",N,N,45
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 93","Juniper Mountain",N,N,"",3,256,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 94","Huntington",N,N,"",2,276,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 94","Huntington",N,N,"",2,276,"Kelloway","","Mike","Liberal","Libéral",Y,Y,72
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 94","Huntington",N,N,"",2,276,"MacLeod","","Fiona","Conservative","Conservateur",N,N,51
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 94","Huntington",N,N,"",2,276,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 95","Big Pond",N,N,"",0,310,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 95","Big Pond",N,N,"",0,310,"Kelloway","","Mike","Liberal","Libéral",Y,Y,45
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 95","Big Pond",N,N,"",0,310,"MacLeod","","Fiona","Conservative","Conservateur",N,N,30
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 95","Big Pond",N,N,"",0,310,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 96","Inverness",N,N,"",0,396,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,9
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 96","Inverness",N,N,"",0,396,"Kelloway","","Mike","Liberal","Libéral",Y,Y,73
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 96","Inverness",N,N,"",0,396,"MacLeod","","Fiona","Conservative","Conservateur",N,N,82
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 96","Inverness",N,N,"",0,396,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 97","Strathlorne",N,N,"",3,388,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 97","Strathlorne",N,N,"",3,388,"Kelloway","","Mike","Liberal","Libéral",Y,Y,69
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 97","Strathlorne",N,N,"",3,388,"MacLeod","","Fiona","Conservative","Conservateur",N,N,83
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 97","Strathlorne",N,N,"",3,388,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 98","Whycocomagh",N,N,"",1,347,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 98","Whycocomagh",N,N,"",1,347,"Kelloway","","Mike","Liberal","Libéral",Y,Y,56
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 98","Whycocomagh",N,N,"",1,347,"MacLeod","","Fiona","Conservative","Conservateur",N,N,56
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 98","Whycocomagh",N,N,"",1,347,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 99","Stewartdale",N,N,"",1,306,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 99","Stewartdale",N,N,"",1,306,"Kelloway","","Mike","Liberal","Libéral",Y,Y,25
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 99","Stewartdale",N,N,"",1,306,"MacLeod","","Fiona","Conservative","Conservateur",N,N,41
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 99","Stewartdale",N,N,"",1,306,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 100","Glendyer",N,N,"",0,247,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 100","Glendyer",N,N,"",0,247,"Kelloway","","Mike","Liberal","Libéral",Y,Y,58
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 100","Glendyer",N,N,"",0,247,"MacLeod","","Fiona","Conservative","Conservateur",N,N,48
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 100","Glendyer",N,N,"",0,247,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 101","Mabou",N,N,"",3,235,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 101","Mabou",N,N,"",3,235,"Kelloway","","Mike","Liberal","Libéral",Y,Y,61
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 101","Mabou",N,N,"",3,235,"MacLeod","","Fiona","Conservative","Conservateur",N,N,62
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 101","Mabou",N,N,"",3,235,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 102","Brook Village",N,N,"",0,194,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 102","Brook Village",N,N,"",0,194,"Kelloway","","Mike","Liberal","Libéral",Y,Y,40
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 102","Brook Village",N,N,"",0,194,"MacLeod","","Fiona","Conservative","Conservateur",N,N,55
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 102","Brook Village",N,N,"",0,194,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 103","Whycocomagh Reserve",N,N,"",0,461,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 103","Whycocomagh Reserve",N,N,"",0,461,"Kelloway","","Mike","Liberal","Libéral",Y,Y,53
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 103","Whycocomagh Reserve",N,N,"",0,461,"MacLeod","","Fiona","Conservative","Conservateur",N,N,7
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 103","Whycocomagh Reserve",N,N,"",0,461,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 104","Orangedale",N,N,"",0,190,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,37
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 104","Orangedale",N,N,"",0,190,"Kelloway","","Mike","Liberal","Libéral",Y,Y,43
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 104","Orangedale",N,N,"",0,190,"MacLeod","","Fiona","Conservative","Conservateur",N,N,12
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 104","Orangedale",N,N,"",0,190,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 105","Framboise",N,N,"",1,75,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,1
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 105","Framboise",N,N,"",1,75,"Kelloway","","Mike","Liberal","Libéral",Y,Y,12
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 105","Framboise",N,N,"",1,75,"MacLeod","","Fiona","Conservative","Conservateur",N,N,21
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 105","Framboise",N,N,"",1,75,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 106","Mabou Station",N,N,"",2,289,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 106","Mabou Station",N,N,"",2,289,"Kelloway","","Mike","Liberal","Libéral",Y,Y,74
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 106","Mabou Station",N,N,"",2,289,"MacLeod","","Fiona","Conservative","Conservateur",N,N,93
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 106","Mabou Station",N,N,"",2,289,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 107","Johnstown",N,N,"",0,188,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,11
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 107","Johnstown",N,N,"",0,188,"Kelloway","","Mike","Liberal","Libéral",Y,Y,39
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 107","Johnstown",N,N,"",0,188,"MacLeod","","Fiona","Conservative","Conservateur",N,N,31
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 107","Johnstown",N,N,"",0,188,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 108","Valley Mills",N,N,"",1,134,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 108","Valley Mills",N,N,"",1,134,"Kelloway","","Mike","Liberal","Libéral",Y,Y,26
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 108","Valley Mills",N,N,"",1,134,"MacLeod","","Fiona","Conservative","Conservateur",N,N,18
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 108","Valley Mills",N,N,"",1,134,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 109","Blues Mills",N,N,"",0,227,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 109","Blues Mills",N,N,"",0,227,"Kelloway","","Mike","Liberal","Libéral",Y,Y,57
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 109","Blues Mills",N,N,"",0,227,"MacLeod","","Fiona","Conservative","Conservateur",N,N,49
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 109","Blues Mills",N,N,"",0,227,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 110","Port Hood",N,N,"",1,364,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 110","Port Hood",N,N,"",1,364,"Kelloway","","Mike","Liberal","Libéral",Y,Y,56
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 110","Port Hood",N,N,"",1,364,"MacLeod","","Fiona","Conservative","Conservateur",N,N,48
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 110","Port Hood",N,N,"",1,364,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 111","Port Hood",N,N,"",7,428,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 111","Port Hood",N,N,"",7,428,"Kelloway","","Mike","Liberal","Libéral",Y,Y,73
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 111","Port Hood",N,N,"",7,428,"MacLeod","","Fiona","Conservative","Conservateur",N,N,90
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 111","Port Hood",N,N,"",7,428,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 112","Glencoe Station",N,N,"",4,412,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 112","Glencoe Station",N,N,"",4,412,"Kelloway","","Mike","Liberal","Libéral",Y,Y,77
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 112","Glencoe Station",N,N,"",4,412,"MacLeod","","Fiona","Conservative","Conservateur",N,N,63
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 112","Glencoe Station",N,N,"",4,412,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 113","Sampsonville",N,N,"",0,276,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 113","Sampsonville",N,N,"",0,276,"Kelloway","","Mike","Liberal","Libéral",Y,Y,51
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 113","Sampsonville",N,N,"",0,276,"MacLeod","","Fiona","Conservative","Conservateur",N,N,79
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 113","Sampsonville",N,N,"",0,276,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 114","Sampsonville",N,N,"",0,253,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,14
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 114","Sampsonville",N,N,"",0,253,"Kelloway","","Mike","Liberal","Libéral",Y,Y,66
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 114","Sampsonville",N,N,"",0,253,"MacLeod","","Fiona","Conservative","Conservateur",N,N,65
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 114","Sampsonville",N,N,"",0,253,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 115","Chapel Island 5",N,N,"",1,428,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 115","Chapel Island 5",N,N,"",1,428,"Kelloway","","Mike","Liberal","Libéral",Y,Y,51
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 115","Chapel Island 5",N,N,"",1,428,"MacLeod","","Fiona","Conservative","Conservateur",N,N,17
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 115","Chapel Island 5",N,N,"",1,428,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,90
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 116","Grand River",N,N,"",0,155,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 116","Grand River",N,N,"",0,155,"Kelloway","","Mike","Liberal","Libéral",Y,Y,18
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 116","Grand River",N,N,"",0,155,"MacLeod","","Fiona","Conservative","Conservateur",N,N,35
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 116","Grand River",N,N,"",0,155,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 117","Judique",N,N,"",0,296,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 117","Judique",N,N,"",0,296,"Kelloway","","Mike","Liberal","Libéral",Y,Y,91
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 117","Judique",N,N,"",0,296,"MacLeod","","Fiona","Conservative","Conservateur",N,N,91
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 117","Judique",N,N,"",0,296,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 118","St. Georges Channel",N,N,"",0,354,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 118","St. Georges Channel",N,N,"",0,354,"Kelloway","","Mike","Liberal","Libéral",Y,Y,85
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 118","St. Georges Channel",N,N,"",0,354,"MacLeod","","Fiona","Conservative","Conservateur",N,N,79
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 118","St. Georges Channel",N,N,"",0,354,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 119","Glendale",N,N,"",2,145,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,10
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 119","Glendale",N,N,"",2,145,"Kelloway","","Mike","Liberal","Libéral",Y,Y,21
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 119","Glendale",N,N,"",2,145,"MacLeod","","Fiona","Conservative","Conservateur",N,N,38
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 119","Glendale",N,N,"",2,145,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 120","St. Peter's",N,N,"",0,359,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 120","St. Peter's",N,N,"",0,359,"Kelloway","","Mike","Liberal","Libéral",Y,Y,94
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 120","St. Peter's",N,N,"",0,359,"MacLeod","","Fiona","Conservative","Conservateur",N,N,70
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 120","St. Peter's",N,N,"",0,359,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 121","West Bay Road",N,N,"",0,295,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 121","West Bay Road",N,N,"",0,295,"Kelloway","","Mike","Liberal","Libéral",Y,Y,71
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 121","West Bay Road",N,N,"",0,295,"MacLeod","","Fiona","Conservative","Conservateur",N,N,69
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 121","West Bay Road",N,N,"",0,295,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 122","L'Ardoise",N,N,"",0,304,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 122","L'Ardoise",N,N,"",0,304,"Kelloway","","Mike","Liberal","Libéral",Y,Y,58
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 122","L'Ardoise",N,N,"",0,304,"MacLeod","","Fiona","Conservative","Conservateur",N,N,29
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 122","L'Ardoise",N,N,"",0,304,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 123","Lower L'Ardoise",N,N,"",0,205,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,11
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 123","Lower L'Ardoise",N,N,"",0,205,"Kelloway","","Mike","Liberal","Libéral",Y,Y,43
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 123","Lower L'Ardoise",N,N,"",0,205,"MacLeod","","Fiona","Conservative","Conservateur",N,N,26
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 123","Lower L'Ardoise",N,N,"",0,205,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 124","Rockdale",N,N,"",0,365,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 124","Rockdale",N,N,"",0,365,"Kelloway","","Mike","Liberal","Libéral",Y,Y,73
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 124","Rockdale",N,N,"",0,365,"MacLeod","","Fiona","Conservative","Conservateur",N,N,53
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 124","Rockdale",N,N,"",0,365,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 125","River Bourgeois",N,N,"",2,311,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,22
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 125","River Bourgeois",N,N,"",2,311,"Kelloway","","Mike","Liberal","Libéral",Y,Y,59
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 125","River Bourgeois",N,N,"",2,311,"MacLeod","","Fiona","Conservative","Conservateur",N,N,85
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 125","River Bourgeois",N,N,"",2,311,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 126","River Bourgeois",N,N,"",0,286,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 126","River Bourgeois",N,N,"",0,286,"Kelloway","","Mike","Liberal","Libéral",Y,Y,70
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 126","River Bourgeois",N,N,"",0,286,"MacLeod","","Fiona","Conservative","Conservateur",N,N,52
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 126","River Bourgeois",N,N,"",0,286,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 127","Creignish",N,N,"",0,371,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 127","Creignish",N,N,"",0,371,"Kelloway","","Mike","Liberal","Libéral",Y,Y,78
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 127","Creignish",N,N,"",0,371,"MacLeod","","Fiona","Conservative","Conservateur",N,N,77
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 127","Creignish",N,N,"",0,371,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 128","Cap La Ronde",N,N,"",0,212,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 128","Cap La Ronde",N,N,"",0,212,"Kelloway","","Mike","Liberal","Libéral",Y,Y,42
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 128","Cap La Ronde",N,N,"",0,212,"MacLeod","","Fiona","Conservative","Conservateur",N,N,51
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 128","Cap La Ronde",N,N,"",0,212,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 129","Louisdale",N,N,"",1,416,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,1
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 129","Louisdale",N,N,"",1,416,"Kelloway","","Mike","Liberal","Libéral",Y,Y,77
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 129","Louisdale",N,N,"",1,416,"MacLeod","","Fiona","Conservative","Conservateur",N,N,93
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 129","Louisdale",N,N,"",1,416,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 130","Louisdale",N,N,"",0,359,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 130","Louisdale",N,N,"",0,359,"Kelloway","","Mike","Liberal","Libéral",Y,Y,86
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 130","Louisdale",N,N,"",0,359,"MacLeod","","Fiona","Conservative","Conservateur",N,N,76
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 130","Louisdale",N,N,"",0,359,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 131","D'Escousse",N,N,"",4,443,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,17
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 131","D'Escousse",N,N,"",4,443,"Kelloway","","Mike","Liberal","Libéral",Y,Y,117
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 131","D'Escousse",N,N,"",4,443,"MacLeod","","Fiona","Conservative","Conservateur",N,N,79
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 131","D'Escousse",N,N,"",4,443,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 132","Sugar Camp",N,N,"",4,289,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 132","Sugar Camp",N,N,"",4,289,"Kelloway","","Mike","Liberal","Libéral",Y,Y,51
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 132","Sugar Camp",N,N,"",4,289,"MacLeod","","Fiona","Conservative","Conservateur",N,N,50
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 132","Sugar Camp",N,N,"",4,289,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 133","Creignish Rear",N,N,"",1,301,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,11
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 133","Creignish Rear",N,N,"",1,301,"Kelloway","","Mike","Liberal","Libéral",Y,Y,50
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 133","Creignish Rear",N,N,"",1,301,"MacLeod","","Fiona","Conservative","Conservateur",N,N,73
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 133","Creignish Rear",N,N,"",1,301,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 134","Port Hastings",N,N,"",0,289,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 134","Port Hastings",N,N,"",0,289,"Kelloway","","Mike","Liberal","Libéral",Y,Y,42
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 134","Port Hastings",N,N,"",0,289,"MacLeod","","Fiona","Conservative","Conservateur",N,N,61
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 134","Port Hastings",N,N,"",0,289,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 135","Sampsons Cove",N,N,"",0,187,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,11
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 135","Sampsons Cove",N,N,"",0,187,"Kelloway","","Mike","Liberal","Libéral",Y,Y,38
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 135","Sampsons Cove",N,N,"",0,187,"MacLeod","","Fiona","Conservative","Conservateur",N,N,61
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 135","Sampsons Cove",N,N,"",0,187,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 136","Petit-de-Grat",N,N,"",1,320,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 136","Petit-de-Grat",N,N,"",1,320,"Kelloway","","Mike","Liberal","Libéral",Y,Y,74
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 136","Petit-de-Grat",N,N,"",1,320,"MacLeod","","Fiona","Conservative","Conservateur",N,N,44
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 136","Petit-de-Grat",N,N,"",1,320,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 137","Petit-de-Grat",N,N,"",2,248,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,12
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 137","Petit-de-Grat",N,N,"",2,248,"Kelloway","","Mike","Liberal","Libéral",Y,Y,50
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 137","Petit-de-Grat",N,N,"",2,248,"MacLeod","","Fiona","Conservative","Conservateur",N,N,40
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 137","Petit-de-Grat",N,N,"",2,248,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 138","Havre Boucher",N,N,"",2,344,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,10
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 138","Havre Boucher",N,N,"",2,344,"Kelloway","","Mike","Liberal","Libéral",Y,Y,68
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 138","Havre Boucher",N,N,"",2,344,"MacLeod","","Fiona","Conservative","Conservateur",N,N,86
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 138","Havre Boucher",N,N,"",2,344,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 139","Cape Jack",N,N,"",0,191,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 139","Cape Jack",N,N,"",0,191,"Kelloway","","Mike","Liberal","Libéral",Y,Y,42
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 139","Cape Jack",N,N,"",0,191,"MacLeod","","Fiona","Conservative","Conservateur",N,N,46
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 139","Cape Jack",N,N,"",0,191,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 140","Frankville",N,N,"",1,254,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 140","Frankville",N,N,"",1,254,"Kelloway","","Mike","Liberal","Libéral",Y,Y,42
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 140","Frankville",N,N,"",1,254,"MacLeod","","Fiona","Conservative","Conservateur",N,N,56
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 140","Frankville",N,N,"",1,254,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 141","Havre Boucher",N,N,"",2,326,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 141","Havre Boucher",N,N,"",2,326,"Kelloway","","Mike","Liberal","Libéral",Y,Y,80
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 141","Havre Boucher",N,N,"",2,326,"MacLeod","","Fiona","Conservative","Conservateur",N,N,77
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 141","Havre Boucher",N,N,"",2,326,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 142","Cleveland",N,N,"",1,390,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,9
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 142","Cleveland",N,N,"",1,390,"Kelloway","","Mike","Liberal","Libéral",Y,Y,99
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 142","Cleveland",N,N,"",1,390,"MacLeod","","Fiona","Conservative","Conservateur",N,N,66
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 142","Cleveland",N,N,"",1,390,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 143","Cleveland",N,N,"",1,272,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 143","Cleveland",N,N,"",1,272,"Kelloway","","Mike","Liberal","Libéral",Y,Y,46
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 143","Cleveland",N,N,"",1,272,"MacLeod","","Fiona","Conservative","Conservateur",N,N,51
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 143","Cleveland",N,N,"",1,272,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 144","Arichat",N,N,"",0,368,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,11
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 144","Arichat",N,N,"",0,368,"Kelloway","","Mike","Liberal","Libéral",Y,Y,48
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 144","Arichat",N,N,"",0,368,"MacLeod","","Fiona","Conservative","Conservateur",N,N,55
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 144","Arichat",N,N,"",0,368,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 145","Port Hawkesbury",N,N,"",2,402,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 145","Port Hawkesbury",N,N,"",2,402,"Kelloway","","Mike","Liberal","Libéral",Y,Y,61
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 145","Port Hawkesbury",N,N,"",2,402,"MacLeod","","Fiona","Conservative","Conservateur",N,N,87
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 145","Port Hawkesbury",N,N,"",2,402,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 146","Port Hawkesbury",N,N,"",2,416,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 146","Port Hawkesbury",N,N,"",2,416,"Kelloway","","Mike","Liberal","Libéral",Y,Y,74
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 146","Port Hawkesbury",N,N,"",2,416,"MacLeod","","Fiona","Conservative","Conservateur",N,N,65
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 146","Port Hawkesbury",N,N,"",2,416,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 147","Port Hawkesbury",N,N,"",0,400,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 147","Port Hawkesbury",N,N,"",0,400,"Kelloway","","Mike","Liberal","Libéral",Y,Y,63
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 147","Port Hawkesbury",N,N,"",0,400,"MacLeod","","Fiona","Conservative","Conservateur",N,N,55
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 147","Port Hawkesbury",N,N,"",0,400,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 148","Port Hawkesbury",N,N,"",0,381,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 148","Port Hawkesbury",N,N,"",0,381,"Kelloway","","Mike","Liberal","Libéral",Y,Y,39
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 148","Port Hawkesbury",N,N,"",0,381,"MacLeod","","Fiona","Conservative","Conservateur",N,N,47
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 148","Port Hawkesbury",N,N,"",0,381,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 149","Port Hawkesbury",N,N,"",0,311,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,12
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 149","Port Hawkesbury",N,N,"",0,311,"Kelloway","","Mike","Liberal","Libéral",Y,Y,41
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 149","Port Hawkesbury",N,N,"",0,311,"MacLeod","","Fiona","Conservative","Conservateur",N,N,46
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 149","Port Hawkesbury",N,N,"",0,311,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 150","Janvrin Harbour",N,N,"",1,296,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 150","Janvrin Harbour",N,N,"",1,296,"Kelloway","","Mike","Liberal","Libéral",Y,Y,61
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 150","Janvrin Harbour",N,N,"",1,296,"MacLeod","","Fiona","Conservative","Conservateur",N,N,58
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 150","Janvrin Harbour",N,N,"",1,296,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 151","Port Hawkesbury",N,N,"",0,254,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,10
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 151","Port Hawkesbury",N,N,"",0,254,"Kelloway","","Mike","Liberal","Libéral",Y,Y,34
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 151","Port Hawkesbury",N,N,"",0,254,"MacLeod","","Fiona","Conservative","Conservateur",N,N,21
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 151","Port Hawkesbury",N,N,"",0,254,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 152","Port Hawkesbury",N,N,"",1,329,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 152","Port Hawkesbury",N,N,"",1,329,"Kelloway","","Mike","Liberal","Libéral",Y,Y,46
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 152","Port Hawkesbury",N,N,"",1,329,"MacLeod","","Fiona","Conservative","Conservateur",N,N,43
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 152","Port Hawkesbury",N,N,"",1,329,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 153","West Arichat",N,N,"",1,204,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,9
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 153","West Arichat",N,N,"",1,204,"Kelloway","","Mike","Liberal","Libéral",Y,Y,54
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 153","West Arichat",N,N,"",1,204,"MacLeod","","Fiona","Conservative","Conservateur",N,N,45
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 153","West Arichat",N,N,"",1,204,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 154","Arichat",N,N,"",1,426,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,11
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 154","Arichat",N,N,"",1,426,"Kelloway","","Mike","Liberal","Libéral",Y,Y,107
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 154","Arichat",N,N,"",1,426,"MacLeod","","Fiona","Conservative","Conservateur",N,N,85
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 154","Arichat",N,N,"",1,426,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 155","Pomquet",N,N,"",4,259,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 155","Pomquet",N,N,"",4,259,"Kelloway","","Mike","Liberal","Libéral",Y,Y,41
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 155","Pomquet",N,N,"",4,259,"MacLeod","","Fiona","Conservative","Conservateur",N,N,35
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 155","Pomquet",N,N,"",4,259,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 156","Pomquet",N,N,"",1,284,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 156","Pomquet",N,N,"",1,284,"Kelloway","","Mike","Liberal","Libéral",Y,Y,38
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 156","Pomquet",N,N,"",1,284,"MacLeod","","Fiona","Conservative","Conservateur",N,N,53
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 156","Pomquet",N,N,"",1,284,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 157","Mulgrave",N,N,"",0,250,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,1
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 157","Mulgrave",N,N,"",0,250,"Kelloway","","Mike","Liberal","Libéral",Y,Y,36
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 157","Mulgrave",N,N,"",0,250,"MacLeod","","Fiona","Conservative","Conservateur",N,N,40
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 157","Mulgrave",N,N,"",0,250,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 158","Mulgrave",N,N,"",1,370,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,9
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 158","Mulgrave",N,N,"",1,370,"Kelloway","","Mike","Liberal","Libéral",Y,Y,57
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 158","Mulgrave",N,N,"",1,370,"MacLeod","","Fiona","Conservative","Conservateur",N,N,60
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 158","Mulgrave",N,N,"",1,370,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 159","Big Tracadie",N,N,"",0,339,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,10
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 159","Big Tracadie",N,N,"",0,339,"Kelloway","","Mike","Liberal","Libéral",Y,Y,26
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 159","Big Tracadie",N,N,"",0,339,"MacLeod","","Fiona","Conservative","Conservateur",N,N,53
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 159","Big Tracadie",N,N,"",0,339,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 160","Monastery",N,N,"",3,359,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,15
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 160","Monastery",N,N,"",3,359,"Kelloway","","Mike","Liberal","Libéral",Y,Y,29
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 160","Monastery",N,N,"",3,359,"MacLeod","","Fiona","Conservative","Conservateur",N,N,76
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 160","Monastery",N,N,"",3,359,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 161","Hadleyville",N,N,"",0,117,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,2
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 161","Hadleyville",N,N,"",0,117,"Kelloway","","Mike","Liberal","Libéral",Y,Y,13
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 161","Hadleyville",N,N,"",0,117,"MacLeod","","Fiona","Conservative","Conservateur",N,N,15
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 161","Hadleyville",N,N,"",0,117,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 162","Tracadie",N,N,"",3,335,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 162","Tracadie",N,N,"",3,335,"Kelloway","","Mike","Liberal","Libéral",Y,Y,38
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 162","Tracadie",N,N,"",3,335,"MacLeod","","Fiona","Conservative","Conservateur",N,N,78
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 162","Tracadie",N,N,"",3,335,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 163","Hazel Hill",N,N,"",1,192,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 163","Hazel Hill",N,N,"",1,192,"Kelloway","","Mike","Liberal","Libéral",Y,Y,23
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 163","Hazel Hill",N,N,"",1,192,"MacLeod","","Fiona","Conservative","Conservateur",N,N,38
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 163","Hazel Hill",N,N,"",1,192,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 164","Canso",N,N,"",2,250,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 164","Canso",N,N,"",2,250,"Kelloway","","Mike","Liberal","Libéral",Y,Y,38
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 164","Canso",N,N,"",2,250,"MacLeod","","Fiona","Conservative","Conservateur",N,N,51
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 164","Canso",N,N,"",2,250,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 165","Canso",N,N,"",0,219,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,13
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 165","Canso",N,N,"",0,219,"Kelloway","","Mike","Liberal","Libéral",Y,Y,31
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 165","Canso",N,N,"",0,219,"MacLeod","","Fiona","Conservative","Conservateur",N,N,35
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 165","Canso",N,N,"",0,219,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 166","Canso",N,N,"",1,127,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 166","Canso",N,N,"",1,127,"Kelloway","","Mike","Liberal","Libéral",Y,Y,15
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 166","Canso",N,N,"",1,127,"MacLeod","","Fiona","Conservative","Conservateur",N,N,7
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 166","Canso",N,N,"",1,127,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 167","Paqtnkek-Niktuek 23",N,N,"",0,242,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 167","Paqtnkek-Niktuek 23",N,N,"",0,242,"Kelloway","","Mike","Liberal","Libéral",Y,Y,25
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 167","Paqtnkek-Niktuek 23",N,N,"",0,242,"MacLeod","","Fiona","Conservative","Conservateur",N,N,3
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 167","Paqtnkek-Niktuek 23",N,N,"",0,242,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 168","Bayfield",N,N,"",1,293,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 168","Bayfield",N,N,"",1,293,"Kelloway","","Mike","Liberal","Libéral",Y,Y,38
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 168","Bayfield",N,N,"",1,293,"MacLeod","","Fiona","Conservative","Conservateur",N,N,66
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 168","Bayfield",N,N,"",1,293,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 169","Pomquet",N,N,"",1,366,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 169","Pomquet",N,N,"",1,366,"Kelloway","","Mike","Liberal","Libéral",Y,Y,62
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 169","Pomquet",N,N,"",1,366,"MacLeod","","Fiona","Conservative","Conservateur",N,N,59
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 169","Pomquet",N,N,"",1,366,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 170","Antigonish, Subd. B",N,N,"",1,372,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 170","Antigonish, Subd. B",N,N,"",1,372,"Kelloway","","Mike","Liberal","Libéral",Y,Y,38
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 170","Antigonish, Subd. B",N,N,"",1,372,"MacLeod","","Fiona","Conservative","Conservateur",N,N,45
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 170","Antigonish, Subd. B",N,N,"",1,372,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 171","St. Francis Harbour",N,N,"",0,162,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 171","St. Francis Harbour",N,N,"",0,162,"Kelloway","","Mike","Liberal","Libéral",Y,Y,27
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 171","St. Francis Harbour",N,N,"",0,162,"MacLeod","","Fiona","Conservative","Conservateur",N,N,46
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 171","St. Francis Harbour",N,N,"",0,162,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 172","Heatherton",N,N,"",0,384,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,24
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 172","Heatherton",N,N,"",0,384,"Kelloway","","Mike","Liberal","Libéral",Y,Y,56
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 172","Heatherton",N,N,"",0,384,"MacLeod","","Fiona","Conservative","Conservateur",N,N,101
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 172","Heatherton",N,N,"",0,384,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 173","Dover",N,N,"",1,251,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,7
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 173","Dover",N,N,"",1,251,"Kelloway","","Mike","Liberal","Libéral",Y,Y,84
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 173","Dover",N,N,"",1,251,"MacLeod","","Fiona","Conservative","Conservateur",N,N,47
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 173","Dover",N,N,"",1,251,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 174","Halfway Cove",N,N,"",5,300,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 174","Halfway Cove",N,N,"",5,300,"Kelloway","","Mike","Liberal","Libéral",Y,Y,47
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 174","Halfway Cove",N,N,"",5,300,"MacLeod","","Fiona","Conservative","Conservateur",N,N,76
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 174","Halfway Cove",N,N,"",5,300,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 175","Boylston",N,N,"",0,279,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 175","Boylston",N,N,"",0,279,"Kelloway","","Mike","Liberal","Libéral",Y,Y,44
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 175","Boylston",N,N,"",0,279,"MacLeod","","Fiona","Conservative","Conservateur",N,N,49
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 175","Boylston",N,N,"",0,279,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 176","North Intervale",N,N,"",1,254,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 176","North Intervale",N,N,"",1,254,"Kelloway","","Mike","Liberal","Libéral",Y,Y,30
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 176","North Intervale",N,N,"",1,254,"MacLeod","","Fiona","Conservative","Conservateur",N,N,25
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 176","North Intervale",N,N,"",1,254,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 177","St. Andrews",N,N,"",2,447,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,8
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 177","St. Andrews",N,N,"",2,447,"Kelloway","","Mike","Liberal","Libéral",Y,Y,64
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 177","St. Andrews",N,N,"",2,447,"MacLeod","","Fiona","Conservative","Conservateur",N,N,84
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 177","St. Andrews",N,N,"",2,447,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 178","St. Andrews",N,N,"",0,453,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,11
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 178","St. Andrews",N,N,"",0,453,"Kelloway","","Mike","Liberal","Libéral",Y,Y,72
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 178","St. Andrews",N,N,"",0,453,"MacLeod","","Fiona","Conservative","Conservateur",N,N,91
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 178","St. Andrews",N,N,"",0,453,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 179","Upper Springfield",N,N,"",1,207,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,12
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 179","Upper Springfield",N,N,"",1,207,"Kelloway","","Mike","Liberal","Libéral",Y,Y,29
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 179","Upper Springfield",N,N,"",1,207,"MacLeod","","Fiona","Conservative","Conservateur",N,N,30
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 179","Upper Springfield",N,N,"",1,207,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 180","Port Felix",N,N,"",0,199,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,9
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 180","Port Felix",N,N,"",0,199,"Kelloway","","Mike","Liberal","Libéral",Y,Y,45
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 180","Port Felix",N,N,"",0,199,"MacLeod","","Fiona","Conservative","Conservateur",N,N,35
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 180","Port Felix",N,N,"",0,199,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 181","Guysborough",N,N,"",0,332,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 181","Guysborough",N,N,"",0,332,"Kelloway","","Mike","Liberal","Libéral",Y,Y,40
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 181","Guysborough",N,N,"",0,332,"MacLeod","","Fiona","Conservative","Conservateur",N,N,49
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 181","Guysborough",N,N,"",0,332,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 182","Guysborough",N,N,"",1,233,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,4
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 182","Guysborough",N,N,"",1,233,"Kelloway","","Mike","Liberal","Libéral",Y,Y,42
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 182","Guysborough",N,N,"",1,233,"MacLeod","","Fiona","Conservative","Conservateur",N,N,20
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 182","Guysborough",N,N,"",1,233,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 183","Charlos Cove",N,N,"",1,197,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 183","Charlos Cove",N,N,"",1,197,"Kelloway","","Mike","Liberal","Libéral",Y,Y,57
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 183","Charlos Cove",N,N,"",1,197,"MacLeod","","Fiona","Conservative","Conservateur",N,N,28
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 183","Charlos Cove",N,N,"",1,197,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 184","Tor Bay",N,N,"",1,189,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 184","Tor Bay",N,N,"",1,189,"Kelloway","","Mike","Liberal","Libéral",Y,Y,47
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 184","Tor Bay",N,N,"",1,189,"MacLeod","","Fiona","Conservative","Conservateur",N,N,52
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 184","Tor Bay",N,N,"",1,189,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 185","Erinville",N,N,"",2,133,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,5
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 185","Erinville",N,N,"",2,133,"Kelloway","","Mike","Liberal","Libéral",Y,Y,25
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 185","Erinville",N,N,"",2,133,"MacLeod","","Fiona","Conservative","Conservateur",N,N,32
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 185","Erinville",N,N,"",2,133,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 186","Goldboro",N,N,"",1,132,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 186","Goldboro",N,N,"",1,132,"Kelloway","","Mike","Liberal","Libéral",Y,Y,21
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 186","Goldboro",N,N,"",1,132,"MacLeod","","Fiona","Conservative","Conservateur",N,N,38
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 186","Goldboro",N,N,"",1,132,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 187","Cross Roads Country Harbour",N,N,"",0,403,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,11
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 187","Cross Roads Country Harbour",N,N,"",0,403,"Kelloway","","Mike","Liberal","Libéral",Y,Y,83
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 187","Cross Roads Country Harbour",N,N,"",0,403,"MacLeod","","Fiona","Conservative","Conservateur",N,N,104
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 187","Cross Roads Country Harbour",N,N,"",0,403,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 500","Mobile poll/Bureau itinérant",N,N,"32",0,37,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 500","Mobile poll/Bureau itinérant",N,N,"32",0,37,"Kelloway","","Mike","Liberal","Libéral",Y,Y,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 500","Mobile poll/Bureau itinérant",N,N,"32",0,37,"MacLeod","","Fiona","Conservative","Conservateur",N,N,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 500","Mobile poll/Bureau itinérant",N,N,"32",0,37,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 501","Mobile poll/Bureau itinérant",N,N,"132",0,42,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 501","Mobile poll/Bureau itinérant",N,N,"132",0,42,"Kelloway","","Mike","Liberal","Libéral",Y,Y,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 501","Mobile poll/Bureau itinérant",N,N,"132",0,42,"MacLeod","","Fiona","Conservative","Conservateur",N,N,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 501","Mobile poll/Bureau itinérant",N,N,"132",0,42,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 502","Mobile poll/Bureau itinérant",N,N,"9",0,15,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 502","Mobile poll/Bureau itinérant",N,N,"9",0,15,"Kelloway","","Mike","Liberal","Libéral",Y,Y,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 502","Mobile poll/Bureau itinérant",N,N,"9",0,15,"MacLeod","","Fiona","Conservative","Conservateur",N,N,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 502","Mobile poll/Bureau itinérant",N,N,"9",0,15,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 503","Mobile poll/Bureau itinérant",N,N,"10",0,42,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 503","Mobile poll/Bureau itinérant",N,N,"10",0,42,"Kelloway","","Mike","Liberal","Libéral",Y,Y,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 503","Mobile poll/Bureau itinérant",N,N,"10",0,42,"MacLeod","","Fiona","Conservative","Conservateur",N,N,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 503","Mobile poll/Bureau itinérant",N,N,"10",0,42,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 504","Mobile poll/Bureau itinérant",N,N,"120",0,54,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 504","Mobile poll/Bureau itinérant",N,N,"120",0,54,"Kelloway","","Mike","Liberal","Libéral",Y,Y,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 504","Mobile poll/Bureau itinérant",N,N,"120",0,54,"MacLeod","","Fiona","Conservative","Conservateur",N,N,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 504","Mobile poll/Bureau itinérant",N,N,"120",0,54,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 505","Mobile poll/Bureau itinérant",N,N,"154",0,24,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 505","Mobile poll/Bureau itinérant",N,N,"154",0,24,"Kelloway","","Mike","Liberal","Libéral",Y,Y,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 505","Mobile poll/Bureau itinérant",N,N,"154",0,24,"MacLeod","","Fiona","Conservative","Conservateur",N,N,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 505","Mobile poll/Bureau itinérant",N,N,"154",0,24,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 506","Mobile poll/Bureau itinérant",N,N,"145",0,32,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 506","Mobile poll/Bureau itinérant",N,N,"145",0,32,"Kelloway","","Mike","Liberal","Libéral",Y,Y,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 506","Mobile poll/Bureau itinérant",N,N,"145",0,32,"MacLeod","","Fiona","Conservative","Conservateur",N,N,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 506","Mobile poll/Bureau itinérant",N,N,"145",0,32,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 507","Mobile poll/Bureau itinérant",N,N,"",0,18,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 507","Mobile poll/Bureau itinérant",N,N,"",0,18,"Kelloway","","Mike","Liberal","Libéral",Y,Y,3
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 507","Mobile poll/Bureau itinérant",N,N,"",0,18,"MacLeod","","Fiona","Conservative","Conservateur",N,N,2
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 507","Mobile poll/Bureau itinérant",N,N,"",0,18,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 600","Chéticamp",N,N,"",4,0,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,20
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 600","Chéticamp",N,N,"",4,0,"Kelloway","","Mike","Liberal","Libéral",Y,Y,363
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 600","Chéticamp",N,N,"",4,0,"MacLeod","","Fiona","Conservative","Conservateur",N,N,201
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 600","Chéticamp",N,N,"",4,0,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 601","Inverness",N,N,"",12,0,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,9
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 601","Inverness",N,N,"",12,0,"Kelloway","","Mike","Liberal","Libéral",Y,Y,193
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 601","Inverness",N,N,"",12,0,"MacLeod","","Fiona","Conservative","Conservateur",N,N,155
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 601","Inverness",N,N,"",12,0,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 602","Port Hood",N,N,"",1,0,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,13
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 602","Port Hood",N,N,"",1,0,"Kelloway","","Mike","Liberal","Libéral",Y,Y,194
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 602","Port Hood",N,N,"",1,0,"MacLeod","","Fiona","Conservative","Conservateur",N,N,188
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 602","Port Hood",N,N,"",1,0,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 603","Whycocomagh",N,N,"",4,0,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,6
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 603","Whycocomagh",N,N,"",4,0,"Kelloway","","Mike","Liberal","Libéral",Y,Y,93
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 603","Whycocomagh",N,N,"",4,0,"MacLeod","","Fiona","Conservative","Conservateur",N,N,108
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 603","Whycocomagh",N,N,"",4,0,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 604","Port Hawkesbury",N,N,"",7,0,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,28
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 604","Port Hawkesbury",N,N,"",7,0,"Kelloway","","Mike","Liberal","Libéral",Y,Y,302
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 604","Port Hawkesbury",N,N,"",7,0,"MacLeod","","Fiona","Conservative","Conservateur",N,N,69
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 604","Port Hawkesbury",N,N,"",7,0,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 605","Tracadie",N,N,"",3,0,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,33
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 605","Tracadie",N,N,"",3,0,"Kelloway","","Mike","Liberal","Libéral",Y,Y,190
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 605","Tracadie",N,N,"",3,0,"MacLeod","","Fiona","Conservative","Conservateur",N,N,253
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 605","Tracadie",N,N,"",3,0,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 606","Pomquet",N,N,"",14,0,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,10
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 606","Pomquet",N,N,"",14,0,"Kelloway","","Mike","Liberal","Libéral",Y,Y,157
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 606","Pomquet",N,N,"",14,0,"MacLeod","","Fiona","Conservative","Conservateur",N,N,130
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 606","Pomquet",N,N,"",14,0,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 607","St. Andrews--Lower South River",N,N,"",0,0,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,11
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 607","St. Andrews--Lower South River",N,N,"",0,0,"Kelloway","","Mike","Liberal","Libéral",Y,Y,108
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 607","St. Andrews--Lower South River",N,N,"",0,0,"MacLeod","","Fiona","Conservative","Conservateur",N,N,110
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 607","St. Andrews--Lower South River",N,N,"",0,0,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 608","Guysborough",N,N,"",0,0,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,17
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 608","Guysborough",N,N,"",0,0,"Kelloway","","Mike","Liberal","Libéral",Y,Y,132
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 608","Guysborough",N,N,"",0,0,"MacLeod","","Fiona","Conservative","Conservateur",N,N,101
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 608","Guysborough",N,N,"",0,0,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 609","Canso",N,N,"",2,0,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,12
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 609","Canso",N,N,"",2,0,"Kelloway","","Mike","Liberal","Libéral",Y,Y,112
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 609","Canso",N,N,"",2,0,"MacLeod","","Fiona","Conservative","Conservateur",N,N,108
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 609","Canso",N,N,"",2,0,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 610","Mulgrave",N,N,"",0,0,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,9
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 610","Mulgrave",N,N,"",0,0,"Kelloway","","Mike","Liberal","Libéral",Y,Y,87
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 610","Mulgrave",N,N,"",0,0,"MacLeod","","Fiona","Conservative","Conservateur",N,N,95
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 610","Mulgrave",N,N,"",0,0,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 611","Arichat",N,N,"",12,0,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,17
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 611","Arichat",N,N,"",12,0,"Kelloway","","Mike","Liberal","Libéral",Y,Y,312
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 611","Arichat",N,N,"",12,0,"MacLeod","","Fiona","Conservative","Conservateur",N,N,221
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 611","Arichat",N,N,"",12,0,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 612","Louisdale--St. Peter's",N,N,"",0,0,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,9
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 612","Louisdale--St. Peter's",N,N,"",0,0,"Kelloway","","Mike","Liberal","Libéral",Y,Y,193
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 612","Louisdale--St. Peter's",N,N,"",0,0,"MacLeod","","Fiona","Conservative","Conservateur",N,N,146
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 612","Louisdale--St. Peter's",N,N,"",0,0,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 613","Rockdale",N,N,"",1,0,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,14
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 613","Rockdale",N,N,"",1,0,"Kelloway","","Mike","Liberal","Libéral",Y,Y,151
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 613","Rockdale",N,N,"",1,0,"MacLeod","","Fiona","Conservative","Conservateur",N,N,119
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 613","Rockdale",N,N,"",1,0,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 614","Cape Breton",N,N,"",0,0,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 614","Cape Breton",N,N,"",0,0,"Kelloway","","Mike","Liberal","Libéral",Y,Y,171
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 614","Cape Breton",N,N,"",0,0,"MacLeod","","Fiona","Conservative","Conservateur",N,N,85
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 614","Cape Breton",N,N,"",0,0,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 615","Cape Breton",N,N,"",2,0,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,14
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 615","Cape Breton",N,N,"",2,0,"Kelloway","","Mike","Liberal","Libéral",Y,Y,230
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 615","Cape Breton",N,N,"",2,0,"MacLeod","","Fiona","Conservative","Conservateur",N,N,177
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 615","Cape Breton",N,N,"",2,0,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 616","Cape Breton",N,N,"",6,0,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,32
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 616","Cape Breton",N,N,"",6,0,"Kelloway","","Mike","Liberal","Libéral",Y,Y,386
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 616","Cape Breton",N,N,"",6,0,"MacLeod","","Fiona","Conservative","Conservateur",N,N,245
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 616","Cape Breton",N,N,"",6,0,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,85
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 617","Cape Breton",N,N,"",4,0,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,18
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 617","Cape Breton",N,N,"",4,0,"Kelloway","","Mike","Liberal","Libéral",Y,Y,508
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 617","Cape Breton",N,N,"",4,0,"MacLeod","","Fiona","Conservative","Conservateur",N,N,209
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 617","Cape Breton",N,N,"",4,0,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 618","Cape Breton",N,N,"",2,0,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,3
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 618","Cape Breton",N,N,"",2,0,"Kelloway","","Mike","Liberal","Libéral",Y,Y,124
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 618","Cape Breton",N,N,"",2,0,"MacLeod","","Fiona","Conservative","Conservateur",N,N,128
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 618","Cape Breton",N,N,"",2,0,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 619","Cape Breton",N,N,"",2,0,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,9
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 619","Cape Breton",N,N,"",2,0,"Kelloway","","Mike","Liberal","Libéral",Y,Y,224
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 619","Cape Breton",N,N,"",2,0,"MacLeod","","Fiona","Conservative","Conservateur",N,N,112
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 619","Cape Breton",N,N,"",2,0,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 620","Cape Breton",N,N,"",0,0,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,21
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 620","Cape Breton",N,N,"",0,0,"Kelloway","","Mike","Liberal","Libéral",Y,Y,489
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 620","Cape Breton",N,N,"",0,0,"MacLeod","","Fiona","Conservative","Conservateur",N,N,250
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 620","Cape Breton",N,N,"",0,0,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,124
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 621","Cape Breton",N,N,"",2,0,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,25
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 621","Cape Breton",N,N,"",2,0,"Kelloway","","Mike","Liberal","Libéral",Y,Y,396
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 621","Cape Breton",N,N,"",2,0,"MacLeod","","Fiona","Conservative","Conservateur",N,N,248
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 621","Cape Breton",N,N,"",2,0,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,120
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 622","Cape Breton",N,N,"",8,0,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,20
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 622","Cape Breton",N,N,"",8,0,"Kelloway","","Mike","Liberal","Libéral",Y,Y,344
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 622","Cape Breton",N,N,"",8,0,"MacLeod","","Fiona","Conservative","Conservateur",N,N,210
+12001,"Cape Breton--Canso","Cape Breton--Canso"," 622","Cape Breton",N,N,"",8,0,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,116
+12001,"Cape Breton--Canso","Cape Breton--Canso"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",23,90,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,14
+12001,"Cape Breton--Canso","Cape Breton--Canso"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",23,90,"Kelloway","","Mike","Liberal","Libéral",Y,Y,120
+12001,"Cape Breton--Canso","Cape Breton--Canso"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",23,90,"MacLeod","","Fiona","Conservative","Conservateur",N,N,116
+12001,"Cape Breton--Canso","Cape Breton--Canso"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",23,90,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+12001,"Cape Breton--Canso","Cape Breton--Canso"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",30,0,"Grandy","","Brad","People's Party - PPC","Parti populaire - PPC",N,N,26
+12001,"Cape Breton--Canso","Cape Breton--Canso"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",30,0,"Kelloway","","Mike","Liberal","Libéral",Y,Y,910
+12001,"Cape Breton--Canso","Cape Breton--Canso"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",30,0,"MacLeod","","Fiona","Conservative","Conservateur",N,N,667
+12001,"Cape Breton--Canso","Cape Breton--Canso"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",30,0,"Reddick","","Jana","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,213

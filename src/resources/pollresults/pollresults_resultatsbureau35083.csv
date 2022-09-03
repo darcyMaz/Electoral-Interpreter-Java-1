@@ -1,0 +1,833 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+35083,"Perth--Wellington","Perth--Wellington"," 1","Mount Forest",N,N,"",3,548,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,14
+35083,"Perth--Wellington","Perth--Wellington"," 1","Mount Forest",N,N,"",3,548,"Knight","","Brendan","Liberal","Libéral",N,N,35
+35083,"Perth--Wellington","Perth--Wellington"," 1","Mount Forest",N,N,"",3,548,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35083,"Perth--Wellington","Perth--Wellington"," 1","Mount Forest",N,N,"",3,548,"Nater","","John","Conservative","Conservateur",Y,Y,81
+35083,"Perth--Wellington","Perth--Wellington"," 2","Mount Forest",N,N,"",0,626,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,17
+35083,"Perth--Wellington","Perth--Wellington"," 2","Mount Forest",N,N,"",0,626,"Knight","","Brendan","Liberal","Libéral",N,N,51
+35083,"Perth--Wellington","Perth--Wellington"," 2","Mount Forest",N,N,"",0,626,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35083,"Perth--Wellington","Perth--Wellington"," 2","Mount Forest",N,N,"",0,626,"Nater","","John","Conservative","Conservateur",Y,Y,77
+35083,"Perth--Wellington","Perth--Wellington"," 3","Mount Forest",N,N,"",3,578,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,22
+35083,"Perth--Wellington","Perth--Wellington"," 3","Mount Forest",N,N,"",3,578,"Knight","","Brendan","Liberal","Libéral",N,N,33
+35083,"Perth--Wellington","Perth--Wellington"," 3","Mount Forest",N,N,"",3,578,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35083,"Perth--Wellington","Perth--Wellington"," 3","Mount Forest",N,N,"",3,578,"Nater","","John","Conservative","Conservateur",Y,Y,80
+35083,"Perth--Wellington","Perth--Wellington"," 4","Wellington North",N,N,"",0,458,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,16
+35083,"Perth--Wellington","Perth--Wellington"," 4","Wellington North",N,N,"",0,458,"Knight","","Brendan","Liberal","Libéral",N,N,40
+35083,"Perth--Wellington","Perth--Wellington"," 4","Wellington North",N,N,"",0,458,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35083,"Perth--Wellington","Perth--Wellington"," 4","Wellington North",N,N,"",0,458,"Nater","","John","Conservative","Conservateur",Y,Y,73
+35083,"Perth--Wellington","Perth--Wellington"," 5","Mount Forest",N,N,"",0,460,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,12
+35083,"Perth--Wellington","Perth--Wellington"," 5","Mount Forest",N,N,"",0,460,"Knight","","Brendan","Liberal","Libéral",N,N,31
+35083,"Perth--Wellington","Perth--Wellington"," 5","Mount Forest",N,N,"",0,460,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35083,"Perth--Wellington","Perth--Wellington"," 5","Mount Forest",N,N,"",0,460,"Nater","","John","Conservative","Conservateur",Y,Y,72
+35083,"Perth--Wellington","Perth--Wellington"," 6","Mount Forest",N,N,"",3,476,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,24
+35083,"Perth--Wellington","Perth--Wellington"," 6","Mount Forest",N,N,"",3,476,"Knight","","Brendan","Liberal","Libéral",N,N,35
+35083,"Perth--Wellington","Perth--Wellington"," 6","Mount Forest",N,N,"",3,476,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35083,"Perth--Wellington","Perth--Wellington"," 6","Mount Forest",N,N,"",3,476,"Nater","","John","Conservative","Conservateur",Y,Y,65
+35083,"Perth--Wellington","Perth--Wellington"," 7","Mount Forest",N,N,"",1,520,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,18
+35083,"Perth--Wellington","Perth--Wellington"," 7","Mount Forest",N,N,"",1,520,"Knight","","Brendan","Liberal","Libéral",N,N,40
+35083,"Perth--Wellington","Perth--Wellington"," 7","Mount Forest",N,N,"",1,520,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35083,"Perth--Wellington","Perth--Wellington"," 7","Mount Forest",N,N,"",1,520,"Nater","","John","Conservative","Conservateur",Y,Y,82
+35083,"Perth--Wellington","Perth--Wellington"," 8","Mount Forest",N,N,"",4,494,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,31
+35083,"Perth--Wellington","Perth--Wellington"," 8","Mount Forest",N,N,"",4,494,"Knight","","Brendan","Liberal","Libéral",N,N,29
+35083,"Perth--Wellington","Perth--Wellington"," 8","Mount Forest",N,N,"",4,494,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35083,"Perth--Wellington","Perth--Wellington"," 8","Mount Forest",N,N,"",4,494,"Nater","","John","Conservative","Conservateur",Y,Y,80
+35083,"Perth--Wellington","Perth--Wellington"," 9","Mount Forest",N,N,"",0,433,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,13
+35083,"Perth--Wellington","Perth--Wellington"," 9","Mount Forest",N,N,"",0,433,"Knight","","Brendan","Liberal","Libéral",N,N,27
+35083,"Perth--Wellington","Perth--Wellington"," 9","Mount Forest",N,N,"",0,433,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35083,"Perth--Wellington","Perth--Wellington"," 9","Mount Forest",N,N,"",0,433,"Nater","","John","Conservative","Conservateur",Y,Y,51
+35083,"Perth--Wellington","Perth--Wellington"," 10","Wellington North",N,N,"",0,440,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,17
+35083,"Perth--Wellington","Perth--Wellington"," 10","Wellington North",N,N,"",0,440,"Knight","","Brendan","Liberal","Libéral",N,N,34
+35083,"Perth--Wellington","Perth--Wellington"," 10","Wellington North",N,N,"",0,440,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35083,"Perth--Wellington","Perth--Wellington"," 10","Wellington North",N,N,"",0,440,"Nater","","John","Conservative","Conservateur",Y,Y,78
+35083,"Perth--Wellington","Perth--Wellington"," 11","Wellington North",N,N,"",0,545,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,22
+35083,"Perth--Wellington","Perth--Wellington"," 11","Wellington North",N,N,"",0,545,"Knight","","Brendan","Liberal","Libéral",N,N,37
+35083,"Perth--Wellington","Perth--Wellington"," 11","Wellington North",N,N,"",0,545,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35083,"Perth--Wellington","Perth--Wellington"," 11","Wellington North",N,N,"",0,545,"Nater","","John","Conservative","Conservateur",Y,Y,101
+35083,"Perth--Wellington","Perth--Wellington"," 12","Minto",N,N,"",1,596,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,32
+35083,"Perth--Wellington","Perth--Wellington"," 12","Minto",N,N,"",1,596,"Knight","","Brendan","Liberal","Libéral",N,N,40
+35083,"Perth--Wellington","Perth--Wellington"," 12","Minto",N,N,"",1,596,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35083,"Perth--Wellington","Perth--Wellington"," 12","Minto",N,N,"",1,596,"Nater","","John","Conservative","Conservateur",Y,Y,118
+35083,"Perth--Wellington","Perth--Wellington"," 13","Minto",N,N,"",0,655,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,52
+35083,"Perth--Wellington","Perth--Wellington"," 13","Minto",N,N,"",0,655,"Knight","","Brendan","Liberal","Libéral",N,N,67
+35083,"Perth--Wellington","Perth--Wellington"," 13","Minto",N,N,"",0,655,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+35083,"Perth--Wellington","Perth--Wellington"," 13","Minto",N,N,"",0,655,"Nater","","John","Conservative","Conservateur",Y,Y,163
+35083,"Perth--Wellington","Perth--Wellington"," 14","Wellington North",N,N,"",0,360,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,15
+35083,"Perth--Wellington","Perth--Wellington"," 14","Wellington North",N,N,"",0,360,"Knight","","Brendan","Liberal","Libéral",N,N,11
+35083,"Perth--Wellington","Perth--Wellington"," 14","Wellington North",N,N,"",0,360,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35083,"Perth--Wellington","Perth--Wellington"," 14","Wellington North",N,N,"",0,360,"Nater","","John","Conservative","Conservateur",Y,Y,72
+35083,"Perth--Wellington","Perth--Wellington"," 15","Wellington North",N,N,"",0,358,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,12
+35083,"Perth--Wellington","Perth--Wellington"," 15","Wellington North",N,N,"",0,358,"Knight","","Brendan","Liberal","Libéral",N,N,13
+35083,"Perth--Wellington","Perth--Wellington"," 15","Wellington North",N,N,"",0,358,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35083,"Perth--Wellington","Perth--Wellington"," 15","Wellington North",N,N,"",0,358,"Nater","","John","Conservative","Conservateur",Y,Y,62
+35083,"Perth--Wellington","Perth--Wellington"," 16","Wellington North",N,N,"",1,405,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,12
+35083,"Perth--Wellington","Perth--Wellington"," 16","Wellington North",N,N,"",1,405,"Knight","","Brendan","Liberal","Libéral",N,N,35
+35083,"Perth--Wellington","Perth--Wellington"," 16","Wellington North",N,N,"",1,405,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35083,"Perth--Wellington","Perth--Wellington"," 16","Wellington North",N,N,"",1,405,"Nater","","John","Conservative","Conservateur",Y,Y,77
+35083,"Perth--Wellington","Perth--Wellington"," 17","Wellington North",N,N,"",2,396,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,22
+35083,"Perth--Wellington","Perth--Wellington"," 17","Wellington North",N,N,"",2,396,"Knight","","Brendan","Liberal","Libéral",N,N,22
+35083,"Perth--Wellington","Perth--Wellington"," 17","Wellington North",N,N,"",2,396,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35083,"Perth--Wellington","Perth--Wellington"," 17","Wellington North",N,N,"",2,396,"Nater","","John","Conservative","Conservateur",Y,Y,62
+35083,"Perth--Wellington","Perth--Wellington"," 18","Wellington North",N,N,"",0,413,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,24
+35083,"Perth--Wellington","Perth--Wellington"," 18","Wellington North",N,N,"",0,413,"Knight","","Brendan","Liberal","Libéral",N,N,15
+35083,"Perth--Wellington","Perth--Wellington"," 18","Wellington North",N,N,"",0,413,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35083,"Perth--Wellington","Perth--Wellington"," 18","Wellington North",N,N,"",0,413,"Nater","","John","Conservative","Conservateur",Y,Y,70
+35083,"Perth--Wellington","Perth--Wellington"," 19","Wellington North",N,N,"",1,465,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,23
+35083,"Perth--Wellington","Perth--Wellington"," 19","Wellington North",N,N,"",1,465,"Knight","","Brendan","Liberal","Libéral",N,N,27
+35083,"Perth--Wellington","Perth--Wellington"," 19","Wellington North",N,N,"",1,465,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35083,"Perth--Wellington","Perth--Wellington"," 19","Wellington North",N,N,"",1,465,"Nater","","John","Conservative","Conservateur",Y,Y,85
+35083,"Perth--Wellington","Perth--Wellington"," 20","Arthur",N,N,"",1,408,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,20
+35083,"Perth--Wellington","Perth--Wellington"," 20","Arthur",N,N,"",1,408,"Knight","","Brendan","Liberal","Libéral",N,N,31
+35083,"Perth--Wellington","Perth--Wellington"," 20","Arthur",N,N,"",1,408,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35083,"Perth--Wellington","Perth--Wellington"," 20","Arthur",N,N,"",1,408,"Nater","","John","Conservative","Conservateur",Y,Y,69
+35083,"Perth--Wellington","Perth--Wellington"," 21","Wellington North",N,N,"",3,383,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,25
+35083,"Perth--Wellington","Perth--Wellington"," 21","Wellington North",N,N,"",3,383,"Knight","","Brendan","Liberal","Libéral",N,N,15
+35083,"Perth--Wellington","Perth--Wellington"," 21","Wellington North",N,N,"",3,383,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35083,"Perth--Wellington","Perth--Wellington"," 21","Wellington North",N,N,"",3,383,"Nater","","John","Conservative","Conservateur",Y,Y,78
+35083,"Perth--Wellington","Perth--Wellington"," 22","Wellington North",N,N,"",0,368,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,26
+35083,"Perth--Wellington","Perth--Wellington"," 22","Wellington North",N,N,"",0,368,"Knight","","Brendan","Liberal","Libéral",N,N,29
+35083,"Perth--Wellington","Perth--Wellington"," 22","Wellington North",N,N,"",0,368,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35083,"Perth--Wellington","Perth--Wellington"," 22","Wellington North",N,N,"",0,368,"Nater","","John","Conservative","Conservateur",Y,Y,60
+35083,"Perth--Wellington","Perth--Wellington"," 23","Minto",N,N,"",1,414,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,15
+35083,"Perth--Wellington","Perth--Wellington"," 23","Minto",N,N,"",1,414,"Knight","","Brendan","Liberal","Libéral",N,N,27
+35083,"Perth--Wellington","Perth--Wellington"," 23","Minto",N,N,"",1,414,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35083,"Perth--Wellington","Perth--Wellington"," 23","Minto",N,N,"",1,414,"Nater","","John","Conservative","Conservateur",Y,Y,73
+35083,"Perth--Wellington","Perth--Wellington"," 24","Minto",N,N,"",0,278,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,7
+35083,"Perth--Wellington","Perth--Wellington"," 24","Minto",N,N,"",0,278,"Knight","","Brendan","Liberal","Libéral",N,N,25
+35083,"Perth--Wellington","Perth--Wellington"," 24","Minto",N,N,"",0,278,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35083,"Perth--Wellington","Perth--Wellington"," 24","Minto",N,N,"",0,278,"Nater","","John","Conservative","Conservateur",Y,Y,39
+35083,"Perth--Wellington","Perth--Wellington"," 25","Minto",N,N,"",3,525,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,32
+35083,"Perth--Wellington","Perth--Wellington"," 25","Minto",N,N,"",3,525,"Knight","","Brendan","Liberal","Libéral",N,N,22
+35083,"Perth--Wellington","Perth--Wellington"," 25","Minto",N,N,"",3,525,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35083,"Perth--Wellington","Perth--Wellington"," 25","Minto",N,N,"",3,525,"Nater","","John","Conservative","Conservateur",Y,Y,105
+35083,"Perth--Wellington","Perth--Wellington"," 26","Minto",N,N,"",0,482,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,18
+35083,"Perth--Wellington","Perth--Wellington"," 26","Minto",N,N,"",0,482,"Knight","","Brendan","Liberal","Libéral",N,N,26
+35083,"Perth--Wellington","Perth--Wellington"," 26","Minto",N,N,"",0,482,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35083,"Perth--Wellington","Perth--Wellington"," 26","Minto",N,N,"",0,482,"Nater","","John","Conservative","Conservateur",Y,Y,79
+35083,"Perth--Wellington","Perth--Wellington"," 27","Minto",N,N,"",0,475,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,21
+35083,"Perth--Wellington","Perth--Wellington"," 27","Minto",N,N,"",0,475,"Knight","","Brendan","Liberal","Libéral",N,N,30
+35083,"Perth--Wellington","Perth--Wellington"," 27","Minto",N,N,"",0,475,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35083,"Perth--Wellington","Perth--Wellington"," 27","Minto",N,N,"",0,475,"Nater","","John","Conservative","Conservateur",Y,Y,92
+35083,"Perth--Wellington","Perth--Wellington"," 28","Minto",N,N,"",2,441,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,33
+35083,"Perth--Wellington","Perth--Wellington"," 28","Minto",N,N,"",2,441,"Knight","","Brendan","Liberal","Libéral",N,N,24
+35083,"Perth--Wellington","Perth--Wellington"," 28","Minto",N,N,"",2,441,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35083,"Perth--Wellington","Perth--Wellington"," 28","Minto",N,N,"",2,441,"Nater","","John","Conservative","Conservateur",Y,Y,114
+35083,"Perth--Wellington","Perth--Wellington"," 29","Minto",N,N,"",0,491,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,11
+35083,"Perth--Wellington","Perth--Wellington"," 29","Minto",N,N,"",0,491,"Knight","","Brendan","Liberal","Libéral",N,N,21
+35083,"Perth--Wellington","Perth--Wellington"," 29","Minto",N,N,"",0,491,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35083,"Perth--Wellington","Perth--Wellington"," 29","Minto",N,N,"",0,491,"Nater","","John","Conservative","Conservateur",Y,Y,117
+35083,"Perth--Wellington","Perth--Wellington"," 30","Minto",N,N,"",2,527,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,18
+35083,"Perth--Wellington","Perth--Wellington"," 30","Minto",N,N,"",2,527,"Knight","","Brendan","Liberal","Libéral",N,N,28
+35083,"Perth--Wellington","Perth--Wellington"," 30","Minto",N,N,"",2,527,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35083,"Perth--Wellington","Perth--Wellington"," 30","Minto",N,N,"",2,527,"Nater","","John","Conservative","Conservateur",Y,Y,108
+35083,"Perth--Wellington","Perth--Wellington"," 31","Minto",N,N,"",5,561,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,30
+35083,"Perth--Wellington","Perth--Wellington"," 31","Minto",N,N,"",5,561,"Knight","","Brendan","Liberal","Libéral",N,N,48
+35083,"Perth--Wellington","Perth--Wellington"," 31","Minto",N,N,"",5,561,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35083,"Perth--Wellington","Perth--Wellington"," 31","Minto",N,N,"",5,561,"Nater","","John","Conservative","Conservateur",Y,Y,91
+35083,"Perth--Wellington","Perth--Wellington"," 32","Minto",N,N,"",2,516,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,24
+35083,"Perth--Wellington","Perth--Wellington"," 32","Minto",N,N,"",2,516,"Knight","","Brendan","Liberal","Libéral",N,N,30
+35083,"Perth--Wellington","Perth--Wellington"," 32","Minto",N,N,"",2,516,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35083,"Perth--Wellington","Perth--Wellington"," 32","Minto",N,N,"",2,516,"Nater","","John","Conservative","Conservateur",Y,Y,98
+35083,"Perth--Wellington","Perth--Wellington"," 33","Minto",N,N,"",0,477,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,21
+35083,"Perth--Wellington","Perth--Wellington"," 33","Minto",N,N,"",0,477,"Knight","","Brendan","Liberal","Libéral",N,N,28
+35083,"Perth--Wellington","Perth--Wellington"," 33","Minto",N,N,"",0,477,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35083,"Perth--Wellington","Perth--Wellington"," 33","Minto",N,N,"",0,477,"Nater","","John","Conservative","Conservateur",Y,Y,95
+35083,"Perth--Wellington","Perth--Wellington"," 34","North Perth",N,N,"",0,492,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,8
+35083,"Perth--Wellington","Perth--Wellington"," 34","North Perth",N,N,"",0,492,"Knight","","Brendan","Liberal","Libéral",N,N,22
+35083,"Perth--Wellington","Perth--Wellington"," 34","North Perth",N,N,"",0,492,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35083,"Perth--Wellington","Perth--Wellington"," 34","North Perth",N,N,"",0,492,"Nater","","John","Conservative","Conservateur",Y,Y,99
+35083,"Perth--Wellington","Perth--Wellington"," 35","Mapleton",N,N,"",3,439,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,17
+35083,"Perth--Wellington","Perth--Wellington"," 35","Mapleton",N,N,"",3,439,"Knight","","Brendan","Liberal","Libéral",N,N,31
+35083,"Perth--Wellington","Perth--Wellington"," 35","Mapleton",N,N,"",3,439,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35083,"Perth--Wellington","Perth--Wellington"," 35","Mapleton",N,N,"",3,439,"Nater","","John","Conservative","Conservateur",Y,Y,129
+35083,"Perth--Wellington","Perth--Wellington"," 36","Alma",N,N,"",1,431,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,29
+35083,"Perth--Wellington","Perth--Wellington"," 36","Alma",N,N,"",1,431,"Knight","","Brendan","Liberal","Libéral",N,N,39
+35083,"Perth--Wellington","Perth--Wellington"," 36","Alma",N,N,"",1,431,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35083,"Perth--Wellington","Perth--Wellington"," 36","Alma",N,N,"",1,431,"Nater","","John","Conservative","Conservateur",Y,Y,181
+35083,"Perth--Wellington","Perth--Wellington"," 37","Mapleton",N,N,"",0,457,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,20
+35083,"Perth--Wellington","Perth--Wellington"," 37","Mapleton",N,N,"",0,457,"Knight","","Brendan","Liberal","Libéral",N,N,23
+35083,"Perth--Wellington","Perth--Wellington"," 37","Mapleton",N,N,"",0,457,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35083,"Perth--Wellington","Perth--Wellington"," 37","Mapleton",N,N,"",0,457,"Nater","","John","Conservative","Conservateur",Y,Y,122
+35083,"Perth--Wellington","Perth--Wellington"," 38","North Perth",N,N,"",0,368,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,18
+35083,"Perth--Wellington","Perth--Wellington"," 38","North Perth",N,N,"",0,368,"Knight","","Brendan","Liberal","Libéral",N,N,20
+35083,"Perth--Wellington","Perth--Wellington"," 38","North Perth",N,N,"",0,368,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35083,"Perth--Wellington","Perth--Wellington"," 38","North Perth",N,N,"",0,368,"Nater","","John","Conservative","Conservateur",Y,Y,99
+35083,"Perth--Wellington","Perth--Wellington"," 39","North Perth",N,N,"",0,351,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,7
+35083,"Perth--Wellington","Perth--Wellington"," 39","North Perth",N,N,"",0,351,"Knight","","Brendan","Liberal","Libéral",N,N,23
+35083,"Perth--Wellington","Perth--Wellington"," 39","North Perth",N,N,"",0,351,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35083,"Perth--Wellington","Perth--Wellington"," 39","North Perth",N,N,"",0,351,"Nater","","John","Conservative","Conservateur",Y,Y,119
+35083,"Perth--Wellington","Perth--Wellington"," 40","Mapleton",N,N,"",1,532,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,29
+35083,"Perth--Wellington","Perth--Wellington"," 40","Mapleton",N,N,"",1,532,"Knight","","Brendan","Liberal","Libéral",N,N,29
+35083,"Perth--Wellington","Perth--Wellington"," 40","Mapleton",N,N,"",1,532,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35083,"Perth--Wellington","Perth--Wellington"," 40","Mapleton",N,N,"",1,532,"Nater","","John","Conservative","Conservateur",Y,Y,94
+35083,"Perth--Wellington","Perth--Wellington"," 41","Mapleton",N,N,"",1,593,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,37
+35083,"Perth--Wellington","Perth--Wellington"," 41","Mapleton",N,N,"",1,593,"Knight","","Brendan","Liberal","Libéral",N,N,18
+35083,"Perth--Wellington","Perth--Wellington"," 41","Mapleton",N,N,"",1,593,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35083,"Perth--Wellington","Perth--Wellington"," 41","Mapleton",N,N,"",1,593,"Nater","","John","Conservative","Conservateur",Y,Y,110
+35083,"Perth--Wellington","Perth--Wellington"," 42","Mapleton",N,N,"",0,468,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,25
+35083,"Perth--Wellington","Perth--Wellington"," 42","Mapleton",N,N,"",0,468,"Knight","","Brendan","Liberal","Libéral",N,N,23
+35083,"Perth--Wellington","Perth--Wellington"," 42","Mapleton",N,N,"",0,468,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35083,"Perth--Wellington","Perth--Wellington"," 42","Mapleton",N,N,"",0,468,"Nater","","John","Conservative","Conservateur",Y,Y,87
+35083,"Perth--Wellington","Perth--Wellington"," 43","Mapleton",N,N,"",1,554,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,10
+35083,"Perth--Wellington","Perth--Wellington"," 43","Mapleton",N,N,"",1,554,"Knight","","Brendan","Liberal","Libéral",N,N,20
+35083,"Perth--Wellington","Perth--Wellington"," 43","Mapleton",N,N,"",1,554,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35083,"Perth--Wellington","Perth--Wellington"," 43","Mapleton",N,N,"",1,554,"Nater","","John","Conservative","Conservateur",Y,Y,115
+35083,"Perth--Wellington","Perth--Wellington"," 44","Mapleton",N,N,"",0,561,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,11
+35083,"Perth--Wellington","Perth--Wellington"," 44","Mapleton",N,N,"",0,561,"Knight","","Brendan","Liberal","Libéral",N,N,65
+35083,"Perth--Wellington","Perth--Wellington"," 44","Mapleton",N,N,"",0,561,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35083,"Perth--Wellington","Perth--Wellington"," 44","Mapleton",N,N,"",0,561,"Nater","","John","Conservative","Conservateur",Y,Y,108
+35083,"Perth--Wellington","Perth--Wellington"," 45","Drayton",N,N,"",0,497,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,24
+35083,"Perth--Wellington","Perth--Wellington"," 45","Drayton",N,N,"",0,497,"Knight","","Brendan","Liberal","Libéral",N,N,27
+35083,"Perth--Wellington","Perth--Wellington"," 45","Drayton",N,N,"",0,497,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35083,"Perth--Wellington","Perth--Wellington"," 45","Drayton",N,N,"",0,497,"Nater","","John","Conservative","Conservateur",Y,Y,107
+35083,"Perth--Wellington","Perth--Wellington"," 46","Drayton",N,N,"",0,519,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,10
+35083,"Perth--Wellington","Perth--Wellington"," 46","Drayton",N,N,"",0,519,"Knight","","Brendan","Liberal","Libéral",N,N,9
+35083,"Perth--Wellington","Perth--Wellington"," 46","Drayton",N,N,"",0,519,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35083,"Perth--Wellington","Perth--Wellington"," 46","Drayton",N,N,"",0,519,"Nater","","John","Conservative","Conservateur",Y,Y,88
+35083,"Perth--Wellington","Perth--Wellington"," 47","Mapleton",N,N,"",0,514,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,18
+35083,"Perth--Wellington","Perth--Wellington"," 47","Mapleton",N,N,"",0,514,"Knight","","Brendan","Liberal","Libéral",N,N,31
+35083,"Perth--Wellington","Perth--Wellington"," 47","Mapleton",N,N,"",0,514,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35083,"Perth--Wellington","Perth--Wellington"," 47","Mapleton",N,N,"",0,514,"Nater","","John","Conservative","Conservateur",Y,Y,96
+35083,"Perth--Wellington","Perth--Wellington"," 48","Mapleton",N,N,"",0,480,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,20
+35083,"Perth--Wellington","Perth--Wellington"," 48","Mapleton",N,N,"",0,480,"Knight","","Brendan","Liberal","Libéral",N,N,15
+35083,"Perth--Wellington","Perth--Wellington"," 48","Mapleton",N,N,"",0,480,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35083,"Perth--Wellington","Perth--Wellington"," 48","Mapleton",N,N,"",0,480,"Nater","","John","Conservative","Conservateur",Y,Y,58
+35083,"Perth--Wellington","Perth--Wellington"," 49","Mapleton",N,N,"",0,552,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,11
+35083,"Perth--Wellington","Perth--Wellington"," 49","Mapleton",N,N,"",0,552,"Knight","","Brendan","Liberal","Libéral",N,N,19
+35083,"Perth--Wellington","Perth--Wellington"," 49","Mapleton",N,N,"",0,552,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35083,"Perth--Wellington","Perth--Wellington"," 49","Mapleton",N,N,"",0,552,"Nater","","John","Conservative","Conservateur",Y,Y,40
+35083,"Perth--Wellington","Perth--Wellington"," 50","North Perth",N,N,"",0,798,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,35
+35083,"Perth--Wellington","Perth--Wellington"," 50","North Perth",N,N,"",0,798,"Knight","","Brendan","Liberal","Libéral",N,N,65
+35083,"Perth--Wellington","Perth--Wellington"," 50","North Perth",N,N,"",0,798,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+35083,"Perth--Wellington","Perth--Wellington"," 50","North Perth",N,N,"",0,798,"Nater","","John","Conservative","Conservateur",Y,Y,131
+35083,"Perth--Wellington","Perth--Wellington"," 51","North Perth",N,N,"",0,520,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,17
+35083,"Perth--Wellington","Perth--Wellington"," 51","North Perth",N,N,"",0,520,"Knight","","Brendan","Liberal","Libéral",N,N,37
+35083,"Perth--Wellington","Perth--Wellington"," 51","North Perth",N,N,"",0,520,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35083,"Perth--Wellington","Perth--Wellington"," 51","North Perth",N,N,"",0,520,"Nater","","John","Conservative","Conservateur",Y,Y,111
+35083,"Perth--Wellington","Perth--Wellington"," 52","North Perth",N,N,"",3,498,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,25
+35083,"Perth--Wellington","Perth--Wellington"," 52","North Perth",N,N,"",3,498,"Knight","","Brendan","Liberal","Libéral",N,N,54
+35083,"Perth--Wellington","Perth--Wellington"," 52","North Perth",N,N,"",3,498,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35083,"Perth--Wellington","Perth--Wellington"," 52","North Perth",N,N,"",3,498,"Nater","","John","Conservative","Conservateur",Y,Y,102
+35083,"Perth--Wellington","Perth--Wellington"," 53","North Perth",N,N,"",1,432,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,22
+35083,"Perth--Wellington","Perth--Wellington"," 53","North Perth",N,N,"",1,432,"Knight","","Brendan","Liberal","Libéral",N,N,24
+35083,"Perth--Wellington","Perth--Wellington"," 53","North Perth",N,N,"",1,432,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35083,"Perth--Wellington","Perth--Wellington"," 53","North Perth",N,N,"",1,432,"Nater","","John","Conservative","Conservateur",Y,Y,65
+35083,"Perth--Wellington","Perth--Wellington"," 54","North Perth",N,N,"",2,544,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,26
+35083,"Perth--Wellington","Perth--Wellington"," 54","North Perth",N,N,"",2,544,"Knight","","Brendan","Liberal","Libéral",N,N,39
+35083,"Perth--Wellington","Perth--Wellington"," 54","North Perth",N,N,"",2,544,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35083,"Perth--Wellington","Perth--Wellington"," 54","North Perth",N,N,"",2,544,"Nater","","John","Conservative","Conservateur",Y,Y,92
+35083,"Perth--Wellington","Perth--Wellington"," 55","North Perth",N,N,"",1,509,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,18
+35083,"Perth--Wellington","Perth--Wellington"," 55","North Perth",N,N,"",1,509,"Knight","","Brendan","Liberal","Libéral",N,N,37
+35083,"Perth--Wellington","Perth--Wellington"," 55","North Perth",N,N,"",1,509,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35083,"Perth--Wellington","Perth--Wellington"," 55","North Perth",N,N,"",1,509,"Nater","","John","Conservative","Conservateur",Y,Y,111
+35083,"Perth--Wellington","Perth--Wellington"," 56","North Perth",N,N,"",1,693,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,30
+35083,"Perth--Wellington","Perth--Wellington"," 56","North Perth",N,N,"",1,693,"Knight","","Brendan","Liberal","Libéral",N,N,59
+35083,"Perth--Wellington","Perth--Wellington"," 56","North Perth",N,N,"",1,693,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35083,"Perth--Wellington","Perth--Wellington"," 56","North Perth",N,N,"",1,693,"Nater","","John","Conservative","Conservateur",Y,Y,147
+35083,"Perth--Wellington","Perth--Wellington"," 57","North Perth",N,N,"",3,512,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,19
+35083,"Perth--Wellington","Perth--Wellington"," 57","North Perth",N,N,"",3,512,"Knight","","Brendan","Liberal","Libéral",N,N,22
+35083,"Perth--Wellington","Perth--Wellington"," 57","North Perth",N,N,"",3,512,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35083,"Perth--Wellington","Perth--Wellington"," 57","North Perth",N,N,"",3,512,"Nater","","John","Conservative","Conservateur",Y,Y,106
+35083,"Perth--Wellington","Perth--Wellington"," 58","North Perth",N,N,"",0,503,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,14
+35083,"Perth--Wellington","Perth--Wellington"," 58","North Perth",N,N,"",0,503,"Knight","","Brendan","Liberal","Libéral",N,N,50
+35083,"Perth--Wellington","Perth--Wellington"," 58","North Perth",N,N,"",0,503,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35083,"Perth--Wellington","Perth--Wellington"," 58","North Perth",N,N,"",0,503,"Nater","","John","Conservative","Conservateur",Y,Y,135
+35083,"Perth--Wellington","Perth--Wellington"," 59","North Perth",N,N,"",3,531,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,19
+35083,"Perth--Wellington","Perth--Wellington"," 59","North Perth",N,N,"",3,531,"Knight","","Brendan","Liberal","Libéral",N,N,51
+35083,"Perth--Wellington","Perth--Wellington"," 59","North Perth",N,N,"",3,531,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35083,"Perth--Wellington","Perth--Wellington"," 59","North Perth",N,N,"",3,531,"Nater","","John","Conservative","Conservateur",Y,Y,86
+35083,"Perth--Wellington","Perth--Wellington"," 60","North Perth",N,N,"",0,678,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,23
+35083,"Perth--Wellington","Perth--Wellington"," 60","North Perth",N,N,"",0,678,"Knight","","Brendan","Liberal","Libéral",N,N,44
+35083,"Perth--Wellington","Perth--Wellington"," 60","North Perth",N,N,"",0,678,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+35083,"Perth--Wellington","Perth--Wellington"," 60","North Perth",N,N,"",0,678,"Nater","","John","Conservative","Conservateur",Y,Y,100
+35083,"Perth--Wellington","Perth--Wellington"," 61","North Perth",N,N,"",3,869,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,26
+35083,"Perth--Wellington","Perth--Wellington"," 61","North Perth",N,N,"",3,869,"Knight","","Brendan","Liberal","Libéral",N,N,75
+35083,"Perth--Wellington","Perth--Wellington"," 61","North Perth",N,N,"",3,869,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+35083,"Perth--Wellington","Perth--Wellington"," 61","North Perth",N,N,"",3,869,"Nater","","John","Conservative","Conservateur",Y,Y,154
+35083,"Perth--Wellington","Perth--Wellington"," 62","North Perth",N,N,"",0,1045,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,17
+35083,"Perth--Wellington","Perth--Wellington"," 62","North Perth",N,N,"",0,1045,"Knight","","Brendan","Liberal","Libéral",N,N,88
+35083,"Perth--Wellington","Perth--Wellington"," 62","North Perth",N,N,"",0,1045,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+35083,"Perth--Wellington","Perth--Wellington"," 62","North Perth",N,N,"",0,1045,"Nater","","John","Conservative","Conservateur",Y,Y,199
+35083,"Perth--Wellington","Perth--Wellington"," 63","North Perth",N,N,"",2,432,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,21
+35083,"Perth--Wellington","Perth--Wellington"," 63","North Perth",N,N,"",2,432,"Knight","","Brendan","Liberal","Libéral",N,N,34
+35083,"Perth--Wellington","Perth--Wellington"," 63","North Perth",N,N,"",2,432,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35083,"Perth--Wellington","Perth--Wellington"," 63","North Perth",N,N,"",2,432,"Nater","","John","Conservative","Conservateur",Y,Y,125
+35083,"Perth--Wellington","Perth--Wellington"," 64","North Perth",N,N,"",1,521,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,40
+35083,"Perth--Wellington","Perth--Wellington"," 64","North Perth",N,N,"",1,521,"Knight","","Brendan","Liberal","Libéral",N,N,43
+35083,"Perth--Wellington","Perth--Wellington"," 64","North Perth",N,N,"",1,521,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35083,"Perth--Wellington","Perth--Wellington"," 64","North Perth",N,N,"",1,521,"Nater","","John","Conservative","Conservateur",Y,Y,167
+35083,"Perth--Wellington","Perth--Wellington"," 65","North Perth",N,N,"",1,462,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,34
+35083,"Perth--Wellington","Perth--Wellington"," 65","North Perth",N,N,"",1,462,"Knight","","Brendan","Liberal","Libéral",N,N,31
+35083,"Perth--Wellington","Perth--Wellington"," 65","North Perth",N,N,"",1,462,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35083,"Perth--Wellington","Perth--Wellington"," 65","North Perth",N,N,"",1,462,"Nater","","John","Conservative","Conservateur",Y,Y,160
+35083,"Perth--Wellington","Perth--Wellington"," 66","Perth East",N,N,"",3,417,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,12
+35083,"Perth--Wellington","Perth--Wellington"," 66","Perth East",N,N,"",3,417,"Knight","","Brendan","Liberal","Libéral",N,N,17
+35083,"Perth--Wellington","Perth--Wellington"," 66","Perth East",N,N,"",3,417,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35083,"Perth--Wellington","Perth--Wellington"," 66","Perth East",N,N,"",3,417,"Nater","","John","Conservative","Conservateur",Y,Y,30
+35083,"Perth--Wellington","Perth--Wellington"," 67","Perth East",N,N,"",0,393,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,23
+35083,"Perth--Wellington","Perth--Wellington"," 67","Perth East",N,N,"",0,393,"Knight","","Brendan","Liberal","Libéral",N,N,12
+35083,"Perth--Wellington","Perth--Wellington"," 67","Perth East",N,N,"",0,393,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35083,"Perth--Wellington","Perth--Wellington"," 67","Perth East",N,N,"",0,393,"Nater","","John","Conservative","Conservateur",Y,Y,61
+35083,"Perth--Wellington","Perth--Wellington"," 68","Millbank",N,N,"",0,312,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,17
+35083,"Perth--Wellington","Perth--Wellington"," 68","Millbank",N,N,"",0,312,"Knight","","Brendan","Liberal","Libéral",N,N,12
+35083,"Perth--Wellington","Perth--Wellington"," 68","Millbank",N,N,"",0,312,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35083,"Perth--Wellington","Perth--Wellington"," 68","Millbank",N,N,"",0,312,"Nater","","John","Conservative","Conservateur",Y,Y,41
+35083,"Perth--Wellington","Perth--Wellington"," 69","Perth East",N,N,"",0,301,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,10
+35083,"Perth--Wellington","Perth--Wellington"," 69","Perth East",N,N,"",0,301,"Knight","","Brendan","Liberal","Libéral",N,N,6
+35083,"Perth--Wellington","Perth--Wellington"," 69","Perth East",N,N,"",0,301,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35083,"Perth--Wellington","Perth--Wellington"," 69","Perth East",N,N,"",0,301,"Nater","","John","Conservative","Conservateur",Y,Y,26
+35083,"Perth--Wellington","Perth--Wellington"," 70","Milverton",N,N,"",1,322,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,5
+35083,"Perth--Wellington","Perth--Wellington"," 70","Milverton",N,N,"",1,322,"Knight","","Brendan","Liberal","Libéral",N,N,16
+35083,"Perth--Wellington","Perth--Wellington"," 70","Milverton",N,N,"",1,322,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35083,"Perth--Wellington","Perth--Wellington"," 70","Milverton",N,N,"",1,322,"Nater","","John","Conservative","Conservateur",Y,Y,53
+35083,"Perth--Wellington","Perth--Wellington"," 71","Milverton",N,N,"",2,278,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,16
+35083,"Perth--Wellington","Perth--Wellington"," 71","Milverton",N,N,"",2,278,"Knight","","Brendan","Liberal","Libéral",N,N,28
+35083,"Perth--Wellington","Perth--Wellington"," 71","Milverton",N,N,"",2,278,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35083,"Perth--Wellington","Perth--Wellington"," 71","Milverton",N,N,"",2,278,"Nater","","John","Conservative","Conservateur",Y,Y,51
+35083,"Perth--Wellington","Perth--Wellington"," 72","Milverton",N,N,"",0,344,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,20
+35083,"Perth--Wellington","Perth--Wellington"," 72","Milverton",N,N,"",0,344,"Knight","","Brendan","Liberal","Libéral",N,N,20
+35083,"Perth--Wellington","Perth--Wellington"," 72","Milverton",N,N,"",0,344,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35083,"Perth--Wellington","Perth--Wellington"," 72","Milverton",N,N,"",0,344,"Nater","","John","Conservative","Conservateur",Y,Y,60
+35083,"Perth--Wellington","Perth--Wellington"," 73","Milverton",N,N,"",2,531,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,15
+35083,"Perth--Wellington","Perth--Wellington"," 73","Milverton",N,N,"",2,531,"Knight","","Brendan","Liberal","Libéral",N,N,45
+35083,"Perth--Wellington","Perth--Wellington"," 73","Milverton",N,N,"",2,531,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35083,"Perth--Wellington","Perth--Wellington"," 73","Milverton",N,N,"",2,531,"Nater","","John","Conservative","Conservateur",Y,Y,116
+35083,"Perth--Wellington","Perth--Wellington"," 74","Perth East",N,N,"",3,417,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,26
+35083,"Perth--Wellington","Perth--Wellington"," 74","Perth East",N,N,"",3,417,"Knight","","Brendan","Liberal","Libéral",N,N,22
+35083,"Perth--Wellington","Perth--Wellington"," 74","Perth East",N,N,"",3,417,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35083,"Perth--Wellington","Perth--Wellington"," 74","Perth East",N,N,"",3,417,"Nater","","John","Conservative","Conservateur",Y,Y,83
+35083,"Perth--Wellington","Perth--Wellington"," 75","North Perth",N,N,"",3,591,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,41
+35083,"Perth--Wellington","Perth--Wellington"," 75","North Perth",N,N,"",3,591,"Knight","","Brendan","Liberal","Libéral",N,N,26
+35083,"Perth--Wellington","Perth--Wellington"," 75","North Perth",N,N,"",3,591,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35083,"Perth--Wellington","Perth--Wellington"," 75","North Perth",N,N,"",3,591,"Nater","","John","Conservative","Conservateur",Y,Y,233
+35083,"Perth--Wellington","Perth--Wellington"," 76","West Perth",N,N,"",0,363,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,16
+35083,"Perth--Wellington","Perth--Wellington"," 76","West Perth",N,N,"",0,363,"Knight","","Brendan","Liberal","Libéral",N,N,18
+35083,"Perth--Wellington","Perth--Wellington"," 76","West Perth",N,N,"",0,363,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35083,"Perth--Wellington","Perth--Wellington"," 76","West Perth",N,N,"",0,363,"Nater","","John","Conservative","Conservateur",Y,Y,123
+35083,"Perth--Wellington","Perth--Wellington"," 77","West Perth",N,N,"",2,319,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,16
+35083,"Perth--Wellington","Perth--Wellington"," 77","West Perth",N,N,"",2,319,"Knight","","Brendan","Liberal","Libéral",N,N,9
+35083,"Perth--Wellington","Perth--Wellington"," 77","West Perth",N,N,"",2,319,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35083,"Perth--Wellington","Perth--Wellington"," 77","West Perth",N,N,"",2,319,"Nater","","John","Conservative","Conservateur",Y,Y,102
+35083,"Perth--Wellington","Perth--Wellington"," 78","Perth East",N,N,"",0,386,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,30
+35083,"Perth--Wellington","Perth--Wellington"," 78","Perth East",N,N,"",0,386,"Knight","","Brendan","Liberal","Libéral",N,N,30
+35083,"Perth--Wellington","Perth--Wellington"," 78","Perth East",N,N,"",0,386,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35083,"Perth--Wellington","Perth--Wellington"," 78","Perth East",N,N,"",0,386,"Nater","","John","Conservative","Conservateur",Y,Y,109
+35083,"Perth--Wellington","Perth--Wellington"," 79","Perth East",N,N,"",0,336,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,20
+35083,"Perth--Wellington","Perth--Wellington"," 79","Perth East",N,N,"",0,336,"Knight","","Brendan","Liberal","Libéral",N,N,33
+35083,"Perth--Wellington","Perth--Wellington"," 79","Perth East",N,N,"",0,336,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35083,"Perth--Wellington","Perth--Wellington"," 79","Perth East",N,N,"",0,336,"Nater","","John","Conservative","Conservateur",Y,Y,114
+35083,"Perth--Wellington","Perth--Wellington"," 80","Perth East",N,N,"",0,448,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,21
+35083,"Perth--Wellington","Perth--Wellington"," 80","Perth East",N,N,"",0,448,"Knight","","Brendan","Liberal","Libéral",N,N,27
+35083,"Perth--Wellington","Perth--Wellington"," 80","Perth East",N,N,"",0,448,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35083,"Perth--Wellington","Perth--Wellington"," 80","Perth East",N,N,"",0,448,"Nater","","John","Conservative","Conservateur",Y,Y,77
+35083,"Perth--Wellington","Perth--Wellington"," 81","Stratford",N,N,"",1,616,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,16
+35083,"Perth--Wellington","Perth--Wellington"," 81","Stratford",N,N,"",1,616,"Knight","","Brendan","Liberal","Libéral",N,N,65
+35083,"Perth--Wellington","Perth--Wellington"," 81","Stratford",N,N,"",1,616,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+35083,"Perth--Wellington","Perth--Wellington"," 81","Stratford",N,N,"",1,616,"Nater","","John","Conservative","Conservateur",Y,Y,74
+35083,"Perth--Wellington","Perth--Wellington"," 82","Stratford",N,N,"",0,705,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,16
+35083,"Perth--Wellington","Perth--Wellington"," 82","Stratford",N,N,"",0,705,"Knight","","Brendan","Liberal","Libéral",N,N,72
+35083,"Perth--Wellington","Perth--Wellington"," 82","Stratford",N,N,"",0,705,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+35083,"Perth--Wellington","Perth--Wellington"," 82","Stratford",N,N,"",0,705,"Nater","","John","Conservative","Conservateur",Y,Y,112
+35083,"Perth--Wellington","Perth--Wellington"," 83","Stratford",N,N,"",0,473,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,5
+35083,"Perth--Wellington","Perth--Wellington"," 83","Stratford",N,N,"",0,473,"Knight","","Brendan","Liberal","Libéral",N,N,46
+35083,"Perth--Wellington","Perth--Wellington"," 83","Stratford",N,N,"",0,473,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35083,"Perth--Wellington","Perth--Wellington"," 83","Stratford",N,N,"",0,473,"Nater","","John","Conservative","Conservateur",Y,Y,52
+35083,"Perth--Wellington","Perth--Wellington"," 84","Stratford",N,N,"",0,705,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,8
+35083,"Perth--Wellington","Perth--Wellington"," 84","Stratford",N,N,"",0,705,"Knight","","Brendan","Liberal","Libéral",N,N,93
+35083,"Perth--Wellington","Perth--Wellington"," 84","Stratford",N,N,"",0,705,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35083,"Perth--Wellington","Perth--Wellington"," 84","Stratford",N,N,"",0,705,"Nater","","John","Conservative","Conservateur",Y,Y,76
+35083,"Perth--Wellington","Perth--Wellington"," 85","Stratford",N,N,"",1,560,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,18
+35083,"Perth--Wellington","Perth--Wellington"," 85","Stratford",N,N,"",1,560,"Knight","","Brendan","Liberal","Libéral",N,N,66
+35083,"Perth--Wellington","Perth--Wellington"," 85","Stratford",N,N,"",1,560,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35083,"Perth--Wellington","Perth--Wellington"," 85","Stratford",N,N,"",1,560,"Nater","","John","Conservative","Conservateur",Y,Y,51
+35083,"Perth--Wellington","Perth--Wellington"," 86","Stratford",N,N,"",1,859,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,29
+35083,"Perth--Wellington","Perth--Wellington"," 86","Stratford",N,N,"",1,859,"Knight","","Brendan","Liberal","Libéral",N,N,111
+35083,"Perth--Wellington","Perth--Wellington"," 86","Stratford",N,N,"",1,859,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,81
+35083,"Perth--Wellington","Perth--Wellington"," 86","Stratford",N,N,"",1,859,"Nater","","John","Conservative","Conservateur",Y,Y,128
+35083,"Perth--Wellington","Perth--Wellington"," 87","Stratford",N,N,"",1,502,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+35083,"Perth--Wellington","Perth--Wellington"," 87","Stratford",N,N,"",1,502,"Knight","","Brendan","Liberal","Libéral",N,N,102
+35083,"Perth--Wellington","Perth--Wellington"," 87","Stratford",N,N,"",1,502,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35083,"Perth--Wellington","Perth--Wellington"," 87","Stratford",N,N,"",1,502,"Nater","","John","Conservative","Conservateur",Y,Y,65
+35083,"Perth--Wellington","Perth--Wellington"," 88","Stratford",N,N,"",1,499,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,7
+35083,"Perth--Wellington","Perth--Wellington"," 88","Stratford",N,N,"",1,499,"Knight","","Brendan","Liberal","Libéral",N,N,60
+35083,"Perth--Wellington","Perth--Wellington"," 88","Stratford",N,N,"",1,499,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35083,"Perth--Wellington","Perth--Wellington"," 88","Stratford",N,N,"",1,499,"Nater","","John","Conservative","Conservateur",Y,Y,88
+35083,"Perth--Wellington","Perth--Wellington"," 89","Stratford",N,N,"",2,556,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,5
+35083,"Perth--Wellington","Perth--Wellington"," 89","Stratford",N,N,"",2,556,"Knight","","Brendan","Liberal","Libéral",N,N,57
+35083,"Perth--Wellington","Perth--Wellington"," 89","Stratford",N,N,"",2,556,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35083,"Perth--Wellington","Perth--Wellington"," 89","Stratford",N,N,"",2,556,"Nater","","John","Conservative","Conservateur",Y,Y,86
+35083,"Perth--Wellington","Perth--Wellington"," 90","Stratford",N,N,"",0,529,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,5
+35083,"Perth--Wellington","Perth--Wellington"," 90","Stratford",N,N,"",0,529,"Knight","","Brendan","Liberal","Libéral",N,N,89
+35083,"Perth--Wellington","Perth--Wellington"," 90","Stratford",N,N,"",0,529,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35083,"Perth--Wellington","Perth--Wellington"," 90","Stratford",N,N,"",0,529,"Nater","","John","Conservative","Conservateur",Y,Y,71
+35083,"Perth--Wellington","Perth--Wellington"," 91","Stratford",N,N,"",3,533,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,11
+35083,"Perth--Wellington","Perth--Wellington"," 91","Stratford",N,N,"",3,533,"Knight","","Brendan","Liberal","Libéral",N,N,71
+35083,"Perth--Wellington","Perth--Wellington"," 91","Stratford",N,N,"",3,533,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35083,"Perth--Wellington","Perth--Wellington"," 91","Stratford",N,N,"",3,533,"Nater","","John","Conservative","Conservateur",Y,Y,72
+35083,"Perth--Wellington","Perth--Wellington"," 92","Stratford",N,N,"",0,512,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,10
+35083,"Perth--Wellington","Perth--Wellington"," 92","Stratford",N,N,"",0,512,"Knight","","Brendan","Liberal","Libéral",N,N,72
+35083,"Perth--Wellington","Perth--Wellington"," 92","Stratford",N,N,"",0,512,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35083,"Perth--Wellington","Perth--Wellington"," 92","Stratford",N,N,"",0,512,"Nater","","John","Conservative","Conservateur",Y,Y,71
+35083,"Perth--Wellington","Perth--Wellington"," 93","Stratford",N,N,"",1,759,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,28
+35083,"Perth--Wellington","Perth--Wellington"," 93","Stratford",N,N,"",1,759,"Knight","","Brendan","Liberal","Libéral",N,N,84
+35083,"Perth--Wellington","Perth--Wellington"," 93","Stratford",N,N,"",1,759,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+35083,"Perth--Wellington","Perth--Wellington"," 93","Stratford",N,N,"",1,759,"Nater","","John","Conservative","Conservateur",Y,Y,137
+35083,"Perth--Wellington","Perth--Wellington"," 94","Stratford",N,N,"",0,648,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,12
+35083,"Perth--Wellington","Perth--Wellington"," 94","Stratford",N,N,"",0,648,"Knight","","Brendan","Liberal","Libéral",N,N,76
+35083,"Perth--Wellington","Perth--Wellington"," 94","Stratford",N,N,"",0,648,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35083,"Perth--Wellington","Perth--Wellington"," 94","Stratford",N,N,"",0,648,"Nater","","John","Conservative","Conservateur",Y,Y,62
+35083,"Perth--Wellington","Perth--Wellington"," 95","Stratford",N,N,"",0,511,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,5
+35083,"Perth--Wellington","Perth--Wellington"," 95","Stratford",N,N,"",0,511,"Knight","","Brendan","Liberal","Libéral",N,N,77
+35083,"Perth--Wellington","Perth--Wellington"," 95","Stratford",N,N,"",0,511,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35083,"Perth--Wellington","Perth--Wellington"," 95","Stratford",N,N,"",0,511,"Nater","","John","Conservative","Conservateur",Y,Y,39
+35083,"Perth--Wellington","Perth--Wellington"," 96","Stratford",N,N,"",0,527,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,13
+35083,"Perth--Wellington","Perth--Wellington"," 96","Stratford",N,N,"",0,527,"Knight","","Brendan","Liberal","Libéral",N,N,66
+35083,"Perth--Wellington","Perth--Wellington"," 96","Stratford",N,N,"",0,527,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35083,"Perth--Wellington","Perth--Wellington"," 96","Stratford",N,N,"",0,527,"Nater","","John","Conservative","Conservateur",Y,Y,52
+35083,"Perth--Wellington","Perth--Wellington"," 97","Stratford",N,N,"",0,512,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,7
+35083,"Perth--Wellington","Perth--Wellington"," 97","Stratford",N,N,"",0,512,"Knight","","Brendan","Liberal","Libéral",N,N,63
+35083,"Perth--Wellington","Perth--Wellington"," 97","Stratford",N,N,"",0,512,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35083,"Perth--Wellington","Perth--Wellington"," 97","Stratford",N,N,"",0,512,"Nater","","John","Conservative","Conservateur",Y,Y,50
+35083,"Perth--Wellington","Perth--Wellington"," 98","Stratford",N,N,"",1,565,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,20
+35083,"Perth--Wellington","Perth--Wellington"," 98","Stratford",N,N,"",1,565,"Knight","","Brendan","Liberal","Libéral",N,N,84
+35083,"Perth--Wellington","Perth--Wellington"," 98","Stratford",N,N,"",1,565,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35083,"Perth--Wellington","Perth--Wellington"," 98","Stratford",N,N,"",1,565,"Nater","","John","Conservative","Conservateur",Y,Y,53
+35083,"Perth--Wellington","Perth--Wellington"," 99","Stratford",N,N,"",0,557,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,12
+35083,"Perth--Wellington","Perth--Wellington"," 99","Stratford",N,N,"",0,557,"Knight","","Brendan","Liberal","Libéral",N,N,59
+35083,"Perth--Wellington","Perth--Wellington"," 99","Stratford",N,N,"",0,557,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35083,"Perth--Wellington","Perth--Wellington"," 99","Stratford",N,N,"",0,557,"Nater","","John","Conservative","Conservateur",Y,Y,39
+35083,"Perth--Wellington","Perth--Wellington"," 100","West Perth",N,N,"101",0,453,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+35083,"Perth--Wellington","Perth--Wellington"," 100","West Perth",N,N,"101",0,453,"Knight","","Brendan","Liberal","Libéral",N,N,0
+35083,"Perth--Wellington","Perth--Wellington"," 100","West Perth",N,N,"101",0,453,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35083,"Perth--Wellington","Perth--Wellington"," 100","West Perth",N,N,"101",0,453,"Nater","","John","Conservative","Conservateur",Y,Y,0
+35083,"Perth--Wellington","Perth--Wellington"," 101","Mitchell",N,N,"",2,524,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,21
+35083,"Perth--Wellington","Perth--Wellington"," 101","Mitchell",N,N,"",2,524,"Knight","","Brendan","Liberal","Libéral",N,N,52
+35083,"Perth--Wellington","Perth--Wellington"," 101","Mitchell",N,N,"",2,524,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35083,"Perth--Wellington","Perth--Wellington"," 101","Mitchell",N,N,"",2,524,"Nater","","John","Conservative","Conservateur",Y,Y,232
+35083,"Perth--Wellington","Perth--Wellington"," 102","Mitchell",N,N,"",1,446,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,15
+35083,"Perth--Wellington","Perth--Wellington"," 102","Mitchell",N,N,"",1,446,"Knight","","Brendan","Liberal","Libéral",N,N,31
+35083,"Perth--Wellington","Perth--Wellington"," 102","Mitchell",N,N,"",1,446,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35083,"Perth--Wellington","Perth--Wellington"," 102","Mitchell",N,N,"",1,446,"Nater","","John","Conservative","Conservateur",Y,Y,63
+35083,"Perth--Wellington","Perth--Wellington"," 103","Mitchell",N,N,"",0,483,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,9
+35083,"Perth--Wellington","Perth--Wellington"," 103","Mitchell",N,N,"",0,483,"Knight","","Brendan","Liberal","Libéral",N,N,16
+35083,"Perth--Wellington","Perth--Wellington"," 103","Mitchell",N,N,"",0,483,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35083,"Perth--Wellington","Perth--Wellington"," 103","Mitchell",N,N,"",0,483,"Nater","","John","Conservative","Conservateur",Y,Y,95
+35083,"Perth--Wellington","Perth--Wellington"," 104","Mitchell",N,N,"",0,496,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,16
+35083,"Perth--Wellington","Perth--Wellington"," 104","Mitchell",N,N,"",0,496,"Knight","","Brendan","Liberal","Libéral",N,N,28
+35083,"Perth--Wellington","Perth--Wellington"," 104","Mitchell",N,N,"",0,496,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35083,"Perth--Wellington","Perth--Wellington"," 104","Mitchell",N,N,"",0,496,"Nater","","John","Conservative","Conservateur",Y,Y,86
+35083,"Perth--Wellington","Perth--Wellington"," 105","Mitchell",N,N,"",2,537,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,15
+35083,"Perth--Wellington","Perth--Wellington"," 105","Mitchell",N,N,"",2,537,"Knight","","Brendan","Liberal","Libéral",N,N,23
+35083,"Perth--Wellington","Perth--Wellington"," 105","Mitchell",N,N,"",2,537,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35083,"Perth--Wellington","Perth--Wellington"," 105","Mitchell",N,N,"",2,537,"Nater","","John","Conservative","Conservateur",Y,Y,107
+35083,"Perth--Wellington","Perth--Wellington"," 106","Mitchell",N,N,"",0,561,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,11
+35083,"Perth--Wellington","Perth--Wellington"," 106","Mitchell",N,N,"",0,561,"Knight","","Brendan","Liberal","Libéral",N,N,30
+35083,"Perth--Wellington","Perth--Wellington"," 106","Mitchell",N,N,"",0,561,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35083,"Perth--Wellington","Perth--Wellington"," 106","Mitchell",N,N,"",0,561,"Nater","","John","Conservative","Conservateur",Y,Y,118
+35083,"Perth--Wellington","Perth--Wellington"," 107","Mitchell",N,N,"",2,471,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,9
+35083,"Perth--Wellington","Perth--Wellington"," 107","Mitchell",N,N,"",2,471,"Knight","","Brendan","Liberal","Libéral",N,N,27
+35083,"Perth--Wellington","Perth--Wellington"," 107","Mitchell",N,N,"",2,471,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35083,"Perth--Wellington","Perth--Wellington"," 107","Mitchell",N,N,"",2,471,"Nater","","John","Conservative","Conservateur",Y,Y,77
+35083,"Perth--Wellington","Perth--Wellington"," 108","West Perth",N,N,"",0,410,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,30
+35083,"Perth--Wellington","Perth--Wellington"," 108","West Perth",N,N,"",0,410,"Knight","","Brendan","Liberal","Libéral",N,N,27
+35083,"Perth--Wellington","Perth--Wellington"," 108","West Perth",N,N,"",0,410,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35083,"Perth--Wellington","Perth--Wellington"," 108","West Perth",N,N,"",0,410,"Nater","","John","Conservative","Conservateur",Y,Y,172
+35083,"Perth--Wellington","Perth--Wellington"," 109","Perth East",N,N,"",0,267,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,24
+35083,"Perth--Wellington","Perth--Wellington"," 109","Perth East",N,N,"",0,267,"Knight","","Brendan","Liberal","Libéral",N,N,30
+35083,"Perth--Wellington","Perth--Wellington"," 109","Perth East",N,N,"",0,267,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35083,"Perth--Wellington","Perth--Wellington"," 109","Perth East",N,N,"",0,267,"Nater","","John","Conservative","Conservateur",Y,Y,75
+35083,"Perth--Wellington","Perth--Wellington"," 110","Perth East",N,N,"",0,527,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,34
+35083,"Perth--Wellington","Perth--Wellington"," 110","Perth East",N,N,"",0,527,"Knight","","Brendan","Liberal","Libéral",N,N,51
+35083,"Perth--Wellington","Perth--Wellington"," 110","Perth East",N,N,"",0,527,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+35083,"Perth--Wellington","Perth--Wellington"," 110","Perth East",N,N,"",0,527,"Nater","","John","Conservative","Conservateur",Y,Y,128
+35083,"Perth--Wellington","Perth--Wellington"," 111","West Perth",N,N,"",0,388,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,15
+35083,"Perth--Wellington","Perth--Wellington"," 111","West Perth",N,N,"",0,388,"Knight","","Brendan","Liberal","Libéral",N,N,26
+35083,"Perth--Wellington","Perth--Wellington"," 111","West Perth",N,N,"",0,388,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35083,"Perth--Wellington","Perth--Wellington"," 111","West Perth",N,N,"",0,388,"Nater","","John","Conservative","Conservateur",Y,Y,86
+35083,"Perth--Wellington","Perth--Wellington"," 112","Sebringville",N,N,"",0,479,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,27
+35083,"Perth--Wellington","Perth--Wellington"," 112","Sebringville",N,N,"",0,479,"Knight","","Brendan","Liberal","Libéral",N,N,57
+35083,"Perth--Wellington","Perth--Wellington"," 112","Sebringville",N,N,"",0,479,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35083,"Perth--Wellington","Perth--Wellington"," 112","Sebringville",N,N,"",0,479,"Nater","","John","Conservative","Conservateur",Y,Y,166
+35083,"Perth--Wellington","Perth--Wellington"," 113","Perth East",N,N,"",0,436,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,22
+35083,"Perth--Wellington","Perth--Wellington"," 113","Perth East",N,N,"",0,436,"Knight","","Brendan","Liberal","Libéral",N,N,47
+35083,"Perth--Wellington","Perth--Wellington"," 113","Perth East",N,N,"",0,436,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35083,"Perth--Wellington","Perth--Wellington"," 113","Perth East",N,N,"",0,436,"Nater","","John","Conservative","Conservateur",Y,Y,122
+35083,"Perth--Wellington","Perth--Wellington"," 114","Perth East",N,N,"",1,418,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,37
+35083,"Perth--Wellington","Perth--Wellington"," 114","Perth East",N,N,"",1,418,"Knight","","Brendan","Liberal","Libéral",N,N,52
+35083,"Perth--Wellington","Perth--Wellington"," 114","Perth East",N,N,"",1,418,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35083,"Perth--Wellington","Perth--Wellington"," 114","Perth East",N,N,"",1,418,"Nater","","John","Conservative","Conservateur",Y,Y,123
+35083,"Perth--Wellington","Perth--Wellington"," 115","Perth East",N,N,"",0,504,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,42
+35083,"Perth--Wellington","Perth--Wellington"," 115","Perth East",N,N,"",0,504,"Knight","","Brendan","Liberal","Libéral",N,N,71
+35083,"Perth--Wellington","Perth--Wellington"," 115","Perth East",N,N,"",0,504,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+35083,"Perth--Wellington","Perth--Wellington"," 115","Perth East",N,N,"",0,504,"Nater","","John","Conservative","Conservateur",Y,Y,149
+35083,"Perth--Wellington","Perth--Wellington"," 116","Perth East",N,N,"",0,471,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,34
+35083,"Perth--Wellington","Perth--Wellington"," 116","Perth East",N,N,"",0,471,"Knight","","Brendan","Liberal","Libéral",N,N,47
+35083,"Perth--Wellington","Perth--Wellington"," 116","Perth East",N,N,"",0,471,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35083,"Perth--Wellington","Perth--Wellington"," 116","Perth East",N,N,"",0,471,"Nater","","John","Conservative","Conservateur",Y,Y,144
+35083,"Perth--Wellington","Perth--Wellington"," 117","Perth East",N,N,"",0,444,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,34
+35083,"Perth--Wellington","Perth--Wellington"," 117","Perth East",N,N,"",0,444,"Knight","","Brendan","Liberal","Libéral",N,N,46
+35083,"Perth--Wellington","Perth--Wellington"," 117","Perth East",N,N,"",0,444,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35083,"Perth--Wellington","Perth--Wellington"," 117","Perth East",N,N,"",0,444,"Nater","","John","Conservative","Conservateur",Y,Y,166
+35083,"Perth--Wellington","Perth--Wellington"," 118","Dublin",N,N,"",0,319,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,23
+35083,"Perth--Wellington","Perth--Wellington"," 118","Dublin",N,N,"",0,319,"Knight","","Brendan","Liberal","Libéral",N,N,25
+35083,"Perth--Wellington","Perth--Wellington"," 118","Dublin",N,N,"",0,319,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35083,"Perth--Wellington","Perth--Wellington"," 118","Dublin",N,N,"",0,319,"Nater","","John","Conservative","Conservateur",Y,Y,109
+35083,"Perth--Wellington","Perth--Wellington"," 119","West Perth",N,N,"",0,272,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,10
+35083,"Perth--Wellington","Perth--Wellington"," 119","West Perth",N,N,"",0,272,"Knight","","Brendan","Liberal","Libéral",N,N,20
+35083,"Perth--Wellington","Perth--Wellington"," 119","West Perth",N,N,"",0,272,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35083,"Perth--Wellington","Perth--Wellington"," 119","West Perth",N,N,"",0,272,"Nater","","John","Conservative","Conservateur",Y,Y,91
+35083,"Perth--Wellington","Perth--Wellington"," 120","West Perth",N,N,"",1,267,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,12
+35083,"Perth--Wellington","Perth--Wellington"," 120","West Perth",N,N,"",1,267,"Knight","","Brendan","Liberal","Libéral",N,N,15
+35083,"Perth--Wellington","Perth--Wellington"," 120","West Perth",N,N,"",1,267,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35083,"Perth--Wellington","Perth--Wellington"," 120","West Perth",N,N,"",1,267,"Nater","","John","Conservative","Conservateur",Y,Y,91
+35083,"Perth--Wellington","Perth--Wellington"," 121","Stratford",N,N,"",1,536,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,13
+35083,"Perth--Wellington","Perth--Wellington"," 121","Stratford",N,N,"",1,536,"Knight","","Brendan","Liberal","Libéral",N,N,95
+35083,"Perth--Wellington","Perth--Wellington"," 121","Stratford",N,N,"",1,536,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+35083,"Perth--Wellington","Perth--Wellington"," 121","Stratford",N,N,"",1,536,"Nater","","John","Conservative","Conservateur",Y,Y,43
+35083,"Perth--Wellington","Perth--Wellington"," 122","Stratford",N,N,"",4,541,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,19
+35083,"Perth--Wellington","Perth--Wellington"," 122","Stratford",N,N,"",4,541,"Knight","","Brendan","Liberal","Libéral",N,N,64
+35083,"Perth--Wellington","Perth--Wellington"," 122","Stratford",N,N,"",4,541,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+35083,"Perth--Wellington","Perth--Wellington"," 122","Stratford",N,N,"",4,541,"Nater","","John","Conservative","Conservateur",Y,Y,71
+35083,"Perth--Wellington","Perth--Wellington"," 123","Stratford",N,N,"",2,562,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,9
+35083,"Perth--Wellington","Perth--Wellington"," 123","Stratford",N,N,"",2,562,"Knight","","Brendan","Liberal","Libéral",N,N,73
+35083,"Perth--Wellington","Perth--Wellington"," 123","Stratford",N,N,"",2,562,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35083,"Perth--Wellington","Perth--Wellington"," 123","Stratford",N,N,"",2,562,"Nater","","John","Conservative","Conservateur",Y,Y,39
+35083,"Perth--Wellington","Perth--Wellington"," 124","Stratford",N,N,"",2,565,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,29
+35083,"Perth--Wellington","Perth--Wellington"," 124","Stratford",N,N,"",2,565,"Knight","","Brendan","Liberal","Libéral",N,N,61
+35083,"Perth--Wellington","Perth--Wellington"," 124","Stratford",N,N,"",2,565,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+35083,"Perth--Wellington","Perth--Wellington"," 124","Stratford",N,N,"",2,565,"Nater","","John","Conservative","Conservateur",Y,Y,62
+35083,"Perth--Wellington","Perth--Wellington"," 125","Stratford",N,N,"",0,611,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,26
+35083,"Perth--Wellington","Perth--Wellington"," 125","Stratford",N,N,"",0,611,"Knight","","Brendan","Liberal","Libéral",N,N,62
+35083,"Perth--Wellington","Perth--Wellington"," 125","Stratford",N,N,"",0,611,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+35083,"Perth--Wellington","Perth--Wellington"," 125","Stratford",N,N,"",0,611,"Nater","","John","Conservative","Conservateur",Y,Y,61
+35083,"Perth--Wellington","Perth--Wellington"," 126","Stratford",N,N,"",1,573,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,21
+35083,"Perth--Wellington","Perth--Wellington"," 126","Stratford",N,N,"",1,573,"Knight","","Brendan","Liberal","Libéral",N,N,50
+35083,"Perth--Wellington","Perth--Wellington"," 126","Stratford",N,N,"",1,573,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,84
+35083,"Perth--Wellington","Perth--Wellington"," 126","Stratford",N,N,"",1,573,"Nater","","John","Conservative","Conservateur",Y,Y,53
+35083,"Perth--Wellington","Perth--Wellington"," 127","Stratford",N,N,"",1,815,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,18
+35083,"Perth--Wellington","Perth--Wellington"," 127","Stratford",N,N,"",1,815,"Knight","","Brendan","Liberal","Libéral",N,N,62
+35083,"Perth--Wellington","Perth--Wellington"," 127","Stratford",N,N,"",1,815,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+35083,"Perth--Wellington","Perth--Wellington"," 127","Stratford",N,N,"",1,815,"Nater","","John","Conservative","Conservateur",Y,Y,77
+35083,"Perth--Wellington","Perth--Wellington"," 128","Stratford",N,N,"",2,512,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,11
+35083,"Perth--Wellington","Perth--Wellington"," 128","Stratford",N,N,"",2,512,"Knight","","Brendan","Liberal","Libéral",N,N,63
+35083,"Perth--Wellington","Perth--Wellington"," 128","Stratford",N,N,"",2,512,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+35083,"Perth--Wellington","Perth--Wellington"," 128","Stratford",N,N,"",2,512,"Nater","","John","Conservative","Conservateur",Y,Y,34
+35083,"Perth--Wellington","Perth--Wellington"," 129","Stratford",N,N,"",0,609,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,8
+35083,"Perth--Wellington","Perth--Wellington"," 129","Stratford",N,N,"",0,609,"Knight","","Brendan","Liberal","Libéral",N,N,88
+35083,"Perth--Wellington","Perth--Wellington"," 129","Stratford",N,N,"",0,609,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,109
+35083,"Perth--Wellington","Perth--Wellington"," 129","Stratford",N,N,"",0,609,"Nater","","John","Conservative","Conservateur",Y,Y,58
+35083,"Perth--Wellington","Perth--Wellington"," 130","Stratford",N,N,"",4,570,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,5
+35083,"Perth--Wellington","Perth--Wellington"," 130","Stratford",N,N,"",4,570,"Knight","","Brendan","Liberal","Libéral",N,N,98
+35083,"Perth--Wellington","Perth--Wellington"," 130","Stratford",N,N,"",4,570,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+35083,"Perth--Wellington","Perth--Wellington"," 130","Stratford",N,N,"",4,570,"Nater","","John","Conservative","Conservateur",Y,Y,49
+35083,"Perth--Wellington","Perth--Wellington"," 131","Stratford",N,N,"",0,535,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,23
+35083,"Perth--Wellington","Perth--Wellington"," 131","Stratford",N,N,"",0,535,"Knight","","Brendan","Liberal","Libéral",N,N,67
+35083,"Perth--Wellington","Perth--Wellington"," 131","Stratford",N,N,"",0,535,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,111
+35083,"Perth--Wellington","Perth--Wellington"," 131","Stratford",N,N,"",0,535,"Nater","","John","Conservative","Conservateur",Y,Y,60
+35083,"Perth--Wellington","Perth--Wellington"," 132","Stratford",N,N,"",0,136,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+35083,"Perth--Wellington","Perth--Wellington"," 132","Stratford",N,N,"",0,136,"Knight","","Brendan","Liberal","Libéral",N,N,22
+35083,"Perth--Wellington","Perth--Wellington"," 132","Stratford",N,N,"",0,136,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35083,"Perth--Wellington","Perth--Wellington"," 132","Stratford",N,N,"",0,136,"Nater","","John","Conservative","Conservateur",Y,Y,26
+35083,"Perth--Wellington","Perth--Wellington"," 133","Stratford",N,N,"",2,548,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,25
+35083,"Perth--Wellington","Perth--Wellington"," 133","Stratford",N,N,"",2,548,"Knight","","Brendan","Liberal","Libéral",N,N,53
+35083,"Perth--Wellington","Perth--Wellington"," 133","Stratford",N,N,"",2,548,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+35083,"Perth--Wellington","Perth--Wellington"," 133","Stratford",N,N,"",2,548,"Nater","","John","Conservative","Conservateur",Y,Y,78
+35083,"Perth--Wellington","Perth--Wellington"," 134","Stratford",N,N,"",1,560,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,23
+35083,"Perth--Wellington","Perth--Wellington"," 134","Stratford",N,N,"",1,560,"Knight","","Brendan","Liberal","Libéral",N,N,55
+35083,"Perth--Wellington","Perth--Wellington"," 134","Stratford",N,N,"",1,560,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35083,"Perth--Wellington","Perth--Wellington"," 134","Stratford",N,N,"",1,560,"Nater","","John","Conservative","Conservateur",Y,Y,80
+35083,"Perth--Wellington","Perth--Wellington"," 135","Perth East",N,N,"",0,508,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,25
+35083,"Perth--Wellington","Perth--Wellington"," 135","Perth East",N,N,"",0,508,"Knight","","Brendan","Liberal","Libéral",N,N,44
+35083,"Perth--Wellington","Perth--Wellington"," 135","Perth East",N,N,"",0,508,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35083,"Perth--Wellington","Perth--Wellington"," 135","Perth East",N,N,"",0,508,"Nater","","John","Conservative","Conservateur",Y,Y,123
+35083,"Perth--Wellington","Perth--Wellington"," 136","Stratford",N,N,"",0,505,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,9
+35083,"Perth--Wellington","Perth--Wellington"," 136","Stratford",N,N,"",0,505,"Knight","","Brendan","Liberal","Libéral",N,N,65
+35083,"Perth--Wellington","Perth--Wellington"," 136","Stratford",N,N,"",0,505,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35083,"Perth--Wellington","Perth--Wellington"," 136","Stratford",N,N,"",0,505,"Nater","","John","Conservative","Conservateur",Y,Y,81
+35083,"Perth--Wellington","Perth--Wellington"," 137","Stratford",N,N,"",3,616,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,7
+35083,"Perth--Wellington","Perth--Wellington"," 137","Stratford",N,N,"",3,616,"Knight","","Brendan","Liberal","Libéral",N,N,78
+35083,"Perth--Wellington","Perth--Wellington"," 137","Stratford",N,N,"",3,616,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,80
+35083,"Perth--Wellington","Perth--Wellington"," 137","Stratford",N,N,"",3,616,"Nater","","John","Conservative","Conservateur",Y,Y,97
+35083,"Perth--Wellington","Perth--Wellington"," 138","Stratford",N,N,"",3,617,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,16
+35083,"Perth--Wellington","Perth--Wellington"," 138","Stratford",N,N,"",3,617,"Knight","","Brendan","Liberal","Libéral",N,N,72
+35083,"Perth--Wellington","Perth--Wellington"," 138","Stratford",N,N,"",3,617,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35083,"Perth--Wellington","Perth--Wellington"," 138","Stratford",N,N,"",3,617,"Nater","","John","Conservative","Conservateur",Y,Y,77
+35083,"Perth--Wellington","Perth--Wellington"," 139","Stratford",N,N,"",0,514,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,19
+35083,"Perth--Wellington","Perth--Wellington"," 139","Stratford",N,N,"",0,514,"Knight","","Brendan","Liberal","Libéral",N,N,37
+35083,"Perth--Wellington","Perth--Wellington"," 139","Stratford",N,N,"",0,514,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+35083,"Perth--Wellington","Perth--Wellington"," 139","Stratford",N,N,"",0,514,"Nater","","John","Conservative","Conservateur",Y,Y,59
+35083,"Perth--Wellington","Perth--Wellington"," 140","Stratford",N,N,"",0,540,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,16
+35083,"Perth--Wellington","Perth--Wellington"," 140","Stratford",N,N,"",0,540,"Knight","","Brendan","Liberal","Libéral",N,N,66
+35083,"Perth--Wellington","Perth--Wellington"," 140","Stratford",N,N,"",0,540,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,84
+35083,"Perth--Wellington","Perth--Wellington"," 140","Stratford",N,N,"",0,540,"Nater","","John","Conservative","Conservateur",Y,Y,62
+35083,"Perth--Wellington","Perth--Wellington"," 141","Stratford",N,N,"",2,571,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,28
+35083,"Perth--Wellington","Perth--Wellington"," 141","Stratford",N,N,"",2,571,"Knight","","Brendan","Liberal","Libéral",N,N,54
+35083,"Perth--Wellington","Perth--Wellington"," 141","Stratford",N,N,"",2,571,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,83
+35083,"Perth--Wellington","Perth--Wellington"," 141","Stratford",N,N,"",2,571,"Nater","","John","Conservative","Conservateur",Y,Y,85
+35083,"Perth--Wellington","Perth--Wellington"," 142","Stratford",N,N,"",3,634,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,30
+35083,"Perth--Wellington","Perth--Wellington"," 142","Stratford",N,N,"",3,634,"Knight","","Brendan","Liberal","Libéral",N,N,63
+35083,"Perth--Wellington","Perth--Wellington"," 142","Stratford",N,N,"",3,634,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,81
+35083,"Perth--Wellington","Perth--Wellington"," 142","Stratford",N,N,"",3,634,"Nater","","John","Conservative","Conservateur",Y,Y,87
+35083,"Perth--Wellington","Perth--Wellington"," 143","Stratford",N,N,"",0,517,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,26
+35083,"Perth--Wellington","Perth--Wellington"," 143","Stratford",N,N,"",0,517,"Knight","","Brendan","Liberal","Libéral",N,N,47
+35083,"Perth--Wellington","Perth--Wellington"," 143","Stratford",N,N,"",0,517,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+35083,"Perth--Wellington","Perth--Wellington"," 143","Stratford",N,N,"",0,517,"Nater","","John","Conservative","Conservateur",Y,Y,85
+35083,"Perth--Wellington","Perth--Wellington"," 144","Stratford",N,N,"",3,561,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,15
+35083,"Perth--Wellington","Perth--Wellington"," 144","Stratford",N,N,"",3,561,"Knight","","Brendan","Liberal","Libéral",N,N,56
+35083,"Perth--Wellington","Perth--Wellington"," 144","Stratford",N,N,"",3,561,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+35083,"Perth--Wellington","Perth--Wellington"," 144","Stratford",N,N,"",3,561,"Nater","","John","Conservative","Conservateur",Y,Y,87
+35083,"Perth--Wellington","Perth--Wellington"," 145","Stratford",N,N,"",4,599,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,20
+35083,"Perth--Wellington","Perth--Wellington"," 145","Stratford",N,N,"",4,599,"Knight","","Brendan","Liberal","Libéral",N,N,74
+35083,"Perth--Wellington","Perth--Wellington"," 145","Stratford",N,N,"",4,599,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,82
+35083,"Perth--Wellington","Perth--Wellington"," 145","Stratford",N,N,"",4,599,"Nater","","John","Conservative","Conservateur",Y,Y,85
+35083,"Perth--Wellington","Perth--Wellington"," 146","Stratford",N,N,"",2,598,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,13
+35083,"Perth--Wellington","Perth--Wellington"," 146","Stratford",N,N,"",2,598,"Knight","","Brendan","Liberal","Libéral",N,N,46
+35083,"Perth--Wellington","Perth--Wellington"," 146","Stratford",N,N,"",2,598,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+35083,"Perth--Wellington","Perth--Wellington"," 146","Stratford",N,N,"",2,598,"Nater","","John","Conservative","Conservateur",Y,Y,104
+35083,"Perth--Wellington","Perth--Wellington"," 147","Stratford",N,N,"",0,576,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,12
+35083,"Perth--Wellington","Perth--Wellington"," 147","Stratford",N,N,"",0,576,"Knight","","Brendan","Liberal","Libéral",N,N,64
+35083,"Perth--Wellington","Perth--Wellington"," 147","Stratford",N,N,"",0,576,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+35083,"Perth--Wellington","Perth--Wellington"," 147","Stratford",N,N,"",0,576,"Nater","","John","Conservative","Conservateur",Y,Y,92
+35083,"Perth--Wellington","Perth--Wellington"," 148","Stratford",N,N,"",1,533,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,27
+35083,"Perth--Wellington","Perth--Wellington"," 148","Stratford",N,N,"",1,533,"Knight","","Brendan","Liberal","Libéral",N,N,52
+35083,"Perth--Wellington","Perth--Wellington"," 148","Stratford",N,N,"",1,533,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+35083,"Perth--Wellington","Perth--Wellington"," 148","Stratford",N,N,"",1,533,"Nater","","John","Conservative","Conservateur",Y,Y,64
+35083,"Perth--Wellington","Perth--Wellington"," 149","Perth South",N,N,"",0,337,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,12
+35083,"Perth--Wellington","Perth--Wellington"," 149","Perth South",N,N,"",0,337,"Knight","","Brendan","Liberal","Libéral",N,N,26
+35083,"Perth--Wellington","Perth--Wellington"," 149","Perth South",N,N,"",0,337,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35083,"Perth--Wellington","Perth--Wellington"," 149","Perth South",N,N,"",0,337,"Nater","","John","Conservative","Conservateur",Y,Y,107
+35083,"Perth--Wellington","Perth--Wellington"," 150","West Perth",N,N,"108",0,347,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+35083,"Perth--Wellington","Perth--Wellington"," 150","West Perth",N,N,"108",0,347,"Knight","","Brendan","Liberal","Libéral",N,N,0
+35083,"Perth--Wellington","Perth--Wellington"," 150","West Perth",N,N,"108",0,347,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35083,"Perth--Wellington","Perth--Wellington"," 150","West Perth",N,N,"108",0,347,"Nater","","John","Conservative","Conservateur",Y,Y,0
+35083,"Perth--Wellington","Perth--Wellington"," 151","Perth South",N,N,"152",0,337,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+35083,"Perth--Wellington","Perth--Wellington"," 151","Perth South",N,N,"152",0,337,"Knight","","Brendan","Liberal","Libéral",N,N,0
+35083,"Perth--Wellington","Perth--Wellington"," 151","Perth South",N,N,"152",0,337,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35083,"Perth--Wellington","Perth--Wellington"," 151","Perth South",N,N,"152",0,337,"Nater","","John","Conservative","Conservateur",Y,Y,0
+35083,"Perth--Wellington","Perth--Wellington"," 152","Perth South",N,N,"",4,336,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,38
+35083,"Perth--Wellington","Perth--Wellington"," 152","Perth South",N,N,"",4,336,"Knight","","Brendan","Liberal","Libéral",N,N,74
+35083,"Perth--Wellington","Perth--Wellington"," 152","Perth South",N,N,"",4,336,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35083,"Perth--Wellington","Perth--Wellington"," 152","Perth South",N,N,"",4,336,"Nater","","John","Conservative","Conservateur",Y,Y,227
+35083,"Perth--Wellington","Perth--Wellington"," 153","St. Marys",N,N,"",0,566,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,5
+35083,"Perth--Wellington","Perth--Wellington"," 153","St. Marys",N,N,"",0,566,"Knight","","Brendan","Liberal","Libéral",N,N,58
+35083,"Perth--Wellington","Perth--Wellington"," 153","St. Marys",N,N,"",0,566,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35083,"Perth--Wellington","Perth--Wellington"," 153","St. Marys",N,N,"",0,566,"Nater","","John","Conservative","Conservateur",Y,Y,88
+35083,"Perth--Wellington","Perth--Wellington"," 154","St. Marys",N,N,"",2,640,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,5
+35083,"Perth--Wellington","Perth--Wellington"," 154","St. Marys",N,N,"",2,640,"Knight","","Brendan","Liberal","Libéral",N,N,45
+35083,"Perth--Wellington","Perth--Wellington"," 154","St. Marys",N,N,"",2,640,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35083,"Perth--Wellington","Perth--Wellington"," 154","St. Marys",N,N,"",2,640,"Nater","","John","Conservative","Conservateur",Y,Y,108
+35083,"Perth--Wellington","Perth--Wellington"," 155","St. Marys",N,N,"",1,455,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,8
+35083,"Perth--Wellington","Perth--Wellington"," 155","St. Marys",N,N,"",1,455,"Knight","","Brendan","Liberal","Libéral",N,N,57
+35083,"Perth--Wellington","Perth--Wellington"," 155","St. Marys",N,N,"",1,455,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35083,"Perth--Wellington","Perth--Wellington"," 155","St. Marys",N,N,"",1,455,"Nater","","John","Conservative","Conservateur",Y,Y,76
+35083,"Perth--Wellington","Perth--Wellington"," 156","St. Marys",N,N,"",1,468,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,16
+35083,"Perth--Wellington","Perth--Wellington"," 156","St. Marys",N,N,"",1,468,"Knight","","Brendan","Liberal","Libéral",N,N,45
+35083,"Perth--Wellington","Perth--Wellington"," 156","St. Marys",N,N,"",1,468,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+35083,"Perth--Wellington","Perth--Wellington"," 156","St. Marys",N,N,"",1,468,"Nater","","John","Conservative","Conservateur",Y,Y,65
+35083,"Perth--Wellington","Perth--Wellington"," 157","Perth South",N,N,"",0,533,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,18
+35083,"Perth--Wellington","Perth--Wellington"," 157","Perth South",N,N,"",0,533,"Knight","","Brendan","Liberal","Libéral",N,N,44
+35083,"Perth--Wellington","Perth--Wellington"," 157","Perth South",N,N,"",0,533,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35083,"Perth--Wellington","Perth--Wellington"," 157","Perth South",N,N,"",0,533,"Nater","","John","Conservative","Conservateur",Y,Y,116
+35083,"Perth--Wellington","Perth--Wellington"," 158","St. Marys",N,N,"",0,464,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,9
+35083,"Perth--Wellington","Perth--Wellington"," 158","St. Marys",N,N,"",0,464,"Knight","","Brendan","Liberal","Libéral",N,N,45
+35083,"Perth--Wellington","Perth--Wellington"," 158","St. Marys",N,N,"",0,464,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35083,"Perth--Wellington","Perth--Wellington"," 158","St. Marys",N,N,"",0,464,"Nater","","John","Conservative","Conservateur",Y,Y,53
+35083,"Perth--Wellington","Perth--Wellington"," 159","St. Marys",N,N,"",1,506,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,13
+35083,"Perth--Wellington","Perth--Wellington"," 159","St. Marys",N,N,"",1,506,"Knight","","Brendan","Liberal","Libéral",N,N,48
+35083,"Perth--Wellington","Perth--Wellington"," 159","St. Marys",N,N,"",1,506,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35083,"Perth--Wellington","Perth--Wellington"," 159","St. Marys",N,N,"",1,506,"Nater","","John","Conservative","Conservateur",Y,Y,51
+35083,"Perth--Wellington","Perth--Wellington"," 160","St. Marys",N,N,"",0,592,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,14
+35083,"Perth--Wellington","Perth--Wellington"," 160","St. Marys",N,N,"",0,592,"Knight","","Brendan","Liberal","Libéral",N,N,54
+35083,"Perth--Wellington","Perth--Wellington"," 160","St. Marys",N,N,"",0,592,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+35083,"Perth--Wellington","Perth--Wellington"," 160","St. Marys",N,N,"",0,592,"Nater","","John","Conservative","Conservateur",Y,Y,97
+35083,"Perth--Wellington","Perth--Wellington"," 161","St. Marys",N,N,"",1,477,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,6
+35083,"Perth--Wellington","Perth--Wellington"," 161","St. Marys",N,N,"",1,477,"Knight","","Brendan","Liberal","Libéral",N,N,34
+35083,"Perth--Wellington","Perth--Wellington"," 161","St. Marys",N,N,"",1,477,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35083,"Perth--Wellington","Perth--Wellington"," 161","St. Marys",N,N,"",1,477,"Nater","","John","Conservative","Conservateur",Y,Y,78
+35083,"Perth--Wellington","Perth--Wellington"," 162","St. Marys",N,N,"",4,512,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,10
+35083,"Perth--Wellington","Perth--Wellington"," 162","St. Marys",N,N,"",4,512,"Knight","","Brendan","Liberal","Libéral",N,N,52
+35083,"Perth--Wellington","Perth--Wellington"," 162","St. Marys",N,N,"",4,512,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35083,"Perth--Wellington","Perth--Wellington"," 162","St. Marys",N,N,"",4,512,"Nater","","John","Conservative","Conservateur",Y,Y,67
+35083,"Perth--Wellington","Perth--Wellington"," 163","St. Marys",N,N,"",0,433,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,14
+35083,"Perth--Wellington","Perth--Wellington"," 163","St. Marys",N,N,"",0,433,"Knight","","Brendan","Liberal","Libéral",N,N,34
+35083,"Perth--Wellington","Perth--Wellington"," 163","St. Marys",N,N,"",0,433,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35083,"Perth--Wellington","Perth--Wellington"," 163","St. Marys",N,N,"",0,433,"Nater","","John","Conservative","Conservateur",Y,Y,70
+35083,"Perth--Wellington","Perth--Wellington"," 164","Perth South",N,N,"",1,518,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,13
+35083,"Perth--Wellington","Perth--Wellington"," 164","Perth South",N,N,"",1,518,"Knight","","Brendan","Liberal","Libéral",N,N,30
+35083,"Perth--Wellington","Perth--Wellington"," 164","Perth South",N,N,"",1,518,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35083,"Perth--Wellington","Perth--Wellington"," 164","Perth South",N,N,"",1,518,"Nater","","John","Conservative","Conservateur",Y,Y,122
+35083,"Perth--Wellington","Perth--Wellington"," 165","St. Marys",N,N,"",1,671,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,11
+35083,"Perth--Wellington","Perth--Wellington"," 165","St. Marys",N,N,"",1,671,"Knight","","Brendan","Liberal","Libéral",N,N,78
+35083,"Perth--Wellington","Perth--Wellington"," 165","St. Marys",N,N,"",1,671,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35083,"Perth--Wellington","Perth--Wellington"," 165","St. Marys",N,N,"",1,671,"Nater","","John","Conservative","Conservateur",Y,Y,103
+35083,"Perth--Wellington","Perth--Wellington"," 166","St. Marys",N,N,"",0,571,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,11
+35083,"Perth--Wellington","Perth--Wellington"," 166","St. Marys",N,N,"",0,571,"Knight","","Brendan","Liberal","Libéral",N,N,61
+35083,"Perth--Wellington","Perth--Wellington"," 166","St. Marys",N,N,"",0,571,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35083,"Perth--Wellington","Perth--Wellington"," 166","St. Marys",N,N,"",0,571,"Nater","","John","Conservative","Conservateur",Y,Y,75
+35083,"Perth--Wellington","Perth--Wellington"," 400","Mobile poll/Bureau itinérant",N,N,"",1,85,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,4
+35083,"Perth--Wellington","Perth--Wellington"," 400","Mobile poll/Bureau itinérant",N,N,"",1,85,"Knight","","Brendan","Liberal","Libéral",N,N,9
+35083,"Perth--Wellington","Perth--Wellington"," 400","Mobile poll/Bureau itinérant",N,N,"",1,85,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35083,"Perth--Wellington","Perth--Wellington"," 400","Mobile poll/Bureau itinérant",N,N,"",1,85,"Nater","","John","Conservative","Conservateur",Y,Y,15
+35083,"Perth--Wellington","Perth--Wellington"," 401","Mobile poll/Bureau itinérant",N,N,"",1,163,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,4
+35083,"Perth--Wellington","Perth--Wellington"," 401","Mobile poll/Bureau itinérant",N,N,"",1,163,"Knight","","Brendan","Liberal","Libéral",N,N,27
+35083,"Perth--Wellington","Perth--Wellington"," 401","Mobile poll/Bureau itinérant",N,N,"",1,163,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35083,"Perth--Wellington","Perth--Wellington"," 401","Mobile poll/Bureau itinérant",N,N,"",1,163,"Nater","","John","Conservative","Conservateur",Y,Y,51
+35083,"Perth--Wellington","Perth--Wellington"," 402","Mobile poll/Bureau itinérant",N,N,"",1,83,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+35083,"Perth--Wellington","Perth--Wellington"," 402","Mobile poll/Bureau itinérant",N,N,"",1,83,"Knight","","Brendan","Liberal","Libéral",N,N,8
+35083,"Perth--Wellington","Perth--Wellington"," 402","Mobile poll/Bureau itinérant",N,N,"",1,83,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35083,"Perth--Wellington","Perth--Wellington"," 402","Mobile poll/Bureau itinérant",N,N,"",1,83,"Nater","","John","Conservative","Conservateur",Y,Y,18
+35083,"Perth--Wellington","Perth--Wellington"," 500","Mobile poll/Bureau itinérant",N,N,"",2,68,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+35083,"Perth--Wellington","Perth--Wellington"," 500","Mobile poll/Bureau itinérant",N,N,"",2,68,"Knight","","Brendan","Liberal","Libéral",N,N,8
+35083,"Perth--Wellington","Perth--Wellington"," 500","Mobile poll/Bureau itinérant",N,N,"",2,68,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35083,"Perth--Wellington","Perth--Wellington"," 500","Mobile poll/Bureau itinérant",N,N,"",2,68,"Nater","","John","Conservative","Conservateur",Y,Y,39
+35083,"Perth--Wellington","Perth--Wellington"," 501","Mobile poll/Bureau itinérant",N,N,"",0,97,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+35083,"Perth--Wellington","Perth--Wellington"," 501","Mobile poll/Bureau itinérant",N,N,"",0,97,"Knight","","Brendan","Liberal","Libéral",N,N,12
+35083,"Perth--Wellington","Perth--Wellington"," 501","Mobile poll/Bureau itinérant",N,N,"",0,97,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35083,"Perth--Wellington","Perth--Wellington"," 501","Mobile poll/Bureau itinérant",N,N,"",0,97,"Nater","","John","Conservative","Conservateur",Y,Y,10
+35083,"Perth--Wellington","Perth--Wellington"," 502","Mobile poll/Bureau itinérant",N,N,"",0,91,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+35083,"Perth--Wellington","Perth--Wellington"," 502","Mobile poll/Bureau itinérant",N,N,"",0,91,"Knight","","Brendan","Liberal","Libéral",N,N,9
+35083,"Perth--Wellington","Perth--Wellington"," 502","Mobile poll/Bureau itinérant",N,N,"",0,91,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35083,"Perth--Wellington","Perth--Wellington"," 502","Mobile poll/Bureau itinérant",N,N,"",0,91,"Nater","","John","Conservative","Conservateur",Y,Y,7
+35083,"Perth--Wellington","Perth--Wellington"," 503","Mobile poll/Bureau itinérant",N,N,"",11,117,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+35083,"Perth--Wellington","Perth--Wellington"," 503","Mobile poll/Bureau itinérant",N,N,"",11,117,"Knight","","Brendan","Liberal","Libéral",N,N,8
+35083,"Perth--Wellington","Perth--Wellington"," 503","Mobile poll/Bureau itinérant",N,N,"",11,117,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35083,"Perth--Wellington","Perth--Wellington"," 503","Mobile poll/Bureau itinérant",N,N,"",11,117,"Nater","","John","Conservative","Conservateur",Y,Y,29
+35083,"Perth--Wellington","Perth--Wellington"," 504","Mobile poll/Bureau itinérant",N,N,"",0,38,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+35083,"Perth--Wellington","Perth--Wellington"," 504","Mobile poll/Bureau itinérant",N,N,"",0,38,"Knight","","Brendan","Liberal","Libéral",N,N,9
+35083,"Perth--Wellington","Perth--Wellington"," 504","Mobile poll/Bureau itinérant",N,N,"",0,38,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35083,"Perth--Wellington","Perth--Wellington"," 504","Mobile poll/Bureau itinérant",N,N,"",0,38,"Nater","","John","Conservative","Conservateur",Y,Y,11
+35083,"Perth--Wellington","Perth--Wellington"," 505","Mobile poll/Bureau itinérant",N,N,"",3,89,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+35083,"Perth--Wellington","Perth--Wellington"," 505","Mobile poll/Bureau itinérant",N,N,"",3,89,"Knight","","Brendan","Liberal","Libéral",N,N,6
+35083,"Perth--Wellington","Perth--Wellington"," 505","Mobile poll/Bureau itinérant",N,N,"",3,89,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35083,"Perth--Wellington","Perth--Wellington"," 505","Mobile poll/Bureau itinérant",N,N,"",3,89,"Nater","","John","Conservative","Conservateur",Y,Y,19
+35083,"Perth--Wellington","Perth--Wellington"," 506","Mobile poll/Bureau itinérant",N,Y,"",0,64,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+35083,"Perth--Wellington","Perth--Wellington"," 506","Mobile poll/Bureau itinérant",N,Y,"",0,64,"Knight","","Brendan","Liberal","Libéral",N,N,0
+35083,"Perth--Wellington","Perth--Wellington"," 506","Mobile poll/Bureau itinérant",N,Y,"",0,64,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35083,"Perth--Wellington","Perth--Wellington"," 506","Mobile poll/Bureau itinérant",N,Y,"",0,64,"Nater","","John","Conservative","Conservateur",Y,Y,0
+35083,"Perth--Wellington","Perth--Wellington"," 507","Mobile poll/Bureau itinérant",N,N,"",3,44,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+35083,"Perth--Wellington","Perth--Wellington"," 507","Mobile poll/Bureau itinérant",N,N,"",3,44,"Knight","","Brendan","Liberal","Libéral",N,N,6
+35083,"Perth--Wellington","Perth--Wellington"," 507","Mobile poll/Bureau itinérant",N,N,"",3,44,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35083,"Perth--Wellington","Perth--Wellington"," 507","Mobile poll/Bureau itinérant",N,N,"",3,44,"Nater","","John","Conservative","Conservateur",Y,Y,7
+35083,"Perth--Wellington","Perth--Wellington"," 508","Mobile poll/Bureau itinérant",N,N,"",3,115,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,3
+35083,"Perth--Wellington","Perth--Wellington"," 508","Mobile poll/Bureau itinérant",N,N,"",3,115,"Knight","","Brendan","Liberal","Libéral",N,N,14
+35083,"Perth--Wellington","Perth--Wellington"," 508","Mobile poll/Bureau itinérant",N,N,"",3,115,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35083,"Perth--Wellington","Perth--Wellington"," 508","Mobile poll/Bureau itinérant",N,N,"",3,115,"Nater","","John","Conservative","Conservateur",Y,Y,39
+35083,"Perth--Wellington","Perth--Wellington"," 509","Mobile poll/Bureau itinérant",N,N,"",0,43,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+35083,"Perth--Wellington","Perth--Wellington"," 509","Mobile poll/Bureau itinérant",N,N,"",0,43,"Knight","","Brendan","Liberal","Libéral",N,N,6
+35083,"Perth--Wellington","Perth--Wellington"," 509","Mobile poll/Bureau itinérant",N,N,"",0,43,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35083,"Perth--Wellington","Perth--Wellington"," 509","Mobile poll/Bureau itinérant",N,N,"",0,43,"Nater","","John","Conservative","Conservateur",Y,Y,9
+35083,"Perth--Wellington","Perth--Wellington"," 510","Mobile poll/Bureau itinérant",N,N,"",3,64,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+35083,"Perth--Wellington","Perth--Wellington"," 510","Mobile poll/Bureau itinérant",N,N,"",3,64,"Knight","","Brendan","Liberal","Libéral",N,N,7
+35083,"Perth--Wellington","Perth--Wellington"," 510","Mobile poll/Bureau itinérant",N,N,"",3,64,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35083,"Perth--Wellington","Perth--Wellington"," 510","Mobile poll/Bureau itinérant",N,N,"",3,64,"Nater","","John","Conservative","Conservateur",Y,Y,9
+35083,"Perth--Wellington","Perth--Wellington"," 511","Mobile poll/Bureau itinérant",N,N,"",2,122,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+35083,"Perth--Wellington","Perth--Wellington"," 511","Mobile poll/Bureau itinérant",N,N,"",2,122,"Knight","","Brendan","Liberal","Libéral",N,N,21
+35083,"Perth--Wellington","Perth--Wellington"," 511","Mobile poll/Bureau itinérant",N,N,"",2,122,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35083,"Perth--Wellington","Perth--Wellington"," 511","Mobile poll/Bureau itinérant",N,N,"",2,122,"Nater","","John","Conservative","Conservateur",Y,Y,52
+35083,"Perth--Wellington","Perth--Wellington"," 512","Mobile poll/Bureau itinérant",N,N,"",0,26,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+35083,"Perth--Wellington","Perth--Wellington"," 512","Mobile poll/Bureau itinérant",N,N,"",0,26,"Knight","","Brendan","Liberal","Libéral",N,N,11
+35083,"Perth--Wellington","Perth--Wellington"," 512","Mobile poll/Bureau itinérant",N,N,"",0,26,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35083,"Perth--Wellington","Perth--Wellington"," 512","Mobile poll/Bureau itinérant",N,N,"",0,26,"Nater","","John","Conservative","Conservateur",Y,Y,12
+35083,"Perth--Wellington","Perth--Wellington"," 513","Mobile poll/Bureau itinérant",N,N,"",0,81,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+35083,"Perth--Wellington","Perth--Wellington"," 513","Mobile poll/Bureau itinérant",N,N,"",0,81,"Knight","","Brendan","Liberal","Libéral",N,N,20
+35083,"Perth--Wellington","Perth--Wellington"," 513","Mobile poll/Bureau itinérant",N,N,"",0,81,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35083,"Perth--Wellington","Perth--Wellington"," 513","Mobile poll/Bureau itinérant",N,N,"",0,81,"Nater","","John","Conservative","Conservateur",Y,Y,19
+35083,"Perth--Wellington","Perth--Wellington"," 514","Mobile poll/Bureau itinérant",N,N,"",1,65,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+35083,"Perth--Wellington","Perth--Wellington"," 514","Mobile poll/Bureau itinérant",N,N,"",1,65,"Knight","","Brendan","Liberal","Libéral",N,N,4
+35083,"Perth--Wellington","Perth--Wellington"," 514","Mobile poll/Bureau itinérant",N,N,"",1,65,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35083,"Perth--Wellington","Perth--Wellington"," 514","Mobile poll/Bureau itinérant",N,N,"",1,65,"Nater","","John","Conservative","Conservateur",Y,Y,16
+35083,"Perth--Wellington","Perth--Wellington"," 515","Mobile poll/Bureau itinérant",N,N,"",1,52,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+35083,"Perth--Wellington","Perth--Wellington"," 515","Mobile poll/Bureau itinérant",N,N,"",1,52,"Knight","","Brendan","Liberal","Libéral",N,N,20
+35083,"Perth--Wellington","Perth--Wellington"," 515","Mobile poll/Bureau itinérant",N,N,"",1,52,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35083,"Perth--Wellington","Perth--Wellington"," 515","Mobile poll/Bureau itinérant",N,N,"",1,52,"Nater","","John","Conservative","Conservateur",Y,Y,19
+35083,"Perth--Wellington","Perth--Wellington"," 516","Mobile poll/Bureau itinérant",N,N,"",1,128,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,2
+35083,"Perth--Wellington","Perth--Wellington"," 516","Mobile poll/Bureau itinérant",N,N,"",1,128,"Knight","","Brendan","Liberal","Libéral",N,N,23
+35083,"Perth--Wellington","Perth--Wellington"," 516","Mobile poll/Bureau itinérant",N,N,"",1,128,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35083,"Perth--Wellington","Perth--Wellington"," 516","Mobile poll/Bureau itinérant",N,N,"",1,128,"Nater","","John","Conservative","Conservateur",Y,Y,31
+35083,"Perth--Wellington","Perth--Wellington"," 517","Mobile poll/Bureau itinérant",N,N,"",0,124,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,0
+35083,"Perth--Wellington","Perth--Wellington"," 517","Mobile poll/Bureau itinérant",N,N,"",0,124,"Knight","","Brendan","Liberal","Libéral",N,N,6
+35083,"Perth--Wellington","Perth--Wellington"," 517","Mobile poll/Bureau itinérant",N,N,"",0,124,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35083,"Perth--Wellington","Perth--Wellington"," 517","Mobile poll/Bureau itinérant",N,N,"",0,124,"Nater","","John","Conservative","Conservateur",Y,Y,16
+35083,"Perth--Wellington","Perth--Wellington"," 518","Mobile poll/Bureau itinérant",N,N,"",5,143,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,1
+35083,"Perth--Wellington","Perth--Wellington"," 518","Mobile poll/Bureau itinérant",N,N,"",5,143,"Knight","","Brendan","Liberal","Libéral",N,N,34
+35083,"Perth--Wellington","Perth--Wellington"," 518","Mobile poll/Bureau itinérant",N,N,"",5,143,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35083,"Perth--Wellington","Perth--Wellington"," 518","Mobile poll/Bureau itinérant",N,N,"",5,143,"Nater","","John","Conservative","Conservateur",Y,Y,25
+35083,"Perth--Wellington","Perth--Wellington"," 600","Minto",N,N,"",7,0,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,172
+35083,"Perth--Wellington","Perth--Wellington"," 600","Minto",N,N,"",7,0,"Knight","","Brendan","Liberal","Libéral",N,N,198
+35083,"Perth--Wellington","Perth--Wellington"," 600","Minto",N,N,"",7,0,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,100
+35083,"Perth--Wellington","Perth--Wellington"," 600","Minto",N,N,"",7,0,"Nater","","John","Conservative","Conservateur",Y,Y,581
+35083,"Perth--Wellington","Perth--Wellington"," 601","Wellington North",N,N,"",12,0,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,172
+35083,"Perth--Wellington","Perth--Wellington"," 601","Wellington North",N,N,"",12,0,"Knight","","Brendan","Liberal","Libéral",N,N,359
+35083,"Perth--Wellington","Perth--Wellington"," 601","Wellington North",N,N,"",12,0,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,211
+35083,"Perth--Wellington","Perth--Wellington"," 601","Wellington North",N,N,"",12,0,"Nater","","John","Conservative","Conservateur",Y,Y,863
+35083,"Perth--Wellington","Perth--Wellington"," 602","Wellington North",N,N,"",5,0,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,167
+35083,"Perth--Wellington","Perth--Wellington"," 602","Wellington North",N,N,"",5,0,"Knight","","Brendan","Liberal","Libéral",N,N,204
+35083,"Perth--Wellington","Perth--Wellington"," 602","Wellington North",N,N,"",5,0,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,109
+35083,"Perth--Wellington","Perth--Wellington"," 602","Wellington North",N,N,"",5,0,"Nater","","John","Conservative","Conservateur",Y,Y,768
+35083,"Perth--Wellington","Perth--Wellington"," 603","Minto",N,N,"",6,0,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,119
+35083,"Perth--Wellington","Perth--Wellington"," 603","Minto",N,N,"",6,0,"Knight","","Brendan","Liberal","Libéral",N,N,172
+35083,"Perth--Wellington","Perth--Wellington"," 603","Minto",N,N,"",6,0,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+35083,"Perth--Wellington","Perth--Wellington"," 603","Minto",N,N,"",6,0,"Nater","","John","Conservative","Conservateur",Y,Y,528
+35083,"Perth--Wellington","Perth--Wellington"," 604","Mapleton",N,N,"",14,0,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,172
+35083,"Perth--Wellington","Perth--Wellington"," 604","Mapleton",N,N,"",14,0,"Knight","","Brendan","Liberal","Libéral",N,N,167
+35083,"Perth--Wellington","Perth--Wellington"," 604","Mapleton",N,N,"",14,0,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,106
+35083,"Perth--Wellington","Perth--Wellington"," 604","Mapleton",N,N,"",14,0,"Nater","","John","Conservative","Conservateur",Y,Y,742
+35083,"Perth--Wellington","Perth--Wellington"," 605","North Perth",N,N,"",14,0,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,148
+35083,"Perth--Wellington","Perth--Wellington"," 605","North Perth",N,N,"",14,0,"Knight","","Brendan","Liberal","Libéral",N,N,233
+35083,"Perth--Wellington","Perth--Wellington"," 605","North Perth",N,N,"",14,0,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,104
+35083,"Perth--Wellington","Perth--Wellington"," 605","North Perth",N,N,"",14,0,"Nater","","John","Conservative","Conservateur",Y,Y,614
+35083,"Perth--Wellington","Perth--Wellington"," 606","North Perth",N,N,"",17,0,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,146
+35083,"Perth--Wellington","Perth--Wellington"," 606","North Perth",N,N,"",17,0,"Knight","","Brendan","Liberal","Libéral",N,N,292
+35083,"Perth--Wellington","Perth--Wellington"," 606","North Perth",N,N,"",17,0,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,133
+35083,"Perth--Wellington","Perth--Wellington"," 606","North Perth",N,N,"",17,0,"Nater","","John","Conservative","Conservateur",Y,Y,754
+35083,"Perth--Wellington","Perth--Wellington"," 607","North Perth",N,N,"",8,0,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,159
+35083,"Perth--Wellington","Perth--Wellington"," 607","North Perth",N,N,"",8,0,"Knight","","Brendan","Liberal","Libéral",N,N,123
+35083,"Perth--Wellington","Perth--Wellington"," 607","North Perth",N,N,"",8,0,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+35083,"Perth--Wellington","Perth--Wellington"," 607","North Perth",N,N,"",8,0,"Nater","","John","Conservative","Conservateur",Y,Y,379
+35083,"Perth--Wellington","Perth--Wellington"," 608","West Perth",N,N,"",11,0,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,64
+35083,"Perth--Wellington","Perth--Wellington"," 608","West Perth",N,N,"",11,0,"Knight","","Brendan","Liberal","Libéral",N,N,131
+35083,"Perth--Wellington","Perth--Wellington"," 608","West Perth",N,N,"",11,0,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35083,"Perth--Wellington","Perth--Wellington"," 608","West Perth",N,N,"",11,0,"Nater","","John","Conservative","Conservateur",Y,Y,653
+35083,"Perth--Wellington","Perth--Wellington"," 609","Perth East",N,N,"",2,0,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,158
+35083,"Perth--Wellington","Perth--Wellington"," 609","Perth East",N,N,"",2,0,"Knight","","Brendan","Liberal","Libéral",N,N,207
+35083,"Perth--Wellington","Perth--Wellington"," 609","Perth East",N,N,"",2,0,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,98
+35083,"Perth--Wellington","Perth--Wellington"," 609","Perth East",N,N,"",2,0,"Nater","","John","Conservative","Conservateur",Y,Y,450
+35083,"Perth--Wellington","Perth--Wellington"," 610","Stratford",N,N,"",12,0,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,84
+35083,"Perth--Wellington","Perth--Wellington"," 610","Stratford",N,N,"",12,0,"Knight","","Brendan","Liberal","Libéral",N,N,631
+35083,"Perth--Wellington","Perth--Wellington"," 610","Stratford",N,N,"",12,0,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,287
+35083,"Perth--Wellington","Perth--Wellington"," 610","Stratford",N,N,"",12,0,"Nater","","John","Conservative","Conservateur",Y,Y,553
+35083,"Perth--Wellington","Perth--Wellington"," 611","Stratford",N,N,"",6,0,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,93
+35083,"Perth--Wellington","Perth--Wellington"," 611","Stratford",N,N,"",6,0,"Knight","","Brendan","Liberal","Libéral",N,N,442
+35083,"Perth--Wellington","Perth--Wellington"," 611","Stratford",N,N,"",6,0,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,266
+35083,"Perth--Wellington","Perth--Wellington"," 611","Stratford",N,N,"",6,0,"Nater","","John","Conservative","Conservateur",Y,Y,318
+35083,"Perth--Wellington","Perth--Wellington"," 612","Stratford",N,N,"",8,0,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,87
+35083,"Perth--Wellington","Perth--Wellington"," 612","Stratford",N,N,"",8,0,"Knight","","Brendan","Liberal","Libéral",N,N,583
+35083,"Perth--Wellington","Perth--Wellington"," 612","Stratford",N,N,"",8,0,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,305
+35083,"Perth--Wellington","Perth--Wellington"," 612","Stratford",N,N,"",8,0,"Nater","","John","Conservative","Conservateur",Y,Y,526
+35083,"Perth--Wellington","Perth--Wellington"," 613","Stratford",N,N,"",0,0,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,82
+35083,"Perth--Wellington","Perth--Wellington"," 613","Stratford",N,N,"",0,0,"Knight","","Brendan","Liberal","Libéral",N,N,372
+35083,"Perth--Wellington","Perth--Wellington"," 613","Stratford",N,N,"",0,0,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,274
+35083,"Perth--Wellington","Perth--Wellington"," 613","Stratford",N,N,"",0,0,"Nater","","John","Conservative","Conservateur",Y,Y,287
+35083,"Perth--Wellington","Perth--Wellington"," 614","Stratford",N,N,"",5,0,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,95
+35083,"Perth--Wellington","Perth--Wellington"," 614","Stratford",N,N,"",5,0,"Knight","","Brendan","Liberal","Libéral",N,N,357
+35083,"Perth--Wellington","Perth--Wellington"," 614","Stratford",N,N,"",5,0,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,189
+35083,"Perth--Wellington","Perth--Wellington"," 614","Stratford",N,N,"",5,0,"Nater","","John","Conservative","Conservateur",Y,Y,528
+35083,"Perth--Wellington","Perth--Wellington"," 615","West Perth",N,N,"",9,0,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,112
+35083,"Perth--Wellington","Perth--Wellington"," 615","West Perth",N,N,"",9,0,"Knight","","Brendan","Liberal","Libéral",N,N,143
+35083,"Perth--Wellington","Perth--Wellington"," 615","West Perth",N,N,"",9,0,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,117
+35083,"Perth--Wellington","Perth--Wellington"," 615","West Perth",N,N,"",9,0,"Nater","","John","Conservative","Conservateur",Y,Y,794
+35083,"Perth--Wellington","Perth--Wellington"," 616","Perth South",N,N,"",7,0,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,91
+35083,"Perth--Wellington","Perth--Wellington"," 616","Perth South",N,N,"",7,0,"Knight","","Brendan","Liberal","Libéral",N,N,316
+35083,"Perth--Wellington","Perth--Wellington"," 616","Perth South",N,N,"",7,0,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,193
+35083,"Perth--Wellington","Perth--Wellington"," 616","Perth South",N,N,"",7,0,"Nater","","John","Conservative","Conservateur",Y,Y,716
+35083,"Perth--Wellington","Perth--Wellington"," 617","St. Marys",N,N,"",3,0,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,73
+35083,"Perth--Wellington","Perth--Wellington"," 617","St. Marys",N,N,"",3,0,"Knight","","Brendan","Liberal","Libéral",N,N,359
+35083,"Perth--Wellington","Perth--Wellington"," 617","St. Marys",N,N,"",3,0,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,227
+35083,"Perth--Wellington","Perth--Wellington"," 617","St. Marys",N,N,"",3,0,"Nater","","John","Conservative","Conservateur",Y,Y,587
+35083,"Perth--Wellington","Perth--Wellington"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",12,132,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,27
+35083,"Perth--Wellington","Perth--Wellington"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",12,132,"Knight","","Brendan","Liberal","Libéral",N,N,110
+35083,"Perth--Wellington","Perth--Wellington"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",12,132,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,100
+35083,"Perth--Wellington","Perth--Wellington"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",12,132,"Nater","","John","Conservative","Conservateur",Y,Y,104
+35083,"Perth--Wellington","Perth--Wellington"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",24,0,"Baker","","Wayne","People's Party - PPC","Parti populaire - PPC",N,N,77
+35083,"Perth--Wellington","Perth--Wellington"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",24,0,"Knight","","Brendan","Liberal","Libéral",N,N,873
+35083,"Perth--Wellington","Perth--Wellington"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",24,0,"Kruchkywich","","Kevin","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,424
+35083,"Perth--Wellington","Perth--Wellington"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",24,0,"Nater","","John","Conservative","Conservateur",Y,Y,837

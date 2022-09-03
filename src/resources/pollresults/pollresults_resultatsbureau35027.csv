@@ -1,0 +1,973 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+35027,"Etobicoke Centre","Etobicoke-Centre"," 1","Toronto",N,N,"",0,331,"Baker","","Yvan","Liberal","Libéral",Y,Y,66
+35027,"Etobicoke Centre","Etobicoke-Centre"," 1","Toronto",N,N,"",0,331,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,7
+35027,"Etobicoke Centre","Etobicoke-Centre"," 1","Toronto",N,N,"",0,331,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35027,"Etobicoke Centre","Etobicoke-Centre"," 1","Toronto",N,N,"",0,331,"Turner","","Geoffrey","Conservative","Conservateur",N,N,62
+35027,"Etobicoke Centre","Etobicoke-Centre"," 2","Toronto",N,N,"",4,397,"Baker","","Yvan","Liberal","Libéral",Y,Y,109
+35027,"Etobicoke Centre","Etobicoke-Centre"," 2","Toronto",N,N,"",4,397,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,18
+35027,"Etobicoke Centre","Etobicoke-Centre"," 2","Toronto",N,N,"",4,397,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35027,"Etobicoke Centre","Etobicoke-Centre"," 2","Toronto",N,N,"",4,397,"Turner","","Geoffrey","Conservative","Conservateur",N,N,70
+35027,"Etobicoke Centre","Etobicoke-Centre"," 3","Toronto",N,N,"",0,341,"Baker","","Yvan","Liberal","Libéral",Y,Y,57
+35027,"Etobicoke Centre","Etobicoke-Centre"," 3","Toronto",N,N,"",0,341,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,11
+35027,"Etobicoke Centre","Etobicoke-Centre"," 3","Toronto",N,N,"",0,341,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35027,"Etobicoke Centre","Etobicoke-Centre"," 3","Toronto",N,N,"",0,341,"Turner","","Geoffrey","Conservative","Conservateur",N,N,69
+35027,"Etobicoke Centre","Etobicoke-Centre"," 4","Toronto",N,N,"",0,362,"Baker","","Yvan","Liberal","Libéral",Y,Y,44
+35027,"Etobicoke Centre","Etobicoke-Centre"," 4","Toronto",N,N,"",0,362,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,13
+35027,"Etobicoke Centre","Etobicoke-Centre"," 4","Toronto",N,N,"",0,362,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35027,"Etobicoke Centre","Etobicoke-Centre"," 4","Toronto",N,N,"",0,362,"Turner","","Geoffrey","Conservative","Conservateur",N,N,49
+35027,"Etobicoke Centre","Etobicoke-Centre"," 5","Toronto",N,N,"",3,582,"Baker","","Yvan","Liberal","Libéral",Y,Y,87
+35027,"Etobicoke Centre","Etobicoke-Centre"," 5","Toronto",N,N,"",3,582,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,6
+35027,"Etobicoke Centre","Etobicoke-Centre"," 5","Toronto",N,N,"",3,582,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35027,"Etobicoke Centre","Etobicoke-Centre"," 5","Toronto",N,N,"",3,582,"Turner","","Geoffrey","Conservative","Conservateur",N,N,40
+35027,"Etobicoke Centre","Etobicoke-Centre"," 6","Toronto",N,N,"",2,383,"Baker","","Yvan","Liberal","Libéral",Y,Y,60
+35027,"Etobicoke Centre","Etobicoke-Centre"," 6","Toronto",N,N,"",2,383,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,4
+35027,"Etobicoke Centre","Etobicoke-Centre"," 6","Toronto",N,N,"",2,383,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35027,"Etobicoke Centre","Etobicoke-Centre"," 6","Toronto",N,N,"",2,383,"Turner","","Geoffrey","Conservative","Conservateur",N,N,66
+35027,"Etobicoke Centre","Etobicoke-Centre"," 7","Toronto",N,N,"",2,457,"Baker","","Yvan","Liberal","Libéral",Y,Y,85
+35027,"Etobicoke Centre","Etobicoke-Centre"," 7","Toronto",N,N,"",2,457,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,17
+35027,"Etobicoke Centre","Etobicoke-Centre"," 7","Toronto",N,N,"",2,457,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35027,"Etobicoke Centre","Etobicoke-Centre"," 7","Toronto",N,N,"",2,457,"Turner","","Geoffrey","Conservative","Conservateur",N,N,53
+35027,"Etobicoke Centre","Etobicoke-Centre"," 8","Toronto",N,N,"",1,432,"Baker","","Yvan","Liberal","Libéral",Y,Y,69
+35027,"Etobicoke Centre","Etobicoke-Centre"," 8","Toronto",N,N,"",1,432,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,8
+35027,"Etobicoke Centre","Etobicoke-Centre"," 8","Toronto",N,N,"",1,432,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35027,"Etobicoke Centre","Etobicoke-Centre"," 8","Toronto",N,N,"",1,432,"Turner","","Geoffrey","Conservative","Conservateur",N,N,78
+35027,"Etobicoke Centre","Etobicoke-Centre"," 9","Toronto",N,N,"",1,544,"Baker","","Yvan","Liberal","Libéral",Y,Y,76
+35027,"Etobicoke Centre","Etobicoke-Centre"," 9","Toronto",N,N,"",1,544,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,10
+35027,"Etobicoke Centre","Etobicoke-Centre"," 9","Toronto",N,N,"",1,544,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35027,"Etobicoke Centre","Etobicoke-Centre"," 9","Toronto",N,N,"",1,544,"Turner","","Geoffrey","Conservative","Conservateur",N,N,50
+35027,"Etobicoke Centre","Etobicoke-Centre"," 10","Toronto",N,N,"",0,471,"Baker","","Yvan","Liberal","Libéral",Y,Y,59
+35027,"Etobicoke Centre","Etobicoke-Centre"," 10","Toronto",N,N,"",0,471,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,9
+35027,"Etobicoke Centre","Etobicoke-Centre"," 10","Toronto",N,N,"",0,471,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35027,"Etobicoke Centre","Etobicoke-Centre"," 10","Toronto",N,N,"",0,471,"Turner","","Geoffrey","Conservative","Conservateur",N,N,57
+35027,"Etobicoke Centre","Etobicoke-Centre"," 11","Toronto",N,N,"",6,503,"Baker","","Yvan","Liberal","Libéral",Y,Y,71
+35027,"Etobicoke Centre","Etobicoke-Centre"," 11","Toronto",N,N,"",6,503,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,12
+35027,"Etobicoke Centre","Etobicoke-Centre"," 11","Toronto",N,N,"",6,503,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35027,"Etobicoke Centre","Etobicoke-Centre"," 11","Toronto",N,N,"",6,503,"Turner","","Geoffrey","Conservative","Conservateur",N,N,21
+35027,"Etobicoke Centre","Etobicoke-Centre"," 12","Toronto",N,N,"",0,405,"Baker","","Yvan","Liberal","Libéral",Y,Y,73
+35027,"Etobicoke Centre","Etobicoke-Centre"," 12","Toronto",N,N,"",0,405,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,9
+35027,"Etobicoke Centre","Etobicoke-Centre"," 12","Toronto",N,N,"",0,405,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35027,"Etobicoke Centre","Etobicoke-Centre"," 12","Toronto",N,N,"",0,405,"Turner","","Geoffrey","Conservative","Conservateur",N,N,43
+35027,"Etobicoke Centre","Etobicoke-Centre"," 13","Toronto",N,N,"",1,418,"Baker","","Yvan","Liberal","Libéral",Y,Y,48
+35027,"Etobicoke Centre","Etobicoke-Centre"," 13","Toronto",N,N,"",1,418,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,12
+35027,"Etobicoke Centre","Etobicoke-Centre"," 13","Toronto",N,N,"",1,418,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35027,"Etobicoke Centre","Etobicoke-Centre"," 13","Toronto",N,N,"",1,418,"Turner","","Geoffrey","Conservative","Conservateur",N,N,55
+35027,"Etobicoke Centre","Etobicoke-Centre"," 14","Toronto",N,N,"",6,484,"Baker","","Yvan","Liberal","Libéral",Y,Y,66
+35027,"Etobicoke Centre","Etobicoke-Centre"," 14","Toronto",N,N,"",6,484,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,15
+35027,"Etobicoke Centre","Etobicoke-Centre"," 14","Toronto",N,N,"",6,484,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35027,"Etobicoke Centre","Etobicoke-Centre"," 14","Toronto",N,N,"",6,484,"Turner","","Geoffrey","Conservative","Conservateur",N,N,37
+35027,"Etobicoke Centre","Etobicoke-Centre"," 15","Toronto",N,N,"",2,415,"Baker","","Yvan","Liberal","Libéral",Y,Y,58
+35027,"Etobicoke Centre","Etobicoke-Centre"," 15","Toronto",N,N,"",2,415,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,8
+35027,"Etobicoke Centre","Etobicoke-Centre"," 15","Toronto",N,N,"",2,415,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35027,"Etobicoke Centre","Etobicoke-Centre"," 15","Toronto",N,N,"",2,415,"Turner","","Geoffrey","Conservative","Conservateur",N,N,46
+35027,"Etobicoke Centre","Etobicoke-Centre"," 16","Toronto",N,N,"",1,464,"Baker","","Yvan","Liberal","Libéral",Y,Y,70
+35027,"Etobicoke Centre","Etobicoke-Centre"," 16","Toronto",N,N,"",1,464,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,7
+35027,"Etobicoke Centre","Etobicoke-Centre"," 16","Toronto",N,N,"",1,464,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35027,"Etobicoke Centre","Etobicoke-Centre"," 16","Toronto",N,N,"",1,464,"Turner","","Geoffrey","Conservative","Conservateur",N,N,52
+35027,"Etobicoke Centre","Etobicoke-Centre"," 17","Toronto",N,N,"",0,434,"Baker","","Yvan","Liberal","Libéral",Y,Y,72
+35027,"Etobicoke Centre","Etobicoke-Centre"," 17","Toronto",N,N,"",0,434,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,10
+35027,"Etobicoke Centre","Etobicoke-Centre"," 17","Toronto",N,N,"",0,434,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35027,"Etobicoke Centre","Etobicoke-Centre"," 17","Toronto",N,N,"",0,434,"Turner","","Geoffrey","Conservative","Conservateur",N,N,57
+35027,"Etobicoke Centre","Etobicoke-Centre"," 18","Toronto",N,N,"",1,213,"Baker","","Yvan","Liberal","Libéral",Y,Y,17
+35027,"Etobicoke Centre","Etobicoke-Centre"," 18","Toronto",N,N,"",1,213,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,3
+35027,"Etobicoke Centre","Etobicoke-Centre"," 18","Toronto",N,N,"",1,213,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35027,"Etobicoke Centre","Etobicoke-Centre"," 18","Toronto",N,N,"",1,213,"Turner","","Geoffrey","Conservative","Conservateur",N,N,14
+35027,"Etobicoke Centre","Etobicoke-Centre"," 19","Toronto",N,N,"",2,639,"Baker","","Yvan","Liberal","Libéral",Y,Y,129
+35027,"Etobicoke Centre","Etobicoke-Centre"," 19","Toronto",N,N,"",2,639,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,12
+35027,"Etobicoke Centre","Etobicoke-Centre"," 19","Toronto",N,N,"",2,639,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35027,"Etobicoke Centre","Etobicoke-Centre"," 19","Toronto",N,N,"",2,639,"Turner","","Geoffrey","Conservative","Conservateur",N,N,25
+35027,"Etobicoke Centre","Etobicoke-Centre"," 20","Toronto",N,N,"",1,408,"Baker","","Yvan","Liberal","Libéral",Y,Y,67
+35027,"Etobicoke Centre","Etobicoke-Centre"," 20","Toronto",N,N,"",1,408,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,11
+35027,"Etobicoke Centre","Etobicoke-Centre"," 20","Toronto",N,N,"",1,408,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35027,"Etobicoke Centre","Etobicoke-Centre"," 20","Toronto",N,N,"",1,408,"Turner","","Geoffrey","Conservative","Conservateur",N,N,42
+35027,"Etobicoke Centre","Etobicoke-Centre"," 21","Toronto",N,N,"",6,556,"Baker","","Yvan","Liberal","Libéral",Y,Y,112
+35027,"Etobicoke Centre","Etobicoke-Centre"," 21","Toronto",N,N,"",6,556,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,6
+35027,"Etobicoke Centre","Etobicoke-Centre"," 21","Toronto",N,N,"",6,556,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35027,"Etobicoke Centre","Etobicoke-Centre"," 21","Toronto",N,N,"",6,556,"Turner","","Geoffrey","Conservative","Conservateur",N,N,55
+35027,"Etobicoke Centre","Etobicoke-Centre"," 22","Toronto",N,N,"",0,414,"Baker","","Yvan","Liberal","Libéral",Y,Y,65
+35027,"Etobicoke Centre","Etobicoke-Centre"," 22","Toronto",N,N,"",0,414,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,8
+35027,"Etobicoke Centre","Etobicoke-Centre"," 22","Toronto",N,N,"",0,414,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35027,"Etobicoke Centre","Etobicoke-Centre"," 22","Toronto",N,N,"",0,414,"Turner","","Geoffrey","Conservative","Conservateur",N,N,50
+35027,"Etobicoke Centre","Etobicoke-Centre"," 23","Toronto",N,N,"",6,437,"Baker","","Yvan","Liberal","Libéral",Y,Y,67
+35027,"Etobicoke Centre","Etobicoke-Centre"," 23","Toronto",N,N,"",6,437,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,6
+35027,"Etobicoke Centre","Etobicoke-Centre"," 23","Toronto",N,N,"",6,437,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35027,"Etobicoke Centre","Etobicoke-Centre"," 23","Toronto",N,N,"",6,437,"Turner","","Geoffrey","Conservative","Conservateur",N,N,58
+35027,"Etobicoke Centre","Etobicoke-Centre"," 24","Toronto",N,N,"",0,522,"Baker","","Yvan","Liberal","Libéral",Y,Y,71
+35027,"Etobicoke Centre","Etobicoke-Centre"," 24","Toronto",N,N,"",0,522,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,15
+35027,"Etobicoke Centre","Etobicoke-Centre"," 24","Toronto",N,N,"",0,522,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35027,"Etobicoke Centre","Etobicoke-Centre"," 24","Toronto",N,N,"",0,522,"Turner","","Geoffrey","Conservative","Conservateur",N,N,34
+35027,"Etobicoke Centre","Etobicoke-Centre"," 25","Toronto",N,N,"",0,408,"Baker","","Yvan","Liberal","Libéral",Y,Y,49
+35027,"Etobicoke Centre","Etobicoke-Centre"," 25","Toronto",N,N,"",0,408,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,7
+35027,"Etobicoke Centre","Etobicoke-Centre"," 25","Toronto",N,N,"",0,408,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35027,"Etobicoke Centre","Etobicoke-Centre"," 25","Toronto",N,N,"",0,408,"Turner","","Geoffrey","Conservative","Conservateur",N,N,41
+35027,"Etobicoke Centre","Etobicoke-Centre"," 26","Toronto",N,N,"",2,443,"Baker","","Yvan","Liberal","Libéral",Y,Y,73
+35027,"Etobicoke Centre","Etobicoke-Centre"," 26","Toronto",N,N,"",2,443,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,8
+35027,"Etobicoke Centre","Etobicoke-Centre"," 26","Toronto",N,N,"",2,443,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35027,"Etobicoke Centre","Etobicoke-Centre"," 26","Toronto",N,N,"",2,443,"Turner","","Geoffrey","Conservative","Conservateur",N,N,71
+35027,"Etobicoke Centre","Etobicoke-Centre"," 27","Toronto",N,N,"",4,413,"Baker","","Yvan","Liberal","Libéral",Y,Y,84
+35027,"Etobicoke Centre","Etobicoke-Centre"," 27","Toronto",N,N,"",4,413,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,8
+35027,"Etobicoke Centre","Etobicoke-Centre"," 27","Toronto",N,N,"",4,413,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35027,"Etobicoke Centre","Etobicoke-Centre"," 27","Toronto",N,N,"",4,413,"Turner","","Geoffrey","Conservative","Conservateur",N,N,62
+35027,"Etobicoke Centre","Etobicoke-Centre"," 28","Toronto",N,N,"",2,352,"Baker","","Yvan","Liberal","Libéral",Y,Y,53
+35027,"Etobicoke Centre","Etobicoke-Centre"," 28","Toronto",N,N,"",2,352,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,7
+35027,"Etobicoke Centre","Etobicoke-Centre"," 28","Toronto",N,N,"",2,352,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35027,"Etobicoke Centre","Etobicoke-Centre"," 28","Toronto",N,N,"",2,352,"Turner","","Geoffrey","Conservative","Conservateur",N,N,53
+35027,"Etobicoke Centre","Etobicoke-Centre"," 29","Toronto",N,N,"",1,338,"Baker","","Yvan","Liberal","Libéral",Y,Y,61
+35027,"Etobicoke Centre","Etobicoke-Centre"," 29","Toronto",N,N,"",1,338,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,2
+35027,"Etobicoke Centre","Etobicoke-Centre"," 29","Toronto",N,N,"",1,338,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35027,"Etobicoke Centre","Etobicoke-Centre"," 29","Toronto",N,N,"",1,338,"Turner","","Geoffrey","Conservative","Conservateur",N,N,50
+35027,"Etobicoke Centre","Etobicoke-Centre"," 30","Toronto",N,N,"",0,398,"Baker","","Yvan","Liberal","Libéral",Y,Y,57
+35027,"Etobicoke Centre","Etobicoke-Centre"," 30","Toronto",N,N,"",0,398,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,12
+35027,"Etobicoke Centre","Etobicoke-Centre"," 30","Toronto",N,N,"",0,398,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35027,"Etobicoke Centre","Etobicoke-Centre"," 30","Toronto",N,N,"",0,398,"Turner","","Geoffrey","Conservative","Conservateur",N,N,48
+35027,"Etobicoke Centre","Etobicoke-Centre"," 31","Toronto",N,N,"",1,354,"Baker","","Yvan","Liberal","Libéral",Y,Y,57
+35027,"Etobicoke Centre","Etobicoke-Centre"," 31","Toronto",N,N,"",1,354,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,12
+35027,"Etobicoke Centre","Etobicoke-Centre"," 31","Toronto",N,N,"",1,354,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35027,"Etobicoke Centre","Etobicoke-Centre"," 31","Toronto",N,N,"",1,354,"Turner","","Geoffrey","Conservative","Conservateur",N,N,40
+35027,"Etobicoke Centre","Etobicoke-Centre"," 32","Etobicoke",Y,N,"",0,0,"Baker","","Yvan","Liberal","Libéral",Y,Y,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 32","Etobicoke",Y,N,"",0,0,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 32","Etobicoke",Y,N,"",0,0,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 32","Etobicoke",Y,N,"",0,0,"Turner","","Geoffrey","Conservative","Conservateur",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 33","Toronto",N,N,"",2,415,"Baker","","Yvan","Liberal","Libéral",Y,Y,57
+35027,"Etobicoke Centre","Etobicoke-Centre"," 33","Toronto",N,N,"",2,415,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,18
+35027,"Etobicoke Centre","Etobicoke-Centre"," 33","Toronto",N,N,"",2,415,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35027,"Etobicoke Centre","Etobicoke-Centre"," 33","Toronto",N,N,"",2,415,"Turner","","Geoffrey","Conservative","Conservateur",N,N,38
+35027,"Etobicoke Centre","Etobicoke-Centre"," 34","Toronto",N,N,"",2,453,"Baker","","Yvan","Liberal","Libéral",Y,Y,137
+35027,"Etobicoke Centre","Etobicoke-Centre"," 34","Toronto",N,N,"",2,453,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,5
+35027,"Etobicoke Centre","Etobicoke-Centre"," 34","Toronto",N,N,"",2,453,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35027,"Etobicoke Centre","Etobicoke-Centre"," 34","Toronto",N,N,"",2,453,"Turner","","Geoffrey","Conservative","Conservateur",N,N,54
+35027,"Etobicoke Centre","Etobicoke-Centre"," 35","Toronto",N,N,"",2,408,"Baker","","Yvan","Liberal","Libéral",Y,Y,86
+35027,"Etobicoke Centre","Etobicoke-Centre"," 35","Toronto",N,N,"",2,408,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,6
+35027,"Etobicoke Centre","Etobicoke-Centre"," 35","Toronto",N,N,"",2,408,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35027,"Etobicoke Centre","Etobicoke-Centre"," 35","Toronto",N,N,"",2,408,"Turner","","Geoffrey","Conservative","Conservateur",N,N,90
+35027,"Etobicoke Centre","Etobicoke-Centre"," 36","Toronto",N,N,"",1,387,"Baker","","Yvan","Liberal","Libéral",Y,Y,86
+35027,"Etobicoke Centre","Etobicoke-Centre"," 36","Toronto",N,N,"",1,387,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,11
+35027,"Etobicoke Centre","Etobicoke-Centre"," 36","Toronto",N,N,"",1,387,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35027,"Etobicoke Centre","Etobicoke-Centre"," 36","Toronto",N,N,"",1,387,"Turner","","Geoffrey","Conservative","Conservateur",N,N,64
+35027,"Etobicoke Centre","Etobicoke-Centre"," 37","Toronto",N,N,"",2,453,"Baker","","Yvan","Liberal","Libéral",Y,Y,88
+35027,"Etobicoke Centre","Etobicoke-Centre"," 37","Toronto",N,N,"",2,453,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,12
+35027,"Etobicoke Centre","Etobicoke-Centre"," 37","Toronto",N,N,"",2,453,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35027,"Etobicoke Centre","Etobicoke-Centre"," 37","Toronto",N,N,"",2,453,"Turner","","Geoffrey","Conservative","Conservateur",N,N,85
+35027,"Etobicoke Centre","Etobicoke-Centre"," 38","Toronto",N,N,"",4,473,"Baker","","Yvan","Liberal","Libéral",Y,Y,102
+35027,"Etobicoke Centre","Etobicoke-Centre"," 38","Toronto",N,N,"",4,473,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,6
+35027,"Etobicoke Centre","Etobicoke-Centre"," 38","Toronto",N,N,"",4,473,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35027,"Etobicoke Centre","Etobicoke-Centre"," 38","Toronto",N,N,"",4,473,"Turner","","Geoffrey","Conservative","Conservateur",N,N,19
+35027,"Etobicoke Centre","Etobicoke-Centre"," 39","Toronto",N,N,"",0,433,"Baker","","Yvan","Liberal","Libéral",Y,Y,59
+35027,"Etobicoke Centre","Etobicoke-Centre"," 39","Toronto",N,N,"",0,433,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,17
+35027,"Etobicoke Centre","Etobicoke-Centre"," 39","Toronto",N,N,"",0,433,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35027,"Etobicoke Centre","Etobicoke-Centre"," 39","Toronto",N,N,"",0,433,"Turner","","Geoffrey","Conservative","Conservateur",N,N,39
+35027,"Etobicoke Centre","Etobicoke-Centre"," 40","Toronto",N,N,"",3,540,"Baker","","Yvan","Liberal","Libéral",Y,Y,87
+35027,"Etobicoke Centre","Etobicoke-Centre"," 40","Toronto",N,N,"",3,540,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,13
+35027,"Etobicoke Centre","Etobicoke-Centre"," 40","Toronto",N,N,"",3,540,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35027,"Etobicoke Centre","Etobicoke-Centre"," 40","Toronto",N,N,"",3,540,"Turner","","Geoffrey","Conservative","Conservateur",N,N,64
+35027,"Etobicoke Centre","Etobicoke-Centre"," 41","Toronto",N,N,"",4,537,"Baker","","Yvan","Liberal","Libéral",Y,Y,79
+35027,"Etobicoke Centre","Etobicoke-Centre"," 41","Toronto",N,N,"",4,537,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,23
+35027,"Etobicoke Centre","Etobicoke-Centre"," 41","Toronto",N,N,"",4,537,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35027,"Etobicoke Centre","Etobicoke-Centre"," 41","Toronto",N,N,"",4,537,"Turner","","Geoffrey","Conservative","Conservateur",N,N,49
+35027,"Etobicoke Centre","Etobicoke-Centre"," 42","Toronto",N,N,"",3,756,"Baker","","Yvan","Liberal","Libéral",Y,Y,112
+35027,"Etobicoke Centre","Etobicoke-Centre"," 42","Toronto",N,N,"",3,756,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,16
+35027,"Etobicoke Centre","Etobicoke-Centre"," 42","Toronto",N,N,"",3,756,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35027,"Etobicoke Centre","Etobicoke-Centre"," 42","Toronto",N,N,"",3,756,"Turner","","Geoffrey","Conservative","Conservateur",N,N,114
+35027,"Etobicoke Centre","Etobicoke-Centre"," 43","Toronto",N,N,"",0,413,"Baker","","Yvan","Liberal","Libéral",Y,Y,49
+35027,"Etobicoke Centre","Etobicoke-Centre"," 43","Toronto",N,N,"",0,413,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,8
+35027,"Etobicoke Centre","Etobicoke-Centre"," 43","Toronto",N,N,"",0,413,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35027,"Etobicoke Centre","Etobicoke-Centre"," 43","Toronto",N,N,"",0,413,"Turner","","Geoffrey","Conservative","Conservateur",N,N,56
+35027,"Etobicoke Centre","Etobicoke-Centre"," 44","Toronto",N,N,"",1,353,"Baker","","Yvan","Liberal","Libéral",Y,Y,54
+35027,"Etobicoke Centre","Etobicoke-Centre"," 44","Toronto",N,N,"",1,353,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,4
+35027,"Etobicoke Centre","Etobicoke-Centre"," 44","Toronto",N,N,"",1,353,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35027,"Etobicoke Centre","Etobicoke-Centre"," 44","Toronto",N,N,"",1,353,"Turner","","Geoffrey","Conservative","Conservateur",N,N,49
+35027,"Etobicoke Centre","Etobicoke-Centre"," 45","Toronto",N,N,"",1,349,"Baker","","Yvan","Liberal","Libéral",Y,Y,35
+35027,"Etobicoke Centre","Etobicoke-Centre"," 45","Toronto",N,N,"",1,349,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,11
+35027,"Etobicoke Centre","Etobicoke-Centre"," 45","Toronto",N,N,"",1,349,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35027,"Etobicoke Centre","Etobicoke-Centre"," 45","Toronto",N,N,"",1,349,"Turner","","Geoffrey","Conservative","Conservateur",N,N,34
+35027,"Etobicoke Centre","Etobicoke-Centre"," 46","Toronto",N,N,"",0,412,"Baker","","Yvan","Liberal","Libéral",Y,Y,75
+35027,"Etobicoke Centre","Etobicoke-Centre"," 46","Toronto",N,N,"",0,412,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,2
+35027,"Etobicoke Centre","Etobicoke-Centre"," 46","Toronto",N,N,"",0,412,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35027,"Etobicoke Centre","Etobicoke-Centre"," 46","Toronto",N,N,"",0,412,"Turner","","Geoffrey","Conservative","Conservateur",N,N,77
+35027,"Etobicoke Centre","Etobicoke-Centre"," 47","Toronto",N,N,"",0,326,"Baker","","Yvan","Liberal","Libéral",Y,Y,51
+35027,"Etobicoke Centre","Etobicoke-Centre"," 47","Toronto",N,N,"",0,326,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,7
+35027,"Etobicoke Centre","Etobicoke-Centre"," 47","Toronto",N,N,"",0,326,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35027,"Etobicoke Centre","Etobicoke-Centre"," 47","Toronto",N,N,"",0,326,"Turner","","Geoffrey","Conservative","Conservateur",N,N,41
+35027,"Etobicoke Centre","Etobicoke-Centre"," 48","Toronto",N,N,"",0,423,"Baker","","Yvan","Liberal","Libéral",Y,Y,69
+35027,"Etobicoke Centre","Etobicoke-Centre"," 48","Toronto",N,N,"",0,423,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,6
+35027,"Etobicoke Centre","Etobicoke-Centre"," 48","Toronto",N,N,"",0,423,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35027,"Etobicoke Centre","Etobicoke-Centre"," 48","Toronto",N,N,"",0,423,"Turner","","Geoffrey","Conservative","Conservateur",N,N,32
+35027,"Etobicoke Centre","Etobicoke-Centre"," 49","Toronto",N,N,"",2,566,"Baker","","Yvan","Liberal","Libéral",Y,Y,84
+35027,"Etobicoke Centre","Etobicoke-Centre"," 49","Toronto",N,N,"",2,566,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,4
+35027,"Etobicoke Centre","Etobicoke-Centre"," 49","Toronto",N,N,"",2,566,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35027,"Etobicoke Centre","Etobicoke-Centre"," 49","Toronto",N,N,"",2,566,"Turner","","Geoffrey","Conservative","Conservateur",N,N,69
+35027,"Etobicoke Centre","Etobicoke-Centre"," 50","Toronto",N,N,"",3,475,"Baker","","Yvan","Liberal","Libéral",Y,Y,80
+35027,"Etobicoke Centre","Etobicoke-Centre"," 50","Toronto",N,N,"",3,475,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,3
+35027,"Etobicoke Centre","Etobicoke-Centre"," 50","Toronto",N,N,"",3,475,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35027,"Etobicoke Centre","Etobicoke-Centre"," 50","Toronto",N,N,"",3,475,"Turner","","Geoffrey","Conservative","Conservateur",N,N,48
+35027,"Etobicoke Centre","Etobicoke-Centre"," 51","Toronto",N,N,"",2,435,"Baker","","Yvan","Liberal","Libéral",Y,Y,52
+35027,"Etobicoke Centre","Etobicoke-Centre"," 51","Toronto",N,N,"",2,435,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,9
+35027,"Etobicoke Centre","Etobicoke-Centre"," 51","Toronto",N,N,"",2,435,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35027,"Etobicoke Centre","Etobicoke-Centre"," 51","Toronto",N,N,"",2,435,"Turner","","Geoffrey","Conservative","Conservateur",N,N,61
+35027,"Etobicoke Centre","Etobicoke-Centre"," 52","Toronto",N,N,"",1,409,"Baker","","Yvan","Liberal","Libéral",Y,Y,112
+35027,"Etobicoke Centre","Etobicoke-Centre"," 52","Toronto",N,N,"",1,409,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,5
+35027,"Etobicoke Centre","Etobicoke-Centre"," 52","Toronto",N,N,"",1,409,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35027,"Etobicoke Centre","Etobicoke-Centre"," 52","Toronto",N,N,"",1,409,"Turner","","Geoffrey","Conservative","Conservateur",N,N,27
+35027,"Etobicoke Centre","Etobicoke-Centre"," 53","Toronto",N,N,"",0,449,"Baker","","Yvan","Liberal","Libéral",Y,Y,73
+35027,"Etobicoke Centre","Etobicoke-Centre"," 53","Toronto",N,N,"",0,449,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,4
+35027,"Etobicoke Centre","Etobicoke-Centre"," 53","Toronto",N,N,"",0,449,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35027,"Etobicoke Centre","Etobicoke-Centre"," 53","Toronto",N,N,"",0,449,"Turner","","Geoffrey","Conservative","Conservateur",N,N,44
+35027,"Etobicoke Centre","Etobicoke-Centre"," 54","Toronto",N,N,"",1,457,"Baker","","Yvan","Liberal","Libéral",Y,Y,90
+35027,"Etobicoke Centre","Etobicoke-Centre"," 54","Toronto",N,N,"",1,457,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,13
+35027,"Etobicoke Centre","Etobicoke-Centre"," 54","Toronto",N,N,"",1,457,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35027,"Etobicoke Centre","Etobicoke-Centre"," 54","Toronto",N,N,"",1,457,"Turner","","Geoffrey","Conservative","Conservateur",N,N,71
+35027,"Etobicoke Centre","Etobicoke-Centre"," 55","Toronto",N,N,"",1,219,"Baker","","Yvan","Liberal","Libéral",Y,Y,49
+35027,"Etobicoke Centre","Etobicoke-Centre"," 55","Toronto",N,N,"",1,219,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,5
+35027,"Etobicoke Centre","Etobicoke-Centre"," 55","Toronto",N,N,"",1,219,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35027,"Etobicoke Centre","Etobicoke-Centre"," 55","Toronto",N,N,"",1,219,"Turner","","Geoffrey","Conservative","Conservateur",N,N,28
+35027,"Etobicoke Centre","Etobicoke-Centre"," 56","Toronto",N,N,"",3,353,"Baker","","Yvan","Liberal","Libéral",Y,Y,48
+35027,"Etobicoke Centre","Etobicoke-Centre"," 56","Toronto",N,N,"",3,353,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,4
+35027,"Etobicoke Centre","Etobicoke-Centre"," 56","Toronto",N,N,"",3,353,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35027,"Etobicoke Centre","Etobicoke-Centre"," 56","Toronto",N,N,"",3,353,"Turner","","Geoffrey","Conservative","Conservateur",N,N,52
+35027,"Etobicoke Centre","Etobicoke-Centre"," 57","Toronto",N,N,"",1,601,"Baker","","Yvan","Liberal","Libéral",Y,Y,100
+35027,"Etobicoke Centre","Etobicoke-Centre"," 57","Toronto",N,N,"",1,601,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,11
+35027,"Etobicoke Centre","Etobicoke-Centre"," 57","Toronto",N,N,"",1,601,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35027,"Etobicoke Centre","Etobicoke-Centre"," 57","Toronto",N,N,"",1,601,"Turner","","Geoffrey","Conservative","Conservateur",N,N,75
+35027,"Etobicoke Centre","Etobicoke-Centre"," 58","Toronto",N,N,"",2,486,"Baker","","Yvan","Liberal","Libéral",Y,Y,39
+35027,"Etobicoke Centre","Etobicoke-Centre"," 58","Toronto",N,N,"",2,486,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,9
+35027,"Etobicoke Centre","Etobicoke-Centre"," 58","Toronto",N,N,"",2,486,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35027,"Etobicoke Centre","Etobicoke-Centre"," 58","Toronto",N,N,"",2,486,"Turner","","Geoffrey","Conservative","Conservateur",N,N,53
+35027,"Etobicoke Centre","Etobicoke-Centre"," 59","Toronto",N,N,"",3,444,"Baker","","Yvan","Liberal","Libéral",Y,Y,59
+35027,"Etobicoke Centre","Etobicoke-Centre"," 59","Toronto",N,N,"",3,444,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,8
+35027,"Etobicoke Centre","Etobicoke-Centre"," 59","Toronto",N,N,"",3,444,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35027,"Etobicoke Centre","Etobicoke-Centre"," 59","Toronto",N,N,"",3,444,"Turner","","Geoffrey","Conservative","Conservateur",N,N,60
+35027,"Etobicoke Centre","Etobicoke-Centre"," 60","Toronto",N,N,"",0,418,"Baker","","Yvan","Liberal","Libéral",Y,Y,59
+35027,"Etobicoke Centre","Etobicoke-Centre"," 60","Toronto",N,N,"",0,418,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,4
+35027,"Etobicoke Centre","Etobicoke-Centre"," 60","Toronto",N,N,"",0,418,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35027,"Etobicoke Centre","Etobicoke-Centre"," 60","Toronto",N,N,"",0,418,"Turner","","Geoffrey","Conservative","Conservateur",N,N,67
+35027,"Etobicoke Centre","Etobicoke-Centre"," 61","Toronto",N,N,"",0,383,"Baker","","Yvan","Liberal","Libéral",Y,Y,46
+35027,"Etobicoke Centre","Etobicoke-Centre"," 61","Toronto",N,N,"",0,383,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,2
+35027,"Etobicoke Centre","Etobicoke-Centre"," 61","Toronto",N,N,"",0,383,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35027,"Etobicoke Centre","Etobicoke-Centre"," 61","Toronto",N,N,"",0,383,"Turner","","Geoffrey","Conservative","Conservateur",N,N,75
+35027,"Etobicoke Centre","Etobicoke-Centre"," 62","Toronto",N,N,"",0,410,"Baker","","Yvan","Liberal","Libéral",Y,Y,50
+35027,"Etobicoke Centre","Etobicoke-Centre"," 62","Toronto",N,N,"",0,410,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,3
+35027,"Etobicoke Centre","Etobicoke-Centre"," 62","Toronto",N,N,"",0,410,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35027,"Etobicoke Centre","Etobicoke-Centre"," 62","Toronto",N,N,"",0,410,"Turner","","Geoffrey","Conservative","Conservateur",N,N,61
+35027,"Etobicoke Centre","Etobicoke-Centre"," 63","Toronto",N,N,"",2,378,"Baker","","Yvan","Liberal","Libéral",Y,Y,36
+35027,"Etobicoke Centre","Etobicoke-Centre"," 63","Toronto",N,N,"",2,378,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,2
+35027,"Etobicoke Centre","Etobicoke-Centre"," 63","Toronto",N,N,"",2,378,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35027,"Etobicoke Centre","Etobicoke-Centre"," 63","Toronto",N,N,"",2,378,"Turner","","Geoffrey","Conservative","Conservateur",N,N,51
+35027,"Etobicoke Centre","Etobicoke-Centre"," 64","Toronto",N,N,"",1,546,"Baker","","Yvan","Liberal","Libéral",Y,Y,69
+35027,"Etobicoke Centre","Etobicoke-Centre"," 64","Toronto",N,N,"",1,546,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,6
+35027,"Etobicoke Centre","Etobicoke-Centre"," 64","Toronto",N,N,"",1,546,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35027,"Etobicoke Centre","Etobicoke-Centre"," 64","Toronto",N,N,"",1,546,"Turner","","Geoffrey","Conservative","Conservateur",N,N,39
+35027,"Etobicoke Centre","Etobicoke-Centre"," 65","Toronto",N,N,"",1,399,"Baker","","Yvan","Liberal","Libéral",Y,Y,48
+35027,"Etobicoke Centre","Etobicoke-Centre"," 65","Toronto",N,N,"",1,399,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 65","Toronto",N,N,"",1,399,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35027,"Etobicoke Centre","Etobicoke-Centre"," 65","Toronto",N,N,"",1,399,"Turner","","Geoffrey","Conservative","Conservateur",N,N,67
+35027,"Etobicoke Centre","Etobicoke-Centre"," 66","Toronto",N,N,"",1,371,"Baker","","Yvan","Liberal","Libéral",Y,Y,42
+35027,"Etobicoke Centre","Etobicoke-Centre"," 66","Toronto",N,N,"",1,371,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,6
+35027,"Etobicoke Centre","Etobicoke-Centre"," 66","Toronto",N,N,"",1,371,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35027,"Etobicoke Centre","Etobicoke-Centre"," 66","Toronto",N,N,"",1,371,"Turner","","Geoffrey","Conservative","Conservateur",N,N,82
+35027,"Etobicoke Centre","Etobicoke-Centre"," 67","Toronto",N,N,"",0,460,"Baker","","Yvan","Liberal","Libéral",Y,Y,52
+35027,"Etobicoke Centre","Etobicoke-Centre"," 67","Toronto",N,N,"",0,460,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,7
+35027,"Etobicoke Centre","Etobicoke-Centre"," 67","Toronto",N,N,"",0,460,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35027,"Etobicoke Centre","Etobicoke-Centre"," 67","Toronto",N,N,"",0,460,"Turner","","Geoffrey","Conservative","Conservateur",N,N,90
+35027,"Etobicoke Centre","Etobicoke-Centre"," 68","Toronto",N,N,"",0,451,"Baker","","Yvan","Liberal","Libéral",Y,Y,66
+35027,"Etobicoke Centre","Etobicoke-Centre"," 68","Toronto",N,N,"",0,451,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,6
+35027,"Etobicoke Centre","Etobicoke-Centre"," 68","Toronto",N,N,"",0,451,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35027,"Etobicoke Centre","Etobicoke-Centre"," 68","Toronto",N,N,"",0,451,"Turner","","Geoffrey","Conservative","Conservateur",N,N,58
+35027,"Etobicoke Centre","Etobicoke-Centre"," 69","Toronto",N,N,"",0,490,"Baker","","Yvan","Liberal","Libéral",Y,Y,63
+35027,"Etobicoke Centre","Etobicoke-Centre"," 69","Toronto",N,N,"",0,490,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,8
+35027,"Etobicoke Centre","Etobicoke-Centre"," 69","Toronto",N,N,"",0,490,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35027,"Etobicoke Centre","Etobicoke-Centre"," 69","Toronto",N,N,"",0,490,"Turner","","Geoffrey","Conservative","Conservateur",N,N,70
+35027,"Etobicoke Centre","Etobicoke-Centre"," 70","Toronto",N,N,"",0,398,"Baker","","Yvan","Liberal","Libéral",Y,Y,57
+35027,"Etobicoke Centre","Etobicoke-Centre"," 70","Toronto",N,N,"",0,398,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,6
+35027,"Etobicoke Centre","Etobicoke-Centre"," 70","Toronto",N,N,"",0,398,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35027,"Etobicoke Centre","Etobicoke-Centre"," 70","Toronto",N,N,"",0,398,"Turner","","Geoffrey","Conservative","Conservateur",N,N,51
+35027,"Etobicoke Centre","Etobicoke-Centre"," 71","Toronto",N,N,"",1,380,"Baker","","Yvan","Liberal","Libéral",Y,Y,51
+35027,"Etobicoke Centre","Etobicoke-Centre"," 71","Toronto",N,N,"",1,380,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,7
+35027,"Etobicoke Centre","Etobicoke-Centre"," 71","Toronto",N,N,"",1,380,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35027,"Etobicoke Centre","Etobicoke-Centre"," 71","Toronto",N,N,"",1,380,"Turner","","Geoffrey","Conservative","Conservateur",N,N,65
+35027,"Etobicoke Centre","Etobicoke-Centre"," 72","Toronto",N,N,"",1,419,"Baker","","Yvan","Liberal","Libéral",Y,Y,53
+35027,"Etobicoke Centre","Etobicoke-Centre"," 72","Toronto",N,N,"",1,419,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,4
+35027,"Etobicoke Centre","Etobicoke-Centre"," 72","Toronto",N,N,"",1,419,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35027,"Etobicoke Centre","Etobicoke-Centre"," 72","Toronto",N,N,"",1,419,"Turner","","Geoffrey","Conservative","Conservateur",N,N,91
+35027,"Etobicoke Centre","Etobicoke-Centre"," 73","Toronto",N,N,"",1,392,"Baker","","Yvan","Liberal","Libéral",Y,Y,49
+35027,"Etobicoke Centre","Etobicoke-Centre"," 73","Toronto",N,N,"",1,392,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,5
+35027,"Etobicoke Centre","Etobicoke-Centre"," 73","Toronto",N,N,"",1,392,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35027,"Etobicoke Centre","Etobicoke-Centre"," 73","Toronto",N,N,"",1,392,"Turner","","Geoffrey","Conservative","Conservateur",N,N,69
+35027,"Etobicoke Centre","Etobicoke-Centre"," 74","Toronto",N,N,"",0,456,"Baker","","Yvan","Liberal","Libéral",Y,Y,59
+35027,"Etobicoke Centre","Etobicoke-Centre"," 74","Toronto",N,N,"",0,456,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,7
+35027,"Etobicoke Centre","Etobicoke-Centre"," 74","Toronto",N,N,"",0,456,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35027,"Etobicoke Centre","Etobicoke-Centre"," 74","Toronto",N,N,"",0,456,"Turner","","Geoffrey","Conservative","Conservateur",N,N,65
+35027,"Etobicoke Centre","Etobicoke-Centre"," 75","Toronto",N,N,"",2,402,"Baker","","Yvan","Liberal","Libéral",Y,Y,54
+35027,"Etobicoke Centre","Etobicoke-Centre"," 75","Toronto",N,N,"",2,402,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,12
+35027,"Etobicoke Centre","Etobicoke-Centre"," 75","Toronto",N,N,"",2,402,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35027,"Etobicoke Centre","Etobicoke-Centre"," 75","Toronto",N,N,"",2,402,"Turner","","Geoffrey","Conservative","Conservateur",N,N,80
+35027,"Etobicoke Centre","Etobicoke-Centre"," 76","Toronto",N,N,"",4,694,"Baker","","Yvan","Liberal","Libéral",Y,Y,92
+35027,"Etobicoke Centre","Etobicoke-Centre"," 76","Toronto",N,N,"",4,694,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,12
+35027,"Etobicoke Centre","Etobicoke-Centre"," 76","Toronto",N,N,"",4,694,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35027,"Etobicoke Centre","Etobicoke-Centre"," 76","Toronto",N,N,"",4,694,"Turner","","Geoffrey","Conservative","Conservateur",N,N,64
+35027,"Etobicoke Centre","Etobicoke-Centre"," 77","Toronto",N,N,"",0,360,"Baker","","Yvan","Liberal","Libéral",Y,Y,71
+35027,"Etobicoke Centre","Etobicoke-Centre"," 77","Toronto",N,N,"",0,360,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,5
+35027,"Etobicoke Centre","Etobicoke-Centre"," 77","Toronto",N,N,"",0,360,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35027,"Etobicoke Centre","Etobicoke-Centre"," 77","Toronto",N,N,"",0,360,"Turner","","Geoffrey","Conservative","Conservateur",N,N,67
+35027,"Etobicoke Centre","Etobicoke-Centre"," 78","Toronto",N,N,"",3,469,"Baker","","Yvan","Liberal","Libéral",Y,Y,79
+35027,"Etobicoke Centre","Etobicoke-Centre"," 78","Toronto",N,N,"",3,469,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,3
+35027,"Etobicoke Centre","Etobicoke-Centre"," 78","Toronto",N,N,"",3,469,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35027,"Etobicoke Centre","Etobicoke-Centre"," 78","Toronto",N,N,"",3,469,"Turner","","Geoffrey","Conservative","Conservateur",N,N,73
+35027,"Etobicoke Centre","Etobicoke-Centre"," 79","Toronto",N,N,"",0,451,"Baker","","Yvan","Liberal","Libéral",Y,Y,80
+35027,"Etobicoke Centre","Etobicoke-Centre"," 79","Toronto",N,N,"",0,451,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,19
+35027,"Etobicoke Centre","Etobicoke-Centre"," 79","Toronto",N,N,"",0,451,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35027,"Etobicoke Centre","Etobicoke-Centre"," 79","Toronto",N,N,"",0,451,"Turner","","Geoffrey","Conservative","Conservateur",N,N,86
+35027,"Etobicoke Centre","Etobicoke-Centre"," 80","Toronto",N,N,"",5,451,"Baker","","Yvan","Liberal","Libéral",Y,Y,75
+35027,"Etobicoke Centre","Etobicoke-Centre"," 80","Toronto",N,N,"",5,451,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,11
+35027,"Etobicoke Centre","Etobicoke-Centre"," 80","Toronto",N,N,"",5,451,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35027,"Etobicoke Centre","Etobicoke-Centre"," 80","Toronto",N,N,"",5,451,"Turner","","Geoffrey","Conservative","Conservateur",N,N,71
+35027,"Etobicoke Centre","Etobicoke-Centre"," 81","Toronto",N,N,"",4,432,"Baker","","Yvan","Liberal","Libéral",Y,Y,66
+35027,"Etobicoke Centre","Etobicoke-Centre"," 81","Toronto",N,N,"",4,432,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,5
+35027,"Etobicoke Centre","Etobicoke-Centre"," 81","Toronto",N,N,"",4,432,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35027,"Etobicoke Centre","Etobicoke-Centre"," 81","Toronto",N,N,"",4,432,"Turner","","Geoffrey","Conservative","Conservateur",N,N,46
+35027,"Etobicoke Centre","Etobicoke-Centre"," 82","Toronto",N,N,"",2,360,"Baker","","Yvan","Liberal","Libéral",Y,Y,54
+35027,"Etobicoke Centre","Etobicoke-Centre"," 82","Toronto",N,N,"",2,360,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,7
+35027,"Etobicoke Centre","Etobicoke-Centre"," 82","Toronto",N,N,"",2,360,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35027,"Etobicoke Centre","Etobicoke-Centre"," 82","Toronto",N,N,"",2,360,"Turner","","Geoffrey","Conservative","Conservateur",N,N,40
+35027,"Etobicoke Centre","Etobicoke-Centre"," 83","Toronto",N,N,"",0,424,"Baker","","Yvan","Liberal","Libéral",Y,Y,68
+35027,"Etobicoke Centre","Etobicoke-Centre"," 83","Toronto",N,N,"",0,424,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,4
+35027,"Etobicoke Centre","Etobicoke-Centre"," 83","Toronto",N,N,"",0,424,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35027,"Etobicoke Centre","Etobicoke-Centre"," 83","Toronto",N,N,"",0,424,"Turner","","Geoffrey","Conservative","Conservateur",N,N,52
+35027,"Etobicoke Centre","Etobicoke-Centre"," 84","Toronto",N,N,"",0,464,"Baker","","Yvan","Liberal","Libéral",Y,Y,78
+35027,"Etobicoke Centre","Etobicoke-Centre"," 84","Toronto",N,N,"",0,464,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,7
+35027,"Etobicoke Centre","Etobicoke-Centre"," 84","Toronto",N,N,"",0,464,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35027,"Etobicoke Centre","Etobicoke-Centre"," 84","Toronto",N,N,"",0,464,"Turner","","Geoffrey","Conservative","Conservateur",N,N,69
+35027,"Etobicoke Centre","Etobicoke-Centre"," 85","Toronto",N,N,"",0,405,"Baker","","Yvan","Liberal","Libéral",Y,Y,88
+35027,"Etobicoke Centre","Etobicoke-Centre"," 85","Toronto",N,N,"",0,405,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,11
+35027,"Etobicoke Centre","Etobicoke-Centre"," 85","Toronto",N,N,"",0,405,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35027,"Etobicoke Centre","Etobicoke-Centre"," 85","Toronto",N,N,"",0,405,"Turner","","Geoffrey","Conservative","Conservateur",N,N,75
+35027,"Etobicoke Centre","Etobicoke-Centre"," 86","Toronto",N,N,"",0,566,"Baker","","Yvan","Liberal","Libéral",Y,Y,89
+35027,"Etobicoke Centre","Etobicoke-Centre"," 86","Toronto",N,N,"",0,566,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,10
+35027,"Etobicoke Centre","Etobicoke-Centre"," 86","Toronto",N,N,"",0,566,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35027,"Etobicoke Centre","Etobicoke-Centre"," 86","Toronto",N,N,"",0,566,"Turner","","Geoffrey","Conservative","Conservateur",N,N,96
+35027,"Etobicoke Centre","Etobicoke-Centre"," 87","Toronto",N,N,"",0,445,"Baker","","Yvan","Liberal","Libéral",Y,Y,101
+35027,"Etobicoke Centre","Etobicoke-Centre"," 87","Toronto",N,N,"",0,445,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,17
+35027,"Etobicoke Centre","Etobicoke-Centre"," 87","Toronto",N,N,"",0,445,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35027,"Etobicoke Centre","Etobicoke-Centre"," 87","Toronto",N,N,"",0,445,"Turner","","Geoffrey","Conservative","Conservateur",N,N,83
+35027,"Etobicoke Centre","Etobicoke-Centre"," 88","Toronto",N,N,"",0,412,"Baker","","Yvan","Liberal","Libéral",Y,Y,61
+35027,"Etobicoke Centre","Etobicoke-Centre"," 88","Toronto",N,N,"",0,412,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,4
+35027,"Etobicoke Centre","Etobicoke-Centre"," 88","Toronto",N,N,"",0,412,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35027,"Etobicoke Centre","Etobicoke-Centre"," 88","Toronto",N,N,"",0,412,"Turner","","Geoffrey","Conservative","Conservateur",N,N,68
+35027,"Etobicoke Centre","Etobicoke-Centre"," 89","Toronto",N,N,"",1,276,"Baker","","Yvan","Liberal","Libéral",Y,Y,42
+35027,"Etobicoke Centre","Etobicoke-Centre"," 89","Toronto",N,N,"",1,276,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,5
+35027,"Etobicoke Centre","Etobicoke-Centre"," 89","Toronto",N,N,"",1,276,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35027,"Etobicoke Centre","Etobicoke-Centre"," 89","Toronto",N,N,"",1,276,"Turner","","Geoffrey","Conservative","Conservateur",N,N,25
+35027,"Etobicoke Centre","Etobicoke-Centre"," 90","Toronto",N,N,"",0,439,"Baker","","Yvan","Liberal","Libéral",Y,Y,56
+35027,"Etobicoke Centre","Etobicoke-Centre"," 90","Toronto",N,N,"",0,439,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,5
+35027,"Etobicoke Centre","Etobicoke-Centre"," 90","Toronto",N,N,"",0,439,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35027,"Etobicoke Centre","Etobicoke-Centre"," 90","Toronto",N,N,"",0,439,"Turner","","Geoffrey","Conservative","Conservateur",N,N,79
+35027,"Etobicoke Centre","Etobicoke-Centre"," 91","Toronto",N,N,"",4,440,"Baker","","Yvan","Liberal","Libéral",Y,Y,57
+35027,"Etobicoke Centre","Etobicoke-Centre"," 91","Toronto",N,N,"",4,440,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,13
+35027,"Etobicoke Centre","Etobicoke-Centre"," 91","Toronto",N,N,"",4,440,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35027,"Etobicoke Centre","Etobicoke-Centre"," 91","Toronto",N,N,"",4,440,"Turner","","Geoffrey","Conservative","Conservateur",N,N,63
+35027,"Etobicoke Centre","Etobicoke-Centre"," 92","Toronto",N,N,"",1,437,"Baker","","Yvan","Liberal","Libéral",Y,Y,72
+35027,"Etobicoke Centre","Etobicoke-Centre"," 92","Toronto",N,N,"",1,437,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,8
+35027,"Etobicoke Centre","Etobicoke-Centre"," 92","Toronto",N,N,"",1,437,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35027,"Etobicoke Centre","Etobicoke-Centre"," 92","Toronto",N,N,"",1,437,"Turner","","Geoffrey","Conservative","Conservateur",N,N,50
+35027,"Etobicoke Centre","Etobicoke-Centre"," 93","Toronto",N,N,"",1,427,"Baker","","Yvan","Liberal","Libéral",Y,Y,46
+35027,"Etobicoke Centre","Etobicoke-Centre"," 93","Toronto",N,N,"",1,427,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,5
+35027,"Etobicoke Centre","Etobicoke-Centre"," 93","Toronto",N,N,"",1,427,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35027,"Etobicoke Centre","Etobicoke-Centre"," 93","Toronto",N,N,"",1,427,"Turner","","Geoffrey","Conservative","Conservateur",N,N,70
+35027,"Etobicoke Centre","Etobicoke-Centre"," 94","Toronto",N,N,"",2,378,"Baker","","Yvan","Liberal","Libéral",Y,Y,65
+35027,"Etobicoke Centre","Etobicoke-Centre"," 94","Toronto",N,N,"",2,378,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,1
+35027,"Etobicoke Centre","Etobicoke-Centre"," 94","Toronto",N,N,"",2,378,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35027,"Etobicoke Centre","Etobicoke-Centre"," 94","Toronto",N,N,"",2,378,"Turner","","Geoffrey","Conservative","Conservateur",N,N,39
+35027,"Etobicoke Centre","Etobicoke-Centre"," 95","Toronto",N,N,"",1,425,"Baker","","Yvan","Liberal","Libéral",Y,Y,62
+35027,"Etobicoke Centre","Etobicoke-Centre"," 95","Toronto",N,N,"",1,425,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,7
+35027,"Etobicoke Centre","Etobicoke-Centre"," 95","Toronto",N,N,"",1,425,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35027,"Etobicoke Centre","Etobicoke-Centre"," 95","Toronto",N,N,"",1,425,"Turner","","Geoffrey","Conservative","Conservateur",N,N,68
+35027,"Etobicoke Centre","Etobicoke-Centre"," 96","Toronto",N,N,"",2,522,"Baker","","Yvan","Liberal","Libéral",Y,Y,124
+35027,"Etobicoke Centre","Etobicoke-Centre"," 96","Toronto",N,N,"",2,522,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,20
+35027,"Etobicoke Centre","Etobicoke-Centre"," 96","Toronto",N,N,"",2,522,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35027,"Etobicoke Centre","Etobicoke-Centre"," 96","Toronto",N,N,"",2,522,"Turner","","Geoffrey","Conservative","Conservateur",N,N,81
+35027,"Etobicoke Centre","Etobicoke-Centre"," 97","Toronto",N,N,"",0,380,"Baker","","Yvan","Liberal","Libéral",Y,Y,90
+35027,"Etobicoke Centre","Etobicoke-Centre"," 97","Toronto",N,N,"",0,380,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,15
+35027,"Etobicoke Centre","Etobicoke-Centre"," 97","Toronto",N,N,"",0,380,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35027,"Etobicoke Centre","Etobicoke-Centre"," 97","Toronto",N,N,"",0,380,"Turner","","Geoffrey","Conservative","Conservateur",N,N,63
+35027,"Etobicoke Centre","Etobicoke-Centre"," 98","Toronto",N,N,"",0,420,"Baker","","Yvan","Liberal","Libéral",Y,Y,105
+35027,"Etobicoke Centre","Etobicoke-Centre"," 98","Toronto",N,N,"",0,420,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,67
+35027,"Etobicoke Centre","Etobicoke-Centre"," 98","Toronto",N,N,"",0,420,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35027,"Etobicoke Centre","Etobicoke-Centre"," 98","Toronto",N,N,"",0,420,"Turner","","Geoffrey","Conservative","Conservateur",N,N,17
+35027,"Etobicoke Centre","Etobicoke-Centre"," 99","Toronto",N,N,"",1,487,"Baker","","Yvan","Liberal","Libéral",Y,Y,129
+35027,"Etobicoke Centre","Etobicoke-Centre"," 99","Toronto",N,N,"",1,487,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,16
+35027,"Etobicoke Centre","Etobicoke-Centre"," 99","Toronto",N,N,"",1,487,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35027,"Etobicoke Centre","Etobicoke-Centre"," 99","Toronto",N,N,"",1,487,"Turner","","Geoffrey","Conservative","Conservateur",N,N,55
+35027,"Etobicoke Centre","Etobicoke-Centre"," 100","Toronto",N,N,"",0,391,"Baker","","Yvan","Liberal","Libéral",Y,Y,110
+35027,"Etobicoke Centre","Etobicoke-Centre"," 100","Toronto",N,N,"",0,391,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,10
+35027,"Etobicoke Centre","Etobicoke-Centre"," 100","Toronto",N,N,"",0,391,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35027,"Etobicoke Centre","Etobicoke-Centre"," 100","Toronto",N,N,"",0,391,"Turner","","Geoffrey","Conservative","Conservateur",N,N,77
+35027,"Etobicoke Centre","Etobicoke-Centre"," 101","Toronto",N,N,"",0,382,"Baker","","Yvan","Liberal","Libéral",Y,Y,68
+35027,"Etobicoke Centre","Etobicoke-Centre"," 101","Toronto",N,N,"",0,382,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,10
+35027,"Etobicoke Centre","Etobicoke-Centre"," 101","Toronto",N,N,"",0,382,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35027,"Etobicoke Centre","Etobicoke-Centre"," 101","Toronto",N,N,"",0,382,"Turner","","Geoffrey","Conservative","Conservateur",N,N,74
+35027,"Etobicoke Centre","Etobicoke-Centre"," 102","Toronto",N,N,"",1,439,"Baker","","Yvan","Liberal","Libéral",Y,Y,56
+35027,"Etobicoke Centre","Etobicoke-Centre"," 102","Toronto",N,N,"",1,439,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,4
+35027,"Etobicoke Centre","Etobicoke-Centre"," 102","Toronto",N,N,"",1,439,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35027,"Etobicoke Centre","Etobicoke-Centre"," 102","Toronto",N,N,"",1,439,"Turner","","Geoffrey","Conservative","Conservateur",N,N,76
+35027,"Etobicoke Centre","Etobicoke-Centre"," 103","Toronto",N,N,"",1,370,"Baker","","Yvan","Liberal","Libéral",Y,Y,83
+35027,"Etobicoke Centre","Etobicoke-Centre"," 103","Toronto",N,N,"",1,370,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,8
+35027,"Etobicoke Centre","Etobicoke-Centre"," 103","Toronto",N,N,"",1,370,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35027,"Etobicoke Centre","Etobicoke-Centre"," 103","Toronto",N,N,"",1,370,"Turner","","Geoffrey","Conservative","Conservateur",N,N,100
+35027,"Etobicoke Centre","Etobicoke-Centre"," 104","Toronto",N,N,"",0,428,"Baker","","Yvan","Liberal","Libéral",Y,Y,97
+35027,"Etobicoke Centre","Etobicoke-Centre"," 104","Toronto",N,N,"",0,428,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,5
+35027,"Etobicoke Centre","Etobicoke-Centre"," 104","Toronto",N,N,"",0,428,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35027,"Etobicoke Centre","Etobicoke-Centre"," 104","Toronto",N,N,"",0,428,"Turner","","Geoffrey","Conservative","Conservateur",N,N,78
+35027,"Etobicoke Centre","Etobicoke-Centre"," 105","Toronto",N,N,"",2,409,"Baker","","Yvan","Liberal","Libéral",Y,Y,52
+35027,"Etobicoke Centre","Etobicoke-Centre"," 105","Toronto",N,N,"",2,409,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,5
+35027,"Etobicoke Centre","Etobicoke-Centre"," 105","Toronto",N,N,"",2,409,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35027,"Etobicoke Centre","Etobicoke-Centre"," 105","Toronto",N,N,"",2,409,"Turner","","Geoffrey","Conservative","Conservateur",N,N,87
+35027,"Etobicoke Centre","Etobicoke-Centre"," 106","Toronto",N,N,"",1,393,"Baker","","Yvan","Liberal","Libéral",Y,Y,79
+35027,"Etobicoke Centre","Etobicoke-Centre"," 106","Toronto",N,N,"",1,393,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,4
+35027,"Etobicoke Centre","Etobicoke-Centre"," 106","Toronto",N,N,"",1,393,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35027,"Etobicoke Centre","Etobicoke-Centre"," 106","Toronto",N,N,"",1,393,"Turner","","Geoffrey","Conservative","Conservateur",N,N,85
+35027,"Etobicoke Centre","Etobicoke-Centre"," 107","Toronto",N,N,"",5,489,"Baker","","Yvan","Liberal","Libéral",Y,Y,70
+35027,"Etobicoke Centre","Etobicoke-Centre"," 107","Toronto",N,N,"",5,489,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,14
+35027,"Etobicoke Centre","Etobicoke-Centre"," 107","Toronto",N,N,"",5,489,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35027,"Etobicoke Centre","Etobicoke-Centre"," 107","Toronto",N,N,"",5,489,"Turner","","Geoffrey","Conservative","Conservateur",N,N,65
+35027,"Etobicoke Centre","Etobicoke-Centre"," 108","Toronto",N,N,"",0,504,"Baker","","Yvan","Liberal","Libéral",Y,Y,106
+35027,"Etobicoke Centre","Etobicoke-Centre"," 108","Toronto",N,N,"",0,504,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,24
+35027,"Etobicoke Centre","Etobicoke-Centre"," 108","Toronto",N,N,"",0,504,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35027,"Etobicoke Centre","Etobicoke-Centre"," 108","Toronto",N,N,"",0,504,"Turner","","Geoffrey","Conservative","Conservateur",N,N,54
+35027,"Etobicoke Centre","Etobicoke-Centre"," 109","Toronto",N,N,"",2,535,"Baker","","Yvan","Liberal","Libéral",Y,Y,75
+35027,"Etobicoke Centre","Etobicoke-Centre"," 109","Toronto",N,N,"",2,535,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,9
+35027,"Etobicoke Centre","Etobicoke-Centre"," 109","Toronto",N,N,"",2,535,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35027,"Etobicoke Centre","Etobicoke-Centre"," 109","Toronto",N,N,"",2,535,"Turner","","Geoffrey","Conservative","Conservateur",N,N,72
+35027,"Etobicoke Centre","Etobicoke-Centre"," 110","Toronto",N,N,"",1,512,"Baker","","Yvan","Liberal","Libéral",Y,Y,70
+35027,"Etobicoke Centre","Etobicoke-Centre"," 110","Toronto",N,N,"",1,512,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,11
+35027,"Etobicoke Centre","Etobicoke-Centre"," 110","Toronto",N,N,"",1,512,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35027,"Etobicoke Centre","Etobicoke-Centre"," 110","Toronto",N,N,"",1,512,"Turner","","Geoffrey","Conservative","Conservateur",N,N,66
+35027,"Etobicoke Centre","Etobicoke-Centre"," 111","Toronto",N,N,"",0,450,"Baker","","Yvan","Liberal","Libéral",Y,Y,88
+35027,"Etobicoke Centre","Etobicoke-Centre"," 111","Toronto",N,N,"",0,450,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,12
+35027,"Etobicoke Centre","Etobicoke-Centre"," 111","Toronto",N,N,"",0,450,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35027,"Etobicoke Centre","Etobicoke-Centre"," 111","Toronto",N,N,"",0,450,"Turner","","Geoffrey","Conservative","Conservateur",N,N,74
+35027,"Etobicoke Centre","Etobicoke-Centre"," 112","Toronto",N,N,"",0,440,"Baker","","Yvan","Liberal","Libéral",Y,Y,80
+35027,"Etobicoke Centre","Etobicoke-Centre"," 112","Toronto",N,N,"",0,440,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,8
+35027,"Etobicoke Centre","Etobicoke-Centre"," 112","Toronto",N,N,"",0,440,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35027,"Etobicoke Centre","Etobicoke-Centre"," 112","Toronto",N,N,"",0,440,"Turner","","Geoffrey","Conservative","Conservateur",N,N,61
+35027,"Etobicoke Centre","Etobicoke-Centre"," 113","Toronto",N,N,"",1,538,"Baker","","Yvan","Liberal","Libéral",Y,Y,122
+35027,"Etobicoke Centre","Etobicoke-Centre"," 113","Toronto",N,N,"",1,538,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,10
+35027,"Etobicoke Centre","Etobicoke-Centre"," 113","Toronto",N,N,"",1,538,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35027,"Etobicoke Centre","Etobicoke-Centre"," 113","Toronto",N,N,"",1,538,"Turner","","Geoffrey","Conservative","Conservateur",N,N,105
+35027,"Etobicoke Centre","Etobicoke-Centre"," 114","Toronto",N,N,"",0,493,"Baker","","Yvan","Liberal","Libéral",Y,Y,76
+35027,"Etobicoke Centre","Etobicoke-Centre"," 114","Toronto",N,N,"",0,493,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,11
+35027,"Etobicoke Centre","Etobicoke-Centre"," 114","Toronto",N,N,"",0,493,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35027,"Etobicoke Centre","Etobicoke-Centre"," 114","Toronto",N,N,"",0,493,"Turner","","Geoffrey","Conservative","Conservateur",N,N,78
+35027,"Etobicoke Centre","Etobicoke-Centre"," 115","Toronto",N,N,"",2,445,"Baker","","Yvan","Liberal","Libéral",Y,Y,79
+35027,"Etobicoke Centre","Etobicoke-Centre"," 115","Toronto",N,N,"",2,445,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,13
+35027,"Etobicoke Centre","Etobicoke-Centre"," 115","Toronto",N,N,"",2,445,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35027,"Etobicoke Centre","Etobicoke-Centre"," 115","Toronto",N,N,"",2,445,"Turner","","Geoffrey","Conservative","Conservateur",N,N,66
+35027,"Etobicoke Centre","Etobicoke-Centre"," 116","Toronto",N,N,"",0,428,"Baker","","Yvan","Liberal","Libéral",Y,Y,67
+35027,"Etobicoke Centre","Etobicoke-Centre"," 116","Toronto",N,N,"",0,428,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,16
+35027,"Etobicoke Centre","Etobicoke-Centre"," 116","Toronto",N,N,"",0,428,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35027,"Etobicoke Centre","Etobicoke-Centre"," 116","Toronto",N,N,"",0,428,"Turner","","Geoffrey","Conservative","Conservateur",N,N,62
+35027,"Etobicoke Centre","Etobicoke-Centre"," 117","Toronto",N,N,"",0,472,"Baker","","Yvan","Liberal","Libéral",Y,Y,84
+35027,"Etobicoke Centre","Etobicoke-Centre"," 117","Toronto",N,N,"",0,472,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,8
+35027,"Etobicoke Centre","Etobicoke-Centre"," 117","Toronto",N,N,"",0,472,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35027,"Etobicoke Centre","Etobicoke-Centre"," 117","Toronto",N,N,"",0,472,"Turner","","Geoffrey","Conservative","Conservateur",N,N,67
+35027,"Etobicoke Centre","Etobicoke-Centre"," 118","Toronto",N,N,"",0,460,"Baker","","Yvan","Liberal","Libéral",Y,Y,57
+35027,"Etobicoke Centre","Etobicoke-Centre"," 118","Toronto",N,N,"",0,460,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,13
+35027,"Etobicoke Centre","Etobicoke-Centre"," 118","Toronto",N,N,"",0,460,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35027,"Etobicoke Centre","Etobicoke-Centre"," 118","Toronto",N,N,"",0,460,"Turner","","Geoffrey","Conservative","Conservateur",N,N,82
+35027,"Etobicoke Centre","Etobicoke-Centre"," 119","Toronto",N,N,"",0,420,"Baker","","Yvan","Liberal","Libéral",Y,Y,67
+35027,"Etobicoke Centre","Etobicoke-Centre"," 119","Toronto",N,N,"",0,420,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,13
+35027,"Etobicoke Centre","Etobicoke-Centre"," 119","Toronto",N,N,"",0,420,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35027,"Etobicoke Centre","Etobicoke-Centre"," 119","Toronto",N,N,"",0,420,"Turner","","Geoffrey","Conservative","Conservateur",N,N,47
+35027,"Etobicoke Centre","Etobicoke-Centre"," 120","Toronto",N,N,"",1,440,"Baker","","Yvan","Liberal","Libéral",Y,Y,74
+35027,"Etobicoke Centre","Etobicoke-Centre"," 120","Toronto",N,N,"",1,440,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,10
+35027,"Etobicoke Centre","Etobicoke-Centre"," 120","Toronto",N,N,"",1,440,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35027,"Etobicoke Centre","Etobicoke-Centre"," 120","Toronto",N,N,"",1,440,"Turner","","Geoffrey","Conservative","Conservateur",N,N,68
+35027,"Etobicoke Centre","Etobicoke-Centre"," 121","Toronto",N,N,"",0,382,"Baker","","Yvan","Liberal","Libéral",Y,Y,45
+35027,"Etobicoke Centre","Etobicoke-Centre"," 121","Toronto",N,N,"",0,382,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,6
+35027,"Etobicoke Centre","Etobicoke-Centre"," 121","Toronto",N,N,"",0,382,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35027,"Etobicoke Centre","Etobicoke-Centre"," 121","Toronto",N,N,"",0,382,"Turner","","Geoffrey","Conservative","Conservateur",N,N,62
+35027,"Etobicoke Centre","Etobicoke-Centre"," 122","Toronto",N,N,"",0,441,"Baker","","Yvan","Liberal","Libéral",Y,Y,59
+35027,"Etobicoke Centre","Etobicoke-Centre"," 122","Toronto",N,N,"",0,441,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,4
+35027,"Etobicoke Centre","Etobicoke-Centre"," 122","Toronto",N,N,"",0,441,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35027,"Etobicoke Centre","Etobicoke-Centre"," 122","Toronto",N,N,"",0,441,"Turner","","Geoffrey","Conservative","Conservateur",N,N,69
+35027,"Etobicoke Centre","Etobicoke-Centre"," 123","Toronto",N,N,"",1,449,"Baker","","Yvan","Liberal","Libéral",Y,Y,83
+35027,"Etobicoke Centre","Etobicoke-Centre"," 123","Toronto",N,N,"",1,449,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,11
+35027,"Etobicoke Centre","Etobicoke-Centre"," 123","Toronto",N,N,"",1,449,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35027,"Etobicoke Centre","Etobicoke-Centre"," 123","Toronto",N,N,"",1,449,"Turner","","Geoffrey","Conservative","Conservateur",N,N,47
+35027,"Etobicoke Centre","Etobicoke-Centre"," 124","Toronto",N,N,"",0,385,"Baker","","Yvan","Liberal","Libéral",Y,Y,64
+35027,"Etobicoke Centre","Etobicoke-Centre"," 124","Toronto",N,N,"",0,385,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,6
+35027,"Etobicoke Centre","Etobicoke-Centre"," 124","Toronto",N,N,"",0,385,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35027,"Etobicoke Centre","Etobicoke-Centre"," 124","Toronto",N,N,"",0,385,"Turner","","Geoffrey","Conservative","Conservateur",N,N,83
+35027,"Etobicoke Centre","Etobicoke-Centre"," 125","Toronto",N,N,"",2,355,"Baker","","Yvan","Liberal","Libéral",Y,Y,91
+35027,"Etobicoke Centre","Etobicoke-Centre"," 125","Toronto",N,N,"",2,355,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,4
+35027,"Etobicoke Centre","Etobicoke-Centre"," 125","Toronto",N,N,"",2,355,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35027,"Etobicoke Centre","Etobicoke-Centre"," 125","Toronto",N,N,"",2,355,"Turner","","Geoffrey","Conservative","Conservateur",N,N,9
+35027,"Etobicoke Centre","Etobicoke-Centre"," 126","Toronto",N,N,"",2,405,"Baker","","Yvan","Liberal","Libéral",Y,Y,86
+35027,"Etobicoke Centre","Etobicoke-Centre"," 126","Toronto",N,N,"",2,405,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,10
+35027,"Etobicoke Centre","Etobicoke-Centre"," 126","Toronto",N,N,"",2,405,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35027,"Etobicoke Centre","Etobicoke-Centre"," 126","Toronto",N,N,"",2,405,"Turner","","Geoffrey","Conservative","Conservateur",N,N,28
+35027,"Etobicoke Centre","Etobicoke-Centre"," 127","Toronto",N,N,"",1,351,"Baker","","Yvan","Liberal","Libéral",Y,Y,46
+35027,"Etobicoke Centre","Etobicoke-Centre"," 127","Toronto",N,N,"",1,351,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,9
+35027,"Etobicoke Centre","Etobicoke-Centre"," 127","Toronto",N,N,"",1,351,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35027,"Etobicoke Centre","Etobicoke-Centre"," 127","Toronto",N,N,"",1,351,"Turner","","Geoffrey","Conservative","Conservateur",N,N,35
+35027,"Etobicoke Centre","Etobicoke-Centre"," 128","Toronto",N,N,"",0,432,"Baker","","Yvan","Liberal","Libéral",Y,Y,67
+35027,"Etobicoke Centre","Etobicoke-Centre"," 128","Toronto",N,N,"",0,432,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,10
+35027,"Etobicoke Centre","Etobicoke-Centre"," 128","Toronto",N,N,"",0,432,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35027,"Etobicoke Centre","Etobicoke-Centre"," 128","Toronto",N,N,"",0,432,"Turner","","Geoffrey","Conservative","Conservateur",N,N,83
+35027,"Etobicoke Centre","Etobicoke-Centre"," 129","Toronto",N,N,"",3,390,"Baker","","Yvan","Liberal","Libéral",Y,Y,65
+35027,"Etobicoke Centre","Etobicoke-Centre"," 129","Toronto",N,N,"",3,390,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,5
+35027,"Etobicoke Centre","Etobicoke-Centre"," 129","Toronto",N,N,"",3,390,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35027,"Etobicoke Centre","Etobicoke-Centre"," 129","Toronto",N,N,"",3,390,"Turner","","Geoffrey","Conservative","Conservateur",N,N,46
+35027,"Etobicoke Centre","Etobicoke-Centre"," 130","Toronto",N,N,"",0,428,"Baker","","Yvan","Liberal","Libéral",Y,Y,71
+35027,"Etobicoke Centre","Etobicoke-Centre"," 130","Toronto",N,N,"",0,428,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,10
+35027,"Etobicoke Centre","Etobicoke-Centre"," 130","Toronto",N,N,"",0,428,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35027,"Etobicoke Centre","Etobicoke-Centre"," 130","Toronto",N,N,"",0,428,"Turner","","Geoffrey","Conservative","Conservateur",N,N,64
+35027,"Etobicoke Centre","Etobicoke-Centre"," 131","Toronto",N,N,"",1,447,"Baker","","Yvan","Liberal","Libéral",Y,Y,74
+35027,"Etobicoke Centre","Etobicoke-Centre"," 131","Toronto",N,N,"",1,447,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,4
+35027,"Etobicoke Centre","Etobicoke-Centre"," 131","Toronto",N,N,"",1,447,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35027,"Etobicoke Centre","Etobicoke-Centre"," 131","Toronto",N,N,"",1,447,"Turner","","Geoffrey","Conservative","Conservateur",N,N,57
+35027,"Etobicoke Centre","Etobicoke-Centre"," 132","Toronto",N,N,"",0,380,"Baker","","Yvan","Liberal","Libéral",Y,Y,43
+35027,"Etobicoke Centre","Etobicoke-Centre"," 132","Toronto",N,N,"",0,380,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,12
+35027,"Etobicoke Centre","Etobicoke-Centre"," 132","Toronto",N,N,"",0,380,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35027,"Etobicoke Centre","Etobicoke-Centre"," 132","Toronto",N,N,"",0,380,"Turner","","Geoffrey","Conservative","Conservateur",N,N,53
+35027,"Etobicoke Centre","Etobicoke-Centre"," 133","Toronto",N,N,"",0,578,"Baker","","Yvan","Liberal","Libéral",Y,Y,81
+35027,"Etobicoke Centre","Etobicoke-Centre"," 133","Toronto",N,N,"",0,578,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,10
+35027,"Etobicoke Centre","Etobicoke-Centre"," 133","Toronto",N,N,"",0,578,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35027,"Etobicoke Centre","Etobicoke-Centre"," 133","Toronto",N,N,"",0,578,"Turner","","Geoffrey","Conservative","Conservateur",N,N,43
+35027,"Etobicoke Centre","Etobicoke-Centre"," 134","Toronto",N,N,"",1,626,"Baker","","Yvan","Liberal","Libéral",Y,Y,116
+35027,"Etobicoke Centre","Etobicoke-Centre"," 134","Toronto",N,N,"",1,626,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,12
+35027,"Etobicoke Centre","Etobicoke-Centre"," 134","Toronto",N,N,"",1,626,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35027,"Etobicoke Centre","Etobicoke-Centre"," 134","Toronto",N,N,"",1,626,"Turner","","Geoffrey","Conservative","Conservateur",N,N,74
+35027,"Etobicoke Centre","Etobicoke-Centre"," 135","Toronto",N,N,"",1,412,"Baker","","Yvan","Liberal","Libéral",Y,Y,81
+35027,"Etobicoke Centre","Etobicoke-Centre"," 135","Toronto",N,N,"",1,412,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,6
+35027,"Etobicoke Centre","Etobicoke-Centre"," 135","Toronto",N,N,"",1,412,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35027,"Etobicoke Centre","Etobicoke-Centre"," 135","Toronto",N,N,"",1,412,"Turner","","Geoffrey","Conservative","Conservateur",N,N,57
+35027,"Etobicoke Centre","Etobicoke-Centre"," 136","Toronto",N,N,"",1,432,"Baker","","Yvan","Liberal","Libéral",Y,Y,74
+35027,"Etobicoke Centre","Etobicoke-Centre"," 136","Toronto",N,N,"",1,432,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,11
+35027,"Etobicoke Centre","Etobicoke-Centre"," 136","Toronto",N,N,"",1,432,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35027,"Etobicoke Centre","Etobicoke-Centre"," 136","Toronto",N,N,"",1,432,"Turner","","Geoffrey","Conservative","Conservateur",N,N,65
+35027,"Etobicoke Centre","Etobicoke-Centre"," 137","Toronto",N,N,"",2,530,"Baker","","Yvan","Liberal","Libéral",Y,Y,98
+35027,"Etobicoke Centre","Etobicoke-Centre"," 137","Toronto",N,N,"",2,530,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,3
+35027,"Etobicoke Centre","Etobicoke-Centre"," 137","Toronto",N,N,"",2,530,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35027,"Etobicoke Centre","Etobicoke-Centre"," 137","Toronto",N,N,"",2,530,"Turner","","Geoffrey","Conservative","Conservateur",N,N,50
+35027,"Etobicoke Centre","Etobicoke-Centre"," 138","Toronto",N,N,"",1,444,"Baker","","Yvan","Liberal","Libéral",Y,Y,69
+35027,"Etobicoke Centre","Etobicoke-Centre"," 138","Toronto",N,N,"",1,444,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,8
+35027,"Etobicoke Centre","Etobicoke-Centre"," 138","Toronto",N,N,"",1,444,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35027,"Etobicoke Centre","Etobicoke-Centre"," 138","Toronto",N,N,"",1,444,"Turner","","Geoffrey","Conservative","Conservateur",N,N,64
+35027,"Etobicoke Centre","Etobicoke-Centre"," 139","Toronto",N,N,"",6,445,"Baker","","Yvan","Liberal","Libéral",Y,Y,63
+35027,"Etobicoke Centre","Etobicoke-Centre"," 139","Toronto",N,N,"",6,445,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,11
+35027,"Etobicoke Centre","Etobicoke-Centre"," 139","Toronto",N,N,"",6,445,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35027,"Etobicoke Centre","Etobicoke-Centre"," 139","Toronto",N,N,"",6,445,"Turner","","Geoffrey","Conservative","Conservateur",N,N,61
+35027,"Etobicoke Centre","Etobicoke-Centre"," 140","Toronto",N,N,"",2,390,"Baker","","Yvan","Liberal","Libéral",Y,Y,63
+35027,"Etobicoke Centre","Etobicoke-Centre"," 140","Toronto",N,N,"",2,390,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,11
+35027,"Etobicoke Centre","Etobicoke-Centre"," 140","Toronto",N,N,"",2,390,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35027,"Etobicoke Centre","Etobicoke-Centre"," 140","Toronto",N,N,"",2,390,"Turner","","Geoffrey","Conservative","Conservateur",N,N,52
+35027,"Etobicoke Centre","Etobicoke-Centre"," 141","Toronto",N,N,"",1,399,"Baker","","Yvan","Liberal","Libéral",Y,Y,53
+35027,"Etobicoke Centre","Etobicoke-Centre"," 141","Toronto",N,N,"",1,399,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,2
+35027,"Etobicoke Centre","Etobicoke-Centre"," 141","Toronto",N,N,"",1,399,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35027,"Etobicoke Centre","Etobicoke-Centre"," 141","Toronto",N,N,"",1,399,"Turner","","Geoffrey","Conservative","Conservateur",N,N,45
+35027,"Etobicoke Centre","Etobicoke-Centre"," 142","Toronto",N,N,"",2,480,"Baker","","Yvan","Liberal","Libéral",Y,Y,74
+35027,"Etobicoke Centre","Etobicoke-Centre"," 142","Toronto",N,N,"",2,480,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,3
+35027,"Etobicoke Centre","Etobicoke-Centre"," 142","Toronto",N,N,"",2,480,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35027,"Etobicoke Centre","Etobicoke-Centre"," 142","Toronto",N,N,"",2,480,"Turner","","Geoffrey","Conservative","Conservateur",N,N,75
+35027,"Etobicoke Centre","Etobicoke-Centre"," 143","Toronto",N,N,"",2,391,"Baker","","Yvan","Liberal","Libéral",Y,Y,67
+35027,"Etobicoke Centre","Etobicoke-Centre"," 143","Toronto",N,N,"",2,391,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,8
+35027,"Etobicoke Centre","Etobicoke-Centre"," 143","Toronto",N,N,"",2,391,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35027,"Etobicoke Centre","Etobicoke-Centre"," 143","Toronto",N,N,"",2,391,"Turner","","Geoffrey","Conservative","Conservateur",N,N,56
+35027,"Etobicoke Centre","Etobicoke-Centre"," 144","Toronto",N,N,"",1,393,"Baker","","Yvan","Liberal","Libéral",Y,Y,68
+35027,"Etobicoke Centre","Etobicoke-Centre"," 144","Toronto",N,N,"",1,393,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,6
+35027,"Etobicoke Centre","Etobicoke-Centre"," 144","Toronto",N,N,"",1,393,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35027,"Etobicoke Centre","Etobicoke-Centre"," 144","Toronto",N,N,"",1,393,"Turner","","Geoffrey","Conservative","Conservateur",N,N,26
+35027,"Etobicoke Centre","Etobicoke-Centre"," 145","Toronto",N,N,"",0,338,"Baker","","Yvan","Liberal","Libéral",Y,Y,73
+35027,"Etobicoke Centre","Etobicoke-Centre"," 145","Toronto",N,N,"",0,338,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,9
+35027,"Etobicoke Centre","Etobicoke-Centre"," 145","Toronto",N,N,"",0,338,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35027,"Etobicoke Centre","Etobicoke-Centre"," 145","Toronto",N,N,"",0,338,"Turner","","Geoffrey","Conservative","Conservateur",N,N,52
+35027,"Etobicoke Centre","Etobicoke-Centre"," 146","Toronto",N,N,"",1,449,"Baker","","Yvan","Liberal","Libéral",Y,Y,64
+35027,"Etobicoke Centre","Etobicoke-Centre"," 146","Toronto",N,N,"",1,449,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,9
+35027,"Etobicoke Centre","Etobicoke-Centre"," 146","Toronto",N,N,"",1,449,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35027,"Etobicoke Centre","Etobicoke-Centre"," 146","Toronto",N,N,"",1,449,"Turner","","Geoffrey","Conservative","Conservateur",N,N,60
+35027,"Etobicoke Centre","Etobicoke-Centre"," 147","Toronto",N,N,"",0,357,"Baker","","Yvan","Liberal","Libéral",Y,Y,63
+35027,"Etobicoke Centre","Etobicoke-Centre"," 147","Toronto",N,N,"",0,357,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,11
+35027,"Etobicoke Centre","Etobicoke-Centre"," 147","Toronto",N,N,"",0,357,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35027,"Etobicoke Centre","Etobicoke-Centre"," 147","Toronto",N,N,"",0,357,"Turner","","Geoffrey","Conservative","Conservateur",N,N,43
+35027,"Etobicoke Centre","Etobicoke-Centre"," 148","Toronto",N,N,"",2,399,"Baker","","Yvan","Liberal","Libéral",Y,Y,57
+35027,"Etobicoke Centre","Etobicoke-Centre"," 148","Toronto",N,N,"",2,399,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,9
+35027,"Etobicoke Centre","Etobicoke-Centre"," 148","Toronto",N,N,"",2,399,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35027,"Etobicoke Centre","Etobicoke-Centre"," 148","Toronto",N,N,"",2,399,"Turner","","Geoffrey","Conservative","Conservateur",N,N,56
+35027,"Etobicoke Centre","Etobicoke-Centre"," 149","Toronto",N,N,"",1,405,"Baker","","Yvan","Liberal","Libéral",Y,Y,58
+35027,"Etobicoke Centre","Etobicoke-Centre"," 149","Toronto",N,N,"",1,405,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,12
+35027,"Etobicoke Centre","Etobicoke-Centre"," 149","Toronto",N,N,"",1,405,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35027,"Etobicoke Centre","Etobicoke-Centre"," 149","Toronto",N,N,"",1,405,"Turner","","Geoffrey","Conservative","Conservateur",N,N,46
+35027,"Etobicoke Centre","Etobicoke-Centre"," 150","Toronto",N,N,"",1,503,"Baker","","Yvan","Liberal","Libéral",Y,Y,82
+35027,"Etobicoke Centre","Etobicoke-Centre"," 150","Toronto",N,N,"",1,503,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,18
+35027,"Etobicoke Centre","Etobicoke-Centre"," 150","Toronto",N,N,"",1,503,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35027,"Etobicoke Centre","Etobicoke-Centre"," 150","Toronto",N,N,"",1,503,"Turner","","Geoffrey","Conservative","Conservateur",N,N,61
+35027,"Etobicoke Centre","Etobicoke-Centre"," 151","Toronto",N,N,"",1,460,"Baker","","Yvan","Liberal","Libéral",Y,Y,58
+35027,"Etobicoke Centre","Etobicoke-Centre"," 151","Toronto",N,N,"",1,460,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,4
+35027,"Etobicoke Centre","Etobicoke-Centre"," 151","Toronto",N,N,"",1,460,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35027,"Etobicoke Centre","Etobicoke-Centre"," 151","Toronto",N,N,"",1,460,"Turner","","Geoffrey","Conservative","Conservateur",N,N,56
+35027,"Etobicoke Centre","Etobicoke-Centre"," 152","Toronto",N,N,"",0,294,"Baker","","Yvan","Liberal","Libéral",Y,Y,29
+35027,"Etobicoke Centre","Etobicoke-Centre"," 152","Toronto",N,N,"",0,294,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,12
+35027,"Etobicoke Centre","Etobicoke-Centre"," 152","Toronto",N,N,"",0,294,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35027,"Etobicoke Centre","Etobicoke-Centre"," 152","Toronto",N,N,"",0,294,"Turner","","Geoffrey","Conservative","Conservateur",N,N,40
+35027,"Etobicoke Centre","Etobicoke-Centre"," 153","Toronto",N,N,"",2,338,"Baker","","Yvan","Liberal","Libéral",Y,Y,51
+35027,"Etobicoke Centre","Etobicoke-Centre"," 153","Toronto",N,N,"",2,338,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,6
+35027,"Etobicoke Centre","Etobicoke-Centre"," 153","Toronto",N,N,"",2,338,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35027,"Etobicoke Centre","Etobicoke-Centre"," 153","Toronto",N,N,"",2,338,"Turner","","Geoffrey","Conservative","Conservateur",N,N,32
+35027,"Etobicoke Centre","Etobicoke-Centre"," 154","Toronto",N,N,"",1,317,"Baker","","Yvan","Liberal","Libéral",Y,Y,26
+35027,"Etobicoke Centre","Etobicoke-Centre"," 154","Toronto",N,N,"",1,317,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,7
+35027,"Etobicoke Centre","Etobicoke-Centre"," 154","Toronto",N,N,"",1,317,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35027,"Etobicoke Centre","Etobicoke-Centre"," 154","Toronto",N,N,"",1,317,"Turner","","Geoffrey","Conservative","Conservateur",N,N,40
+35027,"Etobicoke Centre","Etobicoke-Centre"," 155","Toronto",N,N,"",0,412,"Baker","","Yvan","Liberal","Libéral",Y,Y,53
+35027,"Etobicoke Centre","Etobicoke-Centre"," 155","Toronto",N,N,"",0,412,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,9
+35027,"Etobicoke Centre","Etobicoke-Centre"," 155","Toronto",N,N,"",0,412,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35027,"Etobicoke Centre","Etobicoke-Centre"," 155","Toronto",N,N,"",0,412,"Turner","","Geoffrey","Conservative","Conservateur",N,N,60
+35027,"Etobicoke Centre","Etobicoke-Centre"," 156","Toronto",N,N,"",0,511,"Baker","","Yvan","Liberal","Libéral",Y,Y,77
+35027,"Etobicoke Centre","Etobicoke-Centre"," 156","Toronto",N,N,"",0,511,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,10
+35027,"Etobicoke Centre","Etobicoke-Centre"," 156","Toronto",N,N,"",0,511,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35027,"Etobicoke Centre","Etobicoke-Centre"," 156","Toronto",N,N,"",0,511,"Turner","","Geoffrey","Conservative","Conservateur",N,N,50
+35027,"Etobicoke Centre","Etobicoke-Centre"," 157","Toronto",N,N,"",0,479,"Baker","","Yvan","Liberal","Libéral",Y,Y,94
+35027,"Etobicoke Centre","Etobicoke-Centre"," 157","Toronto",N,N,"",0,479,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,9
+35027,"Etobicoke Centre","Etobicoke-Centre"," 157","Toronto",N,N,"",0,479,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35027,"Etobicoke Centre","Etobicoke-Centre"," 157","Toronto",N,N,"",0,479,"Turner","","Geoffrey","Conservative","Conservateur",N,N,69
+35027,"Etobicoke Centre","Etobicoke-Centre"," 158","Toronto",N,N,"",1,367,"Baker","","Yvan","Liberal","Libéral",Y,Y,43
+35027,"Etobicoke Centre","Etobicoke-Centre"," 158","Toronto",N,N,"",1,367,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,6
+35027,"Etobicoke Centre","Etobicoke-Centre"," 158","Toronto",N,N,"",1,367,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35027,"Etobicoke Centre","Etobicoke-Centre"," 158","Toronto",N,N,"",1,367,"Turner","","Geoffrey","Conservative","Conservateur",N,N,38
+35027,"Etobicoke Centre","Etobicoke-Centre"," 159","Toronto",N,N,"",3,421,"Baker","","Yvan","Liberal","Libéral",Y,Y,59
+35027,"Etobicoke Centre","Etobicoke-Centre"," 159","Toronto",N,N,"",3,421,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,3
+35027,"Etobicoke Centre","Etobicoke-Centre"," 159","Toronto",N,N,"",3,421,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35027,"Etobicoke Centre","Etobicoke-Centre"," 159","Toronto",N,N,"",3,421,"Turner","","Geoffrey","Conservative","Conservateur",N,N,19
+35027,"Etobicoke Centre","Etobicoke-Centre"," 160","Toronto",N,N,"",2,280,"Baker","","Yvan","Liberal","Libéral",Y,Y,45
+35027,"Etobicoke Centre","Etobicoke-Centre"," 160","Toronto",N,N,"",2,280,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,8
+35027,"Etobicoke Centre","Etobicoke-Centre"," 160","Toronto",N,N,"",2,280,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35027,"Etobicoke Centre","Etobicoke-Centre"," 160","Toronto",N,N,"",2,280,"Turner","","Geoffrey","Conservative","Conservateur",N,N,7
+35027,"Etobicoke Centre","Etobicoke-Centre"," 161","Toronto",N,N,"",1,334,"Baker","","Yvan","Liberal","Libéral",Y,Y,51
+35027,"Etobicoke Centre","Etobicoke-Centre"," 161","Toronto",N,N,"",1,334,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,5
+35027,"Etobicoke Centre","Etobicoke-Centre"," 161","Toronto",N,N,"",1,334,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35027,"Etobicoke Centre","Etobicoke-Centre"," 161","Toronto",N,N,"",1,334,"Turner","","Geoffrey","Conservative","Conservateur",N,N,14
+35027,"Etobicoke Centre","Etobicoke-Centre"," 162","Toronto",N,N,"",2,503,"Baker","","Yvan","Liberal","Libéral",Y,Y,76
+35027,"Etobicoke Centre","Etobicoke-Centre"," 162","Toronto",N,N,"",2,503,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,23
+35027,"Etobicoke Centre","Etobicoke-Centre"," 162","Toronto",N,N,"",2,503,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35027,"Etobicoke Centre","Etobicoke-Centre"," 162","Toronto",N,N,"",2,503,"Turner","","Geoffrey","Conservative","Conservateur",N,N,65
+35027,"Etobicoke Centre","Etobicoke-Centre"," 163","Toronto",N,N,"",2,369,"Baker","","Yvan","Liberal","Libéral",Y,Y,66
+35027,"Etobicoke Centre","Etobicoke-Centre"," 163","Toronto",N,N,"",2,369,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,6
+35027,"Etobicoke Centre","Etobicoke-Centre"," 163","Toronto",N,N,"",2,369,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35027,"Etobicoke Centre","Etobicoke-Centre"," 163","Toronto",N,N,"",2,369,"Turner","","Geoffrey","Conservative","Conservateur",N,N,56
+35027,"Etobicoke Centre","Etobicoke-Centre"," 164","Toronto",N,N,"",0,428,"Baker","","Yvan","Liberal","Libéral",Y,Y,60
+35027,"Etobicoke Centre","Etobicoke-Centre"," 164","Toronto",N,N,"",0,428,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,12
+35027,"Etobicoke Centre","Etobicoke-Centre"," 164","Toronto",N,N,"",0,428,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35027,"Etobicoke Centre","Etobicoke-Centre"," 164","Toronto",N,N,"",0,428,"Turner","","Geoffrey","Conservative","Conservateur",N,N,54
+35027,"Etobicoke Centre","Etobicoke-Centre"," 165","Toronto",N,N,"",3,398,"Baker","","Yvan","Liberal","Libéral",Y,Y,133
+35027,"Etobicoke Centre","Etobicoke-Centre"," 165","Toronto",N,N,"",3,398,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,16
+35027,"Etobicoke Centre","Etobicoke-Centre"," 165","Toronto",N,N,"",3,398,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35027,"Etobicoke Centre","Etobicoke-Centre"," 165","Toronto",N,N,"",3,398,"Turner","","Geoffrey","Conservative","Conservateur",N,N,79
+35027,"Etobicoke Centre","Etobicoke-Centre"," 166","Toronto",N,N,"",1,392,"Baker","","Yvan","Liberal","Libéral",Y,Y,145
+35027,"Etobicoke Centre","Etobicoke-Centre"," 166","Toronto",N,N,"",1,392,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,14
+35027,"Etobicoke Centre","Etobicoke-Centre"," 166","Toronto",N,N,"",1,392,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35027,"Etobicoke Centre","Etobicoke-Centre"," 166","Toronto",N,N,"",1,392,"Turner","","Geoffrey","Conservative","Conservateur",N,N,60
+35027,"Etobicoke Centre","Etobicoke-Centre"," 167","Toronto",N,N,"",1,392,"Baker","","Yvan","Liberal","Libéral",Y,Y,78
+35027,"Etobicoke Centre","Etobicoke-Centre"," 167","Toronto",N,N,"",1,392,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,7
+35027,"Etobicoke Centre","Etobicoke-Centre"," 167","Toronto",N,N,"",1,392,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35027,"Etobicoke Centre","Etobicoke-Centre"," 167","Toronto",N,N,"",1,392,"Turner","","Geoffrey","Conservative","Conservateur",N,N,58
+35027,"Etobicoke Centre","Etobicoke-Centre"," 168","Toronto",N,N,"",0,505,"Baker","","Yvan","Liberal","Libéral",Y,Y,89
+35027,"Etobicoke Centre","Etobicoke-Centre"," 168","Toronto",N,N,"",0,505,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,7
+35027,"Etobicoke Centre","Etobicoke-Centre"," 168","Toronto",N,N,"",0,505,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35027,"Etobicoke Centre","Etobicoke-Centre"," 168","Toronto",N,N,"",0,505,"Turner","","Geoffrey","Conservative","Conservateur",N,N,77
+35027,"Etobicoke Centre","Etobicoke-Centre"," 169","Toronto",N,N,"",3,524,"Baker","","Yvan","Liberal","Libéral",Y,Y,82
+35027,"Etobicoke Centre","Etobicoke-Centre"," 169","Toronto",N,N,"",3,524,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,18
+35027,"Etobicoke Centre","Etobicoke-Centre"," 169","Toronto",N,N,"",3,524,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35027,"Etobicoke Centre","Etobicoke-Centre"," 169","Toronto",N,N,"",3,524,"Turner","","Geoffrey","Conservative","Conservateur",N,N,72
+35027,"Etobicoke Centre","Etobicoke-Centre"," 170","Toronto",N,N,"",0,489,"Baker","","Yvan","Liberal","Libéral",Y,Y,78
+35027,"Etobicoke Centre","Etobicoke-Centre"," 170","Toronto",N,N,"",0,489,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,5
+35027,"Etobicoke Centre","Etobicoke-Centre"," 170","Toronto",N,N,"",0,489,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35027,"Etobicoke Centre","Etobicoke-Centre"," 170","Toronto",N,N,"",0,489,"Turner","","Geoffrey","Conservative","Conservateur",N,N,93
+35027,"Etobicoke Centre","Etobicoke-Centre"," 171","Toronto",N,N,"",0,457,"Baker","","Yvan","Liberal","Libéral",Y,Y,93
+35027,"Etobicoke Centre","Etobicoke-Centre"," 171","Toronto",N,N,"",0,457,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,15
+35027,"Etobicoke Centre","Etobicoke-Centre"," 171","Toronto",N,N,"",0,457,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35027,"Etobicoke Centre","Etobicoke-Centre"," 171","Toronto",N,N,"",0,457,"Turner","","Geoffrey","Conservative","Conservateur",N,N,74
+35027,"Etobicoke Centre","Etobicoke-Centre"," 172","Toronto",N,N,"",4,531,"Baker","","Yvan","Liberal","Libéral",Y,Y,71
+35027,"Etobicoke Centre","Etobicoke-Centre"," 172","Toronto",N,N,"",4,531,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,16
+35027,"Etobicoke Centre","Etobicoke-Centre"," 172","Toronto",N,N,"",4,531,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35027,"Etobicoke Centre","Etobicoke-Centre"," 172","Toronto",N,N,"",4,531,"Turner","","Geoffrey","Conservative","Conservateur",N,N,49
+35027,"Etobicoke Centre","Etobicoke-Centre"," 173","Toronto",N,N,"",0,540,"Baker","","Yvan","Liberal","Libéral",Y,Y,117
+35027,"Etobicoke Centre","Etobicoke-Centre"," 173","Toronto",N,N,"",0,540,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,14
+35027,"Etobicoke Centre","Etobicoke-Centre"," 173","Toronto",N,N,"",0,540,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35027,"Etobicoke Centre","Etobicoke-Centre"," 173","Toronto",N,N,"",0,540,"Turner","","Geoffrey","Conservative","Conservateur",N,N,82
+35027,"Etobicoke Centre","Etobicoke-Centre"," 174","Toronto",N,N,"",2,469,"Baker","","Yvan","Liberal","Libéral",Y,Y,54
+35027,"Etobicoke Centre","Etobicoke-Centre"," 174","Toronto",N,N,"",2,469,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,17
+35027,"Etobicoke Centre","Etobicoke-Centre"," 174","Toronto",N,N,"",2,469,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35027,"Etobicoke Centre","Etobicoke-Centre"," 174","Toronto",N,N,"",2,469,"Turner","","Geoffrey","Conservative","Conservateur",N,N,79
+35027,"Etobicoke Centre","Etobicoke-Centre"," 175","Toronto",N,N,"",0,566,"Baker","","Yvan","Liberal","Libéral",Y,Y,96
+35027,"Etobicoke Centre","Etobicoke-Centre"," 175","Toronto",N,N,"",0,566,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,5
+35027,"Etobicoke Centre","Etobicoke-Centre"," 175","Toronto",N,N,"",0,566,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35027,"Etobicoke Centre","Etobicoke-Centre"," 175","Toronto",N,N,"",0,566,"Turner","","Geoffrey","Conservative","Conservateur",N,N,113
+35027,"Etobicoke Centre","Etobicoke-Centre"," 176","Toronto",N,N,"",0,454,"Baker","","Yvan","Liberal","Libéral",Y,Y,80
+35027,"Etobicoke Centre","Etobicoke-Centre"," 176","Toronto",N,N,"",0,454,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,6
+35027,"Etobicoke Centre","Etobicoke-Centre"," 176","Toronto",N,N,"",0,454,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35027,"Etobicoke Centre","Etobicoke-Centre"," 176","Toronto",N,N,"",0,454,"Turner","","Geoffrey","Conservative","Conservateur",N,N,88
+35027,"Etobicoke Centre","Etobicoke-Centre"," 177","Toronto",N,N,"",0,456,"Baker","","Yvan","Liberal","Libéral",Y,Y,90
+35027,"Etobicoke Centre","Etobicoke-Centre"," 177","Toronto",N,N,"",0,456,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,12
+35027,"Etobicoke Centre","Etobicoke-Centre"," 177","Toronto",N,N,"",0,456,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35027,"Etobicoke Centre","Etobicoke-Centre"," 177","Toronto",N,N,"",0,456,"Turner","","Geoffrey","Conservative","Conservateur",N,N,66
+35027,"Etobicoke Centre","Etobicoke-Centre"," 400","Toronto",N,N,"",1,285,"Baker","","Yvan","Liberal","Libéral",Y,Y,120
+35027,"Etobicoke Centre","Etobicoke-Centre"," 400","Toronto",N,N,"",1,285,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,2
+35027,"Etobicoke Centre","Etobicoke-Centre"," 400","Toronto",N,N,"",1,285,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35027,"Etobicoke Centre","Etobicoke-Centre"," 400","Toronto",N,N,"",1,285,"Turner","","Geoffrey","Conservative","Conservateur",N,N,4
+35027,"Etobicoke Centre","Etobicoke-Centre"," 401","Toronto",N,N,"",6,163,"Baker","","Yvan","Liberal","Libéral",Y,Y,71
+35027,"Etobicoke Centre","Etobicoke-Centre"," 401","Toronto",N,N,"",6,163,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,7
+35027,"Etobicoke Centre","Etobicoke-Centre"," 401","Toronto",N,N,"",6,163,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35027,"Etobicoke Centre","Etobicoke-Centre"," 401","Toronto",N,N,"",6,163,"Turner","","Geoffrey","Conservative","Conservateur",N,N,30
+35027,"Etobicoke Centre","Etobicoke-Centre"," 402","Toronto",N,N,"",3,489,"Baker","","Yvan","Liberal","Libéral",Y,Y,130
+35027,"Etobicoke Centre","Etobicoke-Centre"," 402","Toronto",N,N,"",3,489,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,15
+35027,"Etobicoke Centre","Etobicoke-Centre"," 402","Toronto",N,N,"",3,489,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35027,"Etobicoke Centre","Etobicoke-Centre"," 402","Toronto",N,N,"",3,489,"Turner","","Geoffrey","Conservative","Conservateur",N,N,84
+35027,"Etobicoke Centre","Etobicoke-Centre"," 403","Toronto",N,N,"",2,261,"Baker","","Yvan","Liberal","Libéral",Y,Y,77
+35027,"Etobicoke Centre","Etobicoke-Centre"," 403","Toronto",N,N,"",2,261,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,12
+35027,"Etobicoke Centre","Etobicoke-Centre"," 403","Toronto",N,N,"",2,261,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35027,"Etobicoke Centre","Etobicoke-Centre"," 403","Toronto",N,N,"",2,261,"Turner","","Geoffrey","Conservative","Conservateur",N,N,58
+35027,"Etobicoke Centre","Etobicoke-Centre"," 404","Toronto",N,N,"",2,249,"Baker","","Yvan","Liberal","Libéral",Y,Y,87
+35027,"Etobicoke Centre","Etobicoke-Centre"," 404","Toronto",N,N,"",2,249,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,6
+35027,"Etobicoke Centre","Etobicoke-Centre"," 404","Toronto",N,N,"",2,249,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35027,"Etobicoke Centre","Etobicoke-Centre"," 404","Toronto",N,N,"",2,249,"Turner","","Geoffrey","Conservative","Conservateur",N,N,57
+35027,"Etobicoke Centre","Etobicoke-Centre"," 405","Toronto",N,N,"",3,419,"Baker","","Yvan","Liberal","Libéral",Y,Y,96
+35027,"Etobicoke Centre","Etobicoke-Centre"," 405","Toronto",N,N,"",3,419,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,19
+35027,"Etobicoke Centre","Etobicoke-Centre"," 405","Toronto",N,N,"",3,419,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35027,"Etobicoke Centre","Etobicoke-Centre"," 405","Toronto",N,N,"",3,419,"Turner","","Geoffrey","Conservative","Conservateur",N,N,39
+35027,"Etobicoke Centre","Etobicoke-Centre"," 406","Toronto",N,N,"",3,209,"Baker","","Yvan","Liberal","Libéral",Y,Y,72
+35027,"Etobicoke Centre","Etobicoke-Centre"," 406","Toronto",N,N,"",3,209,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,3
+35027,"Etobicoke Centre","Etobicoke-Centre"," 406","Toronto",N,N,"",3,209,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35027,"Etobicoke Centre","Etobicoke-Centre"," 406","Toronto",N,N,"",3,209,"Turner","","Geoffrey","Conservative","Conservateur",N,N,38
+35027,"Etobicoke Centre","Etobicoke-Centre"," 407","Toronto",N,N,"",5,438,"Baker","","Yvan","Liberal","Libéral",Y,Y,158
+35027,"Etobicoke Centre","Etobicoke-Centre"," 407","Toronto",N,N,"",5,438,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,15
+35027,"Etobicoke Centre","Etobicoke-Centre"," 407","Toronto",N,N,"",5,438,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35027,"Etobicoke Centre","Etobicoke-Centre"," 407","Toronto",N,N,"",5,438,"Turner","","Geoffrey","Conservative","Conservateur",N,N,75
+35027,"Etobicoke Centre","Etobicoke-Centre"," 408","Toronto",N,N,"41",0,68,"Baker","","Yvan","Liberal","Libéral",Y,Y,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 408","Toronto",N,N,"41",0,68,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 408","Toronto",N,N,"41",0,68,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 408","Toronto",N,N,"41",0,68,"Turner","","Geoffrey","Conservative","Conservateur",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 409","Toronto",N,N,"",3,329,"Baker","","Yvan","Liberal","Libéral",Y,Y,98
+35027,"Etobicoke Centre","Etobicoke-Centre"," 409","Toronto",N,N,"",3,329,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,23
+35027,"Etobicoke Centre","Etobicoke-Centre"," 409","Toronto",N,N,"",3,329,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35027,"Etobicoke Centre","Etobicoke-Centre"," 409","Toronto",N,N,"",3,329,"Turner","","Geoffrey","Conservative","Conservateur",N,N,44
+35027,"Etobicoke Centre","Etobicoke-Centre"," 410","Toronto",N,N,"",1,106,"Baker","","Yvan","Liberal","Libéral",Y,Y,20
+35027,"Etobicoke Centre","Etobicoke-Centre"," 410","Toronto",N,N,"",1,106,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,8
+35027,"Etobicoke Centre","Etobicoke-Centre"," 410","Toronto",N,N,"",1,106,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35027,"Etobicoke Centre","Etobicoke-Centre"," 410","Toronto",N,N,"",1,106,"Turner","","Geoffrey","Conservative","Conservateur",N,N,26
+35027,"Etobicoke Centre","Etobicoke-Centre"," 411","Toronto",N,N,"",1,226,"Baker","","Yvan","Liberal","Libéral",Y,Y,60
+35027,"Etobicoke Centre","Etobicoke-Centre"," 411","Toronto",N,N,"",1,226,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,12
+35027,"Etobicoke Centre","Etobicoke-Centre"," 411","Toronto",N,N,"",1,226,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35027,"Etobicoke Centre","Etobicoke-Centre"," 411","Toronto",N,N,"",1,226,"Turner","","Geoffrey","Conservative","Conservateur",N,N,47
+35027,"Etobicoke Centre","Etobicoke-Centre"," 412","Toronto",N,N,"42",0,157,"Baker","","Yvan","Liberal","Libéral",Y,Y,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 412","Toronto",N,N,"42",0,157,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 412","Toronto",N,N,"42",0,157,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 412","Toronto",N,N,"42",0,157,"Turner","","Geoffrey","Conservative","Conservateur",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 413","Toronto",N,N,"",4,316,"Baker","","Yvan","Liberal","Libéral",Y,Y,108
+35027,"Etobicoke Centre","Etobicoke-Centre"," 413","Toronto",N,N,"",4,316,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,10
+35027,"Etobicoke Centre","Etobicoke-Centre"," 413","Toronto",N,N,"",4,316,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35027,"Etobicoke Centre","Etobicoke-Centre"," 413","Toronto",N,N,"",4,316,"Turner","","Geoffrey","Conservative","Conservateur",N,N,65
+35027,"Etobicoke Centre","Etobicoke-Centre"," 414","Toronto",N,N,"52",0,250,"Baker","","Yvan","Liberal","Libéral",Y,Y,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 414","Toronto",N,N,"52",0,250,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 414","Toronto",N,N,"52",0,250,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 414","Toronto",N,N,"52",0,250,"Turner","","Geoffrey","Conservative","Conservateur",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 415","Toronto",N,N,"",7,194,"Baker","","Yvan","Liberal","Libéral",Y,Y,80
+35027,"Etobicoke Centre","Etobicoke-Centre"," 415","Toronto",N,N,"",7,194,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,2
+35027,"Etobicoke Centre","Etobicoke-Centre"," 415","Toronto",N,N,"",7,194,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35027,"Etobicoke Centre","Etobicoke-Centre"," 415","Toronto",N,N,"",7,194,"Turner","","Geoffrey","Conservative","Conservateur",N,N,42
+35027,"Etobicoke Centre","Etobicoke-Centre"," 416","Toronto",N,N,"54",0,189,"Baker","","Yvan","Liberal","Libéral",Y,Y,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 416","Toronto",N,N,"54",0,189,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 416","Toronto",N,N,"54",0,189,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 416","Toronto",N,N,"54",0,189,"Turner","","Geoffrey","Conservative","Conservateur",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 417","Toronto",N,N,"",2,438,"Baker","","Yvan","Liberal","Libéral",Y,Y,129
+35027,"Etobicoke Centre","Etobicoke-Centre"," 417","Toronto",N,N,"",2,438,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,8
+35027,"Etobicoke Centre","Etobicoke-Centre"," 417","Toronto",N,N,"",2,438,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35027,"Etobicoke Centre","Etobicoke-Centre"," 417","Toronto",N,N,"",2,438,"Turner","","Geoffrey","Conservative","Conservateur",N,N,63
+35027,"Etobicoke Centre","Etobicoke-Centre"," 418","Toronto",N,N,"",2,372,"Baker","","Yvan","Liberal","Libéral",Y,Y,121
+35027,"Etobicoke Centre","Etobicoke-Centre"," 418","Toronto",N,N,"",2,372,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,11
+35027,"Etobicoke Centre","Etobicoke-Centre"," 418","Toronto",N,N,"",2,372,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35027,"Etobicoke Centre","Etobicoke-Centre"," 418","Toronto",N,N,"",2,372,"Turner","","Geoffrey","Conservative","Conservateur",N,N,75
+35027,"Etobicoke Centre","Etobicoke-Centre"," 419","Toronto",N,N,"",1,400,"Baker","","Yvan","Liberal","Libéral",Y,Y,113
+35027,"Etobicoke Centre","Etobicoke-Centre"," 419","Toronto",N,N,"",1,400,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,14
+35027,"Etobicoke Centre","Etobicoke-Centre"," 419","Toronto",N,N,"",1,400,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+35027,"Etobicoke Centre","Etobicoke-Centre"," 419","Toronto",N,N,"",1,400,"Turner","","Geoffrey","Conservative","Conservateur",N,N,56
+35027,"Etobicoke Centre","Etobicoke-Centre"," 420","Toronto",N,N,"70",0,128,"Baker","","Yvan","Liberal","Libéral",Y,Y,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 420","Toronto",N,N,"70",0,128,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 420","Toronto",N,N,"70",0,128,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 420","Toronto",N,N,"70",0,128,"Turner","","Geoffrey","Conservative","Conservateur",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 421","Toronto",N,N,"",1,274,"Baker","","Yvan","Liberal","Libéral",Y,Y,72
+35027,"Etobicoke Centre","Etobicoke-Centre"," 421","Toronto",N,N,"",1,274,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,10
+35027,"Etobicoke Centre","Etobicoke-Centre"," 421","Toronto",N,N,"",1,274,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35027,"Etobicoke Centre","Etobicoke-Centre"," 421","Toronto",N,N,"",1,274,"Turner","","Geoffrey","Conservative","Conservateur",N,N,84
+35027,"Etobicoke Centre","Etobicoke-Centre"," 422","Toronto",N,N,"",0,392,"Baker","","Yvan","Liberal","Libéral",Y,Y,99
+35027,"Etobicoke Centre","Etobicoke-Centre"," 422","Toronto",N,N,"",0,392,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,25
+35027,"Etobicoke Centre","Etobicoke-Centre"," 422","Toronto",N,N,"",0,392,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35027,"Etobicoke Centre","Etobicoke-Centre"," 422","Toronto",N,N,"",0,392,"Turner","","Geoffrey","Conservative","Conservateur",N,N,71
+35027,"Etobicoke Centre","Etobicoke-Centre"," 423","Toronto",N,N,"",0,401,"Baker","","Yvan","Liberal","Libéral",Y,Y,138
+35027,"Etobicoke Centre","Etobicoke-Centre"," 423","Toronto",N,N,"",0,401,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,10
+35027,"Etobicoke Centre","Etobicoke-Centre"," 423","Toronto",N,N,"",0,401,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35027,"Etobicoke Centre","Etobicoke-Centre"," 423","Toronto",N,N,"",0,401,"Turner","","Geoffrey","Conservative","Conservateur",N,N,58
+35027,"Etobicoke Centre","Etobicoke-Centre"," 424","Toronto",N,N,"",0,488,"Baker","","Yvan","Liberal","Libéral",Y,Y,140
+35027,"Etobicoke Centre","Etobicoke-Centre"," 424","Toronto",N,N,"",0,488,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,19
+35027,"Etobicoke Centre","Etobicoke-Centre"," 424","Toronto",N,N,"",0,488,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35027,"Etobicoke Centre","Etobicoke-Centre"," 424","Toronto",N,N,"",0,488,"Turner","","Geoffrey","Conservative","Conservateur",N,N,55
+35027,"Etobicoke Centre","Etobicoke-Centre"," 425","Toronto",N,N,"",5,497,"Baker","","Yvan","Liberal","Libéral",Y,Y,168
+35027,"Etobicoke Centre","Etobicoke-Centre"," 425","Toronto",N,N,"",5,497,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,12
+35027,"Etobicoke Centre","Etobicoke-Centre"," 425","Toronto",N,N,"",5,497,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35027,"Etobicoke Centre","Etobicoke-Centre"," 425","Toronto",N,N,"",5,497,"Turner","","Geoffrey","Conservative","Conservateur",N,N,76
+35027,"Etobicoke Centre","Etobicoke-Centre"," 426","Toronto",N,N,"",4,489,"Baker","","Yvan","Liberal","Libéral",Y,Y,126
+35027,"Etobicoke Centre","Etobicoke-Centre"," 426","Toronto",N,N,"",4,489,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,26
+35027,"Etobicoke Centre","Etobicoke-Centre"," 426","Toronto",N,N,"",4,489,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35027,"Etobicoke Centre","Etobicoke-Centre"," 426","Toronto",N,N,"",4,489,"Turner","","Geoffrey","Conservative","Conservateur",N,N,91
+35027,"Etobicoke Centre","Etobicoke-Centre"," 427","Toronto",N,N,"",5,485,"Baker","","Yvan","Liberal","Libéral",Y,Y,169
+35027,"Etobicoke Centre","Etobicoke-Centre"," 427","Toronto",N,N,"",5,485,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,35
+35027,"Etobicoke Centre","Etobicoke-Centre"," 427","Toronto",N,N,"",5,485,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35027,"Etobicoke Centre","Etobicoke-Centre"," 427","Toronto",N,N,"",5,485,"Turner","","Geoffrey","Conservative","Conservateur",N,N,83
+35027,"Etobicoke Centre","Etobicoke-Centre"," 428","Toronto",N,N,"",1,485,"Baker","","Yvan","Liberal","Libéral",Y,Y,125
+35027,"Etobicoke Centre","Etobicoke-Centre"," 428","Toronto",N,N,"",1,485,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,18
+35027,"Etobicoke Centre","Etobicoke-Centre"," 428","Toronto",N,N,"",1,485,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35027,"Etobicoke Centre","Etobicoke-Centre"," 428","Toronto",N,N,"",1,485,"Turner","","Geoffrey","Conservative","Conservateur",N,N,71
+35027,"Etobicoke Centre","Etobicoke-Centre"," 429","Toronto",N,N,"",1,479,"Baker","","Yvan","Liberal","Libéral",Y,Y,138
+35027,"Etobicoke Centre","Etobicoke-Centre"," 429","Toronto",N,N,"",1,479,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,22
+35027,"Etobicoke Centre","Etobicoke-Centre"," 429","Toronto",N,N,"",1,479,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35027,"Etobicoke Centre","Etobicoke-Centre"," 429","Toronto",N,N,"",1,479,"Turner","","Geoffrey","Conservative","Conservateur",N,N,77
+35027,"Etobicoke Centre","Etobicoke-Centre"," 430","Toronto",N,N,"",3,490,"Baker","","Yvan","Liberal","Libéral",Y,Y,130
+35027,"Etobicoke Centre","Etobicoke-Centre"," 430","Toronto",N,N,"",3,490,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,20
+35027,"Etobicoke Centre","Etobicoke-Centre"," 430","Toronto",N,N,"",3,490,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35027,"Etobicoke Centre","Etobicoke-Centre"," 430","Toronto",N,N,"",3,490,"Turner","","Geoffrey","Conservative","Conservateur",N,N,77
+35027,"Etobicoke Centre","Etobicoke-Centre"," 431","Toronto",N,N,"",1,360,"Baker","","Yvan","Liberal","Libéral",Y,Y,71
+35027,"Etobicoke Centre","Etobicoke-Centre"," 431","Toronto",N,N,"",1,360,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,12
+35027,"Etobicoke Centre","Etobicoke-Centre"," 431","Toronto",N,N,"",1,360,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35027,"Etobicoke Centre","Etobicoke-Centre"," 431","Toronto",N,N,"",1,360,"Turner","","Geoffrey","Conservative","Conservateur",N,N,54
+35027,"Etobicoke Centre","Etobicoke-Centre"," 432","Toronto",N,N,"",5,304,"Baker","","Yvan","Liberal","Libéral",Y,Y,67
+35027,"Etobicoke Centre","Etobicoke-Centre"," 432","Toronto",N,N,"",5,304,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,8
+35027,"Etobicoke Centre","Etobicoke-Centre"," 432","Toronto",N,N,"",5,304,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35027,"Etobicoke Centre","Etobicoke-Centre"," 432","Toronto",N,N,"",5,304,"Turner","","Geoffrey","Conservative","Conservateur",N,N,72
+35027,"Etobicoke Centre","Etobicoke-Centre"," 433","Toronto",N,N,"",1,358,"Baker","","Yvan","Liberal","Libéral",Y,Y,96
+35027,"Etobicoke Centre","Etobicoke-Centre"," 433","Toronto",N,N,"",1,358,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,15
+35027,"Etobicoke Centre","Etobicoke-Centre"," 433","Toronto",N,N,"",1,358,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35027,"Etobicoke Centre","Etobicoke-Centre"," 433","Toronto",N,N,"",1,358,"Turner","","Geoffrey","Conservative","Conservateur",N,N,70
+35027,"Etobicoke Centre","Etobicoke-Centre"," 434","Toronto",N,N,"",1,263,"Baker","","Yvan","Liberal","Libéral",Y,Y,65
+35027,"Etobicoke Centre","Etobicoke-Centre"," 434","Toronto",N,N,"",1,263,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,4
+35027,"Etobicoke Centre","Etobicoke-Centre"," 434","Toronto",N,N,"",1,263,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35027,"Etobicoke Centre","Etobicoke-Centre"," 434","Toronto",N,N,"",1,263,"Turner","","Geoffrey","Conservative","Conservateur",N,N,44
+35027,"Etobicoke Centre","Etobicoke-Centre"," 435","Toronto",N,N,"",0,364,"Baker","","Yvan","Liberal","Libéral",Y,Y,75
+35027,"Etobicoke Centre","Etobicoke-Centre"," 435","Toronto",N,N,"",0,364,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,14
+35027,"Etobicoke Centre","Etobicoke-Centre"," 435","Toronto",N,N,"",0,364,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35027,"Etobicoke Centre","Etobicoke-Centre"," 435","Toronto",N,N,"",0,364,"Turner","","Geoffrey","Conservative","Conservateur",N,N,53
+35027,"Etobicoke Centre","Etobicoke-Centre"," 436","Toronto",N,N,"",4,359,"Baker","","Yvan","Liberal","Libéral",Y,Y,89
+35027,"Etobicoke Centre","Etobicoke-Centre"," 436","Toronto",N,N,"",4,359,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,6
+35027,"Etobicoke Centre","Etobicoke-Centre"," 436","Toronto",N,N,"",4,359,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35027,"Etobicoke Centre","Etobicoke-Centre"," 436","Toronto",N,N,"",4,359,"Turner","","Geoffrey","Conservative","Conservateur",N,N,73
+35027,"Etobicoke Centre","Etobicoke-Centre"," 437","Toronto",N,N,"",2,399,"Baker","","Yvan","Liberal","Libéral",Y,Y,108
+35027,"Etobicoke Centre","Etobicoke-Centre"," 437","Toronto",N,N,"",2,399,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,25
+35027,"Etobicoke Centre","Etobicoke-Centre"," 437","Toronto",N,N,"",2,399,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35027,"Etobicoke Centre","Etobicoke-Centre"," 437","Toronto",N,N,"",2,399,"Turner","","Geoffrey","Conservative","Conservateur",N,N,55
+35027,"Etobicoke Centre","Etobicoke-Centre"," 438","Toronto",N,N,"",0,429,"Baker","","Yvan","Liberal","Libéral",Y,Y,124
+35027,"Etobicoke Centre","Etobicoke-Centre"," 438","Toronto",N,N,"",0,429,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,15
+35027,"Etobicoke Centre","Etobicoke-Centre"," 438","Toronto",N,N,"",0,429,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35027,"Etobicoke Centre","Etobicoke-Centre"," 438","Toronto",N,N,"",0,429,"Turner","","Geoffrey","Conservative","Conservateur",N,N,58
+35027,"Etobicoke Centre","Etobicoke-Centre"," 439","Toronto",N,N,"",1,226,"Baker","","Yvan","Liberal","Libéral",Y,Y,14
+35027,"Etobicoke Centre","Etobicoke-Centre"," 439","Toronto",N,N,"",1,226,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,18
+35027,"Etobicoke Centre","Etobicoke-Centre"," 439","Toronto",N,N,"",1,226,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35027,"Etobicoke Centre","Etobicoke-Centre"," 439","Toronto",N,N,"",1,226,"Turner","","Geoffrey","Conservative","Conservateur",N,N,65
+35027,"Etobicoke Centre","Etobicoke-Centre"," 440","Toronto",N,N,"",1,196,"Baker","","Yvan","Liberal","Libéral",Y,Y,38
+35027,"Etobicoke Centre","Etobicoke-Centre"," 440","Toronto",N,N,"",1,196,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,19
+35027,"Etobicoke Centre","Etobicoke-Centre"," 440","Toronto",N,N,"",1,196,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35027,"Etobicoke Centre","Etobicoke-Centre"," 440","Toronto",N,N,"",1,196,"Turner","","Geoffrey","Conservative","Conservateur",N,N,42
+35027,"Etobicoke Centre","Etobicoke-Centre"," 441","Toronto",N,N,"",2,145,"Baker","","Yvan","Liberal","Libéral",Y,Y,73
+35027,"Etobicoke Centre","Etobicoke-Centre"," 441","Toronto",N,N,"",2,145,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,5
+35027,"Etobicoke Centre","Etobicoke-Centre"," 441","Toronto",N,N,"",2,145,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35027,"Etobicoke Centre","Etobicoke-Centre"," 441","Toronto",N,N,"",2,145,"Turner","","Geoffrey","Conservative","Conservateur",N,N,16
+35027,"Etobicoke Centre","Etobicoke-Centre"," 500","Mobile poll/Bureau itinérant",N,N,"127",0,105,"Baker","","Yvan","Liberal","Libéral",Y,Y,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 500","Mobile poll/Bureau itinérant",N,N,"127",0,105,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 500","Mobile poll/Bureau itinérant",N,N,"127",0,105,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 500","Mobile poll/Bureau itinérant",N,N,"127",0,105,"Turner","","Geoffrey","Conservative","Conservateur",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 501","Mobile poll/Bureau itinérant",N,N,"427",0,99,"Baker","","Yvan","Liberal","Libéral",Y,Y,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 501","Mobile poll/Bureau itinérant",N,N,"427",0,99,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 501","Mobile poll/Bureau itinérant",N,N,"427",0,99,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 501","Mobile poll/Bureau itinérant",N,N,"427",0,99,"Turner","","Geoffrey","Conservative","Conservateur",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 502","Mobile poll/Bureau itinérant",N,N,"429",0,81,"Baker","","Yvan","Liberal","Libéral",Y,Y,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 502","Mobile poll/Bureau itinérant",N,N,"429",0,81,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 502","Mobile poll/Bureau itinérant",N,N,"429",0,81,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 502","Mobile poll/Bureau itinérant",N,N,"429",0,81,"Turner","","Geoffrey","Conservative","Conservateur",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 503","Mobile poll/Bureau itinérant",N,N,"174",0,67,"Baker","","Yvan","Liberal","Libéral",Y,Y,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 503","Mobile poll/Bureau itinérant",N,N,"174",0,67,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 503","Mobile poll/Bureau itinérant",N,N,"174",0,67,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 503","Mobile poll/Bureau itinérant",N,N,"174",0,67,"Turner","","Geoffrey","Conservative","Conservateur",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 504","Mobile poll/Bureau itinérant",N,N,"17",0,18,"Baker","","Yvan","Liberal","Libéral",Y,Y,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 504","Mobile poll/Bureau itinérant",N,N,"17",0,18,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 504","Mobile poll/Bureau itinérant",N,N,"17",0,18,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 504","Mobile poll/Bureau itinérant",N,N,"17",0,18,"Turner","","Geoffrey","Conservative","Conservateur",N,N,0
+35027,"Etobicoke Centre","Etobicoke-Centre"," 600","Toronto",N,N,"",5,0,"Baker","","Yvan","Liberal","Libéral",Y,Y,470
+35027,"Etobicoke Centre","Etobicoke-Centre"," 600","Toronto",N,N,"",5,0,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,57
+35027,"Etobicoke Centre","Etobicoke-Centre"," 600","Toronto",N,N,"",5,0,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+35027,"Etobicoke Centre","Etobicoke-Centre"," 600","Toronto",N,N,"",5,0,"Turner","","Geoffrey","Conservative","Conservateur",N,N,308
+35027,"Etobicoke Centre","Etobicoke-Centre"," 601","Toronto",N,N,"",3,0,"Baker","","Yvan","Liberal","Libéral",Y,Y,340
+35027,"Etobicoke Centre","Etobicoke-Centre"," 601","Toronto",N,N,"",3,0,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,56
+35027,"Etobicoke Centre","Etobicoke-Centre"," 601","Toronto",N,N,"",3,0,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+35027,"Etobicoke Centre","Etobicoke-Centre"," 601","Toronto",N,N,"",3,0,"Turner","","Geoffrey","Conservative","Conservateur",N,N,241
+35027,"Etobicoke Centre","Etobicoke-Centre"," 602","Toronto",N,N,"",22,0,"Baker","","Yvan","Liberal","Libéral",Y,Y,842
+35027,"Etobicoke Centre","Etobicoke-Centre"," 602","Toronto",N,N,"",22,0,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,79
+35027,"Etobicoke Centre","Etobicoke-Centre"," 602","Toronto",N,N,"",22,0,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,119
+35027,"Etobicoke Centre","Etobicoke-Centre"," 602","Toronto",N,N,"",22,0,"Turner","","Geoffrey","Conservative","Conservateur",N,N,667
+35027,"Etobicoke Centre","Etobicoke-Centre"," 603","Toronto",N,N,"",11,0,"Baker","","Yvan","Liberal","Libéral",Y,Y,579
+35027,"Etobicoke Centre","Etobicoke-Centre"," 603","Toronto",N,N,"",11,0,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,84
+35027,"Etobicoke Centre","Etobicoke-Centre"," 603","Toronto",N,N,"",11,0,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,124
+35027,"Etobicoke Centre","Etobicoke-Centre"," 603","Toronto",N,N,"",11,0,"Turner","","Geoffrey","Conservative","Conservateur",N,N,301
+35027,"Etobicoke Centre","Etobicoke-Centre"," 604","Toronto",N,N,"",6,0,"Baker","","Yvan","Liberal","Libéral",Y,Y,595
+35027,"Etobicoke Centre","Etobicoke-Centre"," 604","Toronto",N,N,"",6,0,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,71
+35027,"Etobicoke Centre","Etobicoke-Centre"," 604","Toronto",N,N,"",6,0,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,103
+35027,"Etobicoke Centre","Etobicoke-Centre"," 604","Toronto",N,N,"",6,0,"Turner","","Geoffrey","Conservative","Conservateur",N,N,385
+35027,"Etobicoke Centre","Etobicoke-Centre"," 605","Toronto",N,N,"",4,0,"Baker","","Yvan","Liberal","Libéral",Y,Y,579
+35027,"Etobicoke Centre","Etobicoke-Centre"," 605","Toronto",N,N,"",4,0,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,43
+35027,"Etobicoke Centre","Etobicoke-Centre"," 605","Toronto",N,N,"",4,0,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+35027,"Etobicoke Centre","Etobicoke-Centre"," 605","Toronto",N,N,"",4,0,"Turner","","Geoffrey","Conservative","Conservateur",N,N,443
+35027,"Etobicoke Centre","Etobicoke-Centre"," 606","Toronto",N,N,"",11,0,"Baker","","Yvan","Liberal","Libéral",Y,Y,492
+35027,"Etobicoke Centre","Etobicoke-Centre"," 606","Toronto",N,N,"",11,0,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,718
+35027,"Etobicoke Centre","Etobicoke-Centre"," 606","Toronto",N,N,"",11,0,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35027,"Etobicoke Centre","Etobicoke-Centre"," 606","Toronto",N,N,"",11,0,"Turner","","Geoffrey","Conservative","Conservateur",N,N,84
+35027,"Etobicoke Centre","Etobicoke-Centre"," 607","Toronto",N,N,"",8,0,"Baker","","Yvan","Liberal","Libéral",Y,Y,432
+35027,"Etobicoke Centre","Etobicoke-Centre"," 607","Toronto",N,N,"",8,0,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,34
+35027,"Etobicoke Centre","Etobicoke-Centre"," 607","Toronto",N,N,"",8,0,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+35027,"Etobicoke Centre","Etobicoke-Centre"," 607","Toronto",N,N,"",8,0,"Turner","","Geoffrey","Conservative","Conservateur",N,N,488
+35027,"Etobicoke Centre","Etobicoke-Centre"," 608","Toronto",N,N,"",5,0,"Baker","","Yvan","Liberal","Libéral",Y,Y,692
+35027,"Etobicoke Centre","Etobicoke-Centre"," 608","Toronto",N,N,"",5,0,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,50
+35027,"Etobicoke Centre","Etobicoke-Centre"," 608","Toronto",N,N,"",5,0,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,92
+35027,"Etobicoke Centre","Etobicoke-Centre"," 608","Toronto",N,N,"",5,0,"Turner","","Geoffrey","Conservative","Conservateur",N,N,664
+35027,"Etobicoke Centre","Etobicoke-Centre"," 609","Toronto",N,N,"",11,0,"Baker","","Yvan","Liberal","Libéral",Y,Y,449
+35027,"Etobicoke Centre","Etobicoke-Centre"," 609","Toronto",N,N,"",11,0,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,48
+35027,"Etobicoke Centre","Etobicoke-Centre"," 609","Toronto",N,N,"",11,0,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,84
+35027,"Etobicoke Centre","Etobicoke-Centre"," 609","Toronto",N,N,"",11,0,"Turner","","Geoffrey","Conservative","Conservateur",N,N,364
+35027,"Etobicoke Centre","Etobicoke-Centre"," 610","Toronto",N,N,"",3,0,"Baker","","Yvan","Liberal","Libéral",Y,Y,306
+35027,"Etobicoke Centre","Etobicoke-Centre"," 610","Toronto",N,N,"",3,0,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,46
+35027,"Etobicoke Centre","Etobicoke-Centre"," 610","Toronto",N,N,"",3,0,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35027,"Etobicoke Centre","Etobicoke-Centre"," 610","Toronto",N,N,"",3,0,"Turner","","Geoffrey","Conservative","Conservateur",N,N,214
+35027,"Etobicoke Centre","Etobicoke-Centre"," 611","Toronto",N,N,"",18,0,"Baker","","Yvan","Liberal","Libéral",Y,Y,688
+35027,"Etobicoke Centre","Etobicoke-Centre"," 611","Toronto",N,N,"",18,0,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,71
+35027,"Etobicoke Centre","Etobicoke-Centre"," 611","Toronto",N,N,"",18,0,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,123
+35027,"Etobicoke Centre","Etobicoke-Centre"," 611","Toronto",N,N,"",18,0,"Turner","","Geoffrey","Conservative","Conservateur",N,N,497
+35027,"Etobicoke Centre","Etobicoke-Centre"," 612","Toronto",N,N,"",3,0,"Baker","","Yvan","Liberal","Libéral",Y,Y,475
+35027,"Etobicoke Centre","Etobicoke-Centre"," 612","Toronto",N,N,"",3,0,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,64
+35027,"Etobicoke Centre","Etobicoke-Centre"," 612","Toronto",N,N,"",3,0,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,79
+35027,"Etobicoke Centre","Etobicoke-Centre"," 612","Toronto",N,N,"",3,0,"Turner","","Geoffrey","Conservative","Conservateur",N,N,279
+35027,"Etobicoke Centre","Etobicoke-Centre"," 613","Toronto",N,N,"",5,0,"Baker","","Yvan","Liberal","Libéral",Y,Y,501
+35027,"Etobicoke Centre","Etobicoke-Centre"," 613","Toronto",N,N,"",5,0,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,52
+35027,"Etobicoke Centre","Etobicoke-Centre"," 613","Toronto",N,N,"",5,0,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+35027,"Etobicoke Centre","Etobicoke-Centre"," 613","Toronto",N,N,"",5,0,"Turner","","Geoffrey","Conservative","Conservateur",N,N,302
+35027,"Etobicoke Centre","Etobicoke-Centre"," 614","Toronto",N,N,"",3,0,"Baker","","Yvan","Liberal","Libéral",Y,Y,408
+35027,"Etobicoke Centre","Etobicoke-Centre"," 614","Toronto",N,N,"",3,0,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,34
+35027,"Etobicoke Centre","Etobicoke-Centre"," 614","Toronto",N,N,"",3,0,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35027,"Etobicoke Centre","Etobicoke-Centre"," 614","Toronto",N,N,"",3,0,"Turner","","Geoffrey","Conservative","Conservateur",N,N,325
+35027,"Etobicoke Centre","Etobicoke-Centre"," 615","Toronto",N,N,"",10,0,"Baker","","Yvan","Liberal","Libéral",Y,Y,485
+35027,"Etobicoke Centre","Etobicoke-Centre"," 615","Toronto",N,N,"",10,0,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,58
+35027,"Etobicoke Centre","Etobicoke-Centre"," 615","Toronto",N,N,"",10,0,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,115
+35027,"Etobicoke Centre","Etobicoke-Centre"," 615","Toronto",N,N,"",10,0,"Turner","","Geoffrey","Conservative","Conservateur",N,N,241
+35027,"Etobicoke Centre","Etobicoke-Centre"," 616","Toronto",N,N,"",13,0,"Baker","","Yvan","Liberal","Libéral",Y,Y,638
+35027,"Etobicoke Centre","Etobicoke-Centre"," 616","Toronto",N,N,"",13,0,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,79
+35027,"Etobicoke Centre","Etobicoke-Centre"," 616","Toronto",N,N,"",13,0,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,120
+35027,"Etobicoke Centre","Etobicoke-Centre"," 616","Toronto",N,N,"",13,0,"Turner","","Geoffrey","Conservative","Conservateur",N,N,604
+35027,"Etobicoke Centre","Etobicoke-Centre"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",30,307,"Baker","","Yvan","Liberal","Libéral",Y,Y,309
+35027,"Etobicoke Centre","Etobicoke-Centre"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",30,307,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,21
+35027,"Etobicoke Centre","Etobicoke-Centre"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",30,307,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,86
+35027,"Etobicoke Centre","Etobicoke-Centre"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",30,307,"Turner","","Geoffrey","Conservative","Conservateur",N,N,206
+35027,"Etobicoke Centre","Etobicoke-Centre"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",91,0,"Baker","","Yvan","Liberal","Libéral",Y,Y,2090
+35027,"Etobicoke Centre","Etobicoke-Centre"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",91,0,"Cormier","","Maurice","People's Party - PPC","Parti populaire - PPC",N,N,198
+35027,"Etobicoke Centre","Etobicoke-Centre"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",91,0,"Da silva","","Ashley","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,265
+35027,"Etobicoke Centre","Etobicoke-Centre"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",91,0,"Turner","","Geoffrey","Conservative","Conservateur",N,N,969

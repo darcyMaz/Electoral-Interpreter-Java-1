@@ -1,0 +1,961 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+35062,"Mississauga--Malton","Mississauga--Malton"," 1","Mississauga",N,N,"",0,402,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35062,"Mississauga--Malton","Mississauga--Malton"," 1","Mississauga",N,N,"",0,402,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 1","Mississauga",N,N,"",0,402,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 1","Mississauga",N,N,"",0,402,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,72
+35062,"Mississauga--Malton","Mississauga--Malton"," 1","Mississauga",N,N,"",0,402,"Roach","","Clyde","Conservative","Conservateur",N,N,22
+35062,"Mississauga--Malton","Mississauga--Malton"," 2","Mississauga",N,N,"",1,528,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35062,"Mississauga--Malton","Mississauga--Malton"," 2","Mississauga",N,N,"",1,528,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 2","Mississauga",N,N,"",1,528,"Davidson","","Mark","Green Party","Parti Vert",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 2","Mississauga",N,N,"",1,528,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,77
+35062,"Mississauga--Malton","Mississauga--Malton"," 2","Mississauga",N,N,"",1,528,"Roach","","Clyde","Conservative","Conservateur",N,N,35
+35062,"Mississauga--Malton","Mississauga--Malton"," 3","Mississauga",N,N,"",4,490,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35062,"Mississauga--Malton","Mississauga--Malton"," 3","Mississauga",N,N,"",4,490,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 3","Mississauga",N,N,"",4,490,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 3","Mississauga",N,N,"",4,490,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,84
+35062,"Mississauga--Malton","Mississauga--Malton"," 3","Mississauga",N,N,"",4,490,"Roach","","Clyde","Conservative","Conservateur",N,N,15
+35062,"Mississauga--Malton","Mississauga--Malton"," 4","Mississauga",N,N,"",2,531,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35062,"Mississauga--Malton","Mississauga--Malton"," 4","Mississauga",N,N,"",2,531,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 4","Mississauga",N,N,"",2,531,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 4","Mississauga",N,N,"",2,531,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,71
+35062,"Mississauga--Malton","Mississauga--Malton"," 4","Mississauga",N,N,"",2,531,"Roach","","Clyde","Conservative","Conservateur",N,N,26
+35062,"Mississauga--Malton","Mississauga--Malton"," 5","Mississauga",N,N,"",4,370,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35062,"Mississauga--Malton","Mississauga--Malton"," 5","Mississauga",N,N,"",4,370,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 5","Mississauga",N,N,"",4,370,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 5","Mississauga",N,N,"",4,370,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,57
+35062,"Mississauga--Malton","Mississauga--Malton"," 5","Mississauga",N,N,"",4,370,"Roach","","Clyde","Conservative","Conservateur",N,N,21
+35062,"Mississauga--Malton","Mississauga--Malton"," 6","Mississauga",N,N,"",4,547,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35062,"Mississauga--Malton","Mississauga--Malton"," 6","Mississauga",N,N,"",4,547,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 6","Mississauga",N,N,"",4,547,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 6","Mississauga",N,N,"",4,547,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,113
+35062,"Mississauga--Malton","Mississauga--Malton"," 6","Mississauga",N,N,"",4,547,"Roach","","Clyde","Conservative","Conservateur",N,N,32
+35062,"Mississauga--Malton","Mississauga--Malton"," 7","Mississauga",N,N,"",0,347,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35062,"Mississauga--Malton","Mississauga--Malton"," 7","Mississauga",N,N,"",0,347,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 7","Mississauga",N,N,"",0,347,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 7","Mississauga",N,N,"",0,347,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,83
+35062,"Mississauga--Malton","Mississauga--Malton"," 7","Mississauga",N,N,"",0,347,"Roach","","Clyde","Conservative","Conservateur",N,N,25
+35062,"Mississauga--Malton","Mississauga--Malton"," 8","Mississauga",N,N,"",2,339,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35062,"Mississauga--Malton","Mississauga--Malton"," 8","Mississauga",N,N,"",2,339,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 8","Mississauga",N,N,"",2,339,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 8","Mississauga",N,N,"",2,339,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,61
+35062,"Mississauga--Malton","Mississauga--Malton"," 8","Mississauga",N,N,"",2,339,"Roach","","Clyde","Conservative","Conservateur",N,N,31
+35062,"Mississauga--Malton","Mississauga--Malton"," 9","Mississauga",N,N,"",2,374,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35062,"Mississauga--Malton","Mississauga--Malton"," 9","Mississauga",N,N,"",2,374,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,4
+35062,"Mississauga--Malton","Mississauga--Malton"," 9","Mississauga",N,N,"",2,374,"Davidson","","Mark","Green Party","Parti Vert",N,N,6
+35062,"Mississauga--Malton","Mississauga--Malton"," 9","Mississauga",N,N,"",2,374,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,62
+35062,"Mississauga--Malton","Mississauga--Malton"," 9","Mississauga",N,N,"",2,374,"Roach","","Clyde","Conservative","Conservateur",N,N,21
+35062,"Mississauga--Malton","Mississauga--Malton"," 10","Mississauga",N,N,"",3,401,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35062,"Mississauga--Malton","Mississauga--Malton"," 10","Mississauga",N,N,"",3,401,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 10","Mississauga",N,N,"",3,401,"Davidson","","Mark","Green Party","Parti Vert",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 10","Mississauga",N,N,"",3,401,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,92
+35062,"Mississauga--Malton","Mississauga--Malton"," 10","Mississauga",N,N,"",3,401,"Roach","","Clyde","Conservative","Conservateur",N,N,23
+35062,"Mississauga--Malton","Mississauga--Malton"," 11","Mississauga",N,N,"",3,343,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35062,"Mississauga--Malton","Mississauga--Malton"," 11","Mississauga",N,N,"",3,343,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 11","Mississauga",N,N,"",3,343,"Davidson","","Mark","Green Party","Parti Vert",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 11","Mississauga",N,N,"",3,343,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,35
+35062,"Mississauga--Malton","Mississauga--Malton"," 11","Mississauga",N,N,"",3,343,"Roach","","Clyde","Conservative","Conservateur",N,N,23
+35062,"Mississauga--Malton","Mississauga--Malton"," 12","Mississauga",N,N,"",0,303,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35062,"Mississauga--Malton","Mississauga--Malton"," 12","Mississauga",N,N,"",0,303,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 12","Mississauga",N,N,"",0,303,"Davidson","","Mark","Green Party","Parti Vert",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 12","Mississauga",N,N,"",0,303,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,47
+35062,"Mississauga--Malton","Mississauga--Malton"," 12","Mississauga",N,N,"",0,303,"Roach","","Clyde","Conservative","Conservateur",N,N,27
+35062,"Mississauga--Malton","Mississauga--Malton"," 13","Mississauga",N,N,"",0,513,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35062,"Mississauga--Malton","Mississauga--Malton"," 13","Mississauga",N,N,"",0,513,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 13","Mississauga",N,N,"",0,513,"Davidson","","Mark","Green Party","Parti Vert",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 13","Mississauga",N,N,"",0,513,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,39
+35062,"Mississauga--Malton","Mississauga--Malton"," 13","Mississauga",N,N,"",0,513,"Roach","","Clyde","Conservative","Conservateur",N,N,15
+35062,"Mississauga--Malton","Mississauga--Malton"," 14","Mississauga",N,N,"",1,385,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35062,"Mississauga--Malton","Mississauga--Malton"," 14","Mississauga",N,N,"",1,385,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 14","Mississauga",N,N,"",1,385,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 14","Mississauga",N,N,"",1,385,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,83
+35062,"Mississauga--Malton","Mississauga--Malton"," 14","Mississauga",N,N,"",1,385,"Roach","","Clyde","Conservative","Conservateur",N,N,21
+35062,"Mississauga--Malton","Mississauga--Malton"," 15","Mississauga",N,N,"",0,336,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35062,"Mississauga--Malton","Mississauga--Malton"," 15","Mississauga",N,N,"",0,336,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 15","Mississauga",N,N,"",0,336,"Davidson","","Mark","Green Party","Parti Vert",N,N,4
+35062,"Mississauga--Malton","Mississauga--Malton"," 15","Mississauga",N,N,"",0,336,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,73
+35062,"Mississauga--Malton","Mississauga--Malton"," 15","Mississauga",N,N,"",0,336,"Roach","","Clyde","Conservative","Conservateur",N,N,14
+35062,"Mississauga--Malton","Mississauga--Malton"," 16","Mississauga",N,N,"",2,301,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35062,"Mississauga--Malton","Mississauga--Malton"," 16","Mississauga",N,N,"",2,301,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 16","Mississauga",N,N,"",2,301,"Davidson","","Mark","Green Party","Parti Vert",N,N,4
+35062,"Mississauga--Malton","Mississauga--Malton"," 16","Mississauga",N,N,"",2,301,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,60
+35062,"Mississauga--Malton","Mississauga--Malton"," 16","Mississauga",N,N,"",2,301,"Roach","","Clyde","Conservative","Conservateur",N,N,18
+35062,"Mississauga--Malton","Mississauga--Malton"," 17","Mississauga",N,N,"",0,324,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35062,"Mississauga--Malton","Mississauga--Malton"," 17","Mississauga",N,N,"",0,324,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 17","Mississauga",N,N,"",0,324,"Davidson","","Mark","Green Party","Parti Vert",N,N,5
+35062,"Mississauga--Malton","Mississauga--Malton"," 17","Mississauga",N,N,"",0,324,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,45
+35062,"Mississauga--Malton","Mississauga--Malton"," 17","Mississauga",N,N,"",0,324,"Roach","","Clyde","Conservative","Conservateur",N,N,19
+35062,"Mississauga--Malton","Mississauga--Malton"," 18","Mississauga",N,N,"",4,378,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35062,"Mississauga--Malton","Mississauga--Malton"," 18","Mississauga",N,N,"",4,378,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 18","Mississauga",N,N,"",4,378,"Davidson","","Mark","Green Party","Parti Vert",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 18","Mississauga",N,N,"",4,378,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,55
+35062,"Mississauga--Malton","Mississauga--Malton"," 18","Mississauga",N,N,"",4,378,"Roach","","Clyde","Conservative","Conservateur",N,N,22
+35062,"Mississauga--Malton","Mississauga--Malton"," 19","Mississauga",N,N,"",0,333,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35062,"Mississauga--Malton","Mississauga--Malton"," 19","Mississauga",N,N,"",0,333,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 19","Mississauga",N,N,"",0,333,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 19","Mississauga",N,N,"",0,333,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,69
+35062,"Mississauga--Malton","Mississauga--Malton"," 19","Mississauga",N,N,"",0,333,"Roach","","Clyde","Conservative","Conservateur",N,N,18
+35062,"Mississauga--Malton","Mississauga--Malton"," 20","Mississauga",N,N,"",0,389,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35062,"Mississauga--Malton","Mississauga--Malton"," 20","Mississauga",N,N,"",0,389,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 20","Mississauga",N,N,"",0,389,"Davidson","","Mark","Green Party","Parti Vert",N,N,5
+35062,"Mississauga--Malton","Mississauga--Malton"," 20","Mississauga",N,N,"",0,389,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,63
+35062,"Mississauga--Malton","Mississauga--Malton"," 20","Mississauga",N,N,"",0,389,"Roach","","Clyde","Conservative","Conservateur",N,N,27
+35062,"Mississauga--Malton","Mississauga--Malton"," 21","Mississauga",N,N,"",1,304,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35062,"Mississauga--Malton","Mississauga--Malton"," 21","Mississauga",N,N,"",1,304,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 21","Mississauga",N,N,"",1,304,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 21","Mississauga",N,N,"",1,304,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,68
+35062,"Mississauga--Malton","Mississauga--Malton"," 21","Mississauga",N,N,"",1,304,"Roach","","Clyde","Conservative","Conservateur",N,N,25
+35062,"Mississauga--Malton","Mississauga--Malton"," 22","Mississauga",N,N,"",0,384,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35062,"Mississauga--Malton","Mississauga--Malton"," 22","Mississauga",N,N,"",0,384,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 22","Mississauga",N,N,"",0,384,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 22","Mississauga",N,N,"",0,384,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,81
+35062,"Mississauga--Malton","Mississauga--Malton"," 22","Mississauga",N,N,"",0,384,"Roach","","Clyde","Conservative","Conservateur",N,N,23
+35062,"Mississauga--Malton","Mississauga--Malton"," 23","Mississauga",N,N,"",2,491,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35062,"Mississauga--Malton","Mississauga--Malton"," 23","Mississauga",N,N,"",2,491,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 23","Mississauga",N,N,"",2,491,"Davidson","","Mark","Green Party","Parti Vert",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 23","Mississauga",N,N,"",2,491,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,95
+35062,"Mississauga--Malton","Mississauga--Malton"," 23","Mississauga",N,N,"",2,491,"Roach","","Clyde","Conservative","Conservateur",N,N,54
+35062,"Mississauga--Malton","Mississauga--Malton"," 24","Mississauga",N,N,"",8,323,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35062,"Mississauga--Malton","Mississauga--Malton"," 24","Mississauga",N,N,"",8,323,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 24","Mississauga",N,N,"",8,323,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 24","Mississauga",N,N,"",8,323,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,80
+35062,"Mississauga--Malton","Mississauga--Malton"," 24","Mississauga",N,N,"",8,323,"Roach","","Clyde","Conservative","Conservateur",N,N,22
+35062,"Mississauga--Malton","Mississauga--Malton"," 25","Mississauga",N,N,"",1,373,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35062,"Mississauga--Malton","Mississauga--Malton"," 25","Mississauga",N,N,"",1,373,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 25","Mississauga",N,N,"",1,373,"Davidson","","Mark","Green Party","Parti Vert",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 25","Mississauga",N,N,"",1,373,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,44
+35062,"Mississauga--Malton","Mississauga--Malton"," 25","Mississauga",N,N,"",1,373,"Roach","","Clyde","Conservative","Conservateur",N,N,6
+35062,"Mississauga--Malton","Mississauga--Malton"," 26","Mississauga",N,N,"",4,442,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35062,"Mississauga--Malton","Mississauga--Malton"," 26","Mississauga",N,N,"",4,442,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 26","Mississauga",N,N,"",4,442,"Davidson","","Mark","Green Party","Parti Vert",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 26","Mississauga",N,N,"",4,442,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,83
+35062,"Mississauga--Malton","Mississauga--Malton"," 26","Mississauga",N,N,"",4,442,"Roach","","Clyde","Conservative","Conservateur",N,N,38
+35062,"Mississauga--Malton","Mississauga--Malton"," 27","Mississauga",N,N,"",3,568,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35062,"Mississauga--Malton","Mississauga--Malton"," 27","Mississauga",N,N,"",3,568,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 27","Mississauga",N,N,"",3,568,"Davidson","","Mark","Green Party","Parti Vert",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 27","Mississauga",N,N,"",3,568,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,75
+35062,"Mississauga--Malton","Mississauga--Malton"," 27","Mississauga",N,N,"",3,568,"Roach","","Clyde","Conservative","Conservateur",N,N,18
+35062,"Mississauga--Malton","Mississauga--Malton"," 28","Mississauga",N,N,"",0,479,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35062,"Mississauga--Malton","Mississauga--Malton"," 28","Mississauga",N,N,"",0,479,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 28","Mississauga",N,N,"",0,479,"Davidson","","Mark","Green Party","Parti Vert",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 28","Mississauga",N,N,"",0,479,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,72
+35062,"Mississauga--Malton","Mississauga--Malton"," 28","Mississauga",N,N,"",0,479,"Roach","","Clyde","Conservative","Conservateur",N,N,20
+35062,"Mississauga--Malton","Mississauga--Malton"," 29","Mississauga",N,N,"",1,489,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35062,"Mississauga--Malton","Mississauga--Malton"," 29","Mississauga",N,N,"",1,489,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 29","Mississauga",N,N,"",1,489,"Davidson","","Mark","Green Party","Parti Vert",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 29","Mississauga",N,N,"",1,489,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,56
+35062,"Mississauga--Malton","Mississauga--Malton"," 29","Mississauga",N,N,"",1,489,"Roach","","Clyde","Conservative","Conservateur",N,N,21
+35062,"Mississauga--Malton","Mississauga--Malton"," 30","Mississauga",N,N,"",4,530,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35062,"Mississauga--Malton","Mississauga--Malton"," 30","Mississauga",N,N,"",4,530,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 30","Mississauga",N,N,"",4,530,"Davidson","","Mark","Green Party","Parti Vert",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 30","Mississauga",N,N,"",4,530,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,116
+35062,"Mississauga--Malton","Mississauga--Malton"," 30","Mississauga",N,N,"",4,530,"Roach","","Clyde","Conservative","Conservateur",N,N,28
+35062,"Mississauga--Malton","Mississauga--Malton"," 31","Mississauga",N,N,"",4,515,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35062,"Mississauga--Malton","Mississauga--Malton"," 31","Mississauga",N,N,"",4,515,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 31","Mississauga",N,N,"",4,515,"Davidson","","Mark","Green Party","Parti Vert",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 31","Mississauga",N,N,"",4,515,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,63
+35062,"Mississauga--Malton","Mississauga--Malton"," 31","Mississauga",N,N,"",4,515,"Roach","","Clyde","Conservative","Conservateur",N,N,24
+35062,"Mississauga--Malton","Mississauga--Malton"," 32","Mississauga",N,N,"",3,555,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35062,"Mississauga--Malton","Mississauga--Malton"," 32","Mississauga",N,N,"",3,555,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 32","Mississauga",N,N,"",3,555,"Davidson","","Mark","Green Party","Parti Vert",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 32","Mississauga",N,N,"",3,555,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,110
+35062,"Mississauga--Malton","Mississauga--Malton"," 32","Mississauga",N,N,"",3,555,"Roach","","Clyde","Conservative","Conservateur",N,N,23
+35062,"Mississauga--Malton","Mississauga--Malton"," 33","Mississauga",N,N,"",5,387,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35062,"Mississauga--Malton","Mississauga--Malton"," 33","Mississauga",N,N,"",5,387,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 33","Mississauga",N,N,"",5,387,"Davidson","","Mark","Green Party","Parti Vert",N,N,5
+35062,"Mississauga--Malton","Mississauga--Malton"," 33","Mississauga",N,N,"",5,387,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,93
+35062,"Mississauga--Malton","Mississauga--Malton"," 33","Mississauga",N,N,"",5,387,"Roach","","Clyde","Conservative","Conservateur",N,N,26
+35062,"Mississauga--Malton","Mississauga--Malton"," 34","Mississauga",N,N,"",3,382,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35062,"Mississauga--Malton","Mississauga--Malton"," 34","Mississauga",N,N,"",3,382,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 34","Mississauga",N,N,"",3,382,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 34","Mississauga",N,N,"",3,382,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,106
+35062,"Mississauga--Malton","Mississauga--Malton"," 34","Mississauga",N,N,"",3,382,"Roach","","Clyde","Conservative","Conservateur",N,N,22
+35062,"Mississauga--Malton","Mississauga--Malton"," 35","Mississauga",N,N,"",0,360,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35062,"Mississauga--Malton","Mississauga--Malton"," 35","Mississauga",N,N,"",0,360,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 35","Mississauga",N,N,"",0,360,"Davidson","","Mark","Green Party","Parti Vert",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 35","Mississauga",N,N,"",0,360,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,108
+35062,"Mississauga--Malton","Mississauga--Malton"," 35","Mississauga",N,N,"",0,360,"Roach","","Clyde","Conservative","Conservateur",N,N,21
+35062,"Mississauga--Malton","Mississauga--Malton"," 36","Mississauga",N,N,"",2,369,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35062,"Mississauga--Malton","Mississauga--Malton"," 36","Mississauga",N,N,"",2,369,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 36","Mississauga",N,N,"",2,369,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 36","Mississauga",N,N,"",2,369,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,71
+35062,"Mississauga--Malton","Mississauga--Malton"," 36","Mississauga",N,N,"",2,369,"Roach","","Clyde","Conservative","Conservateur",N,N,20
+35062,"Mississauga--Malton","Mississauga--Malton"," 37","Mississauga",N,N,"",0,439,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35062,"Mississauga--Malton","Mississauga--Malton"," 37","Mississauga",N,N,"",0,439,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 37","Mississauga",N,N,"",0,439,"Davidson","","Mark","Green Party","Parti Vert",N,N,4
+35062,"Mississauga--Malton","Mississauga--Malton"," 37","Mississauga",N,N,"",0,439,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,53
+35062,"Mississauga--Malton","Mississauga--Malton"," 37","Mississauga",N,N,"",0,439,"Roach","","Clyde","Conservative","Conservateur",N,N,27
+35062,"Mississauga--Malton","Mississauga--Malton"," 38","Mississauga",N,N,"",1,339,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35062,"Mississauga--Malton","Mississauga--Malton"," 38","Mississauga",N,N,"",1,339,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 38","Mississauga",N,N,"",1,339,"Davidson","","Mark","Green Party","Parti Vert",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 38","Mississauga",N,N,"",1,339,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,48
+35062,"Mississauga--Malton","Mississauga--Malton"," 38","Mississauga",N,N,"",1,339,"Roach","","Clyde","Conservative","Conservateur",N,N,18
+35062,"Mississauga--Malton","Mississauga--Malton"," 39","Mississauga",N,N,"",0,297,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35062,"Mississauga--Malton","Mississauga--Malton"," 39","Mississauga",N,N,"",0,297,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 39","Mississauga",N,N,"",0,297,"Davidson","","Mark","Green Party","Parti Vert",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 39","Mississauga",N,N,"",0,297,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,46
+35062,"Mississauga--Malton","Mississauga--Malton"," 39","Mississauga",N,N,"",0,297,"Roach","","Clyde","Conservative","Conservateur",N,N,25
+35062,"Mississauga--Malton","Mississauga--Malton"," 40","Mississauga",N,N,"",0,408,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35062,"Mississauga--Malton","Mississauga--Malton"," 40","Mississauga",N,N,"",0,408,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 40","Mississauga",N,N,"",0,408,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 40","Mississauga",N,N,"",0,408,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,45
+35062,"Mississauga--Malton","Mississauga--Malton"," 40","Mississauga",N,N,"",0,408,"Roach","","Clyde","Conservative","Conservateur",N,N,30
+35062,"Mississauga--Malton","Mississauga--Malton"," 41","Mississauga",N,N,"",7,539,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35062,"Mississauga--Malton","Mississauga--Malton"," 41","Mississauga",N,N,"",7,539,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 41","Mississauga",N,N,"",7,539,"Davidson","","Mark","Green Party","Parti Vert",N,N,5
+35062,"Mississauga--Malton","Mississauga--Malton"," 41","Mississauga",N,N,"",7,539,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,127
+35062,"Mississauga--Malton","Mississauga--Malton"," 41","Mississauga",N,N,"",7,539,"Roach","","Clyde","Conservative","Conservateur",N,N,51
+35062,"Mississauga--Malton","Mississauga--Malton"," 42","Mississauga",N,N,"",1,551,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35062,"Mississauga--Malton","Mississauga--Malton"," 42","Mississauga",N,N,"",1,551,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,6
+35062,"Mississauga--Malton","Mississauga--Malton"," 42","Mississauga",N,N,"",1,551,"Davidson","","Mark","Green Party","Parti Vert",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 42","Mississauga",N,N,"",1,551,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,102
+35062,"Mississauga--Malton","Mississauga--Malton"," 42","Mississauga",N,N,"",1,551,"Roach","","Clyde","Conservative","Conservateur",N,N,34
+35062,"Mississauga--Malton","Mississauga--Malton"," 43","Mississauga",N,N,"",1,493,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35062,"Mississauga--Malton","Mississauga--Malton"," 43","Mississauga",N,N,"",1,493,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 43","Mississauga",N,N,"",1,493,"Davidson","","Mark","Green Party","Parti Vert",N,N,5
+35062,"Mississauga--Malton","Mississauga--Malton"," 43","Mississauga",N,N,"",1,493,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,109
+35062,"Mississauga--Malton","Mississauga--Malton"," 43","Mississauga",N,N,"",1,493,"Roach","","Clyde","Conservative","Conservateur",N,N,34
+35062,"Mississauga--Malton","Mississauga--Malton"," 44","Mississauga",N,N,"",7,479,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35062,"Mississauga--Malton","Mississauga--Malton"," 44","Mississauga",N,N,"",7,479,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 44","Mississauga",N,N,"",7,479,"Davidson","","Mark","Green Party","Parti Vert",N,N,4
+35062,"Mississauga--Malton","Mississauga--Malton"," 44","Mississauga",N,N,"",7,479,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,131
+35062,"Mississauga--Malton","Mississauga--Malton"," 44","Mississauga",N,N,"",7,479,"Roach","","Clyde","Conservative","Conservateur",N,N,39
+35062,"Mississauga--Malton","Mississauga--Malton"," 45","Mississauga",N,N,"",1,425,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35062,"Mississauga--Malton","Mississauga--Malton"," 45","Mississauga",N,N,"",1,425,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 45","Mississauga",N,N,"",1,425,"Davidson","","Mark","Green Party","Parti Vert",N,N,7
+35062,"Mississauga--Malton","Mississauga--Malton"," 45","Mississauga",N,N,"",1,425,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,109
+35062,"Mississauga--Malton","Mississauga--Malton"," 45","Mississauga",N,N,"",1,425,"Roach","","Clyde","Conservative","Conservateur",N,N,57
+35062,"Mississauga--Malton","Mississauga--Malton"," 46","Mississauga",N,N,"",1,492,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35062,"Mississauga--Malton","Mississauga--Malton"," 46","Mississauga",N,N,"",1,492,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 46","Mississauga",N,N,"",1,492,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 46","Mississauga",N,N,"",1,492,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,94
+35062,"Mississauga--Malton","Mississauga--Malton"," 46","Mississauga",N,N,"",1,492,"Roach","","Clyde","Conservative","Conservateur",N,N,34
+35062,"Mississauga--Malton","Mississauga--Malton"," 47","Mississauga",N,N,"",3,405,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35062,"Mississauga--Malton","Mississauga--Malton"," 47","Mississauga",N,N,"",3,405,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 47","Mississauga",N,N,"",3,405,"Davidson","","Mark","Green Party","Parti Vert",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 47","Mississauga",N,N,"",3,405,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,81
+35062,"Mississauga--Malton","Mississauga--Malton"," 47","Mississauga",N,N,"",3,405,"Roach","","Clyde","Conservative","Conservateur",N,N,25
+35062,"Mississauga--Malton","Mississauga--Malton"," 48","Mississauga",N,N,"",1,439,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35062,"Mississauga--Malton","Mississauga--Malton"," 48","Mississauga",N,N,"",1,439,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 48","Mississauga",N,N,"",1,439,"Davidson","","Mark","Green Party","Parti Vert",N,N,4
+35062,"Mississauga--Malton","Mississauga--Malton"," 48","Mississauga",N,N,"",1,439,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,69
+35062,"Mississauga--Malton","Mississauga--Malton"," 48","Mississauga",N,N,"",1,439,"Roach","","Clyde","Conservative","Conservateur",N,N,40
+35062,"Mississauga--Malton","Mississauga--Malton"," 49","Mississauga",N,N,"",0,334,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35062,"Mississauga--Malton","Mississauga--Malton"," 49","Mississauga",N,N,"",0,334,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 49","Mississauga",N,N,"",0,334,"Davidson","","Mark","Green Party","Parti Vert",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 49","Mississauga",N,N,"",0,334,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,55
+35062,"Mississauga--Malton","Mississauga--Malton"," 49","Mississauga",N,N,"",0,334,"Roach","","Clyde","Conservative","Conservateur",N,N,30
+35062,"Mississauga--Malton","Mississauga--Malton"," 50","Mississauga",N,N,"",3,446,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35062,"Mississauga--Malton","Mississauga--Malton"," 50","Mississauga",N,N,"",3,446,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 50","Mississauga",N,N,"",3,446,"Davidson","","Mark","Green Party","Parti Vert",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 50","Mississauga",N,N,"",3,446,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,81
+35062,"Mississauga--Malton","Mississauga--Malton"," 50","Mississauga",N,N,"",3,446,"Roach","","Clyde","Conservative","Conservateur",N,N,63
+35062,"Mississauga--Malton","Mississauga--Malton"," 51","Mississauga",N,N,"",4,450,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35062,"Mississauga--Malton","Mississauga--Malton"," 51","Mississauga",N,N,"",4,450,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 51","Mississauga",N,N,"",4,450,"Davidson","","Mark","Green Party","Parti Vert",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 51","Mississauga",N,N,"",4,450,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,63
+35062,"Mississauga--Malton","Mississauga--Malton"," 51","Mississauga",N,N,"",4,450,"Roach","","Clyde","Conservative","Conservateur",N,N,34
+35062,"Mississauga--Malton","Mississauga--Malton"," 52","Mississauga",N,N,"",2,515,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35062,"Mississauga--Malton","Mississauga--Malton"," 52","Mississauga",N,N,"",2,515,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 52","Mississauga",N,N,"",2,515,"Davidson","","Mark","Green Party","Parti Vert",N,N,6
+35062,"Mississauga--Malton","Mississauga--Malton"," 52","Mississauga",N,N,"",2,515,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,52
+35062,"Mississauga--Malton","Mississauga--Malton"," 52","Mississauga",N,N,"",2,515,"Roach","","Clyde","Conservative","Conservateur",N,N,45
+35062,"Mississauga--Malton","Mississauga--Malton"," 53","Mississauga",N,N,"",1,404,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35062,"Mississauga--Malton","Mississauga--Malton"," 53","Mississauga",N,N,"",1,404,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 53","Mississauga",N,N,"",1,404,"Davidson","","Mark","Green Party","Parti Vert",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 53","Mississauga",N,N,"",1,404,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,50
+35062,"Mississauga--Malton","Mississauga--Malton"," 53","Mississauga",N,N,"",1,404,"Roach","","Clyde","Conservative","Conservateur",N,N,49
+35062,"Mississauga--Malton","Mississauga--Malton"," 54","Mississauga",N,N,"",3,525,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35062,"Mississauga--Malton","Mississauga--Malton"," 54","Mississauga",N,N,"",3,525,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 54","Mississauga",N,N,"",3,525,"Davidson","","Mark","Green Party","Parti Vert",N,N,9
+35062,"Mississauga--Malton","Mississauga--Malton"," 54","Mississauga",N,N,"",3,525,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,78
+35062,"Mississauga--Malton","Mississauga--Malton"," 54","Mississauga",N,N,"",3,525,"Roach","","Clyde","Conservative","Conservateur",N,N,70
+35062,"Mississauga--Malton","Mississauga--Malton"," 55","Mississauga",N,N,"",0,553,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35062,"Mississauga--Malton","Mississauga--Malton"," 55","Mississauga",N,N,"",0,553,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 55","Mississauga",N,N,"",0,553,"Davidson","","Mark","Green Party","Parti Vert",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 55","Mississauga",N,N,"",0,553,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,78
+35062,"Mississauga--Malton","Mississauga--Malton"," 55","Mississauga",N,N,"",0,553,"Roach","","Clyde","Conservative","Conservateur",N,N,71
+35062,"Mississauga--Malton","Mississauga--Malton"," 56","Mississauga",N,N,"",2,428,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35062,"Mississauga--Malton","Mississauga--Malton"," 56","Mississauga",N,N,"",2,428,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 56","Mississauga",N,N,"",2,428,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 56","Mississauga",N,N,"",2,428,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,86
+35062,"Mississauga--Malton","Mississauga--Malton"," 56","Mississauga",N,N,"",2,428,"Roach","","Clyde","Conservative","Conservateur",N,N,49
+35062,"Mississauga--Malton","Mississauga--Malton"," 57","Mississauga",N,N,"",0,526,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35062,"Mississauga--Malton","Mississauga--Malton"," 57","Mississauga",N,N,"",0,526,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 57","Mississauga",N,N,"",0,526,"Davidson","","Mark","Green Party","Parti Vert",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 57","Mississauga",N,N,"",0,526,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,88
+35062,"Mississauga--Malton","Mississauga--Malton"," 57","Mississauga",N,N,"",0,526,"Roach","","Clyde","Conservative","Conservateur",N,N,69
+35062,"Mississauga--Malton","Mississauga--Malton"," 58","Mississauga",N,N,"",4,488,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35062,"Mississauga--Malton","Mississauga--Malton"," 58","Mississauga",N,N,"",4,488,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 58","Mississauga",N,N,"",4,488,"Davidson","","Mark","Green Party","Parti Vert",N,N,7
+35062,"Mississauga--Malton","Mississauga--Malton"," 58","Mississauga",N,N,"",4,488,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,105
+35062,"Mississauga--Malton","Mississauga--Malton"," 58","Mississauga",N,N,"",4,488,"Roach","","Clyde","Conservative","Conservateur",N,N,44
+35062,"Mississauga--Malton","Mississauga--Malton"," 59","Mississauga",N,N,"",1,409,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35062,"Mississauga--Malton","Mississauga--Malton"," 59","Mississauga",N,N,"",1,409,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,4
+35062,"Mississauga--Malton","Mississauga--Malton"," 59","Mississauga",N,N,"",1,409,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 59","Mississauga",N,N,"",1,409,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,95
+35062,"Mississauga--Malton","Mississauga--Malton"," 59","Mississauga",N,N,"",1,409,"Roach","","Clyde","Conservative","Conservateur",N,N,33
+35062,"Mississauga--Malton","Mississauga--Malton"," 60","Mississauga",N,N,"",0,555,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35062,"Mississauga--Malton","Mississauga--Malton"," 60","Mississauga",N,N,"",0,555,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 60","Mississauga",N,N,"",0,555,"Davidson","","Mark","Green Party","Parti Vert",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 60","Mississauga",N,N,"",0,555,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,126
+35062,"Mississauga--Malton","Mississauga--Malton"," 60","Mississauga",N,N,"",0,555,"Roach","","Clyde","Conservative","Conservateur",N,N,45
+35062,"Mississauga--Malton","Mississauga--Malton"," 61","Mississauga",N,N,"",2,440,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35062,"Mississauga--Malton","Mississauga--Malton"," 61","Mississauga",N,N,"",2,440,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 61","Mississauga",N,N,"",2,440,"Davidson","","Mark","Green Party","Parti Vert",N,N,5
+35062,"Mississauga--Malton","Mississauga--Malton"," 61","Mississauga",N,N,"",2,440,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,90
+35062,"Mississauga--Malton","Mississauga--Malton"," 61","Mississauga",N,N,"",2,440,"Roach","","Clyde","Conservative","Conservateur",N,N,40
+35062,"Mississauga--Malton","Mississauga--Malton"," 62","Mississauga",N,N,"",2,435,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35062,"Mississauga--Malton","Mississauga--Malton"," 62","Mississauga",N,N,"",2,435,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 62","Mississauga",N,N,"",2,435,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 62","Mississauga",N,N,"",2,435,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,90
+35062,"Mississauga--Malton","Mississauga--Malton"," 62","Mississauga",N,N,"",2,435,"Roach","","Clyde","Conservative","Conservateur",N,N,44
+35062,"Mississauga--Malton","Mississauga--Malton"," 63","Mississauga",N,N,"",1,327,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35062,"Mississauga--Malton","Mississauga--Malton"," 63","Mississauga",N,N,"",1,327,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 63","Mississauga",N,N,"",1,327,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 63","Mississauga",N,N,"",1,327,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,57
+35062,"Mississauga--Malton","Mississauga--Malton"," 63","Mississauga",N,N,"",1,327,"Roach","","Clyde","Conservative","Conservateur",N,N,27
+35062,"Mississauga--Malton","Mississauga--Malton"," 64","Mississauga",N,N,"",3,587,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35062,"Mississauga--Malton","Mississauga--Malton"," 64","Mississauga",N,N,"",3,587,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 64","Mississauga",N,N,"",3,587,"Davidson","","Mark","Green Party","Parti Vert",N,N,8
+35062,"Mississauga--Malton","Mississauga--Malton"," 64","Mississauga",N,N,"",3,587,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,131
+35062,"Mississauga--Malton","Mississauga--Malton"," 64","Mississauga",N,N,"",3,587,"Roach","","Clyde","Conservative","Conservateur",N,N,96
+35062,"Mississauga--Malton","Mississauga--Malton"," 65","Mississauga",N,N,"",0,411,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35062,"Mississauga--Malton","Mississauga--Malton"," 65","Mississauga",N,N,"",0,411,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 65","Mississauga",N,N,"",0,411,"Davidson","","Mark","Green Party","Parti Vert",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 65","Mississauga",N,N,"",0,411,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,98
+35062,"Mississauga--Malton","Mississauga--Malton"," 65","Mississauga",N,N,"",0,411,"Roach","","Clyde","Conservative","Conservateur",N,N,45
+35062,"Mississauga--Malton","Mississauga--Malton"," 66","Mississauga",N,N,"",5,482,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35062,"Mississauga--Malton","Mississauga--Malton"," 66","Mississauga",N,N,"",5,482,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 66","Mississauga",N,N,"",5,482,"Davidson","","Mark","Green Party","Parti Vert",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 66","Mississauga",N,N,"",5,482,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,107
+35062,"Mississauga--Malton","Mississauga--Malton"," 66","Mississauga",N,N,"",5,482,"Roach","","Clyde","Conservative","Conservateur",N,N,53
+35062,"Mississauga--Malton","Mississauga--Malton"," 67","Mississauga",N,N,"",0,479,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35062,"Mississauga--Malton","Mississauga--Malton"," 67","Mississauga",N,N,"",0,479,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 67","Mississauga",N,N,"",0,479,"Davidson","","Mark","Green Party","Parti Vert",N,N,6
+35062,"Mississauga--Malton","Mississauga--Malton"," 67","Mississauga",N,N,"",0,479,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,105
+35062,"Mississauga--Malton","Mississauga--Malton"," 67","Mississauga",N,N,"",0,479,"Roach","","Clyde","Conservative","Conservateur",N,N,45
+35062,"Mississauga--Malton","Mississauga--Malton"," 68","Mississauga",N,N,"",5,492,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35062,"Mississauga--Malton","Mississauga--Malton"," 68","Mississauga",N,N,"",5,492,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,5
+35062,"Mississauga--Malton","Mississauga--Malton"," 68","Mississauga",N,N,"",5,492,"Davidson","","Mark","Green Party","Parti Vert",N,N,5
+35062,"Mississauga--Malton","Mississauga--Malton"," 68","Mississauga",N,N,"",5,492,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,141
+35062,"Mississauga--Malton","Mississauga--Malton"," 68","Mississauga",N,N,"",5,492,"Roach","","Clyde","Conservative","Conservateur",N,N,92
+35062,"Mississauga--Malton","Mississauga--Malton"," 69","Mississauga",N,N,"",4,480,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35062,"Mississauga--Malton","Mississauga--Malton"," 69","Mississauga",N,N,"",4,480,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 69","Mississauga",N,N,"",4,480,"Davidson","","Mark","Green Party","Parti Vert",N,N,5
+35062,"Mississauga--Malton","Mississauga--Malton"," 69","Mississauga",N,N,"",4,480,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,132
+35062,"Mississauga--Malton","Mississauga--Malton"," 69","Mississauga",N,N,"",4,480,"Roach","","Clyde","Conservative","Conservateur",N,N,68
+35062,"Mississauga--Malton","Mississauga--Malton"," 70","Mississauga",N,N,"",1,600,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35062,"Mississauga--Malton","Mississauga--Malton"," 70","Mississauga",N,N,"",1,600,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 70","Mississauga",N,N,"",1,600,"Davidson","","Mark","Green Party","Parti Vert",N,N,4
+35062,"Mississauga--Malton","Mississauga--Malton"," 70","Mississauga",N,N,"",1,600,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,126
+35062,"Mississauga--Malton","Mississauga--Malton"," 70","Mississauga",N,N,"",1,600,"Roach","","Clyde","Conservative","Conservateur",N,N,115
+35062,"Mississauga--Malton","Mississauga--Malton"," 71","Mississauga",N,N,"",0,553,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35062,"Mississauga--Malton","Mississauga--Malton"," 71","Mississauga",N,N,"",0,553,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 71","Mississauga",N,N,"",0,553,"Davidson","","Mark","Green Party","Parti Vert",N,N,7
+35062,"Mississauga--Malton","Mississauga--Malton"," 71","Mississauga",N,N,"",0,553,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,93
+35062,"Mississauga--Malton","Mississauga--Malton"," 71","Mississauga",N,N,"",0,553,"Roach","","Clyde","Conservative","Conservateur",N,N,106
+35062,"Mississauga--Malton","Mississauga--Malton"," 72","Mississauga",N,N,"",3,515,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35062,"Mississauga--Malton","Mississauga--Malton"," 72","Mississauga",N,N,"",3,515,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 72","Mississauga",N,N,"",3,515,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 72","Mississauga",N,N,"",3,515,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,136
+35062,"Mississauga--Malton","Mississauga--Malton"," 72","Mississauga",N,N,"",3,515,"Roach","","Clyde","Conservative","Conservateur",N,N,82
+35062,"Mississauga--Malton","Mississauga--Malton"," 73","Mississauga",N,N,"",1,434,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35062,"Mississauga--Malton","Mississauga--Malton"," 73","Mississauga",N,N,"",1,434,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 73","Mississauga",N,N,"",1,434,"Davidson","","Mark","Green Party","Parti Vert",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 73","Mississauga",N,N,"",1,434,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,70
+35062,"Mississauga--Malton","Mississauga--Malton"," 73","Mississauga",N,N,"",1,434,"Roach","","Clyde","Conservative","Conservateur",N,N,65
+35062,"Mississauga--Malton","Mississauga--Malton"," 74","Mississauga",N,N,"",1,581,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35062,"Mississauga--Malton","Mississauga--Malton"," 74","Mississauga",N,N,"",1,581,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 74","Mississauga",N,N,"",1,581,"Davidson","","Mark","Green Party","Parti Vert",N,N,10
+35062,"Mississauga--Malton","Mississauga--Malton"," 74","Mississauga",N,N,"",1,581,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,75
+35062,"Mississauga--Malton","Mississauga--Malton"," 74","Mississauga",N,N,"",1,581,"Roach","","Clyde","Conservative","Conservateur",N,N,57
+35062,"Mississauga--Malton","Mississauga--Malton"," 75","Mississauga",N,N,"",2,357,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35062,"Mississauga--Malton","Mississauga--Malton"," 75","Mississauga",N,N,"",2,357,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 75","Mississauga",N,N,"",2,357,"Davidson","","Mark","Green Party","Parti Vert",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 75","Mississauga",N,N,"",2,357,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,38
+35062,"Mississauga--Malton","Mississauga--Malton"," 75","Mississauga",N,N,"",2,357,"Roach","","Clyde","Conservative","Conservateur",N,N,42
+35062,"Mississauga--Malton","Mississauga--Malton"," 76","Mississauga",N,N,"",0,482,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35062,"Mississauga--Malton","Mississauga--Malton"," 76","Mississauga",N,N,"",0,482,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 76","Mississauga",N,N,"",0,482,"Davidson","","Mark","Green Party","Parti Vert",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 76","Mississauga",N,N,"",0,482,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,54
+35062,"Mississauga--Malton","Mississauga--Malton"," 76","Mississauga",N,N,"",0,482,"Roach","","Clyde","Conservative","Conservateur",N,N,49
+35062,"Mississauga--Malton","Mississauga--Malton"," 77","Mississauga",N,N,"",0,370,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35062,"Mississauga--Malton","Mississauga--Malton"," 77","Mississauga",N,N,"",0,370,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 77","Mississauga",N,N,"",0,370,"Davidson","","Mark","Green Party","Parti Vert",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 77","Mississauga",N,N,"",0,370,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,62
+35062,"Mississauga--Malton","Mississauga--Malton"," 77","Mississauga",N,N,"",0,370,"Roach","","Clyde","Conservative","Conservateur",N,N,34
+35062,"Mississauga--Malton","Mississauga--Malton"," 78","Mississauga",N,N,"",0,482,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35062,"Mississauga--Malton","Mississauga--Malton"," 78","Mississauga",N,N,"",0,482,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 78","Mississauga",N,N,"",0,482,"Davidson","","Mark","Green Party","Parti Vert",N,N,5
+35062,"Mississauga--Malton","Mississauga--Malton"," 78","Mississauga",N,N,"",0,482,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,54
+35062,"Mississauga--Malton","Mississauga--Malton"," 78","Mississauga",N,N,"",0,482,"Roach","","Clyde","Conservative","Conservateur",N,N,43
+35062,"Mississauga--Malton","Mississauga--Malton"," 79","Mississauga",N,N,"",2,362,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35062,"Mississauga--Malton","Mississauga--Malton"," 79","Mississauga",N,N,"",2,362,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 79","Mississauga",N,N,"",2,362,"Davidson","","Mark","Green Party","Parti Vert",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 79","Mississauga",N,N,"",2,362,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,81
+35062,"Mississauga--Malton","Mississauga--Malton"," 79","Mississauga",N,N,"",2,362,"Roach","","Clyde","Conservative","Conservateur",N,N,44
+35062,"Mississauga--Malton","Mississauga--Malton"," 80","Mississauga",N,N,"",0,535,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35062,"Mississauga--Malton","Mississauga--Malton"," 80","Mississauga",N,N,"",0,535,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 80","Mississauga",N,N,"",0,535,"Davidson","","Mark","Green Party","Parti Vert",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 80","Mississauga",N,N,"",0,535,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,51
+35062,"Mississauga--Malton","Mississauga--Malton"," 80","Mississauga",N,N,"",0,535,"Roach","","Clyde","Conservative","Conservateur",N,N,56
+35062,"Mississauga--Malton","Mississauga--Malton"," 81","Mississauga",N,N,"",1,343,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35062,"Mississauga--Malton","Mississauga--Malton"," 81","Mississauga",N,N,"",1,343,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 81","Mississauga",N,N,"",1,343,"Davidson","","Mark","Green Party","Parti Vert",N,N,10
+35062,"Mississauga--Malton","Mississauga--Malton"," 81","Mississauga",N,N,"",1,343,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,83
+35062,"Mississauga--Malton","Mississauga--Malton"," 81","Mississauga",N,N,"",1,343,"Roach","","Clyde","Conservative","Conservateur",N,N,48
+35062,"Mississauga--Malton","Mississauga--Malton"," 82","Mississauga",N,N,"",3,555,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35062,"Mississauga--Malton","Mississauga--Malton"," 82","Mississauga",N,N,"",3,555,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 82","Mississauga",N,N,"",3,555,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 82","Mississauga",N,N,"",3,555,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,118
+35062,"Mississauga--Malton","Mississauga--Malton"," 82","Mississauga",N,N,"",3,555,"Roach","","Clyde","Conservative","Conservateur",N,N,77
+35062,"Mississauga--Malton","Mississauga--Malton"," 83","Mississauga",N,N,"",2,421,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35062,"Mississauga--Malton","Mississauga--Malton"," 83","Mississauga",N,N,"",2,421,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 83","Mississauga",N,N,"",2,421,"Davidson","","Mark","Green Party","Parti Vert",N,N,6
+35062,"Mississauga--Malton","Mississauga--Malton"," 83","Mississauga",N,N,"",2,421,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,76
+35062,"Mississauga--Malton","Mississauga--Malton"," 83","Mississauga",N,N,"",2,421,"Roach","","Clyde","Conservative","Conservateur",N,N,44
+35062,"Mississauga--Malton","Mississauga--Malton"," 84","Mississauga",N,N,"",3,512,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35062,"Mississauga--Malton","Mississauga--Malton"," 84","Mississauga",N,N,"",3,512,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 84","Mississauga",N,N,"",3,512,"Davidson","","Mark","Green Party","Parti Vert",N,N,7
+35062,"Mississauga--Malton","Mississauga--Malton"," 84","Mississauga",N,N,"",3,512,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,102
+35062,"Mississauga--Malton","Mississauga--Malton"," 84","Mississauga",N,N,"",3,512,"Roach","","Clyde","Conservative","Conservateur",N,N,68
+35062,"Mississauga--Malton","Mississauga--Malton"," 85","Mississauga",N,N,"",1,411,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35062,"Mississauga--Malton","Mississauga--Malton"," 85","Mississauga",N,N,"",1,411,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 85","Mississauga",N,N,"",1,411,"Davidson","","Mark","Green Party","Parti Vert",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 85","Mississauga",N,N,"",1,411,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,58
+35062,"Mississauga--Malton","Mississauga--Malton"," 85","Mississauga",N,N,"",1,411,"Roach","","Clyde","Conservative","Conservateur",N,N,59
+35062,"Mississauga--Malton","Mississauga--Malton"," 86","Mississauga",N,N,"",4,477,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35062,"Mississauga--Malton","Mississauga--Malton"," 86","Mississauga",N,N,"",4,477,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 86","Mississauga",N,N,"",4,477,"Davidson","","Mark","Green Party","Parti Vert",N,N,5
+35062,"Mississauga--Malton","Mississauga--Malton"," 86","Mississauga",N,N,"",4,477,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,70
+35062,"Mississauga--Malton","Mississauga--Malton"," 86","Mississauga",N,N,"",4,477,"Roach","","Clyde","Conservative","Conservateur",N,N,47
+35062,"Mississauga--Malton","Mississauga--Malton"," 87","Mississauga",N,N,"",0,451,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35062,"Mississauga--Malton","Mississauga--Malton"," 87","Mississauga",N,N,"",0,451,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 87","Mississauga",N,N,"",0,451,"Davidson","","Mark","Green Party","Parti Vert",N,N,6
+35062,"Mississauga--Malton","Mississauga--Malton"," 87","Mississauga",N,N,"",0,451,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,97
+35062,"Mississauga--Malton","Mississauga--Malton"," 87","Mississauga",N,N,"",0,451,"Roach","","Clyde","Conservative","Conservateur",N,N,45
+35062,"Mississauga--Malton","Mississauga--Malton"," 88","Mississauga",N,N,"",4,488,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35062,"Mississauga--Malton","Mississauga--Malton"," 88","Mississauga",N,N,"",4,488,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 88","Mississauga",N,N,"",4,488,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 88","Mississauga",N,N,"",4,488,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,76
+35062,"Mississauga--Malton","Mississauga--Malton"," 88","Mississauga",N,N,"",4,488,"Roach","","Clyde","Conservative","Conservateur",N,N,39
+35062,"Mississauga--Malton","Mississauga--Malton"," 89","Mississauga",N,N,"",2,502,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35062,"Mississauga--Malton","Mississauga--Malton"," 89","Mississauga",N,N,"",2,502,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 89","Mississauga",N,N,"",2,502,"Davidson","","Mark","Green Party","Parti Vert",N,N,4
+35062,"Mississauga--Malton","Mississauga--Malton"," 89","Mississauga",N,N,"",2,502,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,73
+35062,"Mississauga--Malton","Mississauga--Malton"," 89","Mississauga",N,N,"",2,502,"Roach","","Clyde","Conservative","Conservateur",N,N,70
+35062,"Mississauga--Malton","Mississauga--Malton"," 90","Mississauga",N,N,"",2,404,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35062,"Mississauga--Malton","Mississauga--Malton"," 90","Mississauga",N,N,"",2,404,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 90","Mississauga",N,N,"",2,404,"Davidson","","Mark","Green Party","Parti Vert",N,N,4
+35062,"Mississauga--Malton","Mississauga--Malton"," 90","Mississauga",N,N,"",2,404,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,94
+35062,"Mississauga--Malton","Mississauga--Malton"," 90","Mississauga",N,N,"",2,404,"Roach","","Clyde","Conservative","Conservateur",N,N,53
+35062,"Mississauga--Malton","Mississauga--Malton"," 91","Mississauga",N,N,"",2,433,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35062,"Mississauga--Malton","Mississauga--Malton"," 91","Mississauga",N,N,"",2,433,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 91","Mississauga",N,N,"",2,433,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 91","Mississauga",N,N,"",2,433,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,64
+35062,"Mississauga--Malton","Mississauga--Malton"," 91","Mississauga",N,N,"",2,433,"Roach","","Clyde","Conservative","Conservateur",N,N,55
+35062,"Mississauga--Malton","Mississauga--Malton"," 92","Mississauga",N,N,"",1,440,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35062,"Mississauga--Malton","Mississauga--Malton"," 92","Mississauga",N,N,"",1,440,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 92","Mississauga",N,N,"",1,440,"Davidson","","Mark","Green Party","Parti Vert",N,N,4
+35062,"Mississauga--Malton","Mississauga--Malton"," 92","Mississauga",N,N,"",1,440,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,86
+35062,"Mississauga--Malton","Mississauga--Malton"," 92","Mississauga",N,N,"",1,440,"Roach","","Clyde","Conservative","Conservateur",N,N,51
+35062,"Mississauga--Malton","Mississauga--Malton"," 93","Mississauga",N,N,"",2,446,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35062,"Mississauga--Malton","Mississauga--Malton"," 93","Mississauga",N,N,"",2,446,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 93","Mississauga",N,N,"",2,446,"Davidson","","Mark","Green Party","Parti Vert",N,N,4
+35062,"Mississauga--Malton","Mississauga--Malton"," 93","Mississauga",N,N,"",2,446,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,91
+35062,"Mississauga--Malton","Mississauga--Malton"," 93","Mississauga",N,N,"",2,446,"Roach","","Clyde","Conservative","Conservateur",N,N,44
+35062,"Mississauga--Malton","Mississauga--Malton"," 94","Mississauga",N,N,"",5,447,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35062,"Mississauga--Malton","Mississauga--Malton"," 94","Mississauga",N,N,"",5,447,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 94","Mississauga",N,N,"",5,447,"Davidson","","Mark","Green Party","Parti Vert",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 94","Mississauga",N,N,"",5,447,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,86
+35062,"Mississauga--Malton","Mississauga--Malton"," 94","Mississauga",N,N,"",5,447,"Roach","","Clyde","Conservative","Conservateur",N,N,63
+35062,"Mississauga--Malton","Mississauga--Malton"," 95","Mississauga",N,N,"",1,428,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35062,"Mississauga--Malton","Mississauga--Malton"," 95","Mississauga",N,N,"",1,428,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 95","Mississauga",N,N,"",1,428,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 95","Mississauga",N,N,"",1,428,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,61
+35062,"Mississauga--Malton","Mississauga--Malton"," 95","Mississauga",N,N,"",1,428,"Roach","","Clyde","Conservative","Conservateur",N,N,44
+35062,"Mississauga--Malton","Mississauga--Malton"," 96","Mississauga",N,N,"",0,370,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35062,"Mississauga--Malton","Mississauga--Malton"," 96","Mississauga",N,N,"",0,370,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 96","Mississauga",N,N,"",0,370,"Davidson","","Mark","Green Party","Parti Vert",N,N,6
+35062,"Mississauga--Malton","Mississauga--Malton"," 96","Mississauga",N,N,"",0,370,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,60
+35062,"Mississauga--Malton","Mississauga--Malton"," 96","Mississauga",N,N,"",0,370,"Roach","","Clyde","Conservative","Conservateur",N,N,41
+35062,"Mississauga--Malton","Mississauga--Malton"," 97","Mississauga",N,N,"",0,383,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35062,"Mississauga--Malton","Mississauga--Malton"," 97","Mississauga",N,N,"",0,383,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 97","Mississauga",N,N,"",0,383,"Davidson","","Mark","Green Party","Parti Vert",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 97","Mississauga",N,N,"",0,383,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,52
+35062,"Mississauga--Malton","Mississauga--Malton"," 97","Mississauga",N,N,"",0,383,"Roach","","Clyde","Conservative","Conservateur",N,N,31
+35062,"Mississauga--Malton","Mississauga--Malton"," 98","Mississauga",N,N,"",2,418,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35062,"Mississauga--Malton","Mississauga--Malton"," 98","Mississauga",N,N,"",2,418,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 98","Mississauga",N,N,"",2,418,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 98","Mississauga",N,N,"",2,418,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,88
+35062,"Mississauga--Malton","Mississauga--Malton"," 98","Mississauga",N,N,"",2,418,"Roach","","Clyde","Conservative","Conservateur",N,N,46
+35062,"Mississauga--Malton","Mississauga--Malton"," 99","Mississauga",N,N,"",1,383,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35062,"Mississauga--Malton","Mississauga--Malton"," 99","Mississauga",N,N,"",1,383,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 99","Mississauga",N,N,"",1,383,"Davidson","","Mark","Green Party","Parti Vert",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 99","Mississauga",N,N,"",1,383,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,66
+35062,"Mississauga--Malton","Mississauga--Malton"," 99","Mississauga",N,N,"",1,383,"Roach","","Clyde","Conservative","Conservateur",N,N,62
+35062,"Mississauga--Malton","Mississauga--Malton"," 100","Mississauga",N,N,"",1,285,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35062,"Mississauga--Malton","Mississauga--Malton"," 100","Mississauga",N,N,"",1,285,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 100","Mississauga",N,N,"",1,285,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 100","Mississauga",N,N,"",1,285,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,33
+35062,"Mississauga--Malton","Mississauga--Malton"," 100","Mississauga",N,N,"",1,285,"Roach","","Clyde","Conservative","Conservateur",N,N,42
+35062,"Mississauga--Malton","Mississauga--Malton"," 101","Mississauga",N,N,"",3,356,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35062,"Mississauga--Malton","Mississauga--Malton"," 101","Mississauga",N,N,"",3,356,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 101","Mississauga",N,N,"",3,356,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 101","Mississauga",N,N,"",3,356,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,73
+35062,"Mississauga--Malton","Mississauga--Malton"," 101","Mississauga",N,N,"",3,356,"Roach","","Clyde","Conservative","Conservateur",N,N,38
+35062,"Mississauga--Malton","Mississauga--Malton"," 102","Mississauga",N,N,"",1,319,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35062,"Mississauga--Malton","Mississauga--Malton"," 102","Mississauga",N,N,"",1,319,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 102","Mississauga",N,N,"",1,319,"Davidson","","Mark","Green Party","Parti Vert",N,N,4
+35062,"Mississauga--Malton","Mississauga--Malton"," 102","Mississauga",N,N,"",1,319,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,52
+35062,"Mississauga--Malton","Mississauga--Malton"," 102","Mississauga",N,N,"",1,319,"Roach","","Clyde","Conservative","Conservateur",N,N,32
+35062,"Mississauga--Malton","Mississauga--Malton"," 103","Mississauga",N,N,"",1,391,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35062,"Mississauga--Malton","Mississauga--Malton"," 103","Mississauga",N,N,"",1,391,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 103","Mississauga",N,N,"",1,391,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 103","Mississauga",N,N,"",1,391,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,75
+35062,"Mississauga--Malton","Mississauga--Malton"," 103","Mississauga",N,N,"",1,391,"Roach","","Clyde","Conservative","Conservateur",N,N,56
+35062,"Mississauga--Malton","Mississauga--Malton"," 104","Mississauga",N,N,"",0,401,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35062,"Mississauga--Malton","Mississauga--Malton"," 104","Mississauga",N,N,"",0,401,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 104","Mississauga",N,N,"",0,401,"Davidson","","Mark","Green Party","Parti Vert",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 104","Mississauga",N,N,"",0,401,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,86
+35062,"Mississauga--Malton","Mississauga--Malton"," 104","Mississauga",N,N,"",0,401,"Roach","","Clyde","Conservative","Conservateur",N,N,41
+35062,"Mississauga--Malton","Mississauga--Malton"," 105","Mississauga",N,N,"",0,617,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35062,"Mississauga--Malton","Mississauga--Malton"," 105","Mississauga",N,N,"",0,617,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 105","Mississauga",N,N,"",0,617,"Davidson","","Mark","Green Party","Parti Vert",N,N,8
+35062,"Mississauga--Malton","Mississauga--Malton"," 105","Mississauga",N,N,"",0,617,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,89
+35062,"Mississauga--Malton","Mississauga--Malton"," 105","Mississauga",N,N,"",0,617,"Roach","","Clyde","Conservative","Conservateur",N,N,37
+35062,"Mississauga--Malton","Mississauga--Malton"," 106","Mississauga",N,N,"",4,923,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35062,"Mississauga--Malton","Mississauga--Malton"," 106","Mississauga",N,N,"",4,923,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 106","Mississauga",N,N,"",4,923,"Davidson","","Mark","Green Party","Parti Vert",N,N,6
+35062,"Mississauga--Malton","Mississauga--Malton"," 106","Mississauga",N,N,"",4,923,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,142
+35062,"Mississauga--Malton","Mississauga--Malton"," 106","Mississauga",N,N,"",4,923,"Roach","","Clyde","Conservative","Conservateur",N,N,80
+35062,"Mississauga--Malton","Mississauga--Malton"," 107","Mississauga",N,N,"",3,532,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35062,"Mississauga--Malton","Mississauga--Malton"," 107","Mississauga",N,N,"",3,532,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 107","Mississauga",N,N,"",3,532,"Davidson","","Mark","Green Party","Parti Vert",N,N,4
+35062,"Mississauga--Malton","Mississauga--Malton"," 107","Mississauga",N,N,"",3,532,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,110
+35062,"Mississauga--Malton","Mississauga--Malton"," 107","Mississauga",N,N,"",3,532,"Roach","","Clyde","Conservative","Conservateur",N,N,76
+35062,"Mississauga--Malton","Mississauga--Malton"," 108","Mississauga",N,N,"",0,503,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35062,"Mississauga--Malton","Mississauga--Malton"," 108","Mississauga",N,N,"",0,503,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 108","Mississauga",N,N,"",0,503,"Davidson","","Mark","Green Party","Parti Vert",N,N,4
+35062,"Mississauga--Malton","Mississauga--Malton"," 108","Mississauga",N,N,"",0,503,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,113
+35062,"Mississauga--Malton","Mississauga--Malton"," 108","Mississauga",N,N,"",0,503,"Roach","","Clyde","Conservative","Conservateur",N,N,69
+35062,"Mississauga--Malton","Mississauga--Malton"," 109","Mississauga",N,N,"",3,476,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35062,"Mississauga--Malton","Mississauga--Malton"," 109","Mississauga",N,N,"",3,476,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 109","Mississauga",N,N,"",3,476,"Davidson","","Mark","Green Party","Parti Vert",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 109","Mississauga",N,N,"",3,476,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,79
+35062,"Mississauga--Malton","Mississauga--Malton"," 109","Mississauga",N,N,"",3,476,"Roach","","Clyde","Conservative","Conservateur",N,N,48
+35062,"Mississauga--Malton","Mississauga--Malton"," 110","Mississauga",N,N,"",1,513,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35062,"Mississauga--Malton","Mississauga--Malton"," 110","Mississauga",N,N,"",1,513,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 110","Mississauga",N,N,"",1,513,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 110","Mississauga",N,N,"",1,513,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,58
+35062,"Mississauga--Malton","Mississauga--Malton"," 110","Mississauga",N,N,"",1,513,"Roach","","Clyde","Conservative","Conservateur",N,N,19
+35062,"Mississauga--Malton","Mississauga--Malton"," 111","Mississauga",N,N,"",2,388,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35062,"Mississauga--Malton","Mississauga--Malton"," 111","Mississauga",N,N,"",2,388,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 111","Mississauga",N,N,"",2,388,"Davidson","","Mark","Green Party","Parti Vert",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 111","Mississauga",N,N,"",2,388,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,74
+35062,"Mississauga--Malton","Mississauga--Malton"," 111","Mississauga",N,N,"",2,388,"Roach","","Clyde","Conservative","Conservateur",N,N,43
+35062,"Mississauga--Malton","Mississauga--Malton"," 112","Mississauga",N,N,"",1,502,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35062,"Mississauga--Malton","Mississauga--Malton"," 112","Mississauga",N,N,"",1,502,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 112","Mississauga",N,N,"",1,502,"Davidson","","Mark","Green Party","Parti Vert",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 112","Mississauga",N,N,"",1,502,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,72
+35062,"Mississauga--Malton","Mississauga--Malton"," 112","Mississauga",N,N,"",1,502,"Roach","","Clyde","Conservative","Conservateur",N,N,57
+35062,"Mississauga--Malton","Mississauga--Malton"," 113","Mississauga",N,N,"",1,365,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35062,"Mississauga--Malton","Mississauga--Malton"," 113","Mississauga",N,N,"",1,365,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 113","Mississauga",N,N,"",1,365,"Davidson","","Mark","Green Party","Parti Vert",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 113","Mississauga",N,N,"",1,365,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,56
+35062,"Mississauga--Malton","Mississauga--Malton"," 113","Mississauga",N,N,"",1,365,"Roach","","Clyde","Conservative","Conservateur",N,N,31
+35062,"Mississauga--Malton","Mississauga--Malton"," 114","Mississauga",N,N,"",1,362,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35062,"Mississauga--Malton","Mississauga--Malton"," 114","Mississauga",N,N,"",1,362,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 114","Mississauga",N,N,"",1,362,"Davidson","","Mark","Green Party","Parti Vert",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 114","Mississauga",N,N,"",1,362,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,64
+35062,"Mississauga--Malton","Mississauga--Malton"," 114","Mississauga",N,N,"",1,362,"Roach","","Clyde","Conservative","Conservateur",N,N,18
+35062,"Mississauga--Malton","Mississauga--Malton"," 115","Mississauga",N,N,"",0,336,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35062,"Mississauga--Malton","Mississauga--Malton"," 115","Mississauga",N,N,"",0,336,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 115","Mississauga",N,N,"",0,336,"Davidson","","Mark","Green Party","Parti Vert",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 115","Mississauga",N,N,"",0,336,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,69
+35062,"Mississauga--Malton","Mississauga--Malton"," 115","Mississauga",N,N,"",0,336,"Roach","","Clyde","Conservative","Conservateur",N,N,37
+35062,"Mississauga--Malton","Mississauga--Malton"," 116","Mississauga",N,N,"",1,385,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35062,"Mississauga--Malton","Mississauga--Malton"," 116","Mississauga",N,N,"",1,385,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 116","Mississauga",N,N,"",1,385,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 116","Mississauga",N,N,"",1,385,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,53
+35062,"Mississauga--Malton","Mississauga--Malton"," 116","Mississauga",N,N,"",1,385,"Roach","","Clyde","Conservative","Conservateur",N,N,86
+35062,"Mississauga--Malton","Mississauga--Malton"," 117","Mississauga",N,N,"",0,421,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35062,"Mississauga--Malton","Mississauga--Malton"," 117","Mississauga",N,N,"",0,421,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 117","Mississauga",N,N,"",0,421,"Davidson","","Mark","Green Party","Parti Vert",N,N,6
+35062,"Mississauga--Malton","Mississauga--Malton"," 117","Mississauga",N,N,"",0,421,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,73
+35062,"Mississauga--Malton","Mississauga--Malton"," 117","Mississauga",N,N,"",0,421,"Roach","","Clyde","Conservative","Conservateur",N,N,36
+35062,"Mississauga--Malton","Mississauga--Malton"," 118","Mississauga",N,N,"",6,408,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35062,"Mississauga--Malton","Mississauga--Malton"," 118","Mississauga",N,N,"",6,408,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 118","Mississauga",N,N,"",6,408,"Davidson","","Mark","Green Party","Parti Vert",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 118","Mississauga",N,N,"",6,408,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,95
+35062,"Mississauga--Malton","Mississauga--Malton"," 118","Mississauga",N,N,"",6,408,"Roach","","Clyde","Conservative","Conservateur",N,N,63
+35062,"Mississauga--Malton","Mississauga--Malton"," 119","Mississauga",N,N,"",6,358,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35062,"Mississauga--Malton","Mississauga--Malton"," 119","Mississauga",N,N,"",6,358,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 119","Mississauga",N,N,"",6,358,"Davidson","","Mark","Green Party","Parti Vert",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 119","Mississauga",N,N,"",6,358,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,41
+35062,"Mississauga--Malton","Mississauga--Malton"," 119","Mississauga",N,N,"",6,358,"Roach","","Clyde","Conservative","Conservateur",N,N,84
+35062,"Mississauga--Malton","Mississauga--Malton"," 120","Mississauga",N,N,"",3,410,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35062,"Mississauga--Malton","Mississauga--Malton"," 120","Mississauga",N,N,"",3,410,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 120","Mississauga",N,N,"",3,410,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 120","Mississauga",N,N,"",3,410,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,100
+35062,"Mississauga--Malton","Mississauga--Malton"," 120","Mississauga",N,N,"",3,410,"Roach","","Clyde","Conservative","Conservateur",N,N,31
+35062,"Mississauga--Malton","Mississauga--Malton"," 121","Mississauga",N,N,"",1,496,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35062,"Mississauga--Malton","Mississauga--Malton"," 121","Mississauga",N,N,"",1,496,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 121","Mississauga",N,N,"",1,496,"Davidson","","Mark","Green Party","Parti Vert",N,N,8
+35062,"Mississauga--Malton","Mississauga--Malton"," 121","Mississauga",N,N,"",1,496,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,72
+35062,"Mississauga--Malton","Mississauga--Malton"," 121","Mississauga",N,N,"",1,496,"Roach","","Clyde","Conservative","Conservateur",N,N,66
+35062,"Mississauga--Malton","Mississauga--Malton"," 122","Mississauga",N,N,"",4,428,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35062,"Mississauga--Malton","Mississauga--Malton"," 122","Mississauga",N,N,"",4,428,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 122","Mississauga",N,N,"",4,428,"Davidson","","Mark","Green Party","Parti Vert",N,N,7
+35062,"Mississauga--Malton","Mississauga--Malton"," 122","Mississauga",N,N,"",4,428,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,79
+35062,"Mississauga--Malton","Mississauga--Malton"," 122","Mississauga",N,N,"",4,428,"Roach","","Clyde","Conservative","Conservateur",N,N,21
+35062,"Mississauga--Malton","Mississauga--Malton"," 123","Mississauga",N,N,"",1,381,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35062,"Mississauga--Malton","Mississauga--Malton"," 123","Mississauga",N,N,"",1,381,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 123","Mississauga",N,N,"",1,381,"Davidson","","Mark","Green Party","Parti Vert",N,N,4
+35062,"Mississauga--Malton","Mississauga--Malton"," 123","Mississauga",N,N,"",1,381,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,73
+35062,"Mississauga--Malton","Mississauga--Malton"," 123","Mississauga",N,N,"",1,381,"Roach","","Clyde","Conservative","Conservateur",N,N,59
+35062,"Mississauga--Malton","Mississauga--Malton"," 124","Mississauga",N,N,"",0,303,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35062,"Mississauga--Malton","Mississauga--Malton"," 124","Mississauga",N,N,"",0,303,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 124","Mississauga",N,N,"",0,303,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 124","Mississauga",N,N,"",0,303,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,38
+35062,"Mississauga--Malton","Mississauga--Malton"," 124","Mississauga",N,N,"",0,303,"Roach","","Clyde","Conservative","Conservateur",N,N,20
+35062,"Mississauga--Malton","Mississauga--Malton"," 125","Mississauga",N,N,"",0,363,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35062,"Mississauga--Malton","Mississauga--Malton"," 125","Mississauga",N,N,"",0,363,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 125","Mississauga",N,N,"",0,363,"Davidson","","Mark","Green Party","Parti Vert",N,N,6
+35062,"Mississauga--Malton","Mississauga--Malton"," 125","Mississauga",N,N,"",0,363,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,61
+35062,"Mississauga--Malton","Mississauga--Malton"," 125","Mississauga",N,N,"",0,363,"Roach","","Clyde","Conservative","Conservateur",N,N,33
+35062,"Mississauga--Malton","Mississauga--Malton"," 126","Mississauga",N,N,"",1,382,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35062,"Mississauga--Malton","Mississauga--Malton"," 126","Mississauga",N,N,"",1,382,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 126","Mississauga",N,N,"",1,382,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 126","Mississauga",N,N,"",1,382,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,57
+35062,"Mississauga--Malton","Mississauga--Malton"," 126","Mississauga",N,N,"",1,382,"Roach","","Clyde","Conservative","Conservateur",N,N,46
+35062,"Mississauga--Malton","Mississauga--Malton"," 127","Mississauga",N,N,"",4,447,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35062,"Mississauga--Malton","Mississauga--Malton"," 127","Mississauga",N,N,"",4,447,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 127","Mississauga",N,N,"",4,447,"Davidson","","Mark","Green Party","Parti Vert",N,N,5
+35062,"Mississauga--Malton","Mississauga--Malton"," 127","Mississauga",N,N,"",4,447,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,64
+35062,"Mississauga--Malton","Mississauga--Malton"," 127","Mississauga",N,N,"",4,447,"Roach","","Clyde","Conservative","Conservateur",N,N,60
+35062,"Mississauga--Malton","Mississauga--Malton"," 128","Mississauga",N,N,"",1,371,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35062,"Mississauga--Malton","Mississauga--Malton"," 128","Mississauga",N,N,"",1,371,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 128","Mississauga",N,N,"",1,371,"Davidson","","Mark","Green Party","Parti Vert",N,N,4
+35062,"Mississauga--Malton","Mississauga--Malton"," 128","Mississauga",N,N,"",1,371,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,65
+35062,"Mississauga--Malton","Mississauga--Malton"," 128","Mississauga",N,N,"",1,371,"Roach","","Clyde","Conservative","Conservateur",N,N,48
+35062,"Mississauga--Malton","Mississauga--Malton"," 129","Mississauga",N,N,"",0,549,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35062,"Mississauga--Malton","Mississauga--Malton"," 129","Mississauga",N,N,"",0,549,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 129","Mississauga",N,N,"",0,549,"Davidson","","Mark","Green Party","Parti Vert",N,N,4
+35062,"Mississauga--Malton","Mississauga--Malton"," 129","Mississauga",N,N,"",0,549,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,118
+35062,"Mississauga--Malton","Mississauga--Malton"," 129","Mississauga",N,N,"",0,549,"Roach","","Clyde","Conservative","Conservateur",N,N,75
+35062,"Mississauga--Malton","Mississauga--Malton"," 130","Mississauga",N,N,"",1,514,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35062,"Mississauga--Malton","Mississauga--Malton"," 130","Mississauga",N,N,"",1,514,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 130","Mississauga",N,N,"",1,514,"Davidson","","Mark","Green Party","Parti Vert",N,N,6
+35062,"Mississauga--Malton","Mississauga--Malton"," 130","Mississauga",N,N,"",1,514,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,139
+35062,"Mississauga--Malton","Mississauga--Malton"," 130","Mississauga",N,N,"",1,514,"Roach","","Clyde","Conservative","Conservateur",N,N,57
+35062,"Mississauga--Malton","Mississauga--Malton"," 131","Mississauga",N,N,"",2,527,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35062,"Mississauga--Malton","Mississauga--Malton"," 131","Mississauga",N,N,"",2,527,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 131","Mississauga",N,N,"",2,527,"Davidson","","Mark","Green Party","Parti Vert",N,N,5
+35062,"Mississauga--Malton","Mississauga--Malton"," 131","Mississauga",N,N,"",2,527,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,79
+35062,"Mississauga--Malton","Mississauga--Malton"," 131","Mississauga",N,N,"",2,527,"Roach","","Clyde","Conservative","Conservateur",N,N,63
+35062,"Mississauga--Malton","Mississauga--Malton"," 132","Mississauga",N,N,"",2,520,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35062,"Mississauga--Malton","Mississauga--Malton"," 132","Mississauga",N,N,"",2,520,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 132","Mississauga",N,N,"",2,520,"Davidson","","Mark","Green Party","Parti Vert",N,N,8
+35062,"Mississauga--Malton","Mississauga--Malton"," 132","Mississauga",N,N,"",2,520,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,101
+35062,"Mississauga--Malton","Mississauga--Malton"," 132","Mississauga",N,N,"",2,520,"Roach","","Clyde","Conservative","Conservateur",N,N,51
+35062,"Mississauga--Malton","Mississauga--Malton"," 133","Mississauga",N,N,"",0,447,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35062,"Mississauga--Malton","Mississauga--Malton"," 133","Mississauga",N,N,"",0,447,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 133","Mississauga",N,N,"",0,447,"Davidson","","Mark","Green Party","Parti Vert",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 133","Mississauga",N,N,"",0,447,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,87
+35062,"Mississauga--Malton","Mississauga--Malton"," 133","Mississauga",N,N,"",0,447,"Roach","","Clyde","Conservative","Conservateur",N,N,43
+35062,"Mississauga--Malton","Mississauga--Malton"," 134","Mississauga",N,N,"",0,428,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35062,"Mississauga--Malton","Mississauga--Malton"," 134","Mississauga",N,N,"",0,428,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 134","Mississauga",N,N,"",0,428,"Davidson","","Mark","Green Party","Parti Vert",N,N,7
+35062,"Mississauga--Malton","Mississauga--Malton"," 134","Mississauga",N,N,"",0,428,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,98
+35062,"Mississauga--Malton","Mississauga--Malton"," 134","Mississauga",N,N,"",0,428,"Roach","","Clyde","Conservative","Conservateur",N,N,52
+35062,"Mississauga--Malton","Mississauga--Malton"," 135","Mississauga",N,N,"",3,436,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35062,"Mississauga--Malton","Mississauga--Malton"," 135","Mississauga",N,N,"",3,436,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 135","Mississauga",N,N,"",3,436,"Davidson","","Mark","Green Party","Parti Vert",N,N,6
+35062,"Mississauga--Malton","Mississauga--Malton"," 135","Mississauga",N,N,"",3,436,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,98
+35062,"Mississauga--Malton","Mississauga--Malton"," 135","Mississauga",N,N,"",3,436,"Roach","","Clyde","Conservative","Conservateur",N,N,77
+35062,"Mississauga--Malton","Mississauga--Malton"," 136","Mississauga",N,N,"",2,441,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35062,"Mississauga--Malton","Mississauga--Malton"," 136","Mississauga",N,N,"",2,441,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 136","Mississauga",N,N,"",2,441,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 136","Mississauga",N,N,"",2,441,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,65
+35062,"Mississauga--Malton","Mississauga--Malton"," 136","Mississauga",N,N,"",2,441,"Roach","","Clyde","Conservative","Conservateur",N,N,25
+35062,"Mississauga--Malton","Mississauga--Malton"," 137","Mississauga",N,N,"",0,385,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35062,"Mississauga--Malton","Mississauga--Malton"," 137","Mississauga",N,N,"",0,385,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 137","Mississauga",N,N,"",0,385,"Davidson","","Mark","Green Party","Parti Vert",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 137","Mississauga",N,N,"",0,385,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,91
+35062,"Mississauga--Malton","Mississauga--Malton"," 137","Mississauga",N,N,"",0,385,"Roach","","Clyde","Conservative","Conservateur",N,N,41
+35062,"Mississauga--Malton","Mississauga--Malton"," 138","Mississauga",N,N,"",1,368,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35062,"Mississauga--Malton","Mississauga--Malton"," 138","Mississauga",N,N,"",1,368,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 138","Mississauga",N,N,"",1,368,"Davidson","","Mark","Green Party","Parti Vert",N,N,4
+35062,"Mississauga--Malton","Mississauga--Malton"," 138","Mississauga",N,N,"",1,368,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,56
+35062,"Mississauga--Malton","Mississauga--Malton"," 138","Mississauga",N,N,"",1,368,"Roach","","Clyde","Conservative","Conservateur",N,N,43
+35062,"Mississauga--Malton","Mississauga--Malton"," 139","Mississauga",N,N,"",4,522,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35062,"Mississauga--Malton","Mississauga--Malton"," 139","Mississauga",N,N,"",4,522,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 139","Mississauga",N,N,"",4,522,"Davidson","","Mark","Green Party","Parti Vert",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 139","Mississauga",N,N,"",4,522,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,145
+35062,"Mississauga--Malton","Mississauga--Malton"," 139","Mississauga",N,N,"",4,522,"Roach","","Clyde","Conservative","Conservateur",N,N,81
+35062,"Mississauga--Malton","Mississauga--Malton"," 140","Mississauga",N,N,"",0,589,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35062,"Mississauga--Malton","Mississauga--Malton"," 140","Mississauga",N,N,"",0,589,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 140","Mississauga",N,N,"",0,589,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 140","Mississauga",N,N,"",0,589,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,103
+35062,"Mississauga--Malton","Mississauga--Malton"," 140","Mississauga",N,N,"",0,589,"Roach","","Clyde","Conservative","Conservateur",N,N,54
+35062,"Mississauga--Malton","Mississauga--Malton"," 141","Mississauga",N,N,"",1,536,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35062,"Mississauga--Malton","Mississauga--Malton"," 141","Mississauga",N,N,"",1,536,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 141","Mississauga",N,N,"",1,536,"Davidson","","Mark","Green Party","Parti Vert",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 141","Mississauga",N,N,"",1,536,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,122
+35062,"Mississauga--Malton","Mississauga--Malton"," 141","Mississauga",N,N,"",1,536,"Roach","","Clyde","Conservative","Conservateur",N,N,67
+35062,"Mississauga--Malton","Mississauga--Malton"," 142","Mississauga",N,N,"",3,546,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35062,"Mississauga--Malton","Mississauga--Malton"," 142","Mississauga",N,N,"",3,546,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 142","Mississauga",N,N,"",3,546,"Davidson","","Mark","Green Party","Parti Vert",N,N,6
+35062,"Mississauga--Malton","Mississauga--Malton"," 142","Mississauga",N,N,"",3,546,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,102
+35062,"Mississauga--Malton","Mississauga--Malton"," 142","Mississauga",N,N,"",3,546,"Roach","","Clyde","Conservative","Conservateur",N,N,92
+35062,"Mississauga--Malton","Mississauga--Malton"," 143","Mississauga",N,N,"",0,530,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35062,"Mississauga--Malton","Mississauga--Malton"," 143","Mississauga",N,N,"",0,530,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 143","Mississauga",N,N,"",0,530,"Davidson","","Mark","Green Party","Parti Vert",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 143","Mississauga",N,N,"",0,530,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,97
+35062,"Mississauga--Malton","Mississauga--Malton"," 143","Mississauga",N,N,"",0,530,"Roach","","Clyde","Conservative","Conservateur",N,N,61
+35062,"Mississauga--Malton","Mississauga--Malton"," 144","Mississauga",N,N,"",0,436,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35062,"Mississauga--Malton","Mississauga--Malton"," 144","Mississauga",N,N,"",0,436,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 144","Mississauga",N,N,"",0,436,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 144","Mississauga",N,N,"",0,436,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,113
+35062,"Mississauga--Malton","Mississauga--Malton"," 144","Mississauga",N,N,"",0,436,"Roach","","Clyde","Conservative","Conservateur",N,N,45
+35062,"Mississauga--Malton","Mississauga--Malton"," 145","Mississauga",N,N,"",0,383,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35062,"Mississauga--Malton","Mississauga--Malton"," 145","Mississauga",N,N,"",0,383,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 145","Mississauga",N,N,"",0,383,"Davidson","","Mark","Green Party","Parti Vert",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 145","Mississauga",N,N,"",0,383,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,80
+35062,"Mississauga--Malton","Mississauga--Malton"," 145","Mississauga",N,N,"",0,383,"Roach","","Clyde","Conservative","Conservateur",N,N,43
+35062,"Mississauga--Malton","Mississauga--Malton"," 146","Mississauga",N,N,"",0,485,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35062,"Mississauga--Malton","Mississauga--Malton"," 146","Mississauga",N,N,"",0,485,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 146","Mississauga",N,N,"",0,485,"Davidson","","Mark","Green Party","Parti Vert",N,N,4
+35062,"Mississauga--Malton","Mississauga--Malton"," 146","Mississauga",N,N,"",0,485,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,98
+35062,"Mississauga--Malton","Mississauga--Malton"," 146","Mississauga",N,N,"",0,485,"Roach","","Clyde","Conservative","Conservateur",N,N,60
+35062,"Mississauga--Malton","Mississauga--Malton"," 147","Mississauga",N,N,"",0,336,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35062,"Mississauga--Malton","Mississauga--Malton"," 147","Mississauga",N,N,"",0,336,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 147","Mississauga",N,N,"",0,336,"Davidson","","Mark","Green Party","Parti Vert",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 147","Mississauga",N,N,"",0,336,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,43
+35062,"Mississauga--Malton","Mississauga--Malton"," 147","Mississauga",N,N,"",0,336,"Roach","","Clyde","Conservative","Conservateur",N,N,24
+35062,"Mississauga--Malton","Mississauga--Malton"," 148","Mississauga",N,N,"",0,381,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35062,"Mississauga--Malton","Mississauga--Malton"," 148","Mississauga",N,N,"",0,381,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 148","Mississauga",N,N,"",0,381,"Davidson","","Mark","Green Party","Parti Vert",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 148","Mississauga",N,N,"",0,381,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,45
+35062,"Mississauga--Malton","Mississauga--Malton"," 148","Mississauga",N,N,"",0,381,"Roach","","Clyde","Conservative","Conservateur",N,N,39
+35062,"Mississauga--Malton","Mississauga--Malton"," 149","Mississauga",N,N,"",0,527,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35062,"Mississauga--Malton","Mississauga--Malton"," 149","Mississauga",N,N,"",0,527,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 149","Mississauga",N,N,"",0,527,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 149","Mississauga",N,N,"",0,527,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,118
+35062,"Mississauga--Malton","Mississauga--Malton"," 149","Mississauga",N,N,"",0,527,"Roach","","Clyde","Conservative","Conservateur",N,N,23
+35062,"Mississauga--Malton","Mississauga--Malton"," 150","Mississauga",N,N,"",0,457,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35062,"Mississauga--Malton","Mississauga--Malton"," 150","Mississauga",N,N,"",0,457,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 150","Mississauga",N,N,"",0,457,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 150","Mississauga",N,N,"",0,457,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,67
+35062,"Mississauga--Malton","Mississauga--Malton"," 150","Mississauga",N,N,"",0,457,"Roach","","Clyde","Conservative","Conservateur",N,N,37
+35062,"Mississauga--Malton","Mississauga--Malton"," 151","Mississauga",N,N,"",1,549,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35062,"Mississauga--Malton","Mississauga--Malton"," 151","Mississauga",N,N,"",1,549,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 151","Mississauga",N,N,"",1,549,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 151","Mississauga",N,N,"",1,549,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,143
+35062,"Mississauga--Malton","Mississauga--Malton"," 151","Mississauga",N,N,"",1,549,"Roach","","Clyde","Conservative","Conservateur",N,N,70
+35062,"Mississauga--Malton","Mississauga--Malton"," 152","Mississauga",N,N,"",0,556,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35062,"Mississauga--Malton","Mississauga--Malton"," 152","Mississauga",N,N,"",0,556,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 152","Mississauga",N,N,"",0,556,"Davidson","","Mark","Green Party","Parti Vert",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 152","Mississauga",N,N,"",0,556,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,98
+35062,"Mississauga--Malton","Mississauga--Malton"," 152","Mississauga",N,N,"",0,556,"Roach","","Clyde","Conservative","Conservateur",N,N,55
+35062,"Mississauga--Malton","Mississauga--Malton"," 153","Mississauga",N,N,"",3,453,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35062,"Mississauga--Malton","Mississauga--Malton"," 153","Mississauga",N,N,"",3,453,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 153","Mississauga",N,N,"",3,453,"Davidson","","Mark","Green Party","Parti Vert",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 153","Mississauga",N,N,"",3,453,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,102
+35062,"Mississauga--Malton","Mississauga--Malton"," 153","Mississauga",N,N,"",3,453,"Roach","","Clyde","Conservative","Conservateur",N,N,42
+35062,"Mississauga--Malton","Mississauga--Malton"," 154","Mississauga",N,N,"",0,574,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35062,"Mississauga--Malton","Mississauga--Malton"," 154","Mississauga",N,N,"",0,574,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 154","Mississauga",N,N,"",0,574,"Davidson","","Mark","Green Party","Parti Vert",N,N,8
+35062,"Mississauga--Malton","Mississauga--Malton"," 154","Mississauga",N,N,"",0,574,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,129
+35062,"Mississauga--Malton","Mississauga--Malton"," 154","Mississauga",N,N,"",0,574,"Roach","","Clyde","Conservative","Conservateur",N,N,62
+35062,"Mississauga--Malton","Mississauga--Malton"," 155","Mississauga",N,N,"",0,351,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35062,"Mississauga--Malton","Mississauga--Malton"," 155","Mississauga",N,N,"",0,351,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 155","Mississauga",N,N,"",0,351,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 155","Mississauga",N,N,"",0,351,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,66
+35062,"Mississauga--Malton","Mississauga--Malton"," 155","Mississauga",N,N,"",0,351,"Roach","","Clyde","Conservative","Conservateur",N,N,20
+35062,"Mississauga--Malton","Mississauga--Malton"," 156","Mississauga",N,N,"",1,530,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35062,"Mississauga--Malton","Mississauga--Malton"," 156","Mississauga",N,N,"",1,530,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 156","Mississauga",N,N,"",1,530,"Davidson","","Mark","Green Party","Parti Vert",N,N,4
+35062,"Mississauga--Malton","Mississauga--Malton"," 156","Mississauga",N,N,"",1,530,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,55
+35062,"Mississauga--Malton","Mississauga--Malton"," 156","Mississauga",N,N,"",1,530,"Roach","","Clyde","Conservative","Conservateur",N,N,69
+35062,"Mississauga--Malton","Mississauga--Malton"," 157","Mississauga",N,N,"",0,167,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35062,"Mississauga--Malton","Mississauga--Malton"," 157","Mississauga",N,N,"",0,167,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 157","Mississauga",N,N,"",0,167,"Davidson","","Mark","Green Party","Parti Vert",N,N,4
+35062,"Mississauga--Malton","Mississauga--Malton"," 157","Mississauga",N,N,"",0,167,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,30
+35062,"Mississauga--Malton","Mississauga--Malton"," 157","Mississauga",N,N,"",0,167,"Roach","","Clyde","Conservative","Conservateur",N,N,22
+35062,"Mississauga--Malton","Mississauga--Malton"," 158","Mississauga",N,N,"",1,519,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35062,"Mississauga--Malton","Mississauga--Malton"," 158","Mississauga",N,N,"",1,519,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 158","Mississauga",N,N,"",1,519,"Davidson","","Mark","Green Party","Parti Vert",N,N,4
+35062,"Mississauga--Malton","Mississauga--Malton"," 158","Mississauga",N,N,"",1,519,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,128
+35062,"Mississauga--Malton","Mississauga--Malton"," 158","Mississauga",N,N,"",1,519,"Roach","","Clyde","Conservative","Conservateur",N,N,84
+35062,"Mississauga--Malton","Mississauga--Malton"," 159","Mississauga",N,N,"",0,528,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35062,"Mississauga--Malton","Mississauga--Malton"," 159","Mississauga",N,N,"",0,528,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 159","Mississauga",N,N,"",0,528,"Davidson","","Mark","Green Party","Parti Vert",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 159","Mississauga",N,N,"",0,528,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,70
+35062,"Mississauga--Malton","Mississauga--Malton"," 159","Mississauga",N,N,"",0,528,"Roach","","Clyde","Conservative","Conservateur",N,N,34
+35062,"Mississauga--Malton","Mississauga--Malton"," 160","Mississauga",N,N,"",1,903,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35062,"Mississauga--Malton","Mississauga--Malton"," 160","Mississauga",N,N,"",1,903,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 160","Mississauga",N,N,"",1,903,"Davidson","","Mark","Green Party","Parti Vert",N,N,4
+35062,"Mississauga--Malton","Mississauga--Malton"," 160","Mississauga",N,N,"",1,903,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,144
+35062,"Mississauga--Malton","Mississauga--Malton"," 160","Mississauga",N,N,"",1,903,"Roach","","Clyde","Conservative","Conservateur",N,N,66
+35062,"Mississauga--Malton","Mississauga--Malton"," 161","Mississauga",N,N,"",2,649,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35062,"Mississauga--Malton","Mississauga--Malton"," 161","Mississauga",N,N,"",2,649,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 161","Mississauga",N,N,"",2,649,"Davidson","","Mark","Green Party","Parti Vert",N,N,6
+35062,"Mississauga--Malton","Mississauga--Malton"," 161","Mississauga",N,N,"",2,649,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,99
+35062,"Mississauga--Malton","Mississauga--Malton"," 161","Mississauga",N,N,"",2,649,"Roach","","Clyde","Conservative","Conservateur",N,N,62
+35062,"Mississauga--Malton","Mississauga--Malton"," 162","Mississauga",N,N,"",6,519,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35062,"Mississauga--Malton","Mississauga--Malton"," 162","Mississauga",N,N,"",6,519,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,4
+35062,"Mississauga--Malton","Mississauga--Malton"," 162","Mississauga",N,N,"",6,519,"Davidson","","Mark","Green Party","Parti Vert",N,N,4
+35062,"Mississauga--Malton","Mississauga--Malton"," 162","Mississauga",N,N,"",6,519,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,90
+35062,"Mississauga--Malton","Mississauga--Malton"," 162","Mississauga",N,N,"",6,519,"Roach","","Clyde","Conservative","Conservateur",N,N,52
+35062,"Mississauga--Malton","Mississauga--Malton"," 163","Mississauga",N,N,"",3,511,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35062,"Mississauga--Malton","Mississauga--Malton"," 163","Mississauga",N,N,"",3,511,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,4
+35062,"Mississauga--Malton","Mississauga--Malton"," 163","Mississauga",N,N,"",3,511,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 163","Mississauga",N,N,"",3,511,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,105
+35062,"Mississauga--Malton","Mississauga--Malton"," 163","Mississauga",N,N,"",3,511,"Roach","","Clyde","Conservative","Conservateur",N,N,83
+35062,"Mississauga--Malton","Mississauga--Malton"," 164","Mississauga",N,N,"",0,529,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35062,"Mississauga--Malton","Mississauga--Malton"," 164","Mississauga",N,N,"",0,529,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 164","Mississauga",N,N,"",0,529,"Davidson","","Mark","Green Party","Parti Vert",N,N,11
+35062,"Mississauga--Malton","Mississauga--Malton"," 164","Mississauga",N,N,"",0,529,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,120
+35062,"Mississauga--Malton","Mississauga--Malton"," 164","Mississauga",N,N,"",0,529,"Roach","","Clyde","Conservative","Conservateur",N,N,75
+35062,"Mississauga--Malton","Mississauga--Malton"," 165","Mississauga",N,N,"",0,471,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35062,"Mississauga--Malton","Mississauga--Malton"," 165","Mississauga",N,N,"",0,471,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 165","Mississauga",N,N,"",0,471,"Davidson","","Mark","Green Party","Parti Vert",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 165","Mississauga",N,N,"",0,471,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,118
+35062,"Mississauga--Malton","Mississauga--Malton"," 165","Mississauga",N,N,"",0,471,"Roach","","Clyde","Conservative","Conservateur",N,N,64
+35062,"Mississauga--Malton","Mississauga--Malton"," 166","Mississauga",N,N,"",1,356,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35062,"Mississauga--Malton","Mississauga--Malton"," 166","Mississauga",N,N,"",1,356,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,4
+35062,"Mississauga--Malton","Mississauga--Malton"," 166","Mississauga",N,N,"",1,356,"Davidson","","Mark","Green Party","Parti Vert",N,N,5
+35062,"Mississauga--Malton","Mississauga--Malton"," 166","Mississauga",N,N,"",1,356,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,60
+35062,"Mississauga--Malton","Mississauga--Malton"," 166","Mississauga",N,N,"",1,356,"Roach","","Clyde","Conservative","Conservateur",N,N,53
+35062,"Mississauga--Malton","Mississauga--Malton"," 167","Mississauga",N,N,"",0,303,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35062,"Mississauga--Malton","Mississauga--Malton"," 167","Mississauga",N,N,"",0,303,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 167","Mississauga",N,N,"",0,303,"Davidson","","Mark","Green Party","Parti Vert",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 167","Mississauga",N,N,"",0,303,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,56
+35062,"Mississauga--Malton","Mississauga--Malton"," 167","Mississauga",N,N,"",0,303,"Roach","","Clyde","Conservative","Conservateur",N,N,40
+35062,"Mississauga--Malton","Mississauga--Malton"," 168","Mississauga",N,N,"",2,539,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35062,"Mississauga--Malton","Mississauga--Malton"," 168","Mississauga",N,N,"",2,539,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 168","Mississauga",N,N,"",2,539,"Davidson","","Mark","Green Party","Parti Vert",N,N,4
+35062,"Mississauga--Malton","Mississauga--Malton"," 168","Mississauga",N,N,"",2,539,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,118
+35062,"Mississauga--Malton","Mississauga--Malton"," 168","Mississauga",N,N,"",2,539,"Roach","","Clyde","Conservative","Conservateur",N,N,58
+35062,"Mississauga--Malton","Mississauga--Malton"," 400","Mississauga",N,N,"",3,334,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35062,"Mississauga--Malton","Mississauga--Malton"," 400","Mississauga",N,N,"",3,334,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 400","Mississauga",N,N,"",3,334,"Davidson","","Mark","Green Party","Parti Vert",N,N,5
+35062,"Mississauga--Malton","Mississauga--Malton"," 400","Mississauga",N,N,"",3,334,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,33
+35062,"Mississauga--Malton","Mississauga--Malton"," 400","Mississauga",N,N,"",3,334,"Roach","","Clyde","Conservative","Conservateur",N,N,23
+35062,"Mississauga--Malton","Mississauga--Malton"," 401","Mississauga",N,N,"",1,331,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35062,"Mississauga--Malton","Mississauga--Malton"," 401","Mississauga",N,N,"",1,331,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 401","Mississauga",N,N,"",1,331,"Davidson","","Mark","Green Party","Parti Vert",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 401","Mississauga",N,N,"",1,331,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,50
+35062,"Mississauga--Malton","Mississauga--Malton"," 401","Mississauga",N,N,"",1,331,"Roach","","Clyde","Conservative","Conservateur",N,N,11
+35062,"Mississauga--Malton","Mississauga--Malton"," 402","Mississauga",N,N,"",0,270,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35062,"Mississauga--Malton","Mississauga--Malton"," 402","Mississauga",N,N,"",0,270,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 402","Mississauga",N,N,"",0,270,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 402","Mississauga",N,N,"",0,270,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,23
+35062,"Mississauga--Malton","Mississauga--Malton"," 402","Mississauga",N,N,"",0,270,"Roach","","Clyde","Conservative","Conservateur",N,N,22
+35062,"Mississauga--Malton","Mississauga--Malton"," 403","Mississauga",N,N,"",3,205,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35062,"Mississauga--Malton","Mississauga--Malton"," 403","Mississauga",N,N,"",3,205,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 403","Mississauga",N,N,"",3,205,"Davidson","","Mark","Green Party","Parti Vert",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 403","Mississauga",N,N,"",3,205,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,23
+35062,"Mississauga--Malton","Mississauga--Malton"," 403","Mississauga",N,N,"",3,205,"Roach","","Clyde","Conservative","Conservateur",N,N,11
+35062,"Mississauga--Malton","Mississauga--Malton"," 404","Mississauga",N,N,"",0,69,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 404","Mississauga",N,N,"",0,69,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 404","Mississauga",N,N,"",0,69,"Davidson","","Mark","Green Party","Parti Vert",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 404","Mississauga",N,N,"",0,69,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 404","Mississauga",N,N,"",0,69,"Roach","","Clyde","Conservative","Conservateur",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 405","Mississauga",N,N,"",0,370,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35062,"Mississauga--Malton","Mississauga--Malton"," 405","Mississauga",N,N,"",0,370,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 405","Mississauga",N,N,"",0,370,"Davidson","","Mark","Green Party","Parti Vert",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 405","Mississauga",N,N,"",0,370,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,39
+35062,"Mississauga--Malton","Mississauga--Malton"," 405","Mississauga",N,N,"",0,370,"Roach","","Clyde","Conservative","Conservateur",N,N,31
+35062,"Mississauga--Malton","Mississauga--Malton"," 406","Mississauga",N,N,"",0,151,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 406","Mississauga",N,N,"",0,151,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,0
+35062,"Mississauga--Malton","Mississauga--Malton"," 406","Mississauga",N,N,"",0,151,"Davidson","","Mark","Green Party","Parti Vert",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 406","Mississauga",N,N,"",0,151,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,13
+35062,"Mississauga--Malton","Mississauga--Malton"," 406","Mississauga",N,N,"",0,151,"Roach","","Clyde","Conservative","Conservateur",N,N,13
+35062,"Mississauga--Malton","Mississauga--Malton"," 600","Mississauga",N,N,"",7,0,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,129
+35062,"Mississauga--Malton","Mississauga--Malton"," 600","Mississauga",N,N,"",7,0,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,6
+35062,"Mississauga--Malton","Mississauga--Malton"," 600","Mississauga",N,N,"",7,0,"Davidson","","Mark","Green Party","Parti Vert",N,N,22
+35062,"Mississauga--Malton","Mississauga--Malton"," 600","Mississauga",N,N,"",7,0,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,807
+35062,"Mississauga--Malton","Mississauga--Malton"," 600","Mississauga",N,N,"",7,0,"Roach","","Clyde","Conservative","Conservateur",N,N,271
+35062,"Mississauga--Malton","Mississauga--Malton"," 601","Mississauga",N,N,"",7,0,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,141
+35062,"Mississauga--Malton","Mississauga--Malton"," 601","Mississauga",N,N,"",7,0,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,12
+35062,"Mississauga--Malton","Mississauga--Malton"," 601","Mississauga",N,N,"",7,0,"Davidson","","Mark","Green Party","Parti Vert",N,N,25
+35062,"Mississauga--Malton","Mississauga--Malton"," 601","Mississauga",N,N,"",7,0,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,745
+35062,"Mississauga--Malton","Mississauga--Malton"," 601","Mississauga",N,N,"",7,0,"Roach","","Clyde","Conservative","Conservateur",N,N,254
+35062,"Mississauga--Malton","Mississauga--Malton"," 602","Mississauga",N,N,"",20,0,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,111
+35062,"Mississauga--Malton","Mississauga--Malton"," 602","Mississauga",N,N,"",20,0,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,9
+35062,"Mississauga--Malton","Mississauga--Malton"," 602","Mississauga",N,N,"",20,0,"Davidson","","Mark","Green Party","Parti Vert",N,N,14
+35062,"Mississauga--Malton","Mississauga--Malton"," 602","Mississauga",N,N,"",20,0,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,513
+35062,"Mississauga--Malton","Mississauga--Malton"," 602","Mississauga",N,N,"",20,0,"Roach","","Clyde","Conservative","Conservateur",N,N,234
+35062,"Mississauga--Malton","Mississauga--Malton"," 603","Mississauga",N,N,"",1,0,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35062,"Mississauga--Malton","Mississauga--Malton"," 603","Mississauga",N,N,"",1,0,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," 603","Mississauga",N,N,"",1,0,"Davidson","","Mark","Green Party","Parti Vert",N,N,10
+35062,"Mississauga--Malton","Mississauga--Malton"," 603","Mississauga",N,N,"",1,0,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,142
+35062,"Mississauga--Malton","Mississauga--Malton"," 603","Mississauga",N,N,"",1,0,"Roach","","Clyde","Conservative","Conservateur",N,N,90
+35062,"Mississauga--Malton","Mississauga--Malton"," 604","Mississauga",N,N,"",2,0,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+35062,"Mississauga--Malton","Mississauga--Malton"," 604","Mississauga",N,N,"",2,0,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 604","Mississauga",N,N,"",2,0,"Davidson","","Mark","Green Party","Parti Vert",N,N,8
+35062,"Mississauga--Malton","Mississauga--Malton"," 604","Mississauga",N,N,"",2,0,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,290
+35062,"Mississauga--Malton","Mississauga--Malton"," 604","Mississauga",N,N,"",2,0,"Roach","","Clyde","Conservative","Conservateur",N,N,156
+35062,"Mississauga--Malton","Mississauga--Malton"," 605","Mississauga",N,N,"",0,0,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+35062,"Mississauga--Malton","Mississauga--Malton"," 605","Mississauga",N,N,"",0,0,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 605","Mississauga",N,N,"",0,0,"Davidson","","Mark","Green Party","Parti Vert",N,N,8
+35062,"Mississauga--Malton","Mississauga--Malton"," 605","Mississauga",N,N,"",0,0,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,232
+35062,"Mississauga--Malton","Mississauga--Malton"," 605","Mississauga",N,N,"",0,0,"Roach","","Clyde","Conservative","Conservateur",N,N,187
+35062,"Mississauga--Malton","Mississauga--Malton"," 606","Mississauga",N,N,"",5,0,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,92
+35062,"Mississauga--Malton","Mississauga--Malton"," 606","Mississauga",N,N,"",5,0,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,8
+35062,"Mississauga--Malton","Mississauga--Malton"," 606","Mississauga",N,N,"",5,0,"Davidson","","Mark","Green Party","Parti Vert",N,N,8
+35062,"Mississauga--Malton","Mississauga--Malton"," 606","Mississauga",N,N,"",5,0,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,364
+35062,"Mississauga--Malton","Mississauga--Malton"," 606","Mississauga",N,N,"",5,0,"Roach","","Clyde","Conservative","Conservateur",N,N,334
+35062,"Mississauga--Malton","Mississauga--Malton"," 607","Mississauga",N,N,"",4,0,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,117
+35062,"Mississauga--Malton","Mississauga--Malton"," 607","Mississauga",N,N,"",4,0,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,10
+35062,"Mississauga--Malton","Mississauga--Malton"," 607","Mississauga",N,N,"",4,0,"Davidson","","Mark","Green Party","Parti Vert",N,N,23
+35062,"Mississauga--Malton","Mississauga--Malton"," 607","Mississauga",N,N,"",4,0,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,577
+35062,"Mississauga--Malton","Mississauga--Malton"," 607","Mississauga",N,N,"",4,0,"Roach","","Clyde","Conservative","Conservateur",N,N,507
+35062,"Mississauga--Malton","Mississauga--Malton"," 608","Mississauga",N,N,"",1,0,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,85
+35062,"Mississauga--Malton","Mississauga--Malton"," 608","Mississauga",N,N,"",1,0,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,2
+35062,"Mississauga--Malton","Mississauga--Malton"," 608","Mississauga",N,N,"",1,0,"Davidson","","Mark","Green Party","Parti Vert",N,N,16
+35062,"Mississauga--Malton","Mississauga--Malton"," 608","Mississauga",N,N,"",1,0,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,366
+35062,"Mississauga--Malton","Mississauga--Malton"," 608","Mississauga",N,N,"",1,0,"Roach","","Clyde","Conservative","Conservateur",N,N,322
+35062,"Mississauga--Malton","Mississauga--Malton"," 609","Mississauga",N,N,"",3,0,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,126
+35062,"Mississauga--Malton","Mississauga--Malton"," 609","Mississauga",N,N,"",3,0,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,11
+35062,"Mississauga--Malton","Mississauga--Malton"," 609","Mississauga",N,N,"",3,0,"Davidson","","Mark","Green Party","Parti Vert",N,N,24
+35062,"Mississauga--Malton","Mississauga--Malton"," 609","Mississauga",N,N,"",3,0,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,455
+35062,"Mississauga--Malton","Mississauga--Malton"," 609","Mississauga",N,N,"",3,0,"Roach","","Clyde","Conservative","Conservateur",N,N,282
+35062,"Mississauga--Malton","Mississauga--Malton"," 610","Mississauga",N,N,"",9,0,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,134
+35062,"Mississauga--Malton","Mississauga--Malton"," 610","Mississauga",N,N,"",9,0,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,10
+35062,"Mississauga--Malton","Mississauga--Malton"," 610","Mississauga",N,N,"",9,0,"Davidson","","Mark","Green Party","Parti Vert",N,N,25
+35062,"Mississauga--Malton","Mississauga--Malton"," 610","Mississauga",N,N,"",9,0,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,581
+35062,"Mississauga--Malton","Mississauga--Malton"," 610","Mississauga",N,N,"",9,0,"Roach","","Clyde","Conservative","Conservateur",N,N,397
+35062,"Mississauga--Malton","Mississauga--Malton"," 611","Mississauga",N,N,"",8,0,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,119
+35062,"Mississauga--Malton","Mississauga--Malton"," 611","Mississauga",N,N,"",8,0,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,14
+35062,"Mississauga--Malton","Mississauga--Malton"," 611","Mississauga",N,N,"",8,0,"Davidson","","Mark","Green Party","Parti Vert",N,N,6
+35062,"Mississauga--Malton","Mississauga--Malton"," 611","Mississauga",N,N,"",8,0,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,441
+35062,"Mississauga--Malton","Mississauga--Malton"," 611","Mississauga",N,N,"",8,0,"Roach","","Clyde","Conservative","Conservateur",N,N,352
+35062,"Mississauga--Malton","Mississauga--Malton"," 612","Mississauga",N,N,"",2,0,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,113
+35062,"Mississauga--Malton","Mississauga--Malton"," 612","Mississauga",N,N,"",2,0,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,5
+35062,"Mississauga--Malton","Mississauga--Malton"," 612","Mississauga",N,N,"",2,0,"Davidson","","Mark","Green Party","Parti Vert",N,N,10
+35062,"Mississauga--Malton","Mississauga--Malton"," 612","Mississauga",N,N,"",2,0,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,366
+35062,"Mississauga--Malton","Mississauga--Malton"," 612","Mississauga",N,N,"",2,0,"Roach","","Clyde","Conservative","Conservateur",N,N,266
+35062,"Mississauga--Malton","Mississauga--Malton"," 613","Mississauga",N,N,"",6,0,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,124
+35062,"Mississauga--Malton","Mississauga--Malton"," 613","Mississauga",N,N,"",6,0,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 613","Mississauga",N,N,"",6,0,"Davidson","","Mark","Green Party","Parti Vert",N,N,8
+35062,"Mississauga--Malton","Mississauga--Malton"," 613","Mississauga",N,N,"",6,0,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,521
+35062,"Mississauga--Malton","Mississauga--Malton"," 613","Mississauga",N,N,"",6,0,"Roach","","Clyde","Conservative","Conservateur",N,N,302
+35062,"Mississauga--Malton","Mississauga--Malton"," 614","Mississauga",N,N,"",7,0,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,131
+35062,"Mississauga--Malton","Mississauga--Malton"," 614","Mississauga",N,N,"",7,0,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," 614","Mississauga",N,N,"",7,0,"Davidson","","Mark","Green Party","Parti Vert",N,N,14
+35062,"Mississauga--Malton","Mississauga--Malton"," 614","Mississauga",N,N,"",7,0,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,419
+35062,"Mississauga--Malton","Mississauga--Malton"," 614","Mississauga",N,N,"",7,0,"Roach","","Clyde","Conservative","Conservateur",N,N,299
+35062,"Mississauga--Malton","Mississauga--Malton"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",9,166,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+35062,"Mississauga--Malton","Mississauga--Malton"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",9,166,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,1
+35062,"Mississauga--Malton","Mississauga--Malton"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",9,166,"Davidson","","Mark","Green Party","Parti Vert",N,N,7
+35062,"Mississauga--Malton","Mississauga--Malton"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",9,166,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,115
+35062,"Mississauga--Malton","Mississauga--Malton"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",9,166,"Roach","","Clyde","Conservative","Conservateur",N,N,78
+35062,"Mississauga--Malton","Mississauga--Malton"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",63,0,"Ahmed","","Waseem","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,234
+35062,"Mississauga--Malton","Mississauga--Malton"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",63,0,"Chilelli","","Frank","Marxist-Leninist","Marxiste-Léniniste",N,N,3
+35062,"Mississauga--Malton","Mississauga--Malton"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",63,0,"Davidson","","Mark","Green Party","Parti Vert",N,N,30
+35062,"Mississauga--Malton","Mississauga--Malton"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",63,0,"Gaheer","","Iqwinder","Liberal","Libéral",N,Y,814
+35062,"Mississauga--Malton","Mississauga--Malton"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",63,0,"Roach","","Clyde","Conservative","Conservateur",N,N,590

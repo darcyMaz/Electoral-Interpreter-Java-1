@@ -1,0 +1,1231 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+35068,"Niagara West","Niagara-Ouest"," 1","St. Catharines",N,N,"",0,447,"Allison","","Dean","Conservative","Conservateur",Y,Y,96
+35068,"Niagara West","Niagara-Ouest"," 1","St. Catharines",N,N,"",0,447,"Bingham","","Ian","Liberal","Libéral",N,N,56
+35068,"Niagara West","Niagara-Ouest"," 1","St. Catharines",N,N,"",0,447,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,10
+35068,"Niagara West","Niagara-Ouest"," 1","St. Catharines",N,N,"",0,447,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 1","St. Catharines",N,N,"",0,447,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 1","St. Catharines",N,N,"",0,447,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35068,"Niagara West","Niagara-Ouest"," 2","St. Catharines",N,N,"",1,574,"Allison","","Dean","Conservative","Conservateur",Y,Y,173
+35068,"Niagara West","Niagara-Ouest"," 2","St. Catharines",N,N,"",1,574,"Bingham","","Ian","Liberal","Libéral",N,N,75
+35068,"Niagara West","Niagara-Ouest"," 2","St. Catharines",N,N,"",1,574,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 2","St. Catharines",N,N,"",1,574,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 2","St. Catharines",N,N,"",1,574,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,13
+35068,"Niagara West","Niagara-Ouest"," 2","St. Catharines",N,N,"",1,574,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35068,"Niagara West","Niagara-Ouest"," 3","Lincoln",N,N,"",1,445,"Allison","","Dean","Conservative","Conservateur",Y,Y,100
+35068,"Niagara West","Niagara-Ouest"," 3","Lincoln",N,N,"",1,445,"Bingham","","Ian","Liberal","Libéral",N,N,68
+35068,"Niagara West","Niagara-Ouest"," 3","Lincoln",N,N,"",1,445,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,8
+35068,"Niagara West","Niagara-Ouest"," 3","Lincoln",N,N,"",1,445,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 3","Lincoln",N,N,"",1,445,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 3","Lincoln",N,N,"",1,445,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35068,"Niagara West","Niagara-Ouest"," 4","Grimsby",N,N,"10",0,186,"Allison","","Dean","Conservative","Conservateur",Y,Y,0
+35068,"Niagara West","Niagara-Ouest"," 4","Grimsby",N,N,"10",0,186,"Bingham","","Ian","Liberal","Libéral",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 4","Grimsby",N,N,"10",0,186,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 4","Grimsby",N,N,"10",0,186,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 4","Grimsby",N,N,"10",0,186,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 4","Grimsby",N,N,"10",0,186,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 5A","Grimsby",N,N,"",0,842,"Allison","","Dean","Conservative","Conservateur",Y,Y,122
+35068,"Niagara West","Niagara-Ouest"," 5A","Grimsby",N,N,"",0,842,"Bingham","","Ian","Liberal","Libéral",N,N,121
+35068,"Niagara West","Niagara-Ouest"," 5A","Grimsby",N,N,"",0,842,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,32
+35068,"Niagara West","Niagara-Ouest"," 5A","Grimsby",N,N,"",0,842,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 5A","Grimsby",N,N,"",0,842,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,11
+35068,"Niagara West","Niagara-Ouest"," 5A","Grimsby",N,N,"",0,842,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+35068,"Niagara West","Niagara-Ouest"," 5B","Grimsby",N,N,"",1,524,"Allison","","Dean","Conservative","Conservateur",Y,Y,62
+35068,"Niagara West","Niagara-Ouest"," 5B","Grimsby",N,N,"",1,524,"Bingham","","Ian","Liberal","Libéral",N,N,46
+35068,"Niagara West","Niagara-Ouest"," 5B","Grimsby",N,N,"",1,524,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,13
+35068,"Niagara West","Niagara-Ouest"," 5B","Grimsby",N,N,"",1,524,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 5B","Grimsby",N,N,"",1,524,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 5B","Grimsby",N,N,"",1,524,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35068,"Niagara West","Niagara-Ouest"," 6","Grimsby",N,N,"",0,364,"Allison","","Dean","Conservative","Conservateur",Y,Y,50
+35068,"Niagara West","Niagara-Ouest"," 6","Grimsby",N,N,"",0,364,"Bingham","","Ian","Liberal","Libéral",N,N,43
+35068,"Niagara West","Niagara-Ouest"," 6","Grimsby",N,N,"",0,364,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,11
+35068,"Niagara West","Niagara-Ouest"," 6","Grimsby",N,N,"",0,364,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 6","Grimsby",N,N,"",0,364,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,6
+35068,"Niagara West","Niagara-Ouest"," 6","Grimsby",N,N,"",0,364,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35068,"Niagara West","Niagara-Ouest"," 7","Grimsby",N,N,"",0,408,"Allison","","Dean","Conservative","Conservateur",Y,Y,66
+35068,"Niagara West","Niagara-Ouest"," 7","Grimsby",N,N,"",0,408,"Bingham","","Ian","Liberal","Libéral",N,N,57
+35068,"Niagara West","Niagara-Ouest"," 7","Grimsby",N,N,"",0,408,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,15
+35068,"Niagara West","Niagara-Ouest"," 7","Grimsby",N,N,"",0,408,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 7","Grimsby",N,N,"",0,408,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 7","Grimsby",N,N,"",0,408,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35068,"Niagara West","Niagara-Ouest"," 8","Grimsby",N,N,"",0,382,"Allison","","Dean","Conservative","Conservateur",Y,Y,53
+35068,"Niagara West","Niagara-Ouest"," 8","Grimsby",N,N,"",0,382,"Bingham","","Ian","Liberal","Libéral",N,N,33
+35068,"Niagara West","Niagara-Ouest"," 8","Grimsby",N,N,"",0,382,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,5
+35068,"Niagara West","Niagara-Ouest"," 8","Grimsby",N,N,"",0,382,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 8","Grimsby",N,N,"",0,382,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 8","Grimsby",N,N,"",0,382,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35068,"Niagara West","Niagara-Ouest"," 9","Grimsby",N,N,"",0,453,"Allison","","Dean","Conservative","Conservateur",Y,Y,88
+35068,"Niagara West","Niagara-Ouest"," 9","Grimsby",N,N,"",0,453,"Bingham","","Ian","Liberal","Libéral",N,N,66
+35068,"Niagara West","Niagara-Ouest"," 9","Grimsby",N,N,"",0,453,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,8
+35068,"Niagara West","Niagara-Ouest"," 9","Grimsby",N,N,"",0,453,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 9","Grimsby",N,N,"",0,453,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,10
+35068,"Niagara West","Niagara-Ouest"," 9","Grimsby",N,N,"",0,453,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35068,"Niagara West","Niagara-Ouest"," 10","Grimsby",N,N,"",1,353,"Allison","","Dean","Conservative","Conservateur",Y,Y,101
+35068,"Niagara West","Niagara-Ouest"," 10","Grimsby",N,N,"",1,353,"Bingham","","Ian","Liberal","Libéral",N,N,75
+35068,"Niagara West","Niagara-Ouest"," 10","Grimsby",N,N,"",1,353,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,26
+35068,"Niagara West","Niagara-Ouest"," 10","Grimsby",N,N,"",1,353,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 10","Grimsby",N,N,"",1,353,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 10","Grimsby",N,N,"",1,353,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35068,"Niagara West","Niagara-Ouest"," 11","Grimsby",N,N,"",1,510,"Allison","","Dean","Conservative","Conservateur",Y,Y,117
+35068,"Niagara West","Niagara-Ouest"," 11","Grimsby",N,N,"",1,510,"Bingham","","Ian","Liberal","Libéral",N,N,74
+35068,"Niagara West","Niagara-Ouest"," 11","Grimsby",N,N,"",1,510,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 11","Grimsby",N,N,"",1,510,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 11","Grimsby",N,N,"",1,510,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,6
+35068,"Niagara West","Niagara-Ouest"," 11","Grimsby",N,N,"",1,510,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35068,"Niagara West","Niagara-Ouest"," 12","Grimsby",N,N,"",0,452,"Allison","","Dean","Conservative","Conservateur",Y,Y,70
+35068,"Niagara West","Niagara-Ouest"," 12","Grimsby",N,N,"",0,452,"Bingham","","Ian","Liberal","Libéral",N,N,43
+35068,"Niagara West","Niagara-Ouest"," 12","Grimsby",N,N,"",0,452,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,17
+35068,"Niagara West","Niagara-Ouest"," 12","Grimsby",N,N,"",0,452,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 12","Grimsby",N,N,"",0,452,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 12","Grimsby",N,N,"",0,452,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35068,"Niagara West","Niagara-Ouest"," 13","Grimsby",N,N,"",0,462,"Allison","","Dean","Conservative","Conservateur",Y,Y,66
+35068,"Niagara West","Niagara-Ouest"," 13","Grimsby",N,N,"",0,462,"Bingham","","Ian","Liberal","Libéral",N,N,63
+35068,"Niagara West","Niagara-Ouest"," 13","Grimsby",N,N,"",0,462,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 13","Grimsby",N,N,"",0,462,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 13","Grimsby",N,N,"",0,462,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,6
+35068,"Niagara West","Niagara-Ouest"," 13","Grimsby",N,N,"",0,462,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35068,"Niagara West","Niagara-Ouest"," 14","Grimsby",N,N,"",1,412,"Allison","","Dean","Conservative","Conservateur",Y,Y,128
+35068,"Niagara West","Niagara-Ouest"," 14","Grimsby",N,N,"",1,412,"Bingham","","Ian","Liberal","Libéral",N,N,93
+35068,"Niagara West","Niagara-Ouest"," 14","Grimsby",N,N,"",1,412,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,34
+35068,"Niagara West","Niagara-Ouest"," 14","Grimsby",N,N,"",1,412,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 14","Grimsby",N,N,"",1,412,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,8
+35068,"Niagara West","Niagara-Ouest"," 14","Grimsby",N,N,"",1,412,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35068,"Niagara West","Niagara-Ouest"," 15","Grimsby",N,N,"14",0,339,"Allison","","Dean","Conservative","Conservateur",Y,Y,0
+35068,"Niagara West","Niagara-Ouest"," 15","Grimsby",N,N,"14",0,339,"Bingham","","Ian","Liberal","Libéral",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 15","Grimsby",N,N,"14",0,339,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 15","Grimsby",N,N,"14",0,339,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 15","Grimsby",N,N,"14",0,339,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 15","Grimsby",N,N,"14",0,339,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 16","Grimsby",N,N,"",0,458,"Allison","","Dean","Conservative","Conservateur",Y,Y,92
+35068,"Niagara West","Niagara-Ouest"," 16","Grimsby",N,N,"",0,458,"Bingham","","Ian","Liberal","Libéral",N,N,56
+35068,"Niagara West","Niagara-Ouest"," 16","Grimsby",N,N,"",0,458,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,16
+35068,"Niagara West","Niagara-Ouest"," 16","Grimsby",N,N,"",0,458,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 16","Grimsby",N,N,"",0,458,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 16","Grimsby",N,N,"",0,458,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35068,"Niagara West","Niagara-Ouest"," 17","Grimsby",N,N,"",0,420,"Allison","","Dean","Conservative","Conservateur",Y,Y,72
+35068,"Niagara West","Niagara-Ouest"," 17","Grimsby",N,N,"",0,420,"Bingham","","Ian","Liberal","Libéral",N,N,63
+35068,"Niagara West","Niagara-Ouest"," 17","Grimsby",N,N,"",0,420,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,12
+35068,"Niagara West","Niagara-Ouest"," 17","Grimsby",N,N,"",0,420,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 17","Grimsby",N,N,"",0,420,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,17
+35068,"Niagara West","Niagara-Ouest"," 17","Grimsby",N,N,"",0,420,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35068,"Niagara West","Niagara-Ouest"," 18","Grimsby",N,N,"",0,527,"Allison","","Dean","Conservative","Conservateur",Y,Y,113
+35068,"Niagara West","Niagara-Ouest"," 18","Grimsby",N,N,"",0,527,"Bingham","","Ian","Liberal","Libéral",N,N,74
+35068,"Niagara West","Niagara-Ouest"," 18","Grimsby",N,N,"",0,527,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,21
+35068,"Niagara West","Niagara-Ouest"," 18","Grimsby",N,N,"",0,527,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 18","Grimsby",N,N,"",0,527,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,14
+35068,"Niagara West","Niagara-Ouest"," 18","Grimsby",N,N,"",0,527,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35068,"Niagara West","Niagara-Ouest"," 19","Grimsby",N,N,"",0,390,"Allison","","Dean","Conservative","Conservateur",Y,Y,51
+35068,"Niagara West","Niagara-Ouest"," 19","Grimsby",N,N,"",0,390,"Bingham","","Ian","Liberal","Libéral",N,N,54
+35068,"Niagara West","Niagara-Ouest"," 19","Grimsby",N,N,"",0,390,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 19","Grimsby",N,N,"",0,390,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 19","Grimsby",N,N,"",0,390,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,8
+35068,"Niagara West","Niagara-Ouest"," 19","Grimsby",N,N,"",0,390,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35068,"Niagara West","Niagara-Ouest"," 20","Grimsby",N,N,"",1,405,"Allison","","Dean","Conservative","Conservateur",Y,Y,80
+35068,"Niagara West","Niagara-Ouest"," 20","Grimsby",N,N,"",1,405,"Bingham","","Ian","Liberal","Libéral",N,N,63
+35068,"Niagara West","Niagara-Ouest"," 20","Grimsby",N,N,"",1,405,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,10
+35068,"Niagara West","Niagara-Ouest"," 20","Grimsby",N,N,"",1,405,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 20","Grimsby",N,N,"",1,405,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 20","Grimsby",N,N,"",1,405,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35068,"Niagara West","Niagara-Ouest"," 21","Grimsby",N,N,"",1,483,"Allison","","Dean","Conservative","Conservateur",Y,Y,92
+35068,"Niagara West","Niagara-Ouest"," 21","Grimsby",N,N,"",1,483,"Bingham","","Ian","Liberal","Libéral",N,N,74
+35068,"Niagara West","Niagara-Ouest"," 21","Grimsby",N,N,"",1,483,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,8
+35068,"Niagara West","Niagara-Ouest"," 21","Grimsby",N,N,"",1,483,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 21","Grimsby",N,N,"",1,483,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 21","Grimsby",N,N,"",1,483,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35068,"Niagara West","Niagara-Ouest"," 22","Grimsby",N,N,"",1,449,"Allison","","Dean","Conservative","Conservateur",Y,Y,65
+35068,"Niagara West","Niagara-Ouest"," 22","Grimsby",N,N,"",1,449,"Bingham","","Ian","Liberal","Libéral",N,N,53
+35068,"Niagara West","Niagara-Ouest"," 22","Grimsby",N,N,"",1,449,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,14
+35068,"Niagara West","Niagara-Ouest"," 22","Grimsby",N,N,"",1,449,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 22","Grimsby",N,N,"",1,449,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,5
+35068,"Niagara West","Niagara-Ouest"," 22","Grimsby",N,N,"",1,449,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35068,"Niagara West","Niagara-Ouest"," 23","Grimsby",N,N,"",0,345,"Allison","","Dean","Conservative","Conservateur",Y,Y,81
+35068,"Niagara West","Niagara-Ouest"," 23","Grimsby",N,N,"",0,345,"Bingham","","Ian","Liberal","Libéral",N,N,35
+35068,"Niagara West","Niagara-Ouest"," 23","Grimsby",N,N,"",0,345,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,11
+35068,"Niagara West","Niagara-Ouest"," 23","Grimsby",N,N,"",0,345,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 23","Grimsby",N,N,"",0,345,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 23","Grimsby",N,N,"",0,345,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35068,"Niagara West","Niagara-Ouest"," 24","Grimsby",N,N,"",1,428,"Allison","","Dean","Conservative","Conservateur",Y,Y,59
+35068,"Niagara West","Niagara-Ouest"," 24","Grimsby",N,N,"",1,428,"Bingham","","Ian","Liberal","Libéral",N,N,49
+35068,"Niagara West","Niagara-Ouest"," 24","Grimsby",N,N,"",1,428,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,5
+35068,"Niagara West","Niagara-Ouest"," 24","Grimsby",N,N,"",1,428,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 24","Grimsby",N,N,"",1,428,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,8
+35068,"Niagara West","Niagara-Ouest"," 24","Grimsby",N,N,"",1,428,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35068,"Niagara West","Niagara-Ouest"," 25","Grimsby",N,N,"",1,484,"Allison","","Dean","Conservative","Conservateur",Y,Y,97
+35068,"Niagara West","Niagara-Ouest"," 25","Grimsby",N,N,"",1,484,"Bingham","","Ian","Liberal","Libéral",N,N,74
+35068,"Niagara West","Niagara-Ouest"," 25","Grimsby",N,N,"",1,484,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,16
+35068,"Niagara West","Niagara-Ouest"," 25","Grimsby",N,N,"",1,484,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 25","Grimsby",N,N,"",1,484,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 25","Grimsby",N,N,"",1,484,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35068,"Niagara West","Niagara-Ouest"," 26","Lincoln",N,N,"",1,560,"Allison","","Dean","Conservative","Conservateur",Y,Y,86
+35068,"Niagara West","Niagara-Ouest"," 26","Lincoln",N,N,"",1,560,"Bingham","","Ian","Liberal","Libéral",N,N,46
+35068,"Niagara West","Niagara-Ouest"," 26","Lincoln",N,N,"",1,560,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,20
+35068,"Niagara West","Niagara-Ouest"," 26","Lincoln",N,N,"",1,560,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 26","Lincoln",N,N,"",1,560,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 26","Lincoln",N,N,"",1,560,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+35068,"Niagara West","Niagara-Ouest"," 27","Lincoln",N,N,"",1,608,"Allison","","Dean","Conservative","Conservateur",Y,Y,180
+35068,"Niagara West","Niagara-Ouest"," 27","Lincoln",N,N,"",1,608,"Bingham","","Ian","Liberal","Libéral",N,N,56
+35068,"Niagara West","Niagara-Ouest"," 27","Lincoln",N,N,"",1,608,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,22
+35068,"Niagara West","Niagara-Ouest"," 27","Lincoln",N,N,"",1,608,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 27","Lincoln",N,N,"",1,608,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,11
+35068,"Niagara West","Niagara-Ouest"," 27","Lincoln",N,N,"",1,608,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35068,"Niagara West","Niagara-Ouest"," 28","Lincoln",N,N,"",5,558,"Allison","","Dean","Conservative","Conservateur",Y,Y,106
+35068,"Niagara West","Niagara-Ouest"," 28","Lincoln",N,N,"",5,558,"Bingham","","Ian","Liberal","Libéral",N,N,53
+35068,"Niagara West","Niagara-Ouest"," 28","Lincoln",N,N,"",5,558,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,17
+35068,"Niagara West","Niagara-Ouest"," 28","Lincoln",N,N,"",5,558,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 28","Lincoln",N,N,"",5,558,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,12
+35068,"Niagara West","Niagara-Ouest"," 28","Lincoln",N,N,"",5,558,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35068,"Niagara West","Niagara-Ouest"," 29","Lincoln",N,N,"",1,601,"Allison","","Dean","Conservative","Conservateur",Y,Y,105
+35068,"Niagara West","Niagara-Ouest"," 29","Lincoln",N,N,"",1,601,"Bingham","","Ian","Liberal","Libéral",N,N,83
+35068,"Niagara West","Niagara-Ouest"," 29","Lincoln",N,N,"",1,601,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,17
+35068,"Niagara West","Niagara-Ouest"," 29","Lincoln",N,N,"",1,601,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 29","Lincoln",N,N,"",1,601,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,12
+35068,"Niagara West","Niagara-Ouest"," 29","Lincoln",N,N,"",1,601,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+35068,"Niagara West","Niagara-Ouest"," 30","Grimsby",N,N,"",1,480,"Allison","","Dean","Conservative","Conservateur",Y,Y,84
+35068,"Niagara West","Niagara-Ouest"," 30","Grimsby",N,N,"",1,480,"Bingham","","Ian","Liberal","Libéral",N,N,83
+35068,"Niagara West","Niagara-Ouest"," 30","Grimsby",N,N,"",1,480,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,6
+35068,"Niagara West","Niagara-Ouest"," 30","Grimsby",N,N,"",1,480,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 30","Grimsby",N,N,"",1,480,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,14
+35068,"Niagara West","Niagara-Ouest"," 30","Grimsby",N,N,"",1,480,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35068,"Niagara West","Niagara-Ouest"," 31","Grimsby",N,N,"",0,452,"Allison","","Dean","Conservative","Conservateur",Y,Y,52
+35068,"Niagara West","Niagara-Ouest"," 31","Grimsby",N,N,"",0,452,"Bingham","","Ian","Liberal","Libéral",N,N,63
+35068,"Niagara West","Niagara-Ouest"," 31","Grimsby",N,N,"",0,452,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,13
+35068,"Niagara West","Niagara-Ouest"," 31","Grimsby",N,N,"",0,452,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 31","Grimsby",N,N,"",0,452,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 31","Grimsby",N,N,"",0,452,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35068,"Niagara West","Niagara-Ouest"," 32","Grimsby",N,N,"",0,458,"Allison","","Dean","Conservative","Conservateur",Y,Y,101
+35068,"Niagara West","Niagara-Ouest"," 32","Grimsby",N,N,"",0,458,"Bingham","","Ian","Liberal","Libéral",N,N,75
+35068,"Niagara West","Niagara-Ouest"," 32","Grimsby",N,N,"",0,458,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,13
+35068,"Niagara West","Niagara-Ouest"," 32","Grimsby",N,N,"",0,458,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 32","Grimsby",N,N,"",0,458,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 32","Grimsby",N,N,"",0,458,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35068,"Niagara West","Niagara-Ouest"," 33","Grimsby",N,N,"",0,463,"Allison","","Dean","Conservative","Conservateur",Y,Y,72
+35068,"Niagara West","Niagara-Ouest"," 33","Grimsby",N,N,"",0,463,"Bingham","","Ian","Liberal","Libéral",N,N,69
+35068,"Niagara West","Niagara-Ouest"," 33","Grimsby",N,N,"",0,463,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,14
+35068,"Niagara West","Niagara-Ouest"," 33","Grimsby",N,N,"",0,463,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 33","Grimsby",N,N,"",0,463,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 33","Grimsby",N,N,"",0,463,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35068,"Niagara West","Niagara-Ouest"," 34","Grimsby",N,N,"",0,441,"Allison","","Dean","Conservative","Conservateur",Y,Y,72
+35068,"Niagara West","Niagara-Ouest"," 34","Grimsby",N,N,"",0,441,"Bingham","","Ian","Liberal","Libéral",N,N,82
+35068,"Niagara West","Niagara-Ouest"," 34","Grimsby",N,N,"",0,441,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,13
+35068,"Niagara West","Niagara-Ouest"," 34","Grimsby",N,N,"",0,441,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 34","Grimsby",N,N,"",0,441,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 34","Grimsby",N,N,"",0,441,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35068,"Niagara West","Niagara-Ouest"," 35","Grimsby",N,N,"",0,481,"Allison","","Dean","Conservative","Conservateur",Y,Y,46
+35068,"Niagara West","Niagara-Ouest"," 35","Grimsby",N,N,"",0,481,"Bingham","","Ian","Liberal","Libéral",N,N,54
+35068,"Niagara West","Niagara-Ouest"," 35","Grimsby",N,N,"",0,481,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,11
+35068,"Niagara West","Niagara-Ouest"," 35","Grimsby",N,N,"",0,481,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 35","Grimsby",N,N,"",0,481,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,8
+35068,"Niagara West","Niagara-Ouest"," 35","Grimsby",N,N,"",0,481,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35068,"Niagara West","Niagara-Ouest"," 36","Grimsby",N,N,"39",0,249,"Allison","","Dean","Conservative","Conservateur",Y,Y,0
+35068,"Niagara West","Niagara-Ouest"," 36","Grimsby",N,N,"39",0,249,"Bingham","","Ian","Liberal","Libéral",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 36","Grimsby",N,N,"39",0,249,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 36","Grimsby",N,N,"39",0,249,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 36","Grimsby",N,N,"39",0,249,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 36","Grimsby",N,N,"39",0,249,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 37","Grimsby",N,N,"",0,392,"Allison","","Dean","Conservative","Conservateur",Y,Y,39
+35068,"Niagara West","Niagara-Ouest"," 37","Grimsby",N,N,"",0,392,"Bingham","","Ian","Liberal","Libéral",N,N,38
+35068,"Niagara West","Niagara-Ouest"," 37","Grimsby",N,N,"",0,392,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,10
+35068,"Niagara West","Niagara-Ouest"," 37","Grimsby",N,N,"",0,392,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,5
+35068,"Niagara West","Niagara-Ouest"," 37","Grimsby",N,N,"",0,392,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,11
+35068,"Niagara West","Niagara-Ouest"," 37","Grimsby",N,N,"",0,392,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35068,"Niagara West","Niagara-Ouest"," 38","Grimsby",N,N,"",0,406,"Allison","","Dean","Conservative","Conservateur",Y,Y,61
+35068,"Niagara West","Niagara-Ouest"," 38","Grimsby",N,N,"",0,406,"Bingham","","Ian","Liberal","Libéral",N,N,60
+35068,"Niagara West","Niagara-Ouest"," 38","Grimsby",N,N,"",0,406,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 38","Grimsby",N,N,"",0,406,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 38","Grimsby",N,N,"",0,406,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 38","Grimsby",N,N,"",0,406,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35068,"Niagara West","Niagara-Ouest"," 39","Grimsby",N,N,"",1,358,"Allison","","Dean","Conservative","Conservateur",Y,Y,89
+35068,"Niagara West","Niagara-Ouest"," 39","Grimsby",N,N,"",1,358,"Bingham","","Ian","Liberal","Libéral",N,N,94
+35068,"Niagara West","Niagara-Ouest"," 39","Grimsby",N,N,"",1,358,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,13
+35068,"Niagara West","Niagara-Ouest"," 39","Grimsby",N,N,"",1,358,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 39","Grimsby",N,N,"",1,358,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,15
+35068,"Niagara West","Niagara-Ouest"," 39","Grimsby",N,N,"",1,358,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35068,"Niagara West","Niagara-Ouest"," 40","Grimsby",N,N,"",0,377,"Allison","","Dean","Conservative","Conservateur",Y,Y,52
+35068,"Niagara West","Niagara-Ouest"," 40","Grimsby",N,N,"",0,377,"Bingham","","Ian","Liberal","Libéral",N,N,61
+35068,"Niagara West","Niagara-Ouest"," 40","Grimsby",N,N,"",0,377,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,10
+35068,"Niagara West","Niagara-Ouest"," 40","Grimsby",N,N,"",0,377,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 40","Grimsby",N,N,"",0,377,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,10
+35068,"Niagara West","Niagara-Ouest"," 40","Grimsby",N,N,"",0,377,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35068,"Niagara West","Niagara-Ouest"," 41","Grimsby",N,N,"",1,606,"Allison","","Dean","Conservative","Conservateur",Y,Y,96
+35068,"Niagara West","Niagara-Ouest"," 41","Grimsby",N,N,"",1,606,"Bingham","","Ian","Liberal","Libéral",N,N,93
+35068,"Niagara West","Niagara-Ouest"," 41","Grimsby",N,N,"",1,606,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 41","Grimsby",N,N,"",1,606,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,6
+35068,"Niagara West","Niagara-Ouest"," 41","Grimsby",N,N,"",1,606,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,14
+35068,"Niagara West","Niagara-Ouest"," 41","Grimsby",N,N,"",1,606,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35068,"Niagara West","Niagara-Ouest"," 42","Grimsby",N,N,"",0,459,"Allison","","Dean","Conservative","Conservateur",Y,Y,51
+35068,"Niagara West","Niagara-Ouest"," 42","Grimsby",N,N,"",0,459,"Bingham","","Ian","Liberal","Libéral",N,N,72
+35068,"Niagara West","Niagara-Ouest"," 42","Grimsby",N,N,"",0,459,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 42","Grimsby",N,N,"",0,459,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 42","Grimsby",N,N,"",0,459,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 42","Grimsby",N,N,"",0,459,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35068,"Niagara West","Niagara-Ouest"," 43","Grimsby",N,N,"",0,381,"Allison","","Dean","Conservative","Conservateur",Y,Y,77
+35068,"Niagara West","Niagara-Ouest"," 43","Grimsby",N,N,"",0,381,"Bingham","","Ian","Liberal","Libéral",N,N,79
+35068,"Niagara West","Niagara-Ouest"," 43","Grimsby",N,N,"",0,381,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,8
+35068,"Niagara West","Niagara-Ouest"," 43","Grimsby",N,N,"",0,381,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 43","Grimsby",N,N,"",0,381,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,8
+35068,"Niagara West","Niagara-Ouest"," 43","Grimsby",N,N,"",0,381,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35068,"Niagara West","Niagara-Ouest"," 44","Grimsby",N,N,"45",0,289,"Allison","","Dean","Conservative","Conservateur",Y,Y,0
+35068,"Niagara West","Niagara-Ouest"," 44","Grimsby",N,N,"45",0,289,"Bingham","","Ian","Liberal","Libéral",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 44","Grimsby",N,N,"45",0,289,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 44","Grimsby",N,N,"45",0,289,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 44","Grimsby",N,N,"45",0,289,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 44","Grimsby",N,N,"45",0,289,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 45","Grimsby",N,N,"",0,381,"Allison","","Dean","Conservative","Conservateur",Y,Y,136
+35068,"Niagara West","Niagara-Ouest"," 45","Grimsby",N,N,"",0,381,"Bingham","","Ian","Liberal","Libéral",N,N,118
+35068,"Niagara West","Niagara-Ouest"," 45","Grimsby",N,N,"",0,381,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,25
+35068,"Niagara West","Niagara-Ouest"," 45","Grimsby",N,N,"",0,381,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 45","Grimsby",N,N,"",0,381,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,14
+35068,"Niagara West","Niagara-Ouest"," 45","Grimsby",N,N,"",0,381,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35068,"Niagara West","Niagara-Ouest"," 46","Grimsby",N,N,"",0,451,"Allison","","Dean","Conservative","Conservateur",Y,Y,65
+35068,"Niagara West","Niagara-Ouest"," 46","Grimsby",N,N,"",0,451,"Bingham","","Ian","Liberal","Libéral",N,N,62
+35068,"Niagara West","Niagara-Ouest"," 46","Grimsby",N,N,"",0,451,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 46","Grimsby",N,N,"",0,451,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 46","Grimsby",N,N,"",0,451,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 46","Grimsby",N,N,"",0,451,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35068,"Niagara West","Niagara-Ouest"," 47","Lincoln",N,N,"",1,385,"Allison","","Dean","Conservative","Conservateur",Y,Y,106
+35068,"Niagara West","Niagara-Ouest"," 47","Lincoln",N,N,"",1,385,"Bingham","","Ian","Liberal","Libéral",N,N,40
+35068,"Niagara West","Niagara-Ouest"," 47","Lincoln",N,N,"",1,385,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,11
+35068,"Niagara West","Niagara-Ouest"," 47","Lincoln",N,N,"",1,385,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,6
+35068,"Niagara West","Niagara-Ouest"," 47","Lincoln",N,N,"",1,385,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 47","Lincoln",N,N,"",1,385,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35068,"Niagara West","Niagara-Ouest"," 48","Lincoln",N,N,"",0,464,"Allison","","Dean","Conservative","Conservateur",Y,Y,149
+35068,"Niagara West","Niagara-Ouest"," 48","Lincoln",N,N,"",0,464,"Bingham","","Ian","Liberal","Libéral",N,N,51
+35068,"Niagara West","Niagara-Ouest"," 48","Lincoln",N,N,"",0,464,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,13
+35068,"Niagara West","Niagara-Ouest"," 48","Lincoln",N,N,"",0,464,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 48","Lincoln",N,N,"",0,464,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,6
+35068,"Niagara West","Niagara-Ouest"," 48","Lincoln",N,N,"",0,464,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35068,"Niagara West","Niagara-Ouest"," 49","Lincoln",N,N,"",1,609,"Allison","","Dean","Conservative","Conservateur",Y,Y,178
+35068,"Niagara West","Niagara-Ouest"," 49","Lincoln",N,N,"",1,609,"Bingham","","Ian","Liberal","Libéral",N,N,62
+35068,"Niagara West","Niagara-Ouest"," 49","Lincoln",N,N,"",1,609,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,21
+35068,"Niagara West","Niagara-Ouest"," 49","Lincoln",N,N,"",1,609,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,8
+35068,"Niagara West","Niagara-Ouest"," 49","Lincoln",N,N,"",1,609,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 49","Lincoln",N,N,"",1,609,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35068,"Niagara West","Niagara-Ouest"," 50","Lincoln",N,N,"",0,412,"Allison","","Dean","Conservative","Conservateur",Y,Y,61
+35068,"Niagara West","Niagara-Ouest"," 50","Lincoln",N,N,"",0,412,"Bingham","","Ian","Liberal","Libéral",N,N,52
+35068,"Niagara West","Niagara-Ouest"," 50","Lincoln",N,N,"",0,412,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 50","Lincoln",N,N,"",0,412,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 50","Lincoln",N,N,"",0,412,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,6
+35068,"Niagara West","Niagara-Ouest"," 50","Lincoln",N,N,"",0,412,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35068,"Niagara West","Niagara-Ouest"," 51","Grimsby",N,N,"",0,460,"Allison","","Dean","Conservative","Conservateur",Y,Y,62
+35068,"Niagara West","Niagara-Ouest"," 51","Grimsby",N,N,"",0,460,"Bingham","","Ian","Liberal","Libéral",N,N,63
+35068,"Niagara West","Niagara-Ouest"," 51","Grimsby",N,N,"",0,460,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,14
+35068,"Niagara West","Niagara-Ouest"," 51","Grimsby",N,N,"",0,460,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 51","Grimsby",N,N,"",0,460,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,5
+35068,"Niagara West","Niagara-Ouest"," 51","Grimsby",N,N,"",0,460,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35068,"Niagara West","Niagara-Ouest"," 52","Grimsby",N,N,"",2,481,"Allison","","Dean","Conservative","Conservateur",Y,Y,103
+35068,"Niagara West","Niagara-Ouest"," 52","Grimsby",N,N,"",2,481,"Bingham","","Ian","Liberal","Libéral",N,N,58
+35068,"Niagara West","Niagara-Ouest"," 52","Grimsby",N,N,"",2,481,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,14
+35068,"Niagara West","Niagara-Ouest"," 52","Grimsby",N,N,"",2,481,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 52","Grimsby",N,N,"",2,481,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 52","Grimsby",N,N,"",2,481,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35068,"Niagara West","Niagara-Ouest"," 53","Grimsby",N,N,"",1,429,"Allison","","Dean","Conservative","Conservateur",Y,Y,68
+35068,"Niagara West","Niagara-Ouest"," 53","Grimsby",N,N,"",1,429,"Bingham","","Ian","Liberal","Libéral",N,N,87
+35068,"Niagara West","Niagara-Ouest"," 53","Grimsby",N,N,"",1,429,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 53","Grimsby",N,N,"",1,429,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 53","Grimsby",N,N,"",1,429,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 53","Grimsby",N,N,"",1,429,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35068,"Niagara West","Niagara-Ouest"," 54","Grimsby",N,N,"",0,425,"Allison","","Dean","Conservative","Conservateur",Y,Y,95
+35068,"Niagara West","Niagara-Ouest"," 54","Grimsby",N,N,"",0,425,"Bingham","","Ian","Liberal","Libéral",N,N,63
+35068,"Niagara West","Niagara-Ouest"," 54","Grimsby",N,N,"",0,425,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 54","Grimsby",N,N,"",0,425,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 54","Grimsby",N,N,"",0,425,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,12
+35068,"Niagara West","Niagara-Ouest"," 54","Grimsby",N,N,"",0,425,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35068,"Niagara West","Niagara-Ouest"," 55","Grimsby",N,N,"",1,395,"Allison","","Dean","Conservative","Conservateur",Y,Y,91
+35068,"Niagara West","Niagara-Ouest"," 55","Grimsby",N,N,"",1,395,"Bingham","","Ian","Liberal","Libéral",N,N,66
+35068,"Niagara West","Niagara-Ouest"," 55","Grimsby",N,N,"",1,395,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,13
+35068,"Niagara West","Niagara-Ouest"," 55","Grimsby",N,N,"",1,395,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 55","Grimsby",N,N,"",1,395,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,10
+35068,"Niagara West","Niagara-Ouest"," 55","Grimsby",N,N,"",1,395,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35068,"Niagara West","Niagara-Ouest"," 56","Grimsby",N,N,"",0,435,"Allison","","Dean","Conservative","Conservateur",Y,Y,60
+35068,"Niagara West","Niagara-Ouest"," 56","Grimsby",N,N,"",0,435,"Bingham","","Ian","Liberal","Libéral",N,N,51
+35068,"Niagara West","Niagara-Ouest"," 56","Grimsby",N,N,"",0,435,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,17
+35068,"Niagara West","Niagara-Ouest"," 56","Grimsby",N,N,"",0,435,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 56","Grimsby",N,N,"",0,435,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 56","Grimsby",N,N,"",0,435,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35068,"Niagara West","Niagara-Ouest"," 57","Grimsby",N,N,"",2,551,"Allison","","Dean","Conservative","Conservateur",Y,Y,100
+35068,"Niagara West","Niagara-Ouest"," 57","Grimsby",N,N,"",2,551,"Bingham","","Ian","Liberal","Libéral",N,N,97
+35068,"Niagara West","Niagara-Ouest"," 57","Grimsby",N,N,"",2,551,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,5
+35068,"Niagara West","Niagara-Ouest"," 57","Grimsby",N,N,"",2,551,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 57","Grimsby",N,N,"",2,551,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,5
+35068,"Niagara West","Niagara-Ouest"," 57","Grimsby",N,N,"",2,551,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35068,"Niagara West","Niagara-Ouest"," 58","Grimsby",N,N,"",0,457,"Allison","","Dean","Conservative","Conservateur",Y,Y,77
+35068,"Niagara West","Niagara-Ouest"," 58","Grimsby",N,N,"",0,457,"Bingham","","Ian","Liberal","Libéral",N,N,73
+35068,"Niagara West","Niagara-Ouest"," 58","Grimsby",N,N,"",0,457,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 58","Grimsby",N,N,"",0,457,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 58","Grimsby",N,N,"",0,457,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 58","Grimsby",N,N,"",0,457,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35068,"Niagara West","Niagara-Ouest"," 59","Lincoln",N,N,"",0,411,"Allison","","Dean","Conservative","Conservateur",Y,Y,80
+35068,"Niagara West","Niagara-Ouest"," 59","Lincoln",N,N,"",0,411,"Bingham","","Ian","Liberal","Libéral",N,N,42
+35068,"Niagara West","Niagara-Ouest"," 59","Lincoln",N,N,"",0,411,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 59","Lincoln",N,N,"",0,411,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 59","Lincoln",N,N,"",0,411,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 59","Lincoln",N,N,"",0,411,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35068,"Niagara West","Niagara-Ouest"," 60","Lincoln",N,N,"",1,383,"Allison","","Dean","Conservative","Conservateur",Y,Y,69
+35068,"Niagara West","Niagara-Ouest"," 60","Lincoln",N,N,"",1,383,"Bingham","","Ian","Liberal","Libéral",N,N,46
+35068,"Niagara West","Niagara-Ouest"," 60","Lincoln",N,N,"",1,383,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,10
+35068,"Niagara West","Niagara-Ouest"," 60","Lincoln",N,N,"",1,383,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 60","Lincoln",N,N,"",1,383,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,5
+35068,"Niagara West","Niagara-Ouest"," 60","Lincoln",N,N,"",1,383,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35068,"Niagara West","Niagara-Ouest"," 61","Lincoln",N,N,"",0,443,"Allison","","Dean","Conservative","Conservateur",Y,Y,71
+35068,"Niagara West","Niagara-Ouest"," 61","Lincoln",N,N,"",0,443,"Bingham","","Ian","Liberal","Libéral",N,N,49
+35068,"Niagara West","Niagara-Ouest"," 61","Lincoln",N,N,"",0,443,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,19
+35068,"Niagara West","Niagara-Ouest"," 61","Lincoln",N,N,"",0,443,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 61","Lincoln",N,N,"",0,443,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 61","Lincoln",N,N,"",0,443,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35068,"Niagara West","Niagara-Ouest"," 62","Lincoln",N,N,"",0,453,"Allison","","Dean","Conservative","Conservateur",Y,Y,72
+35068,"Niagara West","Niagara-Ouest"," 62","Lincoln",N,N,"",0,453,"Bingham","","Ian","Liberal","Libéral",N,N,50
+35068,"Niagara West","Niagara-Ouest"," 62","Lincoln",N,N,"",0,453,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,10
+35068,"Niagara West","Niagara-Ouest"," 62","Lincoln",N,N,"",0,453,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 62","Lincoln",N,N,"",0,453,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,6
+35068,"Niagara West","Niagara-Ouest"," 62","Lincoln",N,N,"",0,453,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35068,"Niagara West","Niagara-Ouest"," 63","Lincoln",N,N,"",1,466,"Allison","","Dean","Conservative","Conservateur",Y,Y,63
+35068,"Niagara West","Niagara-Ouest"," 63","Lincoln",N,N,"",1,466,"Bingham","","Ian","Liberal","Libéral",N,N,59
+35068,"Niagara West","Niagara-Ouest"," 63","Lincoln",N,N,"",1,466,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,14
+35068,"Niagara West","Niagara-Ouest"," 63","Lincoln",N,N,"",1,466,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 63","Lincoln",N,N,"",1,466,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,10
+35068,"Niagara West","Niagara-Ouest"," 63","Lincoln",N,N,"",1,466,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35068,"Niagara West","Niagara-Ouest"," 64","Lincoln",N,N,"",0,454,"Allison","","Dean","Conservative","Conservateur",Y,Y,58
+35068,"Niagara West","Niagara-Ouest"," 64","Lincoln",N,N,"",0,454,"Bingham","","Ian","Liberal","Libéral",N,N,56
+35068,"Niagara West","Niagara-Ouest"," 64","Lincoln",N,N,"",0,454,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,19
+35068,"Niagara West","Niagara-Ouest"," 64","Lincoln",N,N,"",0,454,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 64","Lincoln",N,N,"",0,454,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 64","Lincoln",N,N,"",0,454,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35068,"Niagara West","Niagara-Ouest"," 65","Lincoln",N,N,"",3,438,"Allison","","Dean","Conservative","Conservateur",Y,Y,69
+35068,"Niagara West","Niagara-Ouest"," 65","Lincoln",N,N,"",3,438,"Bingham","","Ian","Liberal","Libéral",N,N,66
+35068,"Niagara West","Niagara-Ouest"," 65","Lincoln",N,N,"",3,438,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,15
+35068,"Niagara West","Niagara-Ouest"," 65","Lincoln",N,N,"",3,438,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 65","Lincoln",N,N,"",3,438,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 65","Lincoln",N,N,"",3,438,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35068,"Niagara West","Niagara-Ouest"," 66","Lincoln",N,N,"",0,734,"Allison","","Dean","Conservative","Conservateur",Y,Y,120
+35068,"Niagara West","Niagara-Ouest"," 66","Lincoln",N,N,"",0,734,"Bingham","","Ian","Liberal","Libéral",N,N,65
+35068,"Niagara West","Niagara-Ouest"," 66","Lincoln",N,N,"",0,734,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,11
+35068,"Niagara West","Niagara-Ouest"," 66","Lincoln",N,N,"",0,734,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 66","Lincoln",N,N,"",0,734,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 66","Lincoln",N,N,"",0,734,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35068,"Niagara West","Niagara-Ouest"," 67","Lincoln",N,N,"",1,497,"Allison","","Dean","Conservative","Conservateur",Y,Y,92
+35068,"Niagara West","Niagara-Ouest"," 67","Lincoln",N,N,"",1,497,"Bingham","","Ian","Liberal","Libéral",N,N,56
+35068,"Niagara West","Niagara-Ouest"," 67","Lincoln",N,N,"",1,497,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,12
+35068,"Niagara West","Niagara-Ouest"," 67","Lincoln",N,N,"",1,497,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 67","Lincoln",N,N,"",1,497,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 67","Lincoln",N,N,"",1,497,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35068,"Niagara West","Niagara-Ouest"," 68","Lincoln",N,N,"",0,417,"Allison","","Dean","Conservative","Conservateur",Y,Y,37
+35068,"Niagara West","Niagara-Ouest"," 68","Lincoln",N,N,"",0,417,"Bingham","","Ian","Liberal","Libéral",N,N,43
+35068,"Niagara West","Niagara-Ouest"," 68","Lincoln",N,N,"",0,417,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,10
+35068,"Niagara West","Niagara-Ouest"," 68","Lincoln",N,N,"",0,417,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 68","Lincoln",N,N,"",0,417,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 68","Lincoln",N,N,"",0,417,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35068,"Niagara West","Niagara-Ouest"," 69","Lincoln",N,N,"",0,527,"Allison","","Dean","Conservative","Conservateur",Y,Y,45
+35068,"Niagara West","Niagara-Ouest"," 69","Lincoln",N,N,"",0,527,"Bingham","","Ian","Liberal","Libéral",N,N,75
+35068,"Niagara West","Niagara-Ouest"," 69","Lincoln",N,N,"",0,527,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,8
+35068,"Niagara West","Niagara-Ouest"," 69","Lincoln",N,N,"",0,527,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 69","Lincoln",N,N,"",0,527,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 69","Lincoln",N,N,"",0,527,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35068,"Niagara West","Niagara-Ouest"," 70","Lincoln",N,N,"",4,397,"Allison","","Dean","Conservative","Conservateur",Y,Y,83
+35068,"Niagara West","Niagara-Ouest"," 70","Lincoln",N,N,"",4,397,"Bingham","","Ian","Liberal","Libéral",N,N,43
+35068,"Niagara West","Niagara-Ouest"," 70","Lincoln",N,N,"",4,397,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,12
+35068,"Niagara West","Niagara-Ouest"," 70","Lincoln",N,N,"",4,397,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 70","Lincoln",N,N,"",4,397,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,6
+35068,"Niagara West","Niagara-Ouest"," 70","Lincoln",N,N,"",4,397,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35068,"Niagara West","Niagara-Ouest"," 71","Lincoln",N,N,"",0,446,"Allison","","Dean","Conservative","Conservateur",Y,Y,85
+35068,"Niagara West","Niagara-Ouest"," 71","Lincoln",N,N,"",0,446,"Bingham","","Ian","Liberal","Libéral",N,N,44
+35068,"Niagara West","Niagara-Ouest"," 71","Lincoln",N,N,"",0,446,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,8
+35068,"Niagara West","Niagara-Ouest"," 71","Lincoln",N,N,"",0,446,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 71","Lincoln",N,N,"",0,446,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 71","Lincoln",N,N,"",0,446,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35068,"Niagara West","Niagara-Ouest"," 72","Lincoln",N,N,"",0,382,"Allison","","Dean","Conservative","Conservateur",Y,Y,98
+35068,"Niagara West","Niagara-Ouest"," 72","Lincoln",N,N,"",0,382,"Bingham","","Ian","Liberal","Libéral",N,N,30
+35068,"Niagara West","Niagara-Ouest"," 72","Lincoln",N,N,"",0,382,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,15
+35068,"Niagara West","Niagara-Ouest"," 72","Lincoln",N,N,"",0,382,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,8
+35068,"Niagara West","Niagara-Ouest"," 72","Lincoln",N,N,"",0,382,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 72","Lincoln",N,N,"",0,382,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35068,"Niagara West","Niagara-Ouest"," 73","Lincoln",N,N,"",0,489,"Allison","","Dean","Conservative","Conservateur",Y,Y,97
+35068,"Niagara West","Niagara-Ouest"," 73","Lincoln",N,N,"",0,489,"Bingham","","Ian","Liberal","Libéral",N,N,61
+35068,"Niagara West","Niagara-Ouest"," 73","Lincoln",N,N,"",0,489,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,11
+35068,"Niagara West","Niagara-Ouest"," 73","Lincoln",N,N,"",0,489,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,6
+35068,"Niagara West","Niagara-Ouest"," 73","Lincoln",N,N,"",0,489,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,5
+35068,"Niagara West","Niagara-Ouest"," 73","Lincoln",N,N,"",0,489,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35068,"Niagara West","Niagara-Ouest"," 74","Lincoln",N,N,"",0,412,"Allison","","Dean","Conservative","Conservateur",Y,Y,81
+35068,"Niagara West","Niagara-Ouest"," 74","Lincoln",N,N,"",0,412,"Bingham","","Ian","Liberal","Libéral",N,N,31
+35068,"Niagara West","Niagara-Ouest"," 74","Lincoln",N,N,"",0,412,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 74","Lincoln",N,N,"",0,412,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,6
+35068,"Niagara West","Niagara-Ouest"," 74","Lincoln",N,N,"",0,412,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 74","Lincoln",N,N,"",0,412,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35068,"Niagara West","Niagara-Ouest"," 75","Lincoln",N,N,"",0,570,"Allison","","Dean","Conservative","Conservateur",Y,Y,112
+35068,"Niagara West","Niagara-Ouest"," 75","Lincoln",N,N,"",0,570,"Bingham","","Ian","Liberal","Libéral",N,N,62
+35068,"Niagara West","Niagara-Ouest"," 75","Lincoln",N,N,"",0,570,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,48
+35068,"Niagara West","Niagara-Ouest"," 75","Lincoln",N,N,"",0,570,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 75","Lincoln",N,N,"",0,570,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,5
+35068,"Niagara West","Niagara-Ouest"," 75","Lincoln",N,N,"",0,570,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35068,"Niagara West","Niagara-Ouest"," 76","Lincoln",N,N,"",0,485,"Allison","","Dean","Conservative","Conservateur",Y,Y,95
+35068,"Niagara West","Niagara-Ouest"," 76","Lincoln",N,N,"",0,485,"Bingham","","Ian","Liberal","Libéral",N,N,74
+35068,"Niagara West","Niagara-Ouest"," 76","Lincoln",N,N,"",0,485,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,8
+35068,"Niagara West","Niagara-Ouest"," 76","Lincoln",N,N,"",0,485,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 76","Lincoln",N,N,"",0,485,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 76","Lincoln",N,N,"",0,485,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35068,"Niagara West","Niagara-Ouest"," 77","Lincoln",N,N,"",0,343,"Allison","","Dean","Conservative","Conservateur",Y,Y,98
+35068,"Niagara West","Niagara-Ouest"," 77","Lincoln",N,N,"",0,343,"Bingham","","Ian","Liberal","Libéral",N,N,44
+35068,"Niagara West","Niagara-Ouest"," 77","Lincoln",N,N,"",0,343,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,13
+35068,"Niagara West","Niagara-Ouest"," 77","Lincoln",N,N,"",0,343,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 77","Lincoln",N,N,"",0,343,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,19
+35068,"Niagara West","Niagara-Ouest"," 77","Lincoln",N,N,"",0,343,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35068,"Niagara West","Niagara-Ouest"," 78","Lincoln",N,N,"",0,446,"Allison","","Dean","Conservative","Conservateur",Y,Y,61
+35068,"Niagara West","Niagara-Ouest"," 78","Lincoln",N,N,"",0,446,"Bingham","","Ian","Liberal","Libéral",N,N,32
+35068,"Niagara West","Niagara-Ouest"," 78","Lincoln",N,N,"",0,446,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,21
+35068,"Niagara West","Niagara-Ouest"," 78","Lincoln",N,N,"",0,446,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 78","Lincoln",N,N,"",0,446,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,5
+35068,"Niagara West","Niagara-Ouest"," 78","Lincoln",N,N,"",0,446,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35068,"Niagara West","Niagara-Ouest"," 79","Lincoln",N,N,"",1,886,"Allison","","Dean","Conservative","Conservateur",Y,Y,161
+35068,"Niagara West","Niagara-Ouest"," 79","Lincoln",N,N,"",1,886,"Bingham","","Ian","Liberal","Libéral",N,N,115
+35068,"Niagara West","Niagara-Ouest"," 79","Lincoln",N,N,"",1,886,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,16
+35068,"Niagara West","Niagara-Ouest"," 79","Lincoln",N,N,"",1,886,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 79","Lincoln",N,N,"",1,886,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 79","Lincoln",N,N,"",1,886,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+35068,"Niagara West","Niagara-Ouest"," 80","Lincoln",N,N,"",2,480,"Allison","","Dean","Conservative","Conservateur",Y,Y,95
+35068,"Niagara West","Niagara-Ouest"," 80","Lincoln",N,N,"",2,480,"Bingham","","Ian","Liberal","Libéral",N,N,66
+35068,"Niagara West","Niagara-Ouest"," 80","Lincoln",N,N,"",2,480,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,8
+35068,"Niagara West","Niagara-Ouest"," 80","Lincoln",N,N,"",2,480,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 80","Lincoln",N,N,"",2,480,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 80","Lincoln",N,N,"",2,480,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35068,"Niagara West","Niagara-Ouest"," 81","Lincoln",N,N,"",0,486,"Allison","","Dean","Conservative","Conservateur",Y,Y,58
+35068,"Niagara West","Niagara-Ouest"," 81","Lincoln",N,N,"",0,486,"Bingham","","Ian","Liberal","Libéral",N,N,67
+35068,"Niagara West","Niagara-Ouest"," 81","Lincoln",N,N,"",0,486,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,10
+35068,"Niagara West","Niagara-Ouest"," 81","Lincoln",N,N,"",0,486,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,6
+35068,"Niagara West","Niagara-Ouest"," 81","Lincoln",N,N,"",0,486,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,10
+35068,"Niagara West","Niagara-Ouest"," 81","Lincoln",N,N,"",0,486,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35068,"Niagara West","Niagara-Ouest"," 82","Lincoln",N,N,"",0,433,"Allison","","Dean","Conservative","Conservateur",Y,Y,51
+35068,"Niagara West","Niagara-Ouest"," 82","Lincoln",N,N,"",0,433,"Bingham","","Ian","Liberal","Libéral",N,N,41
+35068,"Niagara West","Niagara-Ouest"," 82","Lincoln",N,N,"",0,433,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,13
+35068,"Niagara West","Niagara-Ouest"," 82","Lincoln",N,N,"",0,433,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 82","Lincoln",N,N,"",0,433,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,14
+35068,"Niagara West","Niagara-Ouest"," 82","Lincoln",N,N,"",0,433,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35068,"Niagara West","Niagara-Ouest"," 83","Lincoln",N,N,"",2,390,"Allison","","Dean","Conservative","Conservateur",Y,Y,63
+35068,"Niagara West","Niagara-Ouest"," 83","Lincoln",N,N,"",2,390,"Bingham","","Ian","Liberal","Libéral",N,N,58
+35068,"Niagara West","Niagara-Ouest"," 83","Lincoln",N,N,"",2,390,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,11
+35068,"Niagara West","Niagara-Ouest"," 83","Lincoln",N,N,"",2,390,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,5
+35068,"Niagara West","Niagara-Ouest"," 83","Lincoln",N,N,"",2,390,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,5
+35068,"Niagara West","Niagara-Ouest"," 83","Lincoln",N,N,"",2,390,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35068,"Niagara West","Niagara-Ouest"," 84","Lincoln",N,N,"",0,516,"Allison","","Dean","Conservative","Conservateur",Y,Y,86
+35068,"Niagara West","Niagara-Ouest"," 84","Lincoln",N,N,"",0,516,"Bingham","","Ian","Liberal","Libéral",N,N,72
+35068,"Niagara West","Niagara-Ouest"," 84","Lincoln",N,N,"",0,516,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,17
+35068,"Niagara West","Niagara-Ouest"," 84","Lincoln",N,N,"",0,516,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 84","Lincoln",N,N,"",0,516,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,12
+35068,"Niagara West","Niagara-Ouest"," 84","Lincoln",N,N,"",0,516,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35068,"Niagara West","Niagara-Ouest"," 85","Lincoln",N,N,"",0,1059,"Allison","","Dean","Conservative","Conservateur",Y,Y,182
+35068,"Niagara West","Niagara-Ouest"," 85","Lincoln",N,N,"",0,1059,"Bingham","","Ian","Liberal","Libéral",N,N,136
+35068,"Niagara West","Niagara-Ouest"," 85","Lincoln",N,N,"",0,1059,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,41
+35068,"Niagara West","Niagara-Ouest"," 85","Lincoln",N,N,"",0,1059,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 85","Lincoln",N,N,"",0,1059,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,16
+35068,"Niagara West","Niagara-Ouest"," 85","Lincoln",N,N,"",0,1059,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+35068,"Niagara West","Niagara-Ouest"," 86","St. Catharines",N,N,"",0,463,"Allison","","Dean","Conservative","Conservateur",Y,Y,118
+35068,"Niagara West","Niagara-Ouest"," 86","St. Catharines",N,N,"",0,463,"Bingham","","Ian","Liberal","Libéral",N,N,61
+35068,"Niagara West","Niagara-Ouest"," 86","St. Catharines",N,N,"",0,463,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,15
+35068,"Niagara West","Niagara-Ouest"," 86","St. Catharines",N,N,"",0,463,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 86","St. Catharines",N,N,"",0,463,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,8
+35068,"Niagara West","Niagara-Ouest"," 86","St. Catharines",N,N,"",0,463,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35068,"Niagara West","Niagara-Ouest"," 87","Lincoln",N,N,"",0,421,"Allison","","Dean","Conservative","Conservateur",Y,Y,110
+35068,"Niagara West","Niagara-Ouest"," 87","Lincoln",N,N,"",0,421,"Bingham","","Ian","Liberal","Libéral",N,N,38
+35068,"Niagara West","Niagara-Ouest"," 87","Lincoln",N,N,"",0,421,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,24
+35068,"Niagara West","Niagara-Ouest"," 87","Lincoln",N,N,"",0,421,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,6
+35068,"Niagara West","Niagara-Ouest"," 87","Lincoln",N,N,"",0,421,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 87","Lincoln",N,N,"",0,421,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35068,"Niagara West","Niagara-Ouest"," 88","Grimsby",N,N,"",1,430,"Allison","","Dean","Conservative","Conservateur",Y,Y,81
+35068,"Niagara West","Niagara-Ouest"," 88","Grimsby",N,N,"",1,430,"Bingham","","Ian","Liberal","Libéral",N,N,39
+35068,"Niagara West","Niagara-Ouest"," 88","Grimsby",N,N,"",1,430,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,21
+35068,"Niagara West","Niagara-Ouest"," 88","Grimsby",N,N,"",1,430,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 88","Grimsby",N,N,"",1,430,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,13
+35068,"Niagara West","Niagara-Ouest"," 88","Grimsby",N,N,"",1,430,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35068,"Niagara West","Niagara-Ouest"," 89","Grimsby",N,N,"",1,474,"Allison","","Dean","Conservative","Conservateur",Y,Y,83
+35068,"Niagara West","Niagara-Ouest"," 89","Grimsby",N,N,"",1,474,"Bingham","","Ian","Liberal","Libéral",N,N,43
+35068,"Niagara West","Niagara-Ouest"," 89","Grimsby",N,N,"",1,474,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,19
+35068,"Niagara West","Niagara-Ouest"," 89","Grimsby",N,N,"",1,474,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,6
+35068,"Niagara West","Niagara-Ouest"," 89","Grimsby",N,N,"",1,474,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,8
+35068,"Niagara West","Niagara-Ouest"," 89","Grimsby",N,N,"",1,474,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35068,"Niagara West","Niagara-Ouest"," 90","Grimsby",N,N,"",0,397,"Allison","","Dean","Conservative","Conservateur",Y,Y,70
+35068,"Niagara West","Niagara-Ouest"," 90","Grimsby",N,N,"",0,397,"Bingham","","Ian","Liberal","Libéral",N,N,37
+35068,"Niagara West","Niagara-Ouest"," 90","Grimsby",N,N,"",0,397,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,15
+35068,"Niagara West","Niagara-Ouest"," 90","Grimsby",N,N,"",0,397,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 90","Grimsby",N,N,"",0,397,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 90","Grimsby",N,N,"",0,397,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35068,"Niagara West","Niagara-Ouest"," 91","Grimsby",N,N,"",1,589,"Allison","","Dean","Conservative","Conservateur",Y,Y,135
+35068,"Niagara West","Niagara-Ouest"," 91","Grimsby",N,N,"",1,589,"Bingham","","Ian","Liberal","Libéral",N,N,64
+35068,"Niagara West","Niagara-Ouest"," 91","Grimsby",N,N,"",1,589,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,24
+35068,"Niagara West","Niagara-Ouest"," 91","Grimsby",N,N,"",1,589,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 91","Grimsby",N,N,"",1,589,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 91","Grimsby",N,N,"",1,589,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35068,"Niagara West","Niagara-Ouest"," 92","West Lincoln",N,N,"93",0,223,"Allison","","Dean","Conservative","Conservateur",Y,Y,0
+35068,"Niagara West","Niagara-Ouest"," 92","West Lincoln",N,N,"93",0,223,"Bingham","","Ian","Liberal","Libéral",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 92","West Lincoln",N,N,"93",0,223,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 92","West Lincoln",N,N,"93",0,223,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 92","West Lincoln",N,N,"93",0,223,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 92","West Lincoln",N,N,"93",0,223,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 93","Fulton",N,N,"",0,345,"Allison","","Dean","Conservative","Conservateur",Y,Y,108
+35068,"Niagara West","Niagara-Ouest"," 93","Fulton",N,N,"",0,345,"Bingham","","Ian","Liberal","Libéral",N,N,55
+35068,"Niagara West","Niagara-Ouest"," 93","Fulton",N,N,"",0,345,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,33
+35068,"Niagara West","Niagara-Ouest"," 93","Fulton",N,N,"",0,345,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 93","Fulton",N,N,"",0,345,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 93","Fulton",N,N,"",0,345,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35068,"Niagara West","Niagara-Ouest"," 94","Lincoln",N,N,"",0,491,"Allison","","Dean","Conservative","Conservateur",Y,Y,100
+35068,"Niagara West","Niagara-Ouest"," 94","Lincoln",N,N,"",0,491,"Bingham","","Ian","Liberal","Libéral",N,N,50
+35068,"Niagara West","Niagara-Ouest"," 94","Lincoln",N,N,"",0,491,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,13
+35068,"Niagara West","Niagara-Ouest"," 94","Lincoln",N,N,"",0,491,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 94","Lincoln",N,N,"",0,491,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,11
+35068,"Niagara West","Niagara-Ouest"," 94","Lincoln",N,N,"",0,491,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35068,"Niagara West","Niagara-Ouest"," 95","Lincoln",N,N,"",2,639,"Allison","","Dean","Conservative","Conservateur",Y,Y,150
+35068,"Niagara West","Niagara-Ouest"," 95","Lincoln",N,N,"",2,639,"Bingham","","Ian","Liberal","Libéral",N,N,52
+35068,"Niagara West","Niagara-Ouest"," 95","Lincoln",N,N,"",2,639,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,29
+35068,"Niagara West","Niagara-Ouest"," 95","Lincoln",N,N,"",2,639,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,14
+35068,"Niagara West","Niagara-Ouest"," 95","Lincoln",N,N,"",2,639,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,8
+35068,"Niagara West","Niagara-Ouest"," 95","Lincoln",N,N,"",2,639,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35068,"Niagara West","Niagara-Ouest"," 96","West Lincoln",N,N,"98",0,371,"Allison","","Dean","Conservative","Conservateur",Y,Y,0
+35068,"Niagara West","Niagara-Ouest"," 96","West Lincoln",N,N,"98",0,371,"Bingham","","Ian","Liberal","Libéral",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 96","West Lincoln",N,N,"98",0,371,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 96","West Lincoln",N,N,"98",0,371,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 96","West Lincoln",N,N,"98",0,371,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 96","West Lincoln",N,N,"98",0,371,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 97","West Lincoln",N,N,"99",0,345,"Allison","","Dean","Conservative","Conservateur",Y,Y,0
+35068,"Niagara West","Niagara-Ouest"," 97","West Lincoln",N,N,"99",0,345,"Bingham","","Ian","Liberal","Libéral",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 97","West Lincoln",N,N,"99",0,345,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 97","West Lincoln",N,N,"99",0,345,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 97","West Lincoln",N,N,"99",0,345,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 97","West Lincoln",N,N,"99",0,345,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 98","West Lincoln",N,N,"",0,405,"Allison","","Dean","Conservative","Conservateur",Y,Y,172
+35068,"Niagara West","Niagara-Ouest"," 98","West Lincoln",N,N,"",0,405,"Bingham","","Ian","Liberal","Libéral",N,N,60
+35068,"Niagara West","Niagara-Ouest"," 98","West Lincoln",N,N,"",0,405,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,21
+35068,"Niagara West","Niagara-Ouest"," 98","West Lincoln",N,N,"",0,405,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 98","West Lincoln",N,N,"",0,405,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,16
+35068,"Niagara West","Niagara-Ouest"," 98","West Lincoln",N,N,"",0,405,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35068,"Niagara West","Niagara-Ouest"," 99","West Lincoln",N,N,"",0,495,"Allison","","Dean","Conservative","Conservateur",Y,Y,151
+35068,"Niagara West","Niagara-Ouest"," 99","West Lincoln",N,N,"",0,495,"Bingham","","Ian","Liberal","Libéral",N,N,90
+35068,"Niagara West","Niagara-Ouest"," 99","West Lincoln",N,N,"",0,495,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,35
+35068,"Niagara West","Niagara-Ouest"," 99","West Lincoln",N,N,"",0,495,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,13
+35068,"Niagara West","Niagara-Ouest"," 99","West Lincoln",N,N,"",0,495,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,12
+35068,"Niagara West","Niagara-Ouest"," 99","West Lincoln",N,N,"",0,495,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+35068,"Niagara West","Niagara-Ouest"," 100","Lincoln",N,N,"",3,356,"Allison","","Dean","Conservative","Conservateur",Y,Y,69
+35068,"Niagara West","Niagara-Ouest"," 100","Lincoln",N,N,"",3,356,"Bingham","","Ian","Liberal","Libéral",N,N,41
+35068,"Niagara West","Niagara-Ouest"," 100","Lincoln",N,N,"",3,356,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,18
+35068,"Niagara West","Niagara-Ouest"," 100","Lincoln",N,N,"",3,356,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,8
+35068,"Niagara West","Niagara-Ouest"," 100","Lincoln",N,N,"",3,356,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 100","Lincoln",N,N,"",3,356,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35068,"Niagara West","Niagara-Ouest"," 101","West Lincoln",N,N,"",0,575,"Allison","","Dean","Conservative","Conservateur",Y,Y,107
+35068,"Niagara West","Niagara-Ouest"," 101","West Lincoln",N,N,"",0,575,"Bingham","","Ian","Liberal","Libéral",N,N,61
+35068,"Niagara West","Niagara-Ouest"," 101","West Lincoln",N,N,"",0,575,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,25
+35068,"Niagara West","Niagara-Ouest"," 101","West Lincoln",N,N,"",0,575,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 101","West Lincoln",N,N,"",0,575,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,10
+35068,"Niagara West","Niagara-Ouest"," 101","West Lincoln",N,N,"",0,575,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35068,"Niagara West","Niagara-Ouest"," 102","Smithville",N,N,"",1,387,"Allison","","Dean","Conservative","Conservateur",Y,Y,47
+35068,"Niagara West","Niagara-Ouest"," 102","Smithville",N,N,"",1,387,"Bingham","","Ian","Liberal","Libéral",N,N,28
+35068,"Niagara West","Niagara-Ouest"," 102","Smithville",N,N,"",1,387,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 102","Smithville",N,N,"",1,387,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 102","Smithville",N,N,"",1,387,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,5
+35068,"Niagara West","Niagara-Ouest"," 102","Smithville",N,N,"",1,387,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35068,"Niagara West","Niagara-Ouest"," 103","West Lincoln",N,N,"",1,428,"Allison","","Dean","Conservative","Conservateur",Y,Y,75
+35068,"Niagara West","Niagara-Ouest"," 103","West Lincoln",N,N,"",1,428,"Bingham","","Ian","Liberal","Libéral",N,N,26
+35068,"Niagara West","Niagara-Ouest"," 103","West Lincoln",N,N,"",1,428,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,19
+35068,"Niagara West","Niagara-Ouest"," 103","West Lincoln",N,N,"",1,428,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 103","West Lincoln",N,N,"",1,428,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 103","West Lincoln",N,N,"",1,428,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35068,"Niagara West","Niagara-Ouest"," 104","Pelham",N,N,"",0,367,"Allison","","Dean","Conservative","Conservateur",Y,Y,74
+35068,"Niagara West","Niagara-Ouest"," 104","Pelham",N,N,"",0,367,"Bingham","","Ian","Liberal","Libéral",N,N,47
+35068,"Niagara West","Niagara-Ouest"," 104","Pelham",N,N,"",0,367,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,14
+35068,"Niagara West","Niagara-Ouest"," 104","Pelham",N,N,"",0,367,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 104","Pelham",N,N,"",0,367,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,5
+35068,"Niagara West","Niagara-Ouest"," 104","Pelham",N,N,"",0,367,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35068,"Niagara West","Niagara-Ouest"," 105","Pelham",N,N,"",1,388,"Allison","","Dean","Conservative","Conservateur",Y,Y,79
+35068,"Niagara West","Niagara-Ouest"," 105","Pelham",N,N,"",1,388,"Bingham","","Ian","Liberal","Libéral",N,N,34
+35068,"Niagara West","Niagara-Ouest"," 105","Pelham",N,N,"",1,388,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,10
+35068,"Niagara West","Niagara-Ouest"," 105","Pelham",N,N,"",1,388,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 105","Pelham",N,N,"",1,388,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 105","Pelham",N,N,"",1,388,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35068,"Niagara West","Niagara-Ouest"," 106","Pelham",N,N,"",0,366,"Allison","","Dean","Conservative","Conservateur",Y,Y,80
+35068,"Niagara West","Niagara-Ouest"," 106","Pelham",N,N,"",0,366,"Bingham","","Ian","Liberal","Libéral",N,N,46
+35068,"Niagara West","Niagara-Ouest"," 106","Pelham",N,N,"",0,366,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 106","Pelham",N,N,"",0,366,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 106","Pelham",N,N,"",0,366,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 106","Pelham",N,N,"",0,366,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35068,"Niagara West","Niagara-Ouest"," 107","Pelham",N,N,"",0,369,"Allison","","Dean","Conservative","Conservateur",Y,Y,61
+35068,"Niagara West","Niagara-Ouest"," 107","Pelham",N,N,"",0,369,"Bingham","","Ian","Liberal","Libéral",N,N,27
+35068,"Niagara West","Niagara-Ouest"," 107","Pelham",N,N,"",0,369,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,16
+35068,"Niagara West","Niagara-Ouest"," 107","Pelham",N,N,"",0,369,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,5
+35068,"Niagara West","Niagara-Ouest"," 107","Pelham",N,N,"",0,369,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,8
+35068,"Niagara West","Niagara-Ouest"," 107","Pelham",N,N,"",0,369,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35068,"Niagara West","Niagara-Ouest"," 108","West Lincoln",N,N,"",1,375,"Allison","","Dean","Conservative","Conservateur",Y,Y,87
+35068,"Niagara West","Niagara-Ouest"," 108","West Lincoln",N,N,"",1,375,"Bingham","","Ian","Liberal","Libéral",N,N,36
+35068,"Niagara West","Niagara-Ouest"," 108","West Lincoln",N,N,"",1,375,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,24
+35068,"Niagara West","Niagara-Ouest"," 108","West Lincoln",N,N,"",1,375,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 108","West Lincoln",N,N,"",1,375,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 108","West Lincoln",N,N,"",1,375,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35068,"Niagara West","Niagara-Ouest"," 109","West Lincoln",N,N,"",0,427,"Allison","","Dean","Conservative","Conservateur",Y,Y,137
+35068,"Niagara West","Niagara-Ouest"," 109","West Lincoln",N,N,"",0,427,"Bingham","","Ian","Liberal","Libéral",N,N,35
+35068,"Niagara West","Niagara-Ouest"," 109","West Lincoln",N,N,"",0,427,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,24
+35068,"Niagara West","Niagara-Ouest"," 109","West Lincoln",N,N,"",0,427,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,14
+35068,"Niagara West","Niagara-Ouest"," 109","West Lincoln",N,N,"",0,427,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 109","West Lincoln",N,N,"",0,427,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35068,"Niagara West","Niagara-Ouest"," 110","St. Anns",N,N,"",2,427,"Allison","","Dean","Conservative","Conservateur",Y,Y,129
+35068,"Niagara West","Niagara-Ouest"," 110","St. Anns",N,N,"",2,427,"Bingham","","Ian","Liberal","Libéral",N,N,25
+35068,"Niagara West","Niagara-Ouest"," 110","St. Anns",N,N,"",2,427,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,31
+35068,"Niagara West","Niagara-Ouest"," 110","St. Anns",N,N,"",2,427,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,13
+35068,"Niagara West","Niagara-Ouest"," 110","St. Anns",N,N,"",2,427,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,5
+35068,"Niagara West","Niagara-Ouest"," 110","St. Anns",N,N,"",2,427,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35068,"Niagara West","Niagara-Ouest"," 111","Pelham",N,N,"",1,391,"Allison","","Dean","Conservative","Conservateur",Y,Y,49
+35068,"Niagara West","Niagara-Ouest"," 111","Pelham",N,N,"",1,391,"Bingham","","Ian","Liberal","Libéral",N,N,62
+35068,"Niagara West","Niagara-Ouest"," 111","Pelham",N,N,"",1,391,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 111","Pelham",N,N,"",1,391,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 111","Pelham",N,N,"",1,391,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 111","Pelham",N,N,"",1,391,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35068,"Niagara West","Niagara-Ouest"," 112","Pelham",N,N,"",0,438,"Allison","","Dean","Conservative","Conservateur",Y,Y,73
+35068,"Niagara West","Niagara-Ouest"," 112","Pelham",N,N,"",0,438,"Bingham","","Ian","Liberal","Libéral",N,N,68
+35068,"Niagara West","Niagara-Ouest"," 112","Pelham",N,N,"",0,438,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 112","Pelham",N,N,"",0,438,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 112","Pelham",N,N,"",0,438,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 112","Pelham",N,N,"",0,438,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35068,"Niagara West","Niagara-Ouest"," 113","Pelham",N,N,"",0,438,"Allison","","Dean","Conservative","Conservateur",Y,Y,59
+35068,"Niagara West","Niagara-Ouest"," 113","Pelham",N,N,"",0,438,"Bingham","","Ian","Liberal","Libéral",N,N,37
+35068,"Niagara West","Niagara-Ouest"," 113","Pelham",N,N,"",0,438,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,12
+35068,"Niagara West","Niagara-Ouest"," 113","Pelham",N,N,"",0,438,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 113","Pelham",N,N,"",0,438,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 113","Pelham",N,N,"",0,438,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35068,"Niagara West","Niagara-Ouest"," 114","Pelham",N,N,"",1,682,"Allison","","Dean","Conservative","Conservateur",Y,Y,124
+35068,"Niagara West","Niagara-Ouest"," 114","Pelham",N,N,"",1,682,"Bingham","","Ian","Liberal","Libéral",N,N,123
+35068,"Niagara West","Niagara-Ouest"," 114","Pelham",N,N,"",1,682,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,8
+35068,"Niagara West","Niagara-Ouest"," 114","Pelham",N,N,"",1,682,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 114","Pelham",N,N,"",1,682,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 114","Pelham",N,N,"",1,682,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35068,"Niagara West","Niagara-Ouest"," 115","Pelham",N,N,"",1,447,"Allison","","Dean","Conservative","Conservateur",Y,Y,75
+35068,"Niagara West","Niagara-Ouest"," 115","Pelham",N,N,"",1,447,"Bingham","","Ian","Liberal","Libéral",N,N,64
+35068,"Niagara West","Niagara-Ouest"," 115","Pelham",N,N,"",1,447,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,5
+35068,"Niagara West","Niagara-Ouest"," 115","Pelham",N,N,"",1,447,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 115","Pelham",N,N,"",1,447,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 115","Pelham",N,N,"",1,447,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35068,"Niagara West","Niagara-Ouest"," 116","Pelham",N,N,"",0,623,"Allison","","Dean","Conservative","Conservateur",Y,Y,84
+35068,"Niagara West","Niagara-Ouest"," 116","Pelham",N,N,"",0,623,"Bingham","","Ian","Liberal","Libéral",N,N,87
+35068,"Niagara West","Niagara-Ouest"," 116","Pelham",N,N,"",0,623,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,28
+35068,"Niagara West","Niagara-Ouest"," 116","Pelham",N,N,"",0,623,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 116","Pelham",N,N,"",0,623,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 116","Pelham",N,N,"",0,623,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+35068,"Niagara West","Niagara-Ouest"," 117","Pelham",N,N,"",1,531,"Allison","","Dean","Conservative","Conservateur",Y,Y,78
+35068,"Niagara West","Niagara-Ouest"," 117","Pelham",N,N,"",1,531,"Bingham","","Ian","Liberal","Libéral",N,N,62
+35068,"Niagara West","Niagara-Ouest"," 117","Pelham",N,N,"",1,531,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 117","Pelham",N,N,"",1,531,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 117","Pelham",N,N,"",1,531,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,12
+35068,"Niagara West","Niagara-Ouest"," 117","Pelham",N,N,"",1,531,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35068,"Niagara West","Niagara-Ouest"," 118","Pelham",N,N,"",1,643,"Allison","","Dean","Conservative","Conservateur",Y,Y,76
+35068,"Niagara West","Niagara-Ouest"," 118","Pelham",N,N,"",1,643,"Bingham","","Ian","Liberal","Libéral",N,N,99
+35068,"Niagara West","Niagara-Ouest"," 118","Pelham",N,N,"",1,643,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,11
+35068,"Niagara West","Niagara-Ouest"," 118","Pelham",N,N,"",1,643,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 118","Pelham",N,N,"",1,643,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 118","Pelham",N,N,"",1,643,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35068,"Niagara West","Niagara-Ouest"," 119","Pelham",N,N,"",0,330,"Allison","","Dean","Conservative","Conservateur",Y,Y,56
+35068,"Niagara West","Niagara-Ouest"," 119","Pelham",N,N,"",0,330,"Bingham","","Ian","Liberal","Libéral",N,N,61
+35068,"Niagara West","Niagara-Ouest"," 119","Pelham",N,N,"",0,330,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 119","Pelham",N,N,"",0,330,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 119","Pelham",N,N,"",0,330,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,8
+35068,"Niagara West","Niagara-Ouest"," 119","Pelham",N,N,"",0,330,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35068,"Niagara West","Niagara-Ouest"," 120","Pelham",N,N,"",0,447,"Allison","","Dean","Conservative","Conservateur",Y,Y,80
+35068,"Niagara West","Niagara-Ouest"," 120","Pelham",N,N,"",0,447,"Bingham","","Ian","Liberal","Libéral",N,N,65
+35068,"Niagara West","Niagara-Ouest"," 120","Pelham",N,N,"",0,447,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 120","Pelham",N,N,"",0,447,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 120","Pelham",N,N,"",0,447,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 120","Pelham",N,N,"",0,447,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35068,"Niagara West","Niagara-Ouest"," 121","Pelham",N,N,"",1,385,"Allison","","Dean","Conservative","Conservateur",Y,Y,46
+35068,"Niagara West","Niagara-Ouest"," 121","Pelham",N,N,"",1,385,"Bingham","","Ian","Liberal","Libéral",N,N,76
+35068,"Niagara West","Niagara-Ouest"," 121","Pelham",N,N,"",1,385,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 121","Pelham",N,N,"",1,385,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 121","Pelham",N,N,"",1,385,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 121","Pelham",N,N,"",1,385,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35068,"Niagara West","Niagara-Ouest"," 122","West Lincoln",N,N,"",1,829,"Allison","","Dean","Conservative","Conservateur",Y,Y,134
+35068,"Niagara West","Niagara-Ouest"," 122","West Lincoln",N,N,"",1,829,"Bingham","","Ian","Liberal","Libéral",N,N,109
+35068,"Niagara West","Niagara-Ouest"," 122","West Lincoln",N,N,"",1,829,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,12
+35068,"Niagara West","Niagara-Ouest"," 122","West Lincoln",N,N,"",1,829,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 122","West Lincoln",N,N,"",1,829,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 122","West Lincoln",N,N,"",1,829,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35068,"Niagara West","Niagara-Ouest"," 123","West Lincoln",N,N,"",0,622,"Allison","","Dean","Conservative","Conservateur",Y,Y,112
+35068,"Niagara West","Niagara-Ouest"," 123","West Lincoln",N,N,"",0,622,"Bingham","","Ian","Liberal","Libéral",N,N,54
+35068,"Niagara West","Niagara-Ouest"," 123","West Lincoln",N,N,"",0,622,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,22
+35068,"Niagara West","Niagara-Ouest"," 123","West Lincoln",N,N,"",0,622,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 123","West Lincoln",N,N,"",0,622,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 123","West Lincoln",N,N,"",0,622,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35068,"Niagara West","Niagara-Ouest"," 124","West Lincoln",N,N,"",1,348,"Allison","","Dean","Conservative","Conservateur",Y,Y,75
+35068,"Niagara West","Niagara-Ouest"," 124","West Lincoln",N,N,"",1,348,"Bingham","","Ian","Liberal","Libéral",N,N,32
+35068,"Niagara West","Niagara-Ouest"," 124","West Lincoln",N,N,"",1,348,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,6
+35068,"Niagara West","Niagara-Ouest"," 124","West Lincoln",N,N,"",1,348,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 124","West Lincoln",N,N,"",1,348,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,6
+35068,"Niagara West","Niagara-Ouest"," 124","West Lincoln",N,N,"",1,348,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35068,"Niagara West","Niagara-Ouest"," 125","West Lincoln",N,N,"",0,512,"Allison","","Dean","Conservative","Conservateur",Y,Y,87
+35068,"Niagara West","Niagara-Ouest"," 125","West Lincoln",N,N,"",0,512,"Bingham","","Ian","Liberal","Libéral",N,N,43
+35068,"Niagara West","Niagara-Ouest"," 125","West Lincoln",N,N,"",0,512,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,14
+35068,"Niagara West","Niagara-Ouest"," 125","West Lincoln",N,N,"",0,512,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 125","West Lincoln",N,N,"",0,512,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,8
+35068,"Niagara West","Niagara-Ouest"," 125","West Lincoln",N,N,"",0,512,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35068,"Niagara West","Niagara-Ouest"," 126","West Lincoln",N,N,"",0,278,"Allison","","Dean","Conservative","Conservateur",Y,Y,72
+35068,"Niagara West","Niagara-Ouest"," 126","West Lincoln",N,N,"",0,278,"Bingham","","Ian","Liberal","Libéral",N,N,27
+35068,"Niagara West","Niagara-Ouest"," 126","West Lincoln",N,N,"",0,278,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,13
+35068,"Niagara West","Niagara-Ouest"," 126","West Lincoln",N,N,"",0,278,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 126","West Lincoln",N,N,"",0,278,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 126","West Lincoln",N,N,"",0,278,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35068,"Niagara West","Niagara-Ouest"," 127","West Lincoln",N,N,"",2,383,"Allison","","Dean","Conservative","Conservateur",Y,Y,104
+35068,"Niagara West","Niagara-Ouest"," 127","West Lincoln",N,N,"",2,383,"Bingham","","Ian","Liberal","Libéral",N,N,23
+35068,"Niagara West","Niagara-Ouest"," 127","West Lincoln",N,N,"",2,383,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,21
+35068,"Niagara West","Niagara-Ouest"," 127","West Lincoln",N,N,"",2,383,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,10
+35068,"Niagara West","Niagara-Ouest"," 127","West Lincoln",N,N,"",2,383,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 127","West Lincoln",N,N,"",2,383,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35068,"Niagara West","Niagara-Ouest"," 128","Pelham",N,N,"",1,452,"Allison","","Dean","Conservative","Conservateur",Y,Y,80
+35068,"Niagara West","Niagara-Ouest"," 128","Pelham",N,N,"",1,452,"Bingham","","Ian","Liberal","Libéral",N,N,64
+35068,"Niagara West","Niagara-Ouest"," 128","Pelham",N,N,"",1,452,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,16
+35068,"Niagara West","Niagara-Ouest"," 128","Pelham",N,N,"",1,452,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 128","Pelham",N,N,"",1,452,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,5
+35068,"Niagara West","Niagara-Ouest"," 128","Pelham",N,N,"",1,452,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35068,"Niagara West","Niagara-Ouest"," 129","Pelham",N,N,"",1,414,"Allison","","Dean","Conservative","Conservateur",Y,Y,50
+35068,"Niagara West","Niagara-Ouest"," 129","Pelham",N,N,"",1,414,"Bingham","","Ian","Liberal","Libéral",N,N,83
+35068,"Niagara West","Niagara-Ouest"," 129","Pelham",N,N,"",1,414,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,8
+35068,"Niagara West","Niagara-Ouest"," 129","Pelham",N,N,"",1,414,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 129","Pelham",N,N,"",1,414,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 129","Pelham",N,N,"",1,414,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35068,"Niagara West","Niagara-Ouest"," 130","Pelham",N,N,"",0,403,"Allison","","Dean","Conservative","Conservateur",Y,Y,75
+35068,"Niagara West","Niagara-Ouest"," 130","Pelham",N,N,"",0,403,"Bingham","","Ian","Liberal","Libéral",N,N,67
+35068,"Niagara West","Niagara-Ouest"," 130","Pelham",N,N,"",0,403,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 130","Pelham",N,N,"",0,403,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 130","Pelham",N,N,"",0,403,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,10
+35068,"Niagara West","Niagara-Ouest"," 130","Pelham",N,N,"",0,403,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35068,"Niagara West","Niagara-Ouest"," 131","Pelham",N,N,"",0,431,"Allison","","Dean","Conservative","Conservateur",Y,Y,76
+35068,"Niagara West","Niagara-Ouest"," 131","Pelham",N,N,"",0,431,"Bingham","","Ian","Liberal","Libéral",N,N,86
+35068,"Niagara West","Niagara-Ouest"," 131","Pelham",N,N,"",0,431,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,6
+35068,"Niagara West","Niagara-Ouest"," 131","Pelham",N,N,"",0,431,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 131","Pelham",N,N,"",0,431,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,6
+35068,"Niagara West","Niagara-Ouest"," 131","Pelham",N,N,"",0,431,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35068,"Niagara West","Niagara-Ouest"," 132","Pelham",N,N,"",1,384,"Allison","","Dean","Conservative","Conservateur",Y,Y,65
+35068,"Niagara West","Niagara-Ouest"," 132","Pelham",N,N,"",1,384,"Bingham","","Ian","Liberal","Libéral",N,N,90
+35068,"Niagara West","Niagara-Ouest"," 132","Pelham",N,N,"",1,384,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 132","Pelham",N,N,"",1,384,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 132","Pelham",N,N,"",1,384,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 132","Pelham",N,N,"",1,384,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35068,"Niagara West","Niagara-Ouest"," 133","Pelham",N,N,"",1,433,"Allison","","Dean","Conservative","Conservateur",Y,Y,87
+35068,"Niagara West","Niagara-Ouest"," 133","Pelham",N,N,"",1,433,"Bingham","","Ian","Liberal","Libéral",N,N,51
+35068,"Niagara West","Niagara-Ouest"," 133","Pelham",N,N,"",1,433,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,18
+35068,"Niagara West","Niagara-Ouest"," 133","Pelham",N,N,"",1,433,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 133","Pelham",N,N,"",1,433,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,8
+35068,"Niagara West","Niagara-Ouest"," 133","Pelham",N,N,"",1,433,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35068,"Niagara West","Niagara-Ouest"," 134","Pelham",N,N,"",0,391,"Allison","","Dean","Conservative","Conservateur",Y,Y,71
+35068,"Niagara West","Niagara-Ouest"," 134","Pelham",N,N,"",0,391,"Bingham","","Ian","Liberal","Libéral",N,N,41
+35068,"Niagara West","Niagara-Ouest"," 134","Pelham",N,N,"",0,391,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,12
+35068,"Niagara West","Niagara-Ouest"," 134","Pelham",N,N,"",0,391,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 134","Pelham",N,N,"",0,391,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 134","Pelham",N,N,"",0,391,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35068,"Niagara West","Niagara-Ouest"," 135","Pelham",N,N,"",0,420,"Allison","","Dean","Conservative","Conservateur",Y,Y,94
+35068,"Niagara West","Niagara-Ouest"," 135","Pelham",N,N,"",0,420,"Bingham","","Ian","Liberal","Libéral",N,N,54
+35068,"Niagara West","Niagara-Ouest"," 135","Pelham",N,N,"",0,420,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,19
+35068,"Niagara West","Niagara-Ouest"," 135","Pelham",N,N,"",0,420,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 135","Pelham",N,N,"",0,420,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 135","Pelham",N,N,"",0,420,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35068,"Niagara West","Niagara-Ouest"," 136","Pelham",N,N,"",1,429,"Allison","","Dean","Conservative","Conservateur",Y,Y,74
+35068,"Niagara West","Niagara-Ouest"," 136","Pelham",N,N,"",1,429,"Bingham","","Ian","Liberal","Libéral",N,N,56
+35068,"Niagara West","Niagara-Ouest"," 136","Pelham",N,N,"",1,429,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 136","Pelham",N,N,"",1,429,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 136","Pelham",N,N,"",1,429,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 136","Pelham",N,N,"",1,429,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35068,"Niagara West","Niagara-Ouest"," 137","West Lincoln",N,N,"",0,383,"Allison","","Dean","Conservative","Conservateur",Y,Y,93
+35068,"Niagara West","Niagara-Ouest"," 137","West Lincoln",N,N,"",0,383,"Bingham","","Ian","Liberal","Libéral",N,N,51
+35068,"Niagara West","Niagara-Ouest"," 137","West Lincoln",N,N,"",0,383,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,13
+35068,"Niagara West","Niagara-Ouest"," 137","West Lincoln",N,N,"",0,383,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 137","West Lincoln",N,N,"",0,383,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 137","West Lincoln",N,N,"",0,383,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35068,"Niagara West","Niagara-Ouest"," 138","West Lincoln",N,N,"",0,389,"Allison","","Dean","Conservative","Conservateur",Y,Y,91
+35068,"Niagara West","Niagara-Ouest"," 138","West Lincoln",N,N,"",0,389,"Bingham","","Ian","Liberal","Libéral",N,N,20
+35068,"Niagara West","Niagara-Ouest"," 138","West Lincoln",N,N,"",0,389,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,14
+35068,"Niagara West","Niagara-Ouest"," 138","West Lincoln",N,N,"",0,389,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 138","West Lincoln",N,N,"",0,389,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 138","West Lincoln",N,N,"",0,389,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35068,"Niagara West","Niagara-Ouest"," 139","West Lincoln",N,N,"",2,429,"Allison","","Dean","Conservative","Conservateur",Y,Y,103
+35068,"Niagara West","Niagara-Ouest"," 139","West Lincoln",N,N,"",2,429,"Bingham","","Ian","Liberal","Libéral",N,N,31
+35068,"Niagara West","Niagara-Ouest"," 139","West Lincoln",N,N,"",2,429,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,17
+35068,"Niagara West","Niagara-Ouest"," 139","West Lincoln",N,N,"",2,429,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 139","West Lincoln",N,N,"",2,429,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 139","West Lincoln",N,N,"",2,429,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35068,"Niagara West","Niagara-Ouest"," 140","West Lincoln",N,N,"",1,375,"Allison","","Dean","Conservative","Conservateur",Y,Y,154
+35068,"Niagara West","Niagara-Ouest"," 140","West Lincoln",N,N,"",1,375,"Bingham","","Ian","Liberal","Libéral",N,N,66
+35068,"Niagara West","Niagara-Ouest"," 140","West Lincoln",N,N,"",1,375,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,35
+35068,"Niagara West","Niagara-Ouest"," 140","West Lincoln",N,N,"",1,375,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,12
+35068,"Niagara West","Niagara-Ouest"," 140","West Lincoln",N,N,"",1,375,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,5
+35068,"Niagara West","Niagara-Ouest"," 140","West Lincoln",N,N,"",1,375,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35068,"Niagara West","Niagara-Ouest"," 141","Pelham",N,N,"",1,477,"Allison","","Dean","Conservative","Conservateur",Y,Y,57
+35068,"Niagara West","Niagara-Ouest"," 141","Pelham",N,N,"",1,477,"Bingham","","Ian","Liberal","Libéral",N,N,71
+35068,"Niagara West","Niagara-Ouest"," 141","Pelham",N,N,"",1,477,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 141","Pelham",N,N,"",1,477,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 141","Pelham",N,N,"",1,477,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 141","Pelham",N,N,"",1,477,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35068,"Niagara West","Niagara-Ouest"," 142","Pelham",N,N,"",0,365,"Allison","","Dean","Conservative","Conservateur",Y,Y,47
+35068,"Niagara West","Niagara-Ouest"," 142","Pelham",N,N,"",0,365,"Bingham","","Ian","Liberal","Libéral",N,N,71
+35068,"Niagara West","Niagara-Ouest"," 142","Pelham",N,N,"",0,365,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 142","Pelham",N,N,"",0,365,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 142","Pelham",N,N,"",0,365,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 142","Pelham",N,N,"",0,365,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35068,"Niagara West","Niagara-Ouest"," 143","Pelham",N,N,"",0,435,"Allison","","Dean","Conservative","Conservateur",Y,Y,67
+35068,"Niagara West","Niagara-Ouest"," 143","Pelham",N,N,"",0,435,"Bingham","","Ian","Liberal","Libéral",N,N,67
+35068,"Niagara West","Niagara-Ouest"," 143","Pelham",N,N,"",0,435,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,11
+35068,"Niagara West","Niagara-Ouest"," 143","Pelham",N,N,"",0,435,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 143","Pelham",N,N,"",0,435,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 143","Pelham",N,N,"",0,435,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35068,"Niagara West","Niagara-Ouest"," 144","Pelham",N,N,"",0,428,"Allison","","Dean","Conservative","Conservateur",Y,Y,73
+35068,"Niagara West","Niagara-Ouest"," 144","Pelham",N,N,"",0,428,"Bingham","","Ian","Liberal","Libéral",N,N,80
+35068,"Niagara West","Niagara-Ouest"," 144","Pelham",N,N,"",0,428,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,6
+35068,"Niagara West","Niagara-Ouest"," 144","Pelham",N,N,"",0,428,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 144","Pelham",N,N,"",0,428,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 144","Pelham",N,N,"",0,428,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35068,"Niagara West","Niagara-Ouest"," 145","Pelham",N,N,"",1,405,"Allison","","Dean","Conservative","Conservateur",Y,Y,83
+35068,"Niagara West","Niagara-Ouest"," 145","Pelham",N,N,"",1,405,"Bingham","","Ian","Liberal","Libéral",N,N,76
+35068,"Niagara West","Niagara-Ouest"," 145","Pelham",N,N,"",1,405,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,6
+35068,"Niagara West","Niagara-Ouest"," 145","Pelham",N,N,"",1,405,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 145","Pelham",N,N,"",1,405,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,5
+35068,"Niagara West","Niagara-Ouest"," 145","Pelham",N,N,"",1,405,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35068,"Niagara West","Niagara-Ouest"," 146","Pelham",N,N,"",0,426,"Allison","","Dean","Conservative","Conservateur",Y,Y,79
+35068,"Niagara West","Niagara-Ouest"," 146","Pelham",N,N,"",0,426,"Bingham","","Ian","Liberal","Libéral",N,N,86
+35068,"Niagara West","Niagara-Ouest"," 146","Pelham",N,N,"",0,426,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,12
+35068,"Niagara West","Niagara-Ouest"," 146","Pelham",N,N,"",0,426,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 146","Pelham",N,N,"",0,426,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 146","Pelham",N,N,"",0,426,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35068,"Niagara West","Niagara-Ouest"," 147","West Lincoln",N,N,"",0,241,"Allison","","Dean","Conservative","Conservateur",Y,Y,70
+35068,"Niagara West","Niagara-Ouest"," 147","West Lincoln",N,N,"",0,241,"Bingham","","Ian","Liberal","Libéral",N,N,16
+35068,"Niagara West","Niagara-Ouest"," 147","West Lincoln",N,N,"",0,241,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,15
+35068,"Niagara West","Niagara-Ouest"," 147","West Lincoln",N,N,"",0,241,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 147","West Lincoln",N,N,"",0,241,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 147","West Lincoln",N,N,"",0,241,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35068,"Niagara West","Niagara-Ouest"," 148","Boyle",N,N,"",0,310,"Allison","","Dean","Conservative","Conservateur",Y,Y,99
+35068,"Niagara West","Niagara-Ouest"," 148","Boyle",N,N,"",0,310,"Bingham","","Ian","Liberal","Libéral",N,N,17
+35068,"Niagara West","Niagara-Ouest"," 148","Boyle",N,N,"",0,310,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,22
+35068,"Niagara West","Niagara-Ouest"," 148","Boyle",N,N,"",0,310,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,5
+35068,"Niagara West","Niagara-Ouest"," 148","Boyle",N,N,"",0,310,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 148","Boyle",N,N,"",0,310,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35068,"Niagara West","Niagara-Ouest"," 149","Wellandport",N,N,"",0,353,"Allison","","Dean","Conservative","Conservateur",Y,Y,58
+35068,"Niagara West","Niagara-Ouest"," 149","Wellandport",N,N,"",0,353,"Bingham","","Ian","Liberal","Libéral",N,N,11
+35068,"Niagara West","Niagara-Ouest"," 149","Wellandport",N,N,"",0,353,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,19
+35068,"Niagara West","Niagara-Ouest"," 149","Wellandport",N,N,"",0,353,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 149","Wellandport",N,N,"",0,353,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 149","Wellandport",N,N,"",0,353,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35068,"Niagara West","Niagara-Ouest"," 150","Pelham",N,N,"",0,438,"Allison","","Dean","Conservative","Conservateur",Y,Y,82
+35068,"Niagara West","Niagara-Ouest"," 150","Pelham",N,N,"",0,438,"Bingham","","Ian","Liberal","Libéral",N,N,47
+35068,"Niagara West","Niagara-Ouest"," 150","Pelham",N,N,"",0,438,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 150","Pelham",N,N,"",0,438,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 150","Pelham",N,N,"",0,438,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 150","Pelham",N,N,"",0,438,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35068,"Niagara West","Niagara-Ouest"," 151","Pelham",N,N,"",1,404,"Allison","","Dean","Conservative","Conservateur",Y,Y,96
+35068,"Niagara West","Niagara-Ouest"," 151","Pelham",N,N,"",1,404,"Bingham","","Ian","Liberal","Libéral",N,N,56
+35068,"Niagara West","Niagara-Ouest"," 151","Pelham",N,N,"",1,404,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,15
+35068,"Niagara West","Niagara-Ouest"," 151","Pelham",N,N,"",1,404,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 151","Pelham",N,N,"",1,404,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,6
+35068,"Niagara West","Niagara-Ouest"," 151","Pelham",N,N,"",1,404,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35068,"Niagara West","Niagara-Ouest"," 152","Pelham",N,N,"",0,424,"Allison","","Dean","Conservative","Conservateur",Y,Y,98
+35068,"Niagara West","Niagara-Ouest"," 152","Pelham",N,N,"",0,424,"Bingham","","Ian","Liberal","Libéral",N,N,39
+35068,"Niagara West","Niagara-Ouest"," 152","Pelham",N,N,"",0,424,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,20
+35068,"Niagara West","Niagara-Ouest"," 152","Pelham",N,N,"",0,424,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 152","Pelham",N,N,"",0,424,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 152","Pelham",N,N,"",0,424,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35068,"Niagara West","Niagara-Ouest"," 153","Pelham",N,N,"",0,592,"Allison","","Dean","Conservative","Conservateur",Y,Y,135
+35068,"Niagara West","Niagara-Ouest"," 153","Pelham",N,N,"",0,592,"Bingham","","Ian","Liberal","Libéral",N,N,52
+35068,"Niagara West","Niagara-Ouest"," 153","Pelham",N,N,"",0,592,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,19
+35068,"Niagara West","Niagara-Ouest"," 153","Pelham",N,N,"",0,592,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 153","Pelham",N,N,"",0,592,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 153","Pelham",N,N,"",0,592,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35068,"Niagara West","Niagara-Ouest"," 154","Caistorville",N,N,"",0,433,"Allison","","Dean","Conservative","Conservateur",Y,Y,104
+35068,"Niagara West","Niagara-Ouest"," 154","Caistorville",N,N,"",0,433,"Bingham","","Ian","Liberal","Libéral",N,N,46
+35068,"Niagara West","Niagara-Ouest"," 154","Caistorville",N,N,"",0,433,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,26
+35068,"Niagara West","Niagara-Ouest"," 154","Caistorville",N,N,"",0,433,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 154","Caistorville",N,N,"",0,433,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 154","Caistorville",N,N,"",0,433,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35068,"Niagara West","Niagara-Ouest"," 155","West Lincoln",N,N,"140",0,322,"Allison","","Dean","Conservative","Conservateur",Y,Y,0
+35068,"Niagara West","Niagara-Ouest"," 155","West Lincoln",N,N,"140",0,322,"Bingham","","Ian","Liberal","Libéral",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 155","West Lincoln",N,N,"140",0,322,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 155","West Lincoln",N,N,"140",0,322,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 155","West Lincoln",N,N,"140",0,322,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 155","West Lincoln",N,N,"140",0,322,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 156","West Lincoln",N,N,"",0,382,"Allison","","Dean","Conservative","Conservateur",Y,Y,108
+35068,"Niagara West","Niagara-Ouest"," 156","West Lincoln",N,N,"",0,382,"Bingham","","Ian","Liberal","Libéral",N,N,18
+35068,"Niagara West","Niagara-Ouest"," 156","West Lincoln",N,N,"",0,382,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,30
+35068,"Niagara West","Niagara-Ouest"," 156","West Lincoln",N,N,"",0,382,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 156","West Lincoln",N,N,"",0,382,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 156","West Lincoln",N,N,"",0,382,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35068,"Niagara West","Niagara-Ouest"," 157","Wellandport",N,N,"",0,319,"Allison","","Dean","Conservative","Conservateur",Y,Y,76
+35068,"Niagara West","Niagara-Ouest"," 157","Wellandport",N,N,"",0,319,"Bingham","","Ian","Liberal","Libéral",N,N,16
+35068,"Niagara West","Niagara-Ouest"," 157","Wellandport",N,N,"",0,319,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,20
+35068,"Niagara West","Niagara-Ouest"," 157","Wellandport",N,N,"",0,319,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 157","Wellandport",N,N,"",0,319,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,5
+35068,"Niagara West","Niagara-Ouest"," 157","Wellandport",N,N,"",0,319,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 158","Wainfleet",N,N,"",0,372,"Allison","","Dean","Conservative","Conservateur",Y,Y,101
+35068,"Niagara West","Niagara-Ouest"," 158","Wainfleet",N,N,"",0,372,"Bingham","","Ian","Liberal","Libéral",N,N,17
+35068,"Niagara West","Niagara-Ouest"," 158","Wainfleet",N,N,"",0,372,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,20
+35068,"Niagara West","Niagara-Ouest"," 158","Wainfleet",N,N,"",0,372,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,5
+35068,"Niagara West","Niagara-Ouest"," 158","Wainfleet",N,N,"",0,372,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 158","Wainfleet",N,N,"",0,372,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35068,"Niagara West","Niagara-Ouest"," 159","Wainfleet",N,N,"",1,430,"Allison","","Dean","Conservative","Conservateur",Y,Y,98
+35068,"Niagara West","Niagara-Ouest"," 159","Wainfleet",N,N,"",1,430,"Bingham","","Ian","Liberal","Libéral",N,N,24
+35068,"Niagara West","Niagara-Ouest"," 159","Wainfleet",N,N,"",1,430,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,26
+35068,"Niagara West","Niagara-Ouest"," 159","Wainfleet",N,N,"",1,430,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 159","Wainfleet",N,N,"",1,430,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 159","Wainfleet",N,N,"",1,430,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35068,"Niagara West","Niagara-Ouest"," 160","Wainfleet",N,N,"",1,408,"Allison","","Dean","Conservative","Conservateur",Y,Y,82
+35068,"Niagara West","Niagara-Ouest"," 160","Wainfleet",N,N,"",1,408,"Bingham","","Ian","Liberal","Libéral",N,N,40
+35068,"Niagara West","Niagara-Ouest"," 160","Wainfleet",N,N,"",1,408,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,18
+35068,"Niagara West","Niagara-Ouest"," 160","Wainfleet",N,N,"",1,408,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 160","Wainfleet",N,N,"",1,408,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 160","Wainfleet",N,N,"",1,408,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35068,"Niagara West","Niagara-Ouest"," 161","Wainfleet",N,N,"",0,373,"Allison","","Dean","Conservative","Conservateur",Y,Y,88
+35068,"Niagara West","Niagara-Ouest"," 161","Wainfleet",N,N,"",0,373,"Bingham","","Ian","Liberal","Libéral",N,N,36
+35068,"Niagara West","Niagara-Ouest"," 161","Wainfleet",N,N,"",0,373,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,14
+35068,"Niagara West","Niagara-Ouest"," 161","Wainfleet",N,N,"",0,373,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 161","Wainfleet",N,N,"",0,373,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 161","Wainfleet",N,N,"",0,373,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35068,"Niagara West","Niagara-Ouest"," 162","Wainfleet",N,N,"",1,346,"Allison","","Dean","Conservative","Conservateur",Y,Y,80
+35068,"Niagara West","Niagara-Ouest"," 162","Wainfleet",N,N,"",1,346,"Bingham","","Ian","Liberal","Libéral",N,N,23
+35068,"Niagara West","Niagara-Ouest"," 162","Wainfleet",N,N,"",1,346,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,14
+35068,"Niagara West","Niagara-Ouest"," 162","Wainfleet",N,N,"",1,346,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 162","Wainfleet",N,N,"",1,346,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 162","Wainfleet",N,N,"",1,346,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35068,"Niagara West","Niagara-Ouest"," 163","Wainfleet",N,N,"",0,368,"Allison","","Dean","Conservative","Conservateur",Y,Y,104
+35068,"Niagara West","Niagara-Ouest"," 163","Wainfleet",N,N,"",0,368,"Bingham","","Ian","Liberal","Libéral",N,N,37
+35068,"Niagara West","Niagara-Ouest"," 163","Wainfleet",N,N,"",0,368,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,15
+35068,"Niagara West","Niagara-Ouest"," 163","Wainfleet",N,N,"",0,368,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 163","Wainfleet",N,N,"",0,368,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,11
+35068,"Niagara West","Niagara-Ouest"," 163","Wainfleet",N,N,"",0,368,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35068,"Niagara West","Niagara-Ouest"," 164","Wainfleet",N,N,"",0,352,"Allison","","Dean","Conservative","Conservateur",Y,Y,120
+35068,"Niagara West","Niagara-Ouest"," 164","Wainfleet",N,N,"",0,352,"Bingham","","Ian","Liberal","Libéral",N,N,29
+35068,"Niagara West","Niagara-Ouest"," 164","Wainfleet",N,N,"",0,352,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,19
+35068,"Niagara West","Niagara-Ouest"," 164","Wainfleet",N,N,"",0,352,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,6
+35068,"Niagara West","Niagara-Ouest"," 164","Wainfleet",N,N,"",0,352,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 164","Wainfleet",N,N,"",0,352,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+35068,"Niagara West","Niagara-Ouest"," 165","Wainfleet",N,N,"",0,345,"Allison","","Dean","Conservative","Conservateur",Y,Y,81
+35068,"Niagara West","Niagara-Ouest"," 165","Wainfleet",N,N,"",0,345,"Bingham","","Ian","Liberal","Libéral",N,N,38
+35068,"Niagara West","Niagara-Ouest"," 165","Wainfleet",N,N,"",0,345,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,20
+35068,"Niagara West","Niagara-Ouest"," 165","Wainfleet",N,N,"",0,345,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,8
+35068,"Niagara West","Niagara-Ouest"," 165","Wainfleet",N,N,"",0,345,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 165","Wainfleet",N,N,"",0,345,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35068,"Niagara West","Niagara-Ouest"," 166","Wainfleet",N,N,"",0,373,"Allison","","Dean","Conservative","Conservateur",Y,Y,85
+35068,"Niagara West","Niagara-Ouest"," 166","Wainfleet",N,N,"",0,373,"Bingham","","Ian","Liberal","Libéral",N,N,24
+35068,"Niagara West","Niagara-Ouest"," 166","Wainfleet",N,N,"",0,373,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,19
+35068,"Niagara West","Niagara-Ouest"," 166","Wainfleet",N,N,"",0,373,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 166","Wainfleet",N,N,"",0,373,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 166","Wainfleet",N,N,"",0,373,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35068,"Niagara West","Niagara-Ouest"," 167","Wainfleet",N,N,"168",0,311,"Allison","","Dean","Conservative","Conservateur",Y,Y,0
+35068,"Niagara West","Niagara-Ouest"," 167","Wainfleet",N,N,"168",0,311,"Bingham","","Ian","Liberal","Libéral",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 167","Wainfleet",N,N,"168",0,311,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 167","Wainfleet",N,N,"168",0,311,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 167","Wainfleet",N,N,"168",0,311,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 167","Wainfleet",N,N,"168",0,311,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 168","Wainfleet",N,N,"",1,339,"Allison","","Dean","Conservative","Conservateur",Y,Y,134
+35068,"Niagara West","Niagara-Ouest"," 168","Wainfleet",N,N,"",1,339,"Bingham","","Ian","Liberal","Libéral",N,N,90
+35068,"Niagara West","Niagara-Ouest"," 168","Wainfleet",N,N,"",1,339,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,26
+35068,"Niagara West","Niagara-Ouest"," 168","Wainfleet",N,N,"",1,339,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 168","Wainfleet",N,N,"",1,339,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,5
+35068,"Niagara West","Niagara-Ouest"," 168","Wainfleet",N,N,"",1,339,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35068,"Niagara West","Niagara-Ouest"," 169","Wainfleet",N,N,"",1,374,"Allison","","Dean","Conservative","Conservateur",Y,Y,78
+35068,"Niagara West","Niagara-Ouest"," 169","Wainfleet",N,N,"",1,374,"Bingham","","Ian","Liberal","Libéral",N,N,34
+35068,"Niagara West","Niagara-Ouest"," 169","Wainfleet",N,N,"",1,374,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,21
+35068,"Niagara West","Niagara-Ouest"," 169","Wainfleet",N,N,"",1,374,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 169","Wainfleet",N,N,"",1,374,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 169","Wainfleet",N,N,"",1,374,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35068,"Niagara West","Niagara-Ouest"," 170","Wainfleet",N,N,"",0,509,"Allison","","Dean","Conservative","Conservateur",Y,Y,117
+35068,"Niagara West","Niagara-Ouest"," 170","Wainfleet",N,N,"",0,509,"Bingham","","Ian","Liberal","Libéral",N,N,60
+35068,"Niagara West","Niagara-Ouest"," 170","Wainfleet",N,N,"",0,509,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,11
+35068,"Niagara West","Niagara-Ouest"," 170","Wainfleet",N,N,"",0,509,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 170","Wainfleet",N,N,"",0,509,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,10
+35068,"Niagara West","Niagara-Ouest"," 170","Wainfleet",N,N,"",0,509,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35068,"Niagara West","Niagara-Ouest"," 171","Wainfleet",N,N,"",1,425,"Allison","","Dean","Conservative","Conservateur",Y,Y,89
+35068,"Niagara West","Niagara-Ouest"," 171","Wainfleet",N,N,"",1,425,"Bingham","","Ian","Liberal","Libéral",N,N,58
+35068,"Niagara West","Niagara-Ouest"," 171","Wainfleet",N,N,"",1,425,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,12
+35068,"Niagara West","Niagara-Ouest"," 171","Wainfleet",N,N,"",1,425,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 171","Wainfleet",N,N,"",1,425,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,8
+35068,"Niagara West","Niagara-Ouest"," 171","Wainfleet",N,N,"",1,425,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35068,"Niagara West","Niagara-Ouest"," 500","Mobile poll/Bureau itinérant",N,N,"24",0,33,"Allison","","Dean","Conservative","Conservateur",Y,Y,0
+35068,"Niagara West","Niagara-Ouest"," 500","Mobile poll/Bureau itinérant",N,N,"24",0,33,"Bingham","","Ian","Liberal","Libéral",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 500","Mobile poll/Bureau itinérant",N,N,"24",0,33,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 500","Mobile poll/Bureau itinérant",N,N,"24",0,33,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 500","Mobile poll/Bureau itinérant",N,N,"24",0,33,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 500","Mobile poll/Bureau itinérant",N,N,"24",0,33,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 501","Mobile poll/Bureau itinérant",N,N,"",1,74,"Allison","","Dean","Conservative","Conservateur",Y,Y,12
+35068,"Niagara West","Niagara-Ouest"," 501","Mobile poll/Bureau itinérant",N,N,"",1,74,"Bingham","","Ian","Liberal","Libéral",N,N,21
+35068,"Niagara West","Niagara-Ouest"," 501","Mobile poll/Bureau itinérant",N,N,"",1,74,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 501","Mobile poll/Bureau itinérant",N,N,"",1,74,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 501","Mobile poll/Bureau itinérant",N,N,"",1,74,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,5
+35068,"Niagara West","Niagara-Ouest"," 501","Mobile poll/Bureau itinérant",N,N,"",1,74,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 502","Mobile poll/Bureau itinérant",N,N,"",2,61,"Allison","","Dean","Conservative","Conservateur",Y,Y,10
+35068,"Niagara West","Niagara-Ouest"," 502","Mobile poll/Bureau itinérant",N,N,"",2,61,"Bingham","","Ian","Liberal","Libéral",N,N,9
+35068,"Niagara West","Niagara-Ouest"," 502","Mobile poll/Bureau itinérant",N,N,"",2,61,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 502","Mobile poll/Bureau itinérant",N,N,"",2,61,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 502","Mobile poll/Bureau itinérant",N,N,"",2,61,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 502","Mobile poll/Bureau itinérant",N,N,"",2,61,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 503","Mobile poll/Bureau itinérant",N,N,"",1,183,"Allison","","Dean","Conservative","Conservateur",Y,Y,45
+35068,"Niagara West","Niagara-Ouest"," 503","Mobile poll/Bureau itinérant",N,N,"",1,183,"Bingham","","Ian","Liberal","Libéral",N,N,5
+35068,"Niagara West","Niagara-Ouest"," 503","Mobile poll/Bureau itinérant",N,N,"",1,183,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 503","Mobile poll/Bureau itinérant",N,N,"",1,183,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,17
+35068,"Niagara West","Niagara-Ouest"," 503","Mobile poll/Bureau itinérant",N,N,"",1,183,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 503","Mobile poll/Bureau itinérant",N,N,"",1,183,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 504","Mobile poll/Bureau itinérant",N,N,"",0,70,"Allison","","Dean","Conservative","Conservateur",Y,Y,16
+35068,"Niagara West","Niagara-Ouest"," 504","Mobile poll/Bureau itinérant",N,N,"",0,70,"Bingham","","Ian","Liberal","Libéral",N,N,25
+35068,"Niagara West","Niagara-Ouest"," 504","Mobile poll/Bureau itinérant",N,N,"",0,70,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 504","Mobile poll/Bureau itinérant",N,N,"",0,70,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 504","Mobile poll/Bureau itinérant",N,N,"",0,70,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 504","Mobile poll/Bureau itinérant",N,N,"",0,70,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 505","Mobile poll/Bureau itinérant",N,N,"",1,222,"Allison","","Dean","Conservative","Conservateur",Y,Y,17
+35068,"Niagara West","Niagara-Ouest"," 505","Mobile poll/Bureau itinérant",N,N,"",1,222,"Bingham","","Ian","Liberal","Libéral",N,N,20
+35068,"Niagara West","Niagara-Ouest"," 505","Mobile poll/Bureau itinérant",N,N,"",1,222,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 505","Mobile poll/Bureau itinérant",N,N,"",1,222,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 505","Mobile poll/Bureau itinérant",N,N,"",1,222,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 505","Mobile poll/Bureau itinérant",N,N,"",1,222,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 506","Mobile poll/Bureau itinérant",N,N,"",1,80,"Allison","","Dean","Conservative","Conservateur",Y,Y,20
+35068,"Niagara West","Niagara-Ouest"," 506","Mobile poll/Bureau itinérant",N,N,"",1,80,"Bingham","","Ian","Liberal","Libéral",N,N,21
+35068,"Niagara West","Niagara-Ouest"," 506","Mobile poll/Bureau itinérant",N,N,"",1,80,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 506","Mobile poll/Bureau itinérant",N,N,"",1,80,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 506","Mobile poll/Bureau itinérant",N,N,"",1,80,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 506","Mobile poll/Bureau itinérant",N,N,"",1,80,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 507","Mobile poll/Bureau itinérant",N,N,"74",0,90,"Allison","","Dean","Conservative","Conservateur",Y,Y,0
+35068,"Niagara West","Niagara-Ouest"," 507","Mobile poll/Bureau itinérant",N,N,"74",0,90,"Bingham","","Ian","Liberal","Libéral",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 507","Mobile poll/Bureau itinérant",N,N,"74",0,90,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 507","Mobile poll/Bureau itinérant",N,N,"74",0,90,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 507","Mobile poll/Bureau itinérant",N,N,"74",0,90,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 507","Mobile poll/Bureau itinérant",N,N,"74",0,90,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 508","Mobile poll/Bureau itinérant",N,N,"",0,22,"Allison","","Dean","Conservative","Conservateur",Y,Y,3
+35068,"Niagara West","Niagara-Ouest"," 508","Mobile poll/Bureau itinérant",N,N,"",0,22,"Bingham","","Ian","Liberal","Libéral",N,N,5
+35068,"Niagara West","Niagara-Ouest"," 508","Mobile poll/Bureau itinérant",N,N,"",0,22,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 508","Mobile poll/Bureau itinérant",N,N,"",0,22,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 508","Mobile poll/Bureau itinérant",N,N,"",0,22,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 508","Mobile poll/Bureau itinérant",N,N,"",0,22,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35068,"Niagara West","Niagara-Ouest"," 509","Mobile poll/Bureau itinérant",N,N,"",0,41,"Allison","","Dean","Conservative","Conservateur",Y,Y,16
+35068,"Niagara West","Niagara-Ouest"," 509","Mobile poll/Bureau itinérant",N,N,"",0,41,"Bingham","","Ian","Liberal","Libéral",N,N,16
+35068,"Niagara West","Niagara-Ouest"," 509","Mobile poll/Bureau itinérant",N,N,"",0,41,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 509","Mobile poll/Bureau itinérant",N,N,"",0,41,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 509","Mobile poll/Bureau itinérant",N,N,"",0,41,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 509","Mobile poll/Bureau itinérant",N,N,"",0,41,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35068,"Niagara West","Niagara-Ouest"," 510","Mobile poll/Bureau itinérant",N,N,"",3,168,"Allison","","Dean","Conservative","Conservateur",Y,Y,37
+35068,"Niagara West","Niagara-Ouest"," 510","Mobile poll/Bureau itinérant",N,N,"",3,168,"Bingham","","Ian","Liberal","Libéral",N,N,32
+35068,"Niagara West","Niagara-Ouest"," 510","Mobile poll/Bureau itinérant",N,N,"",3,168,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 510","Mobile poll/Bureau itinérant",N,N,"",3,168,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 510","Mobile poll/Bureau itinérant",N,N,"",3,168,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 510","Mobile poll/Bureau itinérant",N,N,"",3,168,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35068,"Niagara West","Niagara-Ouest"," 511","Mobile poll/Bureau itinérant",N,N,"",0,49,"Allison","","Dean","Conservative","Conservateur",Y,Y,10
+35068,"Niagara West","Niagara-Ouest"," 511","Mobile poll/Bureau itinérant",N,N,"",0,49,"Bingham","","Ian","Liberal","Libéral",N,N,13
+35068,"Niagara West","Niagara-Ouest"," 511","Mobile poll/Bureau itinérant",N,N,"",0,49,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 511","Mobile poll/Bureau itinérant",N,N,"",0,49,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 511","Mobile poll/Bureau itinérant",N,N,"",0,49,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 511","Mobile poll/Bureau itinérant",N,N,"",0,49,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 512","Mobile poll/Bureau itinérant",N,N,"509",0,41,"Allison","","Dean","Conservative","Conservateur",Y,Y,0
+35068,"Niagara West","Niagara-Ouest"," 512","Mobile poll/Bureau itinérant",N,N,"509",0,41,"Bingham","","Ian","Liberal","Libéral",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 512","Mobile poll/Bureau itinérant",N,N,"509",0,41,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 512","Mobile poll/Bureau itinérant",N,N,"509",0,41,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 512","Mobile poll/Bureau itinérant",N,N,"509",0,41,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 512","Mobile poll/Bureau itinérant",N,N,"509",0,41,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 513","Mobile poll/Bureau itinérant",N,N,"74",0,55,"Allison","","Dean","Conservative","Conservateur",Y,Y,0
+35068,"Niagara West","Niagara-Ouest"," 513","Mobile poll/Bureau itinérant",N,N,"74",0,55,"Bingham","","Ian","Liberal","Libéral",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 513","Mobile poll/Bureau itinérant",N,N,"74",0,55,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 513","Mobile poll/Bureau itinérant",N,N,"74",0,55,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 513","Mobile poll/Bureau itinérant",N,N,"74",0,55,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 513","Mobile poll/Bureau itinérant",N,N,"74",0,55,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 514","Mobile poll/Bureau itinérant",N,N,"",0,36,"Allison","","Dean","Conservative","Conservateur",Y,Y,14
+35068,"Niagara West","Niagara-Ouest"," 514","Mobile poll/Bureau itinérant",N,N,"",0,36,"Bingham","","Ian","Liberal","Libéral",N,N,11
+35068,"Niagara West","Niagara-Ouest"," 514","Mobile poll/Bureau itinérant",N,N,"",0,36,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 514","Mobile poll/Bureau itinérant",N,N,"",0,36,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," 514","Mobile poll/Bureau itinérant",N,N,"",0,36,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 514","Mobile poll/Bureau itinérant",N,N,"",0,36,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35068,"Niagara West","Niagara-Ouest"," 600","Grimsby",N,N,"",0,0,"Allison","","Dean","Conservative","Conservateur",Y,Y,542
+35068,"Niagara West","Niagara-Ouest"," 600","Grimsby",N,N,"",0,0,"Bingham","","Ian","Liberal","Libéral",N,N,463
+35068,"Niagara West","Niagara-Ouest"," 600","Grimsby",N,N,"",0,0,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,95
+35068,"Niagara West","Niagara-Ouest"," 600","Grimsby",N,N,"",0,0,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 600","Grimsby",N,N,"",0,0,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,30
+35068,"Niagara West","Niagara-Ouest"," 600","Grimsby",N,N,"",0,0,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,158
+35068,"Niagara West","Niagara-Ouest"," 601","Grimsby",N,N,"",7,0,"Allison","","Dean","Conservative","Conservateur",Y,Y,561
+35068,"Niagara West","Niagara-Ouest"," 601","Grimsby",N,N,"",7,0,"Bingham","","Ian","Liberal","Libéral",N,N,472
+35068,"Niagara West","Niagara-Ouest"," 601","Grimsby",N,N,"",7,0,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,65
+35068,"Niagara West","Niagara-Ouest"," 601","Grimsby",N,N,"",7,0,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 601","Grimsby",N,N,"",7,0,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,30
+35068,"Niagara West","Niagara-Ouest"," 601","Grimsby",N,N,"",7,0,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,140
+35068,"Niagara West","Niagara-Ouest"," 602","Grimsby",N,N,"",10,0,"Allison","","Dean","Conservative","Conservateur",Y,Y,569
+35068,"Niagara West","Niagara-Ouest"," 602","Grimsby",N,N,"",10,0,"Bingham","","Ian","Liberal","Libéral",N,N,588
+35068,"Niagara West","Niagara-Ouest"," 602","Grimsby",N,N,"",10,0,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,70
+35068,"Niagara West","Niagara-Ouest"," 602","Grimsby",N,N,"",10,0,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,6
+35068,"Niagara West","Niagara-Ouest"," 602","Grimsby",N,N,"",10,0,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,52
+35068,"Niagara West","Niagara-Ouest"," 602","Grimsby",N,N,"",10,0,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,172
+35068,"Niagara West","Niagara-Ouest"," 603","Grimsby",N,N,"",3,0,"Allison","","Dean","Conservative","Conservateur",Y,Y,670
+35068,"Niagara West","Niagara-Ouest"," 603","Grimsby",N,N,"",3,0,"Bingham","","Ian","Liberal","Libéral",N,N,521
+35068,"Niagara West","Niagara-Ouest"," 603","Grimsby",N,N,"",3,0,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,82
+35068,"Niagara West","Niagara-Ouest"," 603","Grimsby",N,N,"",3,0,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,11
+35068,"Niagara West","Niagara-Ouest"," 603","Grimsby",N,N,"",3,0,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,31
+35068,"Niagara West","Niagara-Ouest"," 603","Grimsby",N,N,"",3,0,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,124
+35068,"Niagara West","Niagara-Ouest"," 604","Lincoln",N,N,"",5,0,"Allison","","Dean","Conservative","Conservateur",Y,Y,637
+35068,"Niagara West","Niagara-Ouest"," 604","Lincoln",N,N,"",5,0,"Bingham","","Ian","Liberal","Libéral",N,N,465
+35068,"Niagara West","Niagara-Ouest"," 604","Lincoln",N,N,"",5,0,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,118
+35068,"Niagara West","Niagara-Ouest"," 604","Lincoln",N,N,"",5,0,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,11
+35068,"Niagara West","Niagara-Ouest"," 604","Lincoln",N,N,"",5,0,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,57
+35068,"Niagara West","Niagara-Ouest"," 604","Lincoln",N,N,"",5,0,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,141
+35068,"Niagara West","Niagara-Ouest"," 605","Lincoln",N,N,"",5,0,"Allison","","Dean","Conservative","Conservateur",Y,Y,655
+35068,"Niagara West","Niagara-Ouest"," 605","Lincoln",N,N,"",5,0,"Bingham","","Ian","Liberal","Libéral",N,N,426
+35068,"Niagara West","Niagara-Ouest"," 605","Lincoln",N,N,"",5,0,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,127
+35068,"Niagara West","Niagara-Ouest"," 605","Lincoln",N,N,"",5,0,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,10
+35068,"Niagara West","Niagara-Ouest"," 605","Lincoln",N,N,"",5,0,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,37
+35068,"Niagara West","Niagara-Ouest"," 605","Lincoln",N,N,"",5,0,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,203
+35068,"Niagara West","Niagara-Ouest"," 606","Lincoln",N,N,"",11,0,"Allison","","Dean","Conservative","Conservateur",Y,Y,688
+35068,"Niagara West","Niagara-Ouest"," 606","Lincoln",N,N,"",11,0,"Bingham","","Ian","Liberal","Libéral",N,N,462
+35068,"Niagara West","Niagara-Ouest"," 606","Lincoln",N,N,"",11,0,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,83
+35068,"Niagara West","Niagara-Ouest"," 606","Lincoln",N,N,"",11,0,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,19
+35068,"Niagara West","Niagara-Ouest"," 606","Lincoln",N,N,"",11,0,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,47
+35068,"Niagara West","Niagara-Ouest"," 606","Lincoln",N,N,"",11,0,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,120
+35068,"Niagara West","Niagara-Ouest"," 607","Lincoln",N,N,"",0,0,"Allison","","Dean","Conservative","Conservateur",Y,Y,454
+35068,"Niagara West","Niagara-Ouest"," 607","Lincoln",N,N,"",0,0,"Bingham","","Ian","Liberal","Libéral",N,N,220
+35068,"Niagara West","Niagara-Ouest"," 607","Lincoln",N,N,"",0,0,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,66
+35068,"Niagara West","Niagara-Ouest"," 607","Lincoln",N,N,"",0,0,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 607","Lincoln",N,N,"",0,0,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,18
+35068,"Niagara West","Niagara-Ouest"," 607","Lincoln",N,N,"",0,0,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+35068,"Niagara West","Niagara-Ouest"," 608","Pelham",N,N,"",3,0,"Allison","","Dean","Conservative","Conservateur",Y,Y,605
+35068,"Niagara West","Niagara-Ouest"," 608","Pelham",N,N,"",3,0,"Bingham","","Ian","Liberal","Libéral",N,N,343
+35068,"Niagara West","Niagara-Ouest"," 608","Pelham",N,N,"",3,0,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,83
+35068,"Niagara West","Niagara-Ouest"," 608","Pelham",N,N,"",3,0,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,12
+35068,"Niagara West","Niagara-Ouest"," 608","Pelham",N,N,"",3,0,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,25
+35068,"Niagara West","Niagara-Ouest"," 608","Pelham",N,N,"",3,0,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,86
+35068,"Niagara West","Niagara-Ouest"," 609","West Lincoln",N,N,"",2,0,"Allison","","Dean","Conservative","Conservateur",Y,Y,797
+35068,"Niagara West","Niagara-Ouest"," 609","West Lincoln",N,N,"",2,0,"Bingham","","Ian","Liberal","Libéral",N,N,383
+35068,"Niagara West","Niagara-Ouest"," 609","West Lincoln",N,N,"",2,0,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,134
+35068,"Niagara West","Niagara-Ouest"," 609","West Lincoln",N,N,"",2,0,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,22
+35068,"Niagara West","Niagara-Ouest"," 609","West Lincoln",N,N,"",2,0,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,43
+35068,"Niagara West","Niagara-Ouest"," 609","West Lincoln",N,N,"",2,0,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,132
+35068,"Niagara West","Niagara-Ouest"," 610","West Lincoln",N,N,"",1,0,"Allison","","Dean","Conservative","Conservateur",Y,Y,377
+35068,"Niagara West","Niagara-Ouest"," 610","West Lincoln",N,N,"",1,0,"Bingham","","Ian","Liberal","Libéral",N,N,204
+35068,"Niagara West","Niagara-Ouest"," 610","West Lincoln",N,N,"",1,0,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,70
+35068,"Niagara West","Niagara-Ouest"," 610","West Lincoln",N,N,"",1,0,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,12
+35068,"Niagara West","Niagara-Ouest"," 610","West Lincoln",N,N,"",1,0,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,16
+35068,"Niagara West","Niagara-Ouest"," 610","West Lincoln",N,N,"",1,0,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+35068,"Niagara West","Niagara-Ouest"," 611","West Lincoln",N,N,"",3,0,"Allison","","Dean","Conservative","Conservateur",Y,Y,371
+35068,"Niagara West","Niagara-Ouest"," 611","West Lincoln",N,N,"",3,0,"Bingham","","Ian","Liberal","Libéral",N,N,126
+35068,"Niagara West","Niagara-Ouest"," 611","West Lincoln",N,N,"",3,0,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,54
+35068,"Niagara West","Niagara-Ouest"," 611","West Lincoln",N,N,"",3,0,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,16
+35068,"Niagara West","Niagara-Ouest"," 611","West Lincoln",N,N,"",3,0,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,12
+35068,"Niagara West","Niagara-Ouest"," 611","West Lincoln",N,N,"",3,0,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+35068,"Niagara West","Niagara-Ouest"," 612","St. Anns",N,N,"",2,0,"Allison","","Dean","Conservative","Conservateur",Y,Y,552
+35068,"Niagara West","Niagara-Ouest"," 612","St. Anns",N,N,"",2,0,"Bingham","","Ian","Liberal","Libéral",N,N,108
+35068,"Niagara West","Niagara-Ouest"," 612","St. Anns",N,N,"",2,0,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,121
+35068,"Niagara West","Niagara-Ouest"," 612","St. Anns",N,N,"",2,0,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,38
+35068,"Niagara West","Niagara-Ouest"," 612","St. Anns",N,N,"",2,0,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,18
+35068,"Niagara West","Niagara-Ouest"," 612","St. Anns",N,N,"",2,0,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+35068,"Niagara West","Niagara-Ouest"," 613","Pelham",N,N,"",6,0,"Allison","","Dean","Conservative","Conservateur",Y,Y,717
+35068,"Niagara West","Niagara-Ouest"," 613","Pelham",N,N,"",6,0,"Bingham","","Ian","Liberal","Libéral",N,N,581
+35068,"Niagara West","Niagara-Ouest"," 613","Pelham",N,N,"",6,0,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,78
+35068,"Niagara West","Niagara-Ouest"," 613","Pelham",N,N,"",6,0,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,7
+35068,"Niagara West","Niagara-Ouest"," 613","Pelham",N,N,"",6,0,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,28
+35068,"Niagara West","Niagara-Ouest"," 613","Pelham",N,N,"",6,0,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,160
+35068,"Niagara West","Niagara-Ouest"," 614","Pelham",N,N,"",7,0,"Allison","","Dean","Conservative","Conservateur",Y,Y,812
+35068,"Niagara West","Niagara-Ouest"," 614","Pelham",N,N,"",7,0,"Bingham","","Ian","Liberal","Libéral",N,N,806
+35068,"Niagara West","Niagara-Ouest"," 614","Pelham",N,N,"",7,0,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,113
+35068,"Niagara West","Niagara-Ouest"," 614","Pelham",N,N,"",7,0,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+35068,"Niagara West","Niagara-Ouest"," 614","Pelham",N,N,"",7,0,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,30
+35068,"Niagara West","Niagara-Ouest"," 614","Pelham",N,N,"",7,0,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,247
+35068,"Niagara West","Niagara-Ouest"," 615","Wainfleet",N,N,"",0,0,"Allison","","Dean","Conservative","Conservateur",Y,Y,552
+35068,"Niagara West","Niagara-Ouest"," 615","Wainfleet",N,N,"",0,0,"Bingham","","Ian","Liberal","Libéral",N,N,278
+35068,"Niagara West","Niagara-Ouest"," 615","Wainfleet",N,N,"",0,0,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,62
+35068,"Niagara West","Niagara-Ouest"," 615","Wainfleet",N,N,"",0,0,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+35068,"Niagara West","Niagara-Ouest"," 615","Wainfleet",N,N,"",0,0,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,19
+35068,"Niagara West","Niagara-Ouest"," 615","Wainfleet",N,N,"",0,0,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,108
+35068,"Niagara West","Niagara-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",20,144,"Allison","","Dean","Conservative","Conservateur",Y,Y,126
+35068,"Niagara West","Niagara-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",20,144,"Bingham","","Ian","Liberal","Libéral",N,N,133
+35068,"Niagara West","Niagara-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",20,144,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,17
+35068,"Niagara West","Niagara-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",20,144,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+35068,"Niagara West","Niagara-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",20,144,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,8
+35068,"Niagara West","Niagara-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",20,144,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+35068,"Niagara West","Niagara-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",37,0,"Allison","","Dean","Conservative","Conservateur",Y,Y,916
+35068,"Niagara West","Niagara-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",37,0,"Bingham","","Ian","Liberal","Libéral",N,N,737
+35068,"Niagara West","Niagara-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",37,0,"Derkson","","Shaunalee","People's Party - PPC","Parti populaire - PPC",N,N,135
+35068,"Niagara West","Niagara-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",37,0,"Jonker","","Harold","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,28
+35068,"Niagara West","Niagara-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",37,0,"Kocsis","","Joanna","Green Party","Parti Vert",N,N,43
+35068,"Niagara West","Niagara-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",37,0,"Rahman","","Nameer","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,156

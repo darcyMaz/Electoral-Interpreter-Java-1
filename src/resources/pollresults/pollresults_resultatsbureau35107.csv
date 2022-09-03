@@ -1,0 +1,705 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+35107,"Timmins--James Bay","Timmins--Baie James"," 1","Peawanuck",N,N,"",1,134,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,49
+35107,"Timmins--James Bay","Timmins--Baie James"," 1","Peawanuck",N,N,"",1,134,"Black","","Steve","Liberal","Libéral",N,N,6
+35107,"Timmins--James Bay","Timmins--Baie James"," 1","Peawanuck",N,N,"",1,134,"Ellerton","","Morgan","Conservative","Conservateur",N,N,1
+35107,"Timmins--James Bay","Timmins--Baie James"," 1","Peawanuck",N,N,"",1,134,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,0
+35107,"Timmins--James Bay","Timmins--Baie James"," 2","Attawapiskat",N,N,"",2,739,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,114
+35107,"Timmins--James Bay","Timmins--Baie James"," 2","Attawapiskat",N,N,"",2,739,"Black","","Steve","Liberal","Libéral",N,N,8
+35107,"Timmins--James Bay","Timmins--Baie James"," 2","Attawapiskat",N,N,"",2,739,"Ellerton","","Morgan","Conservative","Conservateur",N,N,5
+35107,"Timmins--James Bay","Timmins--Baie James"," 2","Attawapiskat",N,N,"",2,739,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,1
+35107,"Timmins--James Bay","Timmins--Baie James"," 3","Kashechewan",N,N,"",0,719,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,138
+35107,"Timmins--James Bay","Timmins--Baie James"," 3","Kashechewan",N,N,"",0,719,"Black","","Steve","Liberal","Libéral",N,N,8
+35107,"Timmins--James Bay","Timmins--Baie James"," 3","Kashechewan",N,N,"",0,719,"Ellerton","","Morgan","Conservative","Conservateur",N,N,3
+35107,"Timmins--James Bay","Timmins--Baie James"," 3","Kashechewan",N,N,"",0,719,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,0
+35107,"Timmins--James Bay","Timmins--Baie James"," 4","Moosonee",N,N,"",0,459,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,104
+35107,"Timmins--James Bay","Timmins--Baie James"," 4","Moosonee",N,N,"",0,459,"Black","","Steve","Liberal","Libéral",N,N,19
+35107,"Timmins--James Bay","Timmins--Baie James"," 4","Moosonee",N,N,"",0,459,"Ellerton","","Morgan","Conservative","Conservateur",N,N,11
+35107,"Timmins--James Bay","Timmins--Baie James"," 4","Moosonee",N,N,"",0,459,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,8
+35107,"Timmins--James Bay","Timmins--Baie James"," 5","Moosonee",N,N,"",2,553,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,89
+35107,"Timmins--James Bay","Timmins--Baie James"," 5","Moosonee",N,N,"",2,553,"Black","","Steve","Liberal","Libéral",N,N,17
+35107,"Timmins--James Bay","Timmins--Baie James"," 5","Moosonee",N,N,"",2,553,"Ellerton","","Morgan","Conservative","Conservateur",N,N,14
+35107,"Timmins--James Bay","Timmins--Baie James"," 5","Moosonee",N,N,"",2,553,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,8
+35107,"Timmins--James Bay","Timmins--Baie James"," 6","Fort Albany--English River 66",N,N,"",0,306,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,41
+35107,"Timmins--James Bay","Timmins--Baie James"," 6","Fort Albany--English River 66",N,N,"",0,306,"Black","","Steve","Liberal","Libéral",N,N,27
+35107,"Timmins--James Bay","Timmins--Baie James"," 6","Fort Albany--English River 66",N,N,"",0,306,"Ellerton","","Morgan","Conservative","Conservateur",N,N,3
+35107,"Timmins--James Bay","Timmins--Baie James"," 6","Fort Albany--English River 66",N,N,"",0,306,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,2
+35107,"Timmins--James Bay","Timmins--Baie James"," 7","Ogoki--Marten Falls 65",N,N,"",0,91,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,16
+35107,"Timmins--James Bay","Timmins--Baie James"," 7","Ogoki--Marten Falls 65",N,N,"",0,91,"Black","","Steve","Liberal","Libéral",N,N,8
+35107,"Timmins--James Bay","Timmins--Baie James"," 7","Ogoki--Marten Falls 65",N,N,"",0,91,"Ellerton","","Morgan","Conservative","Conservateur",N,N,1
+35107,"Timmins--James Bay","Timmins--Baie James"," 7","Ogoki--Marten Falls 65",N,N,"",0,91,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,2
+35107,"Timmins--James Bay","Timmins--Baie James"," 8","Moose Factory",N,N,"",7,533,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,299
+35107,"Timmins--James Bay","Timmins--Baie James"," 8","Moose Factory",N,N,"",7,533,"Black","","Steve","Liberal","Libéral",N,N,31
+35107,"Timmins--James Bay","Timmins--Baie James"," 8","Moose Factory",N,N,"",7,533,"Ellerton","","Morgan","Conservative","Conservateur",N,N,12
+35107,"Timmins--James Bay","Timmins--Baie James"," 8","Moose Factory",N,N,"",7,533,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,8
+35107,"Timmins--James Bay","Timmins--Baie James"," 9","Moose Factory",N,N,"8",0,594,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,0
+35107,"Timmins--James Bay","Timmins--Baie James"," 9","Moose Factory",N,N,"8",0,594,"Black","","Steve","Liberal","Libéral",N,N,0
+35107,"Timmins--James Bay","Timmins--Baie James"," 9","Moose Factory",N,N,"8",0,594,"Ellerton","","Morgan","Conservative","Conservateur",N,N,0
+35107,"Timmins--James Bay","Timmins--Baie James"," 9","Moose Factory",N,N,"8",0,594,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,0
+35107,"Timmins--James Bay","Timmins--Baie James"," 10","Cochrane",N,N,"",2,707,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,96
+35107,"Timmins--James Bay","Timmins--Baie James"," 10","Cochrane",N,N,"",2,707,"Black","","Steve","Liberal","Libéral",N,N,55
+35107,"Timmins--James Bay","Timmins--Baie James"," 10","Cochrane",N,N,"",2,707,"Ellerton","","Morgan","Conservative","Conservateur",N,N,44
+35107,"Timmins--James Bay","Timmins--Baie James"," 10","Cochrane",N,N,"",2,707,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,22
+35107,"Timmins--James Bay","Timmins--Baie James"," 11","Cochrane",N,N,"",3,505,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,67
+35107,"Timmins--James Bay","Timmins--Baie James"," 11","Cochrane",N,N,"",3,505,"Black","","Steve","Liberal","Libéral",N,N,42
+35107,"Timmins--James Bay","Timmins--Baie James"," 11","Cochrane",N,N,"",3,505,"Ellerton","","Morgan","Conservative","Conservateur",N,N,39
+35107,"Timmins--James Bay","Timmins--Baie James"," 11","Cochrane",N,N,"",3,505,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,13
+35107,"Timmins--James Bay","Timmins--Baie James"," 12","Cochrane",N,N,"",1,454,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,46
+35107,"Timmins--James Bay","Timmins--Baie James"," 12","Cochrane",N,N,"",1,454,"Black","","Steve","Liberal","Libéral",N,N,32
+35107,"Timmins--James Bay","Timmins--Baie James"," 12","Cochrane",N,N,"",1,454,"Ellerton","","Morgan","Conservative","Conservateur",N,N,34
+35107,"Timmins--James Bay","Timmins--Baie James"," 12","Cochrane",N,N,"",1,454,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,18
+35107,"Timmins--James Bay","Timmins--Baie James"," 13","Cochrane",N,N,"",0,400,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,64
+35107,"Timmins--James Bay","Timmins--Baie James"," 13","Cochrane",N,N,"",0,400,"Black","","Steve","Liberal","Libéral",N,N,45
+35107,"Timmins--James Bay","Timmins--Baie James"," 13","Cochrane",N,N,"",0,400,"Ellerton","","Morgan","Conservative","Conservateur",N,N,29
+35107,"Timmins--James Bay","Timmins--Baie James"," 13","Cochrane",N,N,"",0,400,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,15
+35107,"Timmins--James Bay","Timmins--Baie James"," 14","Cochrane",N,N,"",4,424,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,58
+35107,"Timmins--James Bay","Timmins--Baie James"," 14","Cochrane",N,N,"",4,424,"Black","","Steve","Liberal","Libéral",N,N,37
+35107,"Timmins--James Bay","Timmins--Baie James"," 14","Cochrane",N,N,"",4,424,"Ellerton","","Morgan","Conservative","Conservateur",N,N,29
+35107,"Timmins--James Bay","Timmins--Baie James"," 14","Cochrane",N,N,"",4,424,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,21
+35107,"Timmins--James Bay","Timmins--Baie James"," 15","Cochrane",N,N,"",0,452,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,45
+35107,"Timmins--James Bay","Timmins--Baie James"," 15","Cochrane",N,N,"",0,452,"Black","","Steve","Liberal","Libéral",N,N,23
+35107,"Timmins--James Bay","Timmins--Baie James"," 15","Cochrane",N,N,"",0,452,"Ellerton","","Morgan","Conservative","Conservateur",N,N,21
+35107,"Timmins--James Bay","Timmins--Baie James"," 15","Cochrane",N,N,"",0,452,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,20
+35107,"Timmins--James Bay","Timmins--Baie James"," 16","Cochrane",N,N,"",0,494,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,57
+35107,"Timmins--James Bay","Timmins--Baie James"," 16","Cochrane",N,N,"",0,494,"Black","","Steve","Liberal","Libéral",N,N,29
+35107,"Timmins--James Bay","Timmins--Baie James"," 16","Cochrane",N,N,"",0,494,"Ellerton","","Morgan","Conservative","Conservateur",N,N,20
+35107,"Timmins--James Bay","Timmins--Baie James"," 16","Cochrane",N,N,"",0,494,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,23
+35107,"Timmins--James Bay","Timmins--Baie James"," 17","Cochrane",N,N,"",1,780,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,90
+35107,"Timmins--James Bay","Timmins--Baie James"," 17","Cochrane",N,N,"",1,780,"Black","","Steve","Liberal","Libéral",N,N,61
+35107,"Timmins--James Bay","Timmins--Baie James"," 17","Cochrane",N,N,"",1,780,"Ellerton","","Morgan","Conservative","Conservateur",N,N,69
+35107,"Timmins--James Bay","Timmins--Baie James"," 17","Cochrane",N,N,"",1,780,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,39
+35107,"Timmins--James Bay","Timmins--Baie James"," 18","Cochrane",N,N,"",1,481,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,69
+35107,"Timmins--James Bay","Timmins--Baie James"," 18","Cochrane",N,N,"",1,481,"Black","","Steve","Liberal","Libéral",N,N,23
+35107,"Timmins--James Bay","Timmins--Baie James"," 18","Cochrane",N,N,"",1,481,"Ellerton","","Morgan","Conservative","Conservateur",N,N,50
+35107,"Timmins--James Bay","Timmins--Baie James"," 18","Cochrane",N,N,"",1,481,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,13
+35107,"Timmins--James Bay","Timmins--Baie James"," 19","Iroquois Falls",N,N,"",0,347,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,44
+35107,"Timmins--James Bay","Timmins--Baie James"," 19","Iroquois Falls",N,N,"",0,347,"Black","","Steve","Liberal","Libéral",N,N,26
+35107,"Timmins--James Bay","Timmins--Baie James"," 19","Iroquois Falls",N,N,"",0,347,"Ellerton","","Morgan","Conservative","Conservateur",N,N,24
+35107,"Timmins--James Bay","Timmins--Baie James"," 19","Iroquois Falls",N,N,"",0,347,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,19
+35107,"Timmins--James Bay","Timmins--Baie James"," 20","Iroquois Falls",N,N,"",0,295,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,27
+35107,"Timmins--James Bay","Timmins--Baie James"," 20","Iroquois Falls",N,N,"",0,295,"Black","","Steve","Liberal","Libéral",N,N,14
+35107,"Timmins--James Bay","Timmins--Baie James"," 20","Iroquois Falls",N,N,"",0,295,"Ellerton","","Morgan","Conservative","Conservateur",N,N,19
+35107,"Timmins--James Bay","Timmins--Baie James"," 20","Iroquois Falls",N,N,"",0,295,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,29
+35107,"Timmins--James Bay","Timmins--Baie James"," 21","Iroquois Falls",N,N,"",2,339,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,40
+35107,"Timmins--James Bay","Timmins--Baie James"," 21","Iroquois Falls",N,N,"",2,339,"Black","","Steve","Liberal","Libéral",N,N,19
+35107,"Timmins--James Bay","Timmins--Baie James"," 21","Iroquois Falls",N,N,"",2,339,"Ellerton","","Morgan","Conservative","Conservateur",N,N,39
+35107,"Timmins--James Bay","Timmins--Baie James"," 21","Iroquois Falls",N,N,"",2,339,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,20
+35107,"Timmins--James Bay","Timmins--Baie James"," 22","Iroquois Falls",N,N,"",2,529,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,47
+35107,"Timmins--James Bay","Timmins--Baie James"," 22","Iroquois Falls",N,N,"",2,529,"Black","","Steve","Liberal","Libéral",N,N,29
+35107,"Timmins--James Bay","Timmins--Baie James"," 22","Iroquois Falls",N,N,"",2,529,"Ellerton","","Morgan","Conservative","Conservateur",N,N,49
+35107,"Timmins--James Bay","Timmins--Baie James"," 22","Iroquois Falls",N,N,"",2,529,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,24
+35107,"Timmins--James Bay","Timmins--Baie James"," 23","Iroquois Falls",N,N,"",1,382,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,30
+35107,"Timmins--James Bay","Timmins--Baie James"," 23","Iroquois Falls",N,N,"",1,382,"Black","","Steve","Liberal","Libéral",N,N,19
+35107,"Timmins--James Bay","Timmins--Baie James"," 23","Iroquois Falls",N,N,"",1,382,"Ellerton","","Morgan","Conservative","Conservateur",N,N,27
+35107,"Timmins--James Bay","Timmins--Baie James"," 23","Iroquois Falls",N,N,"",1,382,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,25
+35107,"Timmins--James Bay","Timmins--Baie James"," 24","Iroquois Falls",N,N,"",4,442,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,37
+35107,"Timmins--James Bay","Timmins--Baie James"," 24","Iroquois Falls",N,N,"",4,442,"Black","","Steve","Liberal","Libéral",N,N,27
+35107,"Timmins--James Bay","Timmins--Baie James"," 24","Iroquois Falls",N,N,"",4,442,"Ellerton","","Morgan","Conservative","Conservateur",N,N,32
+35107,"Timmins--James Bay","Timmins--Baie James"," 24","Iroquois Falls",N,N,"",4,442,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,26
+35107,"Timmins--James Bay","Timmins--Baie James"," 25","Iroquois Falls",N,N,"",2,497,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,67
+35107,"Timmins--James Bay","Timmins--Baie James"," 25","Iroquois Falls",N,N,"",2,497,"Black","","Steve","Liberal","Libéral",N,N,29
+35107,"Timmins--James Bay","Timmins--Baie James"," 25","Iroquois Falls",N,N,"",2,497,"Ellerton","","Morgan","Conservative","Conservateur",N,N,26
+35107,"Timmins--James Bay","Timmins--Baie James"," 25","Iroquois Falls",N,N,"",2,497,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,34
+35107,"Timmins--James Bay","Timmins--Baie James"," 26","Iroquois Falls",N,N,"",3,534,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,50
+35107,"Timmins--James Bay","Timmins--Baie James"," 26","Iroquois Falls",N,N,"",3,534,"Black","","Steve","Liberal","Libéral",N,N,29
+35107,"Timmins--James Bay","Timmins--Baie James"," 26","Iroquois Falls",N,N,"",3,534,"Ellerton","","Morgan","Conservative","Conservateur",N,N,53
+35107,"Timmins--James Bay","Timmins--Baie James"," 26","Iroquois Falls",N,N,"",3,534,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,37
+35107,"Timmins--James Bay","Timmins--Baie James"," 27","Abitibi 70",N,N,"",0,52,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,29
+35107,"Timmins--James Bay","Timmins--Baie James"," 27","Abitibi 70",N,N,"",0,52,"Black","","Steve","Liberal","Libéral",N,N,2
+35107,"Timmins--James Bay","Timmins--Baie James"," 27","Abitibi 70",N,N,"",0,52,"Ellerton","","Morgan","Conservative","Conservateur",N,N,2
+35107,"Timmins--James Bay","Timmins--Baie James"," 27","Abitibi 70",N,N,"",0,52,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,0
+35107,"Timmins--James Bay","Timmins--Baie James"," 28","Iroquois Falls",N,N,"",0,270,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,38
+35107,"Timmins--James Bay","Timmins--Baie James"," 28","Iroquois Falls",N,N,"",0,270,"Black","","Steve","Liberal","Libéral",N,N,14
+35107,"Timmins--James Bay","Timmins--Baie James"," 28","Iroquois Falls",N,N,"",0,270,"Ellerton","","Morgan","Conservative","Conservateur",N,N,26
+35107,"Timmins--James Bay","Timmins--Baie James"," 28","Iroquois Falls",N,N,"",0,270,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,26
+35107,"Timmins--James Bay","Timmins--Baie James"," 29","Shillington",N,N,"",4,473,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,40
+35107,"Timmins--James Bay","Timmins--Baie James"," 29","Shillington",N,N,"",4,473,"Black","","Steve","Liberal","Libéral",N,N,16
+35107,"Timmins--James Bay","Timmins--Baie James"," 29","Shillington",N,N,"",4,473,"Ellerton","","Morgan","Conservative","Conservateur",N,N,65
+35107,"Timmins--James Bay","Timmins--Baie James"," 29","Shillington",N,N,"",4,473,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,32
+35107,"Timmins--James Bay","Timmins--Baie James"," 30","Matheson",N,N,"",3,401,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,43
+35107,"Timmins--James Bay","Timmins--Baie James"," 30","Matheson",N,N,"",3,401,"Black","","Steve","Liberal","Libéral",N,N,20
+35107,"Timmins--James Bay","Timmins--Baie James"," 30","Matheson",N,N,"",3,401,"Ellerton","","Morgan","Conservative","Conservateur",N,N,59
+35107,"Timmins--James Bay","Timmins--Baie James"," 30","Matheson",N,N,"",3,401,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,15
+35107,"Timmins--James Bay","Timmins--Baie James"," 31","Matheson",N,N,"",1,380,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,30
+35107,"Timmins--James Bay","Timmins--Baie James"," 31","Matheson",N,N,"",1,380,"Black","","Steve","Liberal","Libéral",N,N,16
+35107,"Timmins--James Bay","Timmins--Baie James"," 31","Matheson",N,N,"",1,380,"Ellerton","","Morgan","Conservative","Conservateur",N,N,49
+35107,"Timmins--James Bay","Timmins--Baie James"," 31","Matheson",N,N,"",1,380,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,25
+35107,"Timmins--James Bay","Timmins--Baie James"," 32","Val Gagné",N,N,"",0,390,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,50
+35107,"Timmins--James Bay","Timmins--Baie James"," 32","Val Gagné",N,N,"",0,390,"Black","","Steve","Liberal","Libéral",N,N,47
+35107,"Timmins--James Bay","Timmins--Baie James"," 32","Val Gagné",N,N,"",0,390,"Ellerton","","Morgan","Conservative","Conservateur",N,N,38
+35107,"Timmins--James Bay","Timmins--Baie James"," 32","Val Gagné",N,N,"",0,390,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,51
+35107,"Timmins--James Bay","Timmins--Baie James"," 33","Timmins",N,N,"",1,487,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,41
+35107,"Timmins--James Bay","Timmins--Baie James"," 33","Timmins",N,N,"",1,487,"Black","","Steve","Liberal","Libéral",N,N,83
+35107,"Timmins--James Bay","Timmins--Baie James"," 33","Timmins",N,N,"",1,487,"Ellerton","","Morgan","Conservative","Conservateur",N,N,52
+35107,"Timmins--James Bay","Timmins--Baie James"," 33","Timmins",N,N,"",1,487,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,19
+35107,"Timmins--James Bay","Timmins--Baie James"," 34","Timmins",N,N,"",2,395,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,30
+35107,"Timmins--James Bay","Timmins--Baie James"," 34","Timmins",N,N,"",2,395,"Black","","Steve","Liberal","Libéral",N,N,64
+35107,"Timmins--James Bay","Timmins--Baie James"," 34","Timmins",N,N,"",2,395,"Ellerton","","Morgan","Conservative","Conservateur",N,N,47
+35107,"Timmins--James Bay","Timmins--Baie James"," 34","Timmins",N,N,"",2,395,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,6
+35107,"Timmins--James Bay","Timmins--Baie James"," 35","Timmins",N,N,"",0,395,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,32
+35107,"Timmins--James Bay","Timmins--Baie James"," 35","Timmins",N,N,"",0,395,"Black","","Steve","Liberal","Libéral",N,N,53
+35107,"Timmins--James Bay","Timmins--Baie James"," 35","Timmins",N,N,"",0,395,"Ellerton","","Morgan","Conservative","Conservateur",N,N,38
+35107,"Timmins--James Bay","Timmins--Baie James"," 35","Timmins",N,N,"",0,395,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,21
+35107,"Timmins--James Bay","Timmins--Baie James"," 36","Timmins",N,N,"",1,502,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,58
+35107,"Timmins--James Bay","Timmins--Baie James"," 36","Timmins",N,N,"",1,502,"Black","","Steve","Liberal","Libéral",N,N,47
+35107,"Timmins--James Bay","Timmins--Baie James"," 36","Timmins",N,N,"",1,502,"Ellerton","","Morgan","Conservative","Conservateur",N,N,44
+35107,"Timmins--James Bay","Timmins--Baie James"," 36","Timmins",N,N,"",1,502,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,17
+35107,"Timmins--James Bay","Timmins--Baie James"," 37","Timmins",N,N,"",0,431,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,54
+35107,"Timmins--James Bay","Timmins--Baie James"," 37","Timmins",N,N,"",0,431,"Black","","Steve","Liberal","Libéral",N,N,50
+35107,"Timmins--James Bay","Timmins--Baie James"," 37","Timmins",N,N,"",0,431,"Ellerton","","Morgan","Conservative","Conservateur",N,N,66
+35107,"Timmins--James Bay","Timmins--Baie James"," 37","Timmins",N,N,"",0,431,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,17
+35107,"Timmins--James Bay","Timmins--Baie James"," 38","Timmins",N,N,"",1,473,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,49
+35107,"Timmins--James Bay","Timmins--Baie James"," 38","Timmins",N,N,"",1,473,"Black","","Steve","Liberal","Libéral",N,N,41
+35107,"Timmins--James Bay","Timmins--Baie James"," 38","Timmins",N,N,"",1,473,"Ellerton","","Morgan","Conservative","Conservateur",N,N,44
+35107,"Timmins--James Bay","Timmins--Baie James"," 38","Timmins",N,N,"",1,473,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,20
+35107,"Timmins--James Bay","Timmins--Baie James"," 39","Timmins",N,N,"",0,545,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,86
+35107,"Timmins--James Bay","Timmins--Baie James"," 39","Timmins",N,N,"",0,545,"Black","","Steve","Liberal","Libéral",N,N,60
+35107,"Timmins--James Bay","Timmins--Baie James"," 39","Timmins",N,N,"",0,545,"Ellerton","","Morgan","Conservative","Conservateur",N,N,97
+35107,"Timmins--James Bay","Timmins--Baie James"," 39","Timmins",N,N,"",0,545,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,46
+35107,"Timmins--James Bay","Timmins--Baie James"," 40","Ramore",N,N,"",2,431,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,75
+35107,"Timmins--James Bay","Timmins--Baie James"," 40","Ramore",N,N,"",2,431,"Black","","Steve","Liberal","Libéral",N,N,37
+35107,"Timmins--James Bay","Timmins--Baie James"," 40","Ramore",N,N,"",2,431,"Ellerton","","Morgan","Conservative","Conservateur",N,N,51
+35107,"Timmins--James Bay","Timmins--Baie James"," 40","Ramore",N,N,"",2,431,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,46
+35107,"Timmins--James Bay","Timmins--Baie James"," 41","Timmins",N,N,"",5,515,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,54
+35107,"Timmins--James Bay","Timmins--Baie James"," 41","Timmins",N,N,"",5,515,"Black","","Steve","Liberal","Libéral",N,N,35
+35107,"Timmins--James Bay","Timmins--Baie James"," 41","Timmins",N,N,"",5,515,"Ellerton","","Morgan","Conservative","Conservateur",N,N,70
+35107,"Timmins--James Bay","Timmins--Baie James"," 41","Timmins",N,N,"",5,515,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,27
+35107,"Timmins--James Bay","Timmins--Baie James"," 42","Timmins",N,N,"",0,553,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,65
+35107,"Timmins--James Bay","Timmins--Baie James"," 42","Timmins",N,N,"",0,553,"Black","","Steve","Liberal","Libéral",N,N,30
+35107,"Timmins--James Bay","Timmins--Baie James"," 42","Timmins",N,N,"",0,553,"Ellerton","","Morgan","Conservative","Conservateur",N,N,66
+35107,"Timmins--James Bay","Timmins--Baie James"," 42","Timmins",N,N,"",0,553,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,37
+35107,"Timmins--James Bay","Timmins--Baie James"," 43","Timmins",N,N,"",1,402,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,48
+35107,"Timmins--James Bay","Timmins--Baie James"," 43","Timmins",N,N,"",1,402,"Black","","Steve","Liberal","Libéral",N,N,37
+35107,"Timmins--James Bay","Timmins--Baie James"," 43","Timmins",N,N,"",1,402,"Ellerton","","Morgan","Conservative","Conservateur",N,N,51
+35107,"Timmins--James Bay","Timmins--Baie James"," 43","Timmins",N,N,"",1,402,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,29
+35107,"Timmins--James Bay","Timmins--Baie James"," 44","Timmins",N,N,"",1,493,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,63
+35107,"Timmins--James Bay","Timmins--Baie James"," 44","Timmins",N,N,"",1,493,"Black","","Steve","Liberal","Libéral",N,N,30
+35107,"Timmins--James Bay","Timmins--Baie James"," 44","Timmins",N,N,"",1,493,"Ellerton","","Morgan","Conservative","Conservateur",N,N,64
+35107,"Timmins--James Bay","Timmins--Baie James"," 44","Timmins",N,N,"",1,493,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,14
+35107,"Timmins--James Bay","Timmins--Baie James"," 45","Timmins",N,N,"",0,398,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,40
+35107,"Timmins--James Bay","Timmins--Baie James"," 45","Timmins",N,N,"",0,398,"Black","","Steve","Liberal","Libéral",N,N,42
+35107,"Timmins--James Bay","Timmins--Baie James"," 45","Timmins",N,N,"",0,398,"Ellerton","","Morgan","Conservative","Conservateur",N,N,51
+35107,"Timmins--James Bay","Timmins--Baie James"," 45","Timmins",N,N,"",0,398,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,12
+35107,"Timmins--James Bay","Timmins--Baie James"," 46","Timmins",N,N,"",2,369,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,33
+35107,"Timmins--James Bay","Timmins--Baie James"," 46","Timmins",N,N,"",2,369,"Black","","Steve","Liberal","Libéral",N,N,49
+35107,"Timmins--James Bay","Timmins--Baie James"," 46","Timmins",N,N,"",2,369,"Ellerton","","Morgan","Conservative","Conservateur",N,N,36
+35107,"Timmins--James Bay","Timmins--Baie James"," 46","Timmins",N,N,"",2,369,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,4
+35107,"Timmins--James Bay","Timmins--Baie James"," 47","Timmins",N,N,"",1,311,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,26
+35107,"Timmins--James Bay","Timmins--Baie James"," 47","Timmins",N,N,"",1,311,"Black","","Steve","Liberal","Libéral",N,N,22
+35107,"Timmins--James Bay","Timmins--Baie James"," 47","Timmins",N,N,"",1,311,"Ellerton","","Morgan","Conservative","Conservateur",N,N,25
+35107,"Timmins--James Bay","Timmins--Baie James"," 47","Timmins",N,N,"",1,311,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,18
+35107,"Timmins--James Bay","Timmins--Baie James"," 48","Timmins",N,N,"",3,547,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,67
+35107,"Timmins--James Bay","Timmins--Baie James"," 48","Timmins",N,N,"",3,547,"Black","","Steve","Liberal","Libéral",N,N,33
+35107,"Timmins--James Bay","Timmins--Baie James"," 48","Timmins",N,N,"",3,547,"Ellerton","","Morgan","Conservative","Conservateur",N,N,50
+35107,"Timmins--James Bay","Timmins--Baie James"," 48","Timmins",N,N,"",3,547,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,28
+35107,"Timmins--James Bay","Timmins--Baie James"," 49","Timmins",N,N,"",2,341,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,41
+35107,"Timmins--James Bay","Timmins--Baie James"," 49","Timmins",N,N,"",2,341,"Black","","Steve","Liberal","Libéral",N,N,63
+35107,"Timmins--James Bay","Timmins--Baie James"," 49","Timmins",N,N,"",2,341,"Ellerton","","Morgan","Conservative","Conservateur",N,N,47
+35107,"Timmins--James Bay","Timmins--Baie James"," 49","Timmins",N,N,"",2,341,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,15
+35107,"Timmins--James Bay","Timmins--Baie James"," 50","Timmins",N,N,"",1,328,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,43
+35107,"Timmins--James Bay","Timmins--Baie James"," 50","Timmins",N,N,"",1,328,"Black","","Steve","Liberal","Libéral",N,N,42
+35107,"Timmins--James Bay","Timmins--Baie James"," 50","Timmins",N,N,"",1,328,"Ellerton","","Morgan","Conservative","Conservateur",N,N,30
+35107,"Timmins--James Bay","Timmins--Baie James"," 50","Timmins",N,N,"",1,328,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,11
+35107,"Timmins--James Bay","Timmins--Baie James"," 51","Timmins",N,N,"",0,395,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,46
+35107,"Timmins--James Bay","Timmins--Baie James"," 51","Timmins",N,N,"",0,395,"Black","","Steve","Liberal","Libéral",N,N,82
+35107,"Timmins--James Bay","Timmins--Baie James"," 51","Timmins",N,N,"",0,395,"Ellerton","","Morgan","Conservative","Conservateur",N,N,60
+35107,"Timmins--James Bay","Timmins--Baie James"," 51","Timmins",N,N,"",0,395,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,21
+35107,"Timmins--James Bay","Timmins--Baie James"," 52","Timmins",N,N,"",0,431,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,38
+35107,"Timmins--James Bay","Timmins--Baie James"," 52","Timmins",N,N,"",0,431,"Black","","Steve","Liberal","Libéral",N,N,69
+35107,"Timmins--James Bay","Timmins--Baie James"," 52","Timmins",N,N,"",0,431,"Ellerton","","Morgan","Conservative","Conservateur",N,N,52
+35107,"Timmins--James Bay","Timmins--Baie James"," 52","Timmins",N,N,"",0,431,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,8
+35107,"Timmins--James Bay","Timmins--Baie James"," 53","Timmins",N,N,"",1,401,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,56
+35107,"Timmins--James Bay","Timmins--Baie James"," 53","Timmins",N,N,"",1,401,"Black","","Steve","Liberal","Libéral",N,N,56
+35107,"Timmins--James Bay","Timmins--Baie James"," 53","Timmins",N,N,"",1,401,"Ellerton","","Morgan","Conservative","Conservateur",N,N,56
+35107,"Timmins--James Bay","Timmins--Baie James"," 53","Timmins",N,N,"",1,401,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,16
+35107,"Timmins--James Bay","Timmins--Baie James"," 54","Timmins",N,N,"",2,388,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,49
+35107,"Timmins--James Bay","Timmins--Baie James"," 54","Timmins",N,N,"",2,388,"Black","","Steve","Liberal","Libéral",N,N,33
+35107,"Timmins--James Bay","Timmins--Baie James"," 54","Timmins",N,N,"",2,388,"Ellerton","","Morgan","Conservative","Conservateur",N,N,30
+35107,"Timmins--James Bay","Timmins--Baie James"," 54","Timmins",N,N,"",2,388,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,12
+35107,"Timmins--James Bay","Timmins--Baie James"," 55","Timmins",N,N,"",1,438,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,64
+35107,"Timmins--James Bay","Timmins--Baie James"," 55","Timmins",N,N,"",1,438,"Black","","Steve","Liberal","Libéral",N,N,33
+35107,"Timmins--James Bay","Timmins--Baie James"," 55","Timmins",N,N,"",1,438,"Ellerton","","Morgan","Conservative","Conservateur",N,N,43
+35107,"Timmins--James Bay","Timmins--Baie James"," 55","Timmins",N,N,"",1,438,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,13
+35107,"Timmins--James Bay","Timmins--Baie James"," 56","Timmins",N,N,"",0,412,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,39
+35107,"Timmins--James Bay","Timmins--Baie James"," 56","Timmins",N,N,"",0,412,"Black","","Steve","Liberal","Libéral",N,N,61
+35107,"Timmins--James Bay","Timmins--Baie James"," 56","Timmins",N,N,"",0,412,"Ellerton","","Morgan","Conservative","Conservateur",N,N,63
+35107,"Timmins--James Bay","Timmins--Baie James"," 56","Timmins",N,N,"",0,412,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,9
+35107,"Timmins--James Bay","Timmins--Baie James"," 57","Timmins",N,N,"",1,331,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,25
+35107,"Timmins--James Bay","Timmins--Baie James"," 57","Timmins",N,N,"",1,331,"Black","","Steve","Liberal","Libéral",N,N,66
+35107,"Timmins--James Bay","Timmins--Baie James"," 57","Timmins",N,N,"",1,331,"Ellerton","","Morgan","Conservative","Conservateur",N,N,56
+35107,"Timmins--James Bay","Timmins--Baie James"," 57","Timmins",N,N,"",1,331,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,6
+35107,"Timmins--James Bay","Timmins--Baie James"," 58","Timmins",N,N,"",0,367,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,28
+35107,"Timmins--James Bay","Timmins--Baie James"," 58","Timmins",N,N,"",0,367,"Black","","Steve","Liberal","Libéral",N,N,53
+35107,"Timmins--James Bay","Timmins--Baie James"," 58","Timmins",N,N,"",0,367,"Ellerton","","Morgan","Conservative","Conservateur",N,N,55
+35107,"Timmins--James Bay","Timmins--Baie James"," 58","Timmins",N,N,"",0,367,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,15
+35107,"Timmins--James Bay","Timmins--Baie James"," 59","Timmins",N,N,"",1,459,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,27
+35107,"Timmins--James Bay","Timmins--Baie James"," 59","Timmins",N,N,"",1,459,"Black","","Steve","Liberal","Libéral",N,N,58
+35107,"Timmins--James Bay","Timmins--Baie James"," 59","Timmins",N,N,"",1,459,"Ellerton","","Morgan","Conservative","Conservateur",N,N,55
+35107,"Timmins--James Bay","Timmins--Baie James"," 59","Timmins",N,N,"",1,459,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,4
+35107,"Timmins--James Bay","Timmins--Baie James"," 60","Timmins",N,N,"",3,595,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,69
+35107,"Timmins--James Bay","Timmins--Baie James"," 60","Timmins",N,N,"",3,595,"Black","","Steve","Liberal","Libéral",N,N,40
+35107,"Timmins--James Bay","Timmins--Baie James"," 60","Timmins",N,N,"",3,595,"Ellerton","","Morgan","Conservative","Conservateur",N,N,52
+35107,"Timmins--James Bay","Timmins--Baie James"," 60","Timmins",N,N,"",3,595,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,33
+35107,"Timmins--James Bay","Timmins--Baie James"," 61","Timmins",N,N,"",0,368,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,34
+35107,"Timmins--James Bay","Timmins--Baie James"," 61","Timmins",N,N,"",0,368,"Black","","Steve","Liberal","Libéral",N,N,30
+35107,"Timmins--James Bay","Timmins--Baie James"," 61","Timmins",N,N,"",0,368,"Ellerton","","Morgan","Conservative","Conservateur",N,N,38
+35107,"Timmins--James Bay","Timmins--Baie James"," 61","Timmins",N,N,"",0,368,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,20
+35107,"Timmins--James Bay","Timmins--Baie James"," 62","Timmins",N,N,"",0,404,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,30
+35107,"Timmins--James Bay","Timmins--Baie James"," 62","Timmins",N,N,"",0,404,"Black","","Steve","Liberal","Libéral",N,N,28
+35107,"Timmins--James Bay","Timmins--Baie James"," 62","Timmins",N,N,"",0,404,"Ellerton","","Morgan","Conservative","Conservateur",N,N,25
+35107,"Timmins--James Bay","Timmins--Baie James"," 62","Timmins",N,N,"",0,404,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,29
+35107,"Timmins--James Bay","Timmins--Baie James"," 63","Timmins",N,N,"",2,335,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,42
+35107,"Timmins--James Bay","Timmins--Baie James"," 63","Timmins",N,N,"",2,335,"Black","","Steve","Liberal","Libéral",N,N,66
+35107,"Timmins--James Bay","Timmins--Baie James"," 63","Timmins",N,N,"",2,335,"Ellerton","","Morgan","Conservative","Conservateur",N,N,47
+35107,"Timmins--James Bay","Timmins--Baie James"," 63","Timmins",N,N,"",2,335,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,13
+35107,"Timmins--James Bay","Timmins--Baie James"," 64","Timmins",N,N,"",3,434,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,60
+35107,"Timmins--James Bay","Timmins--Baie James"," 64","Timmins",N,N,"",3,434,"Black","","Steve","Liberal","Libéral",N,N,47
+35107,"Timmins--James Bay","Timmins--Baie James"," 64","Timmins",N,N,"",3,434,"Ellerton","","Morgan","Conservative","Conservateur",N,N,58
+35107,"Timmins--James Bay","Timmins--Baie James"," 64","Timmins",N,N,"",3,434,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,22
+35107,"Timmins--James Bay","Timmins--Baie James"," 65","Timmins",N,N,"",3,359,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,27
+35107,"Timmins--James Bay","Timmins--Baie James"," 65","Timmins",N,N,"",3,359,"Black","","Steve","Liberal","Libéral",N,N,20
+35107,"Timmins--James Bay","Timmins--Baie James"," 65","Timmins",N,N,"",3,359,"Ellerton","","Morgan","Conservative","Conservateur",N,N,32
+35107,"Timmins--James Bay","Timmins--Baie James"," 65","Timmins",N,N,"",3,359,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,19
+35107,"Timmins--James Bay","Timmins--Baie James"," 66","Timmins",N,N,"",3,426,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,64
+35107,"Timmins--James Bay","Timmins--Baie James"," 66","Timmins",N,N,"",3,426,"Black","","Steve","Liberal","Libéral",N,N,36
+35107,"Timmins--James Bay","Timmins--Baie James"," 66","Timmins",N,N,"",3,426,"Ellerton","","Morgan","Conservative","Conservateur",N,N,27
+35107,"Timmins--James Bay","Timmins--Baie James"," 66","Timmins",N,N,"",3,426,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,26
+35107,"Timmins--James Bay","Timmins--Baie James"," 67","Timmins",N,N,"",1,527,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,75
+35107,"Timmins--James Bay","Timmins--Baie James"," 67","Timmins",N,N,"",1,527,"Black","","Steve","Liberal","Libéral",N,N,67
+35107,"Timmins--James Bay","Timmins--Baie James"," 67","Timmins",N,N,"",1,527,"Ellerton","","Morgan","Conservative","Conservateur",N,N,64
+35107,"Timmins--James Bay","Timmins--Baie James"," 67","Timmins",N,N,"",1,527,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,27
+35107,"Timmins--James Bay","Timmins--Baie James"," 68","Timmins",N,N,"",3,452,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,66
+35107,"Timmins--James Bay","Timmins--Baie James"," 68","Timmins",N,N,"",3,452,"Black","","Steve","Liberal","Libéral",N,N,61
+35107,"Timmins--James Bay","Timmins--Baie James"," 68","Timmins",N,N,"",3,452,"Ellerton","","Morgan","Conservative","Conservateur",N,N,45
+35107,"Timmins--James Bay","Timmins--Baie James"," 68","Timmins",N,N,"",3,452,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,13
+35107,"Timmins--James Bay","Timmins--Baie James"," 69","Timmins",N,N,"",1,447,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,31
+35107,"Timmins--James Bay","Timmins--Baie James"," 69","Timmins",N,N,"",1,447,"Black","","Steve","Liberal","Libéral",N,N,62
+35107,"Timmins--James Bay","Timmins--Baie James"," 69","Timmins",N,N,"",1,447,"Ellerton","","Morgan","Conservative","Conservateur",N,N,55
+35107,"Timmins--James Bay","Timmins--Baie James"," 69","Timmins",N,N,"",1,447,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,16
+35107,"Timmins--James Bay","Timmins--Baie James"," 70","Timmins",N,N,"",1,424,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,32
+35107,"Timmins--James Bay","Timmins--Baie James"," 70","Timmins",N,N,"",1,424,"Black","","Steve","Liberal","Libéral",N,N,53
+35107,"Timmins--James Bay","Timmins--Baie James"," 70","Timmins",N,N,"",1,424,"Ellerton","","Morgan","Conservative","Conservateur",N,N,66
+35107,"Timmins--James Bay","Timmins--Baie James"," 70","Timmins",N,N,"",1,424,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,15
+35107,"Timmins--James Bay","Timmins--Baie James"," 71","Timmins",N,N,"",1,465,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,50
+35107,"Timmins--James Bay","Timmins--Baie James"," 71","Timmins",N,N,"",1,465,"Black","","Steve","Liberal","Libéral",N,N,49
+35107,"Timmins--James Bay","Timmins--Baie James"," 71","Timmins",N,N,"",1,465,"Ellerton","","Morgan","Conservative","Conservateur",N,N,53
+35107,"Timmins--James Bay","Timmins--Baie James"," 71","Timmins",N,N,"",1,465,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,18
+35107,"Timmins--James Bay","Timmins--Baie James"," 72","Timmins",N,N,"",0,346,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,30
+35107,"Timmins--James Bay","Timmins--Baie James"," 72","Timmins",N,N,"",0,346,"Black","","Steve","Liberal","Libéral",N,N,18
+35107,"Timmins--James Bay","Timmins--Baie James"," 72","Timmins",N,N,"",0,346,"Ellerton","","Morgan","Conservative","Conservateur",N,N,22
+35107,"Timmins--James Bay","Timmins--Baie James"," 72","Timmins",N,N,"",0,346,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,17
+35107,"Timmins--James Bay","Timmins--Baie James"," 73","Timmins",N,N,"",1,346,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,55
+35107,"Timmins--James Bay","Timmins--Baie James"," 73","Timmins",N,N,"",1,346,"Black","","Steve","Liberal","Libéral",N,N,44
+35107,"Timmins--James Bay","Timmins--Baie James"," 73","Timmins",N,N,"",1,346,"Ellerton","","Morgan","Conservative","Conservateur",N,N,38
+35107,"Timmins--James Bay","Timmins--Baie James"," 73","Timmins",N,N,"",1,346,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,13
+35107,"Timmins--James Bay","Timmins--Baie James"," 74","Timmins",N,N,"",2,377,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,29
+35107,"Timmins--James Bay","Timmins--Baie James"," 74","Timmins",N,N,"",2,377,"Black","","Steve","Liberal","Libéral",N,N,8
+35107,"Timmins--James Bay","Timmins--Baie James"," 74","Timmins",N,N,"",2,377,"Ellerton","","Morgan","Conservative","Conservateur",N,N,18
+35107,"Timmins--James Bay","Timmins--Baie James"," 74","Timmins",N,N,"",2,377,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,18
+35107,"Timmins--James Bay","Timmins--Baie James"," 75","Timmins",N,N,"",2,416,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,68
+35107,"Timmins--James Bay","Timmins--Baie James"," 75","Timmins",N,N,"",2,416,"Black","","Steve","Liberal","Libéral",N,N,51
+35107,"Timmins--James Bay","Timmins--Baie James"," 75","Timmins",N,N,"",2,416,"Ellerton","","Morgan","Conservative","Conservateur",N,N,28
+35107,"Timmins--James Bay","Timmins--Baie James"," 75","Timmins",N,N,"",2,416,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,17
+35107,"Timmins--James Bay","Timmins--Baie James"," 76","Timmins",N,N,"",2,413,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,46
+35107,"Timmins--James Bay","Timmins--Baie James"," 76","Timmins",N,N,"",2,413,"Black","","Steve","Liberal","Libéral",N,N,40
+35107,"Timmins--James Bay","Timmins--Baie James"," 76","Timmins",N,N,"",2,413,"Ellerton","","Morgan","Conservative","Conservateur",N,N,42
+35107,"Timmins--James Bay","Timmins--Baie James"," 76","Timmins",N,N,"",2,413,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,19
+35107,"Timmins--James Bay","Timmins--Baie James"," 77","Timmins",N,N,"",0,413,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,49
+35107,"Timmins--James Bay","Timmins--Baie James"," 77","Timmins",N,N,"",0,413,"Black","","Steve","Liberal","Libéral",N,N,12
+35107,"Timmins--James Bay","Timmins--Baie James"," 77","Timmins",N,N,"",0,413,"Ellerton","","Morgan","Conservative","Conservateur",N,N,31
+35107,"Timmins--James Bay","Timmins--Baie James"," 77","Timmins",N,N,"",0,413,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,23
+35107,"Timmins--James Bay","Timmins--Baie James"," 78","Timmins",N,N,"",2,399,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,30
+35107,"Timmins--James Bay","Timmins--Baie James"," 78","Timmins",N,N,"",2,399,"Black","","Steve","Liberal","Libéral",N,N,33
+35107,"Timmins--James Bay","Timmins--Baie James"," 78","Timmins",N,N,"",2,399,"Ellerton","","Morgan","Conservative","Conservateur",N,N,47
+35107,"Timmins--James Bay","Timmins--Baie James"," 78","Timmins",N,N,"",2,399,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,24
+35107,"Timmins--James Bay","Timmins--Baie James"," 79","Timmins",N,N,"",1,353,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,29
+35107,"Timmins--James Bay","Timmins--Baie James"," 79","Timmins",N,N,"",1,353,"Black","","Steve","Liberal","Libéral",N,N,35
+35107,"Timmins--James Bay","Timmins--Baie James"," 79","Timmins",N,N,"",1,353,"Ellerton","","Morgan","Conservative","Conservateur",N,N,31
+35107,"Timmins--James Bay","Timmins--Baie James"," 79","Timmins",N,N,"",1,353,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,6
+35107,"Timmins--James Bay","Timmins--Baie James"," 80","Timmins",N,N,"",0,384,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,13
+35107,"Timmins--James Bay","Timmins--Baie James"," 80","Timmins",N,N,"",0,384,"Black","","Steve","Liberal","Libéral",N,N,14
+35107,"Timmins--James Bay","Timmins--Baie James"," 80","Timmins",N,N,"",0,384,"Ellerton","","Morgan","Conservative","Conservateur",N,N,7
+35107,"Timmins--James Bay","Timmins--Baie James"," 80","Timmins",N,N,"",0,384,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,3
+35107,"Timmins--James Bay","Timmins--Baie James"," 81","Timmins",N,N,"",0,341,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,34
+35107,"Timmins--James Bay","Timmins--Baie James"," 81","Timmins",N,N,"",0,341,"Black","","Steve","Liberal","Libéral",N,N,36
+35107,"Timmins--James Bay","Timmins--Baie James"," 81","Timmins",N,N,"",0,341,"Ellerton","","Morgan","Conservative","Conservateur",N,N,41
+35107,"Timmins--James Bay","Timmins--Baie James"," 81","Timmins",N,N,"",0,341,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,14
+35107,"Timmins--James Bay","Timmins--Baie James"," 82","Timmins",N,N,"",5,415,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,28
+35107,"Timmins--James Bay","Timmins--Baie James"," 82","Timmins",N,N,"",5,415,"Black","","Steve","Liberal","Libéral",N,N,37
+35107,"Timmins--James Bay","Timmins--Baie James"," 82","Timmins",N,N,"",5,415,"Ellerton","","Morgan","Conservative","Conservateur",N,N,32
+35107,"Timmins--James Bay","Timmins--Baie James"," 82","Timmins",N,N,"",5,415,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,13
+35107,"Timmins--James Bay","Timmins--Baie James"," 83","Timmins",N,N,"",1,352,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,43
+35107,"Timmins--James Bay","Timmins--Baie James"," 83","Timmins",N,N,"",1,352,"Black","","Steve","Liberal","Libéral",N,N,27
+35107,"Timmins--James Bay","Timmins--Baie James"," 83","Timmins",N,N,"",1,352,"Ellerton","","Morgan","Conservative","Conservateur",N,N,30
+35107,"Timmins--James Bay","Timmins--Baie James"," 83","Timmins",N,N,"",1,352,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,16
+35107,"Timmins--James Bay","Timmins--Baie James"," 84","Timmins",N,N,"",2,274,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,36
+35107,"Timmins--James Bay","Timmins--Baie James"," 84","Timmins",N,N,"",2,274,"Black","","Steve","Liberal","Libéral",N,N,35
+35107,"Timmins--James Bay","Timmins--Baie James"," 84","Timmins",N,N,"",2,274,"Ellerton","","Morgan","Conservative","Conservateur",N,N,13
+35107,"Timmins--James Bay","Timmins--Baie James"," 84","Timmins",N,N,"",2,274,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,12
+35107,"Timmins--James Bay","Timmins--Baie James"," 85","Timmins",N,N,"",2,318,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,46
+35107,"Timmins--James Bay","Timmins--Baie James"," 85","Timmins",N,N,"",2,318,"Black","","Steve","Liberal","Libéral",N,N,46
+35107,"Timmins--James Bay","Timmins--Baie James"," 85","Timmins",N,N,"",2,318,"Ellerton","","Morgan","Conservative","Conservateur",N,N,31
+35107,"Timmins--James Bay","Timmins--Baie James"," 85","Timmins",N,N,"",2,318,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,15
+35107,"Timmins--James Bay","Timmins--Baie James"," 86","Timmins",N,N,"",0,473,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,47
+35107,"Timmins--James Bay","Timmins--Baie James"," 86","Timmins",N,N,"",0,473,"Black","","Steve","Liberal","Libéral",N,N,79
+35107,"Timmins--James Bay","Timmins--Baie James"," 86","Timmins",N,N,"",0,473,"Ellerton","","Morgan","Conservative","Conservateur",N,N,35
+35107,"Timmins--James Bay","Timmins--Baie James"," 86","Timmins",N,N,"",0,473,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,17
+35107,"Timmins--James Bay","Timmins--Baie James"," 87","Timmins",N,N,"",1,345,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,33
+35107,"Timmins--James Bay","Timmins--Baie James"," 87","Timmins",N,N,"",1,345,"Black","","Steve","Liberal","Libéral",N,N,20
+35107,"Timmins--James Bay","Timmins--Baie James"," 87","Timmins",N,N,"",1,345,"Ellerton","","Morgan","Conservative","Conservateur",N,N,11
+35107,"Timmins--James Bay","Timmins--Baie James"," 87","Timmins",N,N,"",1,345,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,13
+35107,"Timmins--James Bay","Timmins--Baie James"," 88","Timmins",N,N,"",0,378,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,35
+35107,"Timmins--James Bay","Timmins--Baie James"," 88","Timmins",N,N,"",0,378,"Black","","Steve","Liberal","Libéral",N,N,34
+35107,"Timmins--James Bay","Timmins--Baie James"," 88","Timmins",N,N,"",0,378,"Ellerton","","Morgan","Conservative","Conservateur",N,N,18
+35107,"Timmins--James Bay","Timmins--Baie James"," 88","Timmins",N,N,"",0,378,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,19
+35107,"Timmins--James Bay","Timmins--Baie James"," 89","Timmins",N,N,"",1,407,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,39
+35107,"Timmins--James Bay","Timmins--Baie James"," 89","Timmins",N,N,"",1,407,"Black","","Steve","Liberal","Libéral",N,N,20
+35107,"Timmins--James Bay","Timmins--Baie James"," 89","Timmins",N,N,"",1,407,"Ellerton","","Morgan","Conservative","Conservateur",N,N,25
+35107,"Timmins--James Bay","Timmins--Baie James"," 89","Timmins",N,N,"",1,407,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,19
+35107,"Timmins--James Bay","Timmins--Baie James"," 90","Timmins",N,N,"",2,422,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,57
+35107,"Timmins--James Bay","Timmins--Baie James"," 90","Timmins",N,N,"",2,422,"Black","","Steve","Liberal","Libéral",N,N,33
+35107,"Timmins--James Bay","Timmins--Baie James"," 90","Timmins",N,N,"",2,422,"Ellerton","","Morgan","Conservative","Conservateur",N,N,19
+35107,"Timmins--James Bay","Timmins--Baie James"," 90","Timmins",N,N,"",2,422,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,21
+35107,"Timmins--James Bay","Timmins--Baie James"," 91","Timmins",N,N,"",1,380,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,51
+35107,"Timmins--James Bay","Timmins--Baie James"," 91","Timmins",N,N,"",1,380,"Black","","Steve","Liberal","Libéral",N,N,46
+35107,"Timmins--James Bay","Timmins--Baie James"," 91","Timmins",N,N,"",1,380,"Ellerton","","Morgan","Conservative","Conservateur",N,N,45
+35107,"Timmins--James Bay","Timmins--Baie James"," 91","Timmins",N,N,"",1,380,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,30
+35107,"Timmins--James Bay","Timmins--Baie James"," 92","Kearns",N,N,"",8,508,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,133
+35107,"Timmins--James Bay","Timmins--Baie James"," 92","Kearns",N,N,"",8,508,"Black","","Steve","Liberal","Libéral",N,N,60
+35107,"Timmins--James Bay","Timmins--Baie James"," 92","Kearns",N,N,"",8,508,"Ellerton","","Morgan","Conservative","Conservateur",N,N,65
+35107,"Timmins--James Bay","Timmins--Baie James"," 92","Kearns",N,N,"",8,508,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,39
+35107,"Timmins--James Bay","Timmins--Baie James"," 93","Timmins",N,N,"",1,368,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,60
+35107,"Timmins--James Bay","Timmins--Baie James"," 93","Timmins",N,N,"",1,368,"Black","","Steve","Liberal","Libéral",N,N,16
+35107,"Timmins--James Bay","Timmins--Baie James"," 93","Timmins",N,N,"",1,368,"Ellerton","","Morgan","Conservative","Conservateur",N,N,28
+35107,"Timmins--James Bay","Timmins--Baie James"," 93","Timmins",N,N,"",1,368,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,25
+35107,"Timmins--James Bay","Timmins--Baie James"," 94","Timmins",N,N,"",0,396,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,34
+35107,"Timmins--James Bay","Timmins--Baie James"," 94","Timmins",N,N,"",0,396,"Black","","Steve","Liberal","Libéral",N,N,66
+35107,"Timmins--James Bay","Timmins--Baie James"," 94","Timmins",N,N,"",0,396,"Ellerton","","Morgan","Conservative","Conservateur",N,N,52
+35107,"Timmins--James Bay","Timmins--Baie James"," 94","Timmins",N,N,"",0,396,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,24
+35107,"Timmins--James Bay","Timmins--Baie James"," 95","Timmins",N,N,"",3,463,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,23
+35107,"Timmins--James Bay","Timmins--Baie James"," 95","Timmins",N,N,"",3,463,"Black","","Steve","Liberal","Libéral",N,N,69
+35107,"Timmins--James Bay","Timmins--Baie James"," 95","Timmins",N,N,"",3,463,"Ellerton","","Morgan","Conservative","Conservateur",N,N,76
+35107,"Timmins--James Bay","Timmins--Baie James"," 95","Timmins",N,N,"",3,463,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,18
+35107,"Timmins--James Bay","Timmins--Baie James"," 96","Timmins",N,N,"",1,364,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,44
+35107,"Timmins--James Bay","Timmins--Baie James"," 96","Timmins",N,N,"",1,364,"Black","","Steve","Liberal","Libéral",N,N,59
+35107,"Timmins--James Bay","Timmins--Baie James"," 96","Timmins",N,N,"",1,364,"Ellerton","","Morgan","Conservative","Conservateur",N,N,29
+35107,"Timmins--James Bay","Timmins--Baie James"," 96","Timmins",N,N,"",1,364,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,14
+35107,"Timmins--James Bay","Timmins--Baie James"," 97","Timmins",N,N,"",2,374,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,27
+35107,"Timmins--James Bay","Timmins--Baie James"," 97","Timmins",N,N,"",2,374,"Black","","Steve","Liberal","Libéral",N,N,49
+35107,"Timmins--James Bay","Timmins--Baie James"," 97","Timmins",N,N,"",2,374,"Ellerton","","Morgan","Conservative","Conservateur",N,N,20
+35107,"Timmins--James Bay","Timmins--Baie James"," 97","Timmins",N,N,"",2,374,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,16
+35107,"Timmins--James Bay","Timmins--Baie James"," 98","Timmins",N,N,"",1,386,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,25
+35107,"Timmins--James Bay","Timmins--Baie James"," 98","Timmins",N,N,"",1,386,"Black","","Steve","Liberal","Libéral",N,N,46
+35107,"Timmins--James Bay","Timmins--Baie James"," 98","Timmins",N,N,"",1,386,"Ellerton","","Morgan","Conservative","Conservateur",N,N,53
+35107,"Timmins--James Bay","Timmins--Baie James"," 98","Timmins",N,N,"",1,386,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,17
+35107,"Timmins--James Bay","Timmins--Baie James"," 99","Timmins",N,N,"",0,411,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,39
+35107,"Timmins--James Bay","Timmins--Baie James"," 99","Timmins",N,N,"",0,411,"Black","","Steve","Liberal","Libéral",N,N,45
+35107,"Timmins--James Bay","Timmins--Baie James"," 99","Timmins",N,N,"",0,411,"Ellerton","","Morgan","Conservative","Conservateur",N,N,36
+35107,"Timmins--James Bay","Timmins--Baie James"," 99","Timmins",N,N,"",0,411,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,13
+35107,"Timmins--James Bay","Timmins--Baie James"," 100","Timmins",N,N,"",0,441,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,28
+35107,"Timmins--James Bay","Timmins--Baie James"," 100","Timmins",N,N,"",0,441,"Black","","Steve","Liberal","Libéral",N,N,70
+35107,"Timmins--James Bay","Timmins--Baie James"," 100","Timmins",N,N,"",0,441,"Ellerton","","Morgan","Conservative","Conservateur",N,N,57
+35107,"Timmins--James Bay","Timmins--Baie James"," 100","Timmins",N,N,"",0,441,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,19
+35107,"Timmins--James Bay","Timmins--Baie James"," 101","Timmins",N,N,"",0,541,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,33
+35107,"Timmins--James Bay","Timmins--Baie James"," 101","Timmins",N,N,"",0,541,"Black","","Steve","Liberal","Libéral",N,N,67
+35107,"Timmins--James Bay","Timmins--Baie James"," 101","Timmins",N,N,"",0,541,"Ellerton","","Morgan","Conservative","Conservateur",N,N,54
+35107,"Timmins--James Bay","Timmins--Baie James"," 101","Timmins",N,N,"",0,541,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,25
+35107,"Timmins--James Bay","Timmins--Baie James"," 102","Timmins",N,N,"",0,627,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,55
+35107,"Timmins--James Bay","Timmins--Baie James"," 102","Timmins",N,N,"",0,627,"Black","","Steve","Liberal","Libéral",N,N,43
+35107,"Timmins--James Bay","Timmins--Baie James"," 102","Timmins",N,N,"",0,627,"Ellerton","","Morgan","Conservative","Conservateur",N,N,60
+35107,"Timmins--James Bay","Timmins--Baie James"," 102","Timmins",N,N,"",0,627,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,19
+35107,"Timmins--James Bay","Timmins--Baie James"," 103","Sesekinika",N,N,"",0,222,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,36
+35107,"Timmins--James Bay","Timmins--Baie James"," 103","Sesekinika",N,N,"",0,222,"Black","","Steve","Liberal","Libéral",N,N,22
+35107,"Timmins--James Bay","Timmins--Baie James"," 103","Sesekinika",N,N,"",0,222,"Ellerton","","Morgan","Conservative","Conservateur",N,N,37
+35107,"Timmins--James Bay","Timmins--Baie James"," 103","Sesekinika",N,N,"",0,222,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,19
+35107,"Timmins--James Bay","Timmins--Baie James"," 104","Timmins",N,N,"",4,573,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,52
+35107,"Timmins--James Bay","Timmins--Baie James"," 104","Timmins",N,N,"",4,573,"Black","","Steve","Liberal","Libéral",N,N,54
+35107,"Timmins--James Bay","Timmins--Baie James"," 104","Timmins",N,N,"",4,573,"Ellerton","","Morgan","Conservative","Conservateur",N,N,56
+35107,"Timmins--James Bay","Timmins--Baie James"," 104","Timmins",N,N,"",4,573,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,27
+35107,"Timmins--James Bay","Timmins--Baie James"," 105","Timmins",N,N,"",3,443,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,49
+35107,"Timmins--James Bay","Timmins--Baie James"," 105","Timmins",N,N,"",3,443,"Black","","Steve","Liberal","Libéral",N,N,54
+35107,"Timmins--James Bay","Timmins--Baie James"," 105","Timmins",N,N,"",3,443,"Ellerton","","Morgan","Conservative","Conservateur",N,N,44
+35107,"Timmins--James Bay","Timmins--Baie James"," 105","Timmins",N,N,"",3,443,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,28
+35107,"Timmins--James Bay","Timmins--Baie James"," 106","Timmins",N,N,"",4,348,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,41
+35107,"Timmins--James Bay","Timmins--Baie James"," 106","Timmins",N,N,"",4,348,"Black","","Steve","Liberal","Libéral",N,N,34
+35107,"Timmins--James Bay","Timmins--Baie James"," 106","Timmins",N,N,"",4,348,"Ellerton","","Morgan","Conservative","Conservateur",N,N,24
+35107,"Timmins--James Bay","Timmins--Baie James"," 106","Timmins",N,N,"",4,348,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,18
+35107,"Timmins--James Bay","Timmins--Baie James"," 107","Timmins",N,N,"",5,448,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,61
+35107,"Timmins--James Bay","Timmins--Baie James"," 107","Timmins",N,N,"",5,448,"Black","","Steve","Liberal","Libéral",N,N,30
+35107,"Timmins--James Bay","Timmins--Baie James"," 107","Timmins",N,N,"",5,448,"Ellerton","","Morgan","Conservative","Conservateur",N,N,47
+35107,"Timmins--James Bay","Timmins--Baie James"," 107","Timmins",N,N,"",5,448,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,16
+35107,"Timmins--James Bay","Timmins--Baie James"," 108","Timmins",N,N,"",2,493,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,38
+35107,"Timmins--James Bay","Timmins--Baie James"," 108","Timmins",N,N,"",2,493,"Black","","Steve","Liberal","Libéral",N,N,43
+35107,"Timmins--James Bay","Timmins--Baie James"," 108","Timmins",N,N,"",2,493,"Ellerton","","Morgan","Conservative","Conservateur",N,N,41
+35107,"Timmins--James Bay","Timmins--Baie James"," 108","Timmins",N,N,"",2,493,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,13
+35107,"Timmins--James Bay","Timmins--Baie James"," 109","Kirkland Lake",N,N,"",1,503,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,89
+35107,"Timmins--James Bay","Timmins--Baie James"," 109","Kirkland Lake",N,N,"",1,503,"Black","","Steve","Liberal","Libéral",N,N,32
+35107,"Timmins--James Bay","Timmins--Baie James"," 109","Kirkland Lake",N,N,"",1,503,"Ellerton","","Morgan","Conservative","Conservateur",N,N,49
+35107,"Timmins--James Bay","Timmins--Baie James"," 109","Kirkland Lake",N,N,"",1,503,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,8
+35107,"Timmins--James Bay","Timmins--Baie James"," 110","Kirkland Lake",N,N,"",1,550,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,98
+35107,"Timmins--James Bay","Timmins--Baie James"," 110","Kirkland Lake",N,N,"",1,550,"Black","","Steve","Liberal","Libéral",N,N,21
+35107,"Timmins--James Bay","Timmins--Baie James"," 110","Kirkland Lake",N,N,"",1,550,"Ellerton","","Morgan","Conservative","Conservateur",N,N,51
+35107,"Timmins--James Bay","Timmins--Baie James"," 110","Kirkland Lake",N,N,"",1,550,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,27
+35107,"Timmins--James Bay","Timmins--Baie James"," 111","Kirkland Lake",N,N,"",0,410,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,43
+35107,"Timmins--James Bay","Timmins--Baie James"," 111","Kirkland Lake",N,N,"",0,410,"Black","","Steve","Liberal","Libéral",N,N,18
+35107,"Timmins--James Bay","Timmins--Baie James"," 111","Kirkland Lake",N,N,"",0,410,"Ellerton","","Morgan","Conservative","Conservateur",N,N,13
+35107,"Timmins--James Bay","Timmins--Baie James"," 111","Kirkland Lake",N,N,"",0,410,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,16
+35107,"Timmins--James Bay","Timmins--Baie James"," 112","Kirkland Lake",N,N,"",0,322,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,39
+35107,"Timmins--James Bay","Timmins--Baie James"," 112","Kirkland Lake",N,N,"",0,322,"Black","","Steve","Liberal","Libéral",N,N,8
+35107,"Timmins--James Bay","Timmins--Baie James"," 112","Kirkland Lake",N,N,"",0,322,"Ellerton","","Morgan","Conservative","Conservateur",N,N,29
+35107,"Timmins--James Bay","Timmins--Baie James"," 112","Kirkland Lake",N,N,"",0,322,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,19
+35107,"Timmins--James Bay","Timmins--Baie James"," 113","Kirkland Lake",N,N,"",4,329,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,47
+35107,"Timmins--James Bay","Timmins--Baie James"," 113","Kirkland Lake",N,N,"",4,329,"Black","","Steve","Liberal","Libéral",N,N,7
+35107,"Timmins--James Bay","Timmins--Baie James"," 113","Kirkland Lake",N,N,"",4,329,"Ellerton","","Morgan","Conservative","Conservateur",N,N,9
+35107,"Timmins--James Bay","Timmins--Baie James"," 113","Kirkland Lake",N,N,"",4,329,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,17
+35107,"Timmins--James Bay","Timmins--Baie James"," 114","Kirkland Lake",N,N,"",2,482,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,63
+35107,"Timmins--James Bay","Timmins--Baie James"," 114","Kirkland Lake",N,N,"",2,482,"Black","","Steve","Liberal","Libéral",N,N,18
+35107,"Timmins--James Bay","Timmins--Baie James"," 114","Kirkland Lake",N,N,"",2,482,"Ellerton","","Morgan","Conservative","Conservateur",N,N,29
+35107,"Timmins--James Bay","Timmins--Baie James"," 114","Kirkland Lake",N,N,"",2,482,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,28
+35107,"Timmins--James Bay","Timmins--Baie James"," 115","Kirkland Lake",N,N,"",1,466,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,63
+35107,"Timmins--James Bay","Timmins--Baie James"," 115","Kirkland Lake",N,N,"",1,466,"Black","","Steve","Liberal","Libéral",N,N,16
+35107,"Timmins--James Bay","Timmins--Baie James"," 115","Kirkland Lake",N,N,"",1,466,"Ellerton","","Morgan","Conservative","Conservateur",N,N,37
+35107,"Timmins--James Bay","Timmins--Baie James"," 115","Kirkland Lake",N,N,"",1,466,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,27
+35107,"Timmins--James Bay","Timmins--Baie James"," 116","Timmins",N,N,"",0,338,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,26
+35107,"Timmins--James Bay","Timmins--Baie James"," 116","Timmins",N,N,"",0,338,"Black","","Steve","Liberal","Libéral",N,N,20
+35107,"Timmins--James Bay","Timmins--Baie James"," 116","Timmins",N,N,"",0,338,"Ellerton","","Morgan","Conservative","Conservateur",N,N,16
+35107,"Timmins--James Bay","Timmins--Baie James"," 116","Timmins",N,N,"",0,338,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,13
+35107,"Timmins--James Bay","Timmins--Baie James"," 117","Timmins",N,N,"",0,420,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,51
+35107,"Timmins--James Bay","Timmins--Baie James"," 117","Timmins",N,N,"",0,420,"Black","","Steve","Liberal","Libéral",N,N,42
+35107,"Timmins--James Bay","Timmins--Baie James"," 117","Timmins",N,N,"",0,420,"Ellerton","","Morgan","Conservative","Conservateur",N,N,36
+35107,"Timmins--James Bay","Timmins--Baie James"," 117","Timmins",N,N,"",0,420,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,19
+35107,"Timmins--James Bay","Timmins--Baie James"," 118","Timmins",N,N,"",0,434,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,55
+35107,"Timmins--James Bay","Timmins--Baie James"," 118","Timmins",N,N,"",0,434,"Black","","Steve","Liberal","Libéral",N,N,47
+35107,"Timmins--James Bay","Timmins--Baie James"," 118","Timmins",N,N,"",0,434,"Ellerton","","Morgan","Conservative","Conservateur",N,N,42
+35107,"Timmins--James Bay","Timmins--Baie James"," 118","Timmins",N,N,"",0,434,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,18
+35107,"Timmins--James Bay","Timmins--Baie James"," 119","Timmins",N,N,"",0,413,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,66
+35107,"Timmins--James Bay","Timmins--Baie James"," 119","Timmins",N,N,"",0,413,"Black","","Steve","Liberal","Libéral",N,N,36
+35107,"Timmins--James Bay","Timmins--Baie James"," 119","Timmins",N,N,"",0,413,"Ellerton","","Morgan","Conservative","Conservateur",N,N,48
+35107,"Timmins--James Bay","Timmins--Baie James"," 119","Timmins",N,N,"",0,413,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,14
+35107,"Timmins--James Bay","Timmins--Baie James"," 120","Timmins",N,N,"",0,539,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,57
+35107,"Timmins--James Bay","Timmins--Baie James"," 120","Timmins",N,N,"",0,539,"Black","","Steve","Liberal","Libéral",N,N,55
+35107,"Timmins--James Bay","Timmins--Baie James"," 120","Timmins",N,N,"",0,539,"Ellerton","","Morgan","Conservative","Conservateur",N,N,63
+35107,"Timmins--James Bay","Timmins--Baie James"," 120","Timmins",N,N,"",0,539,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,25
+35107,"Timmins--James Bay","Timmins--Baie James"," 121","Dobie",N,N,"",0,393,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,86
+35107,"Timmins--James Bay","Timmins--Baie James"," 121","Dobie",N,N,"",0,393,"Black","","Steve","Liberal","Libéral",N,N,19
+35107,"Timmins--James Bay","Timmins--Baie James"," 121","Dobie",N,N,"",0,393,"Ellerton","","Morgan","Conservative","Conservateur",N,N,62
+35107,"Timmins--James Bay","Timmins--Baie James"," 121","Dobie",N,N,"",0,393,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,45
+35107,"Timmins--James Bay","Timmins--Baie James"," 122","Kirkland Lake",N,N,"",3,554,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,68
+35107,"Timmins--James Bay","Timmins--Baie James"," 122","Kirkland Lake",N,N,"",3,554,"Black","","Steve","Liberal","Libéral",N,N,25
+35107,"Timmins--James Bay","Timmins--Baie James"," 122","Kirkland Lake",N,N,"",3,554,"Ellerton","","Morgan","Conservative","Conservateur",N,N,50
+35107,"Timmins--James Bay","Timmins--Baie James"," 122","Kirkland Lake",N,N,"",3,554,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,25
+35107,"Timmins--James Bay","Timmins--Baie James"," 123","Larder Lake",N,N,"",2,334,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,66
+35107,"Timmins--James Bay","Timmins--Baie James"," 123","Larder Lake",N,N,"",2,334,"Black","","Steve","Liberal","Libéral",N,N,34
+35107,"Timmins--James Bay","Timmins--Baie James"," 123","Larder Lake",N,N,"",2,334,"Ellerton","","Morgan","Conservative","Conservateur",N,N,47
+35107,"Timmins--James Bay","Timmins--Baie James"," 123","Larder Lake",N,N,"",2,334,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,33
+35107,"Timmins--James Bay","Timmins--Baie James"," 124","Larder Lake",N,N,"",2,332,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,64
+35107,"Timmins--James Bay","Timmins--Baie James"," 124","Larder Lake",N,N,"",2,332,"Black","","Steve","Liberal","Libéral",N,N,18
+35107,"Timmins--James Bay","Timmins--Baie James"," 124","Larder Lake",N,N,"",2,332,"Ellerton","","Morgan","Conservative","Conservateur",N,N,53
+35107,"Timmins--James Bay","Timmins--Baie James"," 124","Larder Lake",N,N,"",2,332,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,25
+35107,"Timmins--James Bay","Timmins--Baie James"," 125","Kirkland Lake",N,N,"",1,392,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,37
+35107,"Timmins--James Bay","Timmins--Baie James"," 125","Kirkland Lake",N,N,"",1,392,"Black","","Steve","Liberal","Libéral",N,N,18
+35107,"Timmins--James Bay","Timmins--Baie James"," 125","Kirkland Lake",N,N,"",1,392,"Ellerton","","Morgan","Conservative","Conservateur",N,N,24
+35107,"Timmins--James Bay","Timmins--Baie James"," 125","Kirkland Lake",N,N,"",1,392,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,20
+35107,"Timmins--James Bay","Timmins--Baie James"," 126","Kirkland Lake",N,N,"",3,436,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,54
+35107,"Timmins--James Bay","Timmins--Baie James"," 126","Kirkland Lake",N,N,"",3,436,"Black","","Steve","Liberal","Libéral",N,N,14
+35107,"Timmins--James Bay","Timmins--Baie James"," 126","Kirkland Lake",N,N,"",3,436,"Ellerton","","Morgan","Conservative","Conservateur",N,N,19
+35107,"Timmins--James Bay","Timmins--Baie James"," 126","Kirkland Lake",N,N,"",3,436,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,15
+35107,"Timmins--James Bay","Timmins--Baie James"," 127","Kirkland Lake",N,N,"",0,371,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,45
+35107,"Timmins--James Bay","Timmins--Baie James"," 127","Kirkland Lake",N,N,"",0,371,"Black","","Steve","Liberal","Libéral",N,N,17
+35107,"Timmins--James Bay","Timmins--Baie James"," 127","Kirkland Lake",N,N,"",0,371,"Ellerton","","Morgan","Conservative","Conservateur",N,N,20
+35107,"Timmins--James Bay","Timmins--Baie James"," 127","Kirkland Lake",N,N,"",0,371,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,16
+35107,"Timmins--James Bay","Timmins--Baie James"," 128","Kirkland Lake",N,N,"",3,440,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,63
+35107,"Timmins--James Bay","Timmins--Baie James"," 128","Kirkland Lake",N,N,"",3,440,"Black","","Steve","Liberal","Libéral",N,N,25
+35107,"Timmins--James Bay","Timmins--Baie James"," 128","Kirkland Lake",N,N,"",3,440,"Ellerton","","Morgan","Conservative","Conservateur",N,N,32
+35107,"Timmins--James Bay","Timmins--Baie James"," 128","Kirkland Lake",N,N,"",3,440,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,16
+35107,"Timmins--James Bay","Timmins--Baie James"," 129","Kirkland Lake",N,N,"",3,462,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,63
+35107,"Timmins--James Bay","Timmins--Baie James"," 129","Kirkland Lake",N,N,"",3,462,"Black","","Steve","Liberal","Libéral",N,N,17
+35107,"Timmins--James Bay","Timmins--Baie James"," 129","Kirkland Lake",N,N,"",3,462,"Ellerton","","Morgan","Conservative","Conservateur",N,N,27
+35107,"Timmins--James Bay","Timmins--Baie James"," 129","Kirkland Lake",N,N,"",3,462,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,20
+35107,"Timmins--James Bay","Timmins--Baie James"," 130","Kirkland Lake",N,N,"",1,474,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,62
+35107,"Timmins--James Bay","Timmins--Baie James"," 130","Kirkland Lake",N,N,"",1,474,"Black","","Steve","Liberal","Libéral",N,N,26
+35107,"Timmins--James Bay","Timmins--Baie James"," 130","Kirkland Lake",N,N,"",1,474,"Ellerton","","Morgan","Conservative","Conservateur",N,N,28
+35107,"Timmins--James Bay","Timmins--Baie James"," 130","Kirkland Lake",N,N,"",1,474,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,26
+35107,"Timmins--James Bay","Timmins--Baie James"," 131","Matachewan",N,N,"",2,281,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,47
+35107,"Timmins--James Bay","Timmins--Baie James"," 131","Matachewan",N,N,"",2,281,"Black","","Steve","Liberal","Libéral",N,N,19
+35107,"Timmins--James Bay","Timmins--Baie James"," 131","Matachewan",N,N,"",2,281,"Ellerton","","Morgan","Conservative","Conservateur",N,N,31
+35107,"Timmins--James Bay","Timmins--Baie James"," 131","Matachewan",N,N,"",2,281,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,49
+35107,"Timmins--James Bay","Timmins--Baie James"," 132","Kenogami Lake",N,N,"",0,375,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,57
+35107,"Timmins--James Bay","Timmins--Baie James"," 132","Kenogami Lake",N,N,"",0,375,"Black","","Steve","Liberal","Libéral",N,N,43
+35107,"Timmins--James Bay","Timmins--Baie James"," 132","Kenogami Lake",N,N,"",0,375,"Ellerton","","Morgan","Conservative","Conservateur",N,N,78
+35107,"Timmins--James Bay","Timmins--Baie James"," 132","Kenogami Lake",N,N,"",0,375,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,20
+35107,"Timmins--James Bay","Timmins--Baie James"," 133","Dane",N,N,"",1,384,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,60
+35107,"Timmins--James Bay","Timmins--Baie James"," 133","Dane",N,N,"",1,384,"Black","","Steve","Liberal","Libéral",N,N,14
+35107,"Timmins--James Bay","Timmins--Baie James"," 133","Dane",N,N,"",1,384,"Ellerton","","Morgan","Conservative","Conservateur",N,N,69
+35107,"Timmins--James Bay","Timmins--Baie James"," 133","Dane",N,N,"",1,384,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,44
+35107,"Timmins--James Bay","Timmins--Baie James"," 134","Matachewan 72",N,N,"",0,26,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,20
+35107,"Timmins--James Bay","Timmins--Baie James"," 134","Matachewan 72",N,N,"",0,26,"Black","","Steve","Liberal","Libéral",N,N,2
+35107,"Timmins--James Bay","Timmins--Baie James"," 134","Matachewan 72",N,N,"",0,26,"Ellerton","","Morgan","Conservative","Conservateur",N,N,2
+35107,"Timmins--James Bay","Timmins--Baie James"," 134","Matachewan 72",N,N,"",0,26,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,0
+35107,"Timmins--James Bay","Timmins--Baie James"," 135","Evanturel",N,N,"",1,357,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,48
+35107,"Timmins--James Bay","Timmins--Baie James"," 135","Evanturel",N,N,"",1,357,"Black","","Steve","Liberal","Libéral",N,N,12
+35107,"Timmins--James Bay","Timmins--Baie James"," 135","Evanturel",N,N,"",1,357,"Ellerton","","Morgan","Conservative","Conservateur",N,N,41
+35107,"Timmins--James Bay","Timmins--Baie James"," 135","Evanturel",N,N,"",1,357,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,28
+35107,"Timmins--James Bay","Timmins--Baie James"," 136","Englehart",N,N,"",0,455,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,57
+35107,"Timmins--James Bay","Timmins--Baie James"," 136","Englehart",N,N,"",0,455,"Black","","Steve","Liberal","Libéral",N,N,20
+35107,"Timmins--James Bay","Timmins--Baie James"," 136","Englehart",N,N,"",0,455,"Ellerton","","Morgan","Conservative","Conservateur",N,N,57
+35107,"Timmins--James Bay","Timmins--Baie James"," 136","Englehart",N,N,"",0,455,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,20
+35107,"Timmins--James Bay","Timmins--Baie James"," 137","Englehart",N,N,"",0,484,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,71
+35107,"Timmins--James Bay","Timmins--Baie James"," 137","Englehart",N,N,"",0,484,"Black","","Steve","Liberal","Libéral",N,N,11
+35107,"Timmins--James Bay","Timmins--Baie James"," 137","Englehart",N,N,"",0,484,"Ellerton","","Morgan","Conservative","Conservateur",N,N,22
+35107,"Timmins--James Bay","Timmins--Baie James"," 137","Englehart",N,N,"",0,484,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,66
+35107,"Timmins--James Bay","Timmins--Baie James"," 138","Englehart",N,N,"",0,417,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,61
+35107,"Timmins--James Bay","Timmins--Baie James"," 138","Englehart",N,N,"",0,417,"Black","","Steve","Liberal","Libéral",N,N,17
+35107,"Timmins--James Bay","Timmins--Baie James"," 138","Englehart",N,N,"",0,417,"Ellerton","","Morgan","Conservative","Conservateur",N,N,56
+35107,"Timmins--James Bay","Timmins--Baie James"," 138","Englehart",N,N,"",0,417,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,14
+35107,"Timmins--James Bay","Timmins--Baie James"," 139","Chamberlain",N,N,"",0,258,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,47
+35107,"Timmins--James Bay","Timmins--Baie James"," 139","Chamberlain",N,N,"",0,258,"Black","","Steve","Liberal","Libéral",N,N,9
+35107,"Timmins--James Bay","Timmins--Baie James"," 139","Chamberlain",N,N,"",0,258,"Ellerton","","Morgan","Conservative","Conservateur",N,N,57
+35107,"Timmins--James Bay","Timmins--Baie James"," 139","Chamberlain",N,N,"",0,258,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,13
+35107,"Timmins--James Bay","Timmins--Baie James"," 140","Hilliard",N,N,"",0,335,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,66
+35107,"Timmins--James Bay","Timmins--Baie James"," 140","Hilliard",N,N,"",0,335,"Black","","Steve","Liberal","Libéral",N,N,21
+35107,"Timmins--James Bay","Timmins--Baie James"," 140","Hilliard",N,N,"",0,335,"Ellerton","","Morgan","Conservative","Conservateur",N,N,39
+35107,"Timmins--James Bay","Timmins--Baie James"," 140","Hilliard",N,N,"",0,335,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,27
+35107,"Timmins--James Bay","Timmins--Baie James"," 141","Dack",N,N,"",0,331,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,54
+35107,"Timmins--James Bay","Timmins--Baie James"," 141","Dack",N,N,"",0,331,"Black","","Steve","Liberal","Libéral",N,N,10
+35107,"Timmins--James Bay","Timmins--Baie James"," 141","Dack",N,N,"",0,331,"Ellerton","","Morgan","Conservative","Conservateur",N,N,62
+35107,"Timmins--James Bay","Timmins--Baie James"," 141","Dack",N,N,"",0,331,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,23
+35107,"Timmins--James Bay","Timmins--Baie James"," 142","Charlton",N,N,"",0,312,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,47
+35107,"Timmins--James Bay","Timmins--Baie James"," 142","Charlton",N,N,"",0,312,"Black","","Steve","Liberal","Libéral",N,N,9
+35107,"Timmins--James Bay","Timmins--Baie James"," 142","Charlton",N,N,"",0,312,"Ellerton","","Morgan","Conservative","Conservateur",N,N,48
+35107,"Timmins--James Bay","Timmins--Baie James"," 142","Charlton",N,N,"",0,312,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,25
+35107,"Timmins--James Bay","Timmins--Baie James"," 143","Earlton",N,N,"",0,272,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,44
+35107,"Timmins--James Bay","Timmins--Baie James"," 143","Earlton",N,N,"",0,272,"Black","","Steve","Liberal","Libéral",N,N,19
+35107,"Timmins--James Bay","Timmins--Baie James"," 143","Earlton",N,N,"",0,272,"Ellerton","","Morgan","Conservative","Conservateur",N,N,37
+35107,"Timmins--James Bay","Timmins--Baie James"," 143","Earlton",N,N,"",0,272,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,20
+35107,"Timmins--James Bay","Timmins--Baie James"," 144","Earlton",N,N,"",0,300,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,39
+35107,"Timmins--James Bay","Timmins--Baie James"," 144","Earlton",N,N,"",0,300,"Black","","Steve","Liberal","Libéral",N,N,22
+35107,"Timmins--James Bay","Timmins--Baie James"," 144","Earlton",N,N,"",0,300,"Ellerton","","Morgan","Conservative","Conservateur",N,N,29
+35107,"Timmins--James Bay","Timmins--Baie James"," 144","Earlton",N,N,"",0,300,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,18
+35107,"Timmins--James Bay","Timmins--Baie James"," 145","Earlton",N,N,"",1,340,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,40
+35107,"Timmins--James Bay","Timmins--Baie James"," 145","Earlton",N,N,"",1,340,"Black","","Steve","Liberal","Libéral",N,N,26
+35107,"Timmins--James Bay","Timmins--Baie James"," 145","Earlton",N,N,"",1,340,"Ellerton","","Morgan","Conservative","Conservateur",N,N,35
+35107,"Timmins--James Bay","Timmins--Baie James"," 145","Earlton",N,N,"",1,340,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,15
+35107,"Timmins--James Bay","Timmins--Baie James"," 146","Brethour",N,N,"",2,344,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,75
+35107,"Timmins--James Bay","Timmins--Baie James"," 146","Brethour",N,N,"",2,344,"Black","","Steve","Liberal","Libéral",N,N,39
+35107,"Timmins--James Bay","Timmins--Baie James"," 146","Brethour",N,N,"",2,344,"Ellerton","","Morgan","Conservative","Conservateur",N,N,41
+35107,"Timmins--James Bay","Timmins--Baie James"," 146","Brethour",N,N,"",2,344,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,34
+35107,"Timmins--James Bay","Timmins--Baie James"," 147","Hanbury",N,N,"",0,403,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,64
+35107,"Timmins--James Bay","Timmins--Baie James"," 147","Hanbury",N,N,"",0,403,"Black","","Steve","Liberal","Libéral",N,N,21
+35107,"Timmins--James Bay","Timmins--Baie James"," 147","Hanbury",N,N,"",0,403,"Ellerton","","Morgan","Conservative","Conservateur",N,N,69
+35107,"Timmins--James Bay","Timmins--Baie James"," 147","Hanbury",N,N,"",0,403,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,32
+35107,"Timmins--James Bay","Timmins--Baie James"," 148","Kerns",N,N,"",0,580,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,89
+35107,"Timmins--James Bay","Timmins--Baie James"," 148","Kerns",N,N,"",0,580,"Black","","Steve","Liberal","Libéral",N,N,21
+35107,"Timmins--James Bay","Timmins--Baie James"," 148","Kerns",N,N,"",0,580,"Ellerton","","Morgan","Conservative","Conservateur",N,N,93
+35107,"Timmins--James Bay","Timmins--Baie James"," 148","Kerns",N,N,"",0,580,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,46
+35107,"Timmins--James Bay","Timmins--Baie James"," 149","Sutton Bay",N,N,"",0,400,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,73
+35107,"Timmins--James Bay","Timmins--Baie James"," 149","Sutton Bay",N,N,"",0,400,"Black","","Steve","Liberal","Libéral",N,N,63
+35107,"Timmins--James Bay","Timmins--Baie James"," 149","Sutton Bay",N,N,"",0,400,"Ellerton","","Morgan","Conservative","Conservateur",N,N,72
+35107,"Timmins--James Bay","Timmins--Baie James"," 149","Sutton Bay",N,N,"",0,400,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,29
+35107,"Timmins--James Bay","Timmins--Baie James"," 150","James",N,N,"",5,388,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,88
+35107,"Timmins--James Bay","Timmins--Baie James"," 150","James",N,N,"",5,388,"Black","","Steve","Liberal","Libéral",N,N,29
+35107,"Timmins--James Bay","Timmins--Baie James"," 150","James",N,N,"",5,388,"Ellerton","","Morgan","Conservative","Conservateur",N,N,87
+35107,"Timmins--James Bay","Timmins--Baie James"," 150","James",N,N,"",5,388,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,34
+35107,"Timmins--James Bay","Timmins--Baie James"," 151","Hillview",N,N,"",2,468,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,97
+35107,"Timmins--James Bay","Timmins--Baie James"," 151","Hillview",N,N,"",2,468,"Black","","Steve","Liberal","Libéral",N,N,61
+35107,"Timmins--James Bay","Timmins--Baie James"," 151","Hillview",N,N,"",2,468,"Ellerton","","Morgan","Conservative","Conservateur",N,N,106
+35107,"Timmins--James Bay","Timmins--Baie James"," 151","Hillview",N,N,"",2,468,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,14
+35107,"Timmins--James Bay","Timmins--Baie James"," 152","Gowganda",N,N,"",0,74,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,19
+35107,"Timmins--James Bay","Timmins--Baie James"," 152","Gowganda",N,N,"",0,74,"Black","","Steve","Liberal","Libéral",N,N,1
+35107,"Timmins--James Bay","Timmins--Baie James"," 152","Gowganda",N,N,"",0,74,"Ellerton","","Morgan","Conservative","Conservateur",N,N,27
+35107,"Timmins--James Bay","Timmins--Baie James"," 152","Gowganda",N,N,"",0,74,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,7
+35107,"Timmins--James Bay","Timmins--Baie James"," 500","Mobile poll/Bureau itinérant",N,N,"",9,151,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,18
+35107,"Timmins--James Bay","Timmins--Baie James"," 500","Mobile poll/Bureau itinérant",N,N,"",9,151,"Black","","Steve","Liberal","Libéral",N,N,31
+35107,"Timmins--James Bay","Timmins--Baie James"," 500","Mobile poll/Bureau itinérant",N,N,"",9,151,"Ellerton","","Morgan","Conservative","Conservateur",N,N,7
+35107,"Timmins--James Bay","Timmins--Baie James"," 500","Mobile poll/Bureau itinérant",N,N,"",9,151,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,8
+35107,"Timmins--James Bay","Timmins--Baie James"," 501","Mobile poll/Bureau itinérant",N,N,"",0,103,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,4
+35107,"Timmins--James Bay","Timmins--Baie James"," 501","Mobile poll/Bureau itinérant",N,N,"",0,103,"Black","","Steve","Liberal","Libéral",N,N,5
+35107,"Timmins--James Bay","Timmins--Baie James"," 501","Mobile poll/Bureau itinérant",N,N,"",0,103,"Ellerton","","Morgan","Conservative","Conservateur",N,N,2
+35107,"Timmins--James Bay","Timmins--Baie James"," 501","Mobile poll/Bureau itinérant",N,N,"",0,103,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,0
+35107,"Timmins--James Bay","Timmins--Baie James"," 502","Mobile poll/Bureau itinérant",N,N,"",0,20,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,9
+35107,"Timmins--James Bay","Timmins--Baie James"," 502","Mobile poll/Bureau itinérant",N,N,"",0,20,"Black","","Steve","Liberal","Libéral",N,N,6
+35107,"Timmins--James Bay","Timmins--Baie James"," 502","Mobile poll/Bureau itinérant",N,N,"",0,20,"Ellerton","","Morgan","Conservative","Conservateur",N,N,3
+35107,"Timmins--James Bay","Timmins--Baie James"," 502","Mobile poll/Bureau itinérant",N,N,"",0,20,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,1
+35107,"Timmins--James Bay","Timmins--Baie James"," 503","Mobile poll/Bureau itinérant",N,N,"",1,41,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,15
+35107,"Timmins--James Bay","Timmins--Baie James"," 503","Mobile poll/Bureau itinérant",N,N,"",1,41,"Black","","Steve","Liberal","Libéral",N,N,5
+35107,"Timmins--James Bay","Timmins--Baie James"," 503","Mobile poll/Bureau itinérant",N,N,"",1,41,"Ellerton","","Morgan","Conservative","Conservateur",N,N,5
+35107,"Timmins--James Bay","Timmins--Baie James"," 503","Mobile poll/Bureau itinérant",N,N,"",1,41,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,1
+35107,"Timmins--James Bay","Timmins--Baie James"," 504","Mobile poll/Bureau itinérant",N,N,"",0,46,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,14
+35107,"Timmins--James Bay","Timmins--Baie James"," 504","Mobile poll/Bureau itinérant",N,N,"",0,46,"Black","","Steve","Liberal","Libéral",N,N,11
+35107,"Timmins--James Bay","Timmins--Baie James"," 504","Mobile poll/Bureau itinérant",N,N,"",0,46,"Ellerton","","Morgan","Conservative","Conservateur",N,N,4
+35107,"Timmins--James Bay","Timmins--Baie James"," 504","Mobile poll/Bureau itinérant",N,N,"",0,46,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,1
+35107,"Timmins--James Bay","Timmins--Baie James"," 505","Mobile poll/Bureau itinérant",N,N,"",2,63,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,12
+35107,"Timmins--James Bay","Timmins--Baie James"," 505","Mobile poll/Bureau itinérant",N,N,"",2,63,"Black","","Steve","Liberal","Libéral",N,N,9
+35107,"Timmins--James Bay","Timmins--Baie James"," 505","Mobile poll/Bureau itinérant",N,N,"",2,63,"Ellerton","","Morgan","Conservative","Conservateur",N,N,4
+35107,"Timmins--James Bay","Timmins--Baie James"," 505","Mobile poll/Bureau itinérant",N,N,"",2,63,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,5
+35107,"Timmins--James Bay","Timmins--Baie James"," 506","Mobile poll/Bureau itinérant",N,N,"",0,7,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,4
+35107,"Timmins--James Bay","Timmins--Baie James"," 506","Mobile poll/Bureau itinérant",N,N,"",0,7,"Black","","Steve","Liberal","Libéral",N,N,0
+35107,"Timmins--James Bay","Timmins--Baie James"," 506","Mobile poll/Bureau itinérant",N,N,"",0,7,"Ellerton","","Morgan","Conservative","Conservateur",N,N,1
+35107,"Timmins--James Bay","Timmins--Baie James"," 506","Mobile poll/Bureau itinérant",N,N,"",0,7,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,1
+35107,"Timmins--James Bay","Timmins--Baie James"," 507","Mobile poll/Bureau itinérant",N,N,"",1,25,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,4
+35107,"Timmins--James Bay","Timmins--Baie James"," 507","Mobile poll/Bureau itinérant",N,N,"",1,25,"Black","","Steve","Liberal","Libéral",N,N,2
+35107,"Timmins--James Bay","Timmins--Baie James"," 507","Mobile poll/Bureau itinérant",N,N,"",1,25,"Ellerton","","Morgan","Conservative","Conservateur",N,N,0
+35107,"Timmins--James Bay","Timmins--Baie James"," 507","Mobile poll/Bureau itinérant",N,N,"",1,25,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,0
+35107,"Timmins--James Bay","Timmins--Baie James"," 508","Mobile poll/Bureau itinérant",N,N,"",0,7,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,1
+35107,"Timmins--James Bay","Timmins--Baie James"," 508","Mobile poll/Bureau itinérant",N,N,"",0,7,"Black","","Steve","Liberal","Libéral",N,N,1
+35107,"Timmins--James Bay","Timmins--Baie James"," 508","Mobile poll/Bureau itinérant",N,N,"",0,7,"Ellerton","","Morgan","Conservative","Conservateur",N,N,1
+35107,"Timmins--James Bay","Timmins--Baie James"," 508","Mobile poll/Bureau itinérant",N,N,"",0,7,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,0
+35107,"Timmins--James Bay","Timmins--Baie James"," 600","Moosonee",N,N,"",0,0,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,75
+35107,"Timmins--James Bay","Timmins--Baie James"," 600","Moosonee",N,N,"",0,0,"Black","","Steve","Liberal","Libéral",N,N,2
+35107,"Timmins--James Bay","Timmins--Baie James"," 600","Moosonee",N,N,"",0,0,"Ellerton","","Morgan","Conservative","Conservateur",N,N,8
+35107,"Timmins--James Bay","Timmins--Baie James"," 600","Moosonee",N,N,"",0,0,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,10
+35107,"Timmins--James Bay","Timmins--Baie James"," 601","Cochrane",N,N,"",6,0,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,390
+35107,"Timmins--James Bay","Timmins--Baie James"," 601","Cochrane",N,N,"",6,0,"Black","","Steve","Liberal","Libéral",N,N,247
+35107,"Timmins--James Bay","Timmins--Baie James"," 601","Cochrane",N,N,"",6,0,"Ellerton","","Morgan","Conservative","Conservateur",N,N,208
+35107,"Timmins--James Bay","Timmins--Baie James"," 601","Cochrane",N,N,"",6,0,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,126
+35107,"Timmins--James Bay","Timmins--Baie James"," 602","Iroquois Falls",N,N,"",19,0,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,352
+35107,"Timmins--James Bay","Timmins--Baie James"," 602","Iroquois Falls",N,N,"",19,0,"Black","","Steve","Liberal","Libéral",N,N,209
+35107,"Timmins--James Bay","Timmins--Baie James"," 602","Iroquois Falls",N,N,"",19,0,"Ellerton","","Morgan","Conservative","Conservateur",N,N,269
+35107,"Timmins--James Bay","Timmins--Baie James"," 602","Iroquois Falls",N,N,"",19,0,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,190
+35107,"Timmins--James Bay","Timmins--Baie James"," 603","Matheson",N,N,"",6,0,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,120
+35107,"Timmins--James Bay","Timmins--Baie James"," 603","Matheson",N,N,"",6,0,"Black","","Steve","Liberal","Libéral",N,N,66
+35107,"Timmins--James Bay","Timmins--Baie James"," 603","Matheson",N,N,"",6,0,"Ellerton","","Morgan","Conservative","Conservateur",N,N,155
+35107,"Timmins--James Bay","Timmins--Baie James"," 603","Matheson",N,N,"",6,0,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,96
+35107,"Timmins--James Bay","Timmins--Baie James"," 604","Timmins",N,N,"",14,0,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,355
+35107,"Timmins--James Bay","Timmins--Baie James"," 604","Timmins",N,N,"",14,0,"Black","","Steve","Liberal","Libéral",N,N,302
+35107,"Timmins--James Bay","Timmins--Baie James"," 604","Timmins",N,N,"",14,0,"Ellerton","","Morgan","Conservative","Conservateur",N,N,502
+35107,"Timmins--James Bay","Timmins--Baie James"," 604","Timmins",N,N,"",14,0,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,162
+35107,"Timmins--James Bay","Timmins--Baie James"," 605","Timmins",N,N,"",12,0,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,230
+35107,"Timmins--James Bay","Timmins--Baie James"," 605","Timmins",N,N,"",12,0,"Black","","Steve","Liberal","Libéral",N,N,313
+35107,"Timmins--James Bay","Timmins--Baie James"," 605","Timmins",N,N,"",12,0,"Ellerton","","Morgan","Conservative","Conservateur",N,N,205
+35107,"Timmins--James Bay","Timmins--Baie James"," 605","Timmins",N,N,"",12,0,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,90
+35107,"Timmins--James Bay","Timmins--Baie James"," 606","Timmins",N,N,"",1,0,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,281
+35107,"Timmins--James Bay","Timmins--Baie James"," 606","Timmins",N,N,"",1,0,"Black","","Steve","Liberal","Libéral",N,N,426
+35107,"Timmins--James Bay","Timmins--Baie James"," 606","Timmins",N,N,"",1,0,"Ellerton","","Morgan","Conservative","Conservateur",N,N,289
+35107,"Timmins--James Bay","Timmins--Baie James"," 606","Timmins",N,N,"",1,0,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,69
+35107,"Timmins--James Bay","Timmins--Baie James"," 607","Timmins",N,N,"",8,0,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,281
+35107,"Timmins--James Bay","Timmins--Baie James"," 607","Timmins",N,N,"",8,0,"Black","","Steve","Liberal","Libéral",N,N,521
+35107,"Timmins--James Bay","Timmins--Baie James"," 607","Timmins",N,N,"",8,0,"Ellerton","","Morgan","Conservative","Conservateur",N,N,354
+35107,"Timmins--James Bay","Timmins--Baie James"," 607","Timmins",N,N,"",8,0,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,172
+35107,"Timmins--James Bay","Timmins--Baie James"," 608","Timmins",N,N,"",11,0,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,225
+35107,"Timmins--James Bay","Timmins--Baie James"," 608","Timmins",N,N,"",11,0,"Black","","Steve","Liberal","Libéral",N,N,258
+35107,"Timmins--James Bay","Timmins--Baie James"," 608","Timmins",N,N,"",11,0,"Ellerton","","Morgan","Conservative","Conservateur",N,N,202
+35107,"Timmins--James Bay","Timmins--Baie James"," 608","Timmins",N,N,"",11,0,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,122
+35107,"Timmins--James Bay","Timmins--Baie James"," 609","Kirkland Lake",N,N,"",5,0,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,341
+35107,"Timmins--James Bay","Timmins--Baie James"," 609","Kirkland Lake",N,N,"",5,0,"Black","","Steve","Liberal","Libéral",N,N,105
+35107,"Timmins--James Bay","Timmins--Baie James"," 609","Kirkland Lake",N,N,"",5,0,"Ellerton","","Morgan","Conservative","Conservateur",N,N,160
+35107,"Timmins--James Bay","Timmins--Baie James"," 609","Kirkland Lake",N,N,"",5,0,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,73
+35107,"Timmins--James Bay","Timmins--Baie James"," 610","Kirkland Lake",N,N,"",15,0,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,397
+35107,"Timmins--James Bay","Timmins--Baie James"," 610","Kirkland Lake",N,N,"",15,0,"Black","","Steve","Liberal","Libéral",N,N,166
+35107,"Timmins--James Bay","Timmins--Baie James"," 610","Kirkland Lake",N,N,"",15,0,"Ellerton","","Morgan","Conservative","Conservateur",N,N,146
+35107,"Timmins--James Bay","Timmins--Baie James"," 610","Kirkland Lake",N,N,"",15,0,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,107
+35107,"Timmins--James Bay","Timmins--Baie James"," 611","Englehart",N,N,"",2,0,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,263
+35107,"Timmins--James Bay","Timmins--Baie James"," 611","Englehart",N,N,"",2,0,"Black","","Steve","Liberal","Libéral",N,N,75
+35107,"Timmins--James Bay","Timmins--Baie James"," 611","Englehart",N,N,"",2,0,"Ellerton","","Morgan","Conservative","Conservateur",N,N,271
+35107,"Timmins--James Bay","Timmins--Baie James"," 611","Englehart",N,N,"",2,0,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,80
+35107,"Timmins--James Bay","Timmins--Baie James"," 612","Earlton",N,N,"",3,0,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,172
+35107,"Timmins--James Bay","Timmins--Baie James"," 612","Earlton",N,N,"",3,0,"Black","","Steve","Liberal","Libéral",N,N,89
+35107,"Timmins--James Bay","Timmins--Baie James"," 612","Earlton",N,N,"",3,0,"Ellerton","","Morgan","Conservative","Conservateur",N,N,89
+35107,"Timmins--James Bay","Timmins--Baie James"," 612","Earlton",N,N,"",3,0,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,49
+35107,"Timmins--James Bay","Timmins--Baie James"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",13,102,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,153
+35107,"Timmins--James Bay","Timmins--Baie James"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",13,102,"Black","","Steve","Liberal","Libéral",N,N,73
+35107,"Timmins--James Bay","Timmins--Baie James"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",13,102,"Ellerton","","Morgan","Conservative","Conservateur",N,N,82
+35107,"Timmins--James Bay","Timmins--Baie James"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",13,102,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,21
+35107,"Timmins--James Bay","Timmins--Baie James"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",31,0,"Angus","","Charlie","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",Y,Y,401
+35107,"Timmins--James Bay","Timmins--Baie James"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",31,0,"Black","","Steve","Liberal","Libéral",N,N,403
+35107,"Timmins--James Bay","Timmins--Baie James"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",31,0,"Ellerton","","Morgan","Conservative","Conservateur",N,N,287
+35107,"Timmins--James Bay","Timmins--Baie James"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",31,0,"MacLeod","","Stephen","People's Party - PPC","Parti populaire - PPC",N,N,106

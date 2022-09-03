@@ -1,0 +1,991 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+59025,"Richmond Centre","Richmond-Centre"," 1","Richmond",N,N,"",0,287,"Gillanders","","Laura","Green Party","Parti Vert",N,N,7
+59025,"Richmond Centre","Richmond-Centre"," 1","Richmond",N,N,"",0,287,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,7
+59025,"Richmond Centre","Richmond-Centre"," 1","Richmond",N,N,"",0,287,"Miao","","Wilson","Liberal","Libéral",N,Y,27
+59025,"Richmond Centre","Richmond-Centre"," 1","Richmond",N,N,"",0,287,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59025,"Richmond Centre","Richmond-Centre"," 1","Richmond",N,N,"",0,287,"Wong","","Alice","Conservative","Conservateur",Y,N,29
+59025,"Richmond Centre","Richmond-Centre"," 2","Richmond",N,N,"",0,298,"Gillanders","","Laura","Green Party","Parti Vert",N,N,9
+59025,"Richmond Centre","Richmond-Centre"," 2","Richmond",N,N,"",0,298,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 2","Richmond",N,N,"",0,298,"Miao","","Wilson","Liberal","Libéral",N,Y,41
+59025,"Richmond Centre","Richmond-Centre"," 2","Richmond",N,N,"",0,298,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+59025,"Richmond Centre","Richmond-Centre"," 2","Richmond",N,N,"",0,298,"Wong","","Alice","Conservative","Conservateur",Y,N,21
+59025,"Richmond Centre","Richmond-Centre"," 3","Richmond",N,N,"",1,405,"Gillanders","","Laura","Green Party","Parti Vert",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 3","Richmond",N,N,"",1,405,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 3","Richmond",N,N,"",1,405,"Miao","","Wilson","Liberal","Libéral",N,Y,34
+59025,"Richmond Centre","Richmond-Centre"," 3","Richmond",N,N,"",1,405,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59025,"Richmond Centre","Richmond-Centre"," 3","Richmond",N,N,"",1,405,"Wong","","Alice","Conservative","Conservateur",Y,N,26
+59025,"Richmond Centre","Richmond-Centre"," 4","Richmond",N,N,"",1,417,"Gillanders","","Laura","Green Party","Parti Vert",N,N,7
+59025,"Richmond Centre","Richmond-Centre"," 4","Richmond",N,N,"",1,417,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 4","Richmond",N,N,"",1,417,"Miao","","Wilson","Liberal","Libéral",N,Y,51
+59025,"Richmond Centre","Richmond-Centre"," 4","Richmond",N,N,"",1,417,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59025,"Richmond Centre","Richmond-Centre"," 4","Richmond",N,N,"",1,417,"Wong","","Alice","Conservative","Conservateur",Y,N,50
+59025,"Richmond Centre","Richmond-Centre"," 5","Richmond",N,N,"",3,477,"Gillanders","","Laura","Green Party","Parti Vert",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 5","Richmond",N,N,"",3,477,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 5","Richmond",N,N,"",3,477,"Miao","","Wilson","Liberal","Libéral",N,Y,42
+59025,"Richmond Centre","Richmond-Centre"," 5","Richmond",N,N,"",3,477,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59025,"Richmond Centre","Richmond-Centre"," 5","Richmond",N,N,"",3,477,"Wong","","Alice","Conservative","Conservateur",Y,N,41
+59025,"Richmond Centre","Richmond-Centre"," 6","Richmond",N,N,"",0,346,"Gillanders","","Laura","Green Party","Parti Vert",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 6","Richmond",N,N,"",0,346,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 6","Richmond",N,N,"",0,346,"Miao","","Wilson","Liberal","Libéral",N,Y,43
+59025,"Richmond Centre","Richmond-Centre"," 6","Richmond",N,N,"",0,346,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 6","Richmond",N,N,"",0,346,"Wong","","Alice","Conservative","Conservateur",Y,N,27
+59025,"Richmond Centre","Richmond-Centre"," 7","Richmond",N,N,"",2,400,"Gillanders","","Laura","Green Party","Parti Vert",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 7","Richmond",N,N,"",2,400,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 7","Richmond",N,N,"",2,400,"Miao","","Wilson","Liberal","Libéral",N,Y,37
+59025,"Richmond Centre","Richmond-Centre"," 7","Richmond",N,N,"",2,400,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59025,"Richmond Centre","Richmond-Centre"," 7","Richmond",N,N,"",2,400,"Wong","","Alice","Conservative","Conservateur",Y,N,32
+59025,"Richmond Centre","Richmond-Centre"," 8","Richmond",N,N,"",0,330,"Gillanders","","Laura","Green Party","Parti Vert",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 8","Richmond",N,N,"",0,330,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 8","Richmond",N,N,"",0,330,"Miao","","Wilson","Liberal","Libéral",N,Y,28
+59025,"Richmond Centre","Richmond-Centre"," 8","Richmond",N,N,"",0,330,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59025,"Richmond Centre","Richmond-Centre"," 8","Richmond",N,N,"",0,330,"Wong","","Alice","Conservative","Conservateur",Y,N,30
+59025,"Richmond Centre","Richmond-Centre"," 9","Richmond",N,N,"",0,538,"Gillanders","","Laura","Green Party","Parti Vert",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 9","Richmond",N,N,"",0,538,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 9","Richmond",N,N,"",0,538,"Miao","","Wilson","Liberal","Libéral",N,Y,58
+59025,"Richmond Centre","Richmond-Centre"," 9","Richmond",N,N,"",0,538,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59025,"Richmond Centre","Richmond-Centre"," 9","Richmond",N,N,"",0,538,"Wong","","Alice","Conservative","Conservateur",Y,N,46
+59025,"Richmond Centre","Richmond-Centre"," 10","Richmond",N,N,"",0,351,"Gillanders","","Laura","Green Party","Parti Vert",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 10","Richmond",N,N,"",0,351,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,6
+59025,"Richmond Centre","Richmond-Centre"," 10","Richmond",N,N,"",0,351,"Miao","","Wilson","Liberal","Libéral",N,Y,41
+59025,"Richmond Centre","Richmond-Centre"," 10","Richmond",N,N,"",0,351,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59025,"Richmond Centre","Richmond-Centre"," 10","Richmond",N,N,"",0,351,"Wong","","Alice","Conservative","Conservateur",Y,N,30
+59025,"Richmond Centre","Richmond-Centre"," 11","Richmond",N,N,"",0,317,"Gillanders","","Laura","Green Party","Parti Vert",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 11","Richmond",N,N,"",0,317,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 11","Richmond",N,N,"",0,317,"Miao","","Wilson","Liberal","Libéral",N,Y,28
+59025,"Richmond Centre","Richmond-Centre"," 11","Richmond",N,N,"",0,317,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59025,"Richmond Centre","Richmond-Centre"," 11","Richmond",N,N,"",0,317,"Wong","","Alice","Conservative","Conservateur",Y,N,17
+59025,"Richmond Centre","Richmond-Centre"," 12","Richmond",N,N,"",1,551,"Gillanders","","Laura","Green Party","Parti Vert",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 12","Richmond",N,N,"",1,551,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 12","Richmond",N,N,"",1,551,"Miao","","Wilson","Liberal","Libéral",N,Y,48
+59025,"Richmond Centre","Richmond-Centre"," 12","Richmond",N,N,"",1,551,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59025,"Richmond Centre","Richmond-Centre"," 12","Richmond",N,N,"",1,551,"Wong","","Alice","Conservative","Conservateur",Y,N,41
+59025,"Richmond Centre","Richmond-Centre"," 13","Richmond",N,N,"",1,516,"Gillanders","","Laura","Green Party","Parti Vert",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 13","Richmond",N,N,"",1,516,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 13","Richmond",N,N,"",1,516,"Miao","","Wilson","Liberal","Libéral",N,Y,66
+59025,"Richmond Centre","Richmond-Centre"," 13","Richmond",N,N,"",1,516,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59025,"Richmond Centre","Richmond-Centre"," 13","Richmond",N,N,"",1,516,"Wong","","Alice","Conservative","Conservateur",Y,N,38
+59025,"Richmond Centre","Richmond-Centre"," 14","Richmond",N,N,"",0,251,"Gillanders","","Laura","Green Party","Parti Vert",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 14","Richmond",N,N,"",0,251,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 14","Richmond",N,N,"",0,251,"Miao","","Wilson","Liberal","Libéral",N,Y,20
+59025,"Richmond Centre","Richmond-Centre"," 14","Richmond",N,N,"",0,251,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59025,"Richmond Centre","Richmond-Centre"," 14","Richmond",N,N,"",0,251,"Wong","","Alice","Conservative","Conservateur",Y,N,26
+59025,"Richmond Centre","Richmond-Centre"," 15","Richmond",N,N,"",1,530,"Gillanders","","Laura","Green Party","Parti Vert",N,N,9
+59025,"Richmond Centre","Richmond-Centre"," 15","Richmond",N,N,"",1,530,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 15","Richmond",N,N,"",1,530,"Miao","","Wilson","Liberal","Libéral",N,Y,53
+59025,"Richmond Centre","Richmond-Centre"," 15","Richmond",N,N,"",1,530,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+59025,"Richmond Centre","Richmond-Centre"," 15","Richmond",N,N,"",1,530,"Wong","","Alice","Conservative","Conservateur",Y,N,54
+59025,"Richmond Centre","Richmond-Centre"," 16","Richmond",N,N,"",0,375,"Gillanders","","Laura","Green Party","Parti Vert",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 16","Richmond",N,N,"",0,375,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 16","Richmond",N,N,"",0,375,"Miao","","Wilson","Liberal","Libéral",N,Y,34
+59025,"Richmond Centre","Richmond-Centre"," 16","Richmond",N,N,"",0,375,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59025,"Richmond Centre","Richmond-Centre"," 16","Richmond",N,N,"",0,375,"Wong","","Alice","Conservative","Conservateur",Y,N,42
+59025,"Richmond Centre","Richmond-Centre"," 17","Richmond",N,N,"",0,425,"Gillanders","","Laura","Green Party","Parti Vert",N,N,6
+59025,"Richmond Centre","Richmond-Centre"," 17","Richmond",N,N,"",0,425,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 17","Richmond",N,N,"",0,425,"Miao","","Wilson","Liberal","Libéral",N,Y,42
+59025,"Richmond Centre","Richmond-Centre"," 17","Richmond",N,N,"",0,425,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59025,"Richmond Centre","Richmond-Centre"," 17","Richmond",N,N,"",0,425,"Wong","","Alice","Conservative","Conservateur",Y,N,45
+59025,"Richmond Centre","Richmond-Centre"," 18","Richmond",N,N,"",1,420,"Gillanders","","Laura","Green Party","Parti Vert",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 18","Richmond",N,N,"",1,420,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 18","Richmond",N,N,"",1,420,"Miao","","Wilson","Liberal","Libéral",N,Y,37
+59025,"Richmond Centre","Richmond-Centre"," 18","Richmond",N,N,"",1,420,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59025,"Richmond Centre","Richmond-Centre"," 18","Richmond",N,N,"",1,420,"Wong","","Alice","Conservative","Conservateur",Y,N,43
+59025,"Richmond Centre","Richmond-Centre"," 19","Richmond",N,N,"",2,381,"Gillanders","","Laura","Green Party","Parti Vert",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 19","Richmond",N,N,"",2,381,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 19","Richmond",N,N,"",2,381,"Miao","","Wilson","Liberal","Libéral",N,Y,53
+59025,"Richmond Centre","Richmond-Centre"," 19","Richmond",N,N,"",2,381,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59025,"Richmond Centre","Richmond-Centre"," 19","Richmond",N,N,"",2,381,"Wong","","Alice","Conservative","Conservateur",Y,N,38
+59025,"Richmond Centre","Richmond-Centre"," 20","Richmond",N,N,"",1,383,"Gillanders","","Laura","Green Party","Parti Vert",N,N,14
+59025,"Richmond Centre","Richmond-Centre"," 20","Richmond",N,N,"",1,383,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 20","Richmond",N,N,"",1,383,"Miao","","Wilson","Liberal","Libéral",N,Y,49
+59025,"Richmond Centre","Richmond-Centre"," 20","Richmond",N,N,"",1,383,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59025,"Richmond Centre","Richmond-Centre"," 20","Richmond",N,N,"",1,383,"Wong","","Alice","Conservative","Conservateur",Y,N,31
+59025,"Richmond Centre","Richmond-Centre"," 21","Richmond",N,N,"",3,350,"Gillanders","","Laura","Green Party","Parti Vert",N,N,13
+59025,"Richmond Centre","Richmond-Centre"," 21","Richmond",N,N,"",3,350,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 21","Richmond",N,N,"",3,350,"Miao","","Wilson","Liberal","Libéral",N,Y,56
+59025,"Richmond Centre","Richmond-Centre"," 21","Richmond",N,N,"",3,350,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59025,"Richmond Centre","Richmond-Centre"," 21","Richmond",N,N,"",3,350,"Wong","","Alice","Conservative","Conservateur",Y,N,54
+59025,"Richmond Centre","Richmond-Centre"," 22","Richmond",N,N,"",3,318,"Gillanders","","Laura","Green Party","Parti Vert",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 22","Richmond",N,N,"",3,318,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 22","Richmond",N,N,"",3,318,"Miao","","Wilson","Liberal","Libéral",N,Y,30
+59025,"Richmond Centre","Richmond-Centre"," 22","Richmond",N,N,"",3,318,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59025,"Richmond Centre","Richmond-Centre"," 22","Richmond",N,N,"",3,318,"Wong","","Alice","Conservative","Conservateur",Y,N,38
+59025,"Richmond Centre","Richmond-Centre"," 23","Richmond",N,N,"",2,458,"Gillanders","","Laura","Green Party","Parti Vert",N,N,21
+59025,"Richmond Centre","Richmond-Centre"," 23","Richmond",N,N,"",2,458,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 23","Richmond",N,N,"",2,458,"Miao","","Wilson","Liberal","Libéral",N,Y,71
+59025,"Richmond Centre","Richmond-Centre"," 23","Richmond",N,N,"",2,458,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+59025,"Richmond Centre","Richmond-Centre"," 23","Richmond",N,N,"",2,458,"Wong","","Alice","Conservative","Conservateur",Y,N,50
+59025,"Richmond Centre","Richmond-Centre"," 24","Richmond",N,N,"",1,363,"Gillanders","","Laura","Green Party","Parti Vert",N,N,11
+59025,"Richmond Centre","Richmond-Centre"," 24","Richmond",N,N,"",1,363,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 24","Richmond",N,N,"",1,363,"Miao","","Wilson","Liberal","Libéral",N,Y,70
+59025,"Richmond Centre","Richmond-Centre"," 24","Richmond",N,N,"",1,363,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59025,"Richmond Centre","Richmond-Centre"," 24","Richmond",N,N,"",1,363,"Wong","","Alice","Conservative","Conservateur",Y,N,50
+59025,"Richmond Centre","Richmond-Centre"," 25","Richmond",N,N,"",3,379,"Gillanders","","Laura","Green Party","Parti Vert",N,N,6
+59025,"Richmond Centre","Richmond-Centre"," 25","Richmond",N,N,"",3,379,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,6
+59025,"Richmond Centre","Richmond-Centre"," 25","Richmond",N,N,"",3,379,"Miao","","Wilson","Liberal","Libéral",N,Y,45
+59025,"Richmond Centre","Richmond-Centre"," 25","Richmond",N,N,"",3,379,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+59025,"Richmond Centre","Richmond-Centre"," 25","Richmond",N,N,"",3,379,"Wong","","Alice","Conservative","Conservateur",Y,N,55
+59025,"Richmond Centre","Richmond-Centre"," 26","Richmond",N,N,"",0,343,"Gillanders","","Laura","Green Party","Parti Vert",N,N,6
+59025,"Richmond Centre","Richmond-Centre"," 26","Richmond",N,N,"",0,343,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 26","Richmond",N,N,"",0,343,"Miao","","Wilson","Liberal","Libéral",N,Y,54
+59025,"Richmond Centre","Richmond-Centre"," 26","Richmond",N,N,"",0,343,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59025,"Richmond Centre","Richmond-Centre"," 26","Richmond",N,N,"",0,343,"Wong","","Alice","Conservative","Conservateur",Y,N,55
+59025,"Richmond Centre","Richmond-Centre"," 27","Richmond",N,N,"",1,575,"Gillanders","","Laura","Green Party","Parti Vert",N,N,15
+59025,"Richmond Centre","Richmond-Centre"," 27","Richmond",N,N,"",1,575,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,13
+59025,"Richmond Centre","Richmond-Centre"," 27","Richmond",N,N,"",1,575,"Miao","","Wilson","Liberal","Libéral",N,Y,63
+59025,"Richmond Centre","Richmond-Centre"," 27","Richmond",N,N,"",1,575,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+59025,"Richmond Centre","Richmond-Centre"," 27","Richmond",N,N,"",1,575,"Wong","","Alice","Conservative","Conservateur",Y,N,77
+59025,"Richmond Centre","Richmond-Centre"," 28","Richmond",N,N,"",1,656,"Gillanders","","Laura","Green Party","Parti Vert",N,N,13
+59025,"Richmond Centre","Richmond-Centre"," 28","Richmond",N,N,"",1,656,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,11
+59025,"Richmond Centre","Richmond-Centre"," 28","Richmond",N,N,"",1,656,"Miao","","Wilson","Liberal","Libéral",N,Y,111
+59025,"Richmond Centre","Richmond-Centre"," 28","Richmond",N,N,"",1,656,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,91
+59025,"Richmond Centre","Richmond-Centre"," 28","Richmond",N,N,"",1,656,"Wong","","Alice","Conservative","Conservateur",Y,N,67
+59025,"Richmond Centre","Richmond-Centre"," 29","Richmond",N,N,"",1,359,"Gillanders","","Laura","Green Party","Parti Vert",N,N,6
+59025,"Richmond Centre","Richmond-Centre"," 29","Richmond",N,N,"",1,359,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 29","Richmond",N,N,"",1,359,"Miao","","Wilson","Liberal","Libéral",N,Y,50
+59025,"Richmond Centre","Richmond-Centre"," 29","Richmond",N,N,"",1,359,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+59025,"Richmond Centre","Richmond-Centre"," 29","Richmond",N,N,"",1,359,"Wong","","Alice","Conservative","Conservateur",Y,N,47
+59025,"Richmond Centre","Richmond-Centre"," 30","Richmond",N,N,"",1,411,"Gillanders","","Laura","Green Party","Parti Vert",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 30","Richmond",N,N,"",1,411,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 30","Richmond",N,N,"",1,411,"Miao","","Wilson","Liberal","Libéral",N,Y,74
+59025,"Richmond Centre","Richmond-Centre"," 30","Richmond",N,N,"",1,411,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59025,"Richmond Centre","Richmond-Centre"," 30","Richmond",N,N,"",1,411,"Wong","","Alice","Conservative","Conservateur",Y,N,49
+59025,"Richmond Centre","Richmond-Centre"," 31","Richmond",N,N,"",3,923,"Gillanders","","Laura","Green Party","Parti Vert",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 31","Richmond",N,N,"",3,923,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,7
+59025,"Richmond Centre","Richmond-Centre"," 31","Richmond",N,N,"",3,923,"Miao","","Wilson","Liberal","Libéral",N,Y,88
+59025,"Richmond Centre","Richmond-Centre"," 31","Richmond",N,N,"",3,923,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+59025,"Richmond Centre","Richmond-Centre"," 31","Richmond",N,N,"",3,923,"Wong","","Alice","Conservative","Conservateur",Y,N,82
+59025,"Richmond Centre","Richmond-Centre"," 32","Richmond",N,N,"",0,907,"Gillanders","","Laura","Green Party","Parti Vert",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 32","Richmond",N,N,"",0,907,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,6
+59025,"Richmond Centre","Richmond-Centre"," 32","Richmond",N,N,"",0,907,"Miao","","Wilson","Liberal","Libéral",N,Y,119
+59025,"Richmond Centre","Richmond-Centre"," 32","Richmond",N,N,"",0,907,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59025,"Richmond Centre","Richmond-Centre"," 32","Richmond",N,N,"",0,907,"Wong","","Alice","Conservative","Conservateur",Y,N,79
+59025,"Richmond Centre","Richmond-Centre"," 33","Richmond",N,N,"",0,445,"Gillanders","","Laura","Green Party","Parti Vert",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 33","Richmond",N,N,"",0,445,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 33","Richmond",N,N,"",0,445,"Miao","","Wilson","Liberal","Libéral",N,Y,66
+59025,"Richmond Centre","Richmond-Centre"," 33","Richmond",N,N,"",0,445,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59025,"Richmond Centre","Richmond-Centre"," 33","Richmond",N,N,"",0,445,"Wong","","Alice","Conservative","Conservateur",Y,N,49
+59025,"Richmond Centre","Richmond-Centre"," 34","Richmond",N,N,"",1,356,"Gillanders","","Laura","Green Party","Parti Vert",N,N,6
+59025,"Richmond Centre","Richmond-Centre"," 34","Richmond",N,N,"",1,356,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 34","Richmond",N,N,"",1,356,"Miao","","Wilson","Liberal","Libéral",N,Y,58
+59025,"Richmond Centre","Richmond-Centre"," 34","Richmond",N,N,"",1,356,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59025,"Richmond Centre","Richmond-Centre"," 34","Richmond",N,N,"",1,356,"Wong","","Alice","Conservative","Conservateur",Y,N,40
+59025,"Richmond Centre","Richmond-Centre"," 35","Richmond",N,N,"",0,321,"Gillanders","","Laura","Green Party","Parti Vert",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 35","Richmond",N,N,"",0,321,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 35","Richmond",N,N,"",0,321,"Miao","","Wilson","Liberal","Libéral",N,Y,50
+59025,"Richmond Centre","Richmond-Centre"," 35","Richmond",N,N,"",0,321,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59025,"Richmond Centre","Richmond-Centre"," 35","Richmond",N,N,"",0,321,"Wong","","Alice","Conservative","Conservateur",Y,N,46
+59025,"Richmond Centre","Richmond-Centre"," 36","Richmond",N,N,"",0,434,"Gillanders","","Laura","Green Party","Parti Vert",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 36","Richmond",N,N,"",0,434,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 36","Richmond",N,N,"",0,434,"Miao","","Wilson","Liberal","Libéral",N,Y,68
+59025,"Richmond Centre","Richmond-Centre"," 36","Richmond",N,N,"",0,434,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59025,"Richmond Centre","Richmond-Centre"," 36","Richmond",N,N,"",0,434,"Wong","","Alice","Conservative","Conservateur",Y,N,64
+59025,"Richmond Centre","Richmond-Centre"," 37","Richmond",N,N,"",0,419,"Gillanders","","Laura","Green Party","Parti Vert",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 37","Richmond",N,N,"",0,419,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,6
+59025,"Richmond Centre","Richmond-Centre"," 37","Richmond",N,N,"",0,419,"Miao","","Wilson","Liberal","Libéral",N,Y,40
+59025,"Richmond Centre","Richmond-Centre"," 37","Richmond",N,N,"",0,419,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59025,"Richmond Centre","Richmond-Centre"," 37","Richmond",N,N,"",0,419,"Wong","","Alice","Conservative","Conservateur",Y,N,43
+59025,"Richmond Centre","Richmond-Centre"," 38","Richmond",N,N,"",1,344,"Gillanders","","Laura","Green Party","Parti Vert",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 38","Richmond",N,N,"",1,344,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 38","Richmond",N,N,"",1,344,"Miao","","Wilson","Liberal","Libéral",N,Y,71
+59025,"Richmond Centre","Richmond-Centre"," 38","Richmond",N,N,"",1,344,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59025,"Richmond Centre","Richmond-Centre"," 38","Richmond",N,N,"",1,344,"Wong","","Alice","Conservative","Conservateur",Y,N,45
+59025,"Richmond Centre","Richmond-Centre"," 39","Richmond",N,N,"",1,449,"Gillanders","","Laura","Green Party","Parti Vert",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 39","Richmond",N,N,"",1,449,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 39","Richmond",N,N,"",1,449,"Miao","","Wilson","Liberal","Libéral",N,Y,45
+59025,"Richmond Centre","Richmond-Centre"," 39","Richmond",N,N,"",1,449,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59025,"Richmond Centre","Richmond-Centre"," 39","Richmond",N,N,"",1,449,"Wong","","Alice","Conservative","Conservateur",Y,N,42
+59025,"Richmond Centre","Richmond-Centre"," 40","Richmond",N,N,"",1,431,"Gillanders","","Laura","Green Party","Parti Vert",N,N,8
+59025,"Richmond Centre","Richmond-Centre"," 40","Richmond",N,N,"",1,431,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 40","Richmond",N,N,"",1,431,"Miao","","Wilson","Liberal","Libéral",N,Y,43
+59025,"Richmond Centre","Richmond-Centre"," 40","Richmond",N,N,"",1,431,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59025,"Richmond Centre","Richmond-Centre"," 40","Richmond",N,N,"",1,431,"Wong","","Alice","Conservative","Conservateur",Y,N,20
+59025,"Richmond Centre","Richmond-Centre"," 41","Richmond",N,N,"",0,389,"Gillanders","","Laura","Green Party","Parti Vert",N,N,6
+59025,"Richmond Centre","Richmond-Centre"," 41","Richmond",N,N,"",0,389,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 41","Richmond",N,N,"",0,389,"Miao","","Wilson","Liberal","Libéral",N,Y,47
+59025,"Richmond Centre","Richmond-Centre"," 41","Richmond",N,N,"",0,389,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59025,"Richmond Centre","Richmond-Centre"," 41","Richmond",N,N,"",0,389,"Wong","","Alice","Conservative","Conservateur",Y,N,43
+59025,"Richmond Centre","Richmond-Centre"," 42","Richmond",N,N,"",0,375,"Gillanders","","Laura","Green Party","Parti Vert",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 42","Richmond",N,N,"",0,375,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 42","Richmond",N,N,"",0,375,"Miao","","Wilson","Liberal","Libéral",N,Y,28
+59025,"Richmond Centre","Richmond-Centre"," 42","Richmond",N,N,"",0,375,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59025,"Richmond Centre","Richmond-Centre"," 42","Richmond",N,N,"",0,375,"Wong","","Alice","Conservative","Conservateur",Y,N,22
+59025,"Richmond Centre","Richmond-Centre"," 43","Richmond",N,N,"",1,787,"Gillanders","","Laura","Green Party","Parti Vert",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 43","Richmond",N,N,"",1,787,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 43","Richmond",N,N,"",1,787,"Miao","","Wilson","Liberal","Libéral",N,Y,74
+59025,"Richmond Centre","Richmond-Centre"," 43","Richmond",N,N,"",1,787,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59025,"Richmond Centre","Richmond-Centre"," 43","Richmond",N,N,"",1,787,"Wong","","Alice","Conservative","Conservateur",Y,N,64
+59025,"Richmond Centre","Richmond-Centre"," 44","Richmond",N,N,"",0,488,"Gillanders","","Laura","Green Party","Parti Vert",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 44","Richmond",N,N,"",0,488,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 44","Richmond",N,N,"",0,488,"Miao","","Wilson","Liberal","Libéral",N,Y,53
+59025,"Richmond Centre","Richmond-Centre"," 44","Richmond",N,N,"",0,488,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59025,"Richmond Centre","Richmond-Centre"," 44","Richmond",N,N,"",0,488,"Wong","","Alice","Conservative","Conservateur",Y,N,26
+59025,"Richmond Centre","Richmond-Centre"," 45","Richmond",N,N,"",2,743,"Gillanders","","Laura","Green Party","Parti Vert",N,N,7
+59025,"Richmond Centre","Richmond-Centre"," 45","Richmond",N,N,"",2,743,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 45","Richmond",N,N,"",2,743,"Miao","","Wilson","Liberal","Libéral",N,Y,71
+59025,"Richmond Centre","Richmond-Centre"," 45","Richmond",N,N,"",2,743,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59025,"Richmond Centre","Richmond-Centre"," 45","Richmond",N,N,"",2,743,"Wong","","Alice","Conservative","Conservateur",Y,N,52
+59025,"Richmond Centre","Richmond-Centre"," 46","Richmond",N,N,"",0,491,"Gillanders","","Laura","Green Party","Parti Vert",N,N,9
+59025,"Richmond Centre","Richmond-Centre"," 46","Richmond",N,N,"",0,491,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 46","Richmond",N,N,"",0,491,"Miao","","Wilson","Liberal","Libéral",N,Y,38
+59025,"Richmond Centre","Richmond-Centre"," 46","Richmond",N,N,"",0,491,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59025,"Richmond Centre","Richmond-Centre"," 46","Richmond",N,N,"",0,491,"Wong","","Alice","Conservative","Conservateur",Y,N,30
+59025,"Richmond Centre","Richmond-Centre"," 47","Richmond",N,N,"",2,331,"Gillanders","","Laura","Green Party","Parti Vert",N,N,6
+59025,"Richmond Centre","Richmond-Centre"," 47","Richmond",N,N,"",2,331,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 47","Richmond",N,N,"",2,331,"Miao","","Wilson","Liberal","Libéral",N,Y,34
+59025,"Richmond Centre","Richmond-Centre"," 47","Richmond",N,N,"",2,331,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59025,"Richmond Centre","Richmond-Centre"," 47","Richmond",N,N,"",2,331,"Wong","","Alice","Conservative","Conservateur",Y,N,36
+59025,"Richmond Centre","Richmond-Centre"," 48","Richmond",N,N,"",1,388,"Gillanders","","Laura","Green Party","Parti Vert",N,N,6
+59025,"Richmond Centre","Richmond-Centre"," 48","Richmond",N,N,"",1,388,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,10
+59025,"Richmond Centre","Richmond-Centre"," 48","Richmond",N,N,"",1,388,"Miao","","Wilson","Liberal","Libéral",N,Y,54
+59025,"Richmond Centre","Richmond-Centre"," 48","Richmond",N,N,"",1,388,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59025,"Richmond Centre","Richmond-Centre"," 48","Richmond",N,N,"",1,388,"Wong","","Alice","Conservative","Conservateur",Y,N,56
+59025,"Richmond Centre","Richmond-Centre"," 49","Richmond",N,N,"",0,296,"Gillanders","","Laura","Green Party","Parti Vert",N,N,12
+59025,"Richmond Centre","Richmond-Centre"," 49","Richmond",N,N,"",0,296,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 49","Richmond",N,N,"",0,296,"Miao","","Wilson","Liberal","Libéral",N,Y,38
+59025,"Richmond Centre","Richmond-Centre"," 49","Richmond",N,N,"",0,296,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59025,"Richmond Centre","Richmond-Centre"," 49","Richmond",N,N,"",0,296,"Wong","","Alice","Conservative","Conservateur",Y,N,40
+59025,"Richmond Centre","Richmond-Centre"," 50","Richmond",N,N,"",5,468,"Gillanders","","Laura","Green Party","Parti Vert",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 50","Richmond",N,N,"",5,468,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 50","Richmond",N,N,"",5,468,"Miao","","Wilson","Liberal","Libéral",N,Y,43
+59025,"Richmond Centre","Richmond-Centre"," 50","Richmond",N,N,"",5,468,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59025,"Richmond Centre","Richmond-Centre"," 50","Richmond",N,N,"",5,468,"Wong","","Alice","Conservative","Conservateur",Y,N,68
+59025,"Richmond Centre","Richmond-Centre"," 51","Richmond",N,N,"",0,291,"Gillanders","","Laura","Green Party","Parti Vert",N,N,6
+59025,"Richmond Centre","Richmond-Centre"," 51","Richmond",N,N,"",0,291,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,7
+59025,"Richmond Centre","Richmond-Centre"," 51","Richmond",N,N,"",0,291,"Miao","","Wilson","Liberal","Libéral",N,Y,45
+59025,"Richmond Centre","Richmond-Centre"," 51","Richmond",N,N,"",0,291,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59025,"Richmond Centre","Richmond-Centre"," 51","Richmond",N,N,"",0,291,"Wong","","Alice","Conservative","Conservateur",Y,N,35
+59025,"Richmond Centre","Richmond-Centre"," 52","Richmond",N,N,"",2,547,"Gillanders","","Laura","Green Party","Parti Vert",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 52","Richmond",N,N,"",2,547,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 52","Richmond",N,N,"",2,547,"Miao","","Wilson","Liberal","Libéral",N,Y,101
+59025,"Richmond Centre","Richmond-Centre"," 52","Richmond",N,N,"",2,547,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+59025,"Richmond Centre","Richmond-Centre"," 52","Richmond",N,N,"",2,547,"Wong","","Alice","Conservative","Conservateur",Y,N,59
+59025,"Richmond Centre","Richmond-Centre"," 53","Richmond",N,N,"",0,409,"Gillanders","","Laura","Green Party","Parti Vert",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 53","Richmond",N,N,"",0,409,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 53","Richmond",N,N,"",0,409,"Miao","","Wilson","Liberal","Libéral",N,Y,36
+59025,"Richmond Centre","Richmond-Centre"," 53","Richmond",N,N,"",0,409,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59025,"Richmond Centre","Richmond-Centre"," 53","Richmond",N,N,"",0,409,"Wong","","Alice","Conservative","Conservateur",Y,N,41
+59025,"Richmond Centre","Richmond-Centre"," 54","Richmond",N,N,"",2,398,"Gillanders","","Laura","Green Party","Parti Vert",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 54","Richmond",N,N,"",2,398,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 54","Richmond",N,N,"",2,398,"Miao","","Wilson","Liberal","Libéral",N,Y,28
+59025,"Richmond Centre","Richmond-Centre"," 54","Richmond",N,N,"",2,398,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59025,"Richmond Centre","Richmond-Centre"," 54","Richmond",N,N,"",2,398,"Wong","","Alice","Conservative","Conservateur",Y,N,30
+59025,"Richmond Centre","Richmond-Centre"," 55","Richmond",N,N,"",2,600,"Gillanders","","Laura","Green Party","Parti Vert",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 55","Richmond",N,N,"",2,600,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 55","Richmond",N,N,"",2,600,"Miao","","Wilson","Liberal","Libéral",N,Y,46
+59025,"Richmond Centre","Richmond-Centre"," 55","Richmond",N,N,"",2,600,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59025,"Richmond Centre","Richmond-Centre"," 55","Richmond",N,N,"",2,600,"Wong","","Alice","Conservative","Conservateur",Y,N,45
+59025,"Richmond Centre","Richmond-Centre"," 56","Richmond",N,N,"",3,910,"Gillanders","","Laura","Green Party","Parti Vert",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 56","Richmond",N,N,"",3,910,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 56","Richmond",N,N,"",3,910,"Miao","","Wilson","Liberal","Libéral",N,Y,98
+59025,"Richmond Centre","Richmond-Centre"," 56","Richmond",N,N,"",3,910,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59025,"Richmond Centre","Richmond-Centre"," 56","Richmond",N,N,"",3,910,"Wong","","Alice","Conservative","Conservateur",Y,N,76
+59025,"Richmond Centre","Richmond-Centre"," 57","Richmond",N,N,"",0,1168,"Gillanders","","Laura","Green Party","Parti Vert",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 57","Richmond",N,N,"",0,1168,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 57","Richmond",N,N,"",0,1168,"Miao","","Wilson","Liberal","Libéral",N,Y,107
+59025,"Richmond Centre","Richmond-Centre"," 57","Richmond",N,N,"",0,1168,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59025,"Richmond Centre","Richmond-Centre"," 57","Richmond",N,N,"",0,1168,"Wong","","Alice","Conservative","Conservateur",Y,N,92
+59025,"Richmond Centre","Richmond-Centre"," 58","Richmond",N,N,"",0,989,"Gillanders","","Laura","Green Party","Parti Vert",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 58","Richmond",N,N,"",0,989,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 58","Richmond",N,N,"",0,989,"Miao","","Wilson","Liberal","Libéral",N,Y,95
+59025,"Richmond Centre","Richmond-Centre"," 58","Richmond",N,N,"",0,989,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59025,"Richmond Centre","Richmond-Centre"," 58","Richmond",N,N,"",0,989,"Wong","","Alice","Conservative","Conservateur",Y,N,75
+59025,"Richmond Centre","Richmond-Centre"," 59","Richmond",N,N,"",1,286,"Gillanders","","Laura","Green Party","Parti Vert",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 59","Richmond",N,N,"",1,286,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 59","Richmond",N,N,"",1,286,"Miao","","Wilson","Liberal","Libéral",N,Y,27
+59025,"Richmond Centre","Richmond-Centre"," 59","Richmond",N,N,"",1,286,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59025,"Richmond Centre","Richmond-Centre"," 59","Richmond",N,N,"",1,286,"Wong","","Alice","Conservative","Conservateur",Y,N,17
+59025,"Richmond Centre","Richmond-Centre"," 60","Richmond",N,N,"",0,400,"Gillanders","","Laura","Green Party","Parti Vert",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 60","Richmond",N,N,"",0,400,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 60","Richmond",N,N,"",0,400,"Miao","","Wilson","Liberal","Libéral",N,Y,35
+59025,"Richmond Centre","Richmond-Centre"," 60","Richmond",N,N,"",0,400,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 60","Richmond",N,N,"",0,400,"Wong","","Alice","Conservative","Conservateur",Y,N,22
+59025,"Richmond Centre","Richmond-Centre"," 61","Richmond",N,N,"",0,401,"Gillanders","","Laura","Green Party","Parti Vert",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 61","Richmond",N,N,"",0,401,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 61","Richmond",N,N,"",0,401,"Miao","","Wilson","Liberal","Libéral",N,Y,26
+59025,"Richmond Centre","Richmond-Centre"," 61","Richmond",N,N,"",0,401,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59025,"Richmond Centre","Richmond-Centre"," 61","Richmond",N,N,"",0,401,"Wong","","Alice","Conservative","Conservateur",Y,N,27
+59025,"Richmond Centre","Richmond-Centre"," 62","Richmond",N,N,"",0,416,"Gillanders","","Laura","Green Party","Parti Vert",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 62","Richmond",N,N,"",0,416,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 62","Richmond",N,N,"",0,416,"Miao","","Wilson","Liberal","Libéral",N,Y,30
+59025,"Richmond Centre","Richmond-Centre"," 62","Richmond",N,N,"",0,416,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59025,"Richmond Centre","Richmond-Centre"," 62","Richmond",N,N,"",0,416,"Wong","","Alice","Conservative","Conservateur",Y,N,44
+59025,"Richmond Centre","Richmond-Centre"," 63","Richmond",N,N,"",0,409,"Gillanders","","Laura","Green Party","Parti Vert",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 63","Richmond",N,N,"",0,409,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 63","Richmond",N,N,"",0,409,"Miao","","Wilson","Liberal","Libéral",N,Y,37
+59025,"Richmond Centre","Richmond-Centre"," 63","Richmond",N,N,"",0,409,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59025,"Richmond Centre","Richmond-Centre"," 63","Richmond",N,N,"",0,409,"Wong","","Alice","Conservative","Conservateur",Y,N,24
+59025,"Richmond Centre","Richmond-Centre"," 64","Richmond",N,N,"",1,306,"Gillanders","","Laura","Green Party","Parti Vert",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 64","Richmond",N,N,"",1,306,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 64","Richmond",N,N,"",1,306,"Miao","","Wilson","Liberal","Libéral",N,Y,29
+59025,"Richmond Centre","Richmond-Centre"," 64","Richmond",N,N,"",1,306,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59025,"Richmond Centre","Richmond-Centre"," 64","Richmond",N,N,"",1,306,"Wong","","Alice","Conservative","Conservateur",Y,N,27
+59025,"Richmond Centre","Richmond-Centre"," 65","Richmond",N,N,"",2,343,"Gillanders","","Laura","Green Party","Parti Vert",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 65","Richmond",N,N,"",2,343,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 65","Richmond",N,N,"",2,343,"Miao","","Wilson","Liberal","Libéral",N,Y,44
+59025,"Richmond Centre","Richmond-Centre"," 65","Richmond",N,N,"",2,343,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59025,"Richmond Centre","Richmond-Centre"," 65","Richmond",N,N,"",2,343,"Wong","","Alice","Conservative","Conservateur",Y,N,21
+59025,"Richmond Centre","Richmond-Centre"," 66","Richmond",N,N,"",0,282,"Gillanders","","Laura","Green Party","Parti Vert",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 66","Richmond",N,N,"",0,282,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 66","Richmond",N,N,"",0,282,"Miao","","Wilson","Liberal","Libéral",N,Y,13
+59025,"Richmond Centre","Richmond-Centre"," 66","Richmond",N,N,"",0,282,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59025,"Richmond Centre","Richmond-Centre"," 66","Richmond",N,N,"",0,282,"Wong","","Alice","Conservative","Conservateur",Y,N,12
+59025,"Richmond Centre","Richmond-Centre"," 67","Richmond",N,N,"",1,462,"Gillanders","","Laura","Green Party","Parti Vert",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 67","Richmond",N,N,"",1,462,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 67","Richmond",N,N,"",1,462,"Miao","","Wilson","Liberal","Libéral",N,Y,33
+59025,"Richmond Centre","Richmond-Centre"," 67","Richmond",N,N,"",1,462,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59025,"Richmond Centre","Richmond-Centre"," 67","Richmond",N,N,"",1,462,"Wong","","Alice","Conservative","Conservateur",Y,N,19
+59025,"Richmond Centre","Richmond-Centre"," 68","Richmond",N,N,"",2,474,"Gillanders","","Laura","Green Party","Parti Vert",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 68","Richmond",N,N,"",2,474,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 68","Richmond",N,N,"",2,474,"Miao","","Wilson","Liberal","Libéral",N,Y,33
+59025,"Richmond Centre","Richmond-Centre"," 68","Richmond",N,N,"",2,474,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59025,"Richmond Centre","Richmond-Centre"," 68","Richmond",N,N,"",2,474,"Wong","","Alice","Conservative","Conservateur",Y,N,30
+59025,"Richmond Centre","Richmond-Centre"," 69","Richmond",N,N,"",0,281,"Gillanders","","Laura","Green Party","Parti Vert",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 69","Richmond",N,N,"",0,281,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 69","Richmond",N,N,"",0,281,"Miao","","Wilson","Liberal","Libéral",N,Y,20
+59025,"Richmond Centre","Richmond-Centre"," 69","Richmond",N,N,"",0,281,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 69","Richmond",N,N,"",0,281,"Wong","","Alice","Conservative","Conservateur",Y,N,21
+59025,"Richmond Centre","Richmond-Centre"," 70","Richmond",N,N,"",0,312,"Gillanders","","Laura","Green Party","Parti Vert",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 70","Richmond",N,N,"",0,312,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 70","Richmond",N,N,"",0,312,"Miao","","Wilson","Liberal","Libéral",N,Y,24
+59025,"Richmond Centre","Richmond-Centre"," 70","Richmond",N,N,"",0,312,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59025,"Richmond Centre","Richmond-Centre"," 70","Richmond",N,N,"",0,312,"Wong","","Alice","Conservative","Conservateur",Y,N,22
+59025,"Richmond Centre","Richmond-Centre"," 71","Richmond",N,N,"",0,580,"Gillanders","","Laura","Green Party","Parti Vert",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 71","Richmond",N,N,"",0,580,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 71","Richmond",N,N,"",0,580,"Miao","","Wilson","Liberal","Libéral",N,Y,41
+59025,"Richmond Centre","Richmond-Centre"," 71","Richmond",N,N,"",0,580,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59025,"Richmond Centre","Richmond-Centre"," 71","Richmond",N,N,"",0,580,"Wong","","Alice","Conservative","Conservateur",Y,N,32
+59025,"Richmond Centre","Richmond-Centre"," 72","Richmond",N,N,"",0,508,"Gillanders","","Laura","Green Party","Parti Vert",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 72","Richmond",N,N,"",0,508,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,7
+59025,"Richmond Centre","Richmond-Centre"," 72","Richmond",N,N,"",0,508,"Miao","","Wilson","Liberal","Libéral",N,Y,36
+59025,"Richmond Centre","Richmond-Centre"," 72","Richmond",N,N,"",0,508,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59025,"Richmond Centre","Richmond-Centre"," 72","Richmond",N,N,"",0,508,"Wong","","Alice","Conservative","Conservateur",Y,N,35
+59025,"Richmond Centre","Richmond-Centre"," 73","Richmond",N,N,"",1,520,"Gillanders","","Laura","Green Party","Parti Vert",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 73","Richmond",N,N,"",1,520,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 73","Richmond",N,N,"",1,520,"Miao","","Wilson","Liberal","Libéral",N,Y,41
+59025,"Richmond Centre","Richmond-Centre"," 73","Richmond",N,N,"",1,520,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59025,"Richmond Centre","Richmond-Centre"," 73","Richmond",N,N,"",1,520,"Wong","","Alice","Conservative","Conservateur",Y,N,32
+59025,"Richmond Centre","Richmond-Centre"," 74","Richmond",N,N,"",0,403,"Gillanders","","Laura","Green Party","Parti Vert",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 74","Richmond",N,N,"",0,403,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 74","Richmond",N,N,"",0,403,"Miao","","Wilson","Liberal","Libéral",N,Y,41
+59025,"Richmond Centre","Richmond-Centre"," 74","Richmond",N,N,"",0,403,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59025,"Richmond Centre","Richmond-Centre"," 74","Richmond",N,N,"",0,403,"Wong","","Alice","Conservative","Conservateur",Y,N,21
+59025,"Richmond Centre","Richmond-Centre"," 75","Richmond",N,N,"",0,486,"Gillanders","","Laura","Green Party","Parti Vert",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 75","Richmond",N,N,"",0,486,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 75","Richmond",N,N,"",0,486,"Miao","","Wilson","Liberal","Libéral",N,Y,51
+59025,"Richmond Centre","Richmond-Centre"," 75","Richmond",N,N,"",0,486,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59025,"Richmond Centre","Richmond-Centre"," 75","Richmond",N,N,"",0,486,"Wong","","Alice","Conservative","Conservateur",Y,N,51
+59025,"Richmond Centre","Richmond-Centre"," 76","Richmond",N,N,"",0,467,"Gillanders","","Laura","Green Party","Parti Vert",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 76","Richmond",N,N,"",0,467,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 76","Richmond",N,N,"",0,467,"Miao","","Wilson","Liberal","Libéral",N,Y,31
+59025,"Richmond Centre","Richmond-Centre"," 76","Richmond",N,N,"",0,467,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59025,"Richmond Centre","Richmond-Centre"," 76","Richmond",N,N,"",0,467,"Wong","","Alice","Conservative","Conservateur",Y,N,30
+59025,"Richmond Centre","Richmond-Centre"," 77","Richmond",N,N,"",0,431,"Gillanders","","Laura","Green Party","Parti Vert",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 77","Richmond",N,N,"",0,431,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 77","Richmond",N,N,"",0,431,"Miao","","Wilson","Liberal","Libéral",N,Y,36
+59025,"Richmond Centre","Richmond-Centre"," 77","Richmond",N,N,"",0,431,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59025,"Richmond Centre","Richmond-Centre"," 77","Richmond",N,N,"",0,431,"Wong","","Alice","Conservative","Conservateur",Y,N,30
+59025,"Richmond Centre","Richmond-Centre"," 78","Richmond",N,N,"",16,955,"Gillanders","","Laura","Green Party","Parti Vert",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 78","Richmond",N,N,"",16,955,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 78","Richmond",N,N,"",16,955,"Miao","","Wilson","Liberal","Libéral",N,Y,85
+59025,"Richmond Centre","Richmond-Centre"," 78","Richmond",N,N,"",16,955,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+59025,"Richmond Centre","Richmond-Centre"," 78","Richmond",N,N,"",16,955,"Wong","","Alice","Conservative","Conservateur",Y,N,52
+59025,"Richmond Centre","Richmond-Centre"," 79","Richmond",N,N,"",0,317,"Gillanders","","Laura","Green Party","Parti Vert",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 79","Richmond",N,N,"",0,317,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 79","Richmond",N,N,"",0,317,"Miao","","Wilson","Liberal","Libéral",N,Y,28
+59025,"Richmond Centre","Richmond-Centre"," 79","Richmond",N,N,"",0,317,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59025,"Richmond Centre","Richmond-Centre"," 79","Richmond",N,N,"",0,317,"Wong","","Alice","Conservative","Conservateur",Y,N,17
+59025,"Richmond Centre","Richmond-Centre"," 80","Richmond",N,N,"",9,432,"Gillanders","","Laura","Green Party","Parti Vert",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 80","Richmond",N,N,"",9,432,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 80","Richmond",N,N,"",9,432,"Miao","","Wilson","Liberal","Libéral",N,Y,67
+59025,"Richmond Centre","Richmond-Centre"," 80","Richmond",N,N,"",9,432,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59025,"Richmond Centre","Richmond-Centre"," 80","Richmond",N,N,"",9,432,"Wong","","Alice","Conservative","Conservateur",Y,N,45
+59025,"Richmond Centre","Richmond-Centre"," 81","Richmond",N,N,"",0,431,"Gillanders","","Laura","Green Party","Parti Vert",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 81","Richmond",N,N,"",0,431,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 81","Richmond",N,N,"",0,431,"Miao","","Wilson","Liberal","Libéral",N,Y,61
+59025,"Richmond Centre","Richmond-Centre"," 81","Richmond",N,N,"",0,431,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59025,"Richmond Centre","Richmond-Centre"," 81","Richmond",N,N,"",0,431,"Wong","","Alice","Conservative","Conservateur",Y,N,78
+59025,"Richmond Centre","Richmond-Centre"," 82","Richmond",N,N,"",1,474,"Gillanders","","Laura","Green Party","Parti Vert",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 82","Richmond",N,N,"",1,474,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,7
+59025,"Richmond Centre","Richmond-Centre"," 82","Richmond",N,N,"",1,474,"Miao","","Wilson","Liberal","Libéral",N,Y,65
+59025,"Richmond Centre","Richmond-Centre"," 82","Richmond",N,N,"",1,474,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+59025,"Richmond Centre","Richmond-Centre"," 82","Richmond",N,N,"",1,474,"Wong","","Alice","Conservative","Conservateur",Y,N,62
+59025,"Richmond Centre","Richmond-Centre"," 83","Richmond",N,N,"",1,315,"Gillanders","","Laura","Green Party","Parti Vert",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 83","Richmond",N,N,"",1,315,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 83","Richmond",N,N,"",1,315,"Miao","","Wilson","Liberal","Libéral",N,Y,46
+59025,"Richmond Centre","Richmond-Centre"," 83","Richmond",N,N,"",1,315,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59025,"Richmond Centre","Richmond-Centre"," 83","Richmond",N,N,"",1,315,"Wong","","Alice","Conservative","Conservateur",Y,N,31
+59025,"Richmond Centre","Richmond-Centre"," 84","Richmond",N,N,"",1,349,"Gillanders","","Laura","Green Party","Parti Vert",N,N,6
+59025,"Richmond Centre","Richmond-Centre"," 84","Richmond",N,N,"",1,349,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 84","Richmond",N,N,"",1,349,"Miao","","Wilson","Liberal","Libéral",N,Y,47
+59025,"Richmond Centre","Richmond-Centre"," 84","Richmond",N,N,"",1,349,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59025,"Richmond Centre","Richmond-Centre"," 84","Richmond",N,N,"",1,349,"Wong","","Alice","Conservative","Conservateur",Y,N,51
+59025,"Richmond Centre","Richmond-Centre"," 85","Richmond",N,N,"",0,493,"Gillanders","","Laura","Green Party","Parti Vert",N,N,8
+59025,"Richmond Centre","Richmond-Centre"," 85","Richmond",N,N,"",0,493,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 85","Richmond",N,N,"",0,493,"Miao","","Wilson","Liberal","Libéral",N,Y,50
+59025,"Richmond Centre","Richmond-Centre"," 85","Richmond",N,N,"",0,493,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59025,"Richmond Centre","Richmond-Centre"," 85","Richmond",N,N,"",0,493,"Wong","","Alice","Conservative","Conservateur",Y,N,50
+59025,"Richmond Centre","Richmond-Centre"," 86","Richmond",N,N,"",0,407,"Gillanders","","Laura","Green Party","Parti Vert",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 86","Richmond",N,N,"",0,407,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 86","Richmond",N,N,"",0,407,"Miao","","Wilson","Liberal","Libéral",N,Y,28
+59025,"Richmond Centre","Richmond-Centre"," 86","Richmond",N,N,"",0,407,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59025,"Richmond Centre","Richmond-Centre"," 86","Richmond",N,N,"",0,407,"Wong","","Alice","Conservative","Conservateur",Y,N,29
+59025,"Richmond Centre","Richmond-Centre"," 87","Richmond",N,N,"",2,900,"Gillanders","","Laura","Green Party","Parti Vert",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 87","Richmond",N,N,"",2,900,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 87","Richmond",N,N,"",2,900,"Miao","","Wilson","Liberal","Libéral",N,Y,66
+59025,"Richmond Centre","Richmond-Centre"," 87","Richmond",N,N,"",2,900,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59025,"Richmond Centre","Richmond-Centre"," 87","Richmond",N,N,"",2,900,"Wong","","Alice","Conservative","Conservateur",Y,N,37
+59025,"Richmond Centre","Richmond-Centre"," 88","Richmond",N,N,"",0,545,"Gillanders","","Laura","Green Party","Parti Vert",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 88","Richmond",N,N,"",0,545,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 88","Richmond",N,N,"",0,545,"Miao","","Wilson","Liberal","Libéral",N,Y,38
+59025,"Richmond Centre","Richmond-Centre"," 88","Richmond",N,N,"",0,545,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59025,"Richmond Centre","Richmond-Centre"," 88","Richmond",N,N,"",0,545,"Wong","","Alice","Conservative","Conservateur",Y,N,29
+59025,"Richmond Centre","Richmond-Centre"," 89A","Richmond",N,N,"",0,561,"Gillanders","","Laura","Green Party","Parti Vert",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 89A","Richmond",N,N,"",0,561,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 89A","Richmond",N,N,"",0,561,"Miao","","Wilson","Liberal","Libéral",N,Y,61
+59025,"Richmond Centre","Richmond-Centre"," 89A","Richmond",N,N,"",0,561,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59025,"Richmond Centre","Richmond-Centre"," 89A","Richmond",N,N,"",0,561,"Wong","","Alice","Conservative","Conservateur",Y,N,20
+59025,"Richmond Centre","Richmond-Centre"," 89B","Mobile poll/Bureau itinérant",N,N,"",3,182,"Gillanders","","Laura","Green Party","Parti Vert",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 89B","Mobile poll/Bureau itinérant",N,N,"",3,182,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 89B","Mobile poll/Bureau itinérant",N,N,"",3,182,"Miao","","Wilson","Liberal","Libéral",N,Y,12
+59025,"Richmond Centre","Richmond-Centre"," 89B","Mobile poll/Bureau itinérant",N,N,"",3,182,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+59025,"Richmond Centre","Richmond-Centre"," 89B","Mobile poll/Bureau itinérant",N,N,"",3,182,"Wong","","Alice","Conservative","Conservateur",Y,N,7
+59025,"Richmond Centre","Richmond-Centre"," 90","Richmond",N,N,"",1,517,"Gillanders","","Laura","Green Party","Parti Vert",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 90","Richmond",N,N,"",1,517,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 90","Richmond",N,N,"",1,517,"Miao","","Wilson","Liberal","Libéral",N,Y,29
+59025,"Richmond Centre","Richmond-Centre"," 90","Richmond",N,N,"",1,517,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59025,"Richmond Centre","Richmond-Centre"," 90","Richmond",N,N,"",1,517,"Wong","","Alice","Conservative","Conservateur",Y,N,18
+59025,"Richmond Centre","Richmond-Centre"," 91","Richmond",Y,N,"",0,0,"Gillanders","","Laura","Green Party","Parti Vert",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 91","Richmond",Y,N,"",0,0,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 91","Richmond",Y,N,"",0,0,"Miao","","Wilson","Liberal","Libéral",N,Y,0
+59025,"Richmond Centre","Richmond-Centre"," 91","Richmond",Y,N,"",0,0,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 91","Richmond",Y,N,"",0,0,"Wong","","Alice","Conservative","Conservateur",Y,N,0
+59025,"Richmond Centre","Richmond-Centre"," 92","Richmond",N,N,"",1,907,"Gillanders","","Laura","Green Party","Parti Vert",N,N,9
+59025,"Richmond Centre","Richmond-Centre"," 92","Richmond",N,N,"",1,907,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 92","Richmond",N,N,"",1,907,"Miao","","Wilson","Liberal","Libéral",N,Y,102
+59025,"Richmond Centre","Richmond-Centre"," 92","Richmond",N,N,"",1,907,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59025,"Richmond Centre","Richmond-Centre"," 92","Richmond",N,N,"",1,907,"Wong","","Alice","Conservative","Conservateur",Y,N,69
+59025,"Richmond Centre","Richmond-Centre"," 93","Richmond",N,N,"",2,351,"Gillanders","","Laura","Green Party","Parti Vert",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 93","Richmond",N,N,"",2,351,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 93","Richmond",N,N,"",2,351,"Miao","","Wilson","Liberal","Libéral",N,Y,32
+59025,"Richmond Centre","Richmond-Centre"," 93","Richmond",N,N,"",2,351,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59025,"Richmond Centre","Richmond-Centre"," 93","Richmond",N,N,"",2,351,"Wong","","Alice","Conservative","Conservateur",Y,N,21
+59025,"Richmond Centre","Richmond-Centre"," 94","Richmond",N,N,"",0,312,"Gillanders","","Laura","Green Party","Parti Vert",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 94","Richmond",N,N,"",0,312,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 94","Richmond",N,N,"",0,312,"Miao","","Wilson","Liberal","Libéral",N,Y,39
+59025,"Richmond Centre","Richmond-Centre"," 94","Richmond",N,N,"",0,312,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 94","Richmond",N,N,"",0,312,"Wong","","Alice","Conservative","Conservateur",Y,N,29
+59025,"Richmond Centre","Richmond-Centre"," 95","Richmond",N,N,"",0,440,"Gillanders","","Laura","Green Party","Parti Vert",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 95","Richmond",N,N,"",0,440,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 95","Richmond",N,N,"",0,440,"Miao","","Wilson","Liberal","Libéral",N,Y,39
+59025,"Richmond Centre","Richmond-Centre"," 95","Richmond",N,N,"",0,440,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59025,"Richmond Centre","Richmond-Centre"," 95","Richmond",N,N,"",0,440,"Wong","","Alice","Conservative","Conservateur",Y,N,44
+59025,"Richmond Centre","Richmond-Centre"," 96","Richmond",N,N,"",2,510,"Gillanders","","Laura","Green Party","Parti Vert",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 96","Richmond",N,N,"",2,510,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 96","Richmond",N,N,"",2,510,"Miao","","Wilson","Liberal","Libéral",N,Y,48
+59025,"Richmond Centre","Richmond-Centre"," 96","Richmond",N,N,"",2,510,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59025,"Richmond Centre","Richmond-Centre"," 96","Richmond",N,N,"",2,510,"Wong","","Alice","Conservative","Conservateur",Y,N,48
+59025,"Richmond Centre","Richmond-Centre"," 97","Richmond",N,N,"",1,326,"Gillanders","","Laura","Green Party","Parti Vert",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 97","Richmond",N,N,"",1,326,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 97","Richmond",N,N,"",1,326,"Miao","","Wilson","Liberal","Libéral",N,Y,37
+59025,"Richmond Centre","Richmond-Centre"," 97","Richmond",N,N,"",1,326,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59025,"Richmond Centre","Richmond-Centre"," 97","Richmond",N,N,"",1,326,"Wong","","Alice","Conservative","Conservateur",Y,N,32
+59025,"Richmond Centre","Richmond-Centre"," 98","Richmond",N,N,"",0,328,"Gillanders","","Laura","Green Party","Parti Vert",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 98","Richmond",N,N,"",0,328,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,11
+59025,"Richmond Centre","Richmond-Centre"," 98","Richmond",N,N,"",0,328,"Miao","","Wilson","Liberal","Libéral",N,Y,23
+59025,"Richmond Centre","Richmond-Centre"," 98","Richmond",N,N,"",0,328,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59025,"Richmond Centre","Richmond-Centre"," 98","Richmond",N,N,"",0,328,"Wong","","Alice","Conservative","Conservateur",Y,N,26
+59025,"Richmond Centre","Richmond-Centre"," 99","Richmond",N,N,"",3,415,"Gillanders","","Laura","Green Party","Parti Vert",N,N,6
+59025,"Richmond Centre","Richmond-Centre"," 99","Richmond",N,N,"",3,415,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 99","Richmond",N,N,"",3,415,"Miao","","Wilson","Liberal","Libéral",N,Y,89
+59025,"Richmond Centre","Richmond-Centre"," 99","Richmond",N,N,"",3,415,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59025,"Richmond Centre","Richmond-Centre"," 99","Richmond",N,N,"",3,415,"Wong","","Alice","Conservative","Conservateur",Y,N,64
+59025,"Richmond Centre","Richmond-Centre"," 100","Richmond",N,N,"",0,805,"Gillanders","","Laura","Green Party","Parti Vert",N,N,17
+59025,"Richmond Centre","Richmond-Centre"," 100","Richmond",N,N,"",0,805,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,10
+59025,"Richmond Centre","Richmond-Centre"," 100","Richmond",N,N,"",0,805,"Miao","","Wilson","Liberal","Libéral",N,Y,128
+59025,"Richmond Centre","Richmond-Centre"," 100","Richmond",N,N,"",0,805,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+59025,"Richmond Centre","Richmond-Centre"," 100","Richmond",N,N,"",0,805,"Wong","","Alice","Conservative","Conservateur",Y,N,93
+59025,"Richmond Centre","Richmond-Centre"," 101","Richmond",N,N,"",1,459,"Gillanders","","Laura","Green Party","Parti Vert",N,N,7
+59025,"Richmond Centre","Richmond-Centre"," 101","Richmond",N,N,"",1,459,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 101","Richmond",N,N,"",1,459,"Miao","","Wilson","Liberal","Libéral",N,Y,52
+59025,"Richmond Centre","Richmond-Centre"," 101","Richmond",N,N,"",1,459,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59025,"Richmond Centre","Richmond-Centre"," 101","Richmond",N,N,"",1,459,"Wong","","Alice","Conservative","Conservateur",Y,N,65
+59025,"Richmond Centre","Richmond-Centre"," 102","Richmond",N,N,"",1,148,"Gillanders","","Laura","Green Party","Parti Vert",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 102","Richmond",N,N,"",1,148,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 102","Richmond",N,N,"",1,148,"Miao","","Wilson","Liberal","Libéral",N,Y,13
+59025,"Richmond Centre","Richmond-Centre"," 102","Richmond",N,N,"",1,148,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59025,"Richmond Centre","Richmond-Centre"," 102","Richmond",N,N,"",1,148,"Wong","","Alice","Conservative","Conservateur",Y,N,12
+59025,"Richmond Centre","Richmond-Centre"," 103","Richmond",N,N,"",1,395,"Gillanders","","Laura","Green Party","Parti Vert",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 103","Richmond",N,N,"",1,395,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 103","Richmond",N,N,"",1,395,"Miao","","Wilson","Liberal","Libéral",N,Y,50
+59025,"Richmond Centre","Richmond-Centre"," 103","Richmond",N,N,"",1,395,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59025,"Richmond Centre","Richmond-Centre"," 103","Richmond",N,N,"",1,395,"Wong","","Alice","Conservative","Conservateur",Y,N,33
+59025,"Richmond Centre","Richmond-Centre"," 104","Richmond",N,N,"",2,455,"Gillanders","","Laura","Green Party","Parti Vert",N,N,6
+59025,"Richmond Centre","Richmond-Centre"," 104","Richmond",N,N,"",2,455,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 104","Richmond",N,N,"",2,455,"Miao","","Wilson","Liberal","Libéral",N,Y,39
+59025,"Richmond Centre","Richmond-Centre"," 104","Richmond",N,N,"",2,455,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59025,"Richmond Centre","Richmond-Centre"," 104","Richmond",N,N,"",2,455,"Wong","","Alice","Conservative","Conservateur",Y,N,34
+59025,"Richmond Centre","Richmond-Centre"," 105","Richmond",N,N,"",1,395,"Gillanders","","Laura","Green Party","Parti Vert",N,N,15
+59025,"Richmond Centre","Richmond-Centre"," 105","Richmond",N,N,"",1,395,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,7
+59025,"Richmond Centre","Richmond-Centre"," 105","Richmond",N,N,"",1,395,"Miao","","Wilson","Liberal","Libéral",N,Y,82
+59025,"Richmond Centre","Richmond-Centre"," 105","Richmond",N,N,"",1,395,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+59025,"Richmond Centre","Richmond-Centre"," 105","Richmond",N,N,"",1,395,"Wong","","Alice","Conservative","Conservateur",Y,N,43
+59025,"Richmond Centre","Richmond-Centre"," 106","Richmond",N,N,"",1,280,"Gillanders","","Laura","Green Party","Parti Vert",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 106","Richmond",N,N,"",1,280,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 106","Richmond",N,N,"",1,280,"Miao","","Wilson","Liberal","Libéral",N,Y,38
+59025,"Richmond Centre","Richmond-Centre"," 106","Richmond",N,N,"",1,280,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59025,"Richmond Centre","Richmond-Centre"," 106","Richmond",N,N,"",1,280,"Wong","","Alice","Conservative","Conservateur",Y,N,37
+59025,"Richmond Centre","Richmond-Centre"," 107","Richmond",N,N,"",0,330,"Gillanders","","Laura","Green Party","Parti Vert",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 107","Richmond",N,N,"",0,330,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 107","Richmond",N,N,"",0,330,"Miao","","Wilson","Liberal","Libéral",N,Y,40
+59025,"Richmond Centre","Richmond-Centre"," 107","Richmond",N,N,"",0,330,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59025,"Richmond Centre","Richmond-Centre"," 107","Richmond",N,N,"",0,330,"Wong","","Alice","Conservative","Conservateur",Y,N,44
+59025,"Richmond Centre","Richmond-Centre"," 108","Richmond",N,N,"",0,441,"Gillanders","","Laura","Green Party","Parti Vert",N,N,7
+59025,"Richmond Centre","Richmond-Centre"," 108","Richmond",N,N,"",0,441,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 108","Richmond",N,N,"",0,441,"Miao","","Wilson","Liberal","Libéral",N,Y,74
+59025,"Richmond Centre","Richmond-Centre"," 108","Richmond",N,N,"",0,441,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59025,"Richmond Centre","Richmond-Centre"," 108","Richmond",N,N,"",0,441,"Wong","","Alice","Conservative","Conservateur",Y,N,67
+59025,"Richmond Centre","Richmond-Centre"," 109","Richmond",N,N,"",0,324,"Gillanders","","Laura","Green Party","Parti Vert",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 109","Richmond",N,N,"",0,324,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 109","Richmond",N,N,"",0,324,"Miao","","Wilson","Liberal","Libéral",N,Y,52
+59025,"Richmond Centre","Richmond-Centre"," 109","Richmond",N,N,"",0,324,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59025,"Richmond Centre","Richmond-Centre"," 109","Richmond",N,N,"",0,324,"Wong","","Alice","Conservative","Conservateur",Y,N,37
+59025,"Richmond Centre","Richmond-Centre"," 110","Richmond",N,N,"",0,518,"Gillanders","","Laura","Green Party","Parti Vert",N,N,8
+59025,"Richmond Centre","Richmond-Centre"," 110","Richmond",N,N,"",0,518,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 110","Richmond",N,N,"",0,518,"Miao","","Wilson","Liberal","Libéral",N,Y,57
+59025,"Richmond Centre","Richmond-Centre"," 110","Richmond",N,N,"",0,518,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59025,"Richmond Centre","Richmond-Centre"," 110","Richmond",N,N,"",0,518,"Wong","","Alice","Conservative","Conservateur",Y,N,47
+59025,"Richmond Centre","Richmond-Centre"," 111","Richmond",N,N,"",0,494,"Gillanders","","Laura","Green Party","Parti Vert",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 111","Richmond",N,N,"",0,494,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,6
+59025,"Richmond Centre","Richmond-Centre"," 111","Richmond",N,N,"",0,494,"Miao","","Wilson","Liberal","Libéral",N,Y,60
+59025,"Richmond Centre","Richmond-Centre"," 111","Richmond",N,N,"",0,494,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59025,"Richmond Centre","Richmond-Centre"," 111","Richmond",N,N,"",0,494,"Wong","","Alice","Conservative","Conservateur",Y,N,43
+59025,"Richmond Centre","Richmond-Centre"," 112","Richmond",N,N,"",2,478,"Gillanders","","Laura","Green Party","Parti Vert",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 112","Richmond",N,N,"",2,478,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,6
+59025,"Richmond Centre","Richmond-Centre"," 112","Richmond",N,N,"",2,478,"Miao","","Wilson","Liberal","Libéral",N,Y,37
+59025,"Richmond Centre","Richmond-Centre"," 112","Richmond",N,N,"",2,478,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59025,"Richmond Centre","Richmond-Centre"," 112","Richmond",N,N,"",2,478,"Wong","","Alice","Conservative","Conservateur",Y,N,57
+59025,"Richmond Centre","Richmond-Centre"," 113","Richmond",N,N,"",0,345,"Gillanders","","Laura","Green Party","Parti Vert",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 113","Richmond",N,N,"",0,345,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 113","Richmond",N,N,"",0,345,"Miao","","Wilson","Liberal","Libéral",N,Y,41
+59025,"Richmond Centre","Richmond-Centre"," 113","Richmond",N,N,"",0,345,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59025,"Richmond Centre","Richmond-Centre"," 113","Richmond",N,N,"",0,345,"Wong","","Alice","Conservative","Conservateur",Y,N,22
+59025,"Richmond Centre","Richmond-Centre"," 114","Richmond",N,N,"",0,437,"Gillanders","","Laura","Green Party","Parti Vert",N,N,6
+59025,"Richmond Centre","Richmond-Centre"," 114","Richmond",N,N,"",0,437,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 114","Richmond",N,N,"",0,437,"Miao","","Wilson","Liberal","Libéral",N,Y,37
+59025,"Richmond Centre","Richmond-Centre"," 114","Richmond",N,N,"",0,437,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59025,"Richmond Centre","Richmond-Centre"," 114","Richmond",N,N,"",0,437,"Wong","","Alice","Conservative","Conservateur",Y,N,33
+59025,"Richmond Centre","Richmond-Centre"," 115","Richmond",N,N,"",0,382,"Gillanders","","Laura","Green Party","Parti Vert",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 115","Richmond",N,N,"",0,382,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 115","Richmond",N,N,"",0,382,"Miao","","Wilson","Liberal","Libéral",N,Y,48
+59025,"Richmond Centre","Richmond-Centre"," 115","Richmond",N,N,"",0,382,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59025,"Richmond Centre","Richmond-Centre"," 115","Richmond",N,N,"",0,382,"Wong","","Alice","Conservative","Conservateur",Y,N,41
+59025,"Richmond Centre","Richmond-Centre"," 116","Richmond",N,N,"",1,473,"Gillanders","","Laura","Green Party","Parti Vert",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 116","Richmond",N,N,"",1,473,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 116","Richmond",N,N,"",1,473,"Miao","","Wilson","Liberal","Libéral",N,Y,74
+59025,"Richmond Centre","Richmond-Centre"," 116","Richmond",N,N,"",1,473,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59025,"Richmond Centre","Richmond-Centre"," 116","Richmond",N,N,"",1,473,"Wong","","Alice","Conservative","Conservateur",Y,N,54
+59025,"Richmond Centre","Richmond-Centre"," 117","Richmond",N,N,"",2,686,"Gillanders","","Laura","Green Party","Parti Vert",N,N,8
+59025,"Richmond Centre","Richmond-Centre"," 117","Richmond",N,N,"",2,686,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 117","Richmond",N,N,"",2,686,"Miao","","Wilson","Liberal","Libéral",N,Y,85
+59025,"Richmond Centre","Richmond-Centre"," 117","Richmond",N,N,"",2,686,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59025,"Richmond Centre","Richmond-Centre"," 117","Richmond",N,N,"",2,686,"Wong","","Alice","Conservative","Conservateur",Y,N,52
+59025,"Richmond Centre","Richmond-Centre"," 118","Richmond",N,N,"",3,577,"Gillanders","","Laura","Green Party","Parti Vert",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 118","Richmond",N,N,"",3,577,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,10
+59025,"Richmond Centre","Richmond-Centre"," 118","Richmond",N,N,"",3,577,"Miao","","Wilson","Liberal","Libéral",N,Y,65
+59025,"Richmond Centre","Richmond-Centre"," 118","Richmond",N,N,"",3,577,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59025,"Richmond Centre","Richmond-Centre"," 118","Richmond",N,N,"",3,577,"Wong","","Alice","Conservative","Conservateur",Y,N,53
+59025,"Richmond Centre","Richmond-Centre"," 119","Richmond",N,N,"",0,288,"Gillanders","","Laura","Green Party","Parti Vert",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 119","Richmond",N,N,"",0,288,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 119","Richmond",N,N,"",0,288,"Miao","","Wilson","Liberal","Libéral",N,Y,32
+59025,"Richmond Centre","Richmond-Centre"," 119","Richmond",N,N,"",0,288,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59025,"Richmond Centre","Richmond-Centre"," 119","Richmond",N,N,"",0,288,"Wong","","Alice","Conservative","Conservateur",Y,N,33
+59025,"Richmond Centre","Richmond-Centre"," 120","Richmond",N,N,"",1,451,"Gillanders","","Laura","Green Party","Parti Vert",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 120","Richmond",N,N,"",1,451,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 120","Richmond",N,N,"",1,451,"Miao","","Wilson","Liberal","Libéral",N,Y,45
+59025,"Richmond Centre","Richmond-Centre"," 120","Richmond",N,N,"",1,451,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59025,"Richmond Centre","Richmond-Centre"," 120","Richmond",N,N,"",1,451,"Wong","","Alice","Conservative","Conservateur",Y,N,33
+59025,"Richmond Centre","Richmond-Centre"," 121","Richmond",N,N,"",0,459,"Gillanders","","Laura","Green Party","Parti Vert",N,N,10
+59025,"Richmond Centre","Richmond-Centre"," 121","Richmond",N,N,"",0,459,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 121","Richmond",N,N,"",0,459,"Miao","","Wilson","Liberal","Libéral",N,Y,56
+59025,"Richmond Centre","Richmond-Centre"," 121","Richmond",N,N,"",0,459,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+59025,"Richmond Centre","Richmond-Centre"," 121","Richmond",N,N,"",0,459,"Wong","","Alice","Conservative","Conservateur",Y,N,33
+59025,"Richmond Centre","Richmond-Centre"," 122","Richmond",N,N,"",1,506,"Gillanders","","Laura","Green Party","Parti Vert",N,N,6
+59025,"Richmond Centre","Richmond-Centre"," 122","Richmond",N,N,"",1,506,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,11
+59025,"Richmond Centre","Richmond-Centre"," 122","Richmond",N,N,"",1,506,"Miao","","Wilson","Liberal","Libéral",N,Y,60
+59025,"Richmond Centre","Richmond-Centre"," 122","Richmond",N,N,"",1,506,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59025,"Richmond Centre","Richmond-Centre"," 122","Richmond",N,N,"",1,506,"Wong","","Alice","Conservative","Conservateur",Y,N,51
+59025,"Richmond Centre","Richmond-Centre"," 123","Richmond",N,N,"",0,555,"Gillanders","","Laura","Green Party","Parti Vert",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 123","Richmond",N,N,"",0,555,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 123","Richmond",N,N,"",0,555,"Miao","","Wilson","Liberal","Libéral",N,Y,49
+59025,"Richmond Centre","Richmond-Centre"," 123","Richmond",N,N,"",0,555,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59025,"Richmond Centre","Richmond-Centre"," 123","Richmond",N,N,"",0,555,"Wong","","Alice","Conservative","Conservateur",Y,N,54
+59025,"Richmond Centre","Richmond-Centre"," 124","Richmond",N,N,"",1,324,"Gillanders","","Laura","Green Party","Parti Vert",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 124","Richmond",N,N,"",1,324,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 124","Richmond",N,N,"",1,324,"Miao","","Wilson","Liberal","Libéral",N,Y,33
+59025,"Richmond Centre","Richmond-Centre"," 124","Richmond",N,N,"",1,324,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+59025,"Richmond Centre","Richmond-Centre"," 124","Richmond",N,N,"",1,324,"Wong","","Alice","Conservative","Conservateur",Y,N,33
+59025,"Richmond Centre","Richmond-Centre"," 125","Richmond",N,N,"",0,593,"Gillanders","","Laura","Green Party","Parti Vert",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 125","Richmond",N,N,"",0,593,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 125","Richmond",N,N,"",0,593,"Miao","","Wilson","Liberal","Libéral",N,Y,42
+59025,"Richmond Centre","Richmond-Centre"," 125","Richmond",N,N,"",0,593,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59025,"Richmond Centre","Richmond-Centre"," 125","Richmond",N,N,"",0,593,"Wong","","Alice","Conservative","Conservateur",Y,N,55
+59025,"Richmond Centre","Richmond-Centre"," 126","Richmond",N,N,"",0,418,"Gillanders","","Laura","Green Party","Parti Vert",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 126","Richmond",N,N,"",0,418,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 126","Richmond",N,N,"",0,418,"Miao","","Wilson","Liberal","Libéral",N,Y,47
+59025,"Richmond Centre","Richmond-Centre"," 126","Richmond",N,N,"",0,418,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59025,"Richmond Centre","Richmond-Centre"," 126","Richmond",N,N,"",0,418,"Wong","","Alice","Conservative","Conservateur",Y,N,37
+59025,"Richmond Centre","Richmond-Centre"," 127","Richmond",N,N,"",0,279,"Gillanders","","Laura","Green Party","Parti Vert",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 127","Richmond",N,N,"",0,279,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 127","Richmond",N,N,"",0,279,"Miao","","Wilson","Liberal","Libéral",N,Y,34
+59025,"Richmond Centre","Richmond-Centre"," 127","Richmond",N,N,"",0,279,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59025,"Richmond Centre","Richmond-Centre"," 127","Richmond",N,N,"",0,279,"Wong","","Alice","Conservative","Conservateur",Y,N,41
+59025,"Richmond Centre","Richmond-Centre"," 128","Richmond",N,N,"",0,381,"Gillanders","","Laura","Green Party","Parti Vert",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 128","Richmond",N,N,"",0,381,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 128","Richmond",N,N,"",0,381,"Miao","","Wilson","Liberal","Libéral",N,Y,43
+59025,"Richmond Centre","Richmond-Centre"," 128","Richmond",N,N,"",0,381,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59025,"Richmond Centre","Richmond-Centre"," 128","Richmond",N,N,"",0,381,"Wong","","Alice","Conservative","Conservateur",Y,N,48
+59025,"Richmond Centre","Richmond-Centre"," 129","Richmond",N,N,"",2,450,"Gillanders","","Laura","Green Party","Parti Vert",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 129","Richmond",N,N,"",2,450,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 129","Richmond",N,N,"",2,450,"Miao","","Wilson","Liberal","Libéral",N,Y,41
+59025,"Richmond Centre","Richmond-Centre"," 129","Richmond",N,N,"",2,450,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59025,"Richmond Centre","Richmond-Centre"," 129","Richmond",N,N,"",2,450,"Wong","","Alice","Conservative","Conservateur",Y,N,51
+59025,"Richmond Centre","Richmond-Centre"," 130","Richmond",N,N,"",1,508,"Gillanders","","Laura","Green Party","Parti Vert",N,N,6
+59025,"Richmond Centre","Richmond-Centre"," 130","Richmond",N,N,"",1,508,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 130","Richmond",N,N,"",1,508,"Miao","","Wilson","Liberal","Libéral",N,Y,46
+59025,"Richmond Centre","Richmond-Centre"," 130","Richmond",N,N,"",1,508,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59025,"Richmond Centre","Richmond-Centre"," 130","Richmond",N,N,"",1,508,"Wong","","Alice","Conservative","Conservateur",Y,N,73
+59025,"Richmond Centre","Richmond-Centre"," 131","Richmond",N,N,"",0,388,"Gillanders","","Laura","Green Party","Parti Vert",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 131","Richmond",N,N,"",0,388,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 131","Richmond",N,N,"",0,388,"Miao","","Wilson","Liberal","Libéral",N,Y,54
+59025,"Richmond Centre","Richmond-Centre"," 131","Richmond",N,N,"",0,388,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59025,"Richmond Centre","Richmond-Centre"," 131","Richmond",N,N,"",0,388,"Wong","","Alice","Conservative","Conservateur",Y,N,41
+59025,"Richmond Centre","Richmond-Centre"," 132","Richmond",N,N,"",1,447,"Gillanders","","Laura","Green Party","Parti Vert",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 132","Richmond",N,N,"",1,447,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 132","Richmond",N,N,"",1,447,"Miao","","Wilson","Liberal","Libéral",N,Y,50
+59025,"Richmond Centre","Richmond-Centre"," 132","Richmond",N,N,"",1,447,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59025,"Richmond Centre","Richmond-Centre"," 132","Richmond",N,N,"",1,447,"Wong","","Alice","Conservative","Conservateur",Y,N,42
+59025,"Richmond Centre","Richmond-Centre"," 133","Richmond",N,N,"",0,303,"Gillanders","","Laura","Green Party","Parti Vert",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 133","Richmond",N,N,"",0,303,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 133","Richmond",N,N,"",0,303,"Miao","","Wilson","Liberal","Libéral",N,Y,36
+59025,"Richmond Centre","Richmond-Centre"," 133","Richmond",N,N,"",0,303,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59025,"Richmond Centre","Richmond-Centre"," 133","Richmond",N,N,"",0,303,"Wong","","Alice","Conservative","Conservateur",Y,N,26
+59025,"Richmond Centre","Richmond-Centre"," 134","Richmond",N,N,"",0,428,"Gillanders","","Laura","Green Party","Parti Vert",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 134","Richmond",N,N,"",0,428,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 134","Richmond",N,N,"",0,428,"Miao","","Wilson","Liberal","Libéral",N,Y,24
+59025,"Richmond Centre","Richmond-Centre"," 134","Richmond",N,N,"",0,428,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59025,"Richmond Centre","Richmond-Centre"," 134","Richmond",N,N,"",0,428,"Wong","","Alice","Conservative","Conservateur",Y,N,46
+59025,"Richmond Centre","Richmond-Centre"," 135","Richmond",N,N,"",1,441,"Gillanders","","Laura","Green Party","Parti Vert",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 135","Richmond",N,N,"",1,441,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 135","Richmond",N,N,"",1,441,"Miao","","Wilson","Liberal","Libéral",N,Y,35
+59025,"Richmond Centre","Richmond-Centre"," 135","Richmond",N,N,"",1,441,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59025,"Richmond Centre","Richmond-Centre"," 135","Richmond",N,N,"",1,441,"Wong","","Alice","Conservative","Conservateur",Y,N,56
+59025,"Richmond Centre","Richmond-Centre"," 136","Richmond",N,N,"",1,547,"Gillanders","","Laura","Green Party","Parti Vert",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 136","Richmond",N,N,"",1,547,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 136","Richmond",N,N,"",1,547,"Miao","","Wilson","Liberal","Libéral",N,Y,87
+59025,"Richmond Centre","Richmond-Centre"," 136","Richmond",N,N,"",1,547,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+59025,"Richmond Centre","Richmond-Centre"," 136","Richmond",N,N,"",1,547,"Wong","","Alice","Conservative","Conservateur",Y,N,68
+59025,"Richmond Centre","Richmond-Centre"," 137","Richmond",N,N,"",0,384,"Gillanders","","Laura","Green Party","Parti Vert",N,N,7
+59025,"Richmond Centre","Richmond-Centre"," 137","Richmond",N,N,"",0,384,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 137","Richmond",N,N,"",0,384,"Miao","","Wilson","Liberal","Libéral",N,Y,65
+59025,"Richmond Centre","Richmond-Centre"," 137","Richmond",N,N,"",0,384,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59025,"Richmond Centre","Richmond-Centre"," 137","Richmond",N,N,"",0,384,"Wong","","Alice","Conservative","Conservateur",Y,N,66
+59025,"Richmond Centre","Richmond-Centre"," 138","Richmond",N,N,"",1,339,"Gillanders","","Laura","Green Party","Parti Vert",N,N,12
+59025,"Richmond Centre","Richmond-Centre"," 138","Richmond",N,N,"",1,339,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 138","Richmond",N,N,"",1,339,"Miao","","Wilson","Liberal","Libéral",N,Y,52
+59025,"Richmond Centre","Richmond-Centre"," 138","Richmond",N,N,"",1,339,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59025,"Richmond Centre","Richmond-Centre"," 138","Richmond",N,N,"",1,339,"Wong","","Alice","Conservative","Conservateur",Y,N,52
+59025,"Richmond Centre","Richmond-Centre"," 139","Richmond",N,N,"",0,291,"Gillanders","","Laura","Green Party","Parti Vert",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 139","Richmond",N,N,"",0,291,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 139","Richmond",N,N,"",0,291,"Miao","","Wilson","Liberal","Libéral",N,Y,31
+59025,"Richmond Centre","Richmond-Centre"," 139","Richmond",N,N,"",0,291,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59025,"Richmond Centre","Richmond-Centre"," 139","Richmond",N,N,"",0,291,"Wong","","Alice","Conservative","Conservateur",Y,N,37
+59025,"Richmond Centre","Richmond-Centre"," 140","Richmond",N,N,"",1,276,"Gillanders","","Laura","Green Party","Parti Vert",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 140","Richmond",N,N,"",1,276,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 140","Richmond",N,N,"",1,276,"Miao","","Wilson","Liberal","Libéral",N,Y,41
+59025,"Richmond Centre","Richmond-Centre"," 140","Richmond",N,N,"",1,276,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59025,"Richmond Centre","Richmond-Centre"," 140","Richmond",N,N,"",1,276,"Wong","","Alice","Conservative","Conservateur",Y,N,49
+59025,"Richmond Centre","Richmond-Centre"," 141","Richmond",N,N,"",3,401,"Gillanders","","Laura","Green Party","Parti Vert",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 141","Richmond",N,N,"",3,401,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 141","Richmond",N,N,"",3,401,"Miao","","Wilson","Liberal","Libéral",N,Y,42
+59025,"Richmond Centre","Richmond-Centre"," 141","Richmond",N,N,"",3,401,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59025,"Richmond Centre","Richmond-Centre"," 141","Richmond",N,N,"",3,401,"Wong","","Alice","Conservative","Conservateur",Y,N,30
+59025,"Richmond Centre","Richmond-Centre"," 142","Richmond",N,N,"",0,339,"Gillanders","","Laura","Green Party","Parti Vert",N,N,9
+59025,"Richmond Centre","Richmond-Centre"," 142","Richmond",N,N,"",0,339,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 142","Richmond",N,N,"",0,339,"Miao","","Wilson","Liberal","Libéral",N,Y,30
+59025,"Richmond Centre","Richmond-Centre"," 142","Richmond",N,N,"",0,339,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59025,"Richmond Centre","Richmond-Centre"," 142","Richmond",N,N,"",0,339,"Wong","","Alice","Conservative","Conservateur",Y,N,25
+59025,"Richmond Centre","Richmond-Centre"," 143","Richmond",N,N,"",1,440,"Gillanders","","Laura","Green Party","Parti Vert",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 143","Richmond",N,N,"",1,440,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 143","Richmond",N,N,"",1,440,"Miao","","Wilson","Liberal","Libéral",N,Y,40
+59025,"Richmond Centre","Richmond-Centre"," 143","Richmond",N,N,"",1,440,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59025,"Richmond Centre","Richmond-Centre"," 143","Richmond",N,N,"",1,440,"Wong","","Alice","Conservative","Conservateur",Y,N,33
+59025,"Richmond Centre","Richmond-Centre"," 144","Richmond",N,N,"",0,495,"Gillanders","","Laura","Green Party","Parti Vert",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 144","Richmond",N,N,"",0,495,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 144","Richmond",N,N,"",0,495,"Miao","","Wilson","Liberal","Libéral",N,Y,37
+59025,"Richmond Centre","Richmond-Centre"," 144","Richmond",N,N,"",0,495,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59025,"Richmond Centre","Richmond-Centre"," 144","Richmond",N,N,"",0,495,"Wong","","Alice","Conservative","Conservateur",Y,N,36
+59025,"Richmond Centre","Richmond-Centre"," 145","Richmond",N,N,"",1,446,"Gillanders","","Laura","Green Party","Parti Vert",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 145","Richmond",N,N,"",1,446,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 145","Richmond",N,N,"",1,446,"Miao","","Wilson","Liberal","Libéral",N,Y,50
+59025,"Richmond Centre","Richmond-Centre"," 145","Richmond",N,N,"",1,446,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59025,"Richmond Centre","Richmond-Centre"," 145","Richmond",N,N,"",1,446,"Wong","","Alice","Conservative","Conservateur",Y,N,40
+59025,"Richmond Centre","Richmond-Centre"," 146","Richmond",N,N,"",0,443,"Gillanders","","Laura","Green Party","Parti Vert",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 146","Richmond",N,N,"",0,443,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 146","Richmond",N,N,"",0,443,"Miao","","Wilson","Liberal","Libéral",N,Y,38
+59025,"Richmond Centre","Richmond-Centre"," 146","Richmond",N,N,"",0,443,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59025,"Richmond Centre","Richmond-Centre"," 146","Richmond",N,N,"",0,443,"Wong","","Alice","Conservative","Conservateur",Y,N,29
+59025,"Richmond Centre","Richmond-Centre"," 147","Richmond",N,N,"",0,392,"Gillanders","","Laura","Green Party","Parti Vert",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 147","Richmond",N,N,"",0,392,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 147","Richmond",N,N,"",0,392,"Miao","","Wilson","Liberal","Libéral",N,Y,38
+59025,"Richmond Centre","Richmond-Centre"," 147","Richmond",N,N,"",0,392,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59025,"Richmond Centre","Richmond-Centre"," 147","Richmond",N,N,"",0,392,"Wong","","Alice","Conservative","Conservateur",Y,N,37
+59025,"Richmond Centre","Richmond-Centre"," 148","Richmond",N,N,"",0,533,"Gillanders","","Laura","Green Party","Parti Vert",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 148","Richmond",N,N,"",0,533,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 148","Richmond",N,N,"",0,533,"Miao","","Wilson","Liberal","Libéral",N,Y,54
+59025,"Richmond Centre","Richmond-Centre"," 148","Richmond",N,N,"",0,533,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59025,"Richmond Centre","Richmond-Centre"," 148","Richmond",N,N,"",0,533,"Wong","","Alice","Conservative","Conservateur",Y,N,35
+59025,"Richmond Centre","Richmond-Centre"," 149","Richmond",N,N,"",0,486,"Gillanders","","Laura","Green Party","Parti Vert",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 149","Richmond",N,N,"",0,486,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 149","Richmond",N,N,"",0,486,"Miao","","Wilson","Liberal","Libéral",N,Y,56
+59025,"Richmond Centre","Richmond-Centre"," 149","Richmond",N,N,"",0,486,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59025,"Richmond Centre","Richmond-Centre"," 149","Richmond",N,N,"",0,486,"Wong","","Alice","Conservative","Conservateur",Y,N,30
+59025,"Richmond Centre","Richmond-Centre"," 150","Richmond",N,N,"",0,334,"Gillanders","","Laura","Green Party","Parti Vert",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 150","Richmond",N,N,"",0,334,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 150","Richmond",N,N,"",0,334,"Miao","","Wilson","Liberal","Libéral",N,Y,53
+59025,"Richmond Centre","Richmond-Centre"," 150","Richmond",N,N,"",0,334,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59025,"Richmond Centre","Richmond-Centre"," 150","Richmond",N,N,"",0,334,"Wong","","Alice","Conservative","Conservateur",Y,N,29
+59025,"Richmond Centre","Richmond-Centre"," 151","Richmond",N,N,"",0,356,"Gillanders","","Laura","Green Party","Parti Vert",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 151","Richmond",N,N,"",0,356,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 151","Richmond",N,N,"",0,356,"Miao","","Wilson","Liberal","Libéral",N,Y,45
+59025,"Richmond Centre","Richmond-Centre"," 151","Richmond",N,N,"",0,356,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59025,"Richmond Centre","Richmond-Centre"," 151","Richmond",N,N,"",0,356,"Wong","","Alice","Conservative","Conservateur",Y,N,24
+59025,"Richmond Centre","Richmond-Centre"," 152","Richmond",N,N,"",0,361,"Gillanders","","Laura","Green Party","Parti Vert",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 152","Richmond",N,N,"",0,361,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 152","Richmond",N,N,"",0,361,"Miao","","Wilson","Liberal","Libéral",N,Y,42
+59025,"Richmond Centre","Richmond-Centre"," 152","Richmond",N,N,"",0,361,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59025,"Richmond Centre","Richmond-Centre"," 152","Richmond",N,N,"",0,361,"Wong","","Alice","Conservative","Conservateur",Y,N,58
+59025,"Richmond Centre","Richmond-Centre"," 153","Richmond",N,N,"",0,541,"Gillanders","","Laura","Green Party","Parti Vert",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 153","Richmond",N,N,"",0,541,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 153","Richmond",N,N,"",0,541,"Miao","","Wilson","Liberal","Libéral",N,Y,70
+59025,"Richmond Centre","Richmond-Centre"," 153","Richmond",N,N,"",0,541,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59025,"Richmond Centre","Richmond-Centre"," 153","Richmond",N,N,"",0,541,"Wong","","Alice","Conservative","Conservateur",Y,N,59
+59025,"Richmond Centre","Richmond-Centre"," 154","Richmond",N,N,"",2,437,"Gillanders","","Laura","Green Party","Parti Vert",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 154","Richmond",N,N,"",2,437,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 154","Richmond",N,N,"",2,437,"Miao","","Wilson","Liberal","Libéral",N,Y,59
+59025,"Richmond Centre","Richmond-Centre"," 154","Richmond",N,N,"",2,437,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59025,"Richmond Centre","Richmond-Centre"," 154","Richmond",N,N,"",2,437,"Wong","","Alice","Conservative","Conservateur",Y,N,46
+59025,"Richmond Centre","Richmond-Centre"," 155","Richmond",N,N,"",1,410,"Gillanders","","Laura","Green Party","Parti Vert",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 155","Richmond",N,N,"",1,410,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 155","Richmond",N,N,"",1,410,"Miao","","Wilson","Liberal","Libéral",N,Y,57
+59025,"Richmond Centre","Richmond-Centre"," 155","Richmond",N,N,"",1,410,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59025,"Richmond Centre","Richmond-Centre"," 155","Richmond",N,N,"",1,410,"Wong","","Alice","Conservative","Conservateur",Y,N,61
+59025,"Richmond Centre","Richmond-Centre"," 156","Richmond",N,N,"",2,430,"Gillanders","","Laura","Green Party","Parti Vert",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 156","Richmond",N,N,"",2,430,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 156","Richmond",N,N,"",2,430,"Miao","","Wilson","Liberal","Libéral",N,Y,42
+59025,"Richmond Centre","Richmond-Centre"," 156","Richmond",N,N,"",2,430,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59025,"Richmond Centre","Richmond-Centre"," 156","Richmond",N,N,"",2,430,"Wong","","Alice","Conservative","Conservateur",Y,N,59
+59025,"Richmond Centre","Richmond-Centre"," 157","Richmond",N,N,"",0,451,"Gillanders","","Laura","Green Party","Parti Vert",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 157","Richmond",N,N,"",0,451,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 157","Richmond",N,N,"",0,451,"Miao","","Wilson","Liberal","Libéral",N,Y,58
+59025,"Richmond Centre","Richmond-Centre"," 157","Richmond",N,N,"",0,451,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59025,"Richmond Centre","Richmond-Centre"," 157","Richmond",N,N,"",0,451,"Wong","","Alice","Conservative","Conservateur",Y,N,71
+59025,"Richmond Centre","Richmond-Centre"," 158","Richmond",N,N,"",1,291,"Gillanders","","Laura","Green Party","Parti Vert",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 158","Richmond",N,N,"",1,291,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 158","Richmond",N,N,"",1,291,"Miao","","Wilson","Liberal","Libéral",N,Y,39
+59025,"Richmond Centre","Richmond-Centre"," 158","Richmond",N,N,"",1,291,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59025,"Richmond Centre","Richmond-Centre"," 158","Richmond",N,N,"",1,291,"Wong","","Alice","Conservative","Conservateur",Y,N,24
+59025,"Richmond Centre","Richmond-Centre"," 159","Richmond",N,N,"",2,481,"Gillanders","","Laura","Green Party","Parti Vert",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 159","Richmond",N,N,"",2,481,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 159","Richmond",N,N,"",2,481,"Miao","","Wilson","Liberal","Libéral",N,Y,45
+59025,"Richmond Centre","Richmond-Centre"," 159","Richmond",N,N,"",2,481,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59025,"Richmond Centre","Richmond-Centre"," 159","Richmond",N,N,"",2,481,"Wong","","Alice","Conservative","Conservateur",Y,N,53
+59025,"Richmond Centre","Richmond-Centre"," 160","Richmond",N,N,"",1,586,"Gillanders","","Laura","Green Party","Parti Vert",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 160","Richmond",N,N,"",1,586,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 160","Richmond",N,N,"",1,586,"Miao","","Wilson","Liberal","Libéral",N,Y,67
+59025,"Richmond Centre","Richmond-Centre"," 160","Richmond",N,N,"",1,586,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59025,"Richmond Centre","Richmond-Centre"," 160","Richmond",N,N,"",1,586,"Wong","","Alice","Conservative","Conservateur",Y,N,55
+59025,"Richmond Centre","Richmond-Centre"," 161","Richmond",N,N,"",1,487,"Gillanders","","Laura","Green Party","Parti Vert",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," 161","Richmond",N,N,"",1,487,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 161","Richmond",N,N,"",1,487,"Miao","","Wilson","Liberal","Libéral",N,Y,54
+59025,"Richmond Centre","Richmond-Centre"," 161","Richmond",N,N,"",1,487,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+59025,"Richmond Centre","Richmond-Centre"," 161","Richmond",N,N,"",1,487,"Wong","","Alice","Conservative","Conservateur",Y,N,73
+59025,"Richmond Centre","Richmond-Centre"," 162","Richmond",N,N,"",0,310,"Gillanders","","Laura","Green Party","Parti Vert",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 162","Richmond",N,N,"",0,310,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 162","Richmond",N,N,"",0,310,"Miao","","Wilson","Liberal","Libéral",N,Y,38
+59025,"Richmond Centre","Richmond-Centre"," 162","Richmond",N,N,"",0,310,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59025,"Richmond Centre","Richmond-Centre"," 162","Richmond",N,N,"",0,310,"Wong","","Alice","Conservative","Conservateur",Y,N,33
+59025,"Richmond Centre","Richmond-Centre"," 400","Richmond",N,N,"38",0,111,"Gillanders","","Laura","Green Party","Parti Vert",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 400","Richmond",N,N,"38",0,111,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 400","Richmond",N,N,"38",0,111,"Miao","","Wilson","Liberal","Libéral",N,Y,0
+59025,"Richmond Centre","Richmond-Centre"," 400","Richmond",N,N,"38",0,111,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 400","Richmond",N,N,"38",0,111,"Wong","","Alice","Conservative","Conservateur",Y,N,0
+59025,"Richmond Centre","Richmond-Centre"," 401","Richmond",N,N,"38",0,119,"Gillanders","","Laura","Green Party","Parti Vert",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 401","Richmond",N,N,"38",0,119,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 401","Richmond",N,N,"38",0,119,"Miao","","Wilson","Liberal","Libéral",N,Y,0
+59025,"Richmond Centre","Richmond-Centre"," 401","Richmond",N,N,"38",0,119,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 401","Richmond",N,N,"38",0,119,"Wong","","Alice","Conservative","Conservateur",Y,N,0
+59025,"Richmond Centre","Richmond-Centre"," 402","Richmond",Y,N,"",0,0,"Gillanders","","Laura","Green Party","Parti Vert",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 402","Richmond",Y,N,"",0,0,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 402","Richmond",Y,N,"",0,0,"Miao","","Wilson","Liberal","Libéral",N,Y,0
+59025,"Richmond Centre","Richmond-Centre"," 402","Richmond",Y,N,"",0,0,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 402","Richmond",Y,N,"",0,0,"Wong","","Alice","Conservative","Conservateur",Y,N,0
+59025,"Richmond Centre","Richmond-Centre"," 403","Richmond",N,N,"38",0,69,"Gillanders","","Laura","Green Party","Parti Vert",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 403","Richmond",N,N,"38",0,69,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 403","Richmond",N,N,"38",0,69,"Miao","","Wilson","Liberal","Libéral",N,Y,0
+59025,"Richmond Centre","Richmond-Centre"," 403","Richmond",N,N,"38",0,69,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 403","Richmond",N,N,"38",0,69,"Wong","","Alice","Conservative","Conservateur",Y,N,0
+59025,"Richmond Centre","Richmond-Centre"," 404","Richmond",N,N,"",0,138,"Gillanders","","Laura","Green Party","Parti Vert",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 404","Richmond",N,N,"",0,138,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 404","Richmond",N,N,"",0,138,"Miao","","Wilson","Liberal","Libéral",N,Y,14
+59025,"Richmond Centre","Richmond-Centre"," 404","Richmond",N,N,"",0,138,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+59025,"Richmond Centre","Richmond-Centre"," 404","Richmond",N,N,"",0,138,"Wong","","Alice","Conservative","Conservateur",Y,N,13
+59025,"Richmond Centre","Richmond-Centre"," 405","Richmond",N,N,"35",0,113,"Gillanders","","Laura","Green Party","Parti Vert",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 405","Richmond",N,N,"35",0,113,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 405","Richmond",N,N,"35",0,113,"Miao","","Wilson","Liberal","Libéral",N,Y,0
+59025,"Richmond Centre","Richmond-Centre"," 405","Richmond",N,N,"35",0,113,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 405","Richmond",N,N,"35",0,113,"Wong","","Alice","Conservative","Conservateur",Y,N,0
+59025,"Richmond Centre","Richmond-Centre"," 406","Richmond",N,N,"38",0,51,"Gillanders","","Laura","Green Party","Parti Vert",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 406","Richmond",N,N,"38",0,51,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 406","Richmond",N,N,"38",0,51,"Miao","","Wilson","Liberal","Libéral",N,Y,0
+59025,"Richmond Centre","Richmond-Centre"," 406","Richmond",N,N,"38",0,51,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 406","Richmond",N,N,"38",0,51,"Wong","","Alice","Conservative","Conservateur",Y,N,0
+59025,"Richmond Centre","Richmond-Centre"," 407","Richmond",N,N,"41",0,92,"Gillanders","","Laura","Green Party","Parti Vert",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 407","Richmond",N,N,"41",0,92,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 407","Richmond",N,N,"41",0,92,"Miao","","Wilson","Liberal","Libéral",N,Y,0
+59025,"Richmond Centre","Richmond-Centre"," 407","Richmond",N,N,"41",0,92,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 407","Richmond",N,N,"41",0,92,"Wong","","Alice","Conservative","Conservateur",Y,N,0
+59025,"Richmond Centre","Richmond-Centre"," 408","Richmond",N,N,"",0,104,"Gillanders","","Laura","Green Party","Parti Vert",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 408","Richmond",N,N,"",0,104,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 408","Richmond",N,N,"",0,104,"Miao","","Wilson","Liberal","Libéral",N,Y,10
+59025,"Richmond Centre","Richmond-Centre"," 408","Richmond",N,N,"",0,104,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 408","Richmond",N,N,"",0,104,"Wong","","Alice","Conservative","Conservateur",Y,N,8
+59025,"Richmond Centre","Richmond-Centre"," 409","Richmond",N,N,"41",0,72,"Gillanders","","Laura","Green Party","Parti Vert",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 409","Richmond",N,N,"41",0,72,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 409","Richmond",N,N,"41",0,72,"Miao","","Wilson","Liberal","Libéral",N,Y,0
+59025,"Richmond Centre","Richmond-Centre"," 409","Richmond",N,N,"41",0,72,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 409","Richmond",N,N,"41",0,72,"Wong","","Alice","Conservative","Conservateur",Y,N,0
+59025,"Richmond Centre","Richmond-Centre"," 410","Richmond",N,N,"41",0,95,"Gillanders","","Laura","Green Party","Parti Vert",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 410","Richmond",N,N,"41",0,95,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 410","Richmond",N,N,"41",0,95,"Miao","","Wilson","Liberal","Libéral",N,Y,0
+59025,"Richmond Centre","Richmond-Centre"," 410","Richmond",N,N,"41",0,95,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 410","Richmond",N,N,"41",0,95,"Wong","","Alice","Conservative","Conservateur",Y,N,0
+59025,"Richmond Centre","Richmond-Centre"," 411","Richmond",N,N,"",0,272,"Gillanders","","Laura","Green Party","Parti Vert",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 411","Richmond",N,N,"",0,272,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 411","Richmond",N,N,"",0,272,"Miao","","Wilson","Liberal","Libéral",N,Y,15
+59025,"Richmond Centre","Richmond-Centre"," 411","Richmond",N,N,"",0,272,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59025,"Richmond Centre","Richmond-Centre"," 411","Richmond",N,N,"",0,272,"Wong","","Alice","Conservative","Conservateur",Y,N,19
+59025,"Richmond Centre","Richmond-Centre"," 412","Richmond",N,N,"41",0,4,"Gillanders","","Laura","Green Party","Parti Vert",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 412","Richmond",N,N,"41",0,4,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 412","Richmond",N,N,"41",0,4,"Miao","","Wilson","Liberal","Libéral",N,Y,0
+59025,"Richmond Centre","Richmond-Centre"," 412","Richmond",N,N,"41",0,4,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 412","Richmond",N,N,"41",0,4,"Wong","","Alice","Conservative","Conservateur",Y,N,0
+59025,"Richmond Centre","Richmond-Centre"," 413","Richmond",N,N,"66",0,71,"Gillanders","","Laura","Green Party","Parti Vert",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 413","Richmond",N,N,"66",0,71,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 413","Richmond",N,N,"66",0,71,"Miao","","Wilson","Liberal","Libéral",N,Y,0
+59025,"Richmond Centre","Richmond-Centre"," 413","Richmond",N,N,"66",0,71,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 413","Richmond",N,N,"66",0,71,"Wong","","Alice","Conservative","Conservateur",Y,N,0
+59025,"Richmond Centre","Richmond-Centre"," 500","Mobile poll/Bureau itinérant",N,N,"",1,69,"Gillanders","","Laura","Green Party","Parti Vert",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 500","Mobile poll/Bureau itinérant",N,N,"",1,69,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 500","Mobile poll/Bureau itinérant",N,N,"",1,69,"Miao","","Wilson","Liberal","Libéral",N,Y,6
+59025,"Richmond Centre","Richmond-Centre"," 500","Mobile poll/Bureau itinérant",N,N,"",1,69,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 500","Mobile poll/Bureau itinérant",N,N,"",1,69,"Wong","","Alice","Conservative","Conservateur",Y,N,1
+59025,"Richmond Centre","Richmond-Centre"," 501","Mobile poll/Bureau itinérant",N,N,"",4,72,"Gillanders","","Laura","Green Party","Parti Vert",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 501","Mobile poll/Bureau itinérant",N,N,"",4,72,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,2
+59025,"Richmond Centre","Richmond-Centre"," 501","Mobile poll/Bureau itinérant",N,N,"",4,72,"Miao","","Wilson","Liberal","Libéral",N,Y,15
+59025,"Richmond Centre","Richmond-Centre"," 501","Mobile poll/Bureau itinérant",N,N,"",4,72,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 501","Mobile poll/Bureau itinérant",N,N,"",4,72,"Wong","","Alice","Conservative","Conservateur",Y,N,3
+59025,"Richmond Centre","Richmond-Centre"," 502","Mobile poll/Bureau itinérant",N,N,"89B",0,33,"Gillanders","","Laura","Green Party","Parti Vert",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 502","Mobile poll/Bureau itinérant",N,N,"89B",0,33,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 502","Mobile poll/Bureau itinérant",N,N,"89B",0,33,"Miao","","Wilson","Liberal","Libéral",N,Y,0
+59025,"Richmond Centre","Richmond-Centre"," 502","Mobile poll/Bureau itinérant",N,N,"89B",0,33,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 502","Mobile poll/Bureau itinérant",N,N,"89B",0,33,"Wong","","Alice","Conservative","Conservateur",Y,N,0
+59025,"Richmond Centre","Richmond-Centre"," 503","Mobile poll/Bureau itinérant",N,N,"",3,144,"Gillanders","","Laura","Green Party","Parti Vert",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 503","Mobile poll/Bureau itinérant",N,N,"",3,144,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 503","Mobile poll/Bureau itinérant",N,N,"",3,144,"Miao","","Wilson","Liberal","Libéral",N,Y,21
+59025,"Richmond Centre","Richmond-Centre"," 503","Mobile poll/Bureau itinérant",N,N,"",3,144,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59025,"Richmond Centre","Richmond-Centre"," 503","Mobile poll/Bureau itinérant",N,N,"",3,144,"Wong","","Alice","Conservative","Conservateur",Y,N,19
+59025,"Richmond Centre","Richmond-Centre"," 504","Mobile poll/Bureau itinérant",N,N,"",0,41,"Gillanders","","Laura","Green Party","Parti Vert",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 504","Mobile poll/Bureau itinérant",N,N,"",0,41,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,3
+59025,"Richmond Centre","Richmond-Centre"," 504","Mobile poll/Bureau itinérant",N,N,"",0,41,"Miao","","Wilson","Liberal","Libéral",N,Y,3
+59025,"Richmond Centre","Richmond-Centre"," 504","Mobile poll/Bureau itinérant",N,N,"",0,41,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 504","Mobile poll/Bureau itinérant",N,N,"",0,41,"Wong","","Alice","Conservative","Conservateur",Y,N,0
+59025,"Richmond Centre","Richmond-Centre"," 505","Mobile poll/Bureau itinérant",N,N,"",0,147,"Gillanders","","Laura","Green Party","Parti Vert",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 505","Mobile poll/Bureau itinérant",N,N,"",0,147,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 505","Mobile poll/Bureau itinérant",N,N,"",0,147,"Miao","","Wilson","Liberal","Libéral",N,Y,14
+59025,"Richmond Centre","Richmond-Centre"," 505","Mobile poll/Bureau itinérant",N,N,"",0,147,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+59025,"Richmond Centre","Richmond-Centre"," 505","Mobile poll/Bureau itinérant",N,N,"",0,147,"Wong","","Alice","Conservative","Conservateur",Y,N,11
+59025,"Richmond Centre","Richmond-Centre"," 506","Mobile poll/Bureau itinérant",N,N,"",0,117,"Gillanders","","Laura","Green Party","Parti Vert",N,N,0
+59025,"Richmond Centre","Richmond-Centre"," 506","Mobile poll/Bureau itinérant",N,N,"",0,117,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,1
+59025,"Richmond Centre","Richmond-Centre"," 506","Mobile poll/Bureau itinérant",N,N,"",0,117,"Miao","","Wilson","Liberal","Libéral",N,Y,24
+59025,"Richmond Centre","Richmond-Centre"," 506","Mobile poll/Bureau itinérant",N,N,"",0,117,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+59025,"Richmond Centre","Richmond-Centre"," 506","Mobile poll/Bureau itinérant",N,N,"",0,117,"Wong","","Alice","Conservative","Conservateur",Y,N,28
+59025,"Richmond Centre","Richmond-Centre"," 600","Richmond",N,N,"",4,0,"Gillanders","","Laura","Green Party","Parti Vert",N,N,23
+59025,"Richmond Centre","Richmond-Centre"," 600","Richmond",N,N,"",4,0,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,16
+59025,"Richmond Centre","Richmond-Centre"," 600","Richmond",N,N,"",4,0,"Miao","","Wilson","Liberal","Libéral",N,Y,238
+59025,"Richmond Centre","Richmond-Centre"," 600","Richmond",N,N,"",4,0,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,97
+59025,"Richmond Centre","Richmond-Centre"," 600","Richmond",N,N,"",4,0,"Wong","","Alice","Conservative","Conservateur",Y,N,190
+59025,"Richmond Centre","Richmond-Centre"," 601","Richmond",N,N,"",5,0,"Gillanders","","Laura","Green Party","Parti Vert",N,N,31
+59025,"Richmond Centre","Richmond-Centre"," 601","Richmond",N,N,"",5,0,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,15
+59025,"Richmond Centre","Richmond-Centre"," 601","Richmond",N,N,"",5,0,"Miao","","Wilson","Liberal","Libéral",N,Y,288
+59025,"Richmond Centre","Richmond-Centre"," 601","Richmond",N,N,"",5,0,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,124
+59025,"Richmond Centre","Richmond-Centre"," 601","Richmond",N,N,"",5,0,"Wong","","Alice","Conservative","Conservateur",Y,N,264
+59025,"Richmond Centre","Richmond-Centre"," 602","Richmond",N,N,"",2,0,"Gillanders","","Laura","Green Party","Parti Vert",N,N,17
+59025,"Richmond Centre","Richmond-Centre"," 602","Richmond",N,N,"",2,0,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,21
+59025,"Richmond Centre","Richmond-Centre"," 602","Richmond",N,N,"",2,0,"Miao","","Wilson","Liberal","Libéral",N,Y,359
+59025,"Richmond Centre","Richmond-Centre"," 602","Richmond",N,N,"",2,0,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,116
+59025,"Richmond Centre","Richmond-Centre"," 602","Richmond",N,N,"",2,0,"Wong","","Alice","Conservative","Conservateur",Y,N,409
+59025,"Richmond Centre","Richmond-Centre"," 603","Richmond",N,N,"",1,0,"Gillanders","","Laura","Green Party","Parti Vert",N,N,17
+59025,"Richmond Centre","Richmond-Centre"," 603","Richmond",N,N,"",1,0,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,8
+59025,"Richmond Centre","Richmond-Centre"," 603","Richmond",N,N,"",1,0,"Miao","","Wilson","Liberal","Libéral",N,Y,212
+59025,"Richmond Centre","Richmond-Centre"," 603","Richmond",N,N,"",1,0,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,112
+59025,"Richmond Centre","Richmond-Centre"," 603","Richmond",N,N,"",1,0,"Wong","","Alice","Conservative","Conservateur",Y,N,271
+59025,"Richmond Centre","Richmond-Centre"," 604","Richmond",N,N,"",1,0,"Gillanders","","Laura","Green Party","Parti Vert",N,N,22
+59025,"Richmond Centre","Richmond-Centre"," 604","Richmond",N,N,"",1,0,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,21
+59025,"Richmond Centre","Richmond-Centre"," 604","Richmond",N,N,"",1,0,"Miao","","Wilson","Liberal","Libéral",N,Y,277
+59025,"Richmond Centre","Richmond-Centre"," 604","Richmond",N,N,"",1,0,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,118
+59025,"Richmond Centre","Richmond-Centre"," 604","Richmond",N,N,"",1,0,"Wong","","Alice","Conservative","Conservateur",Y,N,361
+59025,"Richmond Centre","Richmond-Centre"," 605","Richmond",N,N,"",6,0,"Gillanders","","Laura","Green Party","Parti Vert",N,N,16
+59025,"Richmond Centre","Richmond-Centre"," 605","Richmond",N,N,"",6,0,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,24
+59025,"Richmond Centre","Richmond-Centre"," 605","Richmond",N,N,"",6,0,"Miao","","Wilson","Liberal","Libéral",N,Y,346
+59025,"Richmond Centre","Richmond-Centre"," 605","Richmond",N,N,"",6,0,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,150
+59025,"Richmond Centre","Richmond-Centre"," 605","Richmond",N,N,"",6,0,"Wong","","Alice","Conservative","Conservateur",Y,N,391
+59025,"Richmond Centre","Richmond-Centre"," 606","Richmond",N,N,"",3,0,"Gillanders","","Laura","Green Party","Parti Vert",N,N,15
+59025,"Richmond Centre","Richmond-Centre"," 606","Richmond",N,N,"",3,0,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,16
+59025,"Richmond Centre","Richmond-Centre"," 606","Richmond",N,N,"",3,0,"Miao","","Wilson","Liberal","Libéral",N,Y,198
+59025,"Richmond Centre","Richmond-Centre"," 606","Richmond",N,N,"",3,0,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+59025,"Richmond Centre","Richmond-Centre"," 606","Richmond",N,N,"",3,0,"Wong","","Alice","Conservative","Conservateur",Y,N,203
+59025,"Richmond Centre","Richmond-Centre"," 607","Richmond",N,N,"",7,0,"Gillanders","","Laura","Green Party","Parti Vert",N,N,25
+59025,"Richmond Centre","Richmond-Centre"," 607","Richmond",N,N,"",7,0,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,15
+59025,"Richmond Centre","Richmond-Centre"," 607","Richmond",N,N,"",7,0,"Miao","","Wilson","Liberal","Libéral",N,Y,304
+59025,"Richmond Centre","Richmond-Centre"," 607","Richmond",N,N,"",7,0,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,131
+59025,"Richmond Centre","Richmond-Centre"," 607","Richmond",N,N,"",7,0,"Wong","","Alice","Conservative","Conservateur",Y,N,357
+59025,"Richmond Centre","Richmond-Centre"," 608","Richmond",N,N,"",5,0,"Gillanders","","Laura","Green Party","Parti Vert",N,N,23
+59025,"Richmond Centre","Richmond-Centre"," 608","Richmond",N,N,"",5,0,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,20
+59025,"Richmond Centre","Richmond-Centre"," 608","Richmond",N,N,"",5,0,"Miao","","Wilson","Liberal","Libéral",N,Y,294
+59025,"Richmond Centre","Richmond-Centre"," 608","Richmond",N,N,"",5,0,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,172
+59025,"Richmond Centre","Richmond-Centre"," 608","Richmond",N,N,"",5,0,"Wong","","Alice","Conservative","Conservateur",Y,N,332
+59025,"Richmond Centre","Richmond-Centre"," 609","Richmond",N,N,"",5,0,"Gillanders","","Laura","Green Party","Parti Vert",N,N,34
+59025,"Richmond Centre","Richmond-Centre"," 609","Richmond",N,N,"",5,0,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,14
+59025,"Richmond Centre","Richmond-Centre"," 609","Richmond",N,N,"",5,0,"Miao","","Wilson","Liberal","Libéral",N,Y,352
+59025,"Richmond Centre","Richmond-Centre"," 609","Richmond",N,N,"",5,0,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,198
+59025,"Richmond Centre","Richmond-Centre"," 609","Richmond",N,N,"",5,0,"Wong","","Alice","Conservative","Conservateur",Y,N,354
+59025,"Richmond Centre","Richmond-Centre"," 610","Richmond",N,N,"",3,0,"Gillanders","","Laura","Green Party","Parti Vert",N,N,18
+59025,"Richmond Centre","Richmond-Centre"," 610","Richmond",N,N,"",3,0,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,19
+59025,"Richmond Centre","Richmond-Centre"," 610","Richmond",N,N,"",3,0,"Miao","","Wilson","Liberal","Libéral",N,Y,305
+59025,"Richmond Centre","Richmond-Centre"," 610","Richmond",N,N,"",3,0,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,118
+59025,"Richmond Centre","Richmond-Centre"," 610","Richmond",N,N,"",3,0,"Wong","","Alice","Conservative","Conservateur",Y,N,392
+59025,"Richmond Centre","Richmond-Centre"," 611","Richmond",N,N,"",4,0,"Gillanders","","Laura","Green Party","Parti Vert",N,N,13
+59025,"Richmond Centre","Richmond-Centre"," 611","Richmond",N,N,"",4,0,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,24
+59025,"Richmond Centre","Richmond-Centre"," 611","Richmond",N,N,"",4,0,"Miao","","Wilson","Liberal","Libéral",N,Y,297
+59025,"Richmond Centre","Richmond-Centre"," 611","Richmond",N,N,"",4,0,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,136
+59025,"Richmond Centre","Richmond-Centre"," 611","Richmond",N,N,"",4,0,"Wong","","Alice","Conservative","Conservateur",Y,N,395
+59025,"Richmond Centre","Richmond-Centre"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",15,307,"Gillanders","","Laura","Green Party","Parti Vert",N,N,14
+59025,"Richmond Centre","Richmond-Centre"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",15,307,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,4
+59025,"Richmond Centre","Richmond-Centre"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",15,307,"Miao","","Wilson","Liberal","Libéral",N,Y,119
+59025,"Richmond Centre","Richmond-Centre"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",15,307,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+59025,"Richmond Centre","Richmond-Centre"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",15,307,"Wong","","Alice","Conservative","Conservateur",Y,N,124
+59025,"Richmond Centre","Richmond-Centre"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",122,0,"Gillanders","","Laura","Green Party","Parti Vert",N,N,134
+59025,"Richmond Centre","Richmond-Centre"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",122,0,"Hinton","","James","People's Party - PPC","Parti populaire - PPC",N,N,72
+59025,"Richmond Centre","Richmond-Centre"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",122,0,"Miao","","Wilson","Liberal","Libéral",N,Y,1740
+59025,"Richmond Centre","Richmond-Centre"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",122,0,"Nixon","","Sandra","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,886
+59025,"Richmond Centre","Richmond-Centre"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",122,0,"Wong","","Alice","Conservative","Conservateur",Y,N,1666

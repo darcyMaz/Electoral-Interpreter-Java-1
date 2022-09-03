@@ -1,0 +1,971 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 1","Rothesay",N,N,"",2,350,"Long","","Wayne","Liberal","Libéral",Y,Y,75
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 1","Rothesay",N,N,"",2,350,"McAllister","","Ann","Green Party","Parti Vert",N,N,1
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 1","Rothesay",N,N,"",2,350,"Norton","","Mel","Conservative","Conservateur",N,N,35
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 1","Rothesay",N,N,"",2,350,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 1","Rothesay",N,N,"",2,350,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,5
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 2","Rothesay",N,N,"",1,397,"Long","","Wayne","Liberal","Libéral",Y,Y,65
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 2","Rothesay",N,N,"",1,397,"McAllister","","Ann","Green Party","Parti Vert",N,N,1
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 2","Rothesay",N,N,"",1,397,"Norton","","Mel","Conservative","Conservateur",N,N,58
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 2","Rothesay",N,N,"",1,397,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 2","Rothesay",N,N,"",1,397,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 3","Rothesay",N,N,"",0,632,"Long","","Wayne","Liberal","Libéral",Y,Y,91
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 3","Rothesay",N,N,"",0,632,"McAllister","","Ann","Green Party","Parti Vert",N,N,5
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 3","Rothesay",N,N,"",0,632,"Norton","","Mel","Conservative","Conservateur",N,N,80
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 3","Rothesay",N,N,"",0,632,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 3","Rothesay",N,N,"",0,632,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,21
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 4","Rothesay",N,N,"",1,386,"Long","","Wayne","Liberal","Libéral",Y,Y,73
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 4","Rothesay",N,N,"",1,386,"McAllister","","Ann","Green Party","Parti Vert",N,N,9
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 4","Rothesay",N,N,"",1,386,"Norton","","Mel","Conservative","Conservateur",N,N,37
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 4","Rothesay",N,N,"",1,386,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 4","Rothesay",N,N,"",1,386,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,11
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 5","Rothesay",N,N,"",1,328,"Long","","Wayne","Liberal","Libéral",Y,Y,57
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 5","Rothesay",N,N,"",1,328,"McAllister","","Ann","Green Party","Parti Vert",N,N,5
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 5","Rothesay",N,N,"",1,328,"Norton","","Mel","Conservative","Conservateur",N,N,40
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 5","Rothesay",N,N,"",1,328,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 5","Rothesay",N,N,"",1,328,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,2
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 6","Rothesay",N,N,"",1,330,"Long","","Wayne","Liberal","Libéral",Y,Y,34
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 6","Rothesay",N,N,"",1,330,"McAllister","","Ann","Green Party","Parti Vert",N,N,6
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 6","Rothesay",N,N,"",1,330,"Norton","","Mel","Conservative","Conservateur",N,N,29
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 6","Rothesay",N,N,"",1,330,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 6","Rothesay",N,N,"",1,330,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,5
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 7","Rothesay",N,N,"",2,333,"Long","","Wayne","Liberal","Libéral",Y,Y,50
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 7","Rothesay",N,N,"",2,333,"McAllister","","Ann","Green Party","Parti Vert",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 7","Rothesay",N,N,"",2,333,"Norton","","Mel","Conservative","Conservateur",N,N,29
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 7","Rothesay",N,N,"",2,333,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 7","Rothesay",N,N,"",2,333,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,9
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 8","Rothesay",N,N,"",1,411,"Long","","Wayne","Liberal","Libéral",Y,Y,59
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 8","Rothesay",N,N,"",1,411,"McAllister","","Ann","Green Party","Parti Vert",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 8","Rothesay",N,N,"",1,411,"Norton","","Mel","Conservative","Conservateur",N,N,58
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 8","Rothesay",N,N,"",1,411,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 8","Rothesay",N,N,"",1,411,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,19
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 9","Rothesay",N,N,"",0,460,"Long","","Wayne","Liberal","Libéral",Y,Y,70
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 9","Rothesay",N,N,"",0,460,"McAllister","","Ann","Green Party","Parti Vert",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 9","Rothesay",N,N,"",0,460,"Norton","","Mel","Conservative","Conservateur",N,N,77
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 9","Rothesay",N,N,"",0,460,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 9","Rothesay",N,N,"",0,460,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,8
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 10","Rothesay",N,N,"",0,419,"Long","","Wayne","Liberal","Libéral",Y,Y,92
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 10","Rothesay",N,N,"",0,419,"McAllister","","Ann","Green Party","Parti Vert",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 10","Rothesay",N,N,"",0,419,"Norton","","Mel","Conservative","Conservateur",N,N,54
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 10","Rothesay",N,N,"",0,419,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 10","Rothesay",N,N,"",0,419,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,6
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 11","Rothesay",N,N,"",2,461,"Long","","Wayne","Liberal","Libéral",Y,Y,82
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 11","Rothesay",N,N,"",2,461,"McAllister","","Ann","Green Party","Parti Vert",N,N,9
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 11","Rothesay",N,N,"",2,461,"Norton","","Mel","Conservative","Conservateur",N,N,68
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 11","Rothesay",N,N,"",2,461,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 11","Rothesay",N,N,"",2,461,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,11
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 12","Rothesay",N,N,"",0,598,"Long","","Wayne","Liberal","Libéral",Y,Y,99
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 12","Rothesay",N,N,"",0,598,"McAllister","","Ann","Green Party","Parti Vert",N,N,5
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 12","Rothesay",N,N,"",0,598,"Norton","","Mel","Conservative","Conservateur",N,N,52
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 12","Rothesay",N,N,"",0,598,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 12","Rothesay",N,N,"",0,598,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,8
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 13","Rothesay",N,N,"",0,374,"Long","","Wayne","Liberal","Libéral",Y,Y,57
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 13","Rothesay",N,N,"",0,374,"McAllister","","Ann","Green Party","Parti Vert",N,N,1
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 13","Rothesay",N,N,"",0,374,"Norton","","Mel","Conservative","Conservateur",N,N,28
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 13","Rothesay",N,N,"",0,374,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 13","Rothesay",N,N,"",0,374,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 14","Rothesay",N,N,"",1,511,"Long","","Wayne","Liberal","Libéral",Y,Y,78
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 14","Rothesay",N,N,"",1,511,"McAllister","","Ann","Green Party","Parti Vert",N,N,10
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 14","Rothesay",N,N,"",1,511,"Norton","","Mel","Conservative","Conservateur",N,N,57
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 14","Rothesay",N,N,"",1,511,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 14","Rothesay",N,N,"",1,511,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,9
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 15","Rothesay",N,N,"",1,460,"Long","","Wayne","Liberal","Libéral",Y,Y,78
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 15","Rothesay",N,N,"",1,460,"McAllister","","Ann","Green Party","Parti Vert",N,N,1
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 15","Rothesay",N,N,"",1,460,"Norton","","Mel","Conservative","Conservateur",N,N,39
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 15","Rothesay",N,N,"",1,460,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 15","Rothesay",N,N,"",1,460,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 16","Rothesay",N,N,"",0,445,"Long","","Wayne","Liberal","Libéral",Y,Y,71
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 16","Rothesay",N,N,"",0,445,"McAllister","","Ann","Green Party","Parti Vert",N,N,2
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 16","Rothesay",N,N,"",0,445,"Norton","","Mel","Conservative","Conservateur",N,N,63
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 16","Rothesay",N,N,"",0,445,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 16","Rothesay",N,N,"",0,445,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,7
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 17","Rothesay",N,N,"",1,459,"Long","","Wayne","Liberal","Libéral",Y,Y,73
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 17","Rothesay",N,N,"",1,459,"McAllister","","Ann","Green Party","Parti Vert",N,N,7
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 17","Rothesay",N,N,"",1,459,"Norton","","Mel","Conservative","Conservateur",N,N,62
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 17","Rothesay",N,N,"",1,459,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 17","Rothesay",N,N,"",1,459,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 18","Saint John",N,N,"",1,373,"Long","","Wayne","Liberal","Libéral",Y,Y,61
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 18","Saint John",N,N,"",1,373,"McAllister","","Ann","Green Party","Parti Vert",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 18","Saint John",N,N,"",1,373,"Norton","","Mel","Conservative","Conservateur",N,N,53
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 18","Saint John",N,N,"",1,373,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 18","Saint John",N,N,"",1,373,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,10
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 19","Saint John",N,N,"",2,425,"Long","","Wayne","Liberal","Libéral",Y,Y,59
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 19","Saint John",N,N,"",2,425,"McAllister","","Ann","Green Party","Parti Vert",N,N,8
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 19","Saint John",N,N,"",2,425,"Norton","","Mel","Conservative","Conservateur",N,N,70
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 19","Saint John",N,N,"",2,425,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 19","Saint John",N,N,"",2,425,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 20","Saint John",N,N,"",0,367,"Long","","Wayne","Liberal","Libéral",Y,Y,61
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 20","Saint John",N,N,"",0,367,"McAllister","","Ann","Green Party","Parti Vert",N,N,2
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 20","Saint John",N,N,"",0,367,"Norton","","Mel","Conservative","Conservateur",N,N,33
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 20","Saint John",N,N,"",0,367,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 20","Saint John",N,N,"",0,367,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,6
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 21","Saint John",N,N,"",2,405,"Long","","Wayne","Liberal","Libéral",Y,Y,52
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 21","Saint John",N,N,"",2,405,"McAllister","","Ann","Green Party","Parti Vert",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 21","Saint John",N,N,"",2,405,"Norton","","Mel","Conservative","Conservateur",N,N,56
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 21","Saint John",N,N,"",2,405,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 21","Saint John",N,N,"",2,405,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,19
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 22","Rothesay",N,N,"",1,435,"Long","","Wayne","Liberal","Libéral",Y,Y,89
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 22","Rothesay",N,N,"",1,435,"McAllister","","Ann","Green Party","Parti Vert",N,N,2
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 22","Rothesay",N,N,"",1,435,"Norton","","Mel","Conservative","Conservateur",N,N,50
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 22","Rothesay",N,N,"",1,435,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 22","Rothesay",N,N,"",1,435,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 23","Rothesay",N,N,"",0,338,"Long","","Wayne","Liberal","Libéral",Y,Y,62
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 23","Rothesay",N,N,"",0,338,"McAllister","","Ann","Green Party","Parti Vert",N,N,2
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 23","Rothesay",N,N,"",0,338,"Norton","","Mel","Conservative","Conservateur",N,N,38
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 23","Rothesay",N,N,"",0,338,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 23","Rothesay",N,N,"",0,338,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 24","Rothesay",N,N,"",0,504,"Long","","Wayne","Liberal","Libéral",Y,Y,109
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 24","Rothesay",N,N,"",0,504,"McAllister","","Ann","Green Party","Parti Vert",N,N,5
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 24","Rothesay",N,N,"",0,504,"Norton","","Mel","Conservative","Conservateur",N,N,70
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 24","Rothesay",N,N,"",0,504,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 24","Rothesay",N,N,"",0,504,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,5
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 25","Rothesay",N,N,"",3,301,"Long","","Wayne","Liberal","Libéral",Y,Y,66
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 25","Rothesay",N,N,"",3,301,"McAllister","","Ann","Green Party","Parti Vert",N,N,8
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 25","Rothesay",N,N,"",3,301,"Norton","","Mel","Conservative","Conservateur",N,N,50
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 25","Rothesay",N,N,"",3,301,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 25","Rothesay",N,N,"",3,301,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,1
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 26","Rothesay",N,N,"",0,416,"Long","","Wayne","Liberal","Libéral",Y,Y,117
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 26","Rothesay",N,N,"",0,416,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 26","Rothesay",N,N,"",0,416,"Norton","","Mel","Conservative","Conservateur",N,N,74
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 26","Rothesay",N,N,"",0,416,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 26","Rothesay",N,N,"",0,416,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 27","Saint John",N,N,"",0,586,"Long","","Wayne","Liberal","Libéral",Y,Y,80
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 27","Saint John",N,N,"",0,586,"McAllister","","Ann","Green Party","Parti Vert",N,N,8
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 27","Saint John",N,N,"",0,586,"Norton","","Mel","Conservative","Conservateur",N,N,61
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 27","Saint John",N,N,"",0,586,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 27","Saint John",N,N,"",0,586,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,20
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 28","Saint John",N,N,"",0,509,"Long","","Wayne","Liberal","Libéral",Y,Y,65
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 28","Saint John",N,N,"",0,509,"McAllister","","Ann","Green Party","Parti Vert",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 28","Saint John",N,N,"",0,509,"Norton","","Mel","Conservative","Conservateur",N,N,42
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 28","Saint John",N,N,"",0,509,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 28","Saint John",N,N,"",0,509,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,13
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 29","Saint John",N,N,"",2,564,"Long","","Wayne","Liberal","Libéral",Y,Y,77
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 29","Saint John",N,N,"",2,564,"McAllister","","Ann","Green Party","Parti Vert",N,N,9
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 29","Saint John",N,N,"",2,564,"Norton","","Mel","Conservative","Conservateur",N,N,75
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 29","Saint John",N,N,"",2,564,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 29","Saint John",N,N,"",2,564,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,20
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 30","Saint John",N,N,"",0,359,"Long","","Wayne","Liberal","Libéral",Y,Y,61
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 30","Saint John",N,N,"",0,359,"McAllister","","Ann","Green Party","Parti Vert",N,N,1
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 30","Saint John",N,N,"",0,359,"Norton","","Mel","Conservative","Conservateur",N,N,32
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 30","Saint John",N,N,"",0,359,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 30","Saint John",N,N,"",0,359,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 31","Saint John",N,N,"",0,580,"Long","","Wayne","Liberal","Libéral",Y,Y,55
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 31","Saint John",N,N,"",0,580,"McAllister","","Ann","Green Party","Parti Vert",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 31","Saint John",N,N,"",0,580,"Norton","","Mel","Conservative","Conservateur",N,N,42
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 31","Saint John",N,N,"",0,580,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 31","Saint John",N,N,"",0,580,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,22
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 32","Saint John",N,N,"",1,367,"Long","","Wayne","Liberal","Libéral",Y,Y,40
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 32","Saint John",N,N,"",1,367,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 32","Saint John",N,N,"",1,367,"Norton","","Mel","Conservative","Conservateur",N,N,24
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 32","Saint John",N,N,"",1,367,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 32","Saint John",N,N,"",1,367,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,7
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 33","Saint John",N,N,"",0,366,"Long","","Wayne","Liberal","Libéral",Y,Y,40
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 33","Saint John",N,N,"",0,366,"McAllister","","Ann","Green Party","Parti Vert",N,N,1
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 33","Saint John",N,N,"",0,366,"Norton","","Mel","Conservative","Conservateur",N,N,23
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 33","Saint John",N,N,"",0,366,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 33","Saint John",N,N,"",0,366,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,12
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 34","Saint John",N,N,"",0,477,"Long","","Wayne","Liberal","Libéral",Y,Y,57
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 34","Saint John",N,N,"",0,477,"McAllister","","Ann","Green Party","Parti Vert",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 34","Saint John",N,N,"",0,477,"Norton","","Mel","Conservative","Conservateur",N,N,58
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 34","Saint John",N,N,"",0,477,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 34","Saint John",N,N,"",0,477,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,11
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 35","Saint John",N,N,"",0,436,"Long","","Wayne","Liberal","Libéral",Y,Y,51
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 35","Saint John",N,N,"",0,436,"McAllister","","Ann","Green Party","Parti Vert",N,N,5
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 35","Saint John",N,N,"",0,436,"Norton","","Mel","Conservative","Conservateur",N,N,34
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 35","Saint John",N,N,"",0,436,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 35","Saint John",N,N,"",0,436,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,12
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 36","Saint John",N,N,"",0,349,"Long","","Wayne","Liberal","Libéral",Y,Y,46
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 36","Saint John",N,N,"",0,349,"McAllister","","Ann","Green Party","Parti Vert",N,N,2
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 36","Saint John",N,N,"",0,349,"Norton","","Mel","Conservative","Conservateur",N,N,40
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 36","Saint John",N,N,"",0,349,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 36","Saint John",N,N,"",0,349,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,12
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 37","Saint John",N,N,"",1,354,"Long","","Wayne","Liberal","Libéral",Y,Y,41
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 37","Saint John",N,N,"",1,354,"McAllister","","Ann","Green Party","Parti Vert",N,N,5
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 37","Saint John",N,N,"",1,354,"Norton","","Mel","Conservative","Conservateur",N,N,34
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 37","Saint John",N,N,"",1,354,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 37","Saint John",N,N,"",1,354,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,1
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 38","Saint John",N,N,"",1,519,"Long","","Wayne","Liberal","Libéral",Y,Y,69
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 38","Saint John",N,N,"",1,519,"McAllister","","Ann","Green Party","Parti Vert",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 38","Saint John",N,N,"",1,519,"Norton","","Mel","Conservative","Conservateur",N,N,51
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 38","Saint John",N,N,"",1,519,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 38","Saint John",N,N,"",1,519,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,15
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 39","Saint John",N,N,"",0,456,"Long","","Wayne","Liberal","Libéral",Y,Y,69
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 39","Saint John",N,N,"",0,456,"McAllister","","Ann","Green Party","Parti Vert",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 39","Saint John",N,N,"",0,456,"Norton","","Mel","Conservative","Conservateur",N,N,29
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 39","Saint John",N,N,"",0,456,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 39","Saint John",N,N,"",0,456,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,8
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 40","Saint John",N,N,"",2,420,"Long","","Wayne","Liberal","Libéral",Y,Y,57
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 40","Saint John",N,N,"",2,420,"McAllister","","Ann","Green Party","Parti Vert",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 40","Saint John",N,N,"",2,420,"Norton","","Mel","Conservative","Conservateur",N,N,36
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 40","Saint John",N,N,"",2,420,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 40","Saint John",N,N,"",2,420,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,11
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 41","Saint John",N,N,"",0,338,"Long","","Wayne","Liberal","Libéral",Y,Y,43
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 41","Saint John",N,N,"",0,338,"McAllister","","Ann","Green Party","Parti Vert",N,N,1
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 41","Saint John",N,N,"",0,338,"Norton","","Mel","Conservative","Conservateur",N,N,34
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 41","Saint John",N,N,"",0,338,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 41","Saint John",N,N,"",0,338,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,2
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 42","Saint John",N,N,"",1,311,"Long","","Wayne","Liberal","Libéral",Y,Y,38
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 42","Saint John",N,N,"",1,311,"McAllister","","Ann","Green Party","Parti Vert",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 42","Saint John",N,N,"",1,311,"Norton","","Mel","Conservative","Conservateur",N,N,26
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 42","Saint John",N,N,"",1,311,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 42","Saint John",N,N,"",1,311,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,7
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 43","Saint John",N,N,"",0,522,"Long","","Wayne","Liberal","Libéral",Y,Y,79
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 43","Saint John",N,N,"",0,522,"McAllister","","Ann","Green Party","Parti Vert",N,N,7
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 43","Saint John",N,N,"",0,522,"Norton","","Mel","Conservative","Conservateur",N,N,49
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 43","Saint John",N,N,"",0,522,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 43","Saint John",N,N,"",0,522,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,13
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 44","Saint John",N,N,"",1,289,"Long","","Wayne","Liberal","Libéral",Y,Y,35
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 44","Saint John",N,N,"",1,289,"McAllister","","Ann","Green Party","Parti Vert",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 44","Saint John",N,N,"",1,289,"Norton","","Mel","Conservative","Conservateur",N,N,27
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 44","Saint John",N,N,"",1,289,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 44","Saint John",N,N,"",1,289,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,13
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 45","Saint John",N,N,"",1,365,"Long","","Wayne","Liberal","Libéral",Y,Y,57
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 45","Saint John",N,N,"",1,365,"McAllister","","Ann","Green Party","Parti Vert",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 45","Saint John",N,N,"",1,365,"Norton","","Mel","Conservative","Conservateur",N,N,32
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 45","Saint John",N,N,"",1,365,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 45","Saint John",N,N,"",1,365,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,11
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 46","Saint John",N,N,"",0,401,"Long","","Wayne","Liberal","Libéral",Y,Y,69
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 46","Saint John",N,N,"",0,401,"McAllister","","Ann","Green Party","Parti Vert",N,N,1
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 46","Saint John",N,N,"",0,401,"Norton","","Mel","Conservative","Conservateur",N,N,44
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 46","Saint John",N,N,"",0,401,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 46","Saint John",N,N,"",0,401,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,7
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 47","Saint John",N,N,"",1,352,"Long","","Wayne","Liberal","Libéral",Y,Y,53
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 47","Saint John",N,N,"",1,352,"McAllister","","Ann","Green Party","Parti Vert",N,N,1
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 47","Saint John",N,N,"",1,352,"Norton","","Mel","Conservative","Conservateur",N,N,45
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 47","Saint John",N,N,"",1,352,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 47","Saint John",N,N,"",1,352,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,10
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 48","Saint John",N,N,"",2,367,"Long","","Wayne","Liberal","Libéral",Y,Y,45
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 48","Saint John",N,N,"",2,367,"McAllister","","Ann","Green Party","Parti Vert",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 48","Saint John",N,N,"",2,367,"Norton","","Mel","Conservative","Conservateur",N,N,53
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 48","Saint John",N,N,"",2,367,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 48","Saint John",N,N,"",2,367,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,10
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 49","Saint John",N,N,"",0,434,"Long","","Wayne","Liberal","Libéral",Y,Y,88
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 49","Saint John",N,N,"",0,434,"McAllister","","Ann","Green Party","Parti Vert",N,N,1
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 49","Saint John",N,N,"",0,434,"Norton","","Mel","Conservative","Conservateur",N,N,43
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 49","Saint John",N,N,"",0,434,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 49","Saint John",N,N,"",0,434,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,13
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 50","Saint John",N,N,"",0,335,"Long","","Wayne","Liberal","Libéral",Y,Y,47
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 50","Saint John",N,N,"",0,335,"McAllister","","Ann","Green Party","Parti Vert",N,N,2
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 50","Saint John",N,N,"",0,335,"Norton","","Mel","Conservative","Conservateur",N,N,20
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 50","Saint John",N,N,"",0,335,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 50","Saint John",N,N,"",0,335,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,10
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 51","Saint John",N,N,"",1,563,"Long","","Wayne","Liberal","Libéral",Y,Y,90
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 51","Saint John",N,N,"",1,563,"McAllister","","Ann","Green Party","Parti Vert",N,N,6
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 51","Saint John",N,N,"",1,563,"Norton","","Mel","Conservative","Conservateur",N,N,33
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 51","Saint John",N,N,"",1,563,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 51","Saint John",N,N,"",1,563,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,6
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 52","Saint John",N,N,"",1,414,"Long","","Wayne","Liberal","Libéral",Y,Y,33
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 52","Saint John",N,N,"",1,414,"McAllister","","Ann","Green Party","Parti Vert",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 52","Saint John",N,N,"",1,414,"Norton","","Mel","Conservative","Conservateur",N,N,26
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 52","Saint John",N,N,"",1,414,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 52","Saint John",N,N,"",1,414,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,9
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 53","Saint John",N,N,"",2,561,"Long","","Wayne","Liberal","Libéral",Y,Y,90
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 53","Saint John",N,N,"",2,561,"McAllister","","Ann","Green Party","Parti Vert",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 53","Saint John",N,N,"",2,561,"Norton","","Mel","Conservative","Conservateur",N,N,45
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 53","Saint John",N,N,"",2,561,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 53","Saint John",N,N,"",2,561,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,17
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 54","Saint John",N,N,"",3,340,"Long","","Wayne","Liberal","Libéral",Y,Y,34
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 54","Saint John",N,N,"",3,340,"McAllister","","Ann","Green Party","Parti Vert",N,N,5
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 54","Saint John",N,N,"",3,340,"Norton","","Mel","Conservative","Conservateur",N,N,23
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 54","Saint John",N,N,"",3,340,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 54","Saint John",N,N,"",3,340,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 55","Saint John",N,N,"",2,507,"Long","","Wayne","Liberal","Libéral",Y,Y,77
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 55","Saint John",N,N,"",2,507,"McAllister","","Ann","Green Party","Parti Vert",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 55","Saint John",N,N,"",2,507,"Norton","","Mel","Conservative","Conservateur",N,N,48
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 55","Saint John",N,N,"",2,507,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 55","Saint John",N,N,"",2,507,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,11
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 56","Saint John",N,N,"",0,295,"Long","","Wayne","Liberal","Libéral",Y,Y,34
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 56","Saint John",N,N,"",0,295,"McAllister","","Ann","Green Party","Parti Vert",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 56","Saint John",N,N,"",0,295,"Norton","","Mel","Conservative","Conservateur",N,N,19
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 56","Saint John",N,N,"",0,295,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 56","Saint John",N,N,"",0,295,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,6
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 57","Saint John",N,N,"",0,490,"Long","","Wayne","Liberal","Libéral",Y,Y,67
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 57","Saint John",N,N,"",0,490,"McAllister","","Ann","Green Party","Parti Vert",N,N,12
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 57","Saint John",N,N,"",0,490,"Norton","","Mel","Conservative","Conservateur",N,N,34
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 57","Saint John",N,N,"",0,490,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 57","Saint John",N,N,"",0,490,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,5
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 58","Saint John",N,N,"",1,419,"Long","","Wayne","Liberal","Libéral",Y,Y,54
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 58","Saint John",N,N,"",1,419,"McAllister","","Ann","Green Party","Parti Vert",N,N,6
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 58","Saint John",N,N,"",1,419,"Norton","","Mel","Conservative","Conservateur",N,N,15
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 58","Saint John",N,N,"",1,419,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 58","Saint John",N,N,"",1,419,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,13
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 59","Saint John",N,N,"",0,468,"Long","","Wayne","Liberal","Libéral",Y,Y,35
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 59","Saint John",N,N,"",0,468,"McAllister","","Ann","Green Party","Parti Vert",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 59","Saint John",N,N,"",0,468,"Norton","","Mel","Conservative","Conservateur",N,N,27
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 59","Saint John",N,N,"",0,468,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 59","Saint John",N,N,"",0,468,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,13
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 60","Saint John",N,N,"",0,413,"Long","","Wayne","Liberal","Libéral",Y,Y,58
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 60","Saint John",N,N,"",0,413,"McAllister","","Ann","Green Party","Parti Vert",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 60","Saint John",N,N,"",0,413,"Norton","","Mel","Conservative","Conservateur",N,N,22
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 60","Saint John",N,N,"",0,413,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 60","Saint John",N,N,"",0,413,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,9
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 61","Saint John",N,N,"",0,501,"Long","","Wayne","Liberal","Libéral",Y,Y,46
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 61","Saint John",N,N,"",0,501,"McAllister","","Ann","Green Party","Parti Vert",N,N,2
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 61","Saint John",N,N,"",0,501,"Norton","","Mel","Conservative","Conservateur",N,N,23
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 61","Saint John",N,N,"",0,501,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 61","Saint John",N,N,"",0,501,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,9
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 62","Saint John",N,N,"",0,446,"Long","","Wayne","Liberal","Libéral",Y,Y,58
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 62","Saint John",N,N,"",0,446,"McAllister","","Ann","Green Party","Parti Vert",N,N,6
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 62","Saint John",N,N,"",0,446,"Norton","","Mel","Conservative","Conservateur",N,N,48
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 62","Saint John",N,N,"",0,446,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 62","Saint John",N,N,"",0,446,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 63","Saint John",N,N,"",0,700,"Long","","Wayne","Liberal","Libéral",Y,Y,89
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 63","Saint John",N,N,"",0,700,"McAllister","","Ann","Green Party","Parti Vert",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 63","Saint John",N,N,"",0,700,"Norton","","Mel","Conservative","Conservateur",N,N,47
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 63","Saint John",N,N,"",0,700,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 63","Saint John",N,N,"",0,700,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,14
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 64","Saint John",N,N,"",1,388,"Long","","Wayne","Liberal","Libéral",Y,Y,53
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 64","Saint John",N,N,"",1,388,"McAllister","","Ann","Green Party","Parti Vert",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 64","Saint John",N,N,"",1,388,"Norton","","Mel","Conservative","Conservateur",N,N,21
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 64","Saint John",N,N,"",1,388,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 64","Saint John",N,N,"",1,388,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,6
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 65","Saint John",N,N,"",2,538,"Long","","Wayne","Liberal","Libéral",Y,Y,106
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 65","Saint John",N,N,"",2,538,"McAllister","","Ann","Green Party","Parti Vert",N,N,6
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 65","Saint John",N,N,"",2,538,"Norton","","Mel","Conservative","Conservateur",N,N,55
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 65","Saint John",N,N,"",2,538,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 65","Saint John",N,N,"",2,538,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,2
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 66","Saint John",N,N,"",0,397,"Long","","Wayne","Liberal","Libéral",Y,Y,77
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 66","Saint John",N,N,"",0,397,"McAllister","","Ann","Green Party","Parti Vert",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 66","Saint John",N,N,"",0,397,"Norton","","Mel","Conservative","Conservateur",N,N,24
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 66","Saint John",N,N,"",0,397,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 66","Saint John",N,N,"",0,397,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,5
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 67","Saint John",N,N,"",0,441,"Long","","Wayne","Liberal","Libéral",Y,Y,49
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 67","Saint John",N,N,"",0,441,"McAllister","","Ann","Green Party","Parti Vert",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 67","Saint John",N,N,"",0,441,"Norton","","Mel","Conservative","Conservateur",N,N,30
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 67","Saint John",N,N,"",0,441,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 67","Saint John",N,N,"",0,441,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,9
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 68","Saint John",N,N,"",0,469,"Long","","Wayne","Liberal","Libéral",Y,Y,52
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 68","Saint John",N,N,"",0,469,"McAllister","","Ann","Green Party","Parti Vert",N,N,1
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 68","Saint John",N,N,"",0,469,"Norton","","Mel","Conservative","Conservateur",N,N,29
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 68","Saint John",N,N,"",0,469,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 68","Saint John",N,N,"",0,469,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,5
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 69","Saint John",N,N,"",2,545,"Long","","Wayne","Liberal","Libéral",Y,Y,59
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 69","Saint John",N,N,"",2,545,"McAllister","","Ann","Green Party","Parti Vert",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 69","Saint John",N,N,"",2,545,"Norton","","Mel","Conservative","Conservateur",N,N,28
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 69","Saint John",N,N,"",2,545,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 69","Saint John",N,N,"",2,545,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,19
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 70","Saint John",N,N,"",0,375,"Long","","Wayne","Liberal","Libéral",Y,Y,27
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 70","Saint John",N,N,"",0,375,"McAllister","","Ann","Green Party","Parti Vert",N,N,5
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 70","Saint John",N,N,"",0,375,"Norton","","Mel","Conservative","Conservateur",N,N,21
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 70","Saint John",N,N,"",0,375,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 70","Saint John",N,N,"",0,375,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,6
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 71","Saint John",N,N,"",0,335,"Long","","Wayne","Liberal","Libéral",Y,Y,26
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 71","Saint John",N,N,"",0,335,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 71","Saint John",N,N,"",0,335,"Norton","","Mel","Conservative","Conservateur",N,N,17
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 71","Saint John",N,N,"",0,335,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 71","Saint John",N,N,"",0,335,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,1
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 72","Saint John",N,N,"",1,429,"Long","","Wayne","Liberal","Libéral",Y,Y,35
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 72","Saint John",N,N,"",1,429,"McAllister","","Ann","Green Party","Parti Vert",N,N,1
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 72","Saint John",N,N,"",1,429,"Norton","","Mel","Conservative","Conservateur",N,N,42
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 72","Saint John",N,N,"",1,429,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 72","Saint John",N,N,"",1,429,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,11
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 73","Saint John",N,N,"",0,493,"Long","","Wayne","Liberal","Libéral",Y,Y,61
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 73","Saint John",N,N,"",0,493,"McAllister","","Ann","Green Party","Parti Vert",N,N,2
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 73","Saint John",N,N,"",0,493,"Norton","","Mel","Conservative","Conservateur",N,N,42
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 73","Saint John",N,N,"",0,493,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 73","Saint John",N,N,"",0,493,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,10
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 74","Saint John",N,N,"",0,478,"Long","","Wayne","Liberal","Libéral",Y,Y,54
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 74","Saint John",N,N,"",0,478,"McAllister","","Ann","Green Party","Parti Vert",N,N,7
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 74","Saint John",N,N,"",0,478,"Norton","","Mel","Conservative","Conservateur",N,N,41
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 74","Saint John",N,N,"",0,478,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 74","Saint John",N,N,"",0,478,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,9
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 75","Saint John",N,N,"",0,559,"Long","","Wayne","Liberal","Libéral",Y,Y,85
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 75","Saint John",N,N,"",0,559,"McAllister","","Ann","Green Party","Parti Vert",N,N,10
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 75","Saint John",N,N,"",0,559,"Norton","","Mel","Conservative","Conservateur",N,N,57
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 75","Saint John",N,N,"",0,559,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 75","Saint John",N,N,"",0,559,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,14
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 76","Saint John",N,N,"",0,467,"Long","","Wayne","Liberal","Libéral",Y,Y,69
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 76","Saint John",N,N,"",0,467,"McAllister","","Ann","Green Party","Parti Vert",N,N,7
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 76","Saint John",N,N,"",0,467,"Norton","","Mel","Conservative","Conservateur",N,N,46
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 76","Saint John",N,N,"",0,467,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 76","Saint John",N,N,"",0,467,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,18
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 77","Saint John",N,N,"",0,486,"Long","","Wayne","Liberal","Libéral",Y,Y,55
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 77","Saint John",N,N,"",0,486,"McAllister","","Ann","Green Party","Parti Vert",N,N,8
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 77","Saint John",N,N,"",0,486,"Norton","","Mel","Conservative","Conservateur",N,N,62
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 77","Saint John",N,N,"",0,486,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 77","Saint John",N,N,"",0,486,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,15
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 78","Saint John",N,N,"",0,323,"Long","","Wayne","Liberal","Libéral",Y,Y,44
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 78","Saint John",N,N,"",0,323,"McAllister","","Ann","Green Party","Parti Vert",N,N,6
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 78","Saint John",N,N,"",0,323,"Norton","","Mel","Conservative","Conservateur",N,N,38
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 78","Saint John",N,N,"",0,323,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 78","Saint John",N,N,"",0,323,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,10
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 79","Saint John",N,N,"",0,346,"Long","","Wayne","Liberal","Libéral",Y,Y,55
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 79","Saint John",N,N,"",0,346,"McAllister","","Ann","Green Party","Parti Vert",N,N,1
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 79","Saint John",N,N,"",0,346,"Norton","","Mel","Conservative","Conservateur",N,N,34
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 79","Saint John",N,N,"",0,346,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 79","Saint John",N,N,"",0,346,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,22
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 80","Saint John",N,N,"",1,325,"Long","","Wayne","Liberal","Libéral",Y,Y,51
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 80","Saint John",N,N,"",1,325,"McAllister","","Ann","Green Party","Parti Vert",N,N,8
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 80","Saint John",N,N,"",1,325,"Norton","","Mel","Conservative","Conservateur",N,N,41
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 80","Saint John",N,N,"",1,325,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 80","Saint John",N,N,"",1,325,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,7
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 81","Saint John",N,N,"",2,434,"Long","","Wayne","Liberal","Libéral",Y,Y,52
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 81","Saint John",N,N,"",2,434,"McAllister","","Ann","Green Party","Parti Vert",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 81","Saint John",N,N,"",2,434,"Norton","","Mel","Conservative","Conservateur",N,N,24
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 81","Saint John",N,N,"",2,434,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 81","Saint John",N,N,"",2,434,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,6
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 82","Saint John",N,N,"",0,349,"Long","","Wayne","Liberal","Libéral",Y,Y,30
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 82","Saint John",N,N,"",0,349,"McAllister","","Ann","Green Party","Parti Vert",N,N,6
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 82","Saint John",N,N,"",0,349,"Norton","","Mel","Conservative","Conservateur",N,N,16
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 82","Saint John",N,N,"",0,349,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 82","Saint John",N,N,"",0,349,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,10
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 83","Saint John",N,N,"",0,388,"Long","","Wayne","Liberal","Libéral",Y,Y,46
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 83","Saint John",N,N,"",0,388,"McAllister","","Ann","Green Party","Parti Vert",N,N,2
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 83","Saint John",N,N,"",0,388,"Norton","","Mel","Conservative","Conservateur",N,N,19
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 83","Saint John",N,N,"",0,388,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 83","Saint John",N,N,"",0,388,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,6
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 84","Saint John",N,N,"",1,359,"Long","","Wayne","Liberal","Libéral",Y,Y,48
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 84","Saint John",N,N,"",1,359,"McAllister","","Ann","Green Party","Parti Vert",N,N,7
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 84","Saint John",N,N,"",1,359,"Norton","","Mel","Conservative","Conservateur",N,N,16
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 84","Saint John",N,N,"",1,359,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 84","Saint John",N,N,"",1,359,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 85","Saint John",N,N,"",0,316,"Long","","Wayne","Liberal","Libéral",Y,Y,21
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 85","Saint John",N,N,"",0,316,"McAllister","","Ann","Green Party","Parti Vert",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 85","Saint John",N,N,"",0,316,"Norton","","Mel","Conservative","Conservateur",N,N,15
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 85","Saint John",N,N,"",0,316,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 85","Saint John",N,N,"",0,316,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,5
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 86","Saint John",N,N,"",1,322,"Long","","Wayne","Liberal","Libéral",Y,Y,19
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 86","Saint John",N,N,"",1,322,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 86","Saint John",N,N,"",1,322,"Norton","","Mel","Conservative","Conservateur",N,N,11
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 86","Saint John",N,N,"",1,322,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 86","Saint John",N,N,"",1,322,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,12
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 87","Saint John",N,N,"",0,384,"Long","","Wayne","Liberal","Libéral",Y,Y,44
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 87","Saint John",N,N,"",0,384,"McAllister","","Ann","Green Party","Parti Vert",N,N,6
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 87","Saint John",N,N,"",0,384,"Norton","","Mel","Conservative","Conservateur",N,N,33
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 87","Saint John",N,N,"",0,384,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 87","Saint John",N,N,"",0,384,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,7
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 88","Saint John",N,N,"",2,442,"Long","","Wayne","Liberal","Libéral",Y,Y,66
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 88","Saint John",N,N,"",2,442,"McAllister","","Ann","Green Party","Parti Vert",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 88","Saint John",N,N,"",2,442,"Norton","","Mel","Conservative","Conservateur",N,N,24
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 88","Saint John",N,N,"",2,442,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 88","Saint John",N,N,"",2,442,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,6
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 89","Saint John",N,N,"",1,299,"Long","","Wayne","Liberal","Libéral",Y,Y,41
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 89","Saint John",N,N,"",1,299,"McAllister","","Ann","Green Party","Parti Vert",N,N,1
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 89","Saint John",N,N,"",1,299,"Norton","","Mel","Conservative","Conservateur",N,N,26
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 89","Saint John",N,N,"",1,299,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 89","Saint John",N,N,"",1,299,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,9
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 90","Saint John",N,N,"",1,527,"Long","","Wayne","Liberal","Libéral",Y,Y,61
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 90","Saint John",N,N,"",1,527,"McAllister","","Ann","Green Party","Parti Vert",N,N,2
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 90","Saint John",N,N,"",1,527,"Norton","","Mel","Conservative","Conservateur",N,N,31
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 90","Saint John",N,N,"",1,527,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 90","Saint John",N,N,"",1,527,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,13
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 91","Saint John",N,N,"",0,536,"Long","","Wayne","Liberal","Libéral",Y,Y,67
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 91","Saint John",N,N,"",0,536,"McAllister","","Ann","Green Party","Parti Vert",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 91","Saint John",N,N,"",0,536,"Norton","","Mel","Conservative","Conservateur",N,N,37
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 91","Saint John",N,N,"",0,536,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 91","Saint John",N,N,"",0,536,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,10
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 92","Saint John",N,N,"",0,310,"Long","","Wayne","Liberal","Libéral",Y,Y,46
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 92","Saint John",N,N,"",0,310,"McAllister","","Ann","Green Party","Parti Vert",N,N,2
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 92","Saint John",N,N,"",0,310,"Norton","","Mel","Conservative","Conservateur",N,N,19
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 92","Saint John",N,N,"",0,310,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 92","Saint John",N,N,"",0,310,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,8
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 93","Saint John",N,N,"",0,339,"Long","","Wayne","Liberal","Libéral",Y,Y,43
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 93","Saint John",N,N,"",0,339,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 93","Saint John",N,N,"",0,339,"Norton","","Mel","Conservative","Conservateur",N,N,21
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 93","Saint John",N,N,"",0,339,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 93","Saint John",N,N,"",0,339,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,8
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 94","Saint John",N,N,"",1,373,"Long","","Wayne","Liberal","Libéral",Y,Y,36
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 94","Saint John",N,N,"",1,373,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 94","Saint John",N,N,"",1,373,"Norton","","Mel","Conservative","Conservateur",N,N,21
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 94","Saint John",N,N,"",1,373,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 94","Saint John",N,N,"",1,373,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 95","Saint John",N,N,"",0,505,"Long","","Wayne","Liberal","Libéral",Y,Y,75
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 95","Saint John",N,N,"",0,505,"McAllister","","Ann","Green Party","Parti Vert",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 95","Saint John",N,N,"",0,505,"Norton","","Mel","Conservative","Conservateur",N,N,58
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 95","Saint John",N,N,"",0,505,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 95","Saint John",N,N,"",0,505,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,5
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 96","Saint John",N,N,"",8,425,"Long","","Wayne","Liberal","Libéral",Y,Y,71
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 96","Saint John",N,N,"",8,425,"McAllister","","Ann","Green Party","Parti Vert",N,N,1
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 96","Saint John",N,N,"",8,425,"Norton","","Mel","Conservative","Conservateur",N,N,46
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 96","Saint John",N,N,"",8,425,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 96","Saint John",N,N,"",8,425,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,9
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 97","Saint John",N,N,"",0,439,"Long","","Wayne","Liberal","Libéral",Y,Y,65
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 97","Saint John",N,N,"",0,439,"McAllister","","Ann","Green Party","Parti Vert",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 97","Saint John",N,N,"",0,439,"Norton","","Mel","Conservative","Conservateur",N,N,37
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 97","Saint John",N,N,"",0,439,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 97","Saint John",N,N,"",0,439,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,9
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 98","Saint John",N,N,"",1,476,"Long","","Wayne","Liberal","Libéral",Y,Y,58
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 98","Saint John",N,N,"",1,476,"McAllister","","Ann","Green Party","Parti Vert",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 98","Saint John",N,N,"",1,476,"Norton","","Mel","Conservative","Conservateur",N,N,16
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 98","Saint John",N,N,"",1,476,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 98","Saint John",N,N,"",1,476,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,5
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 99","Saint John",N,N,"",0,481,"Long","","Wayne","Liberal","Libéral",Y,Y,77
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 99","Saint John",N,N,"",0,481,"McAllister","","Ann","Green Party","Parti Vert",N,N,7
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 99","Saint John",N,N,"",0,481,"Norton","","Mel","Conservative","Conservateur",N,N,25
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 99","Saint John",N,N,"",0,481,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 99","Saint John",N,N,"",0,481,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,9
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 100","Saint John",N,N,"",0,339,"Long","","Wayne","Liberal","Libéral",Y,Y,51
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 100","Saint John",N,N,"",0,339,"McAllister","","Ann","Green Party","Parti Vert",N,N,2
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 100","Saint John",N,N,"",0,339,"Norton","","Mel","Conservative","Conservateur",N,N,25
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 100","Saint John",N,N,"",0,339,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 100","Saint John",N,N,"",0,339,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 101","Saint John",N,N,"",1,360,"Long","","Wayne","Liberal","Libéral",Y,Y,76
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 101","Saint John",N,N,"",1,360,"McAllister","","Ann","Green Party","Parti Vert",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 101","Saint John",N,N,"",1,360,"Norton","","Mel","Conservative","Conservateur",N,N,20
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 101","Saint John",N,N,"",1,360,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 101","Saint John",N,N,"",1,360,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 102","Saint John",N,N,"",3,612,"Long","","Wayne","Liberal","Libéral",Y,Y,117
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 102","Saint John",N,N,"",3,612,"McAllister","","Ann","Green Party","Parti Vert",N,N,2
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 102","Saint John",N,N,"",3,612,"Norton","","Mel","Conservative","Conservateur",N,N,50
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 102","Saint John",N,N,"",3,612,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 102","Saint John",N,N,"",3,612,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,9
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 103","Saint John",N,N,"",1,450,"Long","","Wayne","Liberal","Libéral",Y,Y,72
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 103","Saint John",N,N,"",1,450,"McAllister","","Ann","Green Party","Parti Vert",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 103","Saint John",N,N,"",1,450,"Norton","","Mel","Conservative","Conservateur",N,N,34
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 103","Saint John",N,N,"",1,450,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 103","Saint John",N,N,"",1,450,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,5
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 104","Saint John",N,N,"",1,438,"Long","","Wayne","Liberal","Libéral",Y,Y,81
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 104","Saint John",N,N,"",1,438,"McAllister","","Ann","Green Party","Parti Vert",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 104","Saint John",N,N,"",1,438,"Norton","","Mel","Conservative","Conservateur",N,N,24
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 104","Saint John",N,N,"",1,438,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 104","Saint John",N,N,"",1,438,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,8
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 105","Saint John",N,N,"",0,337,"Long","","Wayne","Liberal","Libéral",Y,Y,69
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 105","Saint John",N,N,"",0,337,"McAllister","","Ann","Green Party","Parti Vert",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 105","Saint John",N,N,"",0,337,"Norton","","Mel","Conservative","Conservateur",N,N,20
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 105","Saint John",N,N,"",0,337,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 105","Saint John",N,N,"",0,337,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,2
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 106","Saint John",N,N,"",0,389,"Long","","Wayne","Liberal","Libéral",Y,Y,46
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 106","Saint John",N,N,"",0,389,"McAllister","","Ann","Green Party","Parti Vert",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 106","Saint John",N,N,"",0,389,"Norton","","Mel","Conservative","Conservateur",N,N,41
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 106","Saint John",N,N,"",0,389,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 106","Saint John",N,N,"",0,389,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,9
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 107","Saint John",N,N,"",1,327,"Long","","Wayne","Liberal","Libéral",Y,Y,33
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 107","Saint John",N,N,"",1,327,"McAllister","","Ann","Green Party","Parti Vert",N,N,2
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 107","Saint John",N,N,"",1,327,"Norton","","Mel","Conservative","Conservateur",N,N,24
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 107","Saint John",N,N,"",1,327,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 107","Saint John",N,N,"",1,327,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 108","Saint John",N,N,"",1,365,"Long","","Wayne","Liberal","Libéral",Y,Y,34
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 108","Saint John",N,N,"",1,365,"McAllister","","Ann","Green Party","Parti Vert",N,N,2
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 108","Saint John",N,N,"",1,365,"Norton","","Mel","Conservative","Conservateur",N,N,23
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 108","Saint John",N,N,"",1,365,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 108","Saint John",N,N,"",1,365,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,10
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 109","Saint John",N,N,"",2,423,"Long","","Wayne","Liberal","Libéral",Y,Y,35
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 109","Saint John",N,N,"",2,423,"McAllister","","Ann","Green Party","Parti Vert",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 109","Saint John",N,N,"",2,423,"Norton","","Mel","Conservative","Conservateur",N,N,23
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 109","Saint John",N,N,"",2,423,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 109","Saint John",N,N,"",2,423,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,13
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 110","Saint John",N,N,"",1,419,"Long","","Wayne","Liberal","Libéral",Y,Y,39
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 110","Saint John",N,N,"",1,419,"McAllister","","Ann","Green Party","Parti Vert",N,N,1
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 110","Saint John",N,N,"",1,419,"Norton","","Mel","Conservative","Conservateur",N,N,16
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 110","Saint John",N,N,"",1,419,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 110","Saint John",N,N,"",1,419,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,20
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 111","Saint John",N,N,"",3,497,"Long","","Wayne","Liberal","Libéral",Y,Y,58
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 111","Saint John",N,N,"",3,497,"McAllister","","Ann","Green Party","Parti Vert",N,N,5
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 111","Saint John",N,N,"",3,497,"Norton","","Mel","Conservative","Conservateur",N,N,38
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 111","Saint John",N,N,"",3,497,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 111","Saint John",N,N,"",3,497,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,7
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 112","Saint John",N,N,"",1,364,"Long","","Wayne","Liberal","Libéral",Y,Y,54
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 112","Saint John",N,N,"",1,364,"McAllister","","Ann","Green Party","Parti Vert",N,N,5
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 112","Saint John",N,N,"",1,364,"Norton","","Mel","Conservative","Conservateur",N,N,33
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 112","Saint John",N,N,"",1,364,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 112","Saint John",N,N,"",1,364,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,6
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 113","Saint John",N,N,"",0,289,"Long","","Wayne","Liberal","Libéral",Y,Y,57
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 113","Saint John",N,N,"",0,289,"McAllister","","Ann","Green Party","Parti Vert",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 113","Saint John",N,N,"",0,289,"Norton","","Mel","Conservative","Conservateur",N,N,38
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 113","Saint John",N,N,"",0,289,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 113","Saint John",N,N,"",0,289,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,7
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 114","Saint John",N,N,"",2,350,"Long","","Wayne","Liberal","Libéral",Y,Y,64
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 114","Saint John",N,N,"",2,350,"McAllister","","Ann","Green Party","Parti Vert",N,N,1
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 114","Saint John",N,N,"",2,350,"Norton","","Mel","Conservative","Conservateur",N,N,62
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 114","Saint John",N,N,"",2,350,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 114","Saint John",N,N,"",2,350,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,15
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 115","Saint John",N,N,"",2,381,"Long","","Wayne","Liberal","Libéral",Y,Y,43
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 115","Saint John",N,N,"",2,381,"McAllister","","Ann","Green Party","Parti Vert",N,N,7
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 115","Saint John",N,N,"",2,381,"Norton","","Mel","Conservative","Conservateur",N,N,50
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 115","Saint John",N,N,"",2,381,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 115","Saint John",N,N,"",2,381,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,11
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 116","Saint John",N,N,"",0,327,"Long","","Wayne","Liberal","Libéral",Y,Y,37
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 116","Saint John",N,N,"",0,327,"McAllister","","Ann","Green Party","Parti Vert",N,N,2
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 116","Saint John",N,N,"",0,327,"Norton","","Mel","Conservative","Conservateur",N,N,31
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 116","Saint John",N,N,"",0,327,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 116","Saint John",N,N,"",0,327,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,9
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 117","Saint John",N,N,"",0,319,"Long","","Wayne","Liberal","Libéral",Y,Y,42
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 117","Saint John",N,N,"",0,319,"McAllister","","Ann","Green Party","Parti Vert",N,N,1
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 117","Saint John",N,N,"",0,319,"Norton","","Mel","Conservative","Conservateur",N,N,30
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 117","Saint John",N,N,"",0,319,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 117","Saint John",N,N,"",0,319,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,10
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 118","Saint John",N,N,"",0,426,"Long","","Wayne","Liberal","Libéral",Y,Y,38
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 118","Saint John",N,N,"",0,426,"McAllister","","Ann","Green Party","Parti Vert",N,N,5
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 118","Saint John",N,N,"",0,426,"Norton","","Mel","Conservative","Conservateur",N,N,28
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 118","Saint John",N,N,"",0,426,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 118","Saint John",N,N,"",0,426,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,12
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 119","Saint John",N,N,"",0,338,"Long","","Wayne","Liberal","Libéral",Y,Y,53
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 119","Saint John",N,N,"",0,338,"McAllister","","Ann","Green Party","Parti Vert",N,N,2
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 119","Saint John",N,N,"",0,338,"Norton","","Mel","Conservative","Conservateur",N,N,26
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 119","Saint John",N,N,"",0,338,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 119","Saint John",N,N,"",0,338,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,18
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 120","Saint John",N,N,"",1,371,"Long","","Wayne","Liberal","Libéral",Y,Y,44
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 120","Saint John",N,N,"",1,371,"McAllister","","Ann","Green Party","Parti Vert",N,N,6
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 120","Saint John",N,N,"",1,371,"Norton","","Mel","Conservative","Conservateur",N,N,18
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 120","Saint John",N,N,"",1,371,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 120","Saint John",N,N,"",1,371,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,9
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 121","Saint John",N,N,"",0,461,"Long","","Wayne","Liberal","Libéral",Y,Y,54
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 121","Saint John",N,N,"",0,461,"McAllister","","Ann","Green Party","Parti Vert",N,N,6
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 121","Saint John",N,N,"",0,461,"Norton","","Mel","Conservative","Conservateur",N,N,37
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 121","Saint John",N,N,"",0,461,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 121","Saint John",N,N,"",0,461,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,21
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 122","Saint John",N,N,"",1,397,"Long","","Wayne","Liberal","Libéral",Y,Y,55
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 122","Saint John",N,N,"",1,397,"McAllister","","Ann","Green Party","Parti Vert",N,N,9
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 122","Saint John",N,N,"",1,397,"Norton","","Mel","Conservative","Conservateur",N,N,27
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 122","Saint John",N,N,"",1,397,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 122","Saint John",N,N,"",1,397,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,8
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 123","Saint John",N,N,"",0,502,"Long","","Wayne","Liberal","Libéral",Y,Y,73
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 123","Saint John",N,N,"",0,502,"McAllister","","Ann","Green Party","Parti Vert",N,N,10
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 123","Saint John",N,N,"",0,502,"Norton","","Mel","Conservative","Conservateur",N,N,95
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 123","Saint John",N,N,"",0,502,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 123","Saint John",N,N,"",0,502,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,15
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 124","Saint John",N,N,"",0,372,"Long","","Wayne","Liberal","Libéral",Y,Y,39
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 124","Saint John",N,N,"",0,372,"McAllister","","Ann","Green Party","Parti Vert",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 124","Saint John",N,N,"",0,372,"Norton","","Mel","Conservative","Conservateur",N,N,54
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 124","Saint John",N,N,"",0,372,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 124","Saint John",N,N,"",0,372,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,6
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 125","Saint John",N,N,"",1,370,"Long","","Wayne","Liberal","Libéral",Y,Y,68
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 125","Saint John",N,N,"",1,370,"McAllister","","Ann","Green Party","Parti Vert",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 125","Saint John",N,N,"",1,370,"Norton","","Mel","Conservative","Conservateur",N,N,74
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 125","Saint John",N,N,"",1,370,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 125","Saint John",N,N,"",1,370,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,16
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 126","Saint John",N,N,"",0,453,"Long","","Wayne","Liberal","Libéral",Y,Y,67
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 126","Saint John",N,N,"",0,453,"McAllister","","Ann","Green Party","Parti Vert",N,N,6
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 126","Saint John",N,N,"",0,453,"Norton","","Mel","Conservative","Conservateur",N,N,67
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 126","Saint John",N,N,"",0,453,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 126","Saint John",N,N,"",0,453,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,19
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 127","Saint John",N,N,"",1,490,"Long","","Wayne","Liberal","Libéral",Y,Y,54
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 127","Saint John",N,N,"",1,490,"McAllister","","Ann","Green Party","Parti Vert",N,N,6
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 127","Saint John",N,N,"",1,490,"Norton","","Mel","Conservative","Conservateur",N,N,28
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 127","Saint John",N,N,"",1,490,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 127","Saint John",N,N,"",1,490,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,11
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 128","Saint John",N,N,"",0,329,"Long","","Wayne","Liberal","Libéral",Y,Y,52
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 128","Saint John",N,N,"",0,329,"McAllister","","Ann","Green Party","Parti Vert",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 128","Saint John",N,N,"",0,329,"Norton","","Mel","Conservative","Conservateur",N,N,25
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 128","Saint John",N,N,"",0,329,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 128","Saint John",N,N,"",0,329,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,10
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 129","Saint John",N,N,"",3,412,"Long","","Wayne","Liberal","Libéral",Y,Y,60
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 129","Saint John",N,N,"",3,412,"McAllister","","Ann","Green Party","Parti Vert",N,N,2
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 129","Saint John",N,N,"",3,412,"Norton","","Mel","Conservative","Conservateur",N,N,36
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 129","Saint John",N,N,"",3,412,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 129","Saint John",N,N,"",3,412,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 130","Saint John",N,N,"",0,342,"Long","","Wayne","Liberal","Libéral",Y,Y,46
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 130","Saint John",N,N,"",0,342,"McAllister","","Ann","Green Party","Parti Vert",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 130","Saint John",N,N,"",0,342,"Norton","","Mel","Conservative","Conservateur",N,N,31
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 130","Saint John",N,N,"",0,342,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 130","Saint John",N,N,"",0,342,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,5
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 131","Saint John",N,N,"",0,302,"Long","","Wayne","Liberal","Libéral",Y,Y,40
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 131","Saint John",N,N,"",0,302,"McAllister","","Ann","Green Party","Parti Vert",N,N,2
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 131","Saint John",N,N,"",0,302,"Norton","","Mel","Conservative","Conservateur",N,N,39
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 131","Saint John",N,N,"",0,302,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 131","Saint John",N,N,"",0,302,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,7
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 132","Saint John",N,N,"",2,522,"Long","","Wayne","Liberal","Libéral",Y,Y,88
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 132","Saint John",N,N,"",2,522,"McAllister","","Ann","Green Party","Parti Vert",N,N,5
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 132","Saint John",N,N,"",2,522,"Norton","","Mel","Conservative","Conservateur",N,N,51
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 132","Saint John",N,N,"",2,522,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 132","Saint John",N,N,"",2,522,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,7
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 133","Saint John",N,N,"",0,443,"Long","","Wayne","Liberal","Libéral",Y,Y,78
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 133","Saint John",N,N,"",0,443,"McAllister","","Ann","Green Party","Parti Vert",N,N,5
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 133","Saint John",N,N,"",0,443,"Norton","","Mel","Conservative","Conservateur",N,N,55
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 133","Saint John",N,N,"",0,443,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 133","Saint John",N,N,"",0,443,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,6
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 134","Saint John",N,N,"",1,537,"Long","","Wayne","Liberal","Libéral",Y,Y,89
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 134","Saint John",N,N,"",1,537,"McAllister","","Ann","Green Party","Parti Vert",N,N,7
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 134","Saint John",N,N,"",1,537,"Norton","","Mel","Conservative","Conservateur",N,N,45
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 134","Saint John",N,N,"",1,537,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 134","Saint John",N,N,"",1,537,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,5
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 135","Saint John",N,N,"",0,579,"Long","","Wayne","Liberal","Libéral",Y,Y,104
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 135","Saint John",N,N,"",0,579,"McAllister","","Ann","Green Party","Parti Vert",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 135","Saint John",N,N,"",0,579,"Norton","","Mel","Conservative","Conservateur",N,N,40
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 135","Saint John",N,N,"",0,579,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 135","Saint John",N,N,"",0,579,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,7
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 136","Saint John",N,N,"",1,487,"Long","","Wayne","Liberal","Libéral",Y,Y,84
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 136","Saint John",N,N,"",1,487,"McAllister","","Ann","Green Party","Parti Vert",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 136","Saint John",N,N,"",1,487,"Norton","","Mel","Conservative","Conservateur",N,N,48
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 136","Saint John",N,N,"",1,487,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 136","Saint John",N,N,"",1,487,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,11
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 137","Saint John",N,N,"",1,406,"Long","","Wayne","Liberal","Libéral",Y,Y,74
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 137","Saint John",N,N,"",1,406,"McAllister","","Ann","Green Party","Parti Vert",N,N,5
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 137","Saint John",N,N,"",1,406,"Norton","","Mel","Conservative","Conservateur",N,N,42
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 137","Saint John",N,N,"",1,406,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 137","Saint John",N,N,"",1,406,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,7
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 138","Saint John",N,N,"",0,336,"Long","","Wayne","Liberal","Libéral",Y,Y,54
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 138","Saint John",N,N,"",0,336,"McAllister","","Ann","Green Party","Parti Vert",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 138","Saint John",N,N,"",0,336,"Norton","","Mel","Conservative","Conservateur",N,N,33
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 138","Saint John",N,N,"",0,336,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 138","Saint John",N,N,"",0,336,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,6
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 139","Saint John",N,N,"",0,436,"Long","","Wayne","Liberal","Libéral",Y,Y,47
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 139","Saint John",N,N,"",0,436,"McAllister","","Ann","Green Party","Parti Vert",N,N,7
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 139","Saint John",N,N,"",0,436,"Norton","","Mel","Conservative","Conservateur",N,N,32
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 139","Saint John",N,N,"",0,436,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 139","Saint John",N,N,"",0,436,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,14
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 140","Saint John",N,N,"",0,498,"Long","","Wayne","Liberal","Libéral",Y,Y,98
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 140","Saint John",N,N,"",0,498,"McAllister","","Ann","Green Party","Parti Vert",N,N,5
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 140","Saint John",N,N,"",0,498,"Norton","","Mel","Conservative","Conservateur",N,N,44
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 140","Saint John",N,N,"",0,498,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 140","Saint John",N,N,"",0,498,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,20
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 141","Saint John",N,N,"",1,409,"Long","","Wayne","Liberal","Libéral",Y,Y,79
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 141","Saint John",N,N,"",1,409,"McAllister","","Ann","Green Party","Parti Vert",N,N,9
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 141","Saint John",N,N,"",1,409,"Norton","","Mel","Conservative","Conservateur",N,N,29
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 141","Saint John",N,N,"",1,409,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 141","Saint John",N,N,"",1,409,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,6
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 142","Saint John",N,N,"",0,435,"Long","","Wayne","Liberal","Libéral",Y,Y,74
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 142","Saint John",N,N,"",0,435,"McAllister","","Ann","Green Party","Parti Vert",N,N,7
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 142","Saint John",N,N,"",0,435,"Norton","","Mel","Conservative","Conservateur",N,N,25
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 142","Saint John",N,N,"",0,435,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 142","Saint John",N,N,"",0,435,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,8
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 143","Saint John",N,N,"",0,449,"Long","","Wayne","Liberal","Libéral",Y,Y,68
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 143","Saint John",N,N,"",0,449,"McAllister","","Ann","Green Party","Parti Vert",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 143","Saint John",N,N,"",0,449,"Norton","","Mel","Conservative","Conservateur",N,N,39
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 143","Saint John",N,N,"",0,449,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 143","Saint John",N,N,"",0,449,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,8
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 144","Saint John",N,N,"",1,494,"Long","","Wayne","Liberal","Libéral",Y,Y,74
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 144","Saint John",N,N,"",1,494,"McAllister","","Ann","Green Party","Parti Vert",N,N,1
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 144","Saint John",N,N,"",1,494,"Norton","","Mel","Conservative","Conservateur",N,N,40
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 144","Saint John",N,N,"",1,494,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 144","Saint John",N,N,"",1,494,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,5
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 145","Saint John",N,N,"",1,409,"Long","","Wayne","Liberal","Libéral",Y,Y,75
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 145","Saint John",N,N,"",1,409,"McAllister","","Ann","Green Party","Parti Vert",N,N,3
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 145","Saint John",N,N,"",1,409,"Norton","","Mel","Conservative","Conservateur",N,N,37
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 145","Saint John",N,N,"",1,409,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 145","Saint John",N,N,"",1,409,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,2
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 146","Saint John",N,N,"",0,358,"Long","","Wayne","Liberal","Libéral",Y,Y,66
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 146","Saint John",N,N,"",0,358,"McAllister","","Ann","Green Party","Parti Vert",N,N,4
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 146","Saint John",N,N,"",0,358,"Norton","","Mel","Conservative","Conservateur",N,N,20
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 146","Saint John",N,N,"",0,358,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 146","Saint John",N,N,"",0,358,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,6
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 147","Saint John",N,N,"",0,378,"Long","","Wayne","Liberal","Libéral",Y,Y,61
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 147","Saint John",N,N,"",0,378,"McAllister","","Ann","Green Party","Parti Vert",N,N,10
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 147","Saint John",N,N,"",0,378,"Norton","","Mel","Conservative","Conservateur",N,N,67
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 147","Saint John",N,N,"",0,378,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 147","Saint John",N,N,"",0,378,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,13
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 148","Saint John",N,N,"",1,530,"Long","","Wayne","Liberal","Libéral",Y,Y,86
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 148","Saint John",N,N,"",1,530,"McAllister","","Ann","Green Party","Parti Vert",N,N,5
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 148","Saint John",N,N,"",1,530,"Norton","","Mel","Conservative","Conservateur",N,N,107
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 148","Saint John",N,N,"",1,530,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 148","Saint John",N,N,"",1,530,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,25
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 400","Saint John",N,N,"119",0,63,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 400","Saint John",N,N,"119",0,63,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 400","Saint John",N,N,"119",0,63,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 400","Saint John",N,N,"119",0,63,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 400","Saint John",N,N,"119",0,63,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 401","Saint John",N,N,"131",0,130,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 401","Saint John",N,N,"131",0,130,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 401","Saint John",N,N,"131",0,130,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 401","Saint John",N,N,"131",0,130,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 401","Saint John",N,N,"131",0,130,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 402","Saint John",N,N,"73",0,22,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 402","Saint John",N,N,"73",0,22,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 402","Saint John",N,N,"73",0,22,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 402","Saint John",N,N,"73",0,22,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 402","Saint John",N,N,"73",0,22,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 500","Mobile poll/Bureau itinérant",N,N,"46",0,8,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 500","Mobile poll/Bureau itinérant",N,N,"46",0,8,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 500","Mobile poll/Bureau itinérant",N,N,"46",0,8,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 500","Mobile poll/Bureau itinérant",N,N,"46",0,8,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 500","Mobile poll/Bureau itinérant",N,N,"46",0,8,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 501","Mobile poll/Bureau itinérant",N,N,"73",0,94,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 501","Mobile poll/Bureau itinérant",N,N,"73",0,94,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 501","Mobile poll/Bureau itinérant",N,N,"73",0,94,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 501","Mobile poll/Bureau itinérant",N,N,"73",0,94,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 501","Mobile poll/Bureau itinérant",N,N,"73",0,94,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 502","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 502","Mobile poll/Bureau itinérant",Y,N,"",0,0,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 502","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 502","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 502","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 503","Mobile poll/Bureau itinérant",N,N,"64",0,43,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 503","Mobile poll/Bureau itinérant",N,N,"64",0,43,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 503","Mobile poll/Bureau itinérant",N,N,"64",0,43,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 503","Mobile poll/Bureau itinérant",N,N,"64",0,43,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 503","Mobile poll/Bureau itinérant",N,N,"64",0,43,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 504","Mobile poll/Bureau itinérant",N,N,"65",0,68,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 504","Mobile poll/Bureau itinérant",N,N,"65",0,68,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 504","Mobile poll/Bureau itinérant",N,N,"65",0,68,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 504","Mobile poll/Bureau itinérant",N,N,"65",0,68,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 504","Mobile poll/Bureau itinérant",N,N,"65",0,68,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 505","Mobile poll/Bureau itinérant",N,N,"66",0,10,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 505","Mobile poll/Bureau itinérant",N,N,"66",0,10,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 505","Mobile poll/Bureau itinérant",N,N,"66",0,10,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 505","Mobile poll/Bureau itinérant",N,N,"66",0,10,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 505","Mobile poll/Bureau itinérant",N,N,"66",0,10,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 506","Mobile poll/Bureau itinérant",N,N,"94",0,65,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 506","Mobile poll/Bureau itinérant",N,N,"94",0,65,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 506","Mobile poll/Bureau itinérant",N,N,"94",0,65,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 506","Mobile poll/Bureau itinérant",N,N,"94",0,65,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 506","Mobile poll/Bureau itinérant",N,N,"94",0,65,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 507","Mobile poll/Bureau itinérant",N,N,"60",0,20,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 507","Mobile poll/Bureau itinérant",N,N,"60",0,20,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 507","Mobile poll/Bureau itinérant",N,N,"60",0,20,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 507","Mobile poll/Bureau itinérant",N,N,"60",0,20,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 507","Mobile poll/Bureau itinérant",N,N,"60",0,20,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 508","Mobile poll/Bureau itinérant",N,N,"60",0,155,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 508","Mobile poll/Bureau itinérant",N,N,"60",0,155,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 508","Mobile poll/Bureau itinérant",N,N,"60",0,155,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 508","Mobile poll/Bureau itinérant",N,N,"60",0,155,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 508","Mobile poll/Bureau itinérant",N,N,"60",0,155,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 509","Mobile poll/Bureau itinérant",N,N,"60",0,9,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 509","Mobile poll/Bureau itinérant",N,N,"60",0,9,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 509","Mobile poll/Bureau itinérant",N,N,"60",0,9,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 509","Mobile poll/Bureau itinérant",N,N,"60",0,9,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 509","Mobile poll/Bureau itinérant",N,N,"60",0,9,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 510","Mobile poll/Bureau itinérant",N,N,"82",0,5,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 510","Mobile poll/Bureau itinérant",N,N,"82",0,5,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 510","Mobile poll/Bureau itinérant",N,N,"82",0,5,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 510","Mobile poll/Bureau itinérant",N,N,"82",0,5,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 510","Mobile poll/Bureau itinérant",N,N,"82",0,5,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 511","Mobile poll/Bureau itinérant",N,N,"85",0,8,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 511","Mobile poll/Bureau itinérant",N,N,"85",0,8,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 511","Mobile poll/Bureau itinérant",N,N,"85",0,8,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 511","Mobile poll/Bureau itinérant",N,N,"85",0,8,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 511","Mobile poll/Bureau itinérant",N,N,"85",0,8,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 512","Mobile poll/Bureau itinérant",N,N,"84",0,16,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 512","Mobile poll/Bureau itinérant",N,N,"84",0,16,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 512","Mobile poll/Bureau itinérant",N,N,"84",0,16,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 512","Mobile poll/Bureau itinérant",N,N,"84",0,16,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 512","Mobile poll/Bureau itinérant",N,N,"84",0,16,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 513","Mobile poll/Bureau itinérant",N,N,"103",0,15,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 513","Mobile poll/Bureau itinérant",N,N,"103",0,15,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 513","Mobile poll/Bureau itinérant",N,N,"103",0,15,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 513","Mobile poll/Bureau itinérant",N,N,"103",0,15,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 513","Mobile poll/Bureau itinérant",N,N,"103",0,15,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 514","Mobile poll/Bureau itinérant",N,N,"84",0,14,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 514","Mobile poll/Bureau itinérant",N,N,"84",0,14,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 514","Mobile poll/Bureau itinérant",N,N,"84",0,14,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 514","Mobile poll/Bureau itinérant",N,N,"84",0,14,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 514","Mobile poll/Bureau itinérant",N,N,"84",0,14,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 515","Mobile poll/Bureau itinérant",N,N,"103",0,4,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 515","Mobile poll/Bureau itinérant",N,N,"103",0,4,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 515","Mobile poll/Bureau itinérant",N,N,"103",0,4,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 515","Mobile poll/Bureau itinérant",N,N,"103",0,4,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 515","Mobile poll/Bureau itinérant",N,N,"103",0,4,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 516","Mobile poll/Bureau itinérant",N,N,"106",0,40,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 516","Mobile poll/Bureau itinérant",N,N,"106",0,40,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 516","Mobile poll/Bureau itinérant",N,N,"106",0,40,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 516","Mobile poll/Bureau itinérant",N,N,"106",0,40,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 516","Mobile poll/Bureau itinérant",N,N,"106",0,40,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 517","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 517","Mobile poll/Bureau itinérant",Y,N,"",0,0,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 517","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 517","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 517","Mobile poll/Bureau itinérant",Y,N,"",0,0,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 518","Mobile poll/Bureau itinérant",N,N,"119",0,60,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 518","Mobile poll/Bureau itinérant",N,N,"119",0,60,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 518","Mobile poll/Bureau itinérant",N,N,"119",0,60,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 518","Mobile poll/Bureau itinérant",N,N,"119",0,60,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 518","Mobile poll/Bureau itinérant",N,N,"119",0,60,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 519","Mobile poll/Bureau itinérant",N,N,"138",0,8,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 519","Mobile poll/Bureau itinérant",N,N,"138",0,8,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 519","Mobile poll/Bureau itinérant",N,N,"138",0,8,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 519","Mobile poll/Bureau itinérant",N,N,"138",0,8,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 519","Mobile poll/Bureau itinérant",N,N,"138",0,8,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 520","Mobile poll/Bureau itinérant",N,N,"127",0,13,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 520","Mobile poll/Bureau itinérant",N,N,"127",0,13,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 520","Mobile poll/Bureau itinérant",N,N,"127",0,13,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 520","Mobile poll/Bureau itinérant",N,N,"127",0,13,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 520","Mobile poll/Bureau itinérant",N,N,"127",0,13,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 521","Mobile poll/Bureau itinérant",N,N,"133",0,23,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 521","Mobile poll/Bureau itinérant",N,N,"133",0,23,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 521","Mobile poll/Bureau itinérant",N,N,"133",0,23,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 521","Mobile poll/Bureau itinérant",N,N,"133",0,23,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 521","Mobile poll/Bureau itinérant",N,N,"133",0,23,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 522","Mobile poll/Bureau itinérant",N,N,"133",0,1,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 522","Mobile poll/Bureau itinérant",N,N,"133",0,1,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 522","Mobile poll/Bureau itinérant",N,N,"133",0,1,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 522","Mobile poll/Bureau itinérant",N,N,"133",0,1,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 522","Mobile poll/Bureau itinérant",N,N,"133",0,1,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 523","Mobile poll/Bureau itinérant",N,N,"133",0,62,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 523","Mobile poll/Bureau itinérant",N,N,"133",0,62,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 523","Mobile poll/Bureau itinérant",N,N,"133",0,62,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 523","Mobile poll/Bureau itinérant",N,N,"133",0,62,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 523","Mobile poll/Bureau itinérant",N,N,"133",0,62,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 524","Mobile poll/Bureau itinérant",N,N,"138",0,13,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 524","Mobile poll/Bureau itinérant",N,N,"138",0,13,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 524","Mobile poll/Bureau itinérant",N,N,"138",0,13,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 524","Mobile poll/Bureau itinérant",N,N,"138",0,13,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 524","Mobile poll/Bureau itinérant",N,N,"138",0,13,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 525","Mobile poll/Bureau itinérant",N,N,"141",0,20,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 525","Mobile poll/Bureau itinérant",N,N,"141",0,20,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 525","Mobile poll/Bureau itinérant",N,N,"141",0,20,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 525","Mobile poll/Bureau itinérant",N,N,"141",0,20,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 525","Mobile poll/Bureau itinérant",N,N,"141",0,20,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 526","Mobile poll/Bureau itinérant",N,N,"69",0,18,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 526","Mobile poll/Bureau itinérant",N,N,"69",0,18,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 526","Mobile poll/Bureau itinérant",N,N,"69",0,18,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 526","Mobile poll/Bureau itinérant",N,N,"69",0,18,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 526","Mobile poll/Bureau itinérant",N,N,"69",0,18,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 527","Mobile poll/Bureau itinérant",N,N,"71",0,99,"Long","","Wayne","Liberal","Libéral",Y,Y,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 527","Mobile poll/Bureau itinérant",N,N,"71",0,99,"McAllister","","Ann","Green Party","Parti Vert",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 527","Mobile poll/Bureau itinérant",N,N,"71",0,99,"Norton","","Mel","Conservative","Conservateur",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 527","Mobile poll/Bureau itinérant",N,N,"71",0,99,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 527","Mobile poll/Bureau itinérant",N,N,"71",0,99,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,0
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 600","Rothesay",N,N,"",14,0,"Long","","Wayne","Liberal","Libéral",Y,Y,567
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 600","Rothesay",N,N,"",14,0,"McAllister","","Ann","Green Party","Parti Vert",N,N,21
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 600","Rothesay",N,N,"",14,0,"Norton","","Mel","Conservative","Conservateur",N,N,536
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 600","Rothesay",N,N,"",14,0,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 600","Rothesay",N,N,"",14,0,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,35
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 601","Rothesay",N,N,"",4,0,"Long","","Wayne","Liberal","Libéral",Y,Y,554
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 601","Rothesay",N,N,"",4,0,"McAllister","","Ann","Green Party","Parti Vert",N,N,26
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 601","Rothesay",N,N,"",4,0,"Norton","","Mel","Conservative","Conservateur",N,N,585
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 601","Rothesay",N,N,"",4,0,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 601","Rothesay",N,N,"",4,0,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,25
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 602","Saint John",N,N,"",1,0,"Long","","Wayne","Liberal","Libéral",Y,Y,350
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 602","Saint John",N,N,"",1,0,"McAllister","","Ann","Green Party","Parti Vert",N,N,19
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 602","Saint John",N,N,"",1,0,"Norton","","Mel","Conservative","Conservateur",N,N,374
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 602","Saint John",N,N,"",1,0,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 602","Saint John",N,N,"",1,0,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,45
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 603","Saint John",N,N,"",6,0,"Long","","Wayne","Liberal","Libéral",Y,Y,468
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 603","Saint John",N,N,"",6,0,"McAllister","","Ann","Green Party","Parti Vert",N,N,18
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 603","Saint John",N,N,"",6,0,"Norton","","Mel","Conservative","Conservateur",N,N,451
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 603","Saint John",N,N,"",6,0,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,80
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 603","Saint John",N,N,"",6,0,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,54
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 604","Saint John",N,N,"",9,0,"Long","","Wayne","Liberal","Libéral",Y,Y,990
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 604","Saint John",N,N,"",9,0,"McAllister","","Ann","Green Party","Parti Vert",N,N,31
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 604","Saint John",N,N,"",9,0,"Norton","","Mel","Conservative","Conservateur",N,N,720
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 604","Saint John",N,N,"",9,0,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,100
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 604","Saint John",N,N,"",9,0,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,28
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 605","Saint John",N,N,"",1,0,"Long","","Wayne","Liberal","Libéral",Y,Y,278
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 605","Saint John",N,N,"",1,0,"McAllister","","Ann","Green Party","Parti Vert",N,N,16
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 605","Saint John",N,N,"",1,0,"Norton","","Mel","Conservative","Conservateur",N,N,164
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 605","Saint John",N,N,"",1,0,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 605","Saint John",N,N,"",1,0,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,21
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 606","Saint John",N,N,"",1,0,"Long","","Wayne","Liberal","Libéral",Y,Y,315
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 606","Saint John",N,N,"",1,0,"McAllister","","Ann","Green Party","Parti Vert",N,N,11
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 606","Saint John",N,N,"",1,0,"Norton","","Mel","Conservative","Conservateur",N,N,223
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 606","Saint John",N,N,"",1,0,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,92
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 606","Saint John",N,N,"",1,0,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,54
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 607","Saint John",N,N,"",4,0,"Long","","Wayne","Liberal","Libéral",Y,Y,753
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 607","Saint John",N,N,"",4,0,"McAllister","","Ann","Green Party","Parti Vert",N,N,36
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 607","Saint John",N,N,"",4,0,"Norton","","Mel","Conservative","Conservateur",N,N,720
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 607","Saint John",N,N,"",4,0,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,189
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 607","Saint John",N,N,"",4,0,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,77
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 608","Saint John",N,N,"",9,0,"Long","","Wayne","Liberal","Libéral",Y,Y,439
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 608","Saint John",N,N,"",9,0,"McAllister","","Ann","Green Party","Parti Vert",N,N,21
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 608","Saint John",N,N,"",9,0,"Norton","","Mel","Conservative","Conservateur",N,N,227
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 608","Saint John",N,N,"",9,0,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,114
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 608","Saint John",N,N,"",9,0,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,37
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 609","Saint John",N,N,"",13,0,"Long","","Wayne","Liberal","Libéral",Y,Y,651
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 609","Saint John",N,N,"",13,0,"McAllister","","Ann","Green Party","Parti Vert",N,N,37
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 609","Saint John",N,N,"",13,0,"Norton","","Mel","Conservative","Conservateur",N,N,420
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 609","Saint John",N,N,"",13,0,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,143
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 609","Saint John",N,N,"",13,0,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,63
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 610","Saint John",N,N,"",7,0,"Long","","Wayne","Liberal","Libéral",Y,Y,676
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 610","Saint John",N,N,"",7,0,"McAllister","","Ann","Green Party","Parti Vert",N,N,35
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 610","Saint John",N,N,"",7,0,"Norton","","Mel","Conservative","Conservateur",N,N,460
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 610","Saint John",N,N,"",7,0,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,144
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 610","Saint John",N,N,"",7,0,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,70
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 611","Saint John",N,N,"",8,0,"Long","","Wayne","Liberal","Libéral",Y,Y,762
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 611","Saint John",N,N,"",8,0,"McAllister","","Ann","Green Party","Parti Vert",N,N,16
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 611","Saint John",N,N,"",8,0,"Norton","","Mel","Conservative","Conservateur",N,N,518
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 611","Saint John",N,N,"",8,0,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,96
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 611","Saint John",N,N,"",8,0,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,48
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 612","Saint John",N,N,"",1,0,"Long","","Wayne","Liberal","Libéral",Y,Y,449
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 612","Saint John",N,N,"",1,0,"McAllister","","Ann","Green Party","Parti Vert",N,N,18
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 612","Saint John",N,N,"",1,0,"Norton","","Mel","Conservative","Conservateur",N,N,407
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 612","Saint John",N,N,"",1,0,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+13009,"Saint John--Rothesay","Saint John--Rothesay"," 612","Saint John",N,N,"",1,0,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,34
+13009,"Saint John--Rothesay","Saint John--Rothesay"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",8,112,"Long","","Wayne","Liberal","Libéral",Y,Y,160
+13009,"Saint John--Rothesay","Saint John--Rothesay"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",8,112,"McAllister","","Ann","Green Party","Parti Vert",N,N,7
+13009,"Saint John--Rothesay","Saint John--Rothesay"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",8,112,"Norton","","Mel","Conservative","Conservateur",N,N,93
+13009,"Saint John--Rothesay","Saint John--Rothesay"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",8,112,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+13009,"Saint John--Rothesay","Saint John--Rothesay"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",8,112,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,10
+13009,"Saint John--Rothesay","Saint John--Rothesay"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",22,0,"Long","","Wayne","Liberal","Libéral",Y,Y,982
+13009,"Saint John--Rothesay","Saint John--Rothesay"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",22,0,"McAllister","","Ann","Green Party","Parti Vert",N,N,41
+13009,"Saint John--Rothesay","Saint John--Rothesay"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",22,0,"Norton","","Mel","Conservative","Conservateur",N,N,649
+13009,"Saint John--Rothesay","Saint John--Rothesay"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",22,0,"Paulin","","Don","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,169
+13009,"Saint John--Rothesay","Saint John--Rothesay"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",22,0,"Pereira","","Nicholas","People's Party - PPC","Parti populaire - PPC",N,N,52

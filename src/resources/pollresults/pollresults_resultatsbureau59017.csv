@@ -1,0 +1,921 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 1","Gold Bridge",N,N,"",0,168,"Bellay","","Nicole","Green Party","Parti Vert",N,N,8
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 1","Gold Bridge",N,N,"",0,168,"Grewal","","Geet","Liberal","Libéral",N,N,22
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 1","Gold Bridge",N,N,"",0,168,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,9
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 1","Gold Bridge",N,N,"",0,168,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 1","Gold Bridge",N,N,"",0,168,"Vis","","Brad","Conservative","Conservateur",Y,Y,31
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 2","Seton Portage",N,N,"",0,204,"Bellay","","Nicole","Green Party","Parti Vert",N,N,22
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 2","Seton Portage",N,N,"",0,204,"Grewal","","Geet","Liberal","Libéral",N,N,4
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 2","Seton Portage",N,N,"",0,204,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,5
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 2","Seton Portage",N,N,"",0,204,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 2","Seton Portage",N,N,"",0,204,"Vis","","Brad","Conservative","Conservateur",Y,Y,5
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 3","Lillooet",N,N,"",4,413,"Bellay","","Nicole","Green Party","Parti Vert",N,N,12
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 3","Lillooet",N,N,"",4,413,"Grewal","","Geet","Liberal","Libéral",N,N,12
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 3","Lillooet",N,N,"",4,413,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,10
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 3","Lillooet",N,N,"",4,413,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 3","Lillooet",N,N,"",4,413,"Vis","","Brad","Conservative","Conservateur",Y,Y,45
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 4","Fountain Valley",N,N,"",2,537,"Bellay","","Nicole","Green Party","Parti Vert",N,N,9
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 4","Fountain Valley",N,N,"",2,537,"Grewal","","Geet","Liberal","Libéral",N,N,27
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 4","Fountain Valley",N,N,"",2,537,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,14
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 4","Fountain Valley",N,N,"",2,537,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,78
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 4","Fountain Valley",N,N,"",2,537,"Vis","","Brad","Conservative","Conservateur",Y,Y,49
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 5","Lillooet",N,N,"",2,396,"Bellay","","Nicole","Green Party","Parti Vert",N,N,12
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 5","Lillooet",N,N,"",2,396,"Grewal","","Geet","Liberal","Libéral",N,N,19
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 5","Lillooet",N,N,"",2,396,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,17
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 5","Lillooet",N,N,"",2,396,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 5","Lillooet",N,N,"",2,396,"Vis","","Brad","Conservative","Conservateur",Y,Y,63
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 6","Lillooet",N,N,"",0,348,"Bellay","","Nicole","Green Party","Parti Vert",N,N,13
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 6","Lillooet",N,N,"",0,348,"Grewal","","Geet","Liberal","Libéral",N,N,23
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 6","Lillooet",N,N,"",0,348,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,7
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 6","Lillooet",N,N,"",0,348,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 6","Lillooet",N,N,"",0,348,"Vis","","Brad","Conservative","Conservateur",Y,Y,22
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 7","Lillooet",N,N,"9",0,228,"Bellay","","Nicole","Green Party","Parti Vert",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 7","Lillooet",N,N,"9",0,228,"Grewal","","Geet","Liberal","Libéral",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 7","Lillooet",N,N,"9",0,228,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 7","Lillooet",N,N,"9",0,228,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 7","Lillooet",N,N,"9",0,228,"Vis","","Brad","Conservative","Conservateur",Y,Y,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 8","Lillooet",N,N,"",0,439,"Bellay","","Nicole","Green Party","Parti Vert",N,N,5
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 8","Lillooet",N,N,"",0,439,"Grewal","","Geet","Liberal","Libéral",N,N,23
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 8","Lillooet",N,N,"",0,439,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,6
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 8","Lillooet",N,N,"",0,439,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 8","Lillooet",N,N,"",0,439,"Vis","","Brad","Conservative","Conservateur",Y,Y,42
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 9","Lillooet",N,N,"",0,273,"Bellay","","Nicole","Green Party","Parti Vert",N,N,7
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 9","Lillooet",N,N,"",0,273,"Grewal","","Geet","Liberal","Libéral",N,N,21
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 9","Lillooet",N,N,"",0,273,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,15
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 9","Lillooet",N,N,"",0,273,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 9","Lillooet",N,N,"",0,273,"Vis","","Brad","Conservative","Conservateur",Y,Y,44
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 10","Lillooet",N,N,"",0,363,"Bellay","","Nicole","Green Party","Parti Vert",N,N,19
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 10","Lillooet",N,N,"",0,363,"Grewal","","Geet","Liberal","Libéral",N,N,25
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 10","Lillooet",N,N,"",0,363,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,8
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 10","Lillooet",N,N,"",0,363,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 10","Lillooet",N,N,"",0,363,"Vis","","Brad","Conservative","Conservateur",Y,Y,26
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 11","Cache Creek",N,N,"",1,500,"Bellay","","Nicole","Green Party","Parti Vert",N,N,9
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 11","Cache Creek",N,N,"",1,500,"Grewal","","Geet","Liberal","Libéral",N,N,29
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 11","Cache Creek",N,N,"",1,500,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,14
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 11","Cache Creek",N,N,"",1,500,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 11","Cache Creek",N,N,"",1,500,"Vis","","Brad","Conservative","Conservateur",Y,Y,75
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 12","Cache Creek",N,N,"",0,316,"Bellay","","Nicole","Green Party","Parti Vert",N,N,6
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 12","Cache Creek",N,N,"",0,316,"Grewal","","Geet","Liberal","Libéral",N,N,18
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 12","Cache Creek",N,N,"",0,316,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,8
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 12","Cache Creek",N,N,"",0,316,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 12","Cache Creek",N,N,"",0,316,"Vis","","Brad","Conservative","Conservateur",Y,Y,50
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 13","Cache Creek",N,N,"",0,368,"Bellay","","Nicole","Green Party","Parti Vert",N,N,5
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 13","Cache Creek",N,N,"",0,368,"Grewal","","Geet","Liberal","Libéral",N,N,23
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 13","Cache Creek",N,N,"",0,368,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,5
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 13","Cache Creek",N,N,"",0,368,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 13","Cache Creek",N,N,"",0,368,"Vis","","Brad","Conservative","Conservateur",Y,Y,39
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 14","Walhachin",N,N,"",1,253,"Bellay","","Nicole","Green Party","Parti Vert",N,N,3
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 14","Walhachin",N,N,"",1,253,"Grewal","","Geet","Liberal","Libéral",N,N,10
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 14","Walhachin",N,N,"",1,253,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,11
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 14","Walhachin",N,N,"",1,253,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 14","Walhachin",N,N,"",1,253,"Vis","","Brad","Conservative","Conservateur",Y,Y,83
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 15","Ashcroft",N,N,"",0,282,"Bellay","","Nicole","Green Party","Parti Vert",N,N,4
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 15","Ashcroft",N,N,"",0,282,"Grewal","","Geet","Liberal","Libéral",N,N,16
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 15","Ashcroft",N,N,"",0,282,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,10
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 15","Ashcroft",N,N,"",0,282,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 15","Ashcroft",N,N,"",0,282,"Vis","","Brad","Conservative","Conservateur",Y,Y,70
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 16","Ashcroft",N,N,"",1,547,"Bellay","","Nicole","Green Party","Parti Vert",N,N,14
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 16","Ashcroft",N,N,"",1,547,"Grewal","","Geet","Liberal","Libéral",N,N,31
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 16","Ashcroft",N,N,"",1,547,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,11
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 16","Ashcroft",N,N,"",1,547,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 16","Ashcroft",N,N,"",1,547,"Vis","","Brad","Conservative","Conservateur",Y,Y,102
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 17","Ashcroft",N,N,"",1,405,"Bellay","","Nicole","Green Party","Parti Vert",N,N,11
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 17","Ashcroft",N,N,"",1,405,"Grewal","","Geet","Liberal","Libéral",N,N,26
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 17","Ashcroft",N,N,"",1,405,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,10
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 17","Ashcroft",N,N,"",1,405,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 17","Ashcroft",N,N,"",1,405,"Vis","","Brad","Conservative","Conservateur",Y,Y,54
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 18","Ashcroft",N,N,"",0,449,"Bellay","","Nicole","Green Party","Parti Vert",N,N,14
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 18","Ashcroft",N,N,"",0,449,"Grewal","","Geet","Liberal","Libéral",N,N,28
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 18","Ashcroft",N,N,"",0,449,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,13
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 18","Ashcroft",N,N,"",0,449,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 18","Ashcroft",N,N,"",0,449,"Vis","","Brad","Conservative","Conservateur",Y,Y,89
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 19","Lytton",N,N,"",0,375,"Bellay","","Nicole","Green Party","Parti Vert",N,N,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 19","Lytton",N,N,"",0,375,"Grewal","","Geet","Liberal","Libéral",N,N,7
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 19","Lytton",N,N,"",0,375,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 19","Lytton",N,N,"",0,375,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 19","Lytton",N,N,"",0,375,"Vis","","Brad","Conservative","Conservateur",Y,Y,3
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 20","Lytton",N,N,"",0,612,"Bellay","","Nicole","Green Party","Parti Vert",N,N,12
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 20","Lytton",N,N,"",0,612,"Grewal","","Geet","Liberal","Libéral",N,N,9
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 20","Lytton",N,N,"",0,612,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,7
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 20","Lytton",N,N,"",0,612,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 20","Lytton",N,N,"",0,612,"Vis","","Brad","Conservative","Conservateur",Y,Y,20
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 21","Spences Bridge",N,N,"",0,260,"Bellay","","Nicole","Green Party","Parti Vert",N,N,10
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 21","Spences Bridge",N,N,"",0,260,"Grewal","","Geet","Liberal","Libéral",N,N,15
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 21","Spences Bridge",N,N,"",0,260,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,4
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 21","Spences Bridge",N,N,"",0,260,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 21","Spences Bridge",N,N,"",0,260,"Vis","","Brad","Conservative","Conservateur",Y,Y,31
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 22","Douglas 8--Sachteen",N,N,"",3,94,"Bellay","","Nicole","Green Party","Parti Vert",N,N,10
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 22","Douglas 8--Sachteen",N,N,"",3,94,"Grewal","","Geet","Liberal","Libéral",N,N,4
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 22","Douglas 8--Sachteen",N,N,"",3,94,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 22","Douglas 8--Sachteen",N,N,"",3,94,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 22","Douglas 8--Sachteen",N,N,"",3,94,"Vis","","Brad","Conservative","Conservateur",Y,Y,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 23","Boston Bar",N,N,"",1,512,"Bellay","","Nicole","Green Party","Parti Vert",N,N,15
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 23","Boston Bar",N,N,"",1,512,"Grewal","","Geet","Liberal","Libéral",N,N,54
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 23","Boston Bar",N,N,"",1,512,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,12
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 23","Boston Bar",N,N,"",1,512,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 23","Boston Bar",N,N,"",1,512,"Vis","","Brad","Conservative","Conservateur",Y,Y,84
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 24","Bear Creek",N,N,"26",0,3,"Bellay","","Nicole","Green Party","Parti Vert",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 24","Bear Creek",N,N,"26",0,3,"Grewal","","Geet","Liberal","Libéral",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 24","Bear Creek",N,N,"26",0,3,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 24","Bear Creek",N,N,"26",0,3,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 24","Bear Creek",N,N,"26",0,3,"Vis","","Brad","Conservative","Conservateur",Y,Y,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 25","Harrison Hot Springs",N,N,"",0,498,"Bellay","","Nicole","Green Party","Parti Vert",N,N,12
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 25","Harrison Hot Springs",N,N,"",0,498,"Grewal","","Geet","Liberal","Libéral",N,N,39
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 25","Harrison Hot Springs",N,N,"",0,498,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,8
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 25","Harrison Hot Springs",N,N,"",0,498,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 25","Harrison Hot Springs",N,N,"",0,498,"Vis","","Brad","Conservative","Conservateur",Y,Y,97
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 26","Harrison Hot Springs",N,N,"",0,475,"Bellay","","Nicole","Green Party","Parti Vert",N,N,15
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 26","Harrison Hot Springs",N,N,"",0,475,"Grewal","","Geet","Liberal","Libéral",N,N,66
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 26","Harrison Hot Springs",N,N,"",0,475,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,15
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 26","Harrison Hot Springs",N,N,"",0,475,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 26","Harrison Hot Springs",N,N,"",0,475,"Vis","","Brad","Conservative","Conservateur",Y,Y,54
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 27","Harrison Hot Springs",N,N,"",0,759,"Bellay","","Nicole","Green Party","Parti Vert",N,N,8
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 27","Harrison Hot Springs",N,N,"",0,759,"Grewal","","Geet","Liberal","Libéral",N,N,81
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 27","Harrison Hot Springs",N,N,"",0,759,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,13
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 27","Harrison Hot Springs",N,N,"",0,759,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,79
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 27","Harrison Hot Springs",N,N,"",0,759,"Vis","","Brad","Conservative","Conservateur",Y,Y,122
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 28","Chehalis 5",N,N,"",1,332,"Bellay","","Nicole","Green Party","Parti Vert",N,N,9
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 28","Chehalis 5",N,N,"",1,332,"Grewal","","Geet","Liberal","Libéral",N,N,26
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 28","Chehalis 5",N,N,"",1,332,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 28","Chehalis 5",N,N,"",1,332,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 28","Chehalis 5",N,N,"",1,332,"Vis","","Brad","Conservative","Conservateur",Y,Y,18
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 29","Chehalis 5",N,N,"",0,664,"Bellay","","Nicole","Green Party","Parti Vert",N,N,8
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 29","Chehalis 5",N,N,"",0,664,"Grewal","","Geet","Liberal","Libéral",N,N,87
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 29","Chehalis 5",N,N,"",0,664,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,11
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 29","Chehalis 5",N,N,"",0,664,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 29","Chehalis 5",N,N,"",0,664,"Vis","","Brad","Conservative","Conservateur",Y,Y,133
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 30","Kent",N,N,"",1,474,"Bellay","","Nicole","Green Party","Parti Vert",N,N,8
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 30","Kent",N,N,"",1,474,"Grewal","","Geet","Liberal","Libéral",N,N,35
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 30","Kent",N,N,"",1,474,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,9
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 30","Kent",N,N,"",1,474,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 30","Kent",N,N,"",1,474,"Vis","","Brad","Conservative","Conservateur",Y,Y,76
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 31","Choate--Yale",N,N,"",0,492,"Bellay","","Nicole","Green Party","Parti Vert",N,N,14
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 31","Choate--Yale",N,N,"",0,492,"Grewal","","Geet","Liberal","Libéral",N,N,27
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 31","Choate--Yale",N,N,"",0,492,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,12
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 31","Choate--Yale",N,N,"",0,492,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 31","Choate--Yale",N,N,"",0,492,"Vis","","Brad","Conservative","Conservateur",Y,Y,41
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 32","Mission",N,N,"",1,630,"Bellay","","Nicole","Green Party","Parti Vert",N,N,12
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 32","Mission",N,N,"",1,630,"Grewal","","Geet","Liberal","Libéral",N,N,38
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 32","Mission",N,N,"",1,630,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,20
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 32","Mission",N,N,"",1,630,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 32","Mission",N,N,"",1,630,"Vis","","Brad","Conservative","Conservateur",Y,Y,102
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 33","Mission",N,N,"",0,653,"Bellay","","Nicole","Green Party","Parti Vert",N,N,5
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 33","Mission",N,N,"",0,653,"Grewal","","Geet","Liberal","Libéral",N,N,50
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 33","Mission",N,N,"",0,653,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,15
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 33","Mission",N,N,"",0,653,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 33","Mission",N,N,"",0,653,"Vis","","Brad","Conservative","Conservateur",Y,Y,119
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 34","Mission",N,N,"",0,386,"Bellay","","Nicole","Green Party","Parti Vert",N,N,4
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 34","Mission",N,N,"",0,386,"Grewal","","Geet","Liberal","Libéral",N,N,24
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 34","Mission",N,N,"",0,386,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,7
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 34","Mission",N,N,"",0,386,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 34","Mission",N,N,"",0,386,"Vis","","Brad","Conservative","Conservateur",Y,Y,34
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 35","Mission",N,N,"",0,518,"Bellay","","Nicole","Green Party","Parti Vert",N,N,12
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 35","Mission",N,N,"",0,518,"Grewal","","Geet","Liberal","Libéral",N,N,29
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 35","Mission",N,N,"",0,518,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,19
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 35","Mission",N,N,"",0,518,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 35","Mission",N,N,"",0,518,"Vis","","Brad","Conservative","Conservateur",Y,Y,82
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 36","Mission",N,N,"",0,504,"Bellay","","Nicole","Green Party","Parti Vert",N,N,8
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 36","Mission",N,N,"",0,504,"Grewal","","Geet","Liberal","Libéral",N,N,31
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 36","Mission",N,N,"",0,504,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,14
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 36","Mission",N,N,"",0,504,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 36","Mission",N,N,"",0,504,"Vis","","Brad","Conservative","Conservateur",Y,Y,100
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 37","Mission",N,N,"",0,478,"Bellay","","Nicole","Green Party","Parti Vert",N,N,19
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 37","Mission",N,N,"",0,478,"Grewal","","Geet","Liberal","Libéral",N,N,44
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 37","Mission",N,N,"",0,478,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,11
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 37","Mission",N,N,"",0,478,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 37","Mission",N,N,"",0,478,"Vis","","Brad","Conservative","Conservateur",Y,Y,65
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 38","Mission",N,N,"",1,604,"Bellay","","Nicole","Green Party","Parti Vert",N,N,25
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 38","Mission",N,N,"",1,604,"Grewal","","Geet","Liberal","Libéral",N,N,54
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 38","Mission",N,N,"",1,604,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,14
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 38","Mission",N,N,"",1,604,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 38","Mission",N,N,"",1,604,"Vis","","Brad","Conservative","Conservateur",Y,Y,104
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 39","Durieu",N,N,"",0,408,"Bellay","","Nicole","Green Party","Parti Vert",N,N,14
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 39","Durieu",N,N,"",0,408,"Grewal","","Geet","Liberal","Libéral",N,N,36
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 39","Durieu",N,N,"",0,408,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,13
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 39","Durieu",N,N,"",0,408,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 39","Durieu",N,N,"",0,408,"Vis","","Brad","Conservative","Conservateur",Y,Y,98
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 40","Durieu",N,N,"",1,380,"Bellay","","Nicole","Green Party","Parti Vert",N,N,9
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 40","Durieu",N,N,"",1,380,"Grewal","","Geet","Liberal","Libéral",N,N,36
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 40","Durieu",N,N,"",1,380,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,17
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 40","Durieu",N,N,"",1,380,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 40","Durieu",N,N,"",1,380,"Vis","","Brad","Conservative","Conservateur",Y,Y,108
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 41","Durieu",N,N,"",0,325,"Bellay","","Nicole","Green Party","Parti Vert",N,N,6
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 41","Durieu",N,N,"",0,325,"Grewal","","Geet","Liberal","Libéral",N,N,34
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 41","Durieu",N,N,"",0,325,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,10
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 41","Durieu",N,N,"",0,325,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 41","Durieu",N,N,"",0,325,"Vis","","Brad","Conservative","Conservateur",Y,Y,71
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 42","Mission",N,N,"",1,725,"Bellay","","Nicole","Green Party","Parti Vert",N,N,17
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 42","Mission",N,N,"",1,725,"Grewal","","Geet","Liberal","Libéral",N,N,39
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 42","Mission",N,N,"",1,725,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,35
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 42","Mission",N,N,"",1,725,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 42","Mission",N,N,"",1,725,"Vis","","Brad","Conservative","Conservateur",Y,Y,130
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 43","Mission",N,N,"",1,558,"Bellay","","Nicole","Green Party","Parti Vert",N,N,9
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 43","Mission",N,N,"",1,558,"Grewal","","Geet","Liberal","Libéral",N,N,46
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 43","Mission",N,N,"",1,558,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,6
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 43","Mission",N,N,"",1,558,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 43","Mission",N,N,"",1,558,"Vis","","Brad","Conservative","Conservateur",Y,Y,95
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 44","Mission",N,N,"",0,478,"Bellay","","Nicole","Green Party","Parti Vert",N,N,9
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 44","Mission",N,N,"",0,478,"Grewal","","Geet","Liberal","Libéral",N,N,24
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 44","Mission",N,N,"",0,478,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,8
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 44","Mission",N,N,"",0,478,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 44","Mission",N,N,"",0,478,"Vis","","Brad","Conservative","Conservateur",Y,Y,106
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 45","Mission",N,N,"",0,614,"Bellay","","Nicole","Green Party","Parti Vert",N,N,10
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 45","Mission",N,N,"",0,614,"Grewal","","Geet","Liberal","Libéral",N,N,56
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 45","Mission",N,N,"",0,614,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,11
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 45","Mission",N,N,"",0,614,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 45","Mission",N,N,"",0,614,"Vis","","Brad","Conservative","Conservateur",Y,Y,113
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 46","Mission",N,N,"",1,490,"Bellay","","Nicole","Green Party","Parti Vert",N,N,7
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 46","Mission",N,N,"",1,490,"Grewal","","Geet","Liberal","Libéral",N,N,63
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 46","Mission",N,N,"",1,490,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,6
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 46","Mission",N,N,"",1,490,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 46","Mission",N,N,"",1,490,"Vis","","Brad","Conservative","Conservateur",Y,Y,80
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 47","Mission",N,N,"",1,448,"Bellay","","Nicole","Green Party","Parti Vert",N,N,4
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 47","Mission",N,N,"",1,448,"Grewal","","Geet","Liberal","Libéral",N,N,46
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 47","Mission",N,N,"",1,448,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,10
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 47","Mission",N,N,"",1,448,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 47","Mission",N,N,"",1,448,"Vis","","Brad","Conservative","Conservateur",Y,Y,64
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 48","Mission",N,N,"",0,575,"Bellay","","Nicole","Green Party","Parti Vert",N,N,14
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 48","Mission",N,N,"",0,575,"Grewal","","Geet","Liberal","Libéral",N,N,37
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 48","Mission",N,N,"",0,575,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,14
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 48","Mission",N,N,"",0,575,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 48","Mission",N,N,"",0,575,"Vis","","Brad","Conservative","Conservateur",Y,Y,90
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 49","Mission",N,N,"",1,487,"Bellay","","Nicole","Green Party","Parti Vert",N,N,10
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 49","Mission",N,N,"",1,487,"Grewal","","Geet","Liberal","Libéral",N,N,53
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 49","Mission",N,N,"",1,487,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,10
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 49","Mission",N,N,"",1,487,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 49","Mission",N,N,"",1,487,"Vis","","Brad","Conservative","Conservateur",Y,Y,51
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 50","Mission",N,N,"",0,538,"Bellay","","Nicole","Green Party","Parti Vert",N,N,6
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 50","Mission",N,N,"",0,538,"Grewal","","Geet","Liberal","Libéral",N,N,41
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 50","Mission",N,N,"",0,538,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,9
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 50","Mission",N,N,"",0,538,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 50","Mission",N,N,"",0,538,"Vis","","Brad","Conservative","Conservateur",Y,Y,88
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 51","Mission",N,N,"",5,595,"Bellay","","Nicole","Green Party","Parti Vert",N,N,7
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 51","Mission",N,N,"",5,595,"Grewal","","Geet","Liberal","Libéral",N,N,71
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 51","Mission",N,N,"",5,595,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,13
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 51","Mission",N,N,"",5,595,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 51","Mission",N,N,"",5,595,"Vis","","Brad","Conservative","Conservateur",Y,Y,84
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 52","Mission",N,N,"",4,448,"Bellay","","Nicole","Green Party","Parti Vert",N,N,9
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 52","Mission",N,N,"",4,448,"Grewal","","Geet","Liberal","Libéral",N,N,59
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 52","Mission",N,N,"",4,448,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,5
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 52","Mission",N,N,"",4,448,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 52","Mission",N,N,"",4,448,"Vis","","Brad","Conservative","Conservateur",Y,Y,67
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 53","Mission",N,N,"",0,509,"Bellay","","Nicole","Green Party","Parti Vert",N,N,4
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 53","Mission",N,N,"",0,509,"Grewal","","Geet","Liberal","Libéral",N,N,60
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 53","Mission",N,N,"",0,509,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,15
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 53","Mission",N,N,"",0,509,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 53","Mission",N,N,"",0,509,"Vis","","Brad","Conservative","Conservateur",Y,Y,59
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 54","Mission",N,N,"",1,544,"Bellay","","Nicole","Green Party","Parti Vert",N,N,10
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 54","Mission",N,N,"",1,544,"Grewal","","Geet","Liberal","Libéral",N,N,52
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 54","Mission",N,N,"",1,544,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,8
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 54","Mission",N,N,"",1,544,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 54","Mission",N,N,"",1,544,"Vis","","Brad","Conservative","Conservateur",Y,Y,74
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 55","Mission",N,N,"",3,506,"Bellay","","Nicole","Green Party","Parti Vert",N,N,10
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 55","Mission",N,N,"",3,506,"Grewal","","Geet","Liberal","Libéral",N,N,54
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 55","Mission",N,N,"",3,506,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,14
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 55","Mission",N,N,"",3,506,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 55","Mission",N,N,"",3,506,"Vis","","Brad","Conservative","Conservateur",Y,Y,53
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 56","Mission",N,N,"",1,447,"Bellay","","Nicole","Green Party","Parti Vert",N,N,9
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 56","Mission",N,N,"",1,447,"Grewal","","Geet","Liberal","Libéral",N,N,43
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 56","Mission",N,N,"",1,447,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,16
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 56","Mission",N,N,"",1,447,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 56","Mission",N,N,"",1,447,"Vis","","Brad","Conservative","Conservateur",Y,Y,87
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 57","Mission",N,N,"",0,321,"Bellay","","Nicole","Green Party","Parti Vert",N,N,6
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 57","Mission",N,N,"",0,321,"Grewal","","Geet","Liberal","Libéral",N,N,25
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 57","Mission",N,N,"",0,321,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,15
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 57","Mission",N,N,"",0,321,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 57","Mission",N,N,"",0,321,"Vis","","Brad","Conservative","Conservateur",Y,Y,51
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 58","Mission",N,N,"",5,471,"Bellay","","Nicole","Green Party","Parti Vert",N,N,6
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 58","Mission",N,N,"",5,471,"Grewal","","Geet","Liberal","Libéral",N,N,64
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 58","Mission",N,N,"",5,471,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,12
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 58","Mission",N,N,"",5,471,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 58","Mission",N,N,"",5,471,"Vis","","Brad","Conservative","Conservateur",Y,Y,52
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 59","Mission",N,N,"",6,590,"Bellay","","Nicole","Green Party","Parti Vert",N,N,8
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 59","Mission",N,N,"",6,590,"Grewal","","Geet","Liberal","Libéral",N,N,69
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 59","Mission",N,N,"",6,590,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,13
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 59","Mission",N,N,"",6,590,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 59","Mission",N,N,"",6,590,"Vis","","Brad","Conservative","Conservateur",Y,Y,95
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 60","Mission",N,N,"",0,348,"Bellay","","Nicole","Green Party","Parti Vert",N,N,6
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 60","Mission",N,N,"",0,348,"Grewal","","Geet","Liberal","Libéral",N,N,25
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 60","Mission",N,N,"",0,348,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,9
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 60","Mission",N,N,"",0,348,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 60","Mission",N,N,"",0,348,"Vis","","Brad","Conservative","Conservateur",Y,Y,50
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 61","Mission",N,N,"",3,447,"Bellay","","Nicole","Green Party","Parti Vert",N,N,8
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 61","Mission",N,N,"",3,447,"Grewal","","Geet","Liberal","Libéral",N,N,41
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 61","Mission",N,N,"",3,447,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,15
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 61","Mission",N,N,"",3,447,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 61","Mission",N,N,"",3,447,"Vis","","Brad","Conservative","Conservateur",Y,Y,55
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 62","Mission",N,N,"",2,491,"Bellay","","Nicole","Green Party","Parti Vert",N,N,6
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 62","Mission",N,N,"",2,491,"Grewal","","Geet","Liberal","Libéral",N,N,54
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 62","Mission",N,N,"",2,491,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,7
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 62","Mission",N,N,"",2,491,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 62","Mission",N,N,"",2,491,"Vis","","Brad","Conservative","Conservateur",Y,Y,69
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 63","Mission",N,N,"",1,410,"Bellay","","Nicole","Green Party","Parti Vert",N,N,9
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 63","Mission",N,N,"",1,410,"Grewal","","Geet","Liberal","Libéral",N,N,34
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 63","Mission",N,N,"",1,410,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,10
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 63","Mission",N,N,"",1,410,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 63","Mission",N,N,"",1,410,"Vis","","Brad","Conservative","Conservateur",Y,Y,78
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 64","Mission",N,N,"",0,465,"Bellay","","Nicole","Green Party","Parti Vert",N,N,8
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 64","Mission",N,N,"",0,465,"Grewal","","Geet","Liberal","Libéral",N,N,44
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 64","Mission",N,N,"",0,465,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,19
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 64","Mission",N,N,"",0,465,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 64","Mission",N,N,"",0,465,"Vis","","Brad","Conservative","Conservateur",Y,Y,62
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 65","Mission",N,N,"",0,350,"Bellay","","Nicole","Green Party","Parti Vert",N,N,8
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 65","Mission",N,N,"",0,350,"Grewal","","Geet","Liberal","Libéral",N,N,17
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 65","Mission",N,N,"",0,350,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,4
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 65","Mission",N,N,"",0,350,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 65","Mission",N,N,"",0,350,"Vis","","Brad","Conservative","Conservateur",Y,Y,54
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 66","Mission",N,N,"",1,534,"Bellay","","Nicole","Green Party","Parti Vert",N,N,14
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 66","Mission",N,N,"",1,534,"Grewal","","Geet","Liberal","Libéral",N,N,50
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 66","Mission",N,N,"",1,534,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,18
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 66","Mission",N,N,"",1,534,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 66","Mission",N,N,"",1,534,"Vis","","Brad","Conservative","Conservateur",Y,Y,96
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 67","Mission",N,N,"",1,537,"Bellay","","Nicole","Green Party","Parti Vert",N,N,6
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 67","Mission",N,N,"",1,537,"Grewal","","Geet","Liberal","Libéral",N,N,39
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 67","Mission",N,N,"",1,537,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,12
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 67","Mission",N,N,"",1,537,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 67","Mission",N,N,"",1,537,"Vis","","Brad","Conservative","Conservateur",Y,Y,67
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 68","Mission",N,N,"",0,574,"Bellay","","Nicole","Green Party","Parti Vert",N,N,12
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 68","Mission",N,N,"",0,574,"Grewal","","Geet","Liberal","Libéral",N,N,62
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 68","Mission",N,N,"",0,574,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,17
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 68","Mission",N,N,"",0,574,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 68","Mission",N,N,"",0,574,"Vis","","Brad","Conservative","Conservateur",Y,Y,82
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 69","Mission",N,N,"",0,553,"Bellay","","Nicole","Green Party","Parti Vert",N,N,2
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 69","Mission",N,N,"",0,553,"Grewal","","Geet","Liberal","Libéral",N,N,54
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 69","Mission",N,N,"",0,553,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,23
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 69","Mission",N,N,"",0,553,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 69","Mission",N,N,"",0,553,"Vis","","Brad","Conservative","Conservateur",Y,Y,77
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 70","Abbotsford",N,N,"",1,544,"Bellay","","Nicole","Green Party","Parti Vert",N,N,9
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 70","Abbotsford",N,N,"",1,544,"Grewal","","Geet","Liberal","Libéral",N,N,34
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 70","Abbotsford",N,N,"",1,544,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,19
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 70","Abbotsford",N,N,"",1,544,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 70","Abbotsford",N,N,"",1,544,"Vis","","Brad","Conservative","Conservateur",Y,Y,160
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 71","Abbotsford",N,N,"",1,578,"Bellay","","Nicole","Green Party","Parti Vert",N,N,7
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 71","Abbotsford",N,N,"",1,578,"Grewal","","Geet","Liberal","Libéral",N,N,51
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 71","Abbotsford",N,N,"",1,578,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,18
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 71","Abbotsford",N,N,"",1,578,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 71","Abbotsford",N,N,"",1,578,"Vis","","Brad","Conservative","Conservateur",Y,Y,155
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 72","Abbotsford",N,N,"",0,356,"Bellay","","Nicole","Green Party","Parti Vert",N,N,7
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 72","Abbotsford",N,N,"",0,356,"Grewal","","Geet","Liberal","Libéral",N,N,17
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 72","Abbotsford",N,N,"",0,356,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,14
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 72","Abbotsford",N,N,"",0,356,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 72","Abbotsford",N,N,"",0,356,"Vis","","Brad","Conservative","Conservateur",Y,Y,103
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 73","Mission",N,N,"",1,507,"Bellay","","Nicole","Green Party","Parti Vert",N,N,8
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 73","Mission",N,N,"",1,507,"Grewal","","Geet","Liberal","Libéral",N,N,38
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 73","Mission",N,N,"",1,507,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,9
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 73","Mission",N,N,"",1,507,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 73","Mission",N,N,"",1,507,"Vis","","Brad","Conservative","Conservateur",Y,Y,70
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 74","Mission",N,N,"",0,430,"Bellay","","Nicole","Green Party","Parti Vert",N,N,6
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 74","Mission",N,N,"",0,430,"Grewal","","Geet","Liberal","Libéral",N,N,31
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 74","Mission",N,N,"",0,430,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,8
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 74","Mission",N,N,"",0,430,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 74","Mission",N,N,"",0,430,"Vis","","Brad","Conservative","Conservateur",Y,Y,64
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 75","Mission",N,N,"",1,473,"Bellay","","Nicole","Green Party","Parti Vert",N,N,11
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 75","Mission",N,N,"",1,473,"Grewal","","Geet","Liberal","Libéral",N,N,30
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 75","Mission",N,N,"",1,473,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,16
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 75","Mission",N,N,"",1,473,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 75","Mission",N,N,"",1,473,"Vis","","Brad","Conservative","Conservateur",Y,Y,56
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 76","Mission",N,N,"",2,417,"Bellay","","Nicole","Green Party","Parti Vert",N,N,11
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 76","Mission",N,N,"",2,417,"Grewal","","Geet","Liberal","Libéral",N,N,34
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 76","Mission",N,N,"",2,417,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,13
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 76","Mission",N,N,"",2,417,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 76","Mission",N,N,"",2,417,"Vis","","Brad","Conservative","Conservateur",Y,Y,68
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 77","Mission",N,N,"",0,452,"Bellay","","Nicole","Green Party","Parti Vert",N,N,6
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 77","Mission",N,N,"",0,452,"Grewal","","Geet","Liberal","Libéral",N,N,47
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 77","Mission",N,N,"",0,452,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,17
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 77","Mission",N,N,"",0,452,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 77","Mission",N,N,"",0,452,"Vis","","Brad","Conservative","Conservateur",Y,Y,39
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 78","Mission",N,N,"",0,364,"Bellay","","Nicole","Green Party","Parti Vert",N,N,4
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 78","Mission",N,N,"",0,364,"Grewal","","Geet","Liberal","Libéral",N,N,20
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 78","Mission",N,N,"",0,364,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,7
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 78","Mission",N,N,"",0,364,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 78","Mission",N,N,"",0,364,"Vis","","Brad","Conservative","Conservateur",Y,Y,38
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 79","Mission",N,N,"",1,382,"Bellay","","Nicole","Green Party","Parti Vert",N,N,9
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 79","Mission",N,N,"",1,382,"Grewal","","Geet","Liberal","Libéral",N,N,29
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 79","Mission",N,N,"",1,382,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,5
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 79","Mission",N,N,"",1,382,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 79","Mission",N,N,"",1,382,"Vis","","Brad","Conservative","Conservateur",Y,Y,52
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 80","Mission",N,N,"",1,550,"Bellay","","Nicole","Green Party","Parti Vert",N,N,13
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 80","Mission",N,N,"",1,550,"Grewal","","Geet","Liberal","Libéral",N,N,20
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 80","Mission",N,N,"",1,550,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,15
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 80","Mission",N,N,"",1,550,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 80","Mission",N,N,"",1,550,"Vis","","Brad","Conservative","Conservateur",Y,Y,81
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 81","Mission",N,N,"",0,409,"Bellay","","Nicole","Green Party","Parti Vert",N,N,3
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 81","Mission",N,N,"",0,409,"Grewal","","Geet","Liberal","Libéral",N,N,27
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 81","Mission",N,N,"",0,409,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,15
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 81","Mission",N,N,"",0,409,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 81","Mission",N,N,"",0,409,"Vis","","Brad","Conservative","Conservateur",Y,Y,29
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 82","Mission",N,N,"",5,505,"Bellay","","Nicole","Green Party","Parti Vert",N,N,3
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 82","Mission",N,N,"",5,505,"Grewal","","Geet","Liberal","Libéral",N,N,31
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 82","Mission",N,N,"",5,505,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,5
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 82","Mission",N,N,"",5,505,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 82","Mission",N,N,"",5,505,"Vis","","Brad","Conservative","Conservateur",Y,Y,77
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 83","Mission",N,N,"",0,430,"Bellay","","Nicole","Green Party","Parti Vert",N,N,5
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 83","Mission",N,N,"",0,430,"Grewal","","Geet","Liberal","Libéral",N,N,40
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 83","Mission",N,N,"",0,430,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,10
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 83","Mission",N,N,"",0,430,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 83","Mission",N,N,"",0,430,"Vis","","Brad","Conservative","Conservateur",Y,Y,39
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 84","Mission",N,N,"",2,475,"Bellay","","Nicole","Green Party","Parti Vert",N,N,5
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 84","Mission",N,N,"",2,475,"Grewal","","Geet","Liberal","Libéral",N,N,43
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 84","Mission",N,N,"",2,475,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,18
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 84","Mission",N,N,"",2,475,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 84","Mission",N,N,"",2,475,"Vis","","Brad","Conservative","Conservateur",Y,Y,71
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 85","Mission",N,N,"",1,462,"Bellay","","Nicole","Green Party","Parti Vert",N,N,11
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 85","Mission",N,N,"",1,462,"Grewal","","Geet","Liberal","Libéral",N,N,24
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 85","Mission",N,N,"",1,462,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,11
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 85","Mission",N,N,"",1,462,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 85","Mission",N,N,"",1,462,"Vis","","Brad","Conservative","Conservateur",Y,Y,68
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 86","Mission",N,N,"",0,435,"Bellay","","Nicole","Green Party","Parti Vert",N,N,4
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 86","Mission",N,N,"",0,435,"Grewal","","Geet","Liberal","Libéral",N,N,38
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 86","Mission",N,N,"",0,435,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,16
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 86","Mission",N,N,"",0,435,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 86","Mission",N,N,"",0,435,"Vis","","Brad","Conservative","Conservateur",Y,Y,61
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 87","Mission",N,N,"",0,441,"Bellay","","Nicole","Green Party","Parti Vert",N,N,8
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 87","Mission",N,N,"",0,441,"Grewal","","Geet","Liberal","Libéral",N,N,21
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 87","Mission",N,N,"",0,441,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,5
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 87","Mission",N,N,"",0,441,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 87","Mission",N,N,"",0,441,"Vis","","Brad","Conservative","Conservateur",Y,Y,43
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 88","Mission",N,N,"",0,487,"Bellay","","Nicole","Green Party","Parti Vert",N,N,9
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 88","Mission",N,N,"",0,487,"Grewal","","Geet","Liberal","Libéral",N,N,36
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 88","Mission",N,N,"",0,487,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 88","Mission",N,N,"",0,487,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 88","Mission",N,N,"",0,487,"Vis","","Brad","Conservative","Conservateur",Y,Y,78
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 89","Mission",N,N,"",1,435,"Bellay","","Nicole","Green Party","Parti Vert",N,N,7
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 89","Mission",N,N,"",1,435,"Grewal","","Geet","Liberal","Libéral",N,N,20
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 89","Mission",N,N,"",1,435,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,13
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 89","Mission",N,N,"",1,435,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 89","Mission",N,N,"",1,435,"Vis","","Brad","Conservative","Conservateur",Y,Y,62
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 90","Mission",N,N,"",0,444,"Bellay","","Nicole","Green Party","Parti Vert",N,N,7
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 90","Mission",N,N,"",0,444,"Grewal","","Geet","Liberal","Libéral",N,N,55
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 90","Mission",N,N,"",0,444,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,7
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 90","Mission",N,N,"",0,444,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 90","Mission",N,N,"",0,444,"Vis","","Brad","Conservative","Conservateur",Y,Y,55
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 91","Mission",N,N,"",0,590,"Bellay","","Nicole","Green Party","Parti Vert",N,N,16
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 91","Mission",N,N,"",0,590,"Grewal","","Geet","Liberal","Libéral",N,N,39
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 91","Mission",N,N,"",0,590,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,10
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 91","Mission",N,N,"",0,590,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 91","Mission",N,N,"",0,590,"Vis","","Brad","Conservative","Conservateur",Y,Y,44
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 92","Mission",N,N,"",1,597,"Bellay","","Nicole","Green Party","Parti Vert",N,N,10
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 92","Mission",N,N,"",1,597,"Grewal","","Geet","Liberal","Libéral",N,N,38
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 92","Mission",N,N,"",1,597,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,15
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 92","Mission",N,N,"",1,597,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 92","Mission",N,N,"",1,597,"Vis","","Brad","Conservative","Conservateur",Y,Y,26
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 93","Mission",N,N,"",0,427,"Bellay","","Nicole","Green Party","Parti Vert",N,N,10
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 93","Mission",N,N,"",0,427,"Grewal","","Geet","Liberal","Libéral",N,N,34
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 93","Mission",N,N,"",0,427,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,11
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 93","Mission",N,N,"",0,427,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 93","Mission",N,N,"",0,427,"Vis","","Brad","Conservative","Conservateur",Y,Y,38
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 94","Mission",N,N,"",0,466,"Bellay","","Nicole","Green Party","Parti Vert",N,N,3
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 94","Mission",N,N,"",0,466,"Grewal","","Geet","Liberal","Libéral",N,N,36
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 94","Mission",N,N,"",0,466,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,10
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 94","Mission",N,N,"",0,466,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 94","Mission",N,N,"",0,466,"Vis","","Brad","Conservative","Conservateur",Y,Y,59
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 95","Mission",N,N,"",0,465,"Bellay","","Nicole","Green Party","Parti Vert",N,N,16
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 95","Mission",N,N,"",0,465,"Grewal","","Geet","Liberal","Libéral",N,N,41
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 95","Mission",N,N,"",0,465,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,7
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 95","Mission",N,N,"",0,465,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 95","Mission",N,N,"",0,465,"Vis","","Brad","Conservative","Conservateur",Y,Y,55
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 96","Mission",N,N,"",1,478,"Bellay","","Nicole","Green Party","Parti Vert",N,N,6
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 96","Mission",N,N,"",1,478,"Grewal","","Geet","Liberal","Libéral",N,N,28
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 96","Mission",N,N,"",1,478,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,15
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 96","Mission",N,N,"",1,478,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 96","Mission",N,N,"",1,478,"Vis","","Brad","Conservative","Conservateur",Y,Y,53
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 97","Mission",N,N,"",2,509,"Bellay","","Nicole","Green Party","Parti Vert",N,N,10
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 97","Mission",N,N,"",2,509,"Grewal","","Geet","Liberal","Libéral",N,N,46
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 97","Mission",N,N,"",2,509,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,8
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 97","Mission",N,N,"",2,509,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 97","Mission",N,N,"",2,509,"Vis","","Brad","Conservative","Conservateur",Y,Y,68
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 98","Mission",N,N,"",0,513,"Bellay","","Nicole","Green Party","Parti Vert",N,N,15
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 98","Mission",N,N,"",0,513,"Grewal","","Geet","Liberal","Libéral",N,N,36
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 98","Mission",N,N,"",0,513,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,13
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 98","Mission",N,N,"",0,513,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 98","Mission",N,N,"",0,513,"Vis","","Brad","Conservative","Conservateur",Y,Y,49
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 99","Mission",N,N,"",0,533,"Bellay","","Nicole","Green Party","Parti Vert",N,N,9
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 99","Mission",N,N,"",0,533,"Grewal","","Geet","Liberal","Libéral",N,N,43
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 99","Mission",N,N,"",0,533,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,15
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 99","Mission",N,N,"",0,533,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 99","Mission",N,N,"",0,533,"Vis","","Brad","Conservative","Conservateur",Y,Y,55
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 100","Deroche",N,N,"",0,490,"Bellay","","Nicole","Green Party","Parti Vert",N,N,12
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 100","Deroche",N,N,"",0,490,"Grewal","","Geet","Liberal","Libéral",N,N,45
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 100","Deroche",N,N,"",0,490,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,29
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 100","Deroche",N,N,"",0,490,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 100","Deroche",N,N,"",0,490,"Vis","","Brad","Conservative","Conservateur",Y,Y,60
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 101","Lake Errock",N,N,"",0,539,"Bellay","","Nicole","Green Party","Parti Vert",N,N,12
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 101","Lake Errock",N,N,"",0,539,"Grewal","","Geet","Liberal","Libéral",N,N,51
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 101","Lake Errock",N,N,"",0,539,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,18
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 101","Lake Errock",N,N,"",0,539,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 101","Lake Errock",N,N,"",0,539,"Vis","","Brad","Conservative","Conservateur",Y,Y,75
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 102","Skweahm 10",N,N,"",1,359,"Bellay","","Nicole","Green Party","Parti Vert",N,N,5
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 102","Skweahm 10",N,N,"",1,359,"Grewal","","Geet","Liberal","Libéral",N,N,33
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 102","Skweahm 10",N,N,"",1,359,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,6
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 102","Skweahm 10",N,N,"",1,359,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 102","Skweahm 10",N,N,"",1,359,"Vis","","Brad","Conservative","Conservateur",Y,Y,72
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 103","Seabird Island ",N,N,"",2,746,"Bellay","","Nicole","Green Party","Parti Vert",N,N,11
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 103","Seabird Island ",N,N,"",2,746,"Grewal","","Geet","Liberal","Libéral",N,N,21
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 103","Seabird Island ",N,N,"",2,746,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,12
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 103","Seabird Island ",N,N,"",2,746,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 103","Seabird Island ",N,N,"",2,746,"Vis","","Brad","Conservative","Conservateur",Y,Y,37
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 104","Kent",N,N,"",0,374,"Bellay","","Nicole","Green Party","Parti Vert",N,N,10
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 104","Kent",N,N,"",0,374,"Grewal","","Geet","Liberal","Libéral",N,N,14
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 104","Kent",N,N,"",0,374,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,11
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 104","Kent",N,N,"",0,374,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 104","Kent",N,N,"",0,374,"Vis","","Brad","Conservative","Conservateur",Y,Y,68
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 105","Harrison Mills",Y,N,"",0,0,"Bellay","","Nicole","Green Party","Parti Vert",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 105","Harrison Mills",Y,N,"",0,0,"Grewal","","Geet","Liberal","Libéral",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 105","Harrison Mills",Y,N,"",0,0,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 105","Harrison Mills",Y,N,"",0,0,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 105","Harrison Mills",Y,N,"",0,0,"Vis","","Brad","Conservative","Conservateur",Y,Y,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 106","Kent",N,N,"",1,437,"Bellay","","Nicole","Green Party","Parti Vert",N,N,7
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 106","Kent",N,N,"",1,437,"Grewal","","Geet","Liberal","Libéral",N,N,14
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 106","Kent",N,N,"",1,437,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,8
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 106","Kent",N,N,"",1,437,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 106","Kent",N,N,"",1,437,"Vis","","Brad","Conservative","Conservateur",Y,Y,64
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 107","Kent",N,N,"",0,431,"Bellay","","Nicole","Green Party","Parti Vert",N,N,9
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 107","Kent",N,N,"",0,431,"Grewal","","Geet","Liberal","Libéral",N,N,30
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 107","Kent",N,N,"",0,431,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,9
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 107","Kent",N,N,"",0,431,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 107","Kent",N,N,"",0,431,"Vis","","Brad","Conservative","Conservateur",Y,Y,47
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 108","Kent",N,N,"",2,500,"Bellay","","Nicole","Green Party","Parti Vert",N,N,4
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 108","Kent",N,N,"",2,500,"Grewal","","Geet","Liberal","Libéral",N,N,33
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 108","Kent",N,N,"",2,500,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,10
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 108","Kent",N,N,"",2,500,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 108","Kent",N,N,"",2,500,"Vis","","Brad","Conservative","Conservateur",Y,Y,53
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 109","Kent",N,N,"",1,585,"Bellay","","Nicole","Green Party","Parti Vert",N,N,14
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 109","Kent",N,N,"",1,585,"Grewal","","Geet","Liberal","Libéral",N,N,30
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 109","Kent",N,N,"",1,585,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,8
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 109","Kent",N,N,"",1,585,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 109","Kent",N,N,"",1,585,"Vis","","Brad","Conservative","Conservateur",Y,Y,77
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 110","Kent",N,N,"",0,485,"Bellay","","Nicole","Green Party","Parti Vert",N,N,7
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 110","Kent",N,N,"",0,485,"Grewal","","Geet","Liberal","Libéral",N,N,21
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 110","Kent",N,N,"",0,485,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,10
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 110","Kent",N,N,"",0,485,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 110","Kent",N,N,"",0,485,"Vis","","Brad","Conservative","Conservateur",Y,Y,73
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 111","Kent",N,N,"",0,459,"Bellay","","Nicole","Green Party","Parti Vert",N,N,5
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 111","Kent",N,N,"",0,459,"Grewal","","Geet","Liberal","Libéral",N,N,23
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 111","Kent",N,N,"",0,459,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,6
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 111","Kent",N,N,"",0,459,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 111","Kent",N,N,"",0,459,"Vis","","Brad","Conservative","Conservateur",Y,Y,63
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 112","Kent",N,N,"",0,606,"Bellay","","Nicole","Green Party","Parti Vert",N,N,9
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 112","Kent",N,N,"",0,606,"Grewal","","Geet","Liberal","Libéral",N,N,26
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 112","Kent",N,N,"",0,606,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,14
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 112","Kent",N,N,"",0,606,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 112","Kent",N,N,"",0,606,"Vis","","Brad","Conservative","Conservateur",Y,Y,80
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 113","Hatzic Island",N,N,"",1,443,"Bellay","","Nicole","Green Party","Parti Vert",N,N,3
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 113","Hatzic Island",N,N,"",1,443,"Grewal","","Geet","Liberal","Libéral",N,N,32
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 113","Hatzic Island",N,N,"",1,443,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,9
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 113","Hatzic Island",N,N,"",1,443,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 113","Hatzic Island",N,N,"",1,443,"Vis","","Brad","Conservative","Conservateur",Y,Y,61
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 114","Dewdney",N,N,"",1,465,"Bellay","","Nicole","Green Party","Parti Vert",N,N,7
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 114","Dewdney",N,N,"",1,465,"Grewal","","Geet","Liberal","Libéral",N,N,51
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 114","Dewdney",N,N,"",1,465,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,16
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 114","Dewdney",N,N,"",1,465,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 114","Dewdney",N,N,"",1,465,"Vis","","Brad","Conservative","Conservateur",Y,Y,123
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 115","Nicomen",N,N,"",0,300,"Bellay","","Nicole","Green Party","Parti Vert",N,N,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 115","Nicomen",N,N,"",0,300,"Grewal","","Geet","Liberal","Libéral",N,N,27
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 115","Nicomen",N,N,"",0,300,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,7
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 115","Nicomen",N,N,"",0,300,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 115","Nicomen",N,N,"",0,300,"Vis","","Brad","Conservative","Conservateur",Y,Y,69
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 116","Abbotsford",N,N,"",1,418,"Bellay","","Nicole","Green Party","Parti Vert",N,N,6
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 116","Abbotsford",N,N,"",1,418,"Grewal","","Geet","Liberal","Libéral",N,N,53
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 116","Abbotsford",N,N,"",1,418,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,26
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 116","Abbotsford",N,N,"",1,418,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 116","Abbotsford",N,N,"",1,418,"Vis","","Brad","Conservative","Conservateur",Y,Y,128
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 117","Abbotsford",N,N,"116",0,146,"Bellay","","Nicole","Green Party","Parti Vert",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 117","Abbotsford",N,N,"116",0,146,"Grewal","","Geet","Liberal","Libéral",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 117","Abbotsford",N,N,"116",0,146,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 117","Abbotsford",N,N,"116",0,146,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 117","Abbotsford",N,N,"116",0,146,"Vis","","Brad","Conservative","Conservateur",Y,Y,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 118","Abbotsford",N,N,"",2,943,"Bellay","","Nicole","Green Party","Parti Vert",N,N,5
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 118","Abbotsford",N,N,"",2,943,"Grewal","","Geet","Liberal","Libéral",N,N,114
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 118","Abbotsford",N,N,"",2,943,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,21
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 118","Abbotsford",N,N,"",2,943,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 118","Abbotsford",N,N,"",2,943,"Vis","","Brad","Conservative","Conservateur",Y,Y,124
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 119","Abbotsford",N,N,"",0,441,"Bellay","","Nicole","Green Party","Parti Vert",N,N,4
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 119","Abbotsford",N,N,"",0,441,"Grewal","","Geet","Liberal","Libéral",N,N,78
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 119","Abbotsford",N,N,"",0,441,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 119","Abbotsford",N,N,"",0,441,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 119","Abbotsford",N,N,"",0,441,"Vis","","Brad","Conservative","Conservateur",Y,Y,50
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 120","Abbotsford",N,N,"",3,326,"Bellay","","Nicole","Green Party","Parti Vert",N,N,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 120","Abbotsford",N,N,"",3,326,"Grewal","","Geet","Liberal","Libéral",N,N,68
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 120","Abbotsford",N,N,"",3,326,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,6
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 120","Abbotsford",N,N,"",3,326,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 120","Abbotsford",N,N,"",3,326,"Vis","","Brad","Conservative","Conservateur",Y,Y,30
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 121","Abbotsford",N,N,"",2,502,"Bellay","","Nicole","Green Party","Parti Vert",N,N,3
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 121","Abbotsford",N,N,"",2,502,"Grewal","","Geet","Liberal","Libéral",N,N,114
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 121","Abbotsford",N,N,"",2,502,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,3
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 121","Abbotsford",N,N,"",2,502,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 121","Abbotsford",N,N,"",2,502,"Vis","","Brad","Conservative","Conservateur",Y,Y,31
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 122","Abbotsford",N,N,"",2,699,"Bellay","","Nicole","Green Party","Parti Vert",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 122","Abbotsford",N,N,"",2,699,"Grewal","","Geet","Liberal","Libéral",N,N,119
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 122","Abbotsford",N,N,"",2,699,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,3
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 122","Abbotsford",N,N,"",2,699,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 122","Abbotsford",N,N,"",2,699,"Vis","","Brad","Conservative","Conservateur",Y,Y,69
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 123","Abbotsford",N,N,"",0,524,"Bellay","","Nicole","Green Party","Parti Vert",N,N,5
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 123","Abbotsford",N,N,"",0,524,"Grewal","","Geet","Liberal","Libéral",N,N,43
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 123","Abbotsford",N,N,"",0,524,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,17
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 123","Abbotsford",N,N,"",0,524,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 123","Abbotsford",N,N,"",0,524,"Vis","","Brad","Conservative","Conservateur",Y,Y,127
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 124","Abbotsford",N,N,"",4,479,"Bellay","","Nicole","Green Party","Parti Vert",N,N,5
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 124","Abbotsford",N,N,"",4,479,"Grewal","","Geet","Liberal","Libéral",N,N,47
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 124","Abbotsford",N,N,"",4,479,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,11
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 124","Abbotsford",N,N,"",4,479,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 124","Abbotsford",N,N,"",4,479,"Vis","","Brad","Conservative","Conservateur",Y,Y,140
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 125","Abbotsford",N,N,"",2,459,"Bellay","","Nicole","Green Party","Parti Vert",N,N,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 125","Abbotsford",N,N,"",2,459,"Grewal","","Geet","Liberal","Libéral",N,N,31
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 125","Abbotsford",N,N,"",2,459,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,19
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 125","Abbotsford",N,N,"",2,459,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 125","Abbotsford",N,N,"",2,459,"Vis","","Brad","Conservative","Conservateur",Y,Y,102
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 126","Abbotsford",N,N,"",0,541,"Bellay","","Nicole","Green Party","Parti Vert",N,N,5
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 126","Abbotsford",N,N,"",0,541,"Grewal","","Geet","Liberal","Libéral",N,N,44
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 126","Abbotsford",N,N,"",0,541,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,35
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 126","Abbotsford",N,N,"",0,541,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 126","Abbotsford",N,N,"",0,541,"Vis","","Brad","Conservative","Conservateur",Y,Y,165
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 127","Abbotsford",N,N,"",4,303,"Bellay","","Nicole","Green Party","Parti Vert",N,N,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 127","Abbotsford",N,N,"",4,303,"Grewal","","Geet","Liberal","Libéral",N,N,61
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 127","Abbotsford",N,N,"",4,303,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,3
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 127","Abbotsford",N,N,"",4,303,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 127","Abbotsford",N,N,"",4,303,"Vis","","Brad","Conservative","Conservateur",Y,Y,51
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 128","Abbotsford",N,N,"",4,276,"Bellay","","Nicole","Green Party","Parti Vert",N,N,2
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 128","Abbotsford",N,N,"",4,276,"Grewal","","Geet","Liberal","Libéral",N,N,75
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 128","Abbotsford",N,N,"",4,276,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 128","Abbotsford",N,N,"",4,276,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 128","Abbotsford",N,N,"",4,276,"Vis","","Brad","Conservative","Conservateur",Y,Y,30
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 129","Abbotsford",N,N,"",3,302,"Bellay","","Nicole","Green Party","Parti Vert",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 129","Abbotsford",N,N,"",3,302,"Grewal","","Geet","Liberal","Libéral",N,N,87
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 129","Abbotsford",N,N,"",3,302,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,2
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 129","Abbotsford",N,N,"",3,302,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 129","Abbotsford",N,N,"",3,302,"Vis","","Brad","Conservative","Conservateur",Y,Y,34
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 130","Abbotsford",N,N,"",1,441,"Bellay","","Nicole","Green Party","Parti Vert",N,N,2
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 130","Abbotsford",N,N,"",1,441,"Grewal","","Geet","Liberal","Libéral",N,N,84
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 130","Abbotsford",N,N,"",1,441,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,6
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 130","Abbotsford",N,N,"",1,441,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 130","Abbotsford",N,N,"",1,441,"Vis","","Brad","Conservative","Conservateur",Y,Y,60
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 131","Abbotsford",N,N,"",3,381,"Bellay","","Nicole","Green Party","Parti Vert",N,N,3
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 131","Abbotsford",N,N,"",3,381,"Grewal","","Geet","Liberal","Libéral",N,N,59
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 131","Abbotsford",N,N,"",3,381,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 131","Abbotsford",N,N,"",3,381,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 131","Abbotsford",N,N,"",3,381,"Vis","","Brad","Conservative","Conservateur",Y,Y,31
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 132","Abbotsford",N,N,"",0,430,"Bellay","","Nicole","Green Party","Parti Vert",N,N,2
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 132","Abbotsford",N,N,"",0,430,"Grewal","","Geet","Liberal","Libéral",N,N,83
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 132","Abbotsford",N,N,"",0,430,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 132","Abbotsford",N,N,"",0,430,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 132","Abbotsford",N,N,"",0,430,"Vis","","Brad","Conservative","Conservateur",Y,Y,46
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 133","Abbotsford",N,N,"",4,501,"Bellay","","Nicole","Green Party","Parti Vert",N,N,3
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 133","Abbotsford",N,N,"",4,501,"Grewal","","Geet","Liberal","Libéral",N,N,91
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 133","Abbotsford",N,N,"",4,501,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,7
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 133","Abbotsford",N,N,"",4,501,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 133","Abbotsford",N,N,"",4,501,"Vis","","Brad","Conservative","Conservateur",Y,Y,49
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 134","Abbotsford",N,N,"",2,551,"Bellay","","Nicole","Green Party","Parti Vert",N,N,7
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 134","Abbotsford",N,N,"",2,551,"Grewal","","Geet","Liberal","Libéral",N,N,92
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 134","Abbotsford",N,N,"",2,551,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,3
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 134","Abbotsford",N,N,"",2,551,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 134","Abbotsford",N,N,"",2,551,"Vis","","Brad","Conservative","Conservateur",Y,Y,87
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 135","Abbotsford",N,N,"",1,464,"Bellay","","Nicole","Green Party","Parti Vert",N,N,4
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 135","Abbotsford",N,N,"",1,464,"Grewal","","Geet","Liberal","Libéral",N,N,50
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 135","Abbotsford",N,N,"",1,464,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,7
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 135","Abbotsford",N,N,"",1,464,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 135","Abbotsford",N,N,"",1,464,"Vis","","Brad","Conservative","Conservateur",Y,Y,73
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 136","Abbotsford",N,N,"",2,352,"Bellay","","Nicole","Green Party","Parti Vert",N,N,3
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 136","Abbotsford",N,N,"",2,352,"Grewal","","Geet","Liberal","Libéral",N,N,100
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 136","Abbotsford",N,N,"",2,352,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,3
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 136","Abbotsford",N,N,"",2,352,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 136","Abbotsford",N,N,"",2,352,"Vis","","Brad","Conservative","Conservateur",Y,Y,46
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 137","Abbotsford",N,N,"",1,330,"Bellay","","Nicole","Green Party","Parti Vert",N,N,2
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 137","Abbotsford",N,N,"",1,330,"Grewal","","Geet","Liberal","Libéral",N,N,76
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 137","Abbotsford",N,N,"",1,330,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,5
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 137","Abbotsford",N,N,"",1,330,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 137","Abbotsford",N,N,"",1,330,"Vis","","Brad","Conservative","Conservateur",Y,Y,56
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 138","Abbotsford",N,N,"",5,373,"Bellay","","Nicole","Green Party","Parti Vert",N,N,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 138","Abbotsford",N,N,"",5,373,"Grewal","","Geet","Liberal","Libéral",N,N,56
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 138","Abbotsford",N,N,"",5,373,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,2
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 138","Abbotsford",N,N,"",5,373,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 138","Abbotsford",N,N,"",5,373,"Vis","","Brad","Conservative","Conservateur",Y,Y,59
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 139","Abbotsford",N,N,"",2,342,"Bellay","","Nicole","Green Party","Parti Vert",N,N,2
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 139","Abbotsford",N,N,"",2,342,"Grewal","","Geet","Liberal","Libéral",N,N,63
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 139","Abbotsford",N,N,"",2,342,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 139","Abbotsford",N,N,"",2,342,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 139","Abbotsford",N,N,"",2,342,"Vis","","Brad","Conservative","Conservateur",Y,Y,37
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 140","Abbotsford",N,N,"",1,378,"Bellay","","Nicole","Green Party","Parti Vert",N,N,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 140","Abbotsford",N,N,"",1,378,"Grewal","","Geet","Liberal","Libéral",N,N,69
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 140","Abbotsford",N,N,"",1,378,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 140","Abbotsford",N,N,"",1,378,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 140","Abbotsford",N,N,"",1,378,"Vis","","Brad","Conservative","Conservateur",Y,Y,52
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 141","Abbotsford",N,N,"",1,376,"Bellay","","Nicole","Green Party","Parti Vert",N,N,3
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 141","Abbotsford",N,N,"",1,376,"Grewal","","Geet","Liberal","Libéral",N,N,49
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 141","Abbotsford",N,N,"",1,376,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,9
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 141","Abbotsford",N,N,"",1,376,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 141","Abbotsford",N,N,"",1,376,"Vis","","Brad","Conservative","Conservateur",Y,Y,60
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 142","Abbotsford",N,N,"",1,425,"Bellay","","Nicole","Green Party","Parti Vert",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 142","Abbotsford",N,N,"",1,425,"Grewal","","Geet","Liberal","Libéral",N,N,32
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 142","Abbotsford",N,N,"",1,425,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,2
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 142","Abbotsford",N,N,"",1,425,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 142","Abbotsford",N,N,"",1,425,"Vis","","Brad","Conservative","Conservateur",Y,Y,75
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 143","Abbotsford",N,N,"",0,233,"Bellay","","Nicole","Green Party","Parti Vert",N,N,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 143","Abbotsford",N,N,"",0,233,"Grewal","","Geet","Liberal","Libéral",N,N,36
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 143","Abbotsford",N,N,"",0,233,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 143","Abbotsford",N,N,"",0,233,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 143","Abbotsford",N,N,"",0,233,"Vis","","Brad","Conservative","Conservateur",Y,Y,22
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 144","Abbotsford",N,N,"",1,403,"Bellay","","Nicole","Green Party","Parti Vert",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 144","Abbotsford",N,N,"",1,403,"Grewal","","Geet","Liberal","Libéral",N,N,45
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 144","Abbotsford",N,N,"",1,403,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,8
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 144","Abbotsford",N,N,"",1,403,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 144","Abbotsford",N,N,"",1,403,"Vis","","Brad","Conservative","Conservateur",Y,Y,69
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 145","Abbotsford",N,N,"",0,452,"Bellay","","Nicole","Green Party","Parti Vert",N,N,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 145","Abbotsford",N,N,"",0,452,"Grewal","","Geet","Liberal","Libéral",N,N,43
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 145","Abbotsford",N,N,"",0,452,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,5
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 145","Abbotsford",N,N,"",0,452,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 145","Abbotsford",N,N,"",0,452,"Vis","","Brad","Conservative","Conservateur",Y,Y,68
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 146","Abbotsford",N,N,"",1,460,"Bellay","","Nicole","Green Party","Parti Vert",N,N,3
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 146","Abbotsford",N,N,"",1,460,"Grewal","","Geet","Liberal","Libéral",N,N,70
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 146","Abbotsford",N,N,"",1,460,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,2
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 146","Abbotsford",N,N,"",1,460,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 146","Abbotsford",N,N,"",1,460,"Vis","","Brad","Conservative","Conservateur",Y,Y,56
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 147","Abbotsford",N,N,"",0,412,"Bellay","","Nicole","Green Party","Parti Vert",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 147","Abbotsford",N,N,"",0,412,"Grewal","","Geet","Liberal","Libéral",N,N,42
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 147","Abbotsford",N,N,"",0,412,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,7
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 147","Abbotsford",N,N,"",0,412,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 147","Abbotsford",N,N,"",0,412,"Vis","","Brad","Conservative","Conservateur",Y,Y,58
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 148","Abbotsford",N,N,"",0,103,"Bellay","","Nicole","Green Party","Parti Vert",N,N,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 148","Abbotsford",N,N,"",0,103,"Grewal","","Geet","Liberal","Libéral",N,N,11
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 148","Abbotsford",N,N,"",0,103,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 148","Abbotsford",N,N,"",0,103,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 148","Abbotsford",N,N,"",0,103,"Vis","","Brad","Conservative","Conservateur",Y,Y,18
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 149","Abbotsford",N,N,"",3,392,"Bellay","","Nicole","Green Party","Parti Vert",N,N,3
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 149","Abbotsford",N,N,"",3,392,"Grewal","","Geet","Liberal","Libéral",N,N,48
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 149","Abbotsford",N,N,"",3,392,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,4
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 149","Abbotsford",N,N,"",3,392,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 149","Abbotsford",N,N,"",3,392,"Vis","","Brad","Conservative","Conservateur",Y,Y,40
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 150","Abbotsford",N,N,"",2,788,"Bellay","","Nicole","Green Party","Parti Vert",N,N,10
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 150","Abbotsford",N,N,"",2,788,"Grewal","","Geet","Liberal","Libéral",N,N,62
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 150","Abbotsford",N,N,"",2,788,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,15
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 150","Abbotsford",N,N,"",2,788,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 150","Abbotsford",N,N,"",2,788,"Vis","","Brad","Conservative","Conservateur",Y,Y,113
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 151","Abbotsford",N,N,"",0,538,"Bellay","","Nicole","Green Party","Parti Vert",N,N,13
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 151","Abbotsford",N,N,"",0,538,"Grewal","","Geet","Liberal","Libéral",N,N,53
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 151","Abbotsford",N,N,"",0,538,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,6
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 151","Abbotsford",N,N,"",0,538,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 151","Abbotsford",N,N,"",0,538,"Vis","","Brad","Conservative","Conservateur",Y,Y,79
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 152","Abbotsford",N,N,"",3,708,"Bellay","","Nicole","Green Party","Parti Vert",N,N,8
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 152","Abbotsford",N,N,"",3,708,"Grewal","","Geet","Liberal","Libéral",N,N,60
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 152","Abbotsford",N,N,"",3,708,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,21
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 152","Abbotsford",N,N,"",3,708,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 152","Abbotsford",N,N,"",3,708,"Vis","","Brad","Conservative","Conservateur",Y,Y,155
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 153","Abbotsford",N,N,"",1,498,"Bellay","","Nicole","Green Party","Parti Vert",N,N,10
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 153","Abbotsford",N,N,"",1,498,"Grewal","","Geet","Liberal","Libéral",N,N,54
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 153","Abbotsford",N,N,"",1,498,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,15
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 153","Abbotsford",N,N,"",1,498,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 153","Abbotsford",N,N,"",1,498,"Vis","","Brad","Conservative","Conservateur",Y,Y,102
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 154","Abbotsford",N,N,"",1,869,"Bellay","","Nicole","Green Party","Parti Vert",N,N,20
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 154","Abbotsford",N,N,"",1,869,"Grewal","","Geet","Liberal","Libéral",N,N,92
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 154","Abbotsford",N,N,"",1,869,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,21
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 154","Abbotsford",N,N,"",1,869,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,98
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 154","Abbotsford",N,N,"",1,869,"Vis","","Brad","Conservative","Conservateur",Y,Y,221
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 155","Abbotsford",N,N,"",0,493,"Bellay","","Nicole","Green Party","Parti Vert",N,N,12
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 155","Abbotsford",N,N,"",0,493,"Grewal","","Geet","Liberal","Libéral",N,N,42
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 155","Abbotsford",N,N,"",0,493,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,28
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 155","Abbotsford",N,N,"",0,493,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 155","Abbotsford",N,N,"",0,493,"Vis","","Brad","Conservative","Conservateur",Y,Y,129
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 500","Mobile poll/Bureau itinérant",N,N,"",1,16,"Bellay","","Nicole","Green Party","Parti Vert",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 500","Mobile poll/Bureau itinérant",N,N,"",1,16,"Grewal","","Geet","Liberal","Libéral",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 500","Mobile poll/Bureau itinérant",N,N,"",1,16,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 500","Mobile poll/Bureau itinérant",N,N,"",1,16,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 500","Mobile poll/Bureau itinérant",N,N,"",1,16,"Vis","","Brad","Conservative","Conservateur",Y,Y,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 501","Mobile poll/Bureau itinérant",N,N,"",1,11,"Bellay","","Nicole","Green Party","Parti Vert",N,N,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 501","Mobile poll/Bureau itinérant",N,N,"",1,11,"Grewal","","Geet","Liberal","Libéral",N,N,5
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 501","Mobile poll/Bureau itinérant",N,N,"",1,11,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 501","Mobile poll/Bureau itinérant",N,N,"",1,11,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 501","Mobile poll/Bureau itinérant",N,N,"",1,11,"Vis","","Brad","Conservative","Conservateur",Y,Y,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 502","Mobile poll/Bureau itinérant",N,N,"",0,21,"Bellay","","Nicole","Green Party","Parti Vert",N,N,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 502","Mobile poll/Bureau itinérant",N,N,"",0,21,"Grewal","","Geet","Liberal","Libéral",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 502","Mobile poll/Bureau itinérant",N,N,"",0,21,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 502","Mobile poll/Bureau itinérant",N,N,"",0,21,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 502","Mobile poll/Bureau itinérant",N,N,"",0,21,"Vis","","Brad","Conservative","Conservateur",Y,Y,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 503","Mobile poll/Bureau itinérant",N,N,"",1,105,"Bellay","","Nicole","Green Party","Parti Vert",N,N,5
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 503","Mobile poll/Bureau itinérant",N,N,"",1,105,"Grewal","","Geet","Liberal","Libéral",N,N,27
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 503","Mobile poll/Bureau itinérant",N,N,"",1,105,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 503","Mobile poll/Bureau itinérant",N,N,"",1,105,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 503","Mobile poll/Bureau itinérant",N,N,"",1,105,"Vis","","Brad","Conservative","Conservateur",Y,Y,40
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 504","Mobile poll/Bureau itinérant",N,N,"",1,63,"Bellay","","Nicole","Green Party","Parti Vert",N,N,2
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 504","Mobile poll/Bureau itinérant",N,N,"",1,63,"Grewal","","Geet","Liberal","Libéral",N,N,6
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 504","Mobile poll/Bureau itinérant",N,N,"",1,63,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,2
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 504","Mobile poll/Bureau itinérant",N,N,"",1,63,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 504","Mobile poll/Bureau itinérant",N,N,"",1,63,"Vis","","Brad","Conservative","Conservateur",Y,Y,9
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 505","Mobile poll/Bureau itinérant",N,N,"",0,63,"Bellay","","Nicole","Green Party","Parti Vert",N,N,3
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 505","Mobile poll/Bureau itinérant",N,N,"",0,63,"Grewal","","Geet","Liberal","Libéral",N,N,5
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 505","Mobile poll/Bureau itinérant",N,N,"",0,63,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,2
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 505","Mobile poll/Bureau itinérant",N,N,"",0,63,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 505","Mobile poll/Bureau itinérant",N,N,"",0,63,"Vis","","Brad","Conservative","Conservateur",Y,Y,12
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 506","Mobile poll/Bureau itinérant",N,N,"",0,85,"Bellay","","Nicole","Green Party","Parti Vert",N,N,4
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 506","Mobile poll/Bureau itinérant",N,N,"",0,85,"Grewal","","Geet","Liberal","Libéral",N,N,16
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 506","Mobile poll/Bureau itinérant",N,N,"",0,85,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,2
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 506","Mobile poll/Bureau itinérant",N,N,"",0,85,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 506","Mobile poll/Bureau itinérant",N,N,"",0,85,"Vis","","Brad","Conservative","Conservateur",Y,Y,11
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 507","Mobile poll/Bureau itinérant",N,N,"",0,97,"Bellay","","Nicole","Green Party","Parti Vert",N,N,6
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 507","Mobile poll/Bureau itinérant",N,N,"",0,97,"Grewal","","Geet","Liberal","Libéral",N,N,28
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 507","Mobile poll/Bureau itinérant",N,N,"",0,97,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,2
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 507","Mobile poll/Bureau itinérant",N,N,"",0,97,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 507","Mobile poll/Bureau itinérant",N,N,"",0,97,"Vis","","Brad","Conservative","Conservateur",Y,Y,33
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 508","Mobile poll/Bureau itinérant",N,Y,"",0,14,"Bellay","","Nicole","Green Party","Parti Vert",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 508","Mobile poll/Bureau itinérant",N,Y,"",0,14,"Grewal","","Geet","Liberal","Libéral",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 508","Mobile poll/Bureau itinérant",N,Y,"",0,14,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 508","Mobile poll/Bureau itinérant",N,Y,"",0,14,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 508","Mobile poll/Bureau itinérant",N,Y,"",0,14,"Vis","","Brad","Conservative","Conservateur",Y,Y,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 509","Mobile poll/Bureau itinérant",N,N,"",0,68,"Bellay","","Nicole","Green Party","Parti Vert",N,N,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 509","Mobile poll/Bureau itinérant",N,N,"",0,68,"Grewal","","Geet","Liberal","Libéral",N,N,9
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 509","Mobile poll/Bureau itinérant",N,N,"",0,68,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 509","Mobile poll/Bureau itinérant",N,N,"",0,68,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 509","Mobile poll/Bureau itinérant",N,N,"",0,68,"Vis","","Brad","Conservative","Conservateur",Y,Y,26
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 510","Mobile poll/Bureau itinérant",N,N,"",1,39,"Bellay","","Nicole","Green Party","Parti Vert",N,N,0
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 510","Mobile poll/Bureau itinérant",N,N,"",1,39,"Grewal","","Geet","Liberal","Libéral",N,N,10
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 510","Mobile poll/Bureau itinérant",N,N,"",1,39,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,1
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 510","Mobile poll/Bureau itinérant",N,N,"",1,39,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 510","Mobile poll/Bureau itinérant",N,N,"",1,39,"Vis","","Brad","Conservative","Conservateur",Y,Y,10
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 600","Lillooet",N,N,"",0,0,"Bellay","","Nicole","Green Party","Parti Vert",N,N,51
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 600","Lillooet",N,N,"",0,0,"Grewal","","Geet","Liberal","Libéral",N,N,104
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 600","Lillooet",N,N,"",0,0,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,58
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 600","Lillooet",N,N,"",0,0,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,183
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 600","Lillooet",N,N,"",0,0,"Vis","","Brad","Conservative","Conservateur",Y,Y,350
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 601","Ashcroft",N,N,"",3,0,"Bellay","","Nicole","Green Party","Parti Vert",N,N,31
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 601","Ashcroft",N,N,"",3,0,"Grewal","","Geet","Liberal","Libéral",N,N,90
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 601","Ashcroft",N,N,"",3,0,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,61
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 601","Ashcroft",N,N,"",3,0,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,103
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 601","Ashcroft",N,N,"",3,0,"Vis","","Brad","Conservative","Conservateur",Y,Y,370
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 602","Lytton--Spences Bridge",N,N,"",0,0,"Bellay","","Nicole","Green Party","Parti Vert",N,N,17
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 602","Lytton--Spences Bridge",N,N,"",0,0,"Grewal","","Geet","Liberal","Libéral",N,N,21
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 602","Lytton--Spences Bridge",N,N,"",0,0,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,14
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 602","Lytton--Spences Bridge",N,N,"",0,0,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 602","Lytton--Spences Bridge",N,N,"",0,0,"Vis","","Brad","Conservative","Conservateur",Y,Y,30
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 603","Yale Town 1--Boston Bar",N,N,"",0,0,"Bellay","","Nicole","Green Party","Parti Vert",N,N,15
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 603","Yale Town 1--Boston Bar",N,N,"",0,0,"Grewal","","Geet","Liberal","Libéral",N,N,23
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 603","Yale Town 1--Boston Bar",N,N,"",0,0,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,23
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 603","Yale Town 1--Boston Bar",N,N,"",0,0,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 603","Yale Town 1--Boston Bar",N,N,"",0,0,"Vis","","Brad","Conservative","Conservateur",Y,Y,63
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 604","Kent",N,N,"",6,0,"Bellay","","Nicole","Green Party","Parti Vert",N,N,72
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 604","Kent",N,N,"",6,0,"Grewal","","Geet","Liberal","Libéral",N,N,422
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 604","Kent",N,N,"",6,0,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,155
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 604","Kent",N,N,"",6,0,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,320
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 604","Kent",N,N,"",6,0,"Vis","","Brad","Conservative","Conservateur",Y,Y,1071
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 605","Mission",N,N,"",1,0,"Bellay","","Nicole","Green Party","Parti Vert",N,N,37
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 605","Mission",N,N,"",1,0,"Grewal","","Geet","Liberal","Libéral",N,N,146
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 605","Mission",N,N,"",1,0,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,106
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 605","Mission",N,N,"",1,0,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,143
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 605","Mission",N,N,"",1,0,"Vis","","Brad","Conservative","Conservateur",Y,Y,507
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 606","Mission",N,N,"",2,0,"Bellay","","Nicole","Green Party","Parti Vert",N,N,15
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 606","Mission",N,N,"",2,0,"Grewal","","Geet","Liberal","Libéral",N,N,101
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 606","Mission",N,N,"",2,0,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,85
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 606","Mission",N,N,"",2,0,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,94
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 606","Mission",N,N,"",2,0,"Vis","","Brad","Conservative","Conservateur",Y,Y,285
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 607","Mission",N,N,"",2,0,"Bellay","","Nicole","Green Party","Parti Vert",N,N,43
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 607","Mission",N,N,"",2,0,"Grewal","","Geet","Liberal","Libéral",N,N,201
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 607","Mission",N,N,"",2,0,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,117
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 607","Mission",N,N,"",2,0,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,151
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 607","Mission",N,N,"",2,0,"Vis","","Brad","Conservative","Conservateur",Y,Y,511
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 608","Mission",N,N,"",6,0,"Bellay","","Nicole","Green Party","Parti Vert",N,N,46
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 608","Mission",N,N,"",6,0,"Grewal","","Geet","Liberal","Libéral",N,N,236
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 608","Mission",N,N,"",6,0,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,122
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 608","Mission",N,N,"",6,0,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,197
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 608","Mission",N,N,"",6,0,"Vis","","Brad","Conservative","Conservateur",Y,Y,422
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 609","Mission",N,N,"",3,0,"Bellay","","Nicole","Green Party","Parti Vert",N,N,52
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 609","Mission",N,N,"",3,0,"Grewal","","Geet","Liberal","Libéral",N,N,275
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 609","Mission",N,N,"",3,0,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,104
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 609","Mission",N,N,"",3,0,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,236
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 609","Mission",N,N,"",3,0,"Vis","","Brad","Conservative","Conservateur",Y,Y,587
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 610","Mission",N,N,"",0,0,"Bellay","","Nicole","Green Party","Parti Vert",N,N,82
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 610","Mission",N,N,"",0,0,"Grewal","","Geet","Liberal","Libéral",N,N,310
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 610","Mission",N,N,"",0,0,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,97
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 610","Mission",N,N,"",0,0,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,237
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 610","Mission",N,N,"",0,0,"Vis","","Brad","Conservative","Conservateur",Y,Y,651
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 611","Mission",N,N,"",0,0,"Bellay","","Nicole","Green Party","Parti Vert",N,N,67
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 611","Mission",N,N,"",0,0,"Grewal","","Geet","Liberal","Libéral",N,N,199
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 611","Mission",N,N,"",0,0,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,136
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 611","Mission",N,N,"",0,0,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,217
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 611","Mission",N,N,"",0,0,"Vis","","Brad","Conservative","Conservateur",Y,Y,382
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 612","Abbotsford",N,N,"",5,0,"Bellay","","Nicole","Green Party","Parti Vert",N,N,15
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 612","Abbotsford",N,N,"",5,0,"Grewal","","Geet","Liberal","Libéral",N,N,355
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 612","Abbotsford",N,N,"",5,0,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,86
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 612","Abbotsford",N,N,"",5,0,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,101
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 612","Abbotsford",N,N,"",5,0,"Vis","","Brad","Conservative","Conservateur",Y,Y,543
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 613","Abbotsford",N,N,"",9,0,"Bellay","","Nicole","Green Party","Parti Vert",N,N,12
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 613","Abbotsford",N,N,"",9,0,"Grewal","","Geet","Liberal","Libéral",N,N,392
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 613","Abbotsford",N,N,"",9,0,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,34
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 613","Abbotsford",N,N,"",9,0,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,83
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 613","Abbotsford",N,N,"",9,0,"Vis","","Brad","Conservative","Conservateur",Y,Y,331
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 614","Abbotsford",N,N,"",7,0,"Bellay","","Nicole","Green Party","Parti Vert",N,N,14
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 614","Abbotsford",N,N,"",7,0,"Grewal","","Geet","Liberal","Libéral",N,N,300
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 614","Abbotsford",N,N,"",7,0,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,73
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 614","Abbotsford",N,N,"",7,0,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,105
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 614","Abbotsford",N,N,"",7,0,"Vis","","Brad","Conservative","Conservateur",Y,Y,592
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 615","Abbotsford",N,N,"",3,0,"Bellay","","Nicole","Green Party","Parti Vert",N,N,22
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 615","Abbotsford",N,N,"",3,0,"Grewal","","Geet","Liberal","Libéral",N,N,229
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 615","Abbotsford",N,N,"",3,0,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,80
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 615","Abbotsford",N,N,"",3,0,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,116
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," 615","Abbotsford",N,N,"",3,0,"Vis","","Brad","Conservative","Conservateur",Y,Y,574
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",24,93,"Bellay","","Nicole","Green Party","Parti Vert",N,N,23
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",24,93,"Grewal","","Geet","Liberal","Libéral",N,N,97
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",24,93,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,29
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",24,93,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",24,93,"Vis","","Brad","Conservative","Conservateur",Y,Y,148
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",74,0,"Bellay","","Nicole","Green Party","Parti Vert",N,N,90
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",74,0,"Grewal","","Geet","Liberal","Libéral",N,N,512
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",74,0,"Niles","","Tyler","People's Party - PPC","Parti populaire - PPC",N,N,73
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",74,0,"Perrin","","Lynn","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,391
+59017,"Mission--Matsqui--Fraser Canyon","Mission--Matsqui--Fraser Canyon"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",74,0,"Vis","","Brad","Conservative","Conservateur",Y,Y,886

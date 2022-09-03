@@ -1,0 +1,871 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+35096,"Scarborough North","Scarborough-Nord"," 1","Toronto",N,N,"",2,507,"Chen","","Shaun","Liberal","Libéral",Y,Y,246
+35096,"Scarborough North","Scarborough-Nord"," 1","Toronto",N,N,"",2,507,"Khan","","Sheraz","Centrist","Centriste",N,N,3
+35096,"Scarborough North","Scarborough-Nord"," 1","Toronto",N,N,"",2,507,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35096,"Scarborough North","Scarborough-Nord"," 1","Toronto",N,N,"",2,507,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 1","Toronto",N,N,"",2,507,"Shah","","Fazal","Conservative","Conservateur",N,N,55
+35096,"Scarborough North","Scarborough-Nord"," 2","Toronto",N,N,"1",0,446,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 2","Toronto",N,N,"1",0,446,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 2","Toronto",N,N,"1",0,446,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 2","Toronto",N,N,"1",0,446,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 2","Toronto",N,N,"1",0,446,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 3","Toronto",N,N,"",0,473,"Chen","","Shaun","Liberal","Libéral",Y,Y,235
+35096,"Scarborough North","Scarborough-Nord"," 3","Toronto",N,N,"",0,473,"Khan","","Sheraz","Centrist","Centriste",N,N,8
+35096,"Scarborough North","Scarborough-Nord"," 3","Toronto",N,N,"",0,473,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35096,"Scarborough North","Scarborough-Nord"," 3","Toronto",N,N,"",0,473,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 3","Toronto",N,N,"",0,473,"Shah","","Fazal","Conservative","Conservateur",N,N,34
+35096,"Scarborough North","Scarborough-Nord"," 4","Toronto",N,N,"3",0,440,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 4","Toronto",N,N,"3",0,440,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 4","Toronto",N,N,"3",0,440,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 4","Toronto",N,N,"3",0,440,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 4","Toronto",N,N,"3",0,440,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 5","Toronto",N,N,"6",0,390,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 5","Toronto",N,N,"6",0,390,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 5","Toronto",N,N,"6",0,390,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 5","Toronto",N,N,"6",0,390,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 5","Toronto",N,N,"6",0,390,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 6","Toronto",N,N,"",3,565,"Chen","","Shaun","Liberal","Libéral",Y,Y,264
+35096,"Scarborough North","Scarborough-Nord"," 6","Toronto",N,N,"",3,565,"Khan","","Sheraz","Centrist","Centriste",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 6","Toronto",N,N,"",3,565,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35096,"Scarborough North","Scarborough-Nord"," 6","Toronto",N,N,"",3,565,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,12
+35096,"Scarborough North","Scarborough-Nord"," 6","Toronto",N,N,"",3,565,"Shah","","Fazal","Conservative","Conservateur",N,N,57
+35096,"Scarborough North","Scarborough-Nord"," 7","Toronto",N,N,"8",0,546,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 7","Toronto",N,N,"8",0,546,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 7","Toronto",N,N,"8",0,546,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 7","Toronto",N,N,"8",0,546,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 7","Toronto",N,N,"8",0,546,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 8","Toronto",N,N,"",3,597,"Chen","","Shaun","Liberal","Libéral",Y,Y,322
+35096,"Scarborough North","Scarborough-Nord"," 8","Toronto",N,N,"",3,597,"Khan","","Sheraz","Centrist","Centriste",N,N,3
+35096,"Scarborough North","Scarborough-Nord"," 8","Toronto",N,N,"",3,597,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35096,"Scarborough North","Scarborough-Nord"," 8","Toronto",N,N,"",3,597,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,10
+35096,"Scarborough North","Scarborough-Nord"," 8","Toronto",N,N,"",3,597,"Shah","","Fazal","Conservative","Conservateur",N,N,95
+35096,"Scarborough North","Scarborough-Nord"," 9","Toronto",N,N,"",1,582,"Chen","","Shaun","Liberal","Libéral",Y,Y,212
+35096,"Scarborough North","Scarborough-Nord"," 9","Toronto",N,N,"",1,582,"Khan","","Sheraz","Centrist","Centriste",N,N,1
+35096,"Scarborough North","Scarborough-Nord"," 9","Toronto",N,N,"",1,582,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35096,"Scarborough North","Scarborough-Nord"," 9","Toronto",N,N,"",1,582,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,2
+35096,"Scarborough North","Scarborough-Nord"," 9","Toronto",N,N,"",1,582,"Shah","","Fazal","Conservative","Conservateur",N,N,51
+35096,"Scarborough North","Scarborough-Nord"," 10","Toronto",N,N,"9",0,367,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 10","Toronto",N,N,"9",0,367,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 10","Toronto",N,N,"9",0,367,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 10","Toronto",N,N,"9",0,367,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 10","Toronto",N,N,"9",0,367,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 11","Toronto",N,N,"",1,439,"Chen","","Shaun","Liberal","Libéral",Y,Y,94
+35096,"Scarborough North","Scarborough-Nord"," 11","Toronto",N,N,"",1,439,"Khan","","Sheraz","Centrist","Centriste",N,N,2
+35096,"Scarborough North","Scarborough-Nord"," 11","Toronto",N,N,"",1,439,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35096,"Scarborough North","Scarborough-Nord"," 11","Toronto",N,N,"",1,439,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,1
+35096,"Scarborough North","Scarborough-Nord"," 11","Toronto",N,N,"",1,439,"Shah","","Fazal","Conservative","Conservateur",N,N,27
+35096,"Scarborough North","Scarborough-Nord"," 12","Toronto",N,N,"11",0,348,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 12","Toronto",N,N,"11",0,348,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 12","Toronto",N,N,"11",0,348,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 12","Toronto",N,N,"11",0,348,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 12","Toronto",N,N,"11",0,348,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 13","Toronto",N,N,"",1,488,"Chen","","Shaun","Liberal","Libéral",Y,Y,142
+35096,"Scarborough North","Scarborough-Nord"," 13","Toronto",N,N,"",1,488,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 13","Toronto",N,N,"",1,488,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35096,"Scarborough North","Scarborough-Nord"," 13","Toronto",N,N,"",1,488,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,1
+35096,"Scarborough North","Scarborough-Nord"," 13","Toronto",N,N,"",1,488,"Shah","","Fazal","Conservative","Conservateur",N,N,27
+35096,"Scarborough North","Scarborough-Nord"," 14","Toronto",N,N,"13",0,405,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 14","Toronto",N,N,"13",0,405,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 14","Toronto",N,N,"13",0,405,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 14","Toronto",N,N,"13",0,405,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 14","Toronto",N,N,"13",0,405,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 15","Toronto",N,N,"26",0,298,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 15","Toronto",N,N,"26",0,298,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 15","Toronto",N,N,"26",0,298,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 15","Toronto",N,N,"26",0,298,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 15","Toronto",N,N,"26",0,298,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 16","Toronto",N,N,"",0,397,"Chen","","Shaun","Liberal","Libéral",Y,Y,64
+35096,"Scarborough North","Scarborough-Nord"," 16","Toronto",N,N,"",0,397,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 16","Toronto",N,N,"",0,397,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35096,"Scarborough North","Scarborough-Nord"," 16","Toronto",N,N,"",0,397,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 16","Toronto",N,N,"",0,397,"Shah","","Fazal","Conservative","Conservateur",N,N,18
+35096,"Scarborough North","Scarborough-Nord"," 17","Toronto",N,N,"16",0,352,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 17","Toronto",N,N,"16",0,352,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 17","Toronto",N,N,"16",0,352,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 17","Toronto",N,N,"16",0,352,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 17","Toronto",N,N,"16",0,352,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 18","Toronto",N,N,"19",0,355,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 18","Toronto",N,N,"19",0,355,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 18","Toronto",N,N,"19",0,355,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 18","Toronto",N,N,"19",0,355,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 18","Toronto",N,N,"19",0,355,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 19","Toronto",N,N,"",0,495,"Chen","","Shaun","Liberal","Libéral",Y,Y,77
+35096,"Scarborough North","Scarborough-Nord"," 19","Toronto",N,N,"",0,495,"Khan","","Sheraz","Centrist","Centriste",N,N,1
+35096,"Scarborough North","Scarborough-Nord"," 19","Toronto",N,N,"",0,495,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35096,"Scarborough North","Scarborough-Nord"," 19","Toronto",N,N,"",0,495,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 19","Toronto",N,N,"",0,495,"Shah","","Fazal","Conservative","Conservateur",N,N,19
+35096,"Scarborough North","Scarborough-Nord"," 20","Toronto",N,N,"21",0,277,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 20","Toronto",N,N,"21",0,277,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 20","Toronto",N,N,"21",0,277,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 20","Toronto",N,N,"21",0,277,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 20","Toronto",N,N,"21",0,277,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 21","Toronto",N,N,"",5,482,"Chen","","Shaun","Liberal","Libéral",Y,Y,132
+35096,"Scarborough North","Scarborough-Nord"," 21","Toronto",N,N,"",5,482,"Khan","","Sheraz","Centrist","Centriste",N,N,7
+35096,"Scarborough North","Scarborough-Nord"," 21","Toronto",N,N,"",5,482,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35096,"Scarborough North","Scarborough-Nord"," 21","Toronto",N,N,"",5,482,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,1
+35096,"Scarborough North","Scarborough-Nord"," 21","Toronto",N,N,"",5,482,"Shah","","Fazal","Conservative","Conservateur",N,N,52
+35096,"Scarborough North","Scarborough-Nord"," 22","Toronto",N,N,"23",0,359,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 22","Toronto",N,N,"23",0,359,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 22","Toronto",N,N,"23",0,359,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 22","Toronto",N,N,"23",0,359,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 22","Toronto",N,N,"23",0,359,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 23","Toronto",N,N,"",1,401,"Chen","","Shaun","Liberal","Libéral",Y,Y,101
+35096,"Scarborough North","Scarborough-Nord"," 23","Toronto",N,N,"",1,401,"Khan","","Sheraz","Centrist","Centriste",N,N,2
+35096,"Scarborough North","Scarborough-Nord"," 23","Toronto",N,N,"",1,401,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35096,"Scarborough North","Scarborough-Nord"," 23","Toronto",N,N,"",1,401,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,5
+35096,"Scarborough North","Scarborough-Nord"," 23","Toronto",N,N,"",1,401,"Shah","","Fazal","Conservative","Conservateur",N,N,28
+35096,"Scarborough North","Scarborough-Nord"," 24","Toronto",N,N,"",3,374,"Chen","","Shaun","Liberal","Libéral",Y,Y,107
+35096,"Scarborough North","Scarborough-Nord"," 24","Toronto",N,N,"",3,374,"Khan","","Sheraz","Centrist","Centriste",N,N,1
+35096,"Scarborough North","Scarborough-Nord"," 24","Toronto",N,N,"",3,374,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35096,"Scarborough North","Scarborough-Nord"," 24","Toronto",N,N,"",3,374,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 24","Toronto",N,N,"",3,374,"Shah","","Fazal","Conservative","Conservateur",N,N,41
+35096,"Scarborough North","Scarborough-Nord"," 25","Toronto",N,N,"30",0,345,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 25","Toronto",N,N,"30",0,345,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 25","Toronto",N,N,"30",0,345,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 25","Toronto",N,N,"30",0,345,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 25","Toronto",N,N,"30",0,345,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 26","Toronto",N,N,"",0,414,"Chen","","Shaun","Liberal","Libéral",Y,Y,105
+35096,"Scarborough North","Scarborough-Nord"," 26","Toronto",N,N,"",0,414,"Khan","","Sheraz","Centrist","Centriste",N,N,2
+35096,"Scarborough North","Scarborough-Nord"," 26","Toronto",N,N,"",0,414,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35096,"Scarborough North","Scarborough-Nord"," 26","Toronto",N,N,"",0,414,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,6
+35096,"Scarborough North","Scarborough-Nord"," 26","Toronto",N,N,"",0,414,"Shah","","Fazal","Conservative","Conservateur",N,N,20
+35096,"Scarborough North","Scarborough-Nord"," 27","Toronto",N,N,"28",0,364,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 27","Toronto",N,N,"28",0,364,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 27","Toronto",N,N,"28",0,364,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 27","Toronto",N,N,"28",0,364,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 27","Toronto",N,N,"28",0,364,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 28","Toronto",N,N,"",8,589,"Chen","","Shaun","Liberal","Libéral",Y,Y,228
+35096,"Scarborough North","Scarborough-Nord"," 28","Toronto",N,N,"",8,589,"Khan","","Sheraz","Centrist","Centriste",N,N,2
+35096,"Scarborough North","Scarborough-Nord"," 28","Toronto",N,N,"",8,589,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35096,"Scarborough North","Scarborough-Nord"," 28","Toronto",N,N,"",8,589,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 28","Toronto",N,N,"",8,589,"Shah","","Fazal","Conservative","Conservateur",N,N,57
+35096,"Scarborough North","Scarborough-Nord"," 29","Toronto",N,N,"",0,435,"Chen","","Shaun","Liberal","Libéral",Y,Y,160
+35096,"Scarborough North","Scarborough-Nord"," 29","Toronto",N,N,"",0,435,"Khan","","Sheraz","Centrist","Centriste",N,N,6
+35096,"Scarborough North","Scarborough-Nord"," 29","Toronto",N,N,"",0,435,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35096,"Scarborough North","Scarborough-Nord"," 29","Toronto",N,N,"",0,435,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,5
+35096,"Scarborough North","Scarborough-Nord"," 29","Toronto",N,N,"",0,435,"Shah","","Fazal","Conservative","Conservateur",N,N,43
+35096,"Scarborough North","Scarborough-Nord"," 30","Toronto",N,N,"",2,389,"Chen","","Shaun","Liberal","Libéral",Y,Y,91
+35096,"Scarborough North","Scarborough-Nord"," 30","Toronto",N,N,"",2,389,"Khan","","Sheraz","Centrist","Centriste",N,N,1
+35096,"Scarborough North","Scarborough-Nord"," 30","Toronto",N,N,"",2,389,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35096,"Scarborough North","Scarborough-Nord"," 30","Toronto",N,N,"",2,389,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,3
+35096,"Scarborough North","Scarborough-Nord"," 30","Toronto",N,N,"",2,389,"Shah","","Fazal","Conservative","Conservateur",N,N,29
+35096,"Scarborough North","Scarborough-Nord"," 31","Toronto",N,N,"32",0,245,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 31","Toronto",N,N,"32",0,245,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 31","Toronto",N,N,"32",0,245,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 31","Toronto",N,N,"32",0,245,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 31","Toronto",N,N,"32",0,245,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 32","Toronto",N,N,"",2,307,"Chen","","Shaun","Liberal","Libéral",Y,Y,65
+35096,"Scarborough North","Scarborough-Nord"," 32","Toronto",N,N,"",2,307,"Khan","","Sheraz","Centrist","Centriste",N,N,2
+35096,"Scarborough North","Scarborough-Nord"," 32","Toronto",N,N,"",2,307,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35096,"Scarborough North","Scarborough-Nord"," 32","Toronto",N,N,"",2,307,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,1
+35096,"Scarborough North","Scarborough-Nord"," 32","Toronto",N,N,"",2,307,"Shah","","Fazal","Conservative","Conservateur",N,N,32
+35096,"Scarborough North","Scarborough-Nord"," 33","Toronto",N,N,"24",0,356,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 33","Toronto",N,N,"24",0,356,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 33","Toronto",N,N,"24",0,356,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 33","Toronto",N,N,"24",0,356,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 33","Toronto",N,N,"24",0,356,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 34","Toronto",N,N,"52",0,318,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 34","Toronto",N,N,"52",0,318,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 34","Toronto",N,N,"52",0,318,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 34","Toronto",N,N,"52",0,318,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 34","Toronto",N,N,"52",0,318,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 35","Toronto",N,N,"36",0,308,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 35","Toronto",N,N,"36",0,308,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 35","Toronto",N,N,"36",0,308,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 35","Toronto",N,N,"36",0,308,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 35","Toronto",N,N,"36",0,308,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 36","Toronto",N,N,"",2,353,"Chen","","Shaun","Liberal","Libéral",Y,Y,77
+35096,"Scarborough North","Scarborough-Nord"," 36","Toronto",N,N,"",2,353,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 36","Toronto",N,N,"",2,353,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35096,"Scarborough North","Scarborough-Nord"," 36","Toronto",N,N,"",2,353,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,6
+35096,"Scarborough North","Scarborough-Nord"," 36","Toronto",N,N,"",2,353,"Shah","","Fazal","Conservative","Conservateur",N,N,29
+35096,"Scarborough North","Scarborough-Nord"," 37","Toronto",N,N,"",0,406,"Chen","","Shaun","Liberal","Libéral",Y,Y,95
+35096,"Scarborough North","Scarborough-Nord"," 37","Toronto",N,N,"",0,406,"Khan","","Sheraz","Centrist","Centriste",N,N,1
+35096,"Scarborough North","Scarborough-Nord"," 37","Toronto",N,N,"",0,406,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35096,"Scarborough North","Scarborough-Nord"," 37","Toronto",N,N,"",0,406,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 37","Toronto",N,N,"",0,406,"Shah","","Fazal","Conservative","Conservateur",N,N,25
+35096,"Scarborough North","Scarborough-Nord"," 38","Toronto",N,N,"37",0,386,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 38","Toronto",N,N,"37",0,386,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 38","Toronto",N,N,"37",0,386,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 38","Toronto",N,N,"37",0,386,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 38","Toronto",N,N,"37",0,386,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 39","Toronto",N,N,"40",0,309,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 39","Toronto",N,N,"40",0,309,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 39","Toronto",N,N,"40",0,309,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 39","Toronto",N,N,"40",0,309,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 39","Toronto",N,N,"40",0,309,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 40","Toronto",N,N,"",0,400,"Chen","","Shaun","Liberal","Libéral",Y,Y,55
+35096,"Scarborough North","Scarborough-Nord"," 40","Toronto",N,N,"",0,400,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 40","Toronto",N,N,"",0,400,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35096,"Scarborough North","Scarborough-Nord"," 40","Toronto",N,N,"",0,400,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 40","Toronto",N,N,"",0,400,"Shah","","Fazal","Conservative","Conservateur",N,N,20
+35096,"Scarborough North","Scarborough-Nord"," 41","Toronto",N,N,"",2,414,"Chen","","Shaun","Liberal","Libéral",Y,Y,63
+35096,"Scarborough North","Scarborough-Nord"," 41","Toronto",N,N,"",2,414,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 41","Toronto",N,N,"",2,414,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35096,"Scarborough North","Scarborough-Nord"," 41","Toronto",N,N,"",2,414,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 41","Toronto",N,N,"",2,414,"Shah","","Fazal","Conservative","Conservateur",N,N,33
+35096,"Scarborough North","Scarborough-Nord"," 42","Toronto",N,N,"",0,410,"Chen","","Shaun","Liberal","Libéral",Y,Y,104
+35096,"Scarborough North","Scarborough-Nord"," 42","Toronto",N,N,"",0,410,"Khan","","Sheraz","Centrist","Centriste",N,N,2
+35096,"Scarborough North","Scarborough-Nord"," 42","Toronto",N,N,"",0,410,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35096,"Scarborough North","Scarborough-Nord"," 42","Toronto",N,N,"",0,410,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,5
+35096,"Scarborough North","Scarborough-Nord"," 42","Toronto",N,N,"",0,410,"Shah","","Fazal","Conservative","Conservateur",N,N,28
+35096,"Scarborough North","Scarborough-Nord"," 43","Toronto",N,N,"42",0,362,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 43","Toronto",N,N,"42",0,362,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 43","Toronto",N,N,"42",0,362,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 43","Toronto",N,N,"42",0,362,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 43","Toronto",N,N,"42",0,362,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 44","Toronto",N,N,"29",0,328,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 44","Toronto",N,N,"29",0,328,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 44","Toronto",N,N,"29",0,328,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 44","Toronto",N,N,"29",0,328,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 44","Toronto",N,N,"29",0,328,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 45","Toronto",N,N,"",2,611,"Chen","","Shaun","Liberal","Libéral",Y,Y,141
+35096,"Scarborough North","Scarborough-Nord"," 45","Toronto",N,N,"",2,611,"Khan","","Sheraz","Centrist","Centriste",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 45","Toronto",N,N,"",2,611,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35096,"Scarborough North","Scarborough-Nord"," 45","Toronto",N,N,"",2,611,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,8
+35096,"Scarborough North","Scarborough-Nord"," 45","Toronto",N,N,"",2,611,"Shah","","Fazal","Conservative","Conservateur",N,N,48
+35096,"Scarborough North","Scarborough-Nord"," 46","Toronto",N,N,"47",0,432,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 46","Toronto",N,N,"47",0,432,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 46","Toronto",N,N,"47",0,432,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 46","Toronto",N,N,"47",0,432,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 46","Toronto",N,N,"47",0,432,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 47","Toronto",N,N,"",3,454,"Chen","","Shaun","Liberal","Libéral",Y,Y,130
+35096,"Scarborough North","Scarborough-Nord"," 47","Toronto",N,N,"",3,454,"Khan","","Sheraz","Centrist","Centriste",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 47","Toronto",N,N,"",3,454,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35096,"Scarborough North","Scarborough-Nord"," 47","Toronto",N,N,"",3,454,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,7
+35096,"Scarborough North","Scarborough-Nord"," 47","Toronto",N,N,"",3,454,"Shah","","Fazal","Conservative","Conservateur",N,N,39
+35096,"Scarborough North","Scarborough-Nord"," 48","Toronto",N,N,"",2,361,"Chen","","Shaun","Liberal","Libéral",Y,Y,109
+35096,"Scarborough North","Scarborough-Nord"," 48","Toronto",N,N,"",2,361,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 48","Toronto",N,N,"",2,361,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35096,"Scarborough North","Scarborough-Nord"," 48","Toronto",N,N,"",2,361,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,2
+35096,"Scarborough North","Scarborough-Nord"," 48","Toronto",N,N,"",2,361,"Shah","","Fazal","Conservative","Conservateur",N,N,45
+35096,"Scarborough North","Scarborough-Nord"," 49A","Toronto",N,N,"48",0,307,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 49A","Toronto",N,N,"48",0,307,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 49A","Toronto",N,N,"48",0,307,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 49A","Toronto",N,N,"48",0,307,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 49A","Toronto",N,N,"48",0,307,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 49B","Toronto",N,N,"",0,102,"Chen","","Shaun","Liberal","Libéral",Y,Y,40
+35096,"Scarborough North","Scarborough-Nord"," 49B","Toronto",N,N,"",0,102,"Khan","","Sheraz","Centrist","Centriste",N,N,1
+35096,"Scarborough North","Scarborough-Nord"," 49B","Toronto",N,N,"",0,102,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35096,"Scarborough North","Scarborough-Nord"," 49B","Toronto",N,N,"",0,102,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,2
+35096,"Scarborough North","Scarborough-Nord"," 49B","Toronto",N,N,"",0,102,"Shah","","Fazal","Conservative","Conservateur",N,N,6
+35096,"Scarborough North","Scarborough-Nord"," 50","Toronto",N,N,"51",0,357,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 50","Toronto",N,N,"51",0,357,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 50","Toronto",N,N,"51",0,357,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 50","Toronto",N,N,"51",0,357,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 50","Toronto",N,N,"51",0,357,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 51","Toronto",N,N,"",2,367,"Chen","","Shaun","Liberal","Libéral",Y,Y,118
+35096,"Scarborough North","Scarborough-Nord"," 51","Toronto",N,N,"",2,367,"Khan","","Sheraz","Centrist","Centriste",N,N,1
+35096,"Scarborough North","Scarborough-Nord"," 51","Toronto",N,N,"",2,367,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35096,"Scarborough North","Scarborough-Nord"," 51","Toronto",N,N,"",2,367,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,9
+35096,"Scarborough North","Scarborough-Nord"," 51","Toronto",N,N,"",2,367,"Shah","","Fazal","Conservative","Conservateur",N,N,58
+35096,"Scarborough North","Scarborough-Nord"," 52","Toronto",N,N,"",3,381,"Chen","","Shaun","Liberal","Libéral",Y,Y,92
+35096,"Scarborough North","Scarborough-Nord"," 52","Toronto",N,N,"",3,381,"Khan","","Sheraz","Centrist","Centriste",N,N,3
+35096,"Scarborough North","Scarborough-Nord"," 52","Toronto",N,N,"",3,381,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35096,"Scarborough North","Scarborough-Nord"," 52","Toronto",N,N,"",3,381,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,3
+35096,"Scarborough North","Scarborough-Nord"," 52","Toronto",N,N,"",3,381,"Shah","","Fazal","Conservative","Conservateur",N,N,29
+35096,"Scarborough North","Scarborough-Nord"," 53","Toronto",N,N,"54",0,321,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 53","Toronto",N,N,"54",0,321,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 53","Toronto",N,N,"54",0,321,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 53","Toronto",N,N,"54",0,321,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 53","Toronto",N,N,"54",0,321,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 54","Toronto",N,N,"",10,447,"Chen","","Shaun","Liberal","Libéral",Y,Y,99
+35096,"Scarborough North","Scarborough-Nord"," 54","Toronto",N,N,"",10,447,"Khan","","Sheraz","Centrist","Centriste",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 54","Toronto",N,N,"",10,447,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35096,"Scarborough North","Scarborough-Nord"," 54","Toronto",N,N,"",10,447,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 54","Toronto",N,N,"",10,447,"Shah","","Fazal","Conservative","Conservateur",N,N,41
+35096,"Scarborough North","Scarborough-Nord"," 55","Toronto",N,N,"56",0,314,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 55","Toronto",N,N,"56",0,314,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 55","Toronto",N,N,"56",0,314,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 55","Toronto",N,N,"56",0,314,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 55","Toronto",N,N,"56",0,314,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 56","Toronto",N,N,"",1,390,"Chen","","Shaun","Liberal","Libéral",Y,Y,98
+35096,"Scarborough North","Scarborough-Nord"," 56","Toronto",N,N,"",1,390,"Khan","","Sheraz","Centrist","Centriste",N,N,2
+35096,"Scarborough North","Scarborough-Nord"," 56","Toronto",N,N,"",1,390,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35096,"Scarborough North","Scarborough-Nord"," 56","Toronto",N,N,"",1,390,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,9
+35096,"Scarborough North","Scarborough-Nord"," 56","Toronto",N,N,"",1,390,"Shah","","Fazal","Conservative","Conservateur",N,N,36
+35096,"Scarborough North","Scarborough-Nord"," 57","Toronto",N,N,"45",0,379,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 57","Toronto",N,N,"45",0,379,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 57","Toronto",N,N,"45",0,379,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 57","Toronto",N,N,"45",0,379,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 57","Toronto",N,N,"45",0,379,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 58","Toronto",N,N,"",1,629,"Chen","","Shaun","Liberal","Libéral",Y,Y,206
+35096,"Scarborough North","Scarborough-Nord"," 58","Toronto",N,N,"",1,629,"Khan","","Sheraz","Centrist","Centriste",N,N,2
+35096,"Scarborough North","Scarborough-Nord"," 58","Toronto",N,N,"",1,629,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+35096,"Scarborough North","Scarborough-Nord"," 58","Toronto",N,N,"",1,629,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 58","Toronto",N,N,"",1,629,"Shah","","Fazal","Conservative","Conservateur",N,N,41
+35096,"Scarborough North","Scarborough-Nord"," 59","Toronto",N,N,"58",0,446,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 59","Toronto",N,N,"58",0,446,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 59","Toronto",N,N,"58",0,446,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 59","Toronto",N,N,"58",0,446,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 59","Toronto",N,N,"58",0,446,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 60","Toronto",N,N,"61",0,335,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 60","Toronto",N,N,"61",0,335,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 60","Toronto",N,N,"61",0,335,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 60","Toronto",N,N,"61",0,335,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 60","Toronto",N,N,"61",0,335,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 61","Toronto",N,N,"",0,417,"Chen","","Shaun","Liberal","Libéral",Y,Y,151
+35096,"Scarborough North","Scarborough-Nord"," 61","Toronto",N,N,"",0,417,"Khan","","Sheraz","Centrist","Centriste",N,N,1
+35096,"Scarborough North","Scarborough-Nord"," 61","Toronto",N,N,"",0,417,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35096,"Scarborough North","Scarborough-Nord"," 61","Toronto",N,N,"",0,417,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,5
+35096,"Scarborough North","Scarborough-Nord"," 61","Toronto",N,N,"",0,417,"Shah","","Fazal","Conservative","Conservateur",N,N,25
+35096,"Scarborough North","Scarborough-Nord"," 62","Toronto",N,N,"",2,552,"Chen","","Shaun","Liberal","Libéral",Y,Y,103
+35096,"Scarborough North","Scarborough-Nord"," 62","Toronto",N,N,"",2,552,"Khan","","Sheraz","Centrist","Centriste",N,N,1
+35096,"Scarborough North","Scarborough-Nord"," 62","Toronto",N,N,"",2,552,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35096,"Scarborough North","Scarborough-Nord"," 62","Toronto",N,N,"",2,552,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,10
+35096,"Scarborough North","Scarborough-Nord"," 62","Toronto",N,N,"",2,552,"Shah","","Fazal","Conservative","Conservateur",N,N,36
+35096,"Scarborough North","Scarborough-Nord"," 63","Toronto",N,N,"62",0,285,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 63","Toronto",N,N,"62",0,285,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 63","Toronto",N,N,"62",0,285,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 63","Toronto",N,N,"62",0,285,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 63","Toronto",N,N,"62",0,285,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 64","Toronto",N,N,"41",0,349,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 64","Toronto",N,N,"41",0,349,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 64","Toronto",N,N,"41",0,349,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 64","Toronto",N,N,"41",0,349,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 64","Toronto",N,N,"41",0,349,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 65","Toronto",N,N,"",2,454,"Chen","","Shaun","Liberal","Libéral",Y,Y,91
+35096,"Scarborough North","Scarborough-Nord"," 65","Toronto",N,N,"",2,454,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 65","Toronto",N,N,"",2,454,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35096,"Scarborough North","Scarborough-Nord"," 65","Toronto",N,N,"",2,454,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 65","Toronto",N,N,"",2,454,"Shah","","Fazal","Conservative","Conservateur",N,N,27
+35096,"Scarborough North","Scarborough-Nord"," 66","Toronto",N,N,"65",0,411,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 66","Toronto",N,N,"65",0,411,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 66","Toronto",N,N,"65",0,411,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 66","Toronto",N,N,"65",0,411,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 66","Toronto",N,N,"65",0,411,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 67","Toronto",N,N,"",10,445,"Chen","","Shaun","Liberal","Libéral",Y,Y,100
+35096,"Scarborough North","Scarborough-Nord"," 67","Toronto",N,N,"",10,445,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 67","Toronto",N,N,"",10,445,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35096,"Scarborough North","Scarborough-Nord"," 67","Toronto",N,N,"",10,445,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,2
+35096,"Scarborough North","Scarborough-Nord"," 67","Toronto",N,N,"",10,445,"Shah","","Fazal","Conservative","Conservateur",N,N,56
+35096,"Scarborough North","Scarborough-Nord"," 68","Toronto",N,N,"67",0,343,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 68","Toronto",N,N,"67",0,343,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 68","Toronto",N,N,"67",0,343,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 68","Toronto",N,N,"67",0,343,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 68","Toronto",N,N,"67",0,343,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 69","Toronto",N,N,"",0,505,"Chen","","Shaun","Liberal","Libéral",Y,Y,112
+35096,"Scarborough North","Scarborough-Nord"," 69","Toronto",N,N,"",0,505,"Khan","","Sheraz","Centrist","Centriste",N,N,3
+35096,"Scarborough North","Scarborough-Nord"," 69","Toronto",N,N,"",0,505,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35096,"Scarborough North","Scarborough-Nord"," 69","Toronto",N,N,"",0,505,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,5
+35096,"Scarborough North","Scarborough-Nord"," 69","Toronto",N,N,"",0,505,"Shah","","Fazal","Conservative","Conservateur",N,N,45
+35096,"Scarborough North","Scarborough-Nord"," 70","Toronto",N,N,"69",0,378,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 70","Toronto",N,N,"69",0,378,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 70","Toronto",N,N,"69",0,378,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 70","Toronto",N,N,"69",0,378,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 70","Toronto",N,N,"69",0,378,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 71","Toronto",N,N,"76",0,313,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 71","Toronto",N,N,"76",0,313,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 71","Toronto",N,N,"76",0,313,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 71","Toronto",N,N,"76",0,313,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 71","Toronto",N,N,"76",0,313,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 72","Toronto",N,N,"77",0,374,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 72","Toronto",N,N,"77",0,374,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 72","Toronto",N,N,"77",0,374,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 72","Toronto",N,N,"77",0,374,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 72","Toronto",N,N,"77",0,374,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 73","Toronto",N,N,"",1,393,"Chen","","Shaun","Liberal","Libéral",Y,Y,108
+35096,"Scarborough North","Scarborough-Nord"," 73","Toronto",N,N,"",1,393,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 73","Toronto",N,N,"",1,393,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35096,"Scarborough North","Scarborough-Nord"," 73","Toronto",N,N,"",1,393,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 73","Toronto",N,N,"",1,393,"Shah","","Fazal","Conservative","Conservateur",N,N,30
+35096,"Scarborough North","Scarborough-Nord"," 74","Toronto",N,N,"75",0,355,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 74","Toronto",N,N,"75",0,355,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 74","Toronto",N,N,"75",0,355,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 74","Toronto",N,N,"75",0,355,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 74","Toronto",N,N,"75",0,355,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 75","Toronto",N,N,"",0,466,"Chen","","Shaun","Liberal","Libéral",Y,Y,68
+35096,"Scarborough North","Scarborough-Nord"," 75","Toronto",N,N,"",0,466,"Khan","","Sheraz","Centrist","Centriste",N,N,1
+35096,"Scarborough North","Scarborough-Nord"," 75","Toronto",N,N,"",0,466,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35096,"Scarborough North","Scarborough-Nord"," 75","Toronto",N,N,"",0,466,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,2
+35096,"Scarborough North","Scarborough-Nord"," 75","Toronto",N,N,"",0,466,"Shah","","Fazal","Conservative","Conservateur",N,N,30
+35096,"Scarborough North","Scarborough-Nord"," 76","Toronto",N,N,"",0,383,"Chen","","Shaun","Liberal","Libéral",Y,Y,78
+35096,"Scarborough North","Scarborough-Nord"," 76","Toronto",N,N,"",0,383,"Khan","","Sheraz","Centrist","Centriste",N,N,6
+35096,"Scarborough North","Scarborough-Nord"," 76","Toronto",N,N,"",0,383,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35096,"Scarborough North","Scarborough-Nord"," 76","Toronto",N,N,"",0,383,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,3
+35096,"Scarborough North","Scarborough-Nord"," 76","Toronto",N,N,"",0,383,"Shah","","Fazal","Conservative","Conservateur",N,N,40
+35096,"Scarborough North","Scarborough-Nord"," 77","Toronto",N,N,"",1,476,"Chen","","Shaun","Liberal","Libéral",Y,Y,93
+35096,"Scarborough North","Scarborough-Nord"," 77","Toronto",N,N,"",1,476,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 77","Toronto",N,N,"",1,476,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35096,"Scarborough North","Scarborough-Nord"," 77","Toronto",N,N,"",1,476,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,1
+35096,"Scarborough North","Scarborough-Nord"," 77","Toronto",N,N,"",1,476,"Shah","","Fazal","Conservative","Conservateur",N,N,20
+35096,"Scarborough North","Scarborough-Nord"," 78","Toronto",N,N,"73",0,312,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 78","Toronto",N,N,"73",0,312,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 78","Toronto",N,N,"73",0,312,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 78","Toronto",N,N,"73",0,312,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 78","Toronto",N,N,"73",0,312,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 79","Toronto",N,N,"",1,537,"Chen","","Shaun","Liberal","Libéral",Y,Y,188
+35096,"Scarborough North","Scarborough-Nord"," 79","Toronto",N,N,"",1,537,"Khan","","Sheraz","Centrist","Centriste",N,N,2
+35096,"Scarborough North","Scarborough-Nord"," 79","Toronto",N,N,"",1,537,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35096,"Scarborough North","Scarborough-Nord"," 79","Toronto",N,N,"",1,537,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,6
+35096,"Scarborough North","Scarborough-Nord"," 79","Toronto",N,N,"",1,537,"Shah","","Fazal","Conservative","Conservateur",N,N,56
+35096,"Scarborough North","Scarborough-Nord"," 80","Toronto",N,N,"79",0,440,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 80","Toronto",N,N,"79",0,440,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 80","Toronto",N,N,"79",0,440,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 80","Toronto",N,N,"79",0,440,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 80","Toronto",N,N,"79",0,440,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 81","Toronto",N,N,"",0,428,"Chen","","Shaun","Liberal","Libéral",Y,Y,133
+35096,"Scarborough North","Scarborough-Nord"," 81","Toronto",N,N,"",0,428,"Khan","","Sheraz","Centrist","Centriste",N,N,8
+35096,"Scarborough North","Scarborough-Nord"," 81","Toronto",N,N,"",0,428,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35096,"Scarborough North","Scarborough-Nord"," 81","Toronto",N,N,"",0,428,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,8
+35096,"Scarborough North","Scarborough-Nord"," 81","Toronto",N,N,"",0,428,"Shah","","Fazal","Conservative","Conservateur",N,N,71
+35096,"Scarborough North","Scarborough-Nord"," 82","Toronto",N,N,"",2,496,"Chen","","Shaun","Liberal","Libéral",Y,Y,163
+35096,"Scarborough North","Scarborough-Nord"," 82","Toronto",N,N,"",2,496,"Khan","","Sheraz","Centrist","Centriste",N,N,6
+35096,"Scarborough North","Scarborough-Nord"," 82","Toronto",N,N,"",2,496,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35096,"Scarborough North","Scarborough-Nord"," 82","Toronto",N,N,"",2,496,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 82","Toronto",N,N,"",2,496,"Shah","","Fazal","Conservative","Conservateur",N,N,55
+35096,"Scarborough North","Scarborough-Nord"," 83","Toronto",N,N,"82",0,382,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 83","Toronto",N,N,"82",0,382,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 83","Toronto",N,N,"82",0,382,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 83","Toronto",N,N,"82",0,382,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 83","Toronto",N,N,"82",0,382,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 84","Toronto",N,N,"87",0,301,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 84","Toronto",N,N,"87",0,301,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 84","Toronto",N,N,"87",0,301,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 84","Toronto",N,N,"87",0,301,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 84","Toronto",N,N,"87",0,301,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 85","Toronto",N,N,"",7,450,"Chen","","Shaun","Liberal","Libéral",Y,Y,157
+35096,"Scarborough North","Scarborough-Nord"," 85","Toronto",N,N,"",7,450,"Khan","","Sheraz","Centrist","Centriste",N,N,1
+35096,"Scarborough North","Scarborough-Nord"," 85","Toronto",N,N,"",7,450,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35096,"Scarborough North","Scarborough-Nord"," 85","Toronto",N,N,"",7,450,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,9
+35096,"Scarborough North","Scarborough-Nord"," 85","Toronto",N,N,"",7,450,"Shah","","Fazal","Conservative","Conservateur",N,N,33
+35096,"Scarborough North","Scarborough-Nord"," 86","Toronto",N,N,"85",0,443,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 86","Toronto",N,N,"85",0,443,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 86","Toronto",N,N,"85",0,443,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 86","Toronto",N,N,"85",0,443,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 86","Toronto",N,N,"85",0,443,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 87","Toronto",N,N,"",3,577,"Chen","","Shaun","Liberal","Libéral",Y,Y,177
+35096,"Scarborough North","Scarborough-Nord"," 87","Toronto",N,N,"",3,577,"Khan","","Sheraz","Centrist","Centriste",N,N,5
+35096,"Scarborough North","Scarborough-Nord"," 87","Toronto",N,N,"",3,577,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35096,"Scarborough North","Scarborough-Nord"," 87","Toronto",N,N,"",3,577,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 87","Toronto",N,N,"",3,577,"Shah","","Fazal","Conservative","Conservateur",N,N,41
+35096,"Scarborough North","Scarborough-Nord"," 88","Toronto",N,N,"",1,475,"Chen","","Shaun","Liberal","Libéral",Y,Y,132
+35096,"Scarborough North","Scarborough-Nord"," 88","Toronto",N,N,"",1,475,"Khan","","Sheraz","Centrist","Centriste",N,N,1
+35096,"Scarborough North","Scarborough-Nord"," 88","Toronto",N,N,"",1,475,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35096,"Scarborough North","Scarborough-Nord"," 88","Toronto",N,N,"",1,475,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,8
+35096,"Scarborough North","Scarborough-Nord"," 88","Toronto",N,N,"",1,475,"Shah","","Fazal","Conservative","Conservateur",N,N,51
+35096,"Scarborough North","Scarborough-Nord"," 89","Toronto",N,N,"88",0,314,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 89","Toronto",N,N,"88",0,314,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 89","Toronto",N,N,"88",0,314,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 89","Toronto",N,N,"88",0,314,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 89","Toronto",N,N,"88",0,314,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 90","Toronto",N,N,"",0,497,"Chen","","Shaun","Liberal","Libéral",Y,Y,208
+35096,"Scarborough North","Scarborough-Nord"," 90","Toronto",N,N,"",0,497,"Khan","","Sheraz","Centrist","Centriste",N,N,2
+35096,"Scarborough North","Scarborough-Nord"," 90","Toronto",N,N,"",0,497,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35096,"Scarborough North","Scarborough-Nord"," 90","Toronto",N,N,"",0,497,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,3
+35096,"Scarborough North","Scarborough-Nord"," 90","Toronto",N,N,"",0,497,"Shah","","Fazal","Conservative","Conservateur",N,N,38
+35096,"Scarborough North","Scarborough-Nord"," 91","Toronto",N,N,"",3,494,"Chen","","Shaun","Liberal","Libéral",Y,Y,162
+35096,"Scarborough North","Scarborough-Nord"," 91","Toronto",N,N,"",3,494,"Khan","","Sheraz","Centrist","Centriste",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 91","Toronto",N,N,"",3,494,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35096,"Scarborough North","Scarborough-Nord"," 91","Toronto",N,N,"",3,494,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,8
+35096,"Scarborough North","Scarborough-Nord"," 91","Toronto",N,N,"",3,494,"Shah","","Fazal","Conservative","Conservateur",N,N,37
+35096,"Scarborough North","Scarborough-Nord"," 92","Toronto",N,N,"91",0,423,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 92","Toronto",N,N,"91",0,423,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 92","Toronto",N,N,"91",0,423,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 92","Toronto",N,N,"91",0,423,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 92","Toronto",N,N,"91",0,423,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 93","Toronto",N,N,"94",0,426,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 93","Toronto",N,N,"94",0,426,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 93","Toronto",N,N,"94",0,426,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 93","Toronto",N,N,"94",0,426,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 93","Toronto",N,N,"94",0,426,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 94","Toronto",N,N,"",3,482,"Chen","","Shaun","Liberal","Libéral",Y,Y,175
+35096,"Scarborough North","Scarborough-Nord"," 94","Toronto",N,N,"",3,482,"Khan","","Sheraz","Centrist","Centriste",N,N,9
+35096,"Scarborough North","Scarborough-Nord"," 94","Toronto",N,N,"",3,482,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35096,"Scarborough North","Scarborough-Nord"," 94","Toronto",N,N,"",3,482,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,6
+35096,"Scarborough North","Scarborough-Nord"," 94","Toronto",N,N,"",3,482,"Shah","","Fazal","Conservative","Conservateur",N,N,32
+35096,"Scarborough North","Scarborough-Nord"," 95","Toronto",N,N,"90",0,364,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 95","Toronto",N,N,"90",0,364,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 95","Toronto",N,N,"90",0,364,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 95","Toronto",N,N,"90",0,364,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 95","Toronto",N,N,"90",0,364,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 96","Toronto",N,N,"97",0,457,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 96","Toronto",N,N,"97",0,457,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 96","Toronto",N,N,"97",0,457,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 96","Toronto",N,N,"97",0,457,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 96","Toronto",N,N,"97",0,457,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 97","Toronto",N,N,"",1,479,"Chen","","Shaun","Liberal","Libéral",Y,Y,201
+35096,"Scarborough North","Scarborough-Nord"," 97","Toronto",N,N,"",1,479,"Khan","","Sheraz","Centrist","Centriste",N,N,1
+35096,"Scarborough North","Scarborough-Nord"," 97","Toronto",N,N,"",1,479,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35096,"Scarborough North","Scarborough-Nord"," 97","Toronto",N,N,"",1,479,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,6
+35096,"Scarborough North","Scarborough-Nord"," 97","Toronto",N,N,"",1,479,"Shah","","Fazal","Conservative","Conservateur",N,N,27
+35096,"Scarborough North","Scarborough-Nord"," 98","Toronto",N,N,"99",0,399,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 98","Toronto",N,N,"99",0,399,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 98","Toronto",N,N,"99",0,399,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 98","Toronto",N,N,"99",0,399,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 98","Toronto",N,N,"99",0,399,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 99","Toronto",N,N,"",0,448,"Chen","","Shaun","Liberal","Libéral",Y,Y,147
+35096,"Scarborough North","Scarborough-Nord"," 99","Toronto",N,N,"",0,448,"Khan","","Sheraz","Centrist","Centriste",N,N,9
+35096,"Scarborough North","Scarborough-Nord"," 99","Toronto",N,N,"",0,448,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35096,"Scarborough North","Scarborough-Nord"," 99","Toronto",N,N,"",0,448,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 99","Toronto",N,N,"",0,448,"Shah","","Fazal","Conservative","Conservateur",N,N,34
+35096,"Scarborough North","Scarborough-Nord"," 100","Toronto",N,N,"",3,514,"Chen","","Shaun","Liberal","Libéral",Y,Y,104
+35096,"Scarborough North","Scarborough-Nord"," 100","Toronto",N,N,"",3,514,"Khan","","Sheraz","Centrist","Centriste",N,N,7
+35096,"Scarborough North","Scarborough-Nord"," 100","Toronto",N,N,"",3,514,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35096,"Scarborough North","Scarborough-Nord"," 100","Toronto",N,N,"",3,514,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,7
+35096,"Scarborough North","Scarborough-Nord"," 100","Toronto",N,N,"",3,514,"Shah","","Fazal","Conservative","Conservateur",N,N,49
+35096,"Scarborough North","Scarborough-Nord"," 101","Toronto",N,N,"100",0,371,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 101","Toronto",N,N,"100",0,371,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 101","Toronto",N,N,"100",0,371,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 101","Toronto",N,N,"100",0,371,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 101","Toronto",N,N,"100",0,371,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 102","Toronto",N,N,"103",0,359,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 102","Toronto",N,N,"103",0,359,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 102","Toronto",N,N,"103",0,359,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 102","Toronto",N,N,"103",0,359,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 102","Toronto",N,N,"103",0,359,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 103","Toronto",N,N,"",0,408,"Chen","","Shaun","Liberal","Libéral",Y,Y,147
+35096,"Scarborough North","Scarborough-Nord"," 103","Toronto",N,N,"",0,408,"Khan","","Sheraz","Centrist","Centriste",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 103","Toronto",N,N,"",0,408,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35096,"Scarborough North","Scarborough-Nord"," 103","Toronto",N,N,"",0,408,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,9
+35096,"Scarborough North","Scarborough-Nord"," 103","Toronto",N,N,"",0,408,"Shah","","Fazal","Conservative","Conservateur",N,N,43
+35096,"Scarborough North","Scarborough-Nord"," 104","Toronto",N,N,"105",0,355,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 104","Toronto",N,N,"105",0,355,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 104","Toronto",N,N,"105",0,355,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 104","Toronto",N,N,"105",0,355,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 104","Toronto",N,N,"105",0,355,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 105","Toronto",N,N,"",0,413,"Chen","","Shaun","Liberal","Libéral",Y,Y,131
+35096,"Scarborough North","Scarborough-Nord"," 105","Toronto",N,N,"",0,413,"Khan","","Sheraz","Centrist","Centriste",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 105","Toronto",N,N,"",0,413,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35096,"Scarborough North","Scarborough-Nord"," 105","Toronto",N,N,"",0,413,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,7
+35096,"Scarborough North","Scarborough-Nord"," 105","Toronto",N,N,"",0,413,"Shah","","Fazal","Conservative","Conservateur",N,N,43
+35096,"Scarborough North","Scarborough-Nord"," 106","Toronto",N,N,"132",0,378,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 106","Toronto",N,N,"132",0,378,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 106","Toronto",N,N,"132",0,378,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 106","Toronto",N,N,"132",0,378,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 106","Toronto",N,N,"132",0,378,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 107","Toronto",N,N,"109",0,386,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 107","Toronto",N,N,"109",0,386,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 107","Toronto",N,N,"109",0,386,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 107","Toronto",N,N,"109",0,386,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 107","Toronto",N,N,"109",0,386,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 108","Toronto",N,N,"",9,549,"Chen","","Shaun","Liberal","Libéral",Y,Y,175
+35096,"Scarborough North","Scarborough-Nord"," 108","Toronto",N,N,"",9,549,"Khan","","Sheraz","Centrist","Centriste",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 108","Toronto",N,N,"",9,549,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35096,"Scarborough North","Scarborough-Nord"," 108","Toronto",N,N,"",9,549,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,9
+35096,"Scarborough North","Scarborough-Nord"," 108","Toronto",N,N,"",9,549,"Shah","","Fazal","Conservative","Conservateur",N,N,63
+35096,"Scarborough North","Scarborough-Nord"," 109","Toronto",N,N,"",2,428,"Chen","","Shaun","Liberal","Libéral",Y,Y,140
+35096,"Scarborough North","Scarborough-Nord"," 109","Toronto",N,N,"",2,428,"Khan","","Sheraz","Centrist","Centriste",N,N,1
+35096,"Scarborough North","Scarborough-Nord"," 109","Toronto",N,N,"",2,428,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35096,"Scarborough North","Scarborough-Nord"," 109","Toronto",N,N,"",2,428,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,14
+35096,"Scarborough North","Scarborough-Nord"," 109","Toronto",N,N,"",2,428,"Shah","","Fazal","Conservative","Conservateur",N,N,56
+35096,"Scarborough North","Scarborough-Nord"," 110","Toronto",N,N,"",1,519,"Chen","","Shaun","Liberal","Libéral",Y,Y,145
+35096,"Scarborough North","Scarborough-Nord"," 110","Toronto",N,N,"",1,519,"Khan","","Sheraz","Centrist","Centriste",N,N,2
+35096,"Scarborough North","Scarborough-Nord"," 110","Toronto",N,N,"",1,519,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35096,"Scarborough North","Scarborough-Nord"," 110","Toronto",N,N,"",1,519,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,6
+35096,"Scarborough North","Scarborough-Nord"," 110","Toronto",N,N,"",1,519,"Shah","","Fazal","Conservative","Conservateur",N,N,47
+35096,"Scarborough North","Scarborough-Nord"," 111","Toronto",N,N,"",0,398,"Chen","","Shaun","Liberal","Libéral",Y,Y,144
+35096,"Scarborough North","Scarborough-Nord"," 111","Toronto",N,N,"",0,398,"Khan","","Sheraz","Centrist","Centriste",N,N,1
+35096,"Scarborough North","Scarborough-Nord"," 111","Toronto",N,N,"",0,398,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35096,"Scarborough North","Scarborough-Nord"," 111","Toronto",N,N,"",0,398,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,6
+35096,"Scarborough North","Scarborough-Nord"," 111","Toronto",N,N,"",0,398,"Shah","","Fazal","Conservative","Conservateur",N,N,37
+35096,"Scarborough North","Scarborough-Nord"," 112","Toronto",N,N,"110",0,333,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 112","Toronto",N,N,"110",0,333,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 112","Toronto",N,N,"110",0,333,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 112","Toronto",N,N,"110",0,333,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 112","Toronto",N,N,"110",0,333,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 113","Toronto",N,N,"117",0,314,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 113","Toronto",N,N,"117",0,314,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 113","Toronto",N,N,"117",0,314,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 113","Toronto",N,N,"117",0,314,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 113","Toronto",N,N,"117",0,314,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 114","Toronto",N,N,"81",0,428,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 114","Toronto",N,N,"81",0,428,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 114","Toronto",N,N,"81",0,428,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 114","Toronto",N,N,"81",0,428,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 114","Toronto",N,N,"81",0,428,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 115","Toronto",N,N,"",1,382,"Chen","","Shaun","Liberal","Libéral",Y,Y,123
+35096,"Scarborough North","Scarborough-Nord"," 115","Toronto",N,N,"",1,382,"Khan","","Sheraz","Centrist","Centriste",N,N,1
+35096,"Scarborough North","Scarborough-Nord"," 115","Toronto",N,N,"",1,382,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35096,"Scarborough North","Scarborough-Nord"," 115","Toronto",N,N,"",1,382,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,8
+35096,"Scarborough North","Scarborough-Nord"," 115","Toronto",N,N,"",1,382,"Shah","","Fazal","Conservative","Conservateur",N,N,45
+35096,"Scarborough North","Scarborough-Nord"," 116","Toronto",N,N,"115",0,356,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 116","Toronto",N,N,"115",0,356,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 116","Toronto",N,N,"115",0,356,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 116","Toronto",N,N,"115",0,356,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 116","Toronto",N,N,"115",0,356,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 117","Toronto",N,N,"",0,340,"Chen","","Shaun","Liberal","Libéral",Y,Y,107
+35096,"Scarborough North","Scarborough-Nord"," 117","Toronto",N,N,"",0,340,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 117","Toronto",N,N,"",0,340,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35096,"Scarborough North","Scarborough-Nord"," 117","Toronto",N,N,"",0,340,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,1
+35096,"Scarborough North","Scarborough-Nord"," 117","Toronto",N,N,"",0,340,"Shah","","Fazal","Conservative","Conservateur",N,N,41
+35096,"Scarborough North","Scarborough-Nord"," 118","Toronto",N,N,"",1,448,"Chen","","Shaun","Liberal","Libéral",Y,Y,155
+35096,"Scarborough North","Scarborough-Nord"," 118","Toronto",N,N,"",1,448,"Khan","","Sheraz","Centrist","Centriste",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 118","Toronto",N,N,"",1,448,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35096,"Scarborough North","Scarborough-Nord"," 118","Toronto",N,N,"",1,448,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,9
+35096,"Scarborough North","Scarborough-Nord"," 118","Toronto",N,N,"",1,448,"Shah","","Fazal","Conservative","Conservateur",N,N,47
+35096,"Scarborough North","Scarborough-Nord"," 119","Toronto",N,N,"108",0,506,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 119","Toronto",N,N,"108",0,506,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 119","Toronto",N,N,"108",0,506,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 119","Toronto",N,N,"108",0,506,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 119","Toronto",N,N,"108",0,506,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 120","Toronto",N,N,"118",0,416,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 120","Toronto",N,N,"118",0,416,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 120","Toronto",N,N,"118",0,416,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 120","Toronto",N,N,"118",0,416,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 120","Toronto",N,N,"118",0,416,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 121","Toronto",N,N,"",1,471,"Chen","","Shaun","Liberal","Libéral",Y,Y,143
+35096,"Scarborough North","Scarborough-Nord"," 121","Toronto",N,N,"",1,471,"Khan","","Sheraz","Centrist","Centriste",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 121","Toronto",N,N,"",1,471,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35096,"Scarborough North","Scarborough-Nord"," 121","Toronto",N,N,"",1,471,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,11
+35096,"Scarborough North","Scarborough-Nord"," 121","Toronto",N,N,"",1,471,"Shah","","Fazal","Conservative","Conservateur",N,N,37
+35096,"Scarborough North","Scarborough-Nord"," 122","Toronto",N,N,"121",0,308,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 122","Toronto",N,N,"121",0,308,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 122","Toronto",N,N,"121",0,308,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 122","Toronto",N,N,"121",0,308,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 122","Toronto",N,N,"121",0,308,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 123","Toronto",N,N,"111",0,387,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 123","Toronto",N,N,"111",0,387,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 123","Toronto",N,N,"111",0,387,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 123","Toronto",N,N,"111",0,387,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 123","Toronto",N,N,"111",0,387,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 124","Toronto",N,N,"",0,378,"Chen","","Shaun","Liberal","Libéral",Y,Y,145
+35096,"Scarborough North","Scarborough-Nord"," 124","Toronto",N,N,"",0,378,"Khan","","Sheraz","Centrist","Centriste",N,N,3
+35096,"Scarborough North","Scarborough-Nord"," 124","Toronto",N,N,"",0,378,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35096,"Scarborough North","Scarborough-Nord"," 124","Toronto",N,N,"",0,378,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,6
+35096,"Scarborough North","Scarborough-Nord"," 124","Toronto",N,N,"",0,378,"Shah","","Fazal","Conservative","Conservateur",N,N,19
+35096,"Scarborough North","Scarborough-Nord"," 125","Toronto",N,N,"124",0,321,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 125","Toronto",N,N,"124",0,321,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 125","Toronto",N,N,"124",0,321,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 125","Toronto",N,N,"124",0,321,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 125","Toronto",N,N,"124",0,321,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 126","Toronto",N,N,"127",0,344,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 126","Toronto",N,N,"127",0,344,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 126","Toronto",N,N,"127",0,344,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 126","Toronto",N,N,"127",0,344,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 126","Toronto",N,N,"127",0,344,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 127","Toronto",N,N,"",0,416,"Chen","","Shaun","Liberal","Libéral",Y,Y,165
+35096,"Scarborough North","Scarborough-Nord"," 127","Toronto",N,N,"",0,416,"Khan","","Sheraz","Centrist","Centriste",N,N,2
+35096,"Scarborough North","Scarborough-Nord"," 127","Toronto",N,N,"",0,416,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35096,"Scarborough North","Scarborough-Nord"," 127","Toronto",N,N,"",0,416,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,6
+35096,"Scarborough North","Scarborough-Nord"," 127","Toronto",N,N,"",0,416,"Shah","","Fazal","Conservative","Conservateur",N,N,27
+35096,"Scarborough North","Scarborough-Nord"," 128","Toronto",N,N,"",6,431,"Chen","","Shaun","Liberal","Libéral",Y,Y,132
+35096,"Scarborough North","Scarborough-Nord"," 128","Toronto",N,N,"",6,431,"Khan","","Sheraz","Centrist","Centriste",N,N,2
+35096,"Scarborough North","Scarborough-Nord"," 128","Toronto",N,N,"",6,431,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35096,"Scarborough North","Scarborough-Nord"," 128","Toronto",N,N,"",6,431,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,7
+35096,"Scarborough North","Scarborough-Nord"," 128","Toronto",N,N,"",6,431,"Shah","","Fazal","Conservative","Conservateur",N,N,46
+35096,"Scarborough North","Scarborough-Nord"," 129","Toronto",N,N,"128",0,406,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 129","Toronto",N,N,"128",0,406,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 129","Toronto",N,N,"128",0,406,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 129","Toronto",N,N,"128",0,406,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 129","Toronto",N,N,"128",0,406,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 130","Toronto",N,N,"",3,474,"Chen","","Shaun","Liberal","Libéral",Y,Y,122
+35096,"Scarborough North","Scarborough-Nord"," 130","Toronto",N,N,"",3,474,"Khan","","Sheraz","Centrist","Centriste",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 130","Toronto",N,N,"",3,474,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35096,"Scarborough North","Scarborough-Nord"," 130","Toronto",N,N,"",3,474,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 130","Toronto",N,N,"",3,474,"Shah","","Fazal","Conservative","Conservateur",N,N,67
+35096,"Scarborough North","Scarborough-Nord"," 131","Toronto",N,N,"130",0,455,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 131","Toronto",N,N,"130",0,455,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 131","Toronto",N,N,"130",0,455,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 131","Toronto",N,N,"130",0,455,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 131","Toronto",N,N,"130",0,455,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 132","Toronto",N,N,"",5,473,"Chen","","Shaun","Liberal","Libéral",Y,Y,102
+35096,"Scarborough North","Scarborough-Nord"," 132","Toronto",N,N,"",5,473,"Khan","","Sheraz","Centrist","Centriste",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 132","Toronto",N,N,"",5,473,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35096,"Scarborough North","Scarborough-Nord"," 132","Toronto",N,N,"",5,473,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 132","Toronto",N,N,"",5,473,"Shah","","Fazal","Conservative","Conservateur",N,N,50
+35096,"Scarborough North","Scarborough-Nord"," 133","Toronto",N,N,"134",0,436,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 133","Toronto",N,N,"134",0,436,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 133","Toronto",N,N,"134",0,436,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 133","Toronto",N,N,"134",0,436,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 133","Toronto",N,N,"134",0,436,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 134","Toronto",N,N,"",3,460,"Chen","","Shaun","Liberal","Libéral",Y,Y,146
+35096,"Scarborough North","Scarborough-Nord"," 134","Toronto",N,N,"",3,460,"Khan","","Sheraz","Centrist","Centriste",N,N,3
+35096,"Scarborough North","Scarborough-Nord"," 134","Toronto",N,N,"",3,460,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35096,"Scarborough North","Scarborough-Nord"," 134","Toronto",N,N,"",3,460,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,10
+35096,"Scarborough North","Scarborough-Nord"," 134","Toronto",N,N,"",3,460,"Shah","","Fazal","Conservative","Conservateur",N,N,53
+35096,"Scarborough North","Scarborough-Nord"," 135","Toronto",N,N,"137",0,353,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 135","Toronto",N,N,"137",0,353,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 135","Toronto",N,N,"137",0,353,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 135","Toronto",N,N,"137",0,353,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 135","Toronto",N,N,"137",0,353,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 136","Toronto",N,N,"",1,349,"Chen","","Shaun","Liberal","Libéral",Y,Y,94
+35096,"Scarborough North","Scarborough-Nord"," 136","Toronto",N,N,"",1,349,"Khan","","Sheraz","Centrist","Centriste",N,N,3
+35096,"Scarborough North","Scarborough-Nord"," 136","Toronto",N,N,"",1,349,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35096,"Scarborough North","Scarborough-Nord"," 136","Toronto",N,N,"",1,349,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,3
+35096,"Scarborough North","Scarborough-Nord"," 136","Toronto",N,N,"",1,349,"Shah","","Fazal","Conservative","Conservateur",N,N,47
+35096,"Scarborough North","Scarborough-Nord"," 137","Toronto",N,N,"",1,454,"Chen","","Shaun","Liberal","Libéral",Y,Y,121
+35096,"Scarborough North","Scarborough-Nord"," 137","Toronto",N,N,"",1,454,"Khan","","Sheraz","Centrist","Centriste",N,N,3
+35096,"Scarborough North","Scarborough-Nord"," 137","Toronto",N,N,"",1,454,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35096,"Scarborough North","Scarborough-Nord"," 137","Toronto",N,N,"",1,454,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,7
+35096,"Scarborough North","Scarborough-Nord"," 137","Toronto",N,N,"",1,454,"Shah","","Fazal","Conservative","Conservateur",N,N,36
+35096,"Scarborough North","Scarborough-Nord"," 138","Toronto",N,N,"136",0,341,"Chen","","Shaun","Liberal","Libéral",Y,Y,0
+35096,"Scarborough North","Scarborough-Nord"," 138","Toronto",N,N,"136",0,341,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 138","Toronto",N,N,"136",0,341,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 138","Toronto",N,N,"136",0,341,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 138","Toronto",N,N,"136",0,341,"Shah","","Fazal","Conservative","Conservateur",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 400","Toronto",N,N,"",1,359,"Chen","","Shaun","Liberal","Libéral",Y,Y,106
+35096,"Scarborough North","Scarborough-Nord"," 400","Toronto",N,N,"",1,359,"Khan","","Sheraz","Centrist","Centriste",N,N,6
+35096,"Scarborough North","Scarborough-Nord"," 400","Toronto",N,N,"",1,359,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35096,"Scarborough North","Scarborough-Nord"," 400","Toronto",N,N,"",1,359,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,2
+35096,"Scarborough North","Scarborough-Nord"," 400","Toronto",N,N,"",1,359,"Shah","","Fazal","Conservative","Conservateur",N,N,46
+35096,"Scarborough North","Scarborough-Nord"," 401","Toronto",N,N,"",2,348,"Chen","","Shaun","Liberal","Libéral",Y,Y,86
+35096,"Scarborough North","Scarborough-Nord"," 401","Toronto",N,N,"",2,348,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 401","Toronto",N,N,"",2,348,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35096,"Scarborough North","Scarborough-Nord"," 401","Toronto",N,N,"",2,348,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 401","Toronto",N,N,"",2,348,"Shah","","Fazal","Conservative","Conservateur",N,N,28
+35096,"Scarborough North","Scarborough-Nord"," 402","Toronto",N,N,"",4,385,"Chen","","Shaun","Liberal","Libéral",Y,Y,115
+35096,"Scarborough North","Scarborough-Nord"," 402","Toronto",N,N,"",4,385,"Khan","","Sheraz","Centrist","Centriste",N,N,3
+35096,"Scarborough North","Scarborough-Nord"," 402","Toronto",N,N,"",4,385,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35096,"Scarborough North","Scarborough-Nord"," 402","Toronto",N,N,"",4,385,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,7
+35096,"Scarborough North","Scarborough-Nord"," 402","Toronto",N,N,"",4,385,"Shah","","Fazal","Conservative","Conservateur",N,N,36
+35096,"Scarborough North","Scarborough-Nord"," 403","Toronto",N,N,"",1,485,"Chen","","Shaun","Liberal","Libéral",Y,Y,161
+35096,"Scarborough North","Scarborough-Nord"," 403","Toronto",N,N,"",1,485,"Khan","","Sheraz","Centrist","Centriste",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 403","Toronto",N,N,"",1,485,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35096,"Scarborough North","Scarborough-Nord"," 403","Toronto",N,N,"",1,485,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,5
+35096,"Scarborough North","Scarborough-Nord"," 403","Toronto",N,N,"",1,485,"Shah","","Fazal","Conservative","Conservateur",N,N,44
+35096,"Scarborough North","Scarborough-Nord"," 404","Toronto",N,N,"",2,453,"Chen","","Shaun","Liberal","Libéral",Y,Y,148
+35096,"Scarborough North","Scarborough-Nord"," 404","Toronto",N,N,"",2,453,"Khan","","Sheraz","Centrist","Centriste",N,N,2
+35096,"Scarborough North","Scarborough-Nord"," 404","Toronto",N,N,"",2,453,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35096,"Scarborough North","Scarborough-Nord"," 404","Toronto",N,N,"",2,453,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,3
+35096,"Scarborough North","Scarborough-Nord"," 404","Toronto",N,N,"",2,453,"Shah","","Fazal","Conservative","Conservateur",N,N,53
+35096,"Scarborough North","Scarborough-Nord"," 405","Toronto",N,N,"",0,468,"Chen","","Shaun","Liberal","Libéral",Y,Y,196
+35096,"Scarborough North","Scarborough-Nord"," 405","Toronto",N,N,"",0,468,"Khan","","Sheraz","Centrist","Centriste",N,N,5
+35096,"Scarborough North","Scarborough-Nord"," 405","Toronto",N,N,"",0,468,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35096,"Scarborough North","Scarborough-Nord"," 405","Toronto",N,N,"",0,468,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,3
+35096,"Scarborough North","Scarborough-Nord"," 405","Toronto",N,N,"",0,468,"Shah","","Fazal","Conservative","Conservateur",N,N,34
+35096,"Scarborough North","Scarborough-Nord"," 406","Toronto",N,N,"",4,477,"Chen","","Shaun","Liberal","Libéral",Y,Y,137
+35096,"Scarborough North","Scarborough-Nord"," 406","Toronto",N,N,"",4,477,"Khan","","Sheraz","Centrist","Centriste",N,N,3
+35096,"Scarborough North","Scarborough-Nord"," 406","Toronto",N,N,"",4,477,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35096,"Scarborough North","Scarborough-Nord"," 406","Toronto",N,N,"",4,477,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 406","Toronto",N,N,"",4,477,"Shah","","Fazal","Conservative","Conservateur",N,N,43
+35096,"Scarborough North","Scarborough-Nord"," 407","Toronto",N,N,"",0,425,"Chen","","Shaun","Liberal","Libéral",Y,Y,118
+35096,"Scarborough North","Scarborough-Nord"," 407","Toronto",N,N,"",0,425,"Khan","","Sheraz","Centrist","Centriste",N,N,3
+35096,"Scarborough North","Scarborough-Nord"," 407","Toronto",N,N,"",0,425,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35096,"Scarborough North","Scarborough-Nord"," 407","Toronto",N,N,"",0,425,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,5
+35096,"Scarborough North","Scarborough-Nord"," 407","Toronto",N,N,"",0,425,"Shah","","Fazal","Conservative","Conservateur",N,N,58
+35096,"Scarborough North","Scarborough-Nord"," 408","Toronto",N,N,"",1,408,"Chen","","Shaun","Liberal","Libéral",Y,Y,167
+35096,"Scarborough North","Scarborough-Nord"," 408","Toronto",N,N,"",1,408,"Khan","","Sheraz","Centrist","Centriste",N,N,3
+35096,"Scarborough North","Scarborough-Nord"," 408","Toronto",N,N,"",1,408,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35096,"Scarborough North","Scarborough-Nord"," 408","Toronto",N,N,"",1,408,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,8
+35096,"Scarborough North","Scarborough-Nord"," 408","Toronto",N,N,"",1,408,"Shah","","Fazal","Conservative","Conservateur",N,N,30
+35096,"Scarborough North","Scarborough-Nord"," 409","Toronto",N,N,"",0,347,"Chen","","Shaun","Liberal","Libéral",Y,Y,130
+35096,"Scarborough North","Scarborough-Nord"," 409","Toronto",N,N,"",0,347,"Khan","","Sheraz","Centrist","Centriste",N,N,2
+35096,"Scarborough North","Scarborough-Nord"," 409","Toronto",N,N,"",0,347,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35096,"Scarborough North","Scarborough-Nord"," 409","Toronto",N,N,"",0,347,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,12
+35096,"Scarborough North","Scarborough-Nord"," 409","Toronto",N,N,"",0,347,"Shah","","Fazal","Conservative","Conservateur",N,N,16
+35096,"Scarborough North","Scarborough-Nord"," 410","Toronto",N,N,"",0,332,"Chen","","Shaun","Liberal","Libéral",Y,Y,116
+35096,"Scarborough North","Scarborough-Nord"," 410","Toronto",N,N,"",0,332,"Khan","","Sheraz","Centrist","Centriste",N,N,2
+35096,"Scarborough North","Scarborough-Nord"," 410","Toronto",N,N,"",0,332,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35096,"Scarborough North","Scarborough-Nord"," 410","Toronto",N,N,"",0,332,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,2
+35096,"Scarborough North","Scarborough-Nord"," 410","Toronto",N,N,"",0,332,"Shah","","Fazal","Conservative","Conservateur",N,N,34
+35096,"Scarborough North","Scarborough-Nord"," 411","Toronto",N,N,"",2,473,"Chen","","Shaun","Liberal","Libéral",Y,Y,138
+35096,"Scarborough North","Scarborough-Nord"," 411","Toronto",N,N,"",2,473,"Khan","","Sheraz","Centrist","Centriste",N,N,3
+35096,"Scarborough North","Scarborough-Nord"," 411","Toronto",N,N,"",2,473,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35096,"Scarborough North","Scarborough-Nord"," 411","Toronto",N,N,"",2,473,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,6
+35096,"Scarborough North","Scarborough-Nord"," 411","Toronto",N,N,"",2,473,"Shah","","Fazal","Conservative","Conservateur",N,N,52
+35096,"Scarborough North","Scarborough-Nord"," 412","Toronto",N,N,"",0,385,"Chen","","Shaun","Liberal","Libéral",Y,Y,152
+35096,"Scarborough North","Scarborough-Nord"," 412","Toronto",N,N,"",0,385,"Khan","","Sheraz","Centrist","Centriste",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 412","Toronto",N,N,"",0,385,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35096,"Scarborough North","Scarborough-Nord"," 412","Toronto",N,N,"",0,385,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,8
+35096,"Scarborough North","Scarborough-Nord"," 412","Toronto",N,N,"",0,385,"Shah","","Fazal","Conservative","Conservateur",N,N,34
+35096,"Scarborough North","Scarborough-Nord"," 413","Toronto",N,N,"",2,526,"Chen","","Shaun","Liberal","Libéral",Y,Y,190
+35096,"Scarborough North","Scarborough-Nord"," 413","Toronto",N,N,"",2,526,"Khan","","Sheraz","Centrist","Centriste",N,N,5
+35096,"Scarborough North","Scarborough-Nord"," 413","Toronto",N,N,"",2,526,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35096,"Scarborough North","Scarborough-Nord"," 413","Toronto",N,N,"",2,526,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,15
+35096,"Scarborough North","Scarborough-Nord"," 413","Toronto",N,N,"",2,526,"Shah","","Fazal","Conservative","Conservateur",N,N,52
+35096,"Scarborough North","Scarborough-Nord"," 500","Mobile poll/Bureau itinérant",N,N,"",1,60,"Chen","","Shaun","Liberal","Libéral",Y,Y,10
+35096,"Scarborough North","Scarborough-Nord"," 500","Mobile poll/Bureau itinérant",N,N,"",1,60,"Khan","","Sheraz","Centrist","Centriste",N,N,1
+35096,"Scarborough North","Scarborough-Nord"," 500","Mobile poll/Bureau itinérant",N,N,"",1,60,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+35096,"Scarborough North","Scarborough-Nord"," 500","Mobile poll/Bureau itinérant",N,N,"",1,60,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 500","Mobile poll/Bureau itinérant",N,N,"",1,60,"Shah","","Fazal","Conservative","Conservateur",N,N,7
+35096,"Scarborough North","Scarborough-Nord"," 501","Mobile poll/Bureau itinérant",N,N,"",1,147,"Chen","","Shaun","Liberal","Libéral",Y,Y,67
+35096,"Scarborough North","Scarborough-Nord"," 501","Mobile poll/Bureau itinérant",N,N,"",1,147,"Khan","","Sheraz","Centrist","Centriste",N,N,2
+35096,"Scarborough North","Scarborough-Nord"," 501","Mobile poll/Bureau itinérant",N,N,"",1,147,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 501","Mobile poll/Bureau itinérant",N,N,"",1,147,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,1
+35096,"Scarborough North","Scarborough-Nord"," 501","Mobile poll/Bureau itinérant",N,N,"",1,147,"Shah","","Fazal","Conservative","Conservateur",N,N,19
+35096,"Scarborough North","Scarborough-Nord"," 502","Mobile poll/Bureau itinérant",N,N,"",1,200,"Chen","","Shaun","Liberal","Libéral",Y,Y,98
+35096,"Scarborough North","Scarborough-Nord"," 502","Mobile poll/Bureau itinérant",N,N,"",1,200,"Khan","","Sheraz","Centrist","Centriste",N,N,3
+35096,"Scarborough North","Scarborough-Nord"," 502","Mobile poll/Bureau itinérant",N,N,"",1,200,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 502","Mobile poll/Bureau itinérant",N,N,"",1,200,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,2
+35096,"Scarborough North","Scarborough-Nord"," 502","Mobile poll/Bureau itinérant",N,N,"",1,200,"Shah","","Fazal","Conservative","Conservateur",N,N,22
+35096,"Scarborough North","Scarborough-Nord"," 503","Mobile poll/Bureau itinérant",N,N,"",0,166,"Chen","","Shaun","Liberal","Libéral",Y,Y,73
+35096,"Scarborough North","Scarborough-Nord"," 503","Mobile poll/Bureau itinérant",N,N,"",0,166,"Khan","","Sheraz","Centrist","Centriste",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 503","Mobile poll/Bureau itinérant",N,N,"",0,166,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35096,"Scarborough North","Scarborough-Nord"," 503","Mobile poll/Bureau itinérant",N,N,"",0,166,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,0
+35096,"Scarborough North","Scarborough-Nord"," 503","Mobile poll/Bureau itinérant",N,N,"",0,166,"Shah","","Fazal","Conservative","Conservateur",N,N,16
+35096,"Scarborough North","Scarborough-Nord"," 504","Mobile poll/Bureau itinérant",N,N,"",3,111,"Chen","","Shaun","Liberal","Libéral",Y,Y,22
+35096,"Scarborough North","Scarborough-Nord"," 504","Mobile poll/Bureau itinérant",N,N,"",3,111,"Khan","","Sheraz","Centrist","Centriste",N,N,1
+35096,"Scarborough North","Scarborough-Nord"," 504","Mobile poll/Bureau itinérant",N,N,"",3,111,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35096,"Scarborough North","Scarborough-Nord"," 504","Mobile poll/Bureau itinérant",N,N,"",3,111,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,2
+35096,"Scarborough North","Scarborough-Nord"," 504","Mobile poll/Bureau itinérant",N,N,"",3,111,"Shah","","Fazal","Conservative","Conservateur",N,N,7
+35096,"Scarborough North","Scarborough-Nord"," 505","Mobile poll/Bureau itinérant",N,N,"",1,199,"Chen","","Shaun","Liberal","Libéral",Y,Y,41
+35096,"Scarborough North","Scarborough-Nord"," 505","Mobile poll/Bureau itinérant",N,N,"",1,199,"Khan","","Sheraz","Centrist","Centriste",N,N,3
+35096,"Scarborough North","Scarborough-Nord"," 505","Mobile poll/Bureau itinérant",N,N,"",1,199,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35096,"Scarborough North","Scarborough-Nord"," 505","Mobile poll/Bureau itinérant",N,N,"",1,199,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,3
+35096,"Scarborough North","Scarborough-Nord"," 505","Mobile poll/Bureau itinérant",N,N,"",1,199,"Shah","","Fazal","Conservative","Conservateur",N,N,14
+35096,"Scarborough North","Scarborough-Nord"," 600","Toronto",N,N,"",1,0,"Chen","","Shaun","Liberal","Libéral",Y,Y,410
+35096,"Scarborough North","Scarborough-Nord"," 600","Toronto",N,N,"",1,0,"Khan","","Sheraz","Centrist","Centriste",N,N,2
+35096,"Scarborough North","Scarborough-Nord"," 600","Toronto",N,N,"",1,0,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+35096,"Scarborough North","Scarborough-Nord"," 600","Toronto",N,N,"",1,0,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,9
+35096,"Scarborough North","Scarborough-Nord"," 600","Toronto",N,N,"",1,0,"Shah","","Fazal","Conservative","Conservateur",N,N,103
+35096,"Scarborough North","Scarborough-Nord"," 601","Toronto",N,N,"",13,0,"Chen","","Shaun","Liberal","Libéral",Y,Y,848
+35096,"Scarborough North","Scarborough-Nord"," 601","Toronto",N,N,"",13,0,"Khan","","Sheraz","Centrist","Centriste",N,N,11
+35096,"Scarborough North","Scarborough-Nord"," 601","Toronto",N,N,"",13,0,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,120
+35096,"Scarborough North","Scarborough-Nord"," 601","Toronto",N,N,"",13,0,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,22
+35096,"Scarborough North","Scarborough-Nord"," 601","Toronto",N,N,"",13,0,"Shah","","Fazal","Conservative","Conservateur",N,N,213
+35096,"Scarborough North","Scarborough-Nord"," 602","Toronto",N,N,"",8,0,"Chen","","Shaun","Liberal","Libéral",Y,Y,734
+35096,"Scarborough North","Scarborough-Nord"," 602","Toronto",N,N,"",8,0,"Khan","","Sheraz","Centrist","Centriste",N,N,8
+35096,"Scarborough North","Scarborough-Nord"," 602","Toronto",N,N,"",8,0,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+35096,"Scarborough North","Scarborough-Nord"," 602","Toronto",N,N,"",8,0,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,19
+35096,"Scarborough North","Scarborough-Nord"," 602","Toronto",N,N,"",8,0,"Shah","","Fazal","Conservative","Conservateur",N,N,232
+35096,"Scarborough North","Scarborough-Nord"," 603","Toronto",N,N,"",9,0,"Chen","","Shaun","Liberal","Libéral",Y,Y,594
+35096,"Scarborough North","Scarborough-Nord"," 603","Toronto",N,N,"",9,0,"Khan","","Sheraz","Centrist","Centriste",N,N,9
+35096,"Scarborough North","Scarborough-Nord"," 603","Toronto",N,N,"",9,0,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,82
+35096,"Scarborough North","Scarborough-Nord"," 603","Toronto",N,N,"",9,0,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,18
+35096,"Scarborough North","Scarborough-Nord"," 603","Toronto",N,N,"",9,0,"Shah","","Fazal","Conservative","Conservateur",N,N,191
+35096,"Scarborough North","Scarborough-Nord"," 604","Toronto",N,N,"",8,0,"Chen","","Shaun","Liberal","Libéral",Y,Y,584
+35096,"Scarborough North","Scarborough-Nord"," 604","Toronto",N,N,"",8,0,"Khan","","Sheraz","Centrist","Centriste",N,N,7
+35096,"Scarborough North","Scarborough-Nord"," 604","Toronto",N,N,"",8,0,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+35096,"Scarborough North","Scarborough-Nord"," 604","Toronto",N,N,"",8,0,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,18
+35096,"Scarborough North","Scarborough-Nord"," 604","Toronto",N,N,"",8,0,"Shah","","Fazal","Conservative","Conservateur",N,N,162
+35096,"Scarborough North","Scarborough-Nord"," 605","Toronto",N,N,"",4,0,"Chen","","Shaun","Liberal","Libéral",Y,Y,636
+35096,"Scarborough North","Scarborough-Nord"," 605","Toronto",N,N,"",4,0,"Khan","","Sheraz","Centrist","Centriste",N,N,9
+35096,"Scarborough North","Scarborough-Nord"," 605","Toronto",N,N,"",4,0,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+35096,"Scarborough North","Scarborough-Nord"," 605","Toronto",N,N,"",4,0,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,19
+35096,"Scarborough North","Scarborough-Nord"," 605","Toronto",N,N,"",4,0,"Shah","","Fazal","Conservative","Conservateur",N,N,188
+35096,"Scarborough North","Scarborough-Nord"," 606","Toronto",N,N,"",9,0,"Chen","","Shaun","Liberal","Libéral",Y,Y,594
+35096,"Scarborough North","Scarborough-Nord"," 606","Toronto",N,N,"",9,0,"Khan","","Sheraz","Centrist","Centriste",N,N,6
+35096,"Scarborough North","Scarborough-Nord"," 606","Toronto",N,N,"",9,0,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+35096,"Scarborough North","Scarborough-Nord"," 606","Toronto",N,N,"",9,0,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,9
+35096,"Scarborough North","Scarborough-Nord"," 606","Toronto",N,N,"",9,0,"Shah","","Fazal","Conservative","Conservateur",N,N,100
+35096,"Scarborough North","Scarborough-Nord"," 607","Toronto",N,N,"",9,0,"Chen","","Shaun","Liberal","Libéral",Y,Y,724
+35096,"Scarborough North","Scarborough-Nord"," 607","Toronto",N,N,"",9,0,"Khan","","Sheraz","Centrist","Centriste",N,N,14
+35096,"Scarborough North","Scarborough-Nord"," 607","Toronto",N,N,"",9,0,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,108
+35096,"Scarborough North","Scarborough-Nord"," 607","Toronto",N,N,"",9,0,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,18
+35096,"Scarborough North","Scarborough-Nord"," 607","Toronto",N,N,"",9,0,"Shah","","Fazal","Conservative","Conservateur",N,N,127
+35096,"Scarborough North","Scarborough-Nord"," 608","Toronto",N,N,"",31,0,"Chen","","Shaun","Liberal","Libéral",Y,Y,803
+35096,"Scarborough North","Scarborough-Nord"," 608","Toronto",N,N,"",31,0,"Khan","","Sheraz","Centrist","Centriste",N,N,7
+35096,"Scarborough North","Scarborough-Nord"," 608","Toronto",N,N,"",31,0,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,125
+35096,"Scarborough North","Scarborough-Nord"," 608","Toronto",N,N,"",31,0,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,41
+35096,"Scarborough North","Scarborough-Nord"," 608","Toronto",N,N,"",31,0,"Shah","","Fazal","Conservative","Conservateur",N,N,198
+35096,"Scarborough North","Scarborough-Nord"," 609","Toronto",N,N,"",4,0,"Chen","","Shaun","Liberal","Libéral",Y,Y,471
+35096,"Scarborough North","Scarborough-Nord"," 609","Toronto",N,N,"",4,0,"Khan","","Sheraz","Centrist","Centriste",N,N,7
+35096,"Scarborough North","Scarborough-Nord"," 609","Toronto",N,N,"",4,0,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+35096,"Scarborough North","Scarborough-Nord"," 609","Toronto",N,N,"",4,0,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,17
+35096,"Scarborough North","Scarborough-Nord"," 609","Toronto",N,N,"",4,0,"Shah","","Fazal","Conservative","Conservateur",N,N,107
+35096,"Scarborough North","Scarborough-Nord"," 610","Toronto",N,N,"",9,0,"Chen","","Shaun","Liberal","Libéral",Y,Y,625
+35096,"Scarborough North","Scarborough-Nord"," 610","Toronto",N,N,"",9,0,"Khan","","Sheraz","Centrist","Centriste",N,N,7
+35096,"Scarborough North","Scarborough-Nord"," 610","Toronto",N,N,"",9,0,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,80
+35096,"Scarborough North","Scarborough-Nord"," 610","Toronto",N,N,"",9,0,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,21
+35096,"Scarborough North","Scarborough-Nord"," 610","Toronto",N,N,"",9,0,"Shah","","Fazal","Conservative","Conservateur",N,N,238
+35096,"Scarborough North","Scarborough-Nord"," 611","Toronto",N,N,"",11,0,"Chen","","Shaun","Liberal","Libéral",Y,Y,688
+35096,"Scarborough North","Scarborough-Nord"," 611","Toronto",N,N,"",11,0,"Khan","","Sheraz","Centrist","Centriste",N,N,14
+35096,"Scarborough North","Scarborough-Nord"," 611","Toronto",N,N,"",11,0,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,88
+35096,"Scarborough North","Scarborough-Nord"," 611","Toronto",N,N,"",11,0,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,29
+35096,"Scarborough North","Scarborough-Nord"," 611","Toronto",N,N,"",11,0,"Shah","","Fazal","Conservative","Conservateur",N,N,202
+35096,"Scarborough North","Scarborough-Nord"," 612","Toronto",N,N,"",5,0,"Chen","","Shaun","Liberal","Libéral",Y,Y,528
+35096,"Scarborough North","Scarborough-Nord"," 612","Toronto",N,N,"",5,0,"Khan","","Sheraz","Centrist","Centriste",N,N,8
+35096,"Scarborough North","Scarborough-Nord"," 612","Toronto",N,N,"",5,0,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,84
+35096,"Scarborough North","Scarborough-Nord"," 612","Toronto",N,N,"",5,0,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,21
+35096,"Scarborough North","Scarborough-Nord"," 612","Toronto",N,N,"",5,0,"Shah","","Fazal","Conservative","Conservateur",N,N,135
+35096,"Scarborough North","Scarborough-Nord"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",15,208,"Chen","","Shaun","Liberal","Libéral",Y,Y,171
+35096,"Scarborough North","Scarborough-Nord"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",15,208,"Khan","","Sheraz","Centrist","Centriste",N,N,2
+35096,"Scarborough North","Scarborough-Nord"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",15,208,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+35096,"Scarborough North","Scarborough-Nord"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",15,208,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,11
+35096,"Scarborough North","Scarborough-Nord"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",15,208,"Shah","","Fazal","Conservative","Conservateur",N,N,52
+35096,"Scarborough North","Scarborough-Nord"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",41,0,"Chen","","Shaun","Liberal","Libéral",Y,Y,1137
+35096,"Scarborough North","Scarborough-Nord"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",41,0,"Khan","","Sheraz","Centrist","Centriste",N,N,10
+35096,"Scarborough North","Scarborough-Nord"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",41,0,"Love","","Christina","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,186
+35096,"Scarborough North","Scarborough-Nord"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",41,0,"Moore","","David","People's Party - PPC","Parti populaire - PPC",N,N,29
+35096,"Scarborough North","Scarborough-Nord"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",41,0,"Shah","","Fazal","Conservative","Conservateur",N,N,306

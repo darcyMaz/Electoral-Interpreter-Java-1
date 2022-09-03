@@ -1,0 +1,753 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+10006,"St. John's East","St. John's-Est"," 1","Pouch Cove",N,N,"",0,270,"Etchegary","","Glenn","Conservative","Conservateur",N,N,29
+10006,"St. John's East","St. John's-Est"," 1","Pouch Cove",N,N,"",0,270,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,9
+10006,"St. John's East","St. John's-Est"," 1","Pouch Cove",N,N,"",0,270,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+10006,"St. John's East","St. John's-Est"," 1","Pouch Cove",N,N,"",0,270,"Thompson","","Joanne","Liberal","Libéral",N,Y,37
+10006,"St. John's East","St. John's-Est"," 2","Pouch Cove",N,N,"",0,339,"Etchegary","","Glenn","Conservative","Conservateur",N,N,53
+10006,"St. John's East","St. John's-Est"," 2","Pouch Cove",N,N,"",0,339,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,0
+10006,"St. John's East","St. John's-Est"," 2","Pouch Cove",N,N,"",0,339,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+10006,"St. John's East","St. John's-Est"," 2","Pouch Cove",N,N,"",0,339,"Thompson","","Joanne","Liberal","Libéral",N,Y,41
+10006,"St. John's East","St. John's-Est"," 3","Pouch Cove",N,N,"",0,322,"Etchegary","","Glenn","Conservative","Conservateur",N,N,33
+10006,"St. John's East","St. John's-Est"," 3","Pouch Cove",N,N,"",0,322,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,3
+10006,"St. John's East","St. John's-Est"," 3","Pouch Cove",N,N,"",0,322,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+10006,"St. John's East","St. John's-Est"," 3","Pouch Cove",N,N,"",0,322,"Thompson","","Joanne","Liberal","Libéral",N,Y,32
+10006,"St. John's East","St. John's-Est"," 4","Pouch Cove",N,N,"",0,439,"Etchegary","","Glenn","Conservative","Conservateur",N,N,54
+10006,"St. John's East","St. John's-Est"," 4","Pouch Cove",N,N,"",0,439,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,7
+10006,"St. John's East","St. John's-Est"," 4","Pouch Cove",N,N,"",0,439,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+10006,"St. John's East","St. John's-Est"," 4","Pouch Cove",N,N,"",0,439,"Thompson","","Joanne","Liberal","Libéral",N,Y,50
+10006,"St. John's East","St. John's-Est"," 5","Pouch Cove",N,N,"",0,311,"Etchegary","","Glenn","Conservative","Conservateur",N,N,28
+10006,"St. John's East","St. John's-Est"," 5","Pouch Cove",N,N,"",0,311,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,6
+10006,"St. John's East","St. John's-Est"," 5","Pouch Cove",N,N,"",0,311,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+10006,"St. John's East","St. John's-Est"," 5","Pouch Cove",N,N,"",0,311,"Thompson","","Joanne","Liberal","Libéral",N,Y,30
+10006,"St. John's East","St. John's-Est"," 6","Flatrock",N,N,"",0,424,"Etchegary","","Glenn","Conservative","Conservateur",N,N,69
+10006,"St. John's East","St. John's-Est"," 6","Flatrock",N,N,"",0,424,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 6","Flatrock",N,N,"",0,424,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,79
+10006,"St. John's East","St. John's-Est"," 6","Flatrock",N,N,"",0,424,"Thompson","","Joanne","Liberal","Libéral",N,Y,67
+10006,"St. John's East","St. John's-Est"," 7","Flatrock",N,N,"",0,228,"Etchegary","","Glenn","Conservative","Conservateur",N,N,30
+10006,"St. John's East","St. John's-Est"," 7","Flatrock",N,N,"",0,228,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,5
+10006,"St. John's East","St. John's-Est"," 7","Flatrock",N,N,"",0,228,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+10006,"St. John's East","St. John's-Est"," 7","Flatrock",N,N,"",0,228,"Thompson","","Joanne","Liberal","Libéral",N,Y,21
+10006,"St. John's East","St. John's-Est"," 8","Flatrock",N,N,"",1,356,"Etchegary","","Glenn","Conservative","Conservateur",N,N,47
+10006,"St. John's East","St. John's-Est"," 8","Flatrock",N,N,"",1,356,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,1
+10006,"St. John's East","St. John's-Est"," 8","Flatrock",N,N,"",1,356,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+10006,"St. John's East","St. John's-Est"," 8","Flatrock",N,N,"",1,356,"Thompson","","Joanne","Liberal","Libéral",N,Y,61
+10006,"St. John's East","St. John's-Est"," 9","Flatrock",N,N,"",5,473,"Etchegary","","Glenn","Conservative","Conservateur",N,N,71
+10006,"St. John's East","St. John's-Est"," 9","Flatrock",N,N,"",5,473,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,4
+10006,"St. John's East","St. John's-Est"," 9","Flatrock",N,N,"",5,473,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+10006,"St. John's East","St. John's-Est"," 9","Flatrock",N,N,"",5,473,"Thompson","","Joanne","Liberal","Libéral",N,Y,66
+10006,"St. John's East","St. John's-Est"," 10","Logy Bay-Middle Cove-Outer Cove",N,N,"",1,329,"Etchegary","","Glenn","Conservative","Conservateur",N,N,33
+10006,"St. John's East","St. John's-Est"," 10","Logy Bay-Middle Cove-Outer Cove",N,N,"",1,329,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,1
+10006,"St. John's East","St. John's-Est"," 10","Logy Bay-Middle Cove-Outer Cove",N,N,"",1,329,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+10006,"St. John's East","St. John's-Est"," 10","Logy Bay-Middle Cove-Outer Cove",N,N,"",1,329,"Thompson","","Joanne","Liberal","Libéral",N,Y,80
+10006,"St. John's East","St. John's-Est"," 11","Logy Bay-Middle Cove-Outer Cove",N,N,"",5,452,"Etchegary","","Glenn","Conservative","Conservateur",N,N,40
+10006,"St. John's East","St. John's-Est"," 11","Logy Bay-Middle Cove-Outer Cove",N,N,"",5,452,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,4
+10006,"St. John's East","St. John's-Est"," 11","Logy Bay-Middle Cove-Outer Cove",N,N,"",5,452,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,83
+10006,"St. John's East","St. John's-Est"," 11","Logy Bay-Middle Cove-Outer Cove",N,N,"",5,452,"Thompson","","Joanne","Liberal","Libéral",N,Y,94
+10006,"St. John's East","St. John's-Est"," 12","Logy Bay-Middle Cove-Outer Cove",N,N,"",0,421,"Etchegary","","Glenn","Conservative","Conservateur",N,N,42
+10006,"St. John's East","St. John's-Est"," 12","Logy Bay-Middle Cove-Outer Cove",N,N,"",0,421,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,3
+10006,"St. John's East","St. John's-Est"," 12","Logy Bay-Middle Cove-Outer Cove",N,N,"",0,421,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+10006,"St. John's East","St. John's-Est"," 12","Logy Bay-Middle Cove-Outer Cove",N,N,"",0,421,"Thompson","","Joanne","Liberal","Libéral",N,Y,73
+10006,"St. John's East","St. John's-Est"," 13","Logy Bay-Middle Cove-Outer Cove",N,N,"",1,449,"Etchegary","","Glenn","Conservative","Conservateur",N,N,54
+10006,"St. John's East","St. John's-Est"," 13","Logy Bay-Middle Cove-Outer Cove",N,N,"",1,449,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,4
+10006,"St. John's East","St. John's-Est"," 13","Logy Bay-Middle Cove-Outer Cove",N,N,"",1,449,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+10006,"St. John's East","St. John's-Est"," 13","Logy Bay-Middle Cove-Outer Cove",N,N,"",1,449,"Thompson","","Joanne","Liberal","Libéral",N,Y,93
+10006,"St. John's East","St. John's-Est"," 14","Logy Bay-Middle Cove-Outer Cove",N,N,"",2,429,"Etchegary","","Glenn","Conservative","Conservateur",N,N,24
+10006,"St. John's East","St. John's-Est"," 14","Logy Bay-Middle Cove-Outer Cove",N,N,"",2,429,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,5
+10006,"St. John's East","St. John's-Est"," 14","Logy Bay-Middle Cove-Outer Cove",N,N,"",2,429,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+10006,"St. John's East","St. John's-Est"," 14","Logy Bay-Middle Cove-Outer Cove",N,N,"",2,429,"Thompson","","Joanne","Liberal","Libéral",N,Y,109
+10006,"St. John's East","St. John's-Est"," 15","Torbay",N,N,"",0,448,"Etchegary","","Glenn","Conservative","Conservateur",N,N,45
+10006,"St. John's East","St. John's-Est"," 15","Torbay",N,N,"",0,448,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,9
+10006,"St. John's East","St. John's-Est"," 15","Torbay",N,N,"",0,448,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+10006,"St. John's East","St. John's-Est"," 15","Torbay",N,N,"",0,448,"Thompson","","Joanne","Liberal","Libéral",N,Y,72
+10006,"St. John's East","St. John's-Est"," 16","Torbay",N,N,"",0,440,"Etchegary","","Glenn","Conservative","Conservateur",N,N,34
+10006,"St. John's East","St. John's-Est"," 16","Torbay",N,N,"",0,440,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,5
+10006,"St. John's East","St. John's-Est"," 16","Torbay",N,N,"",0,440,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+10006,"St. John's East","St. John's-Est"," 16","Torbay",N,N,"",0,440,"Thompson","","Joanne","Liberal","Libéral",N,Y,70
+10006,"St. John's East","St. John's-Est"," 17","Torbay",N,N,"",0,436,"Etchegary","","Glenn","Conservative","Conservateur",N,N,28
+10006,"St. John's East","St. John's-Est"," 17","Torbay",N,N,"",0,436,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,10
+10006,"St. John's East","St. John's-Est"," 17","Torbay",N,N,"",0,436,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+10006,"St. John's East","St. John's-Est"," 17","Torbay",N,N,"",0,436,"Thompson","","Joanne","Liberal","Libéral",N,Y,42
+10006,"St. John's East","St. John's-Est"," 18","Torbay",N,N,"",1,501,"Etchegary","","Glenn","Conservative","Conservateur",N,N,62
+10006,"St. John's East","St. John's-Est"," 18","Torbay",N,N,"",1,501,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,6
+10006,"St. John's East","St. John's-Est"," 18","Torbay",N,N,"",1,501,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+10006,"St. John's East","St. John's-Est"," 18","Torbay",N,N,"",1,501,"Thompson","","Joanne","Liberal","Libéral",N,Y,70
+10006,"St. John's East","St. John's-Est"," 19","Torbay",N,N,"",0,463,"Etchegary","","Glenn","Conservative","Conservateur",N,N,33
+10006,"St. John's East","St. John's-Est"," 19","Torbay",N,N,"",0,463,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,1
+10006,"St. John's East","St. John's-Est"," 19","Torbay",N,N,"",0,463,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+10006,"St. John's East","St. John's-Est"," 19","Torbay",N,N,"",0,463,"Thompson","","Joanne","Liberal","Libéral",N,Y,66
+10006,"St. John's East","St. John's-Est"," 20","Torbay",N,N,"",0,462,"Etchegary","","Glenn","Conservative","Conservateur",N,N,38
+10006,"St. John's East","St. John's-Est"," 20","Torbay",N,N,"",0,462,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,1
+10006,"St. John's East","St. John's-Est"," 20","Torbay",N,N,"",0,462,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+10006,"St. John's East","St. John's-Est"," 20","Torbay",N,N,"",0,462,"Thompson","","Joanne","Liberal","Libéral",N,Y,57
+10006,"St. John's East","St. John's-Est"," 21","Torbay",N,N,"",0,482,"Etchegary","","Glenn","Conservative","Conservateur",N,N,30
+10006,"St. John's East","St. John's-Est"," 21","Torbay",N,N,"",0,482,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,3
+10006,"St. John's East","St. John's-Est"," 21","Torbay",N,N,"",0,482,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+10006,"St. John's East","St. John's-Est"," 21","Torbay",N,N,"",0,482,"Thompson","","Joanne","Liberal","Libéral",N,Y,54
+10006,"St. John's East","St. John's-Est"," 22","Torbay",N,N,"",1,486,"Etchegary","","Glenn","Conservative","Conservateur",N,N,51
+10006,"St. John's East","St. John's-Est"," 22","Torbay",N,N,"",1,486,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,4
+10006,"St. John's East","St. John's-Est"," 22","Torbay",N,N,"",1,486,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+10006,"St. John's East","St. John's-Est"," 22","Torbay",N,N,"",1,486,"Thompson","","Joanne","Liberal","Libéral",N,Y,111
+10006,"St. John's East","St. John's-Est"," 23","Torbay",N,N,"",0,492,"Etchegary","","Glenn","Conservative","Conservateur",N,N,42
+10006,"St. John's East","St. John's-Est"," 23","Torbay",N,N,"",0,492,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,3
+10006,"St. John's East","St. John's-Est"," 23","Torbay",N,N,"",0,492,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+10006,"St. John's East","St. John's-Est"," 23","Torbay",N,N,"",0,492,"Thompson","","Joanne","Liberal","Libéral",N,Y,69
+10006,"St. John's East","St. John's-Est"," 24","Torbay",N,N,"",0,417,"Etchegary","","Glenn","Conservative","Conservateur",N,N,36
+10006,"St. John's East","St. John's-Est"," 24","Torbay",N,N,"",0,417,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 24","Torbay",N,N,"",0,417,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+10006,"St. John's East","St. John's-Est"," 24","Torbay",N,N,"",0,417,"Thompson","","Joanne","Liberal","Libéral",N,Y,61
+10006,"St. John's East","St. John's-Est"," 25","Torbay",N,N,"",2,462,"Etchegary","","Glenn","Conservative","Conservateur",N,N,40
+10006,"St. John's East","St. John's-Est"," 25","Torbay",N,N,"",2,462,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,3
+10006,"St. John's East","St. John's-Est"," 25","Torbay",N,N,"",2,462,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+10006,"St. John's East","St. John's-Est"," 25","Torbay",N,N,"",2,462,"Thompson","","Joanne","Liberal","Libéral",N,Y,61
+10006,"St. John's East","St. John's-Est"," 26","Torbay",N,N,"",0,437,"Etchegary","","Glenn","Conservative","Conservateur",N,N,26
+10006,"St. John's East","St. John's-Est"," 26","Torbay",N,N,"",0,437,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 26","Torbay",N,N,"",0,437,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+10006,"St. John's East","St. John's-Est"," 26","Torbay",N,N,"",0,437,"Thompson","","Joanne","Liberal","Libéral",N,Y,55
+10006,"St. John's East","St. John's-Est"," 27","Torbay",N,N,"",0,501,"Etchegary","","Glenn","Conservative","Conservateur",N,N,68
+10006,"St. John's East","St. John's-Est"," 27","Torbay",N,N,"",0,501,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,9
+10006,"St. John's East","St. John's-Est"," 27","Torbay",N,N,"",0,501,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+10006,"St. John's East","St. John's-Est"," 27","Torbay",N,N,"",0,501,"Thompson","","Joanne","Liberal","Libéral",N,Y,91
+10006,"St. John's East","St. John's-Est"," 28","Bauline",N,N,"",0,211,"Etchegary","","Glenn","Conservative","Conservateur",N,N,27
+10006,"St. John's East","St. John's-Est"," 28","Bauline",N,N,"",0,211,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,4
+10006,"St. John's East","St. John's-Est"," 28","Bauline",N,N,"",0,211,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+10006,"St. John's East","St. John's-Est"," 28","Bauline",N,N,"",0,211,"Thompson","","Joanne","Liberal","Libéral",N,Y,37
+10006,"St. John's East","St. John's-Est"," 29","Bauline",N,N,"",0,295,"Etchegary","","Glenn","Conservative","Conservateur",N,N,19
+10006,"St. John's East","St. John's-Est"," 29","Bauline",N,N,"",0,295,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,5
+10006,"St. John's East","St. John's-Est"," 29","Bauline",N,N,"",0,295,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+10006,"St. John's East","St. John's-Est"," 29","Bauline",N,N,"",0,295,"Thompson","","Joanne","Liberal","Libéral",N,Y,51
+10006,"St. John's East","St. John's-Est"," 30","St. John's",N,N,"",1,614,"Etchegary","","Glenn","Conservative","Conservateur",N,N,51
+10006,"St. John's East","St. John's-Est"," 30","St. John's",N,N,"",1,614,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,1
+10006,"St. John's East","St. John's-Est"," 30","St. John's",N,N,"",1,614,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+10006,"St. John's East","St. John's-Est"," 30","St. John's",N,N,"",1,614,"Thompson","","Joanne","Liberal","Libéral",N,Y,151
+10006,"St. John's East","St. John's-Est"," 31","St. John's",N,N,"",0,450,"Etchegary","","Glenn","Conservative","Conservateur",N,N,42
+10006,"St. John's East","St. John's-Est"," 31","St. John's",N,N,"",0,450,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,1
+10006,"St. John's East","St. John's-Est"," 31","St. John's",N,N,"",0,450,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+10006,"St. John's East","St. John's-Est"," 31","St. John's",N,N,"",0,450,"Thompson","","Joanne","Liberal","Libéral",N,Y,79
+10006,"St. John's East","St. John's-Est"," 32","St. John's",N,N,"",2,364,"Etchegary","","Glenn","Conservative","Conservateur",N,N,35
+10006,"St. John's East","St. John's-Est"," 32","St. John's",N,N,"",2,364,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,1
+10006,"St. John's East","St. John's-Est"," 32","St. John's",N,N,"",2,364,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+10006,"St. John's East","St. John's-Est"," 32","St. John's",N,N,"",2,364,"Thompson","","Joanne","Liberal","Libéral",N,Y,154
+10006,"St. John's East","St. John's-Est"," 33","St. John's",N,N,"",0,591,"Etchegary","","Glenn","Conservative","Conservateur",N,N,53
+10006,"St. John's East","St. John's-Est"," 33","St. John's",N,N,"",0,591,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 33","St. John's",N,N,"",0,591,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+10006,"St. John's East","St. John's-Est"," 33","St. John's",N,N,"",0,591,"Thompson","","Joanne","Liberal","Libéral",N,Y,113
+10006,"St. John's East","St. John's-Est"," 34","St. John's",N,N,"32",0,323,"Etchegary","","Glenn","Conservative","Conservateur",N,N,0
+10006,"St. John's East","St. John's-Est"," 34","St. John's",N,N,"32",0,323,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,0
+10006,"St. John's East","St. John's-Est"," 34","St. John's",N,N,"32",0,323,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10006,"St. John's East","St. John's-Est"," 34","St. John's",N,N,"32",0,323,"Thompson","","Joanne","Liberal","Libéral",N,Y,0
+10006,"St. John's East","St. John's-Est"," 35","St. John's",N,N,"",0,432,"Etchegary","","Glenn","Conservative","Conservateur",N,N,22
+10006,"St. John's East","St. John's-Est"," 35","St. John's",N,N,"",0,432,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,1
+10006,"St. John's East","St. John's-Est"," 35","St. John's",N,N,"",0,432,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+10006,"St. John's East","St. John's-Est"," 35","St. John's",N,N,"",0,432,"Thompson","","Joanne","Liberal","Libéral",N,Y,90
+10006,"St. John's East","St. John's-Est"," 36","St. John's",N,N,"",0,421,"Etchegary","","Glenn","Conservative","Conservateur",N,N,18
+10006,"St. John's East","St. John's-Est"," 36","St. John's",N,N,"",0,421,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,3
+10006,"St. John's East","St. John's-Est"," 36","St. John's",N,N,"",0,421,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+10006,"St. John's East","St. John's-Est"," 36","St. John's",N,N,"",0,421,"Thompson","","Joanne","Liberal","Libéral",N,Y,78
+10006,"St. John's East","St. John's-Est"," 37","St. John's",N,N,"",0,463,"Etchegary","","Glenn","Conservative","Conservateur",N,N,18
+10006,"St. John's East","St. John's-Est"," 37","St. John's",N,N,"",0,463,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,0
+10006,"St. John's East","St. John's-Est"," 37","St. John's",N,N,"",0,463,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+10006,"St. John's East","St. John's-Est"," 37","St. John's",N,N,"",0,463,"Thompson","","Joanne","Liberal","Libéral",N,Y,41
+10006,"St. John's East","St. John's-Est"," 38","St. John's",N,N,"",1,486,"Etchegary","","Glenn","Conservative","Conservateur",N,N,32
+10006,"St. John's East","St. John's-Est"," 38","St. John's",N,N,"",1,486,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,3
+10006,"St. John's East","St. John's-Est"," 38","St. John's",N,N,"",1,486,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+10006,"St. John's East","St. John's-Est"," 38","St. John's",N,N,"",1,486,"Thompson","","Joanne","Liberal","Libéral",N,Y,84
+10006,"St. John's East","St. John's-Est"," 39","St. John's",N,N,"",0,296,"Etchegary","","Glenn","Conservative","Conservateur",N,N,13
+10006,"St. John's East","St. John's-Est"," 39","St. John's",N,N,"",0,296,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 39","St. John's",N,N,"",0,296,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+10006,"St. John's East","St. John's-Est"," 39","St. John's",N,N,"",0,296,"Thompson","","Joanne","Liberal","Libéral",N,Y,57
+10006,"St. John's East","St. John's-Est"," 40","St. John's",N,N,"",0,323,"Etchegary","","Glenn","Conservative","Conservateur",N,N,15
+10006,"St. John's East","St. John's-Est"," 40","St. John's",N,N,"",0,323,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,0
+10006,"St. John's East","St. John's-Est"," 40","St. John's",N,N,"",0,323,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+10006,"St. John's East","St. John's-Est"," 40","St. John's",N,N,"",0,323,"Thompson","","Joanne","Liberal","Libéral",N,Y,38
+10006,"St. John's East","St. John's-Est"," 41","St. John's",N,N,"",0,403,"Etchegary","","Glenn","Conservative","Conservateur",N,N,29
+10006,"St. John's East","St. John's-Est"," 41","St. John's",N,N,"",0,403,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,1
+10006,"St. John's East","St. John's-Est"," 41","St. John's",N,N,"",0,403,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+10006,"St. John's East","St. John's-Est"," 41","St. John's",N,N,"",0,403,"Thompson","","Joanne","Liberal","Libéral",N,Y,115
+10006,"St. John's East","St. John's-Est"," 42","St. John's",N,N,"",0,390,"Etchegary","","Glenn","Conservative","Conservateur",N,N,23
+10006,"St. John's East","St. John's-Est"," 42","St. John's",N,N,"",0,390,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,1
+10006,"St. John's East","St. John's-Est"," 42","St. John's",N,N,"",0,390,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+10006,"St. John's East","St. John's-Est"," 42","St. John's",N,N,"",0,390,"Thompson","","Joanne","Liberal","Libéral",N,Y,78
+10006,"St. John's East","St. John's-Est"," 43","St. John's",N,N,"",4,490,"Etchegary","","Glenn","Conservative","Conservateur",N,N,20
+10006,"St. John's East","St. John's-Est"," 43","St. John's",N,N,"",4,490,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 43","St. John's",N,N,"",4,490,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,98
+10006,"St. John's East","St. John's-Est"," 43","St. John's",N,N,"",4,490,"Thompson","","Joanne","Liberal","Libéral",N,Y,66
+10006,"St. John's East","St. John's-Est"," 44","St. John's",N,N,"",3,393,"Etchegary","","Glenn","Conservative","Conservateur",N,N,14
+10006,"St. John's East","St. John's-Est"," 44","St. John's",N,N,"",3,393,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,0
+10006,"St. John's East","St. John's-Est"," 44","St. John's",N,N,"",3,393,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+10006,"St. John's East","St. John's-Est"," 44","St. John's",N,N,"",3,393,"Thompson","","Joanne","Liberal","Libéral",N,Y,42
+10006,"St. John's East","St. John's-Est"," 45","St. John's",N,N,"",1,541,"Etchegary","","Glenn","Conservative","Conservateur",N,N,48
+10006,"St. John's East","St. John's-Est"," 45","St. John's",N,N,"",1,541,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 45","St. John's",N,N,"",1,541,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+10006,"St. John's East","St. John's-Est"," 45","St. John's",N,N,"",1,541,"Thompson","","Joanne","Liberal","Libéral",N,Y,131
+10006,"St. John's East","St. John's-Est"," 46","St. John's",N,N,"",0,361,"Etchegary","","Glenn","Conservative","Conservateur",N,N,11
+10006,"St. John's East","St. John's-Est"," 46","St. John's",N,N,"",0,361,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 46","St. John's",N,N,"",0,361,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+10006,"St. John's East","St. John's-Est"," 46","St. John's",N,N,"",0,361,"Thompson","","Joanne","Liberal","Libéral",N,Y,30
+10006,"St. John's East","St. John's-Est"," 47","St. John's",N,N,"",0,354,"Etchegary","","Glenn","Conservative","Conservateur",N,N,29
+10006,"St. John's East","St. John's-Est"," 47","St. John's",N,N,"",0,354,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 47","St. John's",N,N,"",0,354,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+10006,"St. John's East","St. John's-Est"," 47","St. John's",N,N,"",0,354,"Thompson","","Joanne","Liberal","Libéral",N,Y,76
+10006,"St. John's East","St. John's-Est"," 48","St. John's",N,N,"",0,561,"Etchegary","","Glenn","Conservative","Conservateur",N,N,23
+10006,"St. John's East","St. John's-Est"," 48","St. John's",N,N,"",0,561,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,4
+10006,"St. John's East","St. John's-Est"," 48","St. John's",N,N,"",0,561,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,88
+10006,"St. John's East","St. John's-Est"," 48","St. John's",N,N,"",0,561,"Thompson","","Joanne","Liberal","Libéral",N,Y,71
+10006,"St. John's East","St. John's-Est"," 49","St. John's",N,N,"",0,418,"Etchegary","","Glenn","Conservative","Conservateur",N,N,28
+10006,"St. John's East","St. John's-Est"," 49","St. John's",N,N,"",0,418,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,6
+10006,"St. John's East","St. John's-Est"," 49","St. John's",N,N,"",0,418,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,79
+10006,"St. John's East","St. John's-Est"," 49","St. John's",N,N,"",0,418,"Thompson","","Joanne","Liberal","Libéral",N,Y,83
+10006,"St. John's East","St. John's-Est"," 50","St. John's",N,N,"",0,397,"Etchegary","","Glenn","Conservative","Conservateur",N,N,23
+10006,"St. John's East","St. John's-Est"," 50","St. John's",N,N,"",0,397,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,4
+10006,"St. John's East","St. John's-Est"," 50","St. John's",N,N,"",0,397,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+10006,"St. John's East","St. John's-Est"," 50","St. John's",N,N,"",0,397,"Thompson","","Joanne","Liberal","Libéral",N,Y,72
+10006,"St. John's East","St. John's-Est"," 51","St. John's",N,N,"",1,375,"Etchegary","","Glenn","Conservative","Conservateur",N,N,25
+10006,"St. John's East","St. John's-Est"," 51","St. John's",N,N,"",1,375,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,1
+10006,"St. John's East","St. John's-Est"," 51","St. John's",N,N,"",1,375,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+10006,"St. John's East","St. John's-Est"," 51","St. John's",N,N,"",1,375,"Thompson","","Joanne","Liberal","Libéral",N,Y,54
+10006,"St. John's East","St. John's-Est"," 52","St. John's",N,N,"",2,454,"Etchegary","","Glenn","Conservative","Conservateur",N,N,28
+10006,"St. John's East","St. John's-Est"," 52","St. John's",N,N,"",2,454,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,3
+10006,"St. John's East","St. John's-Est"," 52","St. John's",N,N,"",2,454,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+10006,"St. John's East","St. John's-Est"," 52","St. John's",N,N,"",2,454,"Thompson","","Joanne","Liberal","Libéral",N,Y,102
+10006,"St. John's East","St. John's-Est"," 53","St. John's",N,N,"",1,430,"Etchegary","","Glenn","Conservative","Conservateur",N,N,28
+10006,"St. John's East","St. John's-Est"," 53","St. John's",N,N,"",1,430,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,3
+10006,"St. John's East","St. John's-Est"," 53","St. John's",N,N,"",1,430,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+10006,"St. John's East","St. John's-Est"," 53","St. John's",N,N,"",1,430,"Thompson","","Joanne","Liberal","Libéral",N,Y,63
+10006,"St. John's East","St. John's-Est"," 54","St. John's",N,N,"",3,541,"Etchegary","","Glenn","Conservative","Conservateur",N,N,24
+10006,"St. John's East","St. John's-Est"," 54","St. John's",N,N,"",3,541,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,5
+10006,"St. John's East","St. John's-Est"," 54","St. John's",N,N,"",3,541,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+10006,"St. John's East","St. John's-Est"," 54","St. John's",N,N,"",3,541,"Thompson","","Joanne","Liberal","Libéral",N,Y,103
+10006,"St. John's East","St. John's-Est"," 55","St. John's",N,N,"",0,382,"Etchegary","","Glenn","Conservative","Conservateur",N,N,29
+10006,"St. John's East","St. John's-Est"," 55","St. John's",N,N,"",0,382,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,0
+10006,"St. John's East","St. John's-Est"," 55","St. John's",N,N,"",0,382,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+10006,"St. John's East","St. John's-Est"," 55","St. John's",N,N,"",0,382,"Thompson","","Joanne","Liberal","Libéral",N,Y,88
+10006,"St. John's East","St. John's-Est"," 56","St. John's",N,N,"",0,342,"Etchegary","","Glenn","Conservative","Conservateur",N,N,24
+10006,"St. John's East","St. John's-Est"," 56","St. John's",N,N,"",0,342,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,0
+10006,"St. John's East","St. John's-Est"," 56","St. John's",N,N,"",0,342,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+10006,"St. John's East","St. John's-Est"," 56","St. John's",N,N,"",0,342,"Thompson","","Joanne","Liberal","Libéral",N,Y,53
+10006,"St. John's East","St. John's-Est"," 57","St. John's",N,N,"",1,487,"Etchegary","","Glenn","Conservative","Conservateur",N,N,26
+10006,"St. John's East","St. John's-Est"," 57","St. John's",N,N,"",1,487,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,5
+10006,"St. John's East","St. John's-Est"," 57","St. John's",N,N,"",1,487,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+10006,"St. John's East","St. John's-Est"," 57","St. John's",N,N,"",1,487,"Thompson","","Joanne","Liberal","Libéral",N,Y,74
+10006,"St. John's East","St. John's-Est"," 58","St. John's",N,N,"",0,378,"Etchegary","","Glenn","Conservative","Conservateur",N,N,14
+10006,"St. John's East","St. John's-Est"," 58","St. John's",N,N,"",0,378,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,7
+10006,"St. John's East","St. John's-Est"," 58","St. John's",N,N,"",0,378,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+10006,"St. John's East","St. John's-Est"," 58","St. John's",N,N,"",0,378,"Thompson","","Joanne","Liberal","Libéral",N,Y,41
+10006,"St. John's East","St. John's-Est"," 59","St. John's",N,N,"",0,425,"Etchegary","","Glenn","Conservative","Conservateur",N,N,26
+10006,"St. John's East","St. John's-Est"," 59","St. John's",N,N,"",0,425,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 59","St. John's",N,N,"",0,425,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,88
+10006,"St. John's East","St. John's-Est"," 59","St. John's",N,N,"",0,425,"Thompson","","Joanne","Liberal","Libéral",N,Y,79
+10006,"St. John's East","St. John's-Est"," 60","St. John's",N,N,"",0,383,"Etchegary","","Glenn","Conservative","Conservateur",N,N,20
+10006,"St. John's East","St. John's-Est"," 60","St. John's",N,N,"",0,383,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 60","St. John's",N,N,"",0,383,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+10006,"St. John's East","St. John's-Est"," 60","St. John's",N,N,"",0,383,"Thompson","","Joanne","Liberal","Libéral",N,Y,59
+10006,"St. John's East","St. John's-Est"," 61","St. John's",N,N,"",0,443,"Etchegary","","Glenn","Conservative","Conservateur",N,N,27
+10006,"St. John's East","St. John's-Est"," 61","St. John's",N,N,"",0,443,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 61","St. John's",N,N,"",0,443,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+10006,"St. John's East","St. John's-Est"," 61","St. John's",N,N,"",0,443,"Thompson","","Joanne","Liberal","Libéral",N,Y,74
+10006,"St. John's East","St. John's-Est"," 62","St. John's",N,N,"",0,331,"Etchegary","","Glenn","Conservative","Conservateur",N,N,21
+10006,"St. John's East","St. John's-Est"," 62","St. John's",N,N,"",0,331,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,1
+10006,"St. John's East","St. John's-Est"," 62","St. John's",N,N,"",0,331,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+10006,"St. John's East","St. John's-Est"," 62","St. John's",N,N,"",0,331,"Thompson","","Joanne","Liberal","Libéral",N,Y,48
+10006,"St. John's East","St. John's-Est"," 63","St. John's",N,N,"",0,414,"Etchegary","","Glenn","Conservative","Conservateur",N,N,33
+10006,"St. John's East","St. John's-Est"," 63","St. John's",N,N,"",0,414,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 63","St. John's",N,N,"",0,414,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+10006,"St. John's East","St. John's-Est"," 63","St. John's",N,N,"",0,414,"Thompson","","Joanne","Liberal","Libéral",N,Y,62
+10006,"St. John's East","St. John's-Est"," 64","St. John's",N,N,"",2,403,"Etchegary","","Glenn","Conservative","Conservateur",N,N,26
+10006,"St. John's East","St. John's-Est"," 64","St. John's",N,N,"",2,403,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,3
+10006,"St. John's East","St. John's-Est"," 64","St. John's",N,N,"",2,403,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+10006,"St. John's East","St. John's-Est"," 64","St. John's",N,N,"",2,403,"Thompson","","Joanne","Liberal","Libéral",N,Y,68
+10006,"St. John's East","St. John's-Est"," 65","St. John's",N,N,"",1,565,"Etchegary","","Glenn","Conservative","Conservateur",N,N,27
+10006,"St. John's East","St. John's-Est"," 65","St. John's",N,N,"",1,565,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 65","St. John's",N,N,"",1,565,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,90
+10006,"St. John's East","St. John's-Est"," 65","St. John's",N,N,"",1,565,"Thompson","","Joanne","Liberal","Libéral",N,Y,93
+10006,"St. John's East","St. John's-Est"," 66","St. John's",N,N,"",1,390,"Etchegary","","Glenn","Conservative","Conservateur",N,N,24
+10006,"St. John's East","St. John's-Est"," 66","St. John's",N,N,"",1,390,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,3
+10006,"St. John's East","St. John's-Est"," 66","St. John's",N,N,"",1,390,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+10006,"St. John's East","St. John's-Est"," 66","St. John's",N,N,"",1,390,"Thompson","","Joanne","Liberal","Libéral",N,Y,59
+10006,"St. John's East","St. John's-Est"," 67","St. John's",N,N,"",2,430,"Etchegary","","Glenn","Conservative","Conservateur",N,N,27
+10006,"St. John's East","St. John's-Est"," 67","St. John's",N,N,"",2,430,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,1
+10006,"St. John's East","St. John's-Est"," 67","St. John's",N,N,"",2,430,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,80
+10006,"St. John's East","St. John's-Est"," 67","St. John's",N,N,"",2,430,"Thompson","","Joanne","Liberal","Libéral",N,Y,80
+10006,"St. John's East","St. John's-Est"," 68","St. John's",N,N,"",3,389,"Etchegary","","Glenn","Conservative","Conservateur",N,N,22
+10006,"St. John's East","St. John's-Est"," 68","St. John's",N,N,"",3,389,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,4
+10006,"St. John's East","St. John's-Est"," 68","St. John's",N,N,"",3,389,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+10006,"St. John's East","St. John's-Est"," 68","St. John's",N,N,"",3,389,"Thompson","","Joanne","Liberal","Libéral",N,Y,40
+10006,"St. John's East","St. John's-Est"," 69","St. John's",N,N,"",0,623,"Etchegary","","Glenn","Conservative","Conservateur",N,N,37
+10006,"St. John's East","St. John's-Est"," 69","St. John's",N,N,"",0,623,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,5
+10006,"St. John's East","St. John's-Est"," 69","St. John's",N,N,"",0,623,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+10006,"St. John's East","St. John's-Est"," 69","St. John's",N,N,"",0,623,"Thompson","","Joanne","Liberal","Libéral",N,Y,112
+10006,"St. John's East","St. John's-Est"," 70A","St. John's",N,N,"",1,543,"Etchegary","","Glenn","Conservative","Conservateur",N,N,42
+10006,"St. John's East","St. John's-Est"," 70A","St. John's",N,N,"",1,543,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,6
+10006,"St. John's East","St. John's-Est"," 70A","St. John's",N,N,"",1,543,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+10006,"St. John's East","St. John's-Est"," 70A","St. John's",N,N,"",1,543,"Thompson","","Joanne","Liberal","Libéral",N,Y,77
+10006,"St. John's East","St. John's-Est"," 70B","Mobile poll/Bureau itinérant",N,N,"",1,44,"Etchegary","","Glenn","Conservative","Conservateur",N,N,12
+10006,"St. John's East","St. John's-Est"," 70B","Mobile poll/Bureau itinérant",N,N,"",1,44,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,1
+10006,"St. John's East","St. John's-Est"," 70B","Mobile poll/Bureau itinérant",N,N,"",1,44,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10006,"St. John's East","St. John's-Est"," 70B","Mobile poll/Bureau itinérant",N,N,"",1,44,"Thompson","","Joanne","Liberal","Libéral",N,Y,17
+10006,"St. John's East","St. John's-Est"," 71","St. John's",N,N,"",0,348,"Etchegary","","Glenn","Conservative","Conservateur",N,N,16
+10006,"St. John's East","St. John's-Est"," 71","St. John's",N,N,"",0,348,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,4
+10006,"St. John's East","St. John's-Est"," 71","St. John's",N,N,"",0,348,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+10006,"St. John's East","St. John's-Est"," 71","St. John's",N,N,"",0,348,"Thompson","","Joanne","Liberal","Libéral",N,Y,55
+10006,"St. John's East","St. John's-Est"," 72","St. John's",N,N,"",0,457,"Etchegary","","Glenn","Conservative","Conservateur",N,N,24
+10006,"St. John's East","St. John's-Est"," 72","St. John's",N,N,"",0,457,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 72","St. John's",N,N,"",0,457,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+10006,"St. John's East","St. John's-Est"," 72","St. John's",N,N,"",0,457,"Thompson","","Joanne","Liberal","Libéral",N,Y,67
+10006,"St. John's East","St. John's-Est"," 73","St. John's",N,N,"",1,431,"Etchegary","","Glenn","Conservative","Conservateur",N,N,35
+10006,"St. John's East","St. John's-Est"," 73","St. John's",N,N,"",1,431,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,5
+10006,"St. John's East","St. John's-Est"," 73","St. John's",N,N,"",1,431,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+10006,"St. John's East","St. John's-Est"," 73","St. John's",N,N,"",1,431,"Thompson","","Joanne","Liberal","Libéral",N,Y,61
+10006,"St. John's East","St. John's-Est"," 74","St. John's",N,N,"",0,384,"Etchegary","","Glenn","Conservative","Conservateur",N,N,34
+10006,"St. John's East","St. John's-Est"," 74","St. John's",N,N,"",0,384,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,3
+10006,"St. John's East","St. John's-Est"," 74","St. John's",N,N,"",0,384,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+10006,"St. John's East","St. John's-Est"," 74","St. John's",N,N,"",0,384,"Thompson","","Joanne","Liberal","Libéral",N,Y,55
+10006,"St. John's East","St. John's-Est"," 75","St. John's",N,N,"",0,497,"Etchegary","","Glenn","Conservative","Conservateur",N,N,31
+10006,"St. John's East","St. John's-Est"," 75","St. John's",N,N,"",0,497,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,0
+10006,"St. John's East","St. John's-Est"," 75","St. John's",N,N,"",0,497,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+10006,"St. John's East","St. John's-Est"," 75","St. John's",N,N,"",0,497,"Thompson","","Joanne","Liberal","Libéral",N,Y,79
+10006,"St. John's East","St. John's-Est"," 76","St. John's",N,N,"",2,529,"Etchegary","","Glenn","Conservative","Conservateur",N,N,25
+10006,"St. John's East","St. John's-Est"," 76","St. John's",N,N,"",2,529,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,8
+10006,"St. John's East","St. John's-Est"," 76","St. John's",N,N,"",2,529,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+10006,"St. John's East","St. John's-Est"," 76","St. John's",N,N,"",2,529,"Thompson","","Joanne","Liberal","Libéral",N,Y,66
+10006,"St. John's East","St. John's-Est"," 77","St. John's",N,N,"",1,312,"Etchegary","","Glenn","Conservative","Conservateur",N,N,12
+10006,"St. John's East","St. John's-Est"," 77","St. John's",N,N,"",1,312,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,8
+10006,"St. John's East","St. John's-Est"," 77","St. John's",N,N,"",1,312,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+10006,"St. John's East","St. John's-Est"," 77","St. John's",N,N,"",1,312,"Thompson","","Joanne","Liberal","Libéral",N,Y,30
+10006,"St. John's East","St. John's-Est"," 78","St. John's",N,N,"",3,452,"Etchegary","","Glenn","Conservative","Conservateur",N,N,13
+10006,"St. John's East","St. John's-Est"," 78","St. John's",N,N,"",3,452,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,0
+10006,"St. John's East","St. John's-Est"," 78","St. John's",N,N,"",3,452,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+10006,"St. John's East","St. John's-Est"," 78","St. John's",N,N,"",3,452,"Thompson","","Joanne","Liberal","Libéral",N,Y,44
+10006,"St. John's East","St. John's-Est"," 79","St. John's",N,N,"",0,366,"Etchegary","","Glenn","Conservative","Conservateur",N,N,33
+10006,"St. John's East","St. John's-Est"," 79","St. John's",N,N,"",0,366,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 79","St. John's",N,N,"",0,366,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+10006,"St. John's East","St. John's-Est"," 79","St. John's",N,N,"",0,366,"Thompson","","Joanne","Liberal","Libéral",N,Y,58
+10006,"St. John's East","St. John's-Est"," 80","St. John's",N,N,"",0,331,"Etchegary","","Glenn","Conservative","Conservateur",N,N,11
+10006,"St. John's East","St. John's-Est"," 80","St. John's",N,N,"",0,331,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,1
+10006,"St. John's East","St. John's-Est"," 80","St. John's",N,N,"",0,331,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+10006,"St. John's East","St. John's-Est"," 80","St. John's",N,N,"",0,331,"Thompson","","Joanne","Liberal","Libéral",N,Y,29
+10006,"St. John's East","St. John's-Est"," 81","St. John's",N,N,"",0,491,"Etchegary","","Glenn","Conservative","Conservateur",N,N,14
+10006,"St. John's East","St. John's-Est"," 81","St. John's",N,N,"",0,491,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 81","St. John's",N,N,"",0,491,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+10006,"St. John's East","St. John's-Est"," 81","St. John's",N,N,"",0,491,"Thompson","","Joanne","Liberal","Libéral",N,Y,99
+10006,"St. John's East","St. John's-Est"," 82","St. John's",N,N,"",2,387,"Etchegary","","Glenn","Conservative","Conservateur",N,N,20
+10006,"St. John's East","St. John's-Est"," 82","St. John's",N,N,"",2,387,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,1
+10006,"St. John's East","St. John's-Est"," 82","St. John's",N,N,"",2,387,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+10006,"St. John's East","St. John's-Est"," 82","St. John's",N,N,"",2,387,"Thompson","","Joanne","Liberal","Libéral",N,Y,83
+10006,"St. John's East","St. John's-Est"," 83","St. John's",N,N,"",2,447,"Etchegary","","Glenn","Conservative","Conservateur",N,N,17
+10006,"St. John's East","St. John's-Est"," 83","St. John's",N,N,"",2,447,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,3
+10006,"St. John's East","St. John's-Est"," 83","St. John's",N,N,"",2,447,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+10006,"St. John's East","St. John's-Est"," 83","St. John's",N,N,"",2,447,"Thompson","","Joanne","Liberal","Libéral",N,Y,82
+10006,"St. John's East","St. John's-Est"," 84","St. John's",N,N,"",1,468,"Etchegary","","Glenn","Conservative","Conservateur",N,N,29
+10006,"St. John's East","St. John's-Est"," 84","St. John's",N,N,"",1,468,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 84","St. John's",N,N,"",1,468,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+10006,"St. John's East","St. John's-Est"," 84","St. John's",N,N,"",1,468,"Thompson","","Joanne","Liberal","Libéral",N,Y,97
+10006,"St. John's East","St. John's-Est"," 85","St. John's",N,N,"",2,504,"Etchegary","","Glenn","Conservative","Conservateur",N,N,30
+10006,"St. John's East","St. John's-Est"," 85","St. John's",N,N,"",2,504,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 85","St. John's",N,N,"",2,504,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,88
+10006,"St. John's East","St. John's-Est"," 85","St. John's",N,N,"",2,504,"Thompson","","Joanne","Liberal","Libéral",N,Y,112
+10006,"St. John's East","St. John's-Est"," 86","St. John's",N,N,"",1,352,"Etchegary","","Glenn","Conservative","Conservateur",N,N,15
+10006,"St. John's East","St. John's-Est"," 86","St. John's",N,N,"",1,352,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,6
+10006,"St. John's East","St. John's-Est"," 86","St. John's",N,N,"",1,352,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,83
+10006,"St. John's East","St. John's-Est"," 86","St. John's",N,N,"",1,352,"Thompson","","Joanne","Liberal","Libéral",N,Y,39
+10006,"St. John's East","St. John's-Est"," 87","St. John's",N,N,"",0,437,"Etchegary","","Glenn","Conservative","Conservateur",N,N,14
+10006,"St. John's East","St. John's-Est"," 87","St. John's",N,N,"",0,437,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,6
+10006,"St. John's East","St. John's-Est"," 87","St. John's",N,N,"",0,437,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,106
+10006,"St. John's East","St. John's-Est"," 87","St. John's",N,N,"",0,437,"Thompson","","Joanne","Liberal","Libéral",N,Y,56
+10006,"St. John's East","St. John's-Est"," 88","St. John's",N,N,"",1,458,"Etchegary","","Glenn","Conservative","Conservateur",N,N,16
+10006,"St. John's East","St. John's-Est"," 88","St. John's",N,N,"",1,458,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,3
+10006,"St. John's East","St. John's-Est"," 88","St. John's",N,N,"",1,458,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,92
+10006,"St. John's East","St. John's-Est"," 88","St. John's",N,N,"",1,458,"Thompson","","Joanne","Liberal","Libéral",N,Y,86
+10006,"St. John's East","St. John's-Est"," 89","St. John's",N,N,"",1,340,"Etchegary","","Glenn","Conservative","Conservateur",N,N,7
+10006,"St. John's East","St. John's-Est"," 89","St. John's",N,N,"",1,340,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 89","St. John's",N,N,"",1,340,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,89
+10006,"St. John's East","St. John's-Est"," 89","St. John's",N,N,"",1,340,"Thompson","","Joanne","Liberal","Libéral",N,Y,49
+10006,"St. John's East","St. John's-Est"," 90","Portugal Cove-St. Philip's",N,N,"",0,510,"Etchegary","","Glenn","Conservative","Conservateur",N,N,61
+10006,"St. John's East","St. John's-Est"," 90","Portugal Cove-St. Philip's",N,N,"",0,510,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,8
+10006,"St. John's East","St. John's-Est"," 90","Portugal Cove-St. Philip's",N,N,"",0,510,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+10006,"St. John's East","St. John's-Est"," 90","Portugal Cove-St. Philip's",N,N,"",0,510,"Thompson","","Joanne","Liberal","Libéral",N,Y,77
+10006,"St. John's East","St. John's-Est"," 91","Portugal Cove-St. Philip's",N,N,"",3,563,"Etchegary","","Glenn","Conservative","Conservateur",N,N,60
+10006,"St. John's East","St. John's-Est"," 91","Portugal Cove-St. Philip's",N,N,"",3,563,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,6
+10006,"St. John's East","St. John's-Est"," 91","Portugal Cove-St. Philip's",N,N,"",3,563,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+10006,"St. John's East","St. John's-Est"," 91","Portugal Cove-St. Philip's",N,N,"",3,563,"Thompson","","Joanne","Liberal","Libéral",N,Y,87
+10006,"St. John's East","St. John's-Est"," 92","Portugal Cove-St. Philip's",N,N,"",1,485,"Etchegary","","Glenn","Conservative","Conservateur",N,N,40
+10006,"St. John's East","St. John's-Est"," 92","Portugal Cove-St. Philip's",N,N,"",1,485,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,12
+10006,"St. John's East","St. John's-Est"," 92","Portugal Cove-St. Philip's",N,N,"",1,485,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,85
+10006,"St. John's East","St. John's-Est"," 92","Portugal Cove-St. Philip's",N,N,"",1,485,"Thompson","","Joanne","Liberal","Libéral",N,Y,72
+10006,"St. John's East","St. John's-Est"," 93","Portugal Cove-St. Philip's",N,N,"",5,558,"Etchegary","","Glenn","Conservative","Conservateur",N,N,40
+10006,"St. John's East","St. John's-Est"," 93","Portugal Cove-St. Philip's",N,N,"",5,558,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,6
+10006,"St. John's East","St. John's-Est"," 93","Portugal Cove-St. Philip's",N,N,"",5,558,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+10006,"St. John's East","St. John's-Est"," 93","Portugal Cove-St. Philip's",N,N,"",5,558,"Thompson","","Joanne","Liberal","Libéral",N,Y,69
+10006,"St. John's East","St. John's-Est"," 94","Portugal Cove-St. Philip's",N,N,"",1,425,"Etchegary","","Glenn","Conservative","Conservateur",N,N,26
+10006,"St. John's East","St. John's-Est"," 94","Portugal Cove-St. Philip's",N,N,"",1,425,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,10
+10006,"St. John's East","St. John's-Est"," 94","Portugal Cove-St. Philip's",N,N,"",1,425,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+10006,"St. John's East","St. John's-Est"," 94","Portugal Cove-St. Philip's",N,N,"",1,425,"Thompson","","Joanne","Liberal","Libéral",N,Y,62
+10006,"St. John's East","St. John's-Est"," 95","Portugal Cove-St. Philip's",N,N,"",1,482,"Etchegary","","Glenn","Conservative","Conservateur",N,N,34
+10006,"St. John's East","St. John's-Est"," 95","Portugal Cove-St. Philip's",N,N,"",1,482,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,4
+10006,"St. John's East","St. John's-Est"," 95","Portugal Cove-St. Philip's",N,N,"",1,482,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+10006,"St. John's East","St. John's-Est"," 95","Portugal Cove-St. Philip's",N,N,"",1,482,"Thompson","","Joanne","Liberal","Libéral",N,Y,92
+10006,"St. John's East","St. John's-Est"," 96","St. John's",N,N,"",1,449,"Etchegary","","Glenn","Conservative","Conservateur",N,N,28
+10006,"St. John's East","St. John's-Est"," 96","St. John's",N,N,"",1,449,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,4
+10006,"St. John's East","St. John's-Est"," 96","St. John's",N,N,"",1,449,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+10006,"St. John's East","St. John's-Est"," 96","St. John's",N,N,"",1,449,"Thompson","","Joanne","Liberal","Libéral",N,Y,104
+10006,"St. John's East","St. John's-Est"," 97","St. John's",N,N,"",0,457,"Etchegary","","Glenn","Conservative","Conservateur",N,N,29
+10006,"St. John's East","St. John's-Est"," 97","St. John's",N,N,"",0,457,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,4
+10006,"St. John's East","St. John's-Est"," 97","St. John's",N,N,"",0,457,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+10006,"St. John's East","St. John's-Est"," 97","St. John's",N,N,"",0,457,"Thompson","","Joanne","Liberal","Libéral",N,Y,110
+10006,"St. John's East","St. John's-Est"," 98","St. John's",N,N,"",0,352,"Etchegary","","Glenn","Conservative","Conservateur",N,N,27
+10006,"St. John's East","St. John's-Est"," 98","St. John's",N,N,"",0,352,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,1
+10006,"St. John's East","St. John's-Est"," 98","St. John's",N,N,"",0,352,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+10006,"St. John's East","St. John's-Est"," 98","St. John's",N,N,"",0,352,"Thompson","","Joanne","Liberal","Libéral",N,Y,76
+10006,"St. John's East","St. John's-Est"," 99","St. John's",N,N,"",0,370,"Etchegary","","Glenn","Conservative","Conservateur",N,N,24
+10006,"St. John's East","St. John's-Est"," 99","St. John's",N,N,"",0,370,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,1
+10006,"St. John's East","St. John's-Est"," 99","St. John's",N,N,"",0,370,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+10006,"St. John's East","St. John's-Est"," 99","St. John's",N,N,"",0,370,"Thompson","","Joanne","Liberal","Libéral",N,Y,93
+10006,"St. John's East","St. John's-Est"," 100","St. John's",N,N,"",0,347,"Etchegary","","Glenn","Conservative","Conservateur",N,N,18
+10006,"St. John's East","St. John's-Est"," 100","St. John's",N,N,"",0,347,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 100","St. John's",N,N,"",0,347,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+10006,"St. John's East","St. John's-Est"," 100","St. John's",N,N,"",0,347,"Thompson","","Joanne","Liberal","Libéral",N,Y,96
+10006,"St. John's East","St. John's-Est"," 101","St. John's",N,N,"",0,318,"Etchegary","","Glenn","Conservative","Conservateur",N,N,7
+10006,"St. John's East","St. John's-Est"," 101","St. John's",N,N,"",0,318,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,1
+10006,"St. John's East","St. John's-Est"," 101","St. John's",N,N,"",0,318,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+10006,"St. John's East","St. John's-Est"," 101","St. John's",N,N,"",0,318,"Thompson","","Joanne","Liberal","Libéral",N,Y,54
+10006,"St. John's East","St. John's-Est"," 102","St. John's",N,N,"",0,340,"Etchegary","","Glenn","Conservative","Conservateur",N,N,8
+10006,"St. John's East","St. John's-Est"," 102","St. John's",N,N,"",0,340,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,1
+10006,"St. John's East","St. John's-Est"," 102","St. John's",N,N,"",0,340,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+10006,"St. John's East","St. John's-Est"," 102","St. John's",N,N,"",0,340,"Thompson","","Joanne","Liberal","Libéral",N,Y,34
+10006,"St. John's East","St. John's-Est"," 103","St. John's",N,N,"",0,408,"Etchegary","","Glenn","Conservative","Conservateur",N,N,8
+10006,"St. John's East","St. John's-Est"," 103","St. John's",N,N,"",0,408,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,1
+10006,"St. John's East","St. John's-Est"," 103","St. John's",N,N,"",0,408,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+10006,"St. John's East","St. John's-Est"," 103","St. John's",N,N,"",0,408,"Thompson","","Joanne","Liberal","Libéral",N,Y,65
+10006,"St. John's East","St. John's-Est"," 104","St. John's",N,N,"",0,383,"Etchegary","","Glenn","Conservative","Conservateur",N,N,11
+10006,"St. John's East","St. John's-Est"," 104","St. John's",N,N,"",0,383,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,5
+10006,"St. John's East","St. John's-Est"," 104","St. John's",N,N,"",0,383,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+10006,"St. John's East","St. John's-Est"," 104","St. John's",N,N,"",0,383,"Thompson","","Joanne","Liberal","Libéral",N,Y,26
+10006,"St. John's East","St. John's-Est"," 105","St. John's",N,N,"",0,343,"Etchegary","","Glenn","Conservative","Conservateur",N,N,14
+10006,"St. John's East","St. John's-Est"," 105","St. John's",N,N,"",0,343,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,1
+10006,"St. John's East","St. John's-Est"," 105","St. John's",N,N,"",0,343,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+10006,"St. John's East","St. John's-Est"," 105","St. John's",N,N,"",0,343,"Thompson","","Joanne","Liberal","Libéral",N,Y,30
+10006,"St. John's East","St. John's-Est"," 106","St. John's",N,N,"",0,303,"Etchegary","","Glenn","Conservative","Conservateur",N,N,12
+10006,"St. John's East","St. John's-Est"," 106","St. John's",N,N,"",0,303,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,1
+10006,"St. John's East","St. John's-Est"," 106","St. John's",N,N,"",0,303,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+10006,"St. John's East","St. John's-Est"," 106","St. John's",N,N,"",0,303,"Thompson","","Joanne","Liberal","Libéral",N,Y,32
+10006,"St. John's East","St. John's-Est"," 107","St. John's",N,N,"",0,473,"Etchegary","","Glenn","Conservative","Conservateur",N,N,16
+10006,"St. John's East","St. John's-Est"," 107","St. John's",N,N,"",0,473,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 107","St. John's",N,N,"",0,473,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,98
+10006,"St. John's East","St. John's-Est"," 107","St. John's",N,N,"",0,473,"Thompson","","Joanne","Liberal","Libéral",N,Y,58
+10006,"St. John's East","St. John's-Est"," 108","St. John's",N,N,"",2,324,"Etchegary","","Glenn","Conservative","Conservateur",N,N,4
+10006,"St. John's East","St. John's-Est"," 108","St. John's",N,N,"",2,324,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 108","St. John's",N,N,"",2,324,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+10006,"St. John's East","St. John's-Est"," 108","St. John's",N,N,"",2,324,"Thompson","","Joanne","Liberal","Libéral",N,Y,9
+10006,"St. John's East","St. John's-Est"," 109","St. John's",N,N,"",1,339,"Etchegary","","Glenn","Conservative","Conservateur",N,N,14
+10006,"St. John's East","St. John's-Est"," 109","St. John's",N,N,"",1,339,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,1
+10006,"St. John's East","St. John's-Est"," 109","St. John's",N,N,"",1,339,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+10006,"St. John's East","St. John's-Est"," 109","St. John's",N,N,"",1,339,"Thompson","","Joanne","Liberal","Libéral",N,Y,23
+10006,"St. John's East","St. John's-Est"," 110","St. John's",N,N,"",0,425,"Etchegary","","Glenn","Conservative","Conservateur",N,N,15
+10006,"St. John's East","St. John's-Est"," 110","St. John's",N,N,"",0,425,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,3
+10006,"St. John's East","St. John's-Est"," 110","St. John's",N,N,"",0,425,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,79
+10006,"St. John's East","St. John's-Est"," 110","St. John's",N,N,"",0,425,"Thompson","","Joanne","Liberal","Libéral",N,Y,87
+10006,"St. John's East","St. John's-Est"," 111","St. John's",N,N,"",0,386,"Etchegary","","Glenn","Conservative","Conservateur",N,N,5
+10006,"St. John's East","St. John's-Est"," 111","St. John's",N,N,"",0,386,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 111","St. John's",N,N,"",0,386,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+10006,"St. John's East","St. John's-Est"," 111","St. John's",N,N,"",0,386,"Thompson","","Joanne","Liberal","Libéral",N,Y,37
+10006,"St. John's East","St. John's-Est"," 112","St. John's",N,N,"",0,321,"Etchegary","","Glenn","Conservative","Conservateur",N,N,6
+10006,"St. John's East","St. John's-Est"," 112","St. John's",N,N,"",0,321,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 112","St. John's",N,N,"",0,321,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+10006,"St. John's East","St. John's-Est"," 112","St. John's",N,N,"",0,321,"Thompson","","Joanne","Liberal","Libéral",N,Y,35
+10006,"St. John's East","St. John's-Est"," 113","St. John's",N,N,"",1,366,"Etchegary","","Glenn","Conservative","Conservateur",N,N,12
+10006,"St. John's East","St. John's-Est"," 113","St. John's",N,N,"",1,366,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,4
+10006,"St. John's East","St. John's-Est"," 113","St. John's",N,N,"",1,366,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+10006,"St. John's East","St. John's-Est"," 113","St. John's",N,N,"",1,366,"Thompson","","Joanne","Liberal","Libéral",N,Y,27
+10006,"St. John's East","St. John's-Est"," 114","St. John's",N,N,"",0,417,"Etchegary","","Glenn","Conservative","Conservateur",N,N,16
+10006,"St. John's East","St. John's-Est"," 114","St. John's",N,N,"",0,417,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,0
+10006,"St. John's East","St. John's-Est"," 114","St. John's",N,N,"",0,417,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+10006,"St. John's East","St. John's-Est"," 114","St. John's",N,N,"",0,417,"Thompson","","Joanne","Liberal","Libéral",N,Y,29
+10006,"St. John's East","St. John's-Est"," 115","St. John's",N,N,"",1,371,"Etchegary","","Glenn","Conservative","Conservateur",N,N,9
+10006,"St. John's East","St. John's-Est"," 115","St. John's",N,N,"",1,371,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,0
+10006,"St. John's East","St. John's-Est"," 115","St. John's",N,N,"",1,371,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+10006,"St. John's East","St. John's-Est"," 115","St. John's",N,N,"",1,371,"Thompson","","Joanne","Liberal","Libéral",N,Y,40
+10006,"St. John's East","St. John's-Est"," 116","St. John's",N,N,"",0,399,"Etchegary","","Glenn","Conservative","Conservateur",N,N,18
+10006,"St. John's East","St. John's-Est"," 116","St. John's",N,N,"",0,399,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,3
+10006,"St. John's East","St. John's-Est"," 116","St. John's",N,N,"",0,399,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,102
+10006,"St. John's East","St. John's-Est"," 116","St. John's",N,N,"",0,399,"Thompson","","Joanne","Liberal","Libéral",N,Y,65
+10006,"St. John's East","St. John's-Est"," 117","St. John's",N,N,"",1,348,"Etchegary","","Glenn","Conservative","Conservateur",N,N,14
+10006,"St. John's East","St. John's-Est"," 117","St. John's",N,N,"",1,348,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,6
+10006,"St. John's East","St. John's-Est"," 117","St. John's",N,N,"",1,348,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+10006,"St. John's East","St. John's-Est"," 117","St. John's",N,N,"",1,348,"Thompson","","Joanne","Liberal","Libéral",N,Y,16
+10006,"St. John's East","St. John's-Est"," 118","St. John's",N,N,"",0,344,"Etchegary","","Glenn","Conservative","Conservateur",N,N,21
+10006,"St. John's East","St. John's-Est"," 118","St. John's",N,N,"",0,344,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,3
+10006,"St. John's East","St. John's-Est"," 118","St. John's",N,N,"",0,344,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+10006,"St. John's East","St. John's-Est"," 118","St. John's",N,N,"",0,344,"Thompson","","Joanne","Liberal","Libéral",N,Y,59
+10006,"St. John's East","St. John's-Est"," 119","St. John's",N,N,"",1,328,"Etchegary","","Glenn","Conservative","Conservateur",N,N,25
+10006,"St. John's East","St. John's-Est"," 119","St. John's",N,N,"",1,328,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,3
+10006,"St. John's East","St. John's-Est"," 119","St. John's",N,N,"",1,328,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+10006,"St. John's East","St. John's-Est"," 119","St. John's",N,N,"",1,328,"Thompson","","Joanne","Liberal","Libéral",N,Y,44
+10006,"St. John's East","St. John's-Est"," 120","St. John's",N,N,"",0,362,"Etchegary","","Glenn","Conservative","Conservateur",N,N,23
+10006,"St. John's East","St. John's-Est"," 120","St. John's",N,N,"",0,362,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,1
+10006,"St. John's East","St. John's-Est"," 120","St. John's",N,N,"",0,362,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+10006,"St. John's East","St. John's-Est"," 120","St. John's",N,N,"",0,362,"Thompson","","Joanne","Liberal","Libéral",N,Y,49
+10006,"St. John's East","St. John's-Est"," 121","St. John's",N,N,"",0,474,"Etchegary","","Glenn","Conservative","Conservateur",N,N,20
+10006,"St. John's East","St. John's-Est"," 121","St. John's",N,N,"",0,474,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,3
+10006,"St. John's East","St. John's-Est"," 121","St. John's",N,N,"",0,474,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+10006,"St. John's East","St. John's-Est"," 121","St. John's",N,N,"",0,474,"Thompson","","Joanne","Liberal","Libéral",N,Y,44
+10006,"St. John's East","St. John's-Est"," 122","St. John's",N,N,"",3,348,"Etchegary","","Glenn","Conservative","Conservateur",N,N,18
+10006,"St. John's East","St. John's-Est"," 122","St. John's",N,N,"",3,348,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,5
+10006,"St. John's East","St. John's-Est"," 122","St. John's",N,N,"",3,348,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+10006,"St. John's East","St. John's-Est"," 122","St. John's",N,N,"",3,348,"Thompson","","Joanne","Liberal","Libéral",N,Y,40
+10006,"St. John's East","St. John's-Est"," 123","St. John's",N,N,"",1,358,"Etchegary","","Glenn","Conservative","Conservateur",N,N,16
+10006,"St. John's East","St. John's-Est"," 123","St. John's",N,N,"",1,358,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,3
+10006,"St. John's East","St. John's-Est"," 123","St. John's",N,N,"",1,358,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+10006,"St. John's East","St. John's-Est"," 123","St. John's",N,N,"",1,358,"Thompson","","Joanne","Liberal","Libéral",N,Y,38
+10006,"St. John's East","St. John's-Est"," 124","St. John's",N,N,"",1,333,"Etchegary","","Glenn","Conservative","Conservateur",N,N,10
+10006,"St. John's East","St. John's-Est"," 124","St. John's",N,N,"",1,333,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 124","St. John's",N,N,"",1,333,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+10006,"St. John's East","St. John's-Est"," 124","St. John's",N,N,"",1,333,"Thompson","","Joanne","Liberal","Libéral",N,Y,36
+10006,"St. John's East","St. John's-Est"," 125","St. John's",N,N,"",1,426,"Etchegary","","Glenn","Conservative","Conservateur",N,N,19
+10006,"St. John's East","St. John's-Est"," 125","St. John's",N,N,"",1,426,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 125","St. John's",N,N,"",1,426,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+10006,"St. John's East","St. John's-Est"," 125","St. John's",N,N,"",1,426,"Thompson","","Joanne","Liberal","Libéral",N,Y,45
+10006,"St. John's East","St. John's-Est"," 126","St. John's",N,N,"",0,391,"Etchegary","","Glenn","Conservative","Conservateur",N,N,15
+10006,"St. John's East","St. John's-Est"," 126","St. John's",N,N,"",0,391,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,3
+10006,"St. John's East","St. John's-Est"," 126","St. John's",N,N,"",0,391,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+10006,"St. John's East","St. John's-Est"," 126","St. John's",N,N,"",0,391,"Thompson","","Joanne","Liberal","Libéral",N,Y,62
+10006,"St. John's East","St. John's-Est"," 127","Wabana",N,N,"",1,299,"Etchegary","","Glenn","Conservative","Conservateur",N,N,27
+10006,"St. John's East","St. John's-Est"," 127","Wabana",N,N,"",1,299,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 127","Wabana",N,N,"",1,299,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+10006,"St. John's East","St. John's-Est"," 127","Wabana",N,N,"",1,299,"Thompson","","Joanne","Liberal","Libéral",N,Y,17
+10006,"St. John's East","St. John's-Est"," 128","Wabana",N,N,"",2,224,"Etchegary","","Glenn","Conservative","Conservateur",N,N,26
+10006,"St. John's East","St. John's-Est"," 128","Wabana",N,N,"",2,224,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,3
+10006,"St. John's East","St. John's-Est"," 128","Wabana",N,N,"",2,224,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+10006,"St. John's East","St. John's-Est"," 128","Wabana",N,N,"",2,224,"Thompson","","Joanne","Liberal","Libéral",N,Y,10
+10006,"St. John's East","St. John's-Est"," 129","Wabana",N,N,"",0,296,"Etchegary","","Glenn","Conservative","Conservateur",N,N,12
+10006,"St. John's East","St. John's-Est"," 129","Wabana",N,N,"",0,296,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 129","Wabana",N,N,"",0,296,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+10006,"St. John's East","St. John's-Est"," 129","Wabana",N,N,"",0,296,"Thompson","","Joanne","Liberal","Libéral",N,Y,15
+10006,"St. John's East","St. John's-Est"," 130","Wabana",N,N,"",0,304,"Etchegary","","Glenn","Conservative","Conservateur",N,N,22
+10006,"St. John's East","St. John's-Est"," 130","Wabana",N,N,"",0,304,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,24
+10006,"St. John's East","St. John's-Est"," 130","Wabana",N,N,"",0,304,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+10006,"St. John's East","St. John's-Est"," 130","Wabana",N,N,"",0,304,"Thompson","","Joanne","Liberal","Libéral",N,Y,5
+10006,"St. John's East","St. John's-Est"," 131","St. John's",N,N,"",0,507,"Etchegary","","Glenn","Conservative","Conservateur",N,N,39
+10006,"St. John's East","St. John's-Est"," 131","St. John's",N,N,"",0,507,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,4
+10006,"St. John's East","St. John's-Est"," 131","St. John's",N,N,"",0,507,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,81
+10006,"St. John's East","St. John's-Est"," 131","St. John's",N,N,"",0,507,"Thompson","","Joanne","Liberal","Libéral",N,Y,90
+10006,"St. John's East","St. John's-Est"," 132","St. John's",N,N,"",0,532,"Etchegary","","Glenn","Conservative","Conservateur",N,N,19
+10006,"St. John's East","St. John's-Est"," 132","St. John's",N,N,"",0,532,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,7
+10006,"St. John's East","St. John's-Est"," 132","St. John's",N,N,"",0,532,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,84
+10006,"St. John's East","St. John's-Est"," 132","St. John's",N,N,"",0,532,"Thompson","","Joanne","Liberal","Libéral",N,Y,61
+10006,"St. John's East","St. John's-Est"," 133","St. John's",N,N,"",0,508,"Etchegary","","Glenn","Conservative","Conservateur",N,N,21
+10006,"St. John's East","St. John's-Est"," 133","St. John's",N,N,"",0,508,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,5
+10006,"St. John's East","St. John's-Est"," 133","St. John's",N,N,"",0,508,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,81
+10006,"St. John's East","St. John's-Est"," 133","St. John's",N,N,"",0,508,"Thompson","","Joanne","Liberal","Libéral",N,Y,60
+10006,"St. John's East","St. John's-Est"," 134","St. John's",N,N,"",0,591,"Etchegary","","Glenn","Conservative","Conservateur",N,N,59
+10006,"St. John's East","St. John's-Est"," 134","St. John's",N,N,"",0,591,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 134","St. John's",N,N,"",0,591,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,78
+10006,"St. John's East","St. John's-Est"," 134","St. John's",N,N,"",0,591,"Thompson","","Joanne","Liberal","Libéral",N,Y,83
+10006,"St. John's East","St. John's-Est"," 135","St. John's",N,N,"",0,688,"Etchegary","","Glenn","Conservative","Conservateur",N,N,53
+10006,"St. John's East","St. John's-Est"," 135","St. John's",N,N,"",0,688,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,7
+10006,"St. John's East","St. John's-Est"," 135","St. John's",N,N,"",0,688,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,95
+10006,"St. John's East","St. John's-Est"," 135","St. John's",N,N,"",0,688,"Thompson","","Joanne","Liberal","Libéral",N,Y,96
+10006,"St. John's East","St. John's-Est"," 136","Portugal Cove-St. Philip's",N,N,"",0,553,"Etchegary","","Glenn","Conservative","Conservateur",N,N,52
+10006,"St. John's East","St. John's-Est"," 136","Portugal Cove-St. Philip's",N,N,"",0,553,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,3
+10006,"St. John's East","St. John's-Est"," 136","Portugal Cove-St. Philip's",N,N,"",0,553,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+10006,"St. John's East","St. John's-Est"," 136","Portugal Cove-St. Philip's",N,N,"",0,553,"Thompson","","Joanne","Liberal","Libéral",N,Y,87
+10006,"St. John's East","St. John's-Est"," 137","Portugal Cove-St. Philip's",N,N,"",1,493,"Etchegary","","Glenn","Conservative","Conservateur",N,N,38
+10006,"St. John's East","St. John's-Est"," 137","Portugal Cove-St. Philip's",N,N,"",1,493,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,3
+10006,"St. John's East","St. John's-Est"," 137","Portugal Cove-St. Philip's",N,N,"",1,493,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+10006,"St. John's East","St. John's-Est"," 137","Portugal Cove-St. Philip's",N,N,"",1,493,"Thompson","","Joanne","Liberal","Libéral",N,Y,75
+10006,"St. John's East","St. John's-Est"," 138","Portugal Cove-St. Philip's",N,N,"",1,499,"Etchegary","","Glenn","Conservative","Conservateur",N,N,47
+10006,"St. John's East","St. John's-Est"," 138","Portugal Cove-St. Philip's",N,N,"",1,499,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,7
+10006,"St. John's East","St. John's-Est"," 138","Portugal Cove-St. Philip's",N,N,"",1,499,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+10006,"St. John's East","St. John's-Est"," 138","Portugal Cove-St. Philip's",N,N,"",1,499,"Thompson","","Joanne","Liberal","Libéral",N,Y,76
+10006,"St. John's East","St. John's-Est"," 139","Portugal Cove-St. Philip's",N,N,"",0,446,"Etchegary","","Glenn","Conservative","Conservateur",N,N,33
+10006,"St. John's East","St. John's-Est"," 139","Portugal Cove-St. Philip's",N,N,"",0,446,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,6
+10006,"St. John's East","St. John's-Est"," 139","Portugal Cove-St. Philip's",N,N,"",0,446,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+10006,"St. John's East","St. John's-Est"," 139","Portugal Cove-St. Philip's",N,N,"",0,446,"Thompson","","Joanne","Liberal","Libéral",N,Y,55
+10006,"St. John's East","St. John's-Est"," 140","Portugal Cove-St. Philip's",N,N,"",0,460,"Etchegary","","Glenn","Conservative","Conservateur",N,N,104
+10006,"St. John's East","St. John's-Est"," 140","Portugal Cove-St. Philip's",N,N,"",0,460,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,7
+10006,"St. John's East","St. John's-Est"," 140","Portugal Cove-St. Philip's",N,N,"",0,460,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+10006,"St. John's East","St. John's-Est"," 140","Portugal Cove-St. Philip's",N,N,"",0,460,"Thompson","","Joanne","Liberal","Libéral",N,Y,124
+10006,"St. John's East","St. John's-Est"," 141","Portugal Cove-St. Philip's",N,N,"",0,355,"Etchegary","","Glenn","Conservative","Conservateur",N,N,60
+10006,"St. John's East","St. John's-Est"," 141","Portugal Cove-St. Philip's",N,N,"",0,355,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,4
+10006,"St. John's East","St. John's-Est"," 141","Portugal Cove-St. Philip's",N,N,"",0,355,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,89
+10006,"St. John's East","St. John's-Est"," 141","Portugal Cove-St. Philip's",N,N,"",0,355,"Thompson","","Joanne","Liberal","Libéral",N,Y,84
+10006,"St. John's East","St. John's-Est"," 142","Portugal Cove-St. Philip's",N,N,"140",0,414,"Etchegary","","Glenn","Conservative","Conservateur",N,N,0
+10006,"St. John's East","St. John's-Est"," 142","Portugal Cove-St. Philip's",N,N,"140",0,414,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,0
+10006,"St. John's East","St. John's-Est"," 142","Portugal Cove-St. Philip's",N,N,"140",0,414,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10006,"St. John's East","St. John's-Est"," 142","Portugal Cove-St. Philip's",N,N,"140",0,414,"Thompson","","Joanne","Liberal","Libéral",N,Y,0
+10006,"St. John's East","St. John's-Est"," 143","Portugal Cove-St. Philip's",N,N,"141",0,323,"Etchegary","","Glenn","Conservative","Conservateur",N,N,0
+10006,"St. John's East","St. John's-Est"," 143","Portugal Cove-St. Philip's",N,N,"141",0,323,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,0
+10006,"St. John's East","St. John's-Est"," 143","Portugal Cove-St. Philip's",N,N,"141",0,323,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10006,"St. John's East","St. John's-Est"," 143","Portugal Cove-St. Philip's",N,N,"141",0,323,"Thompson","","Joanne","Liberal","Libéral",N,Y,0
+10006,"St. John's East","St. John's-Est"," 144","Paradise",N,N,"",1,439,"Etchegary","","Glenn","Conservative","Conservateur",N,N,20
+10006,"St. John's East","St. John's-Est"," 144","Paradise",N,N,"",1,439,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 144","Paradise",N,N,"",1,439,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+10006,"St. John's East","St. John's-Est"," 144","Paradise",N,N,"",1,439,"Thompson","","Joanne","Liberal","Libéral",N,Y,62
+10006,"St. John's East","St. John's-Est"," 145","Paradise",N,N,"",1,642,"Etchegary","","Glenn","Conservative","Conservateur",N,N,61
+10006,"St. John's East","St. John's-Est"," 145","Paradise",N,N,"",1,642,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,0
+10006,"St. John's East","St. John's-Est"," 145","Paradise",N,N,"",1,642,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+10006,"St. John's East","St. John's-Est"," 145","Paradise",N,N,"",1,642,"Thompson","","Joanne","Liberal","Libéral",N,Y,81
+10006,"St. John's East","St. John's-Est"," 146","Paradise",N,N,"",0,361,"Etchegary","","Glenn","Conservative","Conservateur",N,N,42
+10006,"St. John's East","St. John's-Est"," 146","Paradise",N,N,"",0,361,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,4
+10006,"St. John's East","St. John's-Est"," 146","Paradise",N,N,"",0,361,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+10006,"St. John's East","St. John's-Est"," 146","Paradise",N,N,"",0,361,"Thompson","","Joanne","Liberal","Libéral",N,Y,39
+10006,"St. John's East","St. John's-Est"," 147","Paradise",N,N,"",0,386,"Etchegary","","Glenn","Conservative","Conservateur",N,N,16
+10006,"St. John's East","St. John's-Est"," 147","Paradise",N,N,"",0,386,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,0
+10006,"St. John's East","St. John's-Est"," 147","Paradise",N,N,"",0,386,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+10006,"St. John's East","St. John's-Est"," 147","Paradise",N,N,"",0,386,"Thompson","","Joanne","Liberal","Libéral",N,Y,66
+10006,"St. John's East","St. John's-Est"," 148","Paradise",N,N,"",1,385,"Etchegary","","Glenn","Conservative","Conservateur",N,N,24
+10006,"St. John's East","St. John's-Est"," 148","Paradise",N,N,"",1,385,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,3
+10006,"St. John's East","St. John's-Est"," 148","Paradise",N,N,"",1,385,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+10006,"St. John's East","St. John's-Est"," 148","Paradise",N,N,"",1,385,"Thompson","","Joanne","Liberal","Libéral",N,Y,52
+10006,"St. John's East","St. John's-Est"," 149","Paradise",N,N,"",3,336,"Etchegary","","Glenn","Conservative","Conservateur",N,N,26
+10006,"St. John's East","St. John's-Est"," 149","Paradise",N,N,"",3,336,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,5
+10006,"St. John's East","St. John's-Est"," 149","Paradise",N,N,"",3,336,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+10006,"St. John's East","St. John's-Est"," 149","Paradise",N,N,"",3,336,"Thompson","","Joanne","Liberal","Libéral",N,Y,48
+10006,"St. John's East","St. John's-Est"," 150","Paradise",N,N,"",0,312,"Etchegary","","Glenn","Conservative","Conservateur",N,N,18
+10006,"St. John's East","St. John's-Est"," 150","Paradise",N,N,"",0,312,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,1
+10006,"St. John's East","St. John's-Est"," 150","Paradise",N,N,"",0,312,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+10006,"St. John's East","St. John's-Est"," 150","Paradise",N,N,"",0,312,"Thompson","","Joanne","Liberal","Libéral",N,Y,15
+10006,"St. John's East","St. John's-Est"," 151","Paradise",N,N,"",1,424,"Etchegary","","Glenn","Conservative","Conservateur",N,N,31
+10006,"St. John's East","St. John's-Est"," 151","Paradise",N,N,"",1,424,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 151","Paradise",N,N,"",1,424,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+10006,"St. John's East","St. John's-Est"," 151","Paradise",N,N,"",1,424,"Thompson","","Joanne","Liberal","Libéral",N,Y,42
+10006,"St. John's East","St. John's-Est"," 152","Paradise",N,N,"",1,376,"Etchegary","","Glenn","Conservative","Conservateur",N,N,26
+10006,"St. John's East","St. John's-Est"," 152","Paradise",N,N,"",1,376,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 152","Paradise",N,N,"",1,376,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+10006,"St. John's East","St. John's-Est"," 152","Paradise",N,N,"",1,376,"Thompson","","Joanne","Liberal","Libéral",N,Y,67
+10006,"St. John's East","St. John's-Est"," 153","Wabana",N,N,"",1,263,"Etchegary","","Glenn","Conservative","Conservateur",N,N,16
+10006,"St. John's East","St. John's-Est"," 153","Wabana",N,N,"",1,263,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,9
+10006,"St. John's East","St. John's-Est"," 153","Wabana",N,N,"",1,263,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+10006,"St. John's East","St. John's-Est"," 153","Wabana",N,N,"",1,263,"Thompson","","Joanne","Liberal","Libéral",N,Y,8
+10006,"St. John's East","St. John's-Est"," 154","Wabana",N,N,"",2,308,"Etchegary","","Glenn","Conservative","Conservateur",N,N,34
+10006,"St. John's East","St. John's-Est"," 154","Wabana",N,N,"",2,308,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,4
+10006,"St. John's East","St. John's-Est"," 154","Wabana",N,N,"",2,308,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+10006,"St. John's East","St. John's-Est"," 154","Wabana",N,N,"",2,308,"Thompson","","Joanne","Liberal","Libéral",N,Y,17
+10006,"St. John's East","St. John's-Est"," 155","Freshwater",N,N,"",0,271,"Etchegary","","Glenn","Conservative","Conservateur",N,N,31
+10006,"St. John's East","St. John's-Est"," 155","Freshwater",N,N,"",0,271,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,4
+10006,"St. John's East","St. John's-Est"," 155","Freshwater",N,N,"",0,271,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+10006,"St. John's East","St. John's-Est"," 155","Freshwater",N,N,"",0,271,"Thompson","","Joanne","Liberal","Libéral",N,Y,20
+10006,"St. John's East","St. John's-Est"," 156","Paradise",N,N,"",1,540,"Etchegary","","Glenn","Conservative","Conservateur",N,N,29
+10006,"St. John's East","St. John's-Est"," 156","Paradise",N,N,"",1,540,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 156","Paradise",N,N,"",1,540,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+10006,"St. John's East","St. John's-Est"," 156","Paradise",N,N,"",1,540,"Thompson","","Joanne","Liberal","Libéral",N,Y,91
+10006,"St. John's East","St. John's-Est"," 157","Paradise",N,N,"",1,575,"Etchegary","","Glenn","Conservative","Conservateur",N,N,39
+10006,"St. John's East","St. John's-Est"," 157","Paradise",N,N,"",1,575,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,0
+10006,"St. John's East","St. John's-Est"," 157","Paradise",N,N,"",1,575,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+10006,"St. John's East","St. John's-Est"," 157","Paradise",N,N,"",1,575,"Thompson","","Joanne","Liberal","Libéral",N,Y,96
+10006,"St. John's East","St. John's-Est"," 158","St. John's",N,N,"",0,499,"Etchegary","","Glenn","Conservative","Conservateur",N,N,34
+10006,"St. John's East","St. John's-Est"," 158","St. John's",N,N,"",0,499,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,5
+10006,"St. John's East","St. John's-Est"," 158","St. John's",N,N,"",0,499,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+10006,"St. John's East","St. John's-Est"," 158","St. John's",N,N,"",0,499,"Thompson","","Joanne","Liberal","Libéral",N,Y,75
+10006,"St. John's East","St. John's-Est"," 500","Mobile poll/Bureau itinérant",N,N,"",1,67,"Etchegary","","Glenn","Conservative","Conservateur",N,N,8
+10006,"St. John's East","St. John's-Est"," 500","Mobile poll/Bureau itinérant",N,N,"",1,67,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 500","Mobile poll/Bureau itinérant",N,N,"",1,67,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+10006,"St. John's East","St. John's-Est"," 500","Mobile poll/Bureau itinérant",N,N,"",1,67,"Thompson","","Joanne","Liberal","Libéral",N,Y,22
+10006,"St. John's East","St. John's-Est"," 501","Mobile poll/Bureau itinérant",N,N,"40",0,179,"Etchegary","","Glenn","Conservative","Conservateur",N,N,0
+10006,"St. John's East","St. John's-Est"," 501","Mobile poll/Bureau itinérant",N,N,"40",0,179,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,0
+10006,"St. John's East","St. John's-Est"," 501","Mobile poll/Bureau itinérant",N,N,"40",0,179,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10006,"St. John's East","St. John's-Est"," 501","Mobile poll/Bureau itinérant",N,N,"40",0,179,"Thompson","","Joanne","Liberal","Libéral",N,Y,0
+10006,"St. John's East","St. John's-Est"," 502","Mobile poll/Bureau itinérant",N,N,"",4,173,"Etchegary","","Glenn","Conservative","Conservateur",N,N,17
+10006,"St. John's East","St. John's-Est"," 502","Mobile poll/Bureau itinérant",N,N,"",4,173,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,4
+10006,"St. John's East","St. John's-Est"," 502","Mobile poll/Bureau itinérant",N,N,"",4,173,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10006,"St. John's East","St. John's-Est"," 502","Mobile poll/Bureau itinérant",N,N,"",4,173,"Thompson","","Joanne","Liberal","Libéral",N,Y,28
+10006,"St. John's East","St. John's-Est"," 503","Mobile poll/Bureau itinérant",N,N,"",1,71,"Etchegary","","Glenn","Conservative","Conservateur",N,N,13
+10006,"St. John's East","St. John's-Est"," 503","Mobile poll/Bureau itinérant",N,N,"",1,71,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 503","Mobile poll/Bureau itinérant",N,N,"",1,71,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+10006,"St. John's East","St. John's-Est"," 503","Mobile poll/Bureau itinérant",N,N,"",1,71,"Thompson","","Joanne","Liberal","Libéral",N,Y,22
+10006,"St. John's East","St. John's-Est"," 504","Mobile poll/Bureau itinérant",N,N,"68",0,168,"Etchegary","","Glenn","Conservative","Conservateur",N,N,0
+10006,"St. John's East","St. John's-Est"," 504","Mobile poll/Bureau itinérant",N,N,"68",0,168,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,0
+10006,"St. John's East","St. John's-Est"," 504","Mobile poll/Bureau itinérant",N,N,"68",0,168,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10006,"St. John's East","St. John's-Est"," 504","Mobile poll/Bureau itinérant",N,N,"68",0,168,"Thompson","","Joanne","Liberal","Libéral",N,Y,0
+10006,"St. John's East","St. John's-Est"," 505","Mobile poll/Bureau itinérant",N,N,"",0,61,"Etchegary","","Glenn","Conservative","Conservateur",N,N,1
+10006,"St. John's East","St. John's-Est"," 505","Mobile poll/Bureau itinérant",N,N,"",0,61,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,0
+10006,"St. John's East","St. John's-Est"," 505","Mobile poll/Bureau itinérant",N,N,"",0,61,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+10006,"St. John's East","St. John's-Est"," 505","Mobile poll/Bureau itinérant",N,N,"",0,61,"Thompson","","Joanne","Liberal","Libéral",N,Y,11
+10006,"St. John's East","St. John's-Est"," 506","Mobile poll/Bureau itinérant",N,N,"",1,47,"Etchegary","","Glenn","Conservative","Conservateur",N,N,2
+10006,"St. John's East","St. John's-Est"," 506","Mobile poll/Bureau itinérant",N,N,"",1,47,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,0
+10006,"St. John's East","St. John's-Est"," 506","Mobile poll/Bureau itinérant",N,N,"",1,47,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+10006,"St. John's East","St. John's-Est"," 506","Mobile poll/Bureau itinérant",N,N,"",1,47,"Thompson","","Joanne","Liberal","Libéral",N,Y,15
+10006,"St. John's East","St. John's-Est"," 507","Mobile poll/Bureau itinérant",N,N,"",1,58,"Etchegary","","Glenn","Conservative","Conservateur",N,N,7
+10006,"St. John's East","St. John's-Est"," 507","Mobile poll/Bureau itinérant",N,N,"",1,58,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,0
+10006,"St. John's East","St. John's-Est"," 507","Mobile poll/Bureau itinérant",N,N,"",1,58,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+10006,"St. John's East","St. John's-Est"," 507","Mobile poll/Bureau itinérant",N,N,"",1,58,"Thompson","","Joanne","Liberal","Libéral",N,Y,20
+10006,"St. John's East","St. John's-Est"," 508","Mobile poll/Bureau itinérant",N,N,"97",0,111,"Etchegary","","Glenn","Conservative","Conservateur",N,N,0
+10006,"St. John's East","St. John's-Est"," 508","Mobile poll/Bureau itinérant",N,N,"97",0,111,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,0
+10006,"St. John's East","St. John's-Est"," 508","Mobile poll/Bureau itinérant",N,N,"97",0,111,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10006,"St. John's East","St. John's-Est"," 508","Mobile poll/Bureau itinérant",N,N,"97",0,111,"Thompson","","Joanne","Liberal","Libéral",N,Y,0
+10006,"St. John's East","St. John's-Est"," 509","Mobile poll/Bureau itinérant",N,N,"103",0,26,"Etchegary","","Glenn","Conservative","Conservateur",N,N,0
+10006,"St. John's East","St. John's-Est"," 509","Mobile poll/Bureau itinérant",N,N,"103",0,26,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,0
+10006,"St. John's East","St. John's-Est"," 509","Mobile poll/Bureau itinérant",N,N,"103",0,26,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+10006,"St. John's East","St. John's-Est"," 509","Mobile poll/Bureau itinérant",N,N,"103",0,26,"Thompson","","Joanne","Liberal","Libéral",N,Y,0
+10006,"St. John's East","St. John's-Est"," 600","Pouch Cove",N,N,"",6,0,"Etchegary","","Glenn","Conservative","Conservateur",N,N,98
+10006,"St. John's East","St. John's-Est"," 600","Pouch Cove",N,N,"",6,0,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,7
+10006,"St. John's East","St. John's-Est"," 600","Pouch Cove",N,N,"",6,0,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+10006,"St. John's East","St. John's-Est"," 600","Pouch Cove",N,N,"",6,0,"Thompson","","Joanne","Liberal","Libéral",N,Y,107
+10006,"St. John's East","St. John's-Est"," 601","Bauline--Flatrock--Torbay",N,N,"",10,0,"Etchegary","","Glenn","Conservative","Conservateur",N,N,67
+10006,"St. John's East","St. John's-Est"," 601","Bauline--Flatrock--Torbay",N,N,"",10,0,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,2
+10006,"St. John's East","St. John's-Est"," 601","Bauline--Flatrock--Torbay",N,N,"",10,0,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,78
+10006,"St. John's East","St. John's-Est"," 601","Bauline--Flatrock--Torbay",N,N,"",10,0,"Thompson","","Joanne","Liberal","Libéral",N,Y,90
+10006,"St. John's East","St. John's-Est"," 602","Torbay",N,N,"",1,0,"Etchegary","","Glenn","Conservative","Conservateur",N,N,116
+10006,"St. John's East","St. John's-Est"," 602","Torbay",N,N,"",1,0,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,10
+10006,"St. John's East","St. John's-Est"," 602","Torbay",N,N,"",1,0,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,161
+10006,"St. John's East","St. John's-Est"," 602","Torbay",N,N,"",1,0,"Thompson","","Joanne","Liberal","Libéral",N,Y,224
+10006,"St. John's East","St. John's-Est"," 603","Logy Bay-Middle Cove-Outer Cove--Torbay",N,N,"",0,0,"Etchegary","","Glenn","Conservative","Conservateur",N,N,108
+10006,"St. John's East","St. John's-Est"," 603","Logy Bay-Middle Cove-Outer Cove--Torbay",N,N,"",0,0,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,4
+10006,"St. John's East","St. John's-Est"," 603","Logy Bay-Middle Cove-Outer Cove--Torbay",N,N,"",0,0,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,135
+10006,"St. John's East","St. John's-Est"," 603","Logy Bay-Middle Cove-Outer Cove--Torbay",N,N,"",0,0,"Thompson","","Joanne","Liberal","Libéral",N,Y,243
+10006,"St. John's East","St. John's-Est"," 604","St. John's",N,N,"",0,0,"Etchegary","","Glenn","Conservative","Conservateur",N,N,70
+10006,"St. John's East","St. John's-Est"," 604","St. John's",N,N,"",0,0,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,5
+10006,"St. John's East","St. John's-Est"," 604","St. John's",N,N,"",0,0,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,201
+10006,"St. John's East","St. John's-Est"," 604","St. John's",N,N,"",0,0,"Thompson","","Joanne","Liberal","Libéral",N,Y,311
+10006,"St. John's East","St. John's-Est"," 605","St. John's",N,N,"",11,0,"Etchegary","","Glenn","Conservative","Conservateur",N,N,63
+10006,"St. John's East","St. John's-Est"," 605","St. John's",N,N,"",11,0,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,15
+10006,"St. John's East","St. John's-Est"," 605","St. John's",N,N,"",11,0,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,352
+10006,"St. John's East","St. John's-Est"," 605","St. John's",N,N,"",11,0,"Thompson","","Joanne","Liberal","Libéral",N,Y,252
+10006,"St. John's East","St. John's-Est"," 606","St. John's",N,N,"",7,0,"Etchegary","","Glenn","Conservative","Conservateur",N,N,102
+10006,"St. John's East","St. John's-Est"," 606","St. John's",N,N,"",7,0,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,7
+10006,"St. John's East","St. John's-Est"," 606","St. John's",N,N,"",7,0,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,264
+10006,"St. John's East","St. John's-Est"," 606","St. John's",N,N,"",7,0,"Thompson","","Joanne","Liberal","Libéral",N,Y,318
+10006,"St. John's East","St. John's-Est"," 607","St. John's",N,N,"",15,0,"Etchegary","","Glenn","Conservative","Conservateur",N,N,139
+10006,"St. John's East","St. John's-Est"," 607","St. John's",N,N,"",15,0,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,7
+10006,"St. John's East","St. John's-Est"," 607","St. John's",N,N,"",15,0,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,260
+10006,"St. John's East","St. John's-Est"," 607","St. John's",N,N,"",15,0,"Thompson","","Joanne","Liberal","Libéral",N,Y,508
+10006,"St. John's East","St. John's-Est"," 608","St. John's",N,N,"",2,0,"Etchegary","","Glenn","Conservative","Conservateur",N,N,117
+10006,"St. John's East","St. John's-Est"," 608","St. John's",N,N,"",2,0,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,9
+10006,"St. John's East","St. John's-Est"," 608","St. John's",N,N,"",2,0,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,194
+10006,"St. John's East","St. John's-Est"," 608","St. John's",N,N,"",2,0,"Thompson","","Joanne","Liberal","Libéral",N,Y,412
+10006,"St. John's East","St. John's-Est"," 609","St. John's",N,N,"",4,0,"Etchegary","","Glenn","Conservative","Conservateur",N,N,144
+10006,"St. John's East","St. John's-Est"," 609","St. John's",N,N,"",4,0,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,3
+10006,"St. John's East","St. John's-Est"," 609","St. John's",N,N,"",4,0,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,187
+10006,"St. John's East","St. John's-Est"," 609","St. John's",N,N,"",4,0,"Thompson","","Joanne","Liberal","Libéral",N,Y,432
+10006,"St. John's East","St. John's-Est"," 610","St. John's",N,N,"",4,0,"Etchegary","","Glenn","Conservative","Conservateur",N,N,100
+10006,"St. John's East","St. John's-Est"," 610","St. John's",N,N,"",4,0,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,8
+10006,"St. John's East","St. John's-Est"," 610","St. John's",N,N,"",4,0,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,139
+10006,"St. John's East","St. John's-Est"," 610","St. John's",N,N,"",4,0,"Thompson","","Joanne","Liberal","Libéral",N,Y,284
+10006,"St. John's East","St. John's-Est"," 611","St. John's",N,N,"",4,0,"Etchegary","","Glenn","Conservative","Conservateur",N,N,78
+10006,"St. John's East","St. John's-Est"," 611","St. John's",N,N,"",4,0,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,7
+10006,"St. John's East","St. John's-Est"," 611","St. John's",N,N,"",4,0,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,169
+10006,"St. John's East","St. John's-Est"," 611","St. John's",N,N,"",4,0,"Thompson","","Joanne","Liberal","Libéral",N,Y,237
+10006,"St. John's East","St. John's-Est"," 612","St. John's",N,N,"",1,0,"Etchegary","","Glenn","Conservative","Conservateur",N,N,92
+10006,"St. John's East","St. John's-Est"," 612","St. John's",N,N,"",1,0,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,6
+10006,"St. John's East","St. John's-Est"," 612","St. John's",N,N,"",1,0,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,116
+10006,"St. John's East","St. John's-Est"," 612","St. John's",N,N,"",1,0,"Thompson","","Joanne","Liberal","Libéral",N,Y,187
+10006,"St. John's East","St. John's-Est"," 613","St. John's",N,N,"",0,0,"Etchegary","","Glenn","Conservative","Conservateur",N,N,129
+10006,"St. John's East","St. John's-Est"," 613","St. John's",N,N,"",0,0,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,18
+10006,"St. John's East","St. John's-Est"," 613","St. John's",N,N,"",0,0,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,123
+10006,"St. John's East","St. John's-Est"," 613","St. John's",N,N,"",0,0,"Thompson","","Joanne","Liberal","Libéral",N,Y,277
+10006,"St. John's East","St. John's-Est"," 614","Portugal Cove-St. Philip's",N,N,"",7,0,"Etchegary","","Glenn","Conservative","Conservateur",N,N,140
+10006,"St. John's East","St. John's-Est"," 614","Portugal Cove-St. Philip's",N,N,"",7,0,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,12
+10006,"St. John's East","St. John's-Est"," 614","Portugal Cove-St. Philip's",N,N,"",7,0,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,132
+10006,"St. John's East","St. John's-Est"," 614","Portugal Cove-St. Philip's",N,N,"",7,0,"Thompson","","Joanne","Liberal","Libéral",N,Y,280
+10006,"St. John's East","St. John's-Est"," 615","Portugal Cove-St. Philip's",N,N,"",6,0,"Etchegary","","Glenn","Conservative","Conservateur",N,N,77
+10006,"St. John's East","St. John's-Est"," 615","Portugal Cove-St. Philip's",N,N,"",6,0,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,7
+10006,"St. John's East","St. John's-Est"," 615","Portugal Cove-St. Philip's",N,N,"",6,0,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+10006,"St. John's East","St. John's-Est"," 615","Portugal Cove-St. Philip's",N,N,"",6,0,"Thompson","","Joanne","Liberal","Libéral",N,Y,119
+10006,"St. John's East","St. John's-Est"," 616","Wabana",N,N,"",10,0,"Etchegary","","Glenn","Conservative","Conservateur",N,N,133
+10006,"St. John's East","St. John's-Est"," 616","Wabana",N,N,"",10,0,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,17
+10006,"St. John's East","St. John's-Est"," 616","Wabana",N,N,"",10,0,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+10006,"St. John's East","St. John's-Est"," 616","Wabana",N,N,"",10,0,"Thompson","","Joanne","Liberal","Libéral",N,Y,77
+10006,"St. John's East","St. John's-Est"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",17,158,"Etchegary","","Glenn","Conservative","Conservateur",N,N,112
+10006,"St. John's East","St. John's-Est"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",17,158,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,6
+10006,"St. John's East","St. John's-Est"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",17,158,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,152
+10006,"St. John's East","St. John's-Est"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",17,158,"Thompson","","Joanne","Liberal","Libéral",N,Y,179
+10006,"St. John's East","St. John's-Est"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",73,0,"Etchegary","","Glenn","Conservative","Conservateur",N,N,713
+10006,"St. John's East","St. John's-Est"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",73,0,"Metcalfe","","Dana","People's Party - PPC","Parti populaire - PPC",N,N,41
+10006,"St. John's East","St. John's-Est"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",73,0,"Shortall","","Mary","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1476
+10006,"St. John's East","St. John's-Est"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",73,0,"Thompson","","Joanne","Liberal","Libéral",N,Y,2682

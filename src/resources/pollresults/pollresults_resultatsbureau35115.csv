@@ -1,0 +1,1006 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+35115,"Willowdale","Willowdale"," 1","Toronto",N,N,"",3,548,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35115,"Willowdale","Willowdale"," 1","Toronto",N,N,"",3,548,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,122
+35115,"Willowdale","Willowdale"," 1","Toronto",N,N,"",3,548,"Gorka","","Anna","Green Party","Parti Vert",N,N,9
+35115,"Willowdale","Willowdale"," 1","Toronto",N,N,"",3,548,"Lee","","Daniel","Conservative","Conservateur",N,N,84
+35115,"Willowdale","Willowdale"," 1","Toronto",N,N,"",3,548,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,2
+35115,"Willowdale","Willowdale"," 2","Toronto",N,N,"",2,547,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35115,"Willowdale","Willowdale"," 2","Toronto",N,N,"",2,547,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,72
+35115,"Willowdale","Willowdale"," 2","Toronto",N,N,"",2,547,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 2","Toronto",N,N,"",2,547,"Lee","","Daniel","Conservative","Conservateur",N,N,67
+35115,"Willowdale","Willowdale"," 2","Toronto",N,N,"",2,547,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,1
+35115,"Willowdale","Willowdale"," 3","Toronto",N,N,"1",0,322,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 3","Toronto",N,N,"1",0,322,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 3","Toronto",N,N,"1",0,322,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 3","Toronto",N,N,"1",0,322,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 3","Toronto",N,N,"1",0,322,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 4","Toronto",N,N,"",3,334,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35115,"Willowdale","Willowdale"," 4","Toronto",N,N,"",3,334,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,69
+35115,"Willowdale","Willowdale"," 4","Toronto",N,N,"",3,334,"Gorka","","Anna","Green Party","Parti Vert",N,N,1
+35115,"Willowdale","Willowdale"," 4","Toronto",N,N,"",3,334,"Lee","","Daniel","Conservative","Conservateur",N,N,58
+35115,"Willowdale","Willowdale"," 4","Toronto",N,N,"",3,334,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 5","Toronto",N,N,"",7,493,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35115,"Willowdale","Willowdale"," 5","Toronto",N,N,"",7,493,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,89
+35115,"Willowdale","Willowdale"," 5","Toronto",N,N,"",7,493,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 5","Toronto",N,N,"",7,493,"Lee","","Daniel","Conservative","Conservateur",N,N,46
+35115,"Willowdale","Willowdale"," 5","Toronto",N,N,"",7,493,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,4
+35115,"Willowdale","Willowdale"," 6","Toronto",N,N,"",2,535,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35115,"Willowdale","Willowdale"," 6","Toronto",N,N,"",2,535,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,81
+35115,"Willowdale","Willowdale"," 6","Toronto",N,N,"",2,535,"Gorka","","Anna","Green Party","Parti Vert",N,N,4
+35115,"Willowdale","Willowdale"," 6","Toronto",N,N,"",2,535,"Lee","","Daniel","Conservative","Conservateur",N,N,50
+35115,"Willowdale","Willowdale"," 6","Toronto",N,N,"",2,535,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,3
+35115,"Willowdale","Willowdale"," 7","Toronto",N,N,"",0,532,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35115,"Willowdale","Willowdale"," 7","Toronto",N,N,"",0,532,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,83
+35115,"Willowdale","Willowdale"," 7","Toronto",N,N,"",0,532,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 7","Toronto",N,N,"",0,532,"Lee","","Daniel","Conservative","Conservateur",N,N,61
+35115,"Willowdale","Willowdale"," 7","Toronto",N,N,"",0,532,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,3
+35115,"Willowdale","Willowdale"," 8","Toronto",N,N,"",1,589,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35115,"Willowdale","Willowdale"," 8","Toronto",N,N,"",1,589,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,88
+35115,"Willowdale","Willowdale"," 8","Toronto",N,N,"",1,589,"Gorka","","Anna","Green Party","Parti Vert",N,N,11
+35115,"Willowdale","Willowdale"," 8","Toronto",N,N,"",1,589,"Lee","","Daniel","Conservative","Conservateur",N,N,90
+35115,"Willowdale","Willowdale"," 8","Toronto",N,N,"",1,589,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,11
+35115,"Willowdale","Willowdale"," 9","Toronto",N,N,"",4,439,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35115,"Willowdale","Willowdale"," 9","Toronto",N,N,"",4,439,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,66
+35115,"Willowdale","Willowdale"," 9","Toronto",N,N,"",4,439,"Gorka","","Anna","Green Party","Parti Vert",N,N,1
+35115,"Willowdale","Willowdale"," 9","Toronto",N,N,"",4,439,"Lee","","Daniel","Conservative","Conservateur",N,N,38
+35115,"Willowdale","Willowdale"," 9","Toronto",N,N,"",4,439,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,3
+35115,"Willowdale","Willowdale"," 10","Toronto",N,N,"",2,499,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35115,"Willowdale","Willowdale"," 10","Toronto",N,N,"",2,499,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,64
+35115,"Willowdale","Willowdale"," 10","Toronto",N,N,"",2,499,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 10","Toronto",N,N,"",2,499,"Lee","","Daniel","Conservative","Conservateur",N,N,53
+35115,"Willowdale","Willowdale"," 10","Toronto",N,N,"",2,499,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 11","Toronto",N,N,"",1,620,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35115,"Willowdale","Willowdale"," 11","Toronto",N,N,"",1,620,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,106
+35115,"Willowdale","Willowdale"," 11","Toronto",N,N,"",1,620,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 11","Toronto",N,N,"",1,620,"Lee","","Daniel","Conservative","Conservateur",N,N,50
+35115,"Willowdale","Willowdale"," 11","Toronto",N,N,"",1,620,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,3
+35115,"Willowdale","Willowdale"," 12","Toronto",N,N,"",4,516,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35115,"Willowdale","Willowdale"," 12","Toronto",N,N,"",4,516,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,89
+35115,"Willowdale","Willowdale"," 12","Toronto",N,N,"",4,516,"Gorka","","Anna","Green Party","Parti Vert",N,N,4
+35115,"Willowdale","Willowdale"," 12","Toronto",N,N,"",4,516,"Lee","","Daniel","Conservative","Conservateur",N,N,68
+35115,"Willowdale","Willowdale"," 12","Toronto",N,N,"",4,516,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,9
+35115,"Willowdale","Willowdale"," 13","Toronto",N,N,"",0,355,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35115,"Willowdale","Willowdale"," 13","Toronto",N,N,"",0,355,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,102
+35115,"Willowdale","Willowdale"," 13","Toronto",N,N,"",0,355,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 13","Toronto",N,N,"",0,355,"Lee","","Daniel","Conservative","Conservateur",N,N,72
+35115,"Willowdale","Willowdale"," 13","Toronto",N,N,"",0,355,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,2
+35115,"Willowdale","Willowdale"," 14","Toronto",N,N,"",4,384,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35115,"Willowdale","Willowdale"," 14","Toronto",N,N,"",4,384,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,64
+35115,"Willowdale","Willowdale"," 14","Toronto",N,N,"",4,384,"Gorka","","Anna","Green Party","Parti Vert",N,N,4
+35115,"Willowdale","Willowdale"," 14","Toronto",N,N,"",4,384,"Lee","","Daniel","Conservative","Conservateur",N,N,44
+35115,"Willowdale","Willowdale"," 14","Toronto",N,N,"",4,384,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,4
+35115,"Willowdale","Willowdale"," 15","Toronto",N,N,"13",0,326,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 15","Toronto",N,N,"13",0,326,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 15","Toronto",N,N,"13",0,326,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 15","Toronto",N,N,"13",0,326,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 15","Toronto",N,N,"13",0,326,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 16","Toronto",N,N,"",0,368,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35115,"Willowdale","Willowdale"," 16","Toronto",N,N,"",0,368,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,96
+35115,"Willowdale","Willowdale"," 16","Toronto",N,N,"",0,368,"Gorka","","Anna","Green Party","Parti Vert",N,N,6
+35115,"Willowdale","Willowdale"," 16","Toronto",N,N,"",0,368,"Lee","","Daniel","Conservative","Conservateur",N,N,74
+35115,"Willowdale","Willowdale"," 16","Toronto",N,N,"",0,368,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,11
+35115,"Willowdale","Willowdale"," 17","Toronto",N,N,"",4,558,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35115,"Willowdale","Willowdale"," 17","Toronto",N,N,"",4,558,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,64
+35115,"Willowdale","Willowdale"," 17","Toronto",N,N,"",4,558,"Gorka","","Anna","Green Party","Parti Vert",N,N,2
+35115,"Willowdale","Willowdale"," 17","Toronto",N,N,"",4,558,"Lee","","Daniel","Conservative","Conservateur",N,N,60
+35115,"Willowdale","Willowdale"," 17","Toronto",N,N,"",4,558,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,3
+35115,"Willowdale","Willowdale"," 18","Toronto",N,N,"16",0,309,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 18","Toronto",N,N,"16",0,309,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 18","Toronto",N,N,"16",0,309,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 18","Toronto",N,N,"16",0,309,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 18","Toronto",N,N,"16",0,309,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 19","Toronto",N,N,"",0,502,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35115,"Willowdale","Willowdale"," 19","Toronto",N,N,"",0,502,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,68
+35115,"Willowdale","Willowdale"," 19","Toronto",N,N,"",0,502,"Gorka","","Anna","Green Party","Parti Vert",N,N,4
+35115,"Willowdale","Willowdale"," 19","Toronto",N,N,"",0,502,"Lee","","Daniel","Conservative","Conservateur",N,N,39
+35115,"Willowdale","Willowdale"," 19","Toronto",N,N,"",0,502,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,3
+35115,"Willowdale","Willowdale"," 20","Toronto",N,N,"",6,347,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35115,"Willowdale","Willowdale"," 20","Toronto",N,N,"",6,347,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,63
+35115,"Willowdale","Willowdale"," 20","Toronto",N,N,"",6,347,"Gorka","","Anna","Green Party","Parti Vert",N,N,5
+35115,"Willowdale","Willowdale"," 20","Toronto",N,N,"",6,347,"Lee","","Daniel","Conservative","Conservateur",N,N,81
+35115,"Willowdale","Willowdale"," 20","Toronto",N,N,"",6,347,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,7
+35115,"Willowdale","Willowdale"," 21","Toronto",N,N,"",4,442,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35115,"Willowdale","Willowdale"," 21","Toronto",N,N,"",4,442,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,45
+35115,"Willowdale","Willowdale"," 21","Toronto",N,N,"",4,442,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 21","Toronto",N,N,"",4,442,"Lee","","Daniel","Conservative","Conservateur",N,N,59
+35115,"Willowdale","Willowdale"," 21","Toronto",N,N,"",4,442,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,10
+35115,"Willowdale","Willowdale"," 22","Toronto",N,N,"",7,419,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35115,"Willowdale","Willowdale"," 22","Toronto",N,N,"",7,419,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,54
+35115,"Willowdale","Willowdale"," 22","Toronto",N,N,"",7,419,"Gorka","","Anna","Green Party","Parti Vert",N,N,2
+35115,"Willowdale","Willowdale"," 22","Toronto",N,N,"",7,419,"Lee","","Daniel","Conservative","Conservateur",N,N,49
+35115,"Willowdale","Willowdale"," 22","Toronto",N,N,"",7,419,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,8
+35115,"Willowdale","Willowdale"," 23","Toronto",N,N,"20",0,308,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 23","Toronto",N,N,"20",0,308,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 23","Toronto",N,N,"20",0,308,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 23","Toronto",N,N,"20",0,308,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 23","Toronto",N,N,"20",0,308,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 24","Toronto",N,N,"",1,493,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35115,"Willowdale","Willowdale"," 24","Toronto",N,N,"",1,493,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,73
+35115,"Willowdale","Willowdale"," 24","Toronto",N,N,"",1,493,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 24","Toronto",N,N,"",1,493,"Lee","","Daniel","Conservative","Conservateur",N,N,33
+35115,"Willowdale","Willowdale"," 24","Toronto",N,N,"",1,493,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,3
+35115,"Willowdale","Willowdale"," 25","Toronto",N,N,"",0,548,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35115,"Willowdale","Willowdale"," 25","Toronto",N,N,"",0,548,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,65
+35115,"Willowdale","Willowdale"," 25","Toronto",N,N,"",0,548,"Gorka","","Anna","Green Party","Parti Vert",N,N,1
+35115,"Willowdale","Willowdale"," 25","Toronto",N,N,"",0,548,"Lee","","Daniel","Conservative","Conservateur",N,N,58
+35115,"Willowdale","Willowdale"," 25","Toronto",N,N,"",0,548,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,7
+35115,"Willowdale","Willowdale"," 26","Toronto",N,N,"28",0,437,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 26","Toronto",N,N,"28",0,437,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 26","Toronto",N,N,"28",0,437,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 26","Toronto",N,N,"28",0,437,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 26","Toronto",N,N,"28",0,437,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 27","Toronto",N,N,"",1,419,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35115,"Willowdale","Willowdale"," 27","Toronto",N,N,"",1,419,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,53
+35115,"Willowdale","Willowdale"," 27","Toronto",N,N,"",1,419,"Gorka","","Anna","Green Party","Parti Vert",N,N,2
+35115,"Willowdale","Willowdale"," 27","Toronto",N,N,"",1,419,"Lee","","Daniel","Conservative","Conservateur",N,N,22
+35115,"Willowdale","Willowdale"," 27","Toronto",N,N,"",1,419,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,1
+35115,"Willowdale","Willowdale"," 28","Toronto",N,N,"",0,438,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35115,"Willowdale","Willowdale"," 28","Toronto",N,N,"",0,438,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,92
+35115,"Willowdale","Willowdale"," 28","Toronto",N,N,"",0,438,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 28","Toronto",N,N,"",0,438,"Lee","","Daniel","Conservative","Conservateur",N,N,69
+35115,"Willowdale","Willowdale"," 28","Toronto",N,N,"",0,438,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,6
+35115,"Willowdale","Willowdale"," 29","Toronto",N,N,"",2,510,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35115,"Willowdale","Willowdale"," 29","Toronto",N,N,"",2,510,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,64
+35115,"Willowdale","Willowdale"," 29","Toronto",N,N,"",2,510,"Gorka","","Anna","Green Party","Parti Vert",N,N,5
+35115,"Willowdale","Willowdale"," 29","Toronto",N,N,"",2,510,"Lee","","Daniel","Conservative","Conservateur",N,N,48
+35115,"Willowdale","Willowdale"," 29","Toronto",N,N,"",2,510,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,4
+35115,"Willowdale","Willowdale"," 30","Toronto",N,N,"",5,390,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35115,"Willowdale","Willowdale"," 30","Toronto",N,N,"",5,390,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,109
+35115,"Willowdale","Willowdale"," 30","Toronto",N,N,"",5,390,"Gorka","","Anna","Green Party","Parti Vert",N,N,5
+35115,"Willowdale","Willowdale"," 30","Toronto",N,N,"",5,390,"Lee","","Daniel","Conservative","Conservateur",N,N,73
+35115,"Willowdale","Willowdale"," 30","Toronto",N,N,"",5,390,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,2
+35115,"Willowdale","Willowdale"," 31","Toronto",N,N,"",0,544,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35115,"Willowdale","Willowdale"," 31","Toronto",N,N,"",0,544,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,78
+35115,"Willowdale","Willowdale"," 31","Toronto",N,N,"",0,544,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 31","Toronto",N,N,"",0,544,"Lee","","Daniel","Conservative","Conservateur",N,N,34
+35115,"Willowdale","Willowdale"," 31","Toronto",N,N,"",0,544,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,5
+35115,"Willowdale","Willowdale"," 32","Toronto",N,N,"",0,570,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35115,"Willowdale","Willowdale"," 32","Toronto",N,N,"",0,570,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,91
+35115,"Willowdale","Willowdale"," 32","Toronto",N,N,"",0,570,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 32","Toronto",N,N,"",0,570,"Lee","","Daniel","Conservative","Conservateur",N,N,57
+35115,"Willowdale","Willowdale"," 32","Toronto",N,N,"",0,570,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,4
+35115,"Willowdale","Willowdale"," 33","Toronto",N,N,"",1,433,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35115,"Willowdale","Willowdale"," 33","Toronto",N,N,"",1,433,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,57
+35115,"Willowdale","Willowdale"," 33","Toronto",N,N,"",1,433,"Gorka","","Anna","Green Party","Parti Vert",N,N,5
+35115,"Willowdale","Willowdale"," 33","Toronto",N,N,"",1,433,"Lee","","Daniel","Conservative","Conservateur",N,N,27
+35115,"Willowdale","Willowdale"," 33","Toronto",N,N,"",1,433,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,1
+35115,"Willowdale","Willowdale"," 34","Toronto",N,N,"",1,449,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35115,"Willowdale","Willowdale"," 34","Toronto",N,N,"",1,449,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,49
+35115,"Willowdale","Willowdale"," 34","Toronto",N,N,"",1,449,"Gorka","","Anna","Green Party","Parti Vert",N,N,4
+35115,"Willowdale","Willowdale"," 34","Toronto",N,N,"",1,449,"Lee","","Daniel","Conservative","Conservateur",N,N,44
+35115,"Willowdale","Willowdale"," 34","Toronto",N,N,"",1,449,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 35","Toronto",N,N,"",0,593,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35115,"Willowdale","Willowdale"," 35","Toronto",N,N,"",0,593,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,72
+35115,"Willowdale","Willowdale"," 35","Toronto",N,N,"",0,593,"Gorka","","Anna","Green Party","Parti Vert",N,N,1
+35115,"Willowdale","Willowdale"," 35","Toronto",N,N,"",0,593,"Lee","","Daniel","Conservative","Conservateur",N,N,52
+35115,"Willowdale","Willowdale"," 35","Toronto",N,N,"",0,593,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,4
+35115,"Willowdale","Willowdale"," 36","Toronto",N,N,"",5,572,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35115,"Willowdale","Willowdale"," 36","Toronto",N,N,"",5,572,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,60
+35115,"Willowdale","Willowdale"," 36","Toronto",N,N,"",5,572,"Gorka","","Anna","Green Party","Parti Vert",N,N,5
+35115,"Willowdale","Willowdale"," 36","Toronto",N,N,"",5,572,"Lee","","Daniel","Conservative","Conservateur",N,N,49
+35115,"Willowdale","Willowdale"," 36","Toronto",N,N,"",5,572,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,3
+35115,"Willowdale","Willowdale"," 37","Toronto",N,N,"",5,601,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35115,"Willowdale","Willowdale"," 37","Toronto",N,N,"",5,601,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,53
+35115,"Willowdale","Willowdale"," 37","Toronto",N,N,"",5,601,"Gorka","","Anna","Green Party","Parti Vert",N,N,1
+35115,"Willowdale","Willowdale"," 37","Toronto",N,N,"",5,601,"Lee","","Daniel","Conservative","Conservateur",N,N,77
+35115,"Willowdale","Willowdale"," 37","Toronto",N,N,"",5,601,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,9
+35115,"Willowdale","Willowdale"," 38","Toronto",N,N,"39",0,421,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 38","Toronto",N,N,"39",0,421,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 38","Toronto",N,N,"39",0,421,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 38","Toronto",N,N,"39",0,421,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 38","Toronto",N,N,"39",0,421,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 39","Toronto",N,N,"",2,462,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35115,"Willowdale","Willowdale"," 39","Toronto",N,N,"",2,462,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,92
+35115,"Willowdale","Willowdale"," 39","Toronto",N,N,"",2,462,"Gorka","","Anna","Green Party","Parti Vert",N,N,11
+35115,"Willowdale","Willowdale"," 39","Toronto",N,N,"",2,462,"Lee","","Daniel","Conservative","Conservateur",N,N,138
+35115,"Willowdale","Willowdale"," 39","Toronto",N,N,"",2,462,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,13
+35115,"Willowdale","Willowdale"," 40","Toronto",N,N,"",1,372,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35115,"Willowdale","Willowdale"," 40","Toronto",N,N,"",1,372,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,90
+35115,"Willowdale","Willowdale"," 40","Toronto",N,N,"",1,372,"Gorka","","Anna","Green Party","Parti Vert",N,N,5
+35115,"Willowdale","Willowdale"," 40","Toronto",N,N,"",1,372,"Lee","","Daniel","Conservative","Conservateur",N,N,32
+35115,"Willowdale","Willowdale"," 40","Toronto",N,N,"",1,372,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,5
+35115,"Willowdale","Willowdale"," 41","Toronto",N,N,"",2,407,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35115,"Willowdale","Willowdale"," 41","Toronto",N,N,"",2,407,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,110
+35115,"Willowdale","Willowdale"," 41","Toronto",N,N,"",2,407,"Gorka","","Anna","Green Party","Parti Vert",N,N,4
+35115,"Willowdale","Willowdale"," 41","Toronto",N,N,"",2,407,"Lee","","Daniel","Conservative","Conservateur",N,N,39
+35115,"Willowdale","Willowdale"," 41","Toronto",N,N,"",2,407,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,8
+35115,"Willowdale","Willowdale"," 42","Toronto",N,N,"",1,360,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35115,"Willowdale","Willowdale"," 42","Toronto",N,N,"",1,360,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,59
+35115,"Willowdale","Willowdale"," 42","Toronto",N,N,"",1,360,"Gorka","","Anna","Green Party","Parti Vert",N,N,2
+35115,"Willowdale","Willowdale"," 42","Toronto",N,N,"",1,360,"Lee","","Daniel","Conservative","Conservateur",N,N,55
+35115,"Willowdale","Willowdale"," 42","Toronto",N,N,"",1,360,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 43","Toronto",N,N,"",2,648,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35115,"Willowdale","Willowdale"," 43","Toronto",N,N,"",2,648,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,171
+35115,"Willowdale","Willowdale"," 43","Toronto",N,N,"",2,648,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 43","Toronto",N,N,"",2,648,"Lee","","Daniel","Conservative","Conservateur",N,N,58
+35115,"Willowdale","Willowdale"," 43","Toronto",N,N,"",2,648,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,5
+35115,"Willowdale","Willowdale"," 44","Toronto",N,N,"",0,486,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35115,"Willowdale","Willowdale"," 44","Toronto",N,N,"",0,486,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,38
+35115,"Willowdale","Willowdale"," 44","Toronto",N,N,"",0,486,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 44","Toronto",N,N,"",0,486,"Lee","","Daniel","Conservative","Conservateur",N,N,50
+35115,"Willowdale","Willowdale"," 44","Toronto",N,N,"",0,486,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,5
+35115,"Willowdale","Willowdale"," 45","Toronto",N,N,"",0,425,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35115,"Willowdale","Willowdale"," 45","Toronto",N,N,"",0,425,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,83
+35115,"Willowdale","Willowdale"," 45","Toronto",N,N,"",0,425,"Gorka","","Anna","Green Party","Parti Vert",N,N,4
+35115,"Willowdale","Willowdale"," 45","Toronto",N,N,"",0,425,"Lee","","Daniel","Conservative","Conservateur",N,N,46
+35115,"Willowdale","Willowdale"," 45","Toronto",N,N,"",0,425,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,6
+35115,"Willowdale","Willowdale"," 46","Toronto",N,N,"",0,478,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35115,"Willowdale","Willowdale"," 46","Toronto",N,N,"",0,478,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,67
+35115,"Willowdale","Willowdale"," 46","Toronto",N,N,"",0,478,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 46","Toronto",N,N,"",0,478,"Lee","","Daniel","Conservative","Conservateur",N,N,49
+35115,"Willowdale","Willowdale"," 46","Toronto",N,N,"",0,478,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,8
+35115,"Willowdale","Willowdale"," 47","Toronto",N,N,"48",0,289,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 47","Toronto",N,N,"48",0,289,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 47","Toronto",N,N,"48",0,289,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 47","Toronto",N,N,"48",0,289,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 47","Toronto",N,N,"48",0,289,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 48","Toronto",N,N,"",4,385,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35115,"Willowdale","Willowdale"," 48","Toronto",N,N,"",4,385,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,75
+35115,"Willowdale","Willowdale"," 48","Toronto",N,N,"",4,385,"Gorka","","Anna","Green Party","Parti Vert",N,N,2
+35115,"Willowdale","Willowdale"," 48","Toronto",N,N,"",4,385,"Lee","","Daniel","Conservative","Conservateur",N,N,38
+35115,"Willowdale","Willowdale"," 48","Toronto",N,N,"",4,385,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,3
+35115,"Willowdale","Willowdale"," 49","Toronto",N,N,"",4,488,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35115,"Willowdale","Willowdale"," 49","Toronto",N,N,"",4,488,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,117
+35115,"Willowdale","Willowdale"," 49","Toronto",N,N,"",4,488,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 49","Toronto",N,N,"",4,488,"Lee","","Daniel","Conservative","Conservateur",N,N,124
+35115,"Willowdale","Willowdale"," 49","Toronto",N,N,"",4,488,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,6
+35115,"Willowdale","Willowdale"," 50","Toronto",N,N,"49",0,483,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 50","Toronto",N,N,"49",0,483,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 50","Toronto",N,N,"49",0,483,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 50","Toronto",N,N,"49",0,483,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 50","Toronto",N,N,"49",0,483,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 51","Toronto",N,N,"",1,527,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35115,"Willowdale","Willowdale"," 51","Toronto",N,N,"",1,527,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,65
+35115,"Willowdale","Willowdale"," 51","Toronto",N,N,"",1,527,"Gorka","","Anna","Green Party","Parti Vert",N,N,1
+35115,"Willowdale","Willowdale"," 51","Toronto",N,N,"",1,527,"Lee","","Daniel","Conservative","Conservateur",N,N,66
+35115,"Willowdale","Willowdale"," 51","Toronto",N,N,"",1,527,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,5
+35115,"Willowdale","Willowdale"," 52","Toronto",N,N,"",13,562,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35115,"Willowdale","Willowdale"," 52","Toronto",N,N,"",13,562,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,92
+35115,"Willowdale","Willowdale"," 52","Toronto",N,N,"",13,562,"Gorka","","Anna","Green Party","Parti Vert",N,N,2
+35115,"Willowdale","Willowdale"," 52","Toronto",N,N,"",13,562,"Lee","","Daniel","Conservative","Conservateur",N,N,61
+35115,"Willowdale","Willowdale"," 52","Toronto",N,N,"",13,562,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,11
+35115,"Willowdale","Willowdale"," 53","Toronto",N,N,"54",0,436,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 53","Toronto",N,N,"54",0,436,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 53","Toronto",N,N,"54",0,436,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 53","Toronto",N,N,"54",0,436,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 53","Toronto",N,N,"54",0,436,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 54","Toronto",N,N,"",3,507,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35115,"Willowdale","Willowdale"," 54","Toronto",N,N,"",3,507,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,115
+35115,"Willowdale","Willowdale"," 54","Toronto",N,N,"",3,507,"Gorka","","Anna","Green Party","Parti Vert",N,N,4
+35115,"Willowdale","Willowdale"," 54","Toronto",N,N,"",3,507,"Lee","","Daniel","Conservative","Conservateur",N,N,58
+35115,"Willowdale","Willowdale"," 54","Toronto",N,N,"",3,507,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,6
+35115,"Willowdale","Willowdale"," 55","Toronto",N,N,"",1,526,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35115,"Willowdale","Willowdale"," 55","Toronto",N,N,"",1,526,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,60
+35115,"Willowdale","Willowdale"," 55","Toronto",N,N,"",1,526,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 55","Toronto",N,N,"",1,526,"Lee","","Daniel","Conservative","Conservateur",N,N,37
+35115,"Willowdale","Willowdale"," 55","Toronto",N,N,"",1,526,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,1
+35115,"Willowdale","Willowdale"," 56","Toronto",N,N,"",1,517,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35115,"Willowdale","Willowdale"," 56","Toronto",N,N,"",1,517,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,119
+35115,"Willowdale","Willowdale"," 56","Toronto",N,N,"",1,517,"Gorka","","Anna","Green Party","Parti Vert",N,N,15
+35115,"Willowdale","Willowdale"," 56","Toronto",N,N,"",1,517,"Lee","","Daniel","Conservative","Conservateur",N,N,72
+35115,"Willowdale","Willowdale"," 56","Toronto",N,N,"",1,517,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,6
+35115,"Willowdale","Willowdale"," 57","Toronto",N,N,"",0,572,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35115,"Willowdale","Willowdale"," 57","Toronto",N,N,"",0,572,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,58
+35115,"Willowdale","Willowdale"," 57","Toronto",N,N,"",0,572,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 57","Toronto",N,N,"",0,572,"Lee","","Daniel","Conservative","Conservateur",N,N,72
+35115,"Willowdale","Willowdale"," 57","Toronto",N,N,"",0,572,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,3
+35115,"Willowdale","Willowdale"," 58","Toronto",N,N,"56",0,367,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 58","Toronto",N,N,"56",0,367,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 58","Toronto",N,N,"56",0,367,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 58","Toronto",N,N,"56",0,367,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 58","Toronto",N,N,"56",0,367,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 59","Toronto",N,N,"",1,407,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35115,"Willowdale","Willowdale"," 59","Toronto",N,N,"",1,407,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,98
+35115,"Willowdale","Willowdale"," 59","Toronto",N,N,"",1,407,"Gorka","","Anna","Green Party","Parti Vert",N,N,5
+35115,"Willowdale","Willowdale"," 59","Toronto",N,N,"",1,407,"Lee","","Daniel","Conservative","Conservateur",N,N,53
+35115,"Willowdale","Willowdale"," 59","Toronto",N,N,"",1,407,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,1
+35115,"Willowdale","Willowdale"," 60","Toronto",N,N,"",0,493,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35115,"Willowdale","Willowdale"," 60","Toronto",N,N,"",0,493,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,54
+35115,"Willowdale","Willowdale"," 60","Toronto",N,N,"",0,493,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 60","Toronto",N,N,"",0,493,"Lee","","Daniel","Conservative","Conservateur",N,N,44
+35115,"Willowdale","Willowdale"," 60","Toronto",N,N,"",0,493,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,5
+35115,"Willowdale","Willowdale"," 61","Toronto",N,N,"",1,491,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35115,"Willowdale","Willowdale"," 61","Toronto",N,N,"",1,491,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,83
+35115,"Willowdale","Willowdale"," 61","Toronto",N,N,"",1,491,"Gorka","","Anna","Green Party","Parti Vert",N,N,4
+35115,"Willowdale","Willowdale"," 61","Toronto",N,N,"",1,491,"Lee","","Daniel","Conservative","Conservateur",N,N,54
+35115,"Willowdale","Willowdale"," 61","Toronto",N,N,"",1,491,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,7
+35115,"Willowdale","Willowdale"," 62","Toronto",N,N,"",2,535,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35115,"Willowdale","Willowdale"," 62","Toronto",N,N,"",2,535,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,85
+35115,"Willowdale","Willowdale"," 62","Toronto",N,N,"",2,535,"Gorka","","Anna","Green Party","Parti Vert",N,N,1
+35115,"Willowdale","Willowdale"," 62","Toronto",N,N,"",2,535,"Lee","","Daniel","Conservative","Conservateur",N,N,41
+35115,"Willowdale","Willowdale"," 62","Toronto",N,N,"",2,535,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,2
+35115,"Willowdale","Willowdale"," 63","Toronto",N,N,"64",0,349,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 63","Toronto",N,N,"64",0,349,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 63","Toronto",N,N,"64",0,349,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 63","Toronto",N,N,"64",0,349,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 63","Toronto",N,N,"64",0,349,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 64","Toronto",N,N,"",1,379,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35115,"Willowdale","Willowdale"," 64","Toronto",N,N,"",1,379,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,97
+35115,"Willowdale","Willowdale"," 64","Toronto",N,N,"",1,379,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 64","Toronto",N,N,"",1,379,"Lee","","Daniel","Conservative","Conservateur",N,N,68
+35115,"Willowdale","Willowdale"," 64","Toronto",N,N,"",1,379,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,8
+35115,"Willowdale","Willowdale"," 65","Toronto",N,N,"",1,513,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35115,"Willowdale","Willowdale"," 65","Toronto",N,N,"",1,513,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,82
+35115,"Willowdale","Willowdale"," 65","Toronto",N,N,"",1,513,"Gorka","","Anna","Green Party","Parti Vert",N,N,9
+35115,"Willowdale","Willowdale"," 65","Toronto",N,N,"",1,513,"Lee","","Daniel","Conservative","Conservateur",N,N,34
+35115,"Willowdale","Willowdale"," 65","Toronto",N,N,"",1,513,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,3
+35115,"Willowdale","Willowdale"," 66","Toronto",N,N,"",0,589,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35115,"Willowdale","Willowdale"," 66","Toronto",N,N,"",0,589,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,77
+35115,"Willowdale","Willowdale"," 66","Toronto",N,N,"",0,589,"Gorka","","Anna","Green Party","Parti Vert",N,N,2
+35115,"Willowdale","Willowdale"," 66","Toronto",N,N,"",0,589,"Lee","","Daniel","Conservative","Conservateur",N,N,52
+35115,"Willowdale","Willowdale"," 66","Toronto",N,N,"",0,589,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,6
+35115,"Willowdale","Willowdale"," 67","Toronto",N,N,"",1,494,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35115,"Willowdale","Willowdale"," 67","Toronto",N,N,"",1,494,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,84
+35115,"Willowdale","Willowdale"," 67","Toronto",N,N,"",1,494,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 67","Toronto",N,N,"",1,494,"Lee","","Daniel","Conservative","Conservateur",N,N,39
+35115,"Willowdale","Willowdale"," 67","Toronto",N,N,"",1,494,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,6
+35115,"Willowdale","Willowdale"," 68","Toronto",N,N,"",1,414,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35115,"Willowdale","Willowdale"," 68","Toronto",N,N,"",1,414,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,67
+35115,"Willowdale","Willowdale"," 68","Toronto",N,N,"",1,414,"Gorka","","Anna","Green Party","Parti Vert",N,N,1
+35115,"Willowdale","Willowdale"," 68","Toronto",N,N,"",1,414,"Lee","","Daniel","Conservative","Conservateur",N,N,52
+35115,"Willowdale","Willowdale"," 68","Toronto",N,N,"",1,414,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,3
+35115,"Willowdale","Willowdale"," 69","Toronto",N,N,"",0,571,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35115,"Willowdale","Willowdale"," 69","Toronto",N,N,"",0,571,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,65
+35115,"Willowdale","Willowdale"," 69","Toronto",N,N,"",0,571,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 69","Toronto",N,N,"",0,571,"Lee","","Daniel","Conservative","Conservateur",N,N,60
+35115,"Willowdale","Willowdale"," 69","Toronto",N,N,"",0,571,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 70","Toronto",N,N,"",1,561,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35115,"Willowdale","Willowdale"," 70","Toronto",N,N,"",1,561,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,65
+35115,"Willowdale","Willowdale"," 70","Toronto",N,N,"",1,561,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 70","Toronto",N,N,"",1,561,"Lee","","Daniel","Conservative","Conservateur",N,N,62
+35115,"Willowdale","Willowdale"," 70","Toronto",N,N,"",1,561,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,11
+35115,"Willowdale","Willowdale"," 71","Toronto",N,N,"",1,500,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35115,"Willowdale","Willowdale"," 71","Toronto",N,N,"",1,500,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,68
+35115,"Willowdale","Willowdale"," 71","Toronto",N,N,"",1,500,"Gorka","","Anna","Green Party","Parti Vert",N,N,1
+35115,"Willowdale","Willowdale"," 71","Toronto",N,N,"",1,500,"Lee","","Daniel","Conservative","Conservateur",N,N,53
+35115,"Willowdale","Willowdale"," 71","Toronto",N,N,"",1,500,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 72","Toronto",N,N,"74",0,360,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 72","Toronto",N,N,"74",0,360,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 72","Toronto",N,N,"74",0,360,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 72","Toronto",N,N,"74",0,360,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 72","Toronto",N,N,"74",0,360,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 73","Toronto",N,N,"",1,523,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35115,"Willowdale","Willowdale"," 73","Toronto",N,N,"",1,523,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,95
+35115,"Willowdale","Willowdale"," 73","Toronto",N,N,"",1,523,"Gorka","","Anna","Green Party","Parti Vert",N,N,4
+35115,"Willowdale","Willowdale"," 73","Toronto",N,N,"",1,523,"Lee","","Daniel","Conservative","Conservateur",N,N,63
+35115,"Willowdale","Willowdale"," 73","Toronto",N,N,"",1,523,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,2
+35115,"Willowdale","Willowdale"," 74","Toronto",N,N,"",1,478,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35115,"Willowdale","Willowdale"," 74","Toronto",N,N,"",1,478,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,156
+35115,"Willowdale","Willowdale"," 74","Toronto",N,N,"",1,478,"Gorka","","Anna","Green Party","Parti Vert",N,N,5
+35115,"Willowdale","Willowdale"," 74","Toronto",N,N,"",1,478,"Lee","","Daniel","Conservative","Conservateur",N,N,71
+35115,"Willowdale","Willowdale"," 74","Toronto",N,N,"",1,478,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,15
+35115,"Willowdale","Willowdale"," 75","Toronto",N,N,"",3,499,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35115,"Willowdale","Willowdale"," 75","Toronto",N,N,"",3,499,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,69
+35115,"Willowdale","Willowdale"," 75","Toronto",N,N,"",3,499,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 75","Toronto",N,N,"",3,499,"Lee","","Daniel","Conservative","Conservateur",N,N,44
+35115,"Willowdale","Willowdale"," 75","Toronto",N,N,"",3,499,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,6
+35115,"Willowdale","Willowdale"," 76","Toronto",N,N,"79",0,489,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 76","Toronto",N,N,"79",0,489,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 76","Toronto",N,N,"79",0,489,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 76","Toronto",N,N,"79",0,489,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 76","Toronto",N,N,"79",0,489,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 77","Toronto",N,N,"",0,421,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35115,"Willowdale","Willowdale"," 77","Toronto",N,N,"",0,421,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,62
+35115,"Willowdale","Willowdale"," 77","Toronto",N,N,"",0,421,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 77","Toronto",N,N,"",0,421,"Lee","","Daniel","Conservative","Conservateur",N,N,39
+35115,"Willowdale","Willowdale"," 77","Toronto",N,N,"",0,421,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,8
+35115,"Willowdale","Willowdale"," 78","Toronto",N,N,"",1,448,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35115,"Willowdale","Willowdale"," 78","Toronto",N,N,"",1,448,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,61
+35115,"Willowdale","Willowdale"," 78","Toronto",N,N,"",1,448,"Gorka","","Anna","Green Party","Parti Vert",N,N,2
+35115,"Willowdale","Willowdale"," 78","Toronto",N,N,"",1,448,"Lee","","Daniel","Conservative","Conservateur",N,N,68
+35115,"Willowdale","Willowdale"," 78","Toronto",N,N,"",1,448,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,3
+35115,"Willowdale","Willowdale"," 79","Toronto",N,N,"",1,495,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35115,"Willowdale","Willowdale"," 79","Toronto",N,N,"",1,495,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,110
+35115,"Willowdale","Willowdale"," 79","Toronto",N,N,"",1,495,"Gorka","","Anna","Green Party","Parti Vert",N,N,5
+35115,"Willowdale","Willowdale"," 79","Toronto",N,N,"",1,495,"Lee","","Daniel","Conservative","Conservateur",N,N,126
+35115,"Willowdale","Willowdale"," 79","Toronto",N,N,"",1,495,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,9
+35115,"Willowdale","Willowdale"," 80","Toronto",N,N,"81",0,351,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 80","Toronto",N,N,"81",0,351,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 80","Toronto",N,N,"81",0,351,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 80","Toronto",N,N,"81",0,351,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 80","Toronto",N,N,"81",0,351,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 81","Toronto",N,N,"",1,456,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35115,"Willowdale","Willowdale"," 81","Toronto",N,N,"",1,456,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,107
+35115,"Willowdale","Willowdale"," 81","Toronto",N,N,"",1,456,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 81","Toronto",N,N,"",1,456,"Lee","","Daniel","Conservative","Conservateur",N,N,65
+35115,"Willowdale","Willowdale"," 81","Toronto",N,N,"",1,456,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,2
+35115,"Willowdale","Willowdale"," 82","Toronto",N,N,"",1,530,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+35115,"Willowdale","Willowdale"," 82","Toronto",N,N,"",1,530,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,73
+35115,"Willowdale","Willowdale"," 82","Toronto",N,N,"",1,530,"Gorka","","Anna","Green Party","Parti Vert",N,N,5
+35115,"Willowdale","Willowdale"," 82","Toronto",N,N,"",1,530,"Lee","","Daniel","Conservative","Conservateur",N,N,54
+35115,"Willowdale","Willowdale"," 82","Toronto",N,N,"",1,530,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,10
+35115,"Willowdale","Willowdale"," 83","Toronto",N,N,"",0,477,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35115,"Willowdale","Willowdale"," 83","Toronto",N,N,"",0,477,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,89
+35115,"Willowdale","Willowdale"," 83","Toronto",N,N,"",0,477,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 83","Toronto",N,N,"",0,477,"Lee","","Daniel","Conservative","Conservateur",N,N,71
+35115,"Willowdale","Willowdale"," 83","Toronto",N,N,"",0,477,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,6
+35115,"Willowdale","Willowdale"," 84","Toronto",N,N,"",2,510,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35115,"Willowdale","Willowdale"," 84","Toronto",N,N,"",2,510,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,75
+35115,"Willowdale","Willowdale"," 84","Toronto",N,N,"",2,510,"Gorka","","Anna","Green Party","Parti Vert",N,N,5
+35115,"Willowdale","Willowdale"," 84","Toronto",N,N,"",2,510,"Lee","","Daniel","Conservative","Conservateur",N,N,43
+35115,"Willowdale","Willowdale"," 84","Toronto",N,N,"",2,510,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,2
+35115,"Willowdale","Willowdale"," 85","Toronto",N,N,"",0,605,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35115,"Willowdale","Willowdale"," 85","Toronto",N,N,"",0,605,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,123
+35115,"Willowdale","Willowdale"," 85","Toronto",N,N,"",0,605,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 85","Toronto",N,N,"",0,605,"Lee","","Daniel","Conservative","Conservateur",N,N,66
+35115,"Willowdale","Willowdale"," 85","Toronto",N,N,"",0,605,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,4
+35115,"Willowdale","Willowdale"," 86","Toronto",N,N,"",3,541,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35115,"Willowdale","Willowdale"," 86","Toronto",N,N,"",3,541,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,93
+35115,"Willowdale","Willowdale"," 86","Toronto",N,N,"",3,541,"Gorka","","Anna","Green Party","Parti Vert",N,N,2
+35115,"Willowdale","Willowdale"," 86","Toronto",N,N,"",3,541,"Lee","","Daniel","Conservative","Conservateur",N,N,68
+35115,"Willowdale","Willowdale"," 86","Toronto",N,N,"",3,541,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,9
+35115,"Willowdale","Willowdale"," 87","Toronto",N,N,"",0,545,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35115,"Willowdale","Willowdale"," 87","Toronto",N,N,"",0,545,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,137
+35115,"Willowdale","Willowdale"," 87","Toronto",N,N,"",0,545,"Gorka","","Anna","Green Party","Parti Vert",N,N,6
+35115,"Willowdale","Willowdale"," 87","Toronto",N,N,"",0,545,"Lee","","Daniel","Conservative","Conservateur",N,N,84
+35115,"Willowdale","Willowdale"," 87","Toronto",N,N,"",0,545,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,7
+35115,"Willowdale","Willowdale"," 88","Toronto",N,N,"",0,422,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35115,"Willowdale","Willowdale"," 88","Toronto",N,N,"",0,422,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,69
+35115,"Willowdale","Willowdale"," 88","Toronto",N,N,"",0,422,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 88","Toronto",N,N,"",0,422,"Lee","","Daniel","Conservative","Conservateur",N,N,39
+35115,"Willowdale","Willowdale"," 88","Toronto",N,N,"",0,422,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,7
+35115,"Willowdale","Willowdale"," 89","Toronto",N,N,"",0,526,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35115,"Willowdale","Willowdale"," 89","Toronto",N,N,"",0,526,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,82
+35115,"Willowdale","Willowdale"," 89","Toronto",N,N,"",0,526,"Gorka","","Anna","Green Party","Parti Vert",N,N,4
+35115,"Willowdale","Willowdale"," 89","Toronto",N,N,"",0,526,"Lee","","Daniel","Conservative","Conservateur",N,N,73
+35115,"Willowdale","Willowdale"," 89","Toronto",N,N,"",0,526,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,4
+35115,"Willowdale","Willowdale"," 90","Toronto",N,N,"92",0,446,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 90","Toronto",N,N,"92",0,446,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 90","Toronto",N,N,"92",0,446,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 90","Toronto",N,N,"92",0,446,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 90","Toronto",N,N,"92",0,446,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 91","Toronto",N,N,"",0,365,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35115,"Willowdale","Willowdale"," 91","Toronto",N,N,"",0,365,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,55
+35115,"Willowdale","Willowdale"," 91","Toronto",N,N,"",0,365,"Gorka","","Anna","Green Party","Parti Vert",N,N,1
+35115,"Willowdale","Willowdale"," 91","Toronto",N,N,"",0,365,"Lee","","Daniel","Conservative","Conservateur",N,N,42
+35115,"Willowdale","Willowdale"," 91","Toronto",N,N,"",0,365,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,3
+35115,"Willowdale","Willowdale"," 92","Toronto",N,N,"",4,446,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35115,"Willowdale","Willowdale"," 92","Toronto",N,N,"",4,446,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,128
+35115,"Willowdale","Willowdale"," 92","Toronto",N,N,"",4,446,"Gorka","","Anna","Green Party","Parti Vert",N,N,7
+35115,"Willowdale","Willowdale"," 92","Toronto",N,N,"",4,446,"Lee","","Daniel","Conservative","Conservateur",N,N,72
+35115,"Willowdale","Willowdale"," 92","Toronto",N,N,"",4,446,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,18
+35115,"Willowdale","Willowdale"," 93","Toronto",N,N,"94",0,410,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 93","Toronto",N,N,"94",0,410,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 93","Toronto",N,N,"94",0,410,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 93","Toronto",N,N,"94",0,410,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 93","Toronto",N,N,"94",0,410,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 94","Toronto",N,N,"",2,540,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35115,"Willowdale","Willowdale"," 94","Toronto",N,N,"",2,540,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,136
+35115,"Willowdale","Willowdale"," 94","Toronto",N,N,"",2,540,"Gorka","","Anna","Green Party","Parti Vert",N,N,9
+35115,"Willowdale","Willowdale"," 94","Toronto",N,N,"",2,540,"Lee","","Daniel","Conservative","Conservateur",N,N,87
+35115,"Willowdale","Willowdale"," 94","Toronto",N,N,"",2,540,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,4
+35115,"Willowdale","Willowdale"," 95","Toronto",N,N,"",2,484,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35115,"Willowdale","Willowdale"," 95","Toronto",N,N,"",2,484,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,81
+35115,"Willowdale","Willowdale"," 95","Toronto",N,N,"",2,484,"Gorka","","Anna","Green Party","Parti Vert",N,N,6
+35115,"Willowdale","Willowdale"," 95","Toronto",N,N,"",2,484,"Lee","","Daniel","Conservative","Conservateur",N,N,65
+35115,"Willowdale","Willowdale"," 95","Toronto",N,N,"",2,484,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,5
+35115,"Willowdale","Willowdale"," 96","Toronto",N,N,"",0,532,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35115,"Willowdale","Willowdale"," 96","Toronto",N,N,"",0,532,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,77
+35115,"Willowdale","Willowdale"," 96","Toronto",N,N,"",0,532,"Gorka","","Anna","Green Party","Parti Vert",N,N,2
+35115,"Willowdale","Willowdale"," 96","Toronto",N,N,"",0,532,"Lee","","Daniel","Conservative","Conservateur",N,N,34
+35115,"Willowdale","Willowdale"," 96","Toronto",N,N,"",0,532,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,3
+35115,"Willowdale","Willowdale"," 97","Toronto",N,N,"",0,596,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35115,"Willowdale","Willowdale"," 97","Toronto",N,N,"",0,596,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,138
+35115,"Willowdale","Willowdale"," 97","Toronto",N,N,"",0,596,"Gorka","","Anna","Green Party","Parti Vert",N,N,8
+35115,"Willowdale","Willowdale"," 97","Toronto",N,N,"",0,596,"Lee","","Daniel","Conservative","Conservateur",N,N,70
+35115,"Willowdale","Willowdale"," 97","Toronto",N,N,"",0,596,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,4
+35115,"Willowdale","Willowdale"," 98","Toronto",N,N,"",0,530,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35115,"Willowdale","Willowdale"," 98","Toronto",N,N,"",0,530,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,90
+35115,"Willowdale","Willowdale"," 98","Toronto",N,N,"",0,530,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 98","Toronto",N,N,"",0,530,"Lee","","Daniel","Conservative","Conservateur",N,N,68
+35115,"Willowdale","Willowdale"," 98","Toronto",N,N,"",0,530,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,3
+35115,"Willowdale","Willowdale"," 99","Toronto",N,N,"",0,495,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35115,"Willowdale","Willowdale"," 99","Toronto",N,N,"",0,495,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,100
+35115,"Willowdale","Willowdale"," 99","Toronto",N,N,"",0,495,"Gorka","","Anna","Green Party","Parti Vert",N,N,5
+35115,"Willowdale","Willowdale"," 99","Toronto",N,N,"",0,495,"Lee","","Daniel","Conservative","Conservateur",N,N,95
+35115,"Willowdale","Willowdale"," 99","Toronto",N,N,"",0,495,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,1
+35115,"Willowdale","Willowdale"," 100","Toronto",N,N,"",1,471,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35115,"Willowdale","Willowdale"," 100","Toronto",N,N,"",1,471,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,81
+35115,"Willowdale","Willowdale"," 100","Toronto",N,N,"",1,471,"Gorka","","Anna","Green Party","Parti Vert",N,N,4
+35115,"Willowdale","Willowdale"," 100","Toronto",N,N,"",1,471,"Lee","","Daniel","Conservative","Conservateur",N,N,47
+35115,"Willowdale","Willowdale"," 100","Toronto",N,N,"",1,471,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,4
+35115,"Willowdale","Willowdale"," 101","Toronto",N,N,"",0,462,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35115,"Willowdale","Willowdale"," 101","Toronto",N,N,"",0,462,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,82
+35115,"Willowdale","Willowdale"," 101","Toronto",N,N,"",0,462,"Gorka","","Anna","Green Party","Parti Vert",N,N,4
+35115,"Willowdale","Willowdale"," 101","Toronto",N,N,"",0,462,"Lee","","Daniel","Conservative","Conservateur",N,N,66
+35115,"Willowdale","Willowdale"," 101","Toronto",N,N,"",0,462,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,5
+35115,"Willowdale","Willowdale"," 102","Toronto",N,N,"",0,518,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35115,"Willowdale","Willowdale"," 102","Toronto",N,N,"",0,518,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,95
+35115,"Willowdale","Willowdale"," 102","Toronto",N,N,"",0,518,"Gorka","","Anna","Green Party","Parti Vert",N,N,4
+35115,"Willowdale","Willowdale"," 102","Toronto",N,N,"",0,518,"Lee","","Daniel","Conservative","Conservateur",N,N,44
+35115,"Willowdale","Willowdale"," 102","Toronto",N,N,"",0,518,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,5
+35115,"Willowdale","Willowdale"," 103","Toronto",N,N,"",0,450,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35115,"Willowdale","Willowdale"," 103","Toronto",N,N,"",0,450,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,73
+35115,"Willowdale","Willowdale"," 103","Toronto",N,N,"",0,450,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 103","Toronto",N,N,"",0,450,"Lee","","Daniel","Conservative","Conservateur",N,N,40
+35115,"Willowdale","Willowdale"," 103","Toronto",N,N,"",0,450,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,8
+35115,"Willowdale","Willowdale"," 104","Toronto",N,N,"",4,296,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35115,"Willowdale","Willowdale"," 104","Toronto",N,N,"",4,296,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,82
+35115,"Willowdale","Willowdale"," 104","Toronto",N,N,"",4,296,"Gorka","","Anna","Green Party","Parti Vert",N,N,2
+35115,"Willowdale","Willowdale"," 104","Toronto",N,N,"",4,296,"Lee","","Daniel","Conservative","Conservateur",N,N,39
+35115,"Willowdale","Willowdale"," 104","Toronto",N,N,"",4,296,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,3
+35115,"Willowdale","Willowdale"," 105","Toronto",N,N,"",3,565,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35115,"Willowdale","Willowdale"," 105","Toronto",N,N,"",3,565,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,93
+35115,"Willowdale","Willowdale"," 105","Toronto",N,N,"",3,565,"Gorka","","Anna","Green Party","Parti Vert",N,N,6
+35115,"Willowdale","Willowdale"," 105","Toronto",N,N,"",3,565,"Lee","","Daniel","Conservative","Conservateur",N,N,74
+35115,"Willowdale","Willowdale"," 105","Toronto",N,N,"",3,565,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,9
+35115,"Willowdale","Willowdale"," 106","Toronto",N,N,"",5,580,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35115,"Willowdale","Willowdale"," 106","Toronto",N,N,"",5,580,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,101
+35115,"Willowdale","Willowdale"," 106","Toronto",N,N,"",5,580,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 106","Toronto",N,N,"",5,580,"Lee","","Daniel","Conservative","Conservateur",N,N,103
+35115,"Willowdale","Willowdale"," 106","Toronto",N,N,"",5,580,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,4
+35115,"Willowdale","Willowdale"," 107","Toronto",N,N,"",1,338,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35115,"Willowdale","Willowdale"," 107","Toronto",N,N,"",1,338,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,111
+35115,"Willowdale","Willowdale"," 107","Toronto",N,N,"",1,338,"Gorka","","Anna","Green Party","Parti Vert",N,N,8
+35115,"Willowdale","Willowdale"," 107","Toronto",N,N,"",1,338,"Lee","","Daniel","Conservative","Conservateur",N,N,92
+35115,"Willowdale","Willowdale"," 107","Toronto",N,N,"",1,338,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,9
+35115,"Willowdale","Willowdale"," 108","Toronto",N,N,"107",0,318,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 108","Toronto",N,N,"107",0,318,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 108","Toronto",N,N,"107",0,318,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 108","Toronto",N,N,"107",0,318,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 108","Toronto",N,N,"107",0,318,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 109","Toronto",N,N,"",1,539,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35115,"Willowdale","Willowdale"," 109","Toronto",N,N,"",1,539,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,90
+35115,"Willowdale","Willowdale"," 109","Toronto",N,N,"",1,539,"Gorka","","Anna","Green Party","Parti Vert",N,N,13
+35115,"Willowdale","Willowdale"," 109","Toronto",N,N,"",1,539,"Lee","","Daniel","Conservative","Conservateur",N,N,79
+35115,"Willowdale","Willowdale"," 109","Toronto",N,N,"",1,539,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,1
+35115,"Willowdale","Willowdale"," 400","Toronto",N,N,"",0,483,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35115,"Willowdale","Willowdale"," 400","Toronto",N,N,"",0,483,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,47
+35115,"Willowdale","Willowdale"," 400","Toronto",N,N,"",0,483,"Gorka","","Anna","Green Party","Parti Vert",N,N,2
+35115,"Willowdale","Willowdale"," 400","Toronto",N,N,"",0,483,"Lee","","Daniel","Conservative","Conservateur",N,N,73
+35115,"Willowdale","Willowdale"," 400","Toronto",N,N,"",0,483,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,6
+35115,"Willowdale","Willowdale"," 401","Toronto",N,N,"",0,429,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35115,"Willowdale","Willowdale"," 401","Toronto",N,N,"",0,429,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,54
+35115,"Willowdale","Willowdale"," 401","Toronto",N,N,"",0,429,"Gorka","","Anna","Green Party","Parti Vert",N,N,4
+35115,"Willowdale","Willowdale"," 401","Toronto",N,N,"",0,429,"Lee","","Daniel","Conservative","Conservateur",N,N,49
+35115,"Willowdale","Willowdale"," 401","Toronto",N,N,"",0,429,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,5
+35115,"Willowdale","Willowdale"," 402","Toronto",N,N,"30",0,284,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 402","Toronto",N,N,"30",0,284,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 402","Toronto",N,N,"30",0,284,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 402","Toronto",N,N,"30",0,284,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 402","Toronto",N,N,"30",0,284,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 403","Toronto",N,N,"",3,404,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35115,"Willowdale","Willowdale"," 403","Toronto",N,N,"",3,404,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,79
+35115,"Willowdale","Willowdale"," 403","Toronto",N,N,"",3,404,"Gorka","","Anna","Green Party","Parti Vert",N,N,2
+35115,"Willowdale","Willowdale"," 403","Toronto",N,N,"",3,404,"Lee","","Daniel","Conservative","Conservateur",N,N,38
+35115,"Willowdale","Willowdale"," 403","Toronto",N,N,"",3,404,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,6
+35115,"Willowdale","Willowdale"," 404","Toronto",N,N,"405",0,225,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 404","Toronto",N,N,"405",0,225,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 404","Toronto",N,N,"405",0,225,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 404","Toronto",N,N,"405",0,225,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 404","Toronto",N,N,"405",0,225,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 405","Toronto",N,N,"",4,229,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35115,"Willowdale","Willowdale"," 405","Toronto",N,N,"",4,229,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,50
+35115,"Willowdale","Willowdale"," 405","Toronto",N,N,"",4,229,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 405","Toronto",N,N,"",4,229,"Lee","","Daniel","Conservative","Conservateur",N,N,15
+35115,"Willowdale","Willowdale"," 405","Toronto",N,N,"",4,229,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,2
+35115,"Willowdale","Willowdale"," 406","Toronto",N,N,"",0,498,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35115,"Willowdale","Willowdale"," 406","Toronto",N,N,"",0,498,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,128
+35115,"Willowdale","Willowdale"," 406","Toronto",N,N,"",0,498,"Gorka","","Anna","Green Party","Parti Vert",N,N,9
+35115,"Willowdale","Willowdale"," 406","Toronto",N,N,"",0,498,"Lee","","Daniel","Conservative","Conservateur",N,N,90
+35115,"Willowdale","Willowdale"," 406","Toronto",N,N,"",0,498,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,1
+35115,"Willowdale","Willowdale"," 407","Toronto",N,N,"",1,267,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35115,"Willowdale","Willowdale"," 407","Toronto",N,N,"",1,267,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,79
+35115,"Willowdale","Willowdale"," 407","Toronto",N,N,"",1,267,"Gorka","","Anna","Green Party","Parti Vert",N,N,8
+35115,"Willowdale","Willowdale"," 407","Toronto",N,N,"",1,267,"Lee","","Daniel","Conservative","Conservateur",N,N,30
+35115,"Willowdale","Willowdale"," 407","Toronto",N,N,"",1,267,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,2
+35115,"Willowdale","Willowdale"," 408","Toronto",N,N,"",1,329,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35115,"Willowdale","Willowdale"," 408","Toronto",N,N,"",1,329,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,68
+35115,"Willowdale","Willowdale"," 408","Toronto",N,N,"",1,329,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 408","Toronto",N,N,"",1,329,"Lee","","Daniel","Conservative","Conservateur",N,N,34
+35115,"Willowdale","Willowdale"," 408","Toronto",N,N,"",1,329,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,3
+35115,"Willowdale","Willowdale"," 409","Toronto",N,N,"",0,375,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35115,"Willowdale","Willowdale"," 409","Toronto",N,N,"",0,375,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,73
+35115,"Willowdale","Willowdale"," 409","Toronto",N,N,"",0,375,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 409","Toronto",N,N,"",0,375,"Lee","","Daniel","Conservative","Conservateur",N,N,27
+35115,"Willowdale","Willowdale"," 409","Toronto",N,N,"",0,375,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,2
+35115,"Willowdale","Willowdale"," 410","Toronto",N,N,"",9,307,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35115,"Willowdale","Willowdale"," 410","Toronto",N,N,"",9,307,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,39
+35115,"Willowdale","Willowdale"," 410","Toronto",N,N,"",9,307,"Gorka","","Anna","Green Party","Parti Vert",N,N,4
+35115,"Willowdale","Willowdale"," 410","Toronto",N,N,"",9,307,"Lee","","Daniel","Conservative","Conservateur",N,N,121
+35115,"Willowdale","Willowdale"," 410","Toronto",N,N,"",9,307,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,5
+35115,"Willowdale","Willowdale"," 411","Toronto",N,N,"",1,365,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35115,"Willowdale","Willowdale"," 411","Toronto",N,N,"",1,365,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,78
+35115,"Willowdale","Willowdale"," 411","Toronto",N,N,"",1,365,"Gorka","","Anna","Green Party","Parti Vert",N,N,1
+35115,"Willowdale","Willowdale"," 411","Toronto",N,N,"",1,365,"Lee","","Daniel","Conservative","Conservateur",N,N,39
+35115,"Willowdale","Willowdale"," 411","Toronto",N,N,"",1,365,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,11
+35115,"Willowdale","Willowdale"," 412","Toronto",N,N,"",2,448,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35115,"Willowdale","Willowdale"," 412","Toronto",N,N,"",2,448,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,91
+35115,"Willowdale","Willowdale"," 412","Toronto",N,N,"",2,448,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 412","Toronto",N,N,"",2,448,"Lee","","Daniel","Conservative","Conservateur",N,N,58
+35115,"Willowdale","Willowdale"," 412","Toronto",N,N,"",2,448,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,3
+35115,"Willowdale","Willowdale"," 413","Toronto",N,N,"",3,289,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35115,"Willowdale","Willowdale"," 413","Toronto",N,N,"",3,289,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,100
+35115,"Willowdale","Willowdale"," 413","Toronto",N,N,"",3,289,"Gorka","","Anna","Green Party","Parti Vert",N,N,2
+35115,"Willowdale","Willowdale"," 413","Toronto",N,N,"",3,289,"Lee","","Daniel","Conservative","Conservateur",N,N,46
+35115,"Willowdale","Willowdale"," 413","Toronto",N,N,"",3,289,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,8
+35115,"Willowdale","Willowdale"," 414","Toronto",N,N,"",2,410,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35115,"Willowdale","Willowdale"," 414","Toronto",N,N,"",2,410,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,97
+35115,"Willowdale","Willowdale"," 414","Toronto",N,N,"",2,410,"Gorka","","Anna","Green Party","Parti Vert",N,N,4
+35115,"Willowdale","Willowdale"," 414","Toronto",N,N,"",2,410,"Lee","","Daniel","Conservative","Conservateur",N,N,76
+35115,"Willowdale","Willowdale"," 414","Toronto",N,N,"",2,410,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,2
+35115,"Willowdale","Willowdale"," 415","Toronto",N,N,"",0,305,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35115,"Willowdale","Willowdale"," 415","Toronto",N,N,"",0,305,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,68
+35115,"Willowdale","Willowdale"," 415","Toronto",N,N,"",0,305,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 415","Toronto",N,N,"",0,305,"Lee","","Daniel","Conservative","Conservateur",N,N,49
+35115,"Willowdale","Willowdale"," 415","Toronto",N,N,"",0,305,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,2
+35115,"Willowdale","Willowdale"," 416","Toronto",N,N,"",1,411,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+35115,"Willowdale","Willowdale"," 416","Toronto",N,N,"",1,411,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,141
+35115,"Willowdale","Willowdale"," 416","Toronto",N,N,"",1,411,"Gorka","","Anna","Green Party","Parti Vert",N,N,2
+35115,"Willowdale","Willowdale"," 416","Toronto",N,N,"",1,411,"Lee","","Daniel","Conservative","Conservateur",N,N,100
+35115,"Willowdale","Willowdale"," 416","Toronto",N,N,"",1,411,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,4
+35115,"Willowdale","Willowdale"," 417","Toronto",N,N,"",1,363,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35115,"Willowdale","Willowdale"," 417","Toronto",N,N,"",1,363,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,107
+35115,"Willowdale","Willowdale"," 417","Toronto",N,N,"",1,363,"Gorka","","Anna","Green Party","Parti Vert",N,N,1
+35115,"Willowdale","Willowdale"," 417","Toronto",N,N,"",1,363,"Lee","","Daniel","Conservative","Conservateur",N,N,37
+35115,"Willowdale","Willowdale"," 417","Toronto",N,N,"",1,363,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,6
+35115,"Willowdale","Willowdale"," 418","Toronto",N,N,"",0,233,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+35115,"Willowdale","Willowdale"," 418","Toronto",N,N,"",0,233,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,50
+35115,"Willowdale","Willowdale"," 418","Toronto",N,N,"",0,233,"Gorka","","Anna","Green Party","Parti Vert",N,N,5
+35115,"Willowdale","Willowdale"," 418","Toronto",N,N,"",0,233,"Lee","","Daniel","Conservative","Conservateur",N,N,64
+35115,"Willowdale","Willowdale"," 418","Toronto",N,N,"",0,233,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,3
+35115,"Willowdale","Willowdale"," 419","Toronto",N,N,"",0,424,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+35115,"Willowdale","Willowdale"," 419","Toronto",N,N,"",0,424,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,63
+35115,"Willowdale","Willowdale"," 419","Toronto",N,N,"",0,424,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 419","Toronto",N,N,"",0,424,"Lee","","Daniel","Conservative","Conservateur",N,N,19
+35115,"Willowdale","Willowdale"," 419","Toronto",N,N,"",0,424,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,2
+35115,"Willowdale","Willowdale"," 420","Toronto",N,N,"",2,410,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35115,"Willowdale","Willowdale"," 420","Toronto",N,N,"",2,410,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,51
+35115,"Willowdale","Willowdale"," 420","Toronto",N,N,"",2,410,"Gorka","","Anna","Green Party","Parti Vert",N,N,2
+35115,"Willowdale","Willowdale"," 420","Toronto",N,N,"",2,410,"Lee","","Daniel","Conservative","Conservateur",N,N,38
+35115,"Willowdale","Willowdale"," 420","Toronto",N,N,"",2,410,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,4
+35115,"Willowdale","Willowdale"," 421","Toronto",N,N,"",0,378,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35115,"Willowdale","Willowdale"," 421","Toronto",N,N,"",0,378,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,78
+35115,"Willowdale","Willowdale"," 421","Toronto",N,N,"",0,378,"Gorka","","Anna","Green Party","Parti Vert",N,N,5
+35115,"Willowdale","Willowdale"," 421","Toronto",N,N,"",0,378,"Lee","","Daniel","Conservative","Conservateur",N,N,45
+35115,"Willowdale","Willowdale"," 421","Toronto",N,N,"",0,378,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,6
+35115,"Willowdale","Willowdale"," 422","Toronto",N,N,"",5,448,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35115,"Willowdale","Willowdale"," 422","Toronto",N,N,"",5,448,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,107
+35115,"Willowdale","Willowdale"," 422","Toronto",N,N,"",5,448,"Gorka","","Anna","Green Party","Parti Vert",N,N,6
+35115,"Willowdale","Willowdale"," 422","Toronto",N,N,"",5,448,"Lee","","Daniel","Conservative","Conservateur",N,N,51
+35115,"Willowdale","Willowdale"," 422","Toronto",N,N,"",5,448,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,4
+35115,"Willowdale","Willowdale"," 423","Toronto",N,N,"",1,297,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+35115,"Willowdale","Willowdale"," 423","Toronto",N,N,"",1,297,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,86
+35115,"Willowdale","Willowdale"," 423","Toronto",N,N,"",1,297,"Gorka","","Anna","Green Party","Parti Vert",N,N,4
+35115,"Willowdale","Willowdale"," 423","Toronto",N,N,"",1,297,"Lee","","Daniel","Conservative","Conservateur",N,N,44
+35115,"Willowdale","Willowdale"," 423","Toronto",N,N,"",1,297,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,3
+35115,"Willowdale","Willowdale"," 424","Toronto",N,N,"",1,355,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35115,"Willowdale","Willowdale"," 424","Toronto",N,N,"",1,355,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,117
+35115,"Willowdale","Willowdale"," 424","Toronto",N,N,"",1,355,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 424","Toronto",N,N,"",1,355,"Lee","","Daniel","Conservative","Conservateur",N,N,52
+35115,"Willowdale","Willowdale"," 424","Toronto",N,N,"",1,355,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,2
+35115,"Willowdale","Willowdale"," 425","Toronto",N,N,"",0,361,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35115,"Willowdale","Willowdale"," 425","Toronto",N,N,"",0,361,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,115
+35115,"Willowdale","Willowdale"," 425","Toronto",N,N,"",0,361,"Gorka","","Anna","Green Party","Parti Vert",N,N,5
+35115,"Willowdale","Willowdale"," 425","Toronto",N,N,"",0,361,"Lee","","Daniel","Conservative","Conservateur",N,N,59
+35115,"Willowdale","Willowdale"," 425","Toronto",N,N,"",0,361,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,8
+35115,"Willowdale","Willowdale"," 426","Toronto",N,N,"",3,416,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35115,"Willowdale","Willowdale"," 426","Toronto",N,N,"",3,416,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,101
+35115,"Willowdale","Willowdale"," 426","Toronto",N,N,"",3,416,"Gorka","","Anna","Green Party","Parti Vert",N,N,6
+35115,"Willowdale","Willowdale"," 426","Toronto",N,N,"",3,416,"Lee","","Daniel","Conservative","Conservateur",N,N,42
+35115,"Willowdale","Willowdale"," 426","Toronto",N,N,"",3,416,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,11
+35115,"Willowdale","Willowdale"," 427","Toronto",N,N,"",1,335,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35115,"Willowdale","Willowdale"," 427","Toronto",N,N,"",1,335,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,109
+35115,"Willowdale","Willowdale"," 427","Toronto",N,N,"",1,335,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 427","Toronto",N,N,"",1,335,"Lee","","Daniel","Conservative","Conservateur",N,N,54
+35115,"Willowdale","Willowdale"," 427","Toronto",N,N,"",1,335,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,6
+35115,"Willowdale","Willowdale"," 428","Toronto",N,N,"424",0,263,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 428","Toronto",N,N,"424",0,263,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 428","Toronto",N,N,"424",0,263,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 428","Toronto",N,N,"424",0,263,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 428","Toronto",N,N,"424",0,263,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 429","Toronto",N,N,"",0,344,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35115,"Willowdale","Willowdale"," 429","Toronto",N,N,"",0,344,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,86
+35115,"Willowdale","Willowdale"," 429","Toronto",N,N,"",0,344,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 429","Toronto",N,N,"",0,344,"Lee","","Daniel","Conservative","Conservateur",N,N,67
+35115,"Willowdale","Willowdale"," 429","Toronto",N,N,"",0,344,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,5
+35115,"Willowdale","Willowdale"," 430","Toronto",N,N,"427",0,338,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 430","Toronto",N,N,"427",0,338,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 430","Toronto",N,N,"427",0,338,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 430","Toronto",N,N,"427",0,338,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 430","Toronto",N,N,"427",0,338,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 431","Toronto",N,N,"",1,388,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35115,"Willowdale","Willowdale"," 431","Toronto",N,N,"",1,388,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,119
+35115,"Willowdale","Willowdale"," 431","Toronto",N,N,"",1,388,"Gorka","","Anna","Green Party","Parti Vert",N,N,5
+35115,"Willowdale","Willowdale"," 431","Toronto",N,N,"",1,388,"Lee","","Daniel","Conservative","Conservateur",N,N,72
+35115,"Willowdale","Willowdale"," 431","Toronto",N,N,"",1,388,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,11
+35115,"Willowdale","Willowdale"," 432","Toronto",N,N,"",2,256,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35115,"Willowdale","Willowdale"," 432","Toronto",N,N,"",2,256,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,83
+35115,"Willowdale","Willowdale"," 432","Toronto",N,N,"",2,256,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 432","Toronto",N,N,"",2,256,"Lee","","Daniel","Conservative","Conservateur",N,N,48
+35115,"Willowdale","Willowdale"," 432","Toronto",N,N,"",2,256,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,8
+35115,"Willowdale","Willowdale"," 433","Toronto",N,N,"445",0,246,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 433","Toronto",N,N,"445",0,246,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 433","Toronto",N,N,"445",0,246,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 433","Toronto",N,N,"445",0,246,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 433","Toronto",N,N,"445",0,246,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 434","Toronto",N,N,"",2,350,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35115,"Willowdale","Willowdale"," 434","Toronto",N,N,"",2,350,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,92
+35115,"Willowdale","Willowdale"," 434","Toronto",N,N,"",2,350,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 434","Toronto",N,N,"",2,350,"Lee","","Daniel","Conservative","Conservateur",N,N,67
+35115,"Willowdale","Willowdale"," 434","Toronto",N,N,"",2,350,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,5
+35115,"Willowdale","Willowdale"," 435","Toronto",N,N,"432",0,256,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 435","Toronto",N,N,"432",0,256,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 435","Toronto",N,N,"432",0,256,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 435","Toronto",N,N,"432",0,256,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 435","Toronto",N,N,"432",0,256,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 436","Toronto",N,N,"",2,382,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+35115,"Willowdale","Willowdale"," 436","Toronto",N,N,"",2,382,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,74
+35115,"Willowdale","Willowdale"," 436","Toronto",N,N,"",2,382,"Gorka","","Anna","Green Party","Parti Vert",N,N,1
+35115,"Willowdale","Willowdale"," 436","Toronto",N,N,"",2,382,"Lee","","Daniel","Conservative","Conservateur",N,N,36
+35115,"Willowdale","Willowdale"," 436","Toronto",N,N,"",2,382,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,2
+35115,"Willowdale","Willowdale"," 437","Toronto",N,N,"",1,339,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35115,"Willowdale","Willowdale"," 437","Toronto",N,N,"",1,339,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,80
+35115,"Willowdale","Willowdale"," 437","Toronto",N,N,"",1,339,"Gorka","","Anna","Green Party","Parti Vert",N,N,7
+35115,"Willowdale","Willowdale"," 437","Toronto",N,N,"",1,339,"Lee","","Daniel","Conservative","Conservateur",N,N,45
+35115,"Willowdale","Willowdale"," 437","Toronto",N,N,"",1,339,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,5
+35115,"Willowdale","Willowdale"," 438","Toronto",N,N,"",1,454,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35115,"Willowdale","Willowdale"," 438","Toronto",N,N,"",1,454,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,66
+35115,"Willowdale","Willowdale"," 438","Toronto",N,N,"",1,454,"Gorka","","Anna","Green Party","Parti Vert",N,N,1
+35115,"Willowdale","Willowdale"," 438","Toronto",N,N,"",1,454,"Lee","","Daniel","Conservative","Conservateur",N,N,37
+35115,"Willowdale","Willowdale"," 438","Toronto",N,N,"",1,454,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,3
+35115,"Willowdale","Willowdale"," 439","Toronto",N,N,"",1,390,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35115,"Willowdale","Willowdale"," 439","Toronto",N,N,"",1,390,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,94
+35115,"Willowdale","Willowdale"," 439","Toronto",N,N,"",1,390,"Gorka","","Anna","Green Party","Parti Vert",N,N,4
+35115,"Willowdale","Willowdale"," 439","Toronto",N,N,"",1,390,"Lee","","Daniel","Conservative","Conservateur",N,N,56
+35115,"Willowdale","Willowdale"," 439","Toronto",N,N,"",1,390,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,5
+35115,"Willowdale","Willowdale"," 440","Toronto",N,N,"",2,359,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35115,"Willowdale","Willowdale"," 440","Toronto",N,N,"",2,359,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,83
+35115,"Willowdale","Willowdale"," 440","Toronto",N,N,"",2,359,"Gorka","","Anna","Green Party","Parti Vert",N,N,5
+35115,"Willowdale","Willowdale"," 440","Toronto",N,N,"",2,359,"Lee","","Daniel","Conservative","Conservateur",N,N,52
+35115,"Willowdale","Willowdale"," 440","Toronto",N,N,"",2,359,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,4
+35115,"Willowdale","Willowdale"," 441","Toronto",N,N,"",3,342,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35115,"Willowdale","Willowdale"," 441","Toronto",N,N,"",3,342,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,85
+35115,"Willowdale","Willowdale"," 441","Toronto",N,N,"",3,342,"Gorka","","Anna","Green Party","Parti Vert",N,N,5
+35115,"Willowdale","Willowdale"," 441","Toronto",N,N,"",3,342,"Lee","","Daniel","Conservative","Conservateur",N,N,69
+35115,"Willowdale","Willowdale"," 441","Toronto",N,N,"",3,342,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,6
+35115,"Willowdale","Willowdale"," 442","Toronto",N,N,"",4,394,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35115,"Willowdale","Willowdale"," 442","Toronto",N,N,"",4,394,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,117
+35115,"Willowdale","Willowdale"," 442","Toronto",N,N,"",4,394,"Gorka","","Anna","Green Party","Parti Vert",N,N,2
+35115,"Willowdale","Willowdale"," 442","Toronto",N,N,"",4,394,"Lee","","Daniel","Conservative","Conservateur",N,N,100
+35115,"Willowdale","Willowdale"," 442","Toronto",N,N,"",4,394,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,4
+35115,"Willowdale","Willowdale"," 443","Toronto",N,N,"",0,321,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35115,"Willowdale","Willowdale"," 443","Toronto",N,N,"",0,321,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,107
+35115,"Willowdale","Willowdale"," 443","Toronto",N,N,"",0,321,"Gorka","","Anna","Green Party","Parti Vert",N,N,4
+35115,"Willowdale","Willowdale"," 443","Toronto",N,N,"",0,321,"Lee","","Daniel","Conservative","Conservateur",N,N,30
+35115,"Willowdale","Willowdale"," 443","Toronto",N,N,"",0,321,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,6
+35115,"Willowdale","Willowdale"," 444","Toronto",N,N,"",1,386,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35115,"Willowdale","Willowdale"," 444","Toronto",N,N,"",1,386,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,104
+35115,"Willowdale","Willowdale"," 444","Toronto",N,N,"",1,386,"Gorka","","Anna","Green Party","Parti Vert",N,N,1
+35115,"Willowdale","Willowdale"," 444","Toronto",N,N,"",1,386,"Lee","","Daniel","Conservative","Conservateur",N,N,56
+35115,"Willowdale","Willowdale"," 444","Toronto",N,N,"",1,386,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,1
+35115,"Willowdale","Willowdale"," 445","Toronto",N,N,"",2,267,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35115,"Willowdale","Willowdale"," 445","Toronto",N,N,"",2,267,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,117
+35115,"Willowdale","Willowdale"," 445","Toronto",N,N,"",2,267,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 445","Toronto",N,N,"",2,267,"Lee","","Daniel","Conservative","Conservateur",N,N,64
+35115,"Willowdale","Willowdale"," 445","Toronto",N,N,"",2,267,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,5
+35115,"Willowdale","Willowdale"," 446","Toronto",N,N,"",1,405,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35115,"Willowdale","Willowdale"," 446","Toronto",N,N,"",1,405,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,133
+35115,"Willowdale","Willowdale"," 446","Toronto",N,N,"",1,405,"Gorka","","Anna","Green Party","Parti Vert",N,N,6
+35115,"Willowdale","Willowdale"," 446","Toronto",N,N,"",1,405,"Lee","","Daniel","Conservative","Conservateur",N,N,63
+35115,"Willowdale","Willowdale"," 446","Toronto",N,N,"",1,405,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,9
+35115,"Willowdale","Willowdale"," 447","Toronto",N,N,"",2,557,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35115,"Willowdale","Willowdale"," 447","Toronto",N,N,"",2,557,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,122
+35115,"Willowdale","Willowdale"," 447","Toronto",N,N,"",2,557,"Gorka","","Anna","Green Party","Parti Vert",N,N,4
+35115,"Willowdale","Willowdale"," 447","Toronto",N,N,"",2,557,"Lee","","Daniel","Conservative","Conservateur",N,N,84
+35115,"Willowdale","Willowdale"," 447","Toronto",N,N,"",2,557,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,7
+35115,"Willowdale","Willowdale"," 448","Toronto",N,N,"",2,248,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+35115,"Willowdale","Willowdale"," 448","Toronto",N,N,"",2,248,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,87
+35115,"Willowdale","Willowdale"," 448","Toronto",N,N,"",2,248,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 448","Toronto",N,N,"",2,248,"Lee","","Daniel","Conservative","Conservateur",N,N,35
+35115,"Willowdale","Willowdale"," 448","Toronto",N,N,"",2,248,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,3
+35115,"Willowdale","Willowdale"," 449","Toronto",N,N,"",0,327,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+35115,"Willowdale","Willowdale"," 449","Toronto",N,N,"",0,327,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,45
+35115,"Willowdale","Willowdale"," 449","Toronto",N,N,"",0,327,"Gorka","","Anna","Green Party","Parti Vert",N,N,1
+35115,"Willowdale","Willowdale"," 449","Toronto",N,N,"",0,327,"Lee","","Daniel","Conservative","Conservateur",N,N,34
+35115,"Willowdale","Willowdale"," 449","Toronto",N,N,"",0,327,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,1
+35115,"Willowdale","Willowdale"," 450","Toronto",N,N,"",1,212,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35115,"Willowdale","Willowdale"," 450","Toronto",N,N,"",1,212,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,47
+35115,"Willowdale","Willowdale"," 450","Toronto",N,N,"",1,212,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 450","Toronto",N,N,"",1,212,"Lee","","Daniel","Conservative","Conservateur",N,N,38
+35115,"Willowdale","Willowdale"," 450","Toronto",N,N,"",1,212,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,3
+35115,"Willowdale","Willowdale"," 451","Toronto",N,N,"450",0,223,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 451","Toronto",N,N,"450",0,223,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 451","Toronto",N,N,"450",0,223,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 451","Toronto",N,N,"450",0,223,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 451","Toronto",N,N,"450",0,223,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 452","Toronto",N,N,"",0,351,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35115,"Willowdale","Willowdale"," 452","Toronto",N,N,"",0,351,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,115
+35115,"Willowdale","Willowdale"," 452","Toronto",N,N,"",0,351,"Gorka","","Anna","Green Party","Parti Vert",N,N,4
+35115,"Willowdale","Willowdale"," 452","Toronto",N,N,"",0,351,"Lee","","Daniel","Conservative","Conservateur",N,N,98
+35115,"Willowdale","Willowdale"," 452","Toronto",N,N,"",0,351,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,5
+35115,"Willowdale","Willowdale"," 453","Toronto",N,N,"455",0,277,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 453","Toronto",N,N,"455",0,277,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 453","Toronto",N,N,"455",0,277,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 453","Toronto",N,N,"455",0,277,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 453","Toronto",N,N,"455",0,277,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 454","Toronto",N,N,"",0,365,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35115,"Willowdale","Willowdale"," 454","Toronto",N,N,"",0,365,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,52
+35115,"Willowdale","Willowdale"," 454","Toronto",N,N,"",0,365,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 454","Toronto",N,N,"",0,365,"Lee","","Daniel","Conservative","Conservateur",N,N,28
+35115,"Willowdale","Willowdale"," 454","Toronto",N,N,"",0,365,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,2
+35115,"Willowdale","Willowdale"," 455","Toronto",N,N,"",0,298,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35115,"Willowdale","Willowdale"," 455","Toronto",N,N,"",0,298,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,91
+35115,"Willowdale","Willowdale"," 455","Toronto",N,N,"",0,298,"Gorka","","Anna","Green Party","Parti Vert",N,N,4
+35115,"Willowdale","Willowdale"," 455","Toronto",N,N,"",0,298,"Lee","","Daniel","Conservative","Conservateur",N,N,35
+35115,"Willowdale","Willowdale"," 455","Toronto",N,N,"",0,298,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,5
+35115,"Willowdale","Willowdale"," 456","Toronto",N,N,"",0,345,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35115,"Willowdale","Willowdale"," 456","Toronto",N,N,"",0,345,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,123
+35115,"Willowdale","Willowdale"," 456","Toronto",N,N,"",0,345,"Gorka","","Anna","Green Party","Parti Vert",N,N,7
+35115,"Willowdale","Willowdale"," 456","Toronto",N,N,"",0,345,"Lee","","Daniel","Conservative","Conservateur",N,N,68
+35115,"Willowdale","Willowdale"," 456","Toronto",N,N,"",0,345,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,4
+35115,"Willowdale","Willowdale"," 457","Toronto",N,N,"",1,251,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35115,"Willowdale","Willowdale"," 457","Toronto",N,N,"",1,251,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,62
+35115,"Willowdale","Willowdale"," 457","Toronto",N,N,"",1,251,"Gorka","","Anna","Green Party","Parti Vert",N,N,4
+35115,"Willowdale","Willowdale"," 457","Toronto",N,N,"",1,251,"Lee","","Daniel","Conservative","Conservateur",N,N,36
+35115,"Willowdale","Willowdale"," 457","Toronto",N,N,"",1,251,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 458","Toronto",N,N,"",0,182,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+35115,"Willowdale","Willowdale"," 458","Toronto",N,N,"",0,182,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,52
+35115,"Willowdale","Willowdale"," 458","Toronto",N,N,"",0,182,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 458","Toronto",N,N,"",0,182,"Lee","","Daniel","Conservative","Conservateur",N,N,28
+35115,"Willowdale","Willowdale"," 458","Toronto",N,N,"",0,182,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,4
+35115,"Willowdale","Willowdale"," 459","Toronto",N,N,"458",0,147,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 459","Toronto",N,N,"458",0,147,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 459","Toronto",N,N,"458",0,147,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 459","Toronto",N,N,"458",0,147,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 459","Toronto",N,N,"458",0,147,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 460","Toronto",N,N,"",2,252,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35115,"Willowdale","Willowdale"," 460","Toronto",N,N,"",2,252,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,44
+35115,"Willowdale","Willowdale"," 460","Toronto",N,N,"",2,252,"Gorka","","Anna","Green Party","Parti Vert",N,N,2
+35115,"Willowdale","Willowdale"," 460","Toronto",N,N,"",2,252,"Lee","","Daniel","Conservative","Conservateur",N,N,39
+35115,"Willowdale","Willowdale"," 460","Toronto",N,N,"",2,252,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,4
+35115,"Willowdale","Willowdale"," 461","Toronto",N,N,"",0,374,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35115,"Willowdale","Willowdale"," 461","Toronto",N,N,"",0,374,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,119
+35115,"Willowdale","Willowdale"," 461","Toronto",N,N,"",0,374,"Gorka","","Anna","Green Party","Parti Vert",N,N,6
+35115,"Willowdale","Willowdale"," 461","Toronto",N,N,"",0,374,"Lee","","Daniel","Conservative","Conservateur",N,N,45
+35115,"Willowdale","Willowdale"," 461","Toronto",N,N,"",0,374,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,5
+35115,"Willowdale","Willowdale"," 462","Toronto",N,N,"",1,501,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35115,"Willowdale","Willowdale"," 462","Toronto",N,N,"",1,501,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,124
+35115,"Willowdale","Willowdale"," 462","Toronto",N,N,"",1,501,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 462","Toronto",N,N,"",1,501,"Lee","","Daniel","Conservative","Conservateur",N,N,75
+35115,"Willowdale","Willowdale"," 462","Toronto",N,N,"",1,501,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,4
+35115,"Willowdale","Willowdale"," 463","Toronto",N,N,"",1,272,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+35115,"Willowdale","Willowdale"," 463","Toronto",N,N,"",1,272,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,57
+35115,"Willowdale","Willowdale"," 463","Toronto",N,N,"",1,272,"Gorka","","Anna","Green Party","Parti Vert",N,N,4
+35115,"Willowdale","Willowdale"," 463","Toronto",N,N,"",1,272,"Lee","","Daniel","Conservative","Conservateur",N,N,46
+35115,"Willowdale","Willowdale"," 463","Toronto",N,N,"",1,272,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,2
+35115,"Willowdale","Willowdale"," 464","Toronto",N,N,"",3,266,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35115,"Willowdale","Willowdale"," 464","Toronto",N,N,"",3,266,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,66
+35115,"Willowdale","Willowdale"," 464","Toronto",N,N,"",3,266,"Gorka","","Anna","Green Party","Parti Vert",N,N,2
+35115,"Willowdale","Willowdale"," 464","Toronto",N,N,"",3,266,"Lee","","Daniel","Conservative","Conservateur",N,N,26
+35115,"Willowdale","Willowdale"," 464","Toronto",N,N,"",3,266,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,4
+35115,"Willowdale","Willowdale"," 465","Toronto",N,N,"",2,297,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35115,"Willowdale","Willowdale"," 465","Toronto",N,N,"",2,297,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,102
+35115,"Willowdale","Willowdale"," 465","Toronto",N,N,"",2,297,"Gorka","","Anna","Green Party","Parti Vert",N,N,4
+35115,"Willowdale","Willowdale"," 465","Toronto",N,N,"",2,297,"Lee","","Daniel","Conservative","Conservateur",N,N,26
+35115,"Willowdale","Willowdale"," 465","Toronto",N,N,"",2,297,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,1
+35115,"Willowdale","Willowdale"," 466","Toronto",N,N,"",1,479,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35115,"Willowdale","Willowdale"," 466","Toronto",N,N,"",1,479,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,139
+35115,"Willowdale","Willowdale"," 466","Toronto",N,N,"",1,479,"Gorka","","Anna","Green Party","Parti Vert",N,N,4
+35115,"Willowdale","Willowdale"," 466","Toronto",N,N,"",1,479,"Lee","","Daniel","Conservative","Conservateur",N,N,61
+35115,"Willowdale","Willowdale"," 466","Toronto",N,N,"",1,479,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,3
+35115,"Willowdale","Willowdale"," 467","Toronto",N,N,"",4,411,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35115,"Willowdale","Willowdale"," 467","Toronto",N,N,"",4,411,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,128
+35115,"Willowdale","Willowdale"," 467","Toronto",N,N,"",4,411,"Gorka","","Anna","Green Party","Parti Vert",N,N,1
+35115,"Willowdale","Willowdale"," 467","Toronto",N,N,"",4,411,"Lee","","Daniel","Conservative","Conservateur",N,N,70
+35115,"Willowdale","Willowdale"," 467","Toronto",N,N,"",4,411,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,1
+35115,"Willowdale","Willowdale"," 468","Toronto",N,N,"",2,224,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35115,"Willowdale","Willowdale"," 468","Toronto",N,N,"",2,224,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,50
+35115,"Willowdale","Willowdale"," 468","Toronto",N,N,"",2,224,"Gorka","","Anna","Green Party","Parti Vert",N,N,1
+35115,"Willowdale","Willowdale"," 468","Toronto",N,N,"",2,224,"Lee","","Daniel","Conservative","Conservateur",N,N,41
+35115,"Willowdale","Willowdale"," 468","Toronto",N,N,"",2,224,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,3
+35115,"Willowdale","Willowdale"," 469","Toronto",N,N,"",0,276,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35115,"Willowdale","Willowdale"," 469","Toronto",N,N,"",0,276,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,78
+35115,"Willowdale","Willowdale"," 469","Toronto",N,N,"",0,276,"Gorka","","Anna","Green Party","Parti Vert",N,N,4
+35115,"Willowdale","Willowdale"," 469","Toronto",N,N,"",0,276,"Lee","","Daniel","Conservative","Conservateur",N,N,37
+35115,"Willowdale","Willowdale"," 469","Toronto",N,N,"",0,276,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,7
+35115,"Willowdale","Willowdale"," 500","Mobile poll/Bureau itinérant",N,N,"16",0,185,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 500","Mobile poll/Bureau itinérant",N,N,"16",0,185,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 500","Mobile poll/Bureau itinérant",N,N,"16",0,185,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 500","Mobile poll/Bureau itinérant",N,N,"16",0,185,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 500","Mobile poll/Bureau itinérant",N,N,"16",0,185,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 501","Mobile poll/Bureau itinérant",N,N,"17",0,40,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 501","Mobile poll/Bureau itinérant",N,N,"17",0,40,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 501","Mobile poll/Bureau itinérant",N,N,"17",0,40,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 501","Mobile poll/Bureau itinérant",N,N,"17",0,40,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 501","Mobile poll/Bureau itinérant",N,N,"17",0,40,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 502","Mobile poll/Bureau itinérant",N,N,"39",0,62,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 502","Mobile poll/Bureau itinérant",N,N,"39",0,62,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 502","Mobile poll/Bureau itinérant",N,N,"39",0,62,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 502","Mobile poll/Bureau itinérant",N,N,"39",0,62,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 502","Mobile poll/Bureau itinérant",N,N,"39",0,62,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 503","Mobile poll/Bureau itinérant",N,N,"52",0,17,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 503","Mobile poll/Bureau itinérant",N,N,"52",0,17,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 503","Mobile poll/Bureau itinérant",N,N,"52",0,17,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 503","Mobile poll/Bureau itinérant",N,N,"52",0,17,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 503","Mobile poll/Bureau itinérant",N,N,"52",0,17,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 504","Mobile poll/Bureau itinérant",N,N,"",0,125,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+35115,"Willowdale","Willowdale"," 504","Mobile poll/Bureau itinérant",N,N,"",0,125,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,55
+35115,"Willowdale","Willowdale"," 504","Mobile poll/Bureau itinérant",N,N,"",0,125,"Gorka","","Anna","Green Party","Parti Vert",N,N,3
+35115,"Willowdale","Willowdale"," 504","Mobile poll/Bureau itinérant",N,N,"",0,125,"Lee","","Daniel","Conservative","Conservateur",N,N,32
+35115,"Willowdale","Willowdale"," 504","Mobile poll/Bureau itinérant",N,N,"",0,125,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 505","Mobile poll/Bureau itinérant",N,N,"74",0,155,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 505","Mobile poll/Bureau itinérant",N,N,"74",0,155,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 505","Mobile poll/Bureau itinérant",N,N,"74",0,155,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 505","Mobile poll/Bureau itinérant",N,N,"74",0,155,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 505","Mobile poll/Bureau itinérant",N,N,"74",0,155,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 506","Mobile poll/Bureau itinérant",N,N,"100",0,43,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35115,"Willowdale","Willowdale"," 506","Mobile poll/Bureau itinérant",N,N,"100",0,43,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,0
+35115,"Willowdale","Willowdale"," 506","Mobile poll/Bureau itinérant",N,N,"100",0,43,"Gorka","","Anna","Green Party","Parti Vert",N,N,0
+35115,"Willowdale","Willowdale"," 506","Mobile poll/Bureau itinérant",N,N,"100",0,43,"Lee","","Daniel","Conservative","Conservateur",N,N,0
+35115,"Willowdale","Willowdale"," 506","Mobile poll/Bureau itinérant",N,N,"100",0,43,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,0
+35115,"Willowdale","Willowdale"," 600","Toronto",N,N,"",2,0,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35115,"Willowdale","Willowdale"," 600","Toronto",N,N,"",2,0,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,457
+35115,"Willowdale","Willowdale"," 600","Toronto",N,N,"",2,0,"Gorka","","Anna","Green Party","Parti Vert",N,N,13
+35115,"Willowdale","Willowdale"," 600","Toronto",N,N,"",2,0,"Lee","","Daniel","Conservative","Conservateur",N,N,315
+35115,"Willowdale","Willowdale"," 600","Toronto",N,N,"",2,0,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,34
+35115,"Willowdale","Willowdale"," 601","Toronto",N,N,"",12,0,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,103
+35115,"Willowdale","Willowdale"," 601","Toronto",N,N,"",12,0,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,657
+35115,"Willowdale","Willowdale"," 601","Toronto",N,N,"",12,0,"Gorka","","Anna","Green Party","Parti Vert",N,N,17
+35115,"Willowdale","Willowdale"," 601","Toronto",N,N,"",12,0,"Lee","","Daniel","Conservative","Conservateur",N,N,591
+35115,"Willowdale","Willowdale"," 601","Toronto",N,N,"",12,0,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,43
+35115,"Willowdale","Willowdale"," 602","Toronto",N,N,"",11,0,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,90
+35115,"Willowdale","Willowdale"," 602","Toronto",N,N,"",11,0,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,551
+35115,"Willowdale","Willowdale"," 602","Toronto",N,N,"",11,0,"Gorka","","Anna","Green Party","Parti Vert",N,N,24
+35115,"Willowdale","Willowdale"," 602","Toronto",N,N,"",11,0,"Lee","","Daniel","Conservative","Conservateur",N,N,453
+35115,"Willowdale","Willowdale"," 602","Toronto",N,N,"",11,0,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,41
+35115,"Willowdale","Willowdale"," 603","Toronto",N,N,"",6,0,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+35115,"Willowdale","Willowdale"," 603","Toronto",N,N,"",6,0,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,557
+35115,"Willowdale","Willowdale"," 603","Toronto",N,N,"",6,0,"Gorka","","Anna","Green Party","Parti Vert",N,N,17
+35115,"Willowdale","Willowdale"," 603","Toronto",N,N,"",6,0,"Lee","","Daniel","Conservative","Conservateur",N,N,355
+35115,"Willowdale","Willowdale"," 603","Toronto",N,N,"",6,0,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,18
+35115,"Willowdale","Willowdale"," 604","Toronto",N,N,"",3,0,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+35115,"Willowdale","Willowdale"," 604","Toronto",N,N,"",3,0,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,229
+35115,"Willowdale","Willowdale"," 604","Toronto",N,N,"",3,0,"Gorka","","Anna","Green Party","Parti Vert",N,N,7
+35115,"Willowdale","Willowdale"," 604","Toronto",N,N,"",3,0,"Lee","","Daniel","Conservative","Conservateur",N,N,143
+35115,"Willowdale","Willowdale"," 604","Toronto",N,N,"",3,0,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,11
+35115,"Willowdale","Willowdale"," 605","Toronto",N,N,"",6,0,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,114
+35115,"Willowdale","Willowdale"," 605","Toronto",N,N,"",6,0,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,676
+35115,"Willowdale","Willowdale"," 605","Toronto",N,N,"",6,0,"Gorka","","Anna","Green Party","Parti Vert",N,N,15
+35115,"Willowdale","Willowdale"," 605","Toronto",N,N,"",6,0,"Lee","","Daniel","Conservative","Conservateur",N,N,367
+35115,"Willowdale","Willowdale"," 605","Toronto",N,N,"",6,0,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,36
+35115,"Willowdale","Willowdale"," 606","Toronto",N,N,"",7,0,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,110
+35115,"Willowdale","Willowdale"," 606","Toronto",N,N,"",7,0,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,656
+35115,"Willowdale","Willowdale"," 606","Toronto",N,N,"",7,0,"Gorka","","Anna","Green Party","Parti Vert",N,N,14
+35115,"Willowdale","Willowdale"," 606","Toronto",N,N,"",7,0,"Lee","","Daniel","Conservative","Conservateur",N,N,478
+35115,"Willowdale","Willowdale"," 606","Toronto",N,N,"",7,0,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,52
+35115,"Willowdale","Willowdale"," 607","Toronto",N,N,"",4,0,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+35115,"Willowdale","Willowdale"," 607","Toronto",N,N,"",4,0,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,346
+35115,"Willowdale","Willowdale"," 607","Toronto",N,N,"",4,0,"Gorka","","Anna","Green Party","Parti Vert",N,N,15
+35115,"Willowdale","Willowdale"," 607","Toronto",N,N,"",4,0,"Lee","","Daniel","Conservative","Conservateur",N,N,177
+35115,"Willowdale","Willowdale"," 607","Toronto",N,N,"",4,0,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,24
+35115,"Willowdale","Willowdale"," 608","Toronto",N,N,"",3,0,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35115,"Willowdale","Willowdale"," 608","Toronto",N,N,"",3,0,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,471
+35115,"Willowdale","Willowdale"," 608","Toronto",N,N,"",3,0,"Gorka","","Anna","Green Party","Parti Vert",N,N,18
+35115,"Willowdale","Willowdale"," 608","Toronto",N,N,"",3,0,"Lee","","Daniel","Conservative","Conservateur",N,N,388
+35115,"Willowdale","Willowdale"," 608","Toronto",N,N,"",3,0,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,9
+35115,"Willowdale","Willowdale"," 609","Toronto",N,N,"",2,0,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,82
+35115,"Willowdale","Willowdale"," 609","Toronto",N,N,"",2,0,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,556
+35115,"Willowdale","Willowdale"," 609","Toronto",N,N,"",2,0,"Gorka","","Anna","Green Party","Parti Vert",N,N,15
+35115,"Willowdale","Willowdale"," 609","Toronto",N,N,"",2,0,"Lee","","Daniel","Conservative","Conservateur",N,N,358
+35115,"Willowdale","Willowdale"," 609","Toronto",N,N,"",2,0,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,18
+35115,"Willowdale","Willowdale"," 610","Toronto",N,N,"",1,0,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+35115,"Willowdale","Willowdale"," 610","Toronto",N,N,"",1,0,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,356
+35115,"Willowdale","Willowdale"," 610","Toronto",N,N,"",1,0,"Gorka","","Anna","Green Party","Parti Vert",N,N,9
+35115,"Willowdale","Willowdale"," 610","Toronto",N,N,"",1,0,"Lee","","Daniel","Conservative","Conservateur",N,N,207
+35115,"Willowdale","Willowdale"," 610","Toronto",N,N,"",1,0,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,28
+35115,"Willowdale","Willowdale"," 611","Toronto",N,N,"",4,0,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+35115,"Willowdale","Willowdale"," 611","Toronto",N,N,"",4,0,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,275
+35115,"Willowdale","Willowdale"," 611","Toronto",N,N,"",4,0,"Gorka","","Anna","Green Party","Parti Vert",N,N,11
+35115,"Willowdale","Willowdale"," 611","Toronto",N,N,"",4,0,"Lee","","Daniel","Conservative","Conservateur",N,N,137
+35115,"Willowdale","Willowdale"," 611","Toronto",N,N,"",4,0,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,10
+35115,"Willowdale","Willowdale"," 612","Toronto",N,N,"",3,0,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+35115,"Willowdale","Willowdale"," 612","Toronto",N,N,"",3,0,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,537
+35115,"Willowdale","Willowdale"," 612","Toronto",N,N,"",3,0,"Gorka","","Anna","Green Party","Parti Vert",N,N,23
+35115,"Willowdale","Willowdale"," 612","Toronto",N,N,"",3,0,"Lee","","Daniel","Conservative","Conservateur",N,N,408
+35115,"Willowdale","Willowdale"," 612","Toronto",N,N,"",3,0,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,26
+35115,"Willowdale","Willowdale"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",22,484,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,82
+35115,"Willowdale","Willowdale"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",22,484,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,258
+35115,"Willowdale","Willowdale"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",22,484,"Gorka","","Anna","Green Party","Parti Vert",N,N,12
+35115,"Willowdale","Willowdale"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",22,484,"Lee","","Daniel","Conservative","Conservateur",N,N,160
+35115,"Willowdale","Willowdale"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",22,484,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,9
+35115,"Willowdale","Willowdale"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",54,0,"Berman","","Hal","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,349
+35115,"Willowdale","Willowdale"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",54,0,"Ehsassi","","Ali","Liberal","Libéral",Y,Y,1336
+35115,"Willowdale","Willowdale"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",54,0,"Gorka","","Anna","Green Party","Parti Vert",N,N,48
+35115,"Willowdale","Willowdale"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",54,0,"Lee","","Daniel","Conservative","Conservateur",N,N,701
+35115,"Willowdale","Willowdale"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",54,0,"Wahab","","Al","People's Party - PPC","Parti populaire - PPC",N,N,17

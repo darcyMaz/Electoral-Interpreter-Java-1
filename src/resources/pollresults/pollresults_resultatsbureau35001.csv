@@ -1,0 +1,877 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+35001,"Ajax","Ajax"," 1","Ajax",N,N,"",2,587,"Awan","","Arshad","Conservative","Conservateur",N,N,86
+35001,"Ajax","Ajax"," 1","Ajax",N,N,"",2,587,"Holland","","Mark","Liberal","Libéral",Y,Y,184
+35001,"Ajax","Ajax"," 1","Ajax",N,N,"",2,587,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35001,"Ajax","Ajax"," 1","Ajax",N,N,"",2,587,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,3
+35001,"Ajax","Ajax"," 2","Ajax",N,N,"",2,594,"Awan","","Arshad","Conservative","Conservateur",N,N,50
+35001,"Ajax","Ajax"," 2","Ajax",N,N,"",2,594,"Holland","","Mark","Liberal","Libéral",Y,Y,160
+35001,"Ajax","Ajax"," 2","Ajax",N,N,"",2,594,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35001,"Ajax","Ajax"," 2","Ajax",N,N,"",2,594,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,7
+35001,"Ajax","Ajax"," 3","Ajax",N,N,"",1,543,"Awan","","Arshad","Conservative","Conservateur",N,N,57
+35001,"Ajax","Ajax"," 3","Ajax",N,N,"",1,543,"Holland","","Mark","Liberal","Libéral",Y,Y,185
+35001,"Ajax","Ajax"," 3","Ajax",N,N,"",1,543,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35001,"Ajax","Ajax"," 3","Ajax",N,N,"",1,543,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,1
+35001,"Ajax","Ajax"," 4","Ajax",N,N,"7",0,479,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 4","Ajax",N,N,"7",0,479,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 4","Ajax",N,N,"7",0,479,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 4","Ajax",N,N,"7",0,479,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 5","Ajax",N,N,"",2,571,"Awan","","Arshad","Conservative","Conservateur",N,N,56
+35001,"Ajax","Ajax"," 5","Ajax",N,N,"",2,571,"Holland","","Mark","Liberal","Libéral",Y,Y,225
+35001,"Ajax","Ajax"," 5","Ajax",N,N,"",2,571,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35001,"Ajax","Ajax"," 5","Ajax",N,N,"",2,571,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,6
+35001,"Ajax","Ajax"," 6","Ajax",N,N,"3",0,506,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 6","Ajax",N,N,"3",0,506,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 6","Ajax",N,N,"3",0,506,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 6","Ajax",N,N,"3",0,506,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 7","Ajax",N,N,"",0,571,"Awan","","Arshad","Conservative","Conservateur",N,N,52
+35001,"Ajax","Ajax"," 7","Ajax",N,N,"",0,571,"Holland","","Mark","Liberal","Libéral",Y,Y,198
+35001,"Ajax","Ajax"," 7","Ajax",N,N,"",0,571,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35001,"Ajax","Ajax"," 7","Ajax",N,N,"",0,571,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,9
+35001,"Ajax","Ajax"," 8","Ajax",N,N,"",3,582,"Awan","","Arshad","Conservative","Conservateur",N,N,57
+35001,"Ajax","Ajax"," 8","Ajax",N,N,"",3,582,"Holland","","Mark","Liberal","Libéral",Y,Y,199
+35001,"Ajax","Ajax"," 8","Ajax",N,N,"",3,582,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+35001,"Ajax","Ajax"," 8","Ajax",N,N,"",3,582,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,1
+35001,"Ajax","Ajax"," 9","Ajax",N,N,"1",0,473,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 9","Ajax",N,N,"1",0,473,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 9","Ajax",N,N,"1",0,473,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 9","Ajax",N,N,"1",0,473,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 10","Ajax",N,N,"2",0,375,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 10","Ajax",N,N,"2",0,375,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 10","Ajax",N,N,"2",0,375,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 10","Ajax",N,N,"2",0,375,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 11","Ajax",N,N,"8",0,427,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 11","Ajax",N,N,"8",0,427,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 11","Ajax",N,N,"8",0,427,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 11","Ajax",N,N,"8",0,427,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 12","Ajax",N,N,"5",0,490,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 12","Ajax",N,N,"5",0,490,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 12","Ajax",N,N,"5",0,490,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 12","Ajax",N,N,"5",0,490,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 13","Ajax",N,N,"14",0,523,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 13","Ajax",N,N,"14",0,523,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 13","Ajax",N,N,"14",0,523,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 13","Ajax",N,N,"14",0,523,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 14","Ajax",N,N,"",6,545,"Awan","","Arshad","Conservative","Conservateur",N,N,62
+35001,"Ajax","Ajax"," 14","Ajax",N,N,"",6,545,"Holland","","Mark","Liberal","Libéral",Y,Y,215
+35001,"Ajax","Ajax"," 14","Ajax",N,N,"",6,545,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35001,"Ajax","Ajax"," 14","Ajax",N,N,"",6,545,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,5
+35001,"Ajax","Ajax"," 15","Ajax",N,N,"17",0,438,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 15","Ajax",N,N,"17",0,438,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 15","Ajax",N,N,"17",0,438,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 15","Ajax",N,N,"17",0,438,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 16","Ajax",N,N,"",4,778,"Awan","","Arshad","Conservative","Conservateur",N,N,51
+35001,"Ajax","Ajax"," 16","Ajax",N,N,"",4,778,"Holland","","Mark","Liberal","Libéral",Y,Y,193
+35001,"Ajax","Ajax"," 16","Ajax",N,N,"",4,778,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+35001,"Ajax","Ajax"," 16","Ajax",N,N,"",4,778,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,4
+35001,"Ajax","Ajax"," 17","Ajax",N,N,"",8,522,"Awan","","Arshad","Conservative","Conservateur",N,N,61
+35001,"Ajax","Ajax"," 17","Ajax",N,N,"",8,522,"Holland","","Mark","Liberal","Libéral",Y,Y,199
+35001,"Ajax","Ajax"," 17","Ajax",N,N,"",8,522,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35001,"Ajax","Ajax"," 17","Ajax",N,N,"",8,522,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,7
+35001,"Ajax","Ajax"," 18","Ajax",N,N,"",4,579,"Awan","","Arshad","Conservative","Conservateur",N,N,57
+35001,"Ajax","Ajax"," 18","Ajax",N,N,"",4,579,"Holland","","Mark","Liberal","Libéral",Y,Y,170
+35001,"Ajax","Ajax"," 18","Ajax",N,N,"",4,579,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35001,"Ajax","Ajax"," 18","Ajax",N,N,"",4,579,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,4
+35001,"Ajax","Ajax"," 19","Ajax",N,N,"",0,547,"Awan","","Arshad","Conservative","Conservateur",N,N,45
+35001,"Ajax","Ajax"," 19","Ajax",N,N,"",0,547,"Holland","","Mark","Liberal","Libéral",Y,Y,227
+35001,"Ajax","Ajax"," 19","Ajax",N,N,"",0,547,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35001,"Ajax","Ajax"," 19","Ajax",N,N,"",0,547,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,3
+35001,"Ajax","Ajax"," 20","Ajax",N,N,"",2,533,"Awan","","Arshad","Conservative","Conservateur",N,N,60
+35001,"Ajax","Ajax"," 20","Ajax",N,N,"",2,533,"Holland","","Mark","Liberal","Libéral",Y,Y,232
+35001,"Ajax","Ajax"," 20","Ajax",N,N,"",2,533,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35001,"Ajax","Ajax"," 20","Ajax",N,N,"",2,533,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,3
+35001,"Ajax","Ajax"," 21","Ajax",N,N,"24",0,470,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 21","Ajax",N,N,"24",0,470,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 21","Ajax",N,N,"24",0,470,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 21","Ajax",N,N,"24",0,470,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 22","Ajax",N,N,"19",0,498,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 22","Ajax",N,N,"19",0,498,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 22","Ajax",N,N,"19",0,498,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 22","Ajax",N,N,"19",0,498,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 23","Ajax",N,N,"18",0,410,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 23","Ajax",N,N,"18",0,410,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 23","Ajax",N,N,"18",0,410,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 23","Ajax",N,N,"18",0,410,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 24","Ajax",N,N,"",7,561,"Awan","","Arshad","Conservative","Conservateur",N,N,55
+35001,"Ajax","Ajax"," 24","Ajax",N,N,"",7,561,"Holland","","Mark","Liberal","Libéral",Y,Y,228
+35001,"Ajax","Ajax"," 24","Ajax",N,N,"",7,561,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35001,"Ajax","Ajax"," 24","Ajax",N,N,"",7,561,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,7
+35001,"Ajax","Ajax"," 25","Ajax",N,N,"26",0,527,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 25","Ajax",N,N,"26",0,527,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 25","Ajax",N,N,"26",0,527,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 25","Ajax",N,N,"26",0,527,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 26","Ajax",N,N,"",4,546,"Awan","","Arshad","Conservative","Conservateur",N,N,79
+35001,"Ajax","Ajax"," 26","Ajax",N,N,"",4,546,"Holland","","Mark","Liberal","Libéral",Y,Y,220
+35001,"Ajax","Ajax"," 26","Ajax",N,N,"",4,546,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35001,"Ajax","Ajax"," 26","Ajax",N,N,"",4,546,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,2
+35001,"Ajax","Ajax"," 27","Ajax",N,N,"",1,571,"Awan","","Arshad","Conservative","Conservateur",N,N,42
+35001,"Ajax","Ajax"," 27","Ajax",N,N,"",1,571,"Holland","","Mark","Liberal","Libéral",Y,Y,239
+35001,"Ajax","Ajax"," 27","Ajax",N,N,"",1,571,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35001,"Ajax","Ajax"," 27","Ajax",N,N,"",1,571,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,2
+35001,"Ajax","Ajax"," 28","Ajax",N,N,"27",0,450,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 28","Ajax",N,N,"27",0,450,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 28","Ajax",N,N,"27",0,450,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 28","Ajax",N,N,"27",0,450,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 29","Ajax",N,N,"",3,598,"Awan","","Arshad","Conservative","Conservateur",N,N,87
+35001,"Ajax","Ajax"," 29","Ajax",N,N,"",3,598,"Holland","","Mark","Liberal","Libéral",Y,Y,183
+35001,"Ajax","Ajax"," 29","Ajax",N,N,"",3,598,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+35001,"Ajax","Ajax"," 29","Ajax",N,N,"",3,598,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,1
+35001,"Ajax","Ajax"," 30","Ajax",N,N,"29",0,501,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 30","Ajax",N,N,"29",0,501,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 30","Ajax",N,N,"29",0,501,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 30","Ajax",N,N,"29",0,501,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 31","Ajax",N,N,"",2,562,"Awan","","Arshad","Conservative","Conservateur",N,N,34
+35001,"Ajax","Ajax"," 31","Ajax",N,N,"",2,562,"Holland","","Mark","Liberal","Libéral",Y,Y,109
+35001,"Ajax","Ajax"," 31","Ajax",N,N,"",2,562,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+35001,"Ajax","Ajax"," 31","Ajax",N,N,"",2,562,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,3
+35001,"Ajax","Ajax"," 32","Ajax",N,N,"",2,566,"Awan","","Arshad","Conservative","Conservateur",N,N,38
+35001,"Ajax","Ajax"," 32","Ajax",N,N,"",2,566,"Holland","","Mark","Liberal","Libéral",Y,Y,159
+35001,"Ajax","Ajax"," 32","Ajax",N,N,"",2,566,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35001,"Ajax","Ajax"," 32","Ajax",N,N,"",2,566,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,7
+35001,"Ajax","Ajax"," 33","Ajax",N,N,"",1,480,"Awan","","Arshad","Conservative","Conservateur",N,N,48
+35001,"Ajax","Ajax"," 33","Ajax",N,N,"",1,480,"Holland","","Mark","Liberal","Libéral",Y,Y,179
+35001,"Ajax","Ajax"," 33","Ajax",N,N,"",1,480,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35001,"Ajax","Ajax"," 33","Ajax",N,N,"",1,480,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,5
+35001,"Ajax","Ajax"," 34","Ajax",N,N,"33",0,438,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 34","Ajax",N,N,"33",0,438,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 34","Ajax",N,N,"33",0,438,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 34","Ajax",N,N,"33",0,438,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 35","Ajax",N,N,"36",0,482,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 35","Ajax",N,N,"36",0,482,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 35","Ajax",N,N,"36",0,482,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 35","Ajax",N,N,"36",0,482,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 36","Ajax",N,N,"",2,488,"Awan","","Arshad","Conservative","Conservateur",N,N,43
+35001,"Ajax","Ajax"," 36","Ajax",N,N,"",2,488,"Holland","","Mark","Liberal","Libéral",Y,Y,153
+35001,"Ajax","Ajax"," 36","Ajax",N,N,"",2,488,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35001,"Ajax","Ajax"," 36","Ajax",N,N,"",2,488,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,8
+35001,"Ajax","Ajax"," 37","Ajax",N,N,"",1,516,"Awan","","Arshad","Conservative","Conservateur",N,N,52
+35001,"Ajax","Ajax"," 37","Ajax",N,N,"",1,516,"Holland","","Mark","Liberal","Libéral",Y,Y,182
+35001,"Ajax","Ajax"," 37","Ajax",N,N,"",1,516,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35001,"Ajax","Ajax"," 37","Ajax",N,N,"",1,516,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,7
+35001,"Ajax","Ajax"," 38","Ajax",N,N,"",0,572,"Awan","","Arshad","Conservative","Conservateur",N,N,33
+35001,"Ajax","Ajax"," 38","Ajax",N,N,"",0,572,"Holland","","Mark","Liberal","Libéral",Y,Y,94
+35001,"Ajax","Ajax"," 38","Ajax",N,N,"",0,572,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+35001,"Ajax","Ajax"," 38","Ajax",N,N,"",0,572,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,7
+35001,"Ajax","Ajax"," 39","Ajax",N,N,"37",0,470,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 39","Ajax",N,N,"37",0,470,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 39","Ajax",N,N,"37",0,470,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 39","Ajax",N,N,"37",0,470,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 40","Ajax",N,N,"",0,553,"Awan","","Arshad","Conservative","Conservateur",N,N,82
+35001,"Ajax","Ajax"," 40","Ajax",N,N,"",0,553,"Holland","","Mark","Liberal","Libéral",Y,Y,174
+35001,"Ajax","Ajax"," 40","Ajax",N,N,"",0,553,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35001,"Ajax","Ajax"," 40","Ajax",N,N,"",0,553,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,4
+35001,"Ajax","Ajax"," 41","Ajax",N,N,"40",0,486,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 41","Ajax",N,N,"40",0,486,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 41","Ajax",N,N,"40",0,486,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 41","Ajax",N,N,"40",0,486,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 42","Ajax",N,N,"",1,603,"Awan","","Arshad","Conservative","Conservateur",N,N,52
+35001,"Ajax","Ajax"," 42","Ajax",N,N,"",1,603,"Holland","","Mark","Liberal","Libéral",Y,Y,124
+35001,"Ajax","Ajax"," 42","Ajax",N,N,"",1,603,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35001,"Ajax","Ajax"," 42","Ajax",N,N,"",1,603,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 43","Ajax",N,N,"",0,530,"Awan","","Arshad","Conservative","Conservateur",N,N,47
+35001,"Ajax","Ajax"," 43","Ajax",N,N,"",0,530,"Holland","","Mark","Liberal","Libéral",Y,Y,173
+35001,"Ajax","Ajax"," 43","Ajax",N,N,"",0,530,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35001,"Ajax","Ajax"," 43","Ajax",N,N,"",0,530,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,9
+35001,"Ajax","Ajax"," 44","Ajax",N,N,"43",0,400,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 44","Ajax",N,N,"43",0,400,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 44","Ajax",N,N,"43",0,400,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 44","Ajax",N,N,"43",0,400,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 45","Ajax",N,N,"",0,567,"Awan","","Arshad","Conservative","Conservateur",N,N,82
+35001,"Ajax","Ajax"," 45","Ajax",N,N,"",0,567,"Holland","","Mark","Liberal","Libéral",Y,Y,184
+35001,"Ajax","Ajax"," 45","Ajax",N,N,"",0,567,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35001,"Ajax","Ajax"," 45","Ajax",N,N,"",0,567,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,5
+35001,"Ajax","Ajax"," 46","Ajax",N,N,"45",0,491,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 46","Ajax",N,N,"45",0,491,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 46","Ajax",N,N,"45",0,491,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 46","Ajax",N,N,"45",0,491,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 47","Ajax",N,N,"",2,521,"Awan","","Arshad","Conservative","Conservateur",N,N,53
+35001,"Ajax","Ajax"," 47","Ajax",N,N,"",2,521,"Holland","","Mark","Liberal","Libéral",Y,Y,144
+35001,"Ajax","Ajax"," 47","Ajax",N,N,"",2,521,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35001,"Ajax","Ajax"," 47","Ajax",N,N,"",2,521,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,5
+35001,"Ajax","Ajax"," 48","Ajax",N,N,"20",0,531,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 48","Ajax",N,N,"20",0,531,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 48","Ajax",N,N,"20",0,531,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 48","Ajax",N,N,"20",0,531,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 49","Ajax",N,N,"50",0,495,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 49","Ajax",N,N,"50",0,495,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 49","Ajax",N,N,"50",0,495,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 49","Ajax",N,N,"50",0,495,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 50","Ajax",N,N,"",7,527,"Awan","","Arshad","Conservative","Conservateur",N,N,63
+35001,"Ajax","Ajax"," 50","Ajax",N,N,"",7,527,"Holland","","Mark","Liberal","Libéral",Y,Y,117
+35001,"Ajax","Ajax"," 50","Ajax",N,N,"",7,527,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35001,"Ajax","Ajax"," 50","Ajax",N,N,"",7,527,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,9
+35001,"Ajax","Ajax"," 51","Ajax",N,N,"",8,577,"Awan","","Arshad","Conservative","Conservateur",N,N,49
+35001,"Ajax","Ajax"," 51","Ajax",N,N,"",8,577,"Holland","","Mark","Liberal","Libéral",Y,Y,189
+35001,"Ajax","Ajax"," 51","Ajax",N,N,"",8,577,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35001,"Ajax","Ajax"," 51","Ajax",N,N,"",8,577,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,2
+35001,"Ajax","Ajax"," 52","Ajax",N,N,"",0,801,"Awan","","Arshad","Conservative","Conservateur",N,N,29
+35001,"Ajax","Ajax"," 52","Ajax",N,N,"",0,801,"Holland","","Mark","Liberal","Libéral",Y,Y,133
+35001,"Ajax","Ajax"," 52","Ajax",N,N,"",0,801,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35001,"Ajax","Ajax"," 52","Ajax",N,N,"",0,801,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,3
+35001,"Ajax","Ajax"," 53","Ajax",N,N,"",2,1068,"Awan","","Arshad","Conservative","Conservateur",N,N,51
+35001,"Ajax","Ajax"," 53","Ajax",N,N,"",2,1068,"Holland","","Mark","Liberal","Libéral",Y,Y,231
+35001,"Ajax","Ajax"," 53","Ajax",N,N,"",2,1068,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35001,"Ajax","Ajax"," 53","Ajax",N,N,"",2,1068,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,4
+35001,"Ajax","Ajax"," 54","Ajax",N,N,"51",0,556,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 54","Ajax",N,N,"51",0,556,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 54","Ajax",N,N,"51",0,556,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 54","Ajax",N,N,"51",0,556,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 55","Ajax",N,N,"",1,601,"Awan","","Arshad","Conservative","Conservateur",N,N,19
+35001,"Ajax","Ajax"," 55","Ajax",N,N,"",1,601,"Holland","","Mark","Liberal","Libéral",Y,Y,109
+35001,"Ajax","Ajax"," 55","Ajax",N,N,"",1,601,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+35001,"Ajax","Ajax"," 55","Ajax",N,N,"",1,601,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,1
+35001,"Ajax","Ajax"," 56","Ajax",N,N,"57",0,409,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 56","Ajax",N,N,"57",0,409,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 56","Ajax",N,N,"57",0,409,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 56","Ajax",N,N,"57",0,409,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 57","Ajax",N,N,"",0,457,"Awan","","Arshad","Conservative","Conservateur",N,N,67
+35001,"Ajax","Ajax"," 57","Ajax",N,N,"",0,457,"Holland","","Mark","Liberal","Libéral",Y,Y,172
+35001,"Ajax","Ajax"," 57","Ajax",N,N,"",0,457,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35001,"Ajax","Ajax"," 57","Ajax",N,N,"",0,457,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,8
+35001,"Ajax","Ajax"," 58","Ajax",N,N,"59",0,371,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 58","Ajax",N,N,"59",0,371,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 58","Ajax",N,N,"59",0,371,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 58","Ajax",N,N,"59",0,371,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 59","Ajax",N,N,"",0,441,"Awan","","Arshad","Conservative","Conservateur",N,N,63
+35001,"Ajax","Ajax"," 59","Ajax",N,N,"",0,441,"Holland","","Mark","Liberal","Libéral",Y,Y,163
+35001,"Ajax","Ajax"," 59","Ajax",N,N,"",0,441,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35001,"Ajax","Ajax"," 59","Ajax",N,N,"",0,441,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,5
+35001,"Ajax","Ajax"," 60","Ajax",N,N,"",3,396,"Awan","","Arshad","Conservative","Conservateur",N,N,51
+35001,"Ajax","Ajax"," 60","Ajax",N,N,"",3,396,"Holland","","Mark","Liberal","Libéral",Y,Y,138
+35001,"Ajax","Ajax"," 60","Ajax",N,N,"",3,396,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+35001,"Ajax","Ajax"," 60","Ajax",N,N,"",3,396,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,5
+35001,"Ajax","Ajax"," 61","Ajax",N,N,"60",0,385,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 61","Ajax",N,N,"60",0,385,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 61","Ajax",N,N,"60",0,385,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 61","Ajax",N,N,"60",0,385,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 62","Ajax",N,N,"",1,552,"Awan","","Arshad","Conservative","Conservateur",N,N,37
+35001,"Ajax","Ajax"," 62","Ajax",N,N,"",1,552,"Holland","","Mark","Liberal","Libéral",Y,Y,68
+35001,"Ajax","Ajax"," 62","Ajax",N,N,"",1,552,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+35001,"Ajax","Ajax"," 62","Ajax",N,N,"",1,552,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,3
+35001,"Ajax","Ajax"," 63","Ajax",N,N,"64",0,413,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 63","Ajax",N,N,"64",0,413,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 63","Ajax",N,N,"64",0,413,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 63","Ajax",N,N,"64",0,413,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 64","Ajax",N,N,"",0,433,"Awan","","Arshad","Conservative","Conservateur",N,N,58
+35001,"Ajax","Ajax"," 64","Ajax",N,N,"",0,433,"Holland","","Mark","Liberal","Libéral",Y,Y,141
+35001,"Ajax","Ajax"," 64","Ajax",N,N,"",0,433,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35001,"Ajax","Ajax"," 64","Ajax",N,N,"",0,433,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,7
+35001,"Ajax","Ajax"," 65","Ajax",N,N,"",3,404,"Awan","","Arshad","Conservative","Conservateur",N,N,75
+35001,"Ajax","Ajax"," 65","Ajax",N,N,"",3,404,"Holland","","Mark","Liberal","Libéral",Y,Y,143
+35001,"Ajax","Ajax"," 65","Ajax",N,N,"",3,404,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35001,"Ajax","Ajax"," 65","Ajax",N,N,"",3,404,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,6
+35001,"Ajax","Ajax"," 66","Ajax",N,N,"65",0,377,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 66","Ajax",N,N,"65",0,377,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 66","Ajax",N,N,"65",0,377,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 66","Ajax",N,N,"65",0,377,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 67","Ajax",N,N,"",1,403,"Awan","","Arshad","Conservative","Conservateur",N,N,42
+35001,"Ajax","Ajax"," 67","Ajax",N,N,"",1,403,"Holland","","Mark","Liberal","Libéral",Y,Y,173
+35001,"Ajax","Ajax"," 67","Ajax",N,N,"",1,403,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35001,"Ajax","Ajax"," 67","Ajax",N,N,"",1,403,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,2
+35001,"Ajax","Ajax"," 68","Ajax",N,N,"67",0,356,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 68","Ajax",N,N,"67",0,356,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 68","Ajax",N,N,"67",0,356,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 68","Ajax",N,N,"67",0,356,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 69","Ajax",N,N,"71",0,400,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 69","Ajax",N,N,"71",0,400,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 69","Ajax",N,N,"71",0,400,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 69","Ajax",N,N,"71",0,400,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 70","Ajax",N,N,"",5,591,"Awan","","Arshad","Conservative","Conservateur",N,N,71
+35001,"Ajax","Ajax"," 70","Ajax",N,N,"",5,591,"Holland","","Mark","Liberal","Libéral",Y,Y,120
+35001,"Ajax","Ajax"," 70","Ajax",N,N,"",5,591,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+35001,"Ajax","Ajax"," 70","Ajax",N,N,"",5,591,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,4
+35001,"Ajax","Ajax"," 71","Ajax",N,N,"",1,504,"Awan","","Arshad","Conservative","Conservateur",N,N,77
+35001,"Ajax","Ajax"," 71","Ajax",N,N,"",1,504,"Holland","","Mark","Liberal","Libéral",Y,Y,171
+35001,"Ajax","Ajax"," 71","Ajax",N,N,"",1,504,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35001,"Ajax","Ajax"," 71","Ajax",N,N,"",1,504,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,10
+35001,"Ajax","Ajax"," 72","Ajax",N,N,"",0,510,"Awan","","Arshad","Conservative","Conservateur",N,N,56
+35001,"Ajax","Ajax"," 72","Ajax",N,N,"",0,510,"Holland","","Mark","Liberal","Libéral",Y,Y,80
+35001,"Ajax","Ajax"," 72","Ajax",N,N,"",0,510,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35001,"Ajax","Ajax"," 72","Ajax",N,N,"",0,510,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,3
+35001,"Ajax","Ajax"," 73","Ajax",N,N,"",7,469,"Awan","","Arshad","Conservative","Conservateur",N,N,74
+35001,"Ajax","Ajax"," 73","Ajax",N,N,"",7,469,"Holland","","Mark","Liberal","Libéral",Y,Y,182
+35001,"Ajax","Ajax"," 73","Ajax",N,N,"",7,469,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35001,"Ajax","Ajax"," 73","Ajax",N,N,"",7,469,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,10
+35001,"Ajax","Ajax"," 74","Ajax",N,N,"73",0,451,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 74","Ajax",N,N,"73",0,451,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 74","Ajax",N,N,"73",0,451,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 74","Ajax",N,N,"73",0,451,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 75","Ajax",N,N,"",2,517,"Awan","","Arshad","Conservative","Conservateur",N,N,98
+35001,"Ajax","Ajax"," 75","Ajax",N,N,"",2,517,"Holland","","Mark","Liberal","Libéral",Y,Y,200
+35001,"Ajax","Ajax"," 75","Ajax",N,N,"",2,517,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+35001,"Ajax","Ajax"," 75","Ajax",N,N,"",2,517,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,12
+35001,"Ajax","Ajax"," 76","Ajax",N,N,"75",0,490,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 76","Ajax",N,N,"75",0,490,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 76","Ajax",N,N,"75",0,490,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 76","Ajax",N,N,"75",0,490,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 77","Ajax",N,N,"",0,508,"Awan","","Arshad","Conservative","Conservateur",N,N,47
+35001,"Ajax","Ajax"," 77","Ajax",N,N,"",0,508,"Holland","","Mark","Liberal","Libéral",Y,Y,163
+35001,"Ajax","Ajax"," 77","Ajax",N,N,"",0,508,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+35001,"Ajax","Ajax"," 77","Ajax",N,N,"",0,508,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,3
+35001,"Ajax","Ajax"," 78","Ajax",N,N,"77",0,416,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 78","Ajax",N,N,"77",0,416,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 78","Ajax",N,N,"77",0,416,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 78","Ajax",N,N,"77",0,416,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 79","Ajax",N,N,"",1,523,"Awan","","Arshad","Conservative","Conservateur",N,N,52
+35001,"Ajax","Ajax"," 79","Ajax",N,N,"",1,523,"Holland","","Mark","Liberal","Libéral",Y,Y,125
+35001,"Ajax","Ajax"," 79","Ajax",N,N,"",1,523,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35001,"Ajax","Ajax"," 79","Ajax",N,N,"",1,523,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,3
+35001,"Ajax","Ajax"," 80","Ajax",N,N,"47",0,405,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 80","Ajax",N,N,"47",0,405,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 80","Ajax",N,N,"47",0,405,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 80","Ajax",N,N,"47",0,405,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 81","Ajax",N,N,"79",0,485,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 81","Ajax",N,N,"79",0,485,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 81","Ajax",N,N,"79",0,485,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 81","Ajax",N,N,"79",0,485,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 82","Ajax",N,N,"",9,513,"Awan","","Arshad","Conservative","Conservateur",N,N,78
+35001,"Ajax","Ajax"," 82","Ajax",N,N,"",9,513,"Holland","","Mark","Liberal","Libéral",Y,Y,179
+35001,"Ajax","Ajax"," 82","Ajax",N,N,"",9,513,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+35001,"Ajax","Ajax"," 82","Ajax",N,N,"",9,513,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,14
+35001,"Ajax","Ajax"," 83","Ajax",N,N,"82",0,400,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 83","Ajax",N,N,"82",0,400,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 83","Ajax",N,N,"82",0,400,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 83","Ajax",N,N,"82",0,400,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 84","Ajax",N,N,"85",0,479,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 84","Ajax",N,N,"85",0,479,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 84","Ajax",N,N,"85",0,479,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 84","Ajax",N,N,"85",0,479,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 85","Ajax",N,N,"",7,527,"Awan","","Arshad","Conservative","Conservateur",N,N,65
+35001,"Ajax","Ajax"," 85","Ajax",N,N,"",7,527,"Holland","","Mark","Liberal","Libéral",Y,Y,207
+35001,"Ajax","Ajax"," 85","Ajax",N,N,"",7,527,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+35001,"Ajax","Ajax"," 85","Ajax",N,N,"",7,527,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,13
+35001,"Ajax","Ajax"," 86","Ajax",N,N,"",3,471,"Awan","","Arshad","Conservative","Conservateur",N,N,79
+35001,"Ajax","Ajax"," 86","Ajax",N,N,"",3,471,"Holland","","Mark","Liberal","Libéral",Y,Y,149
+35001,"Ajax","Ajax"," 86","Ajax",N,N,"",3,471,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35001,"Ajax","Ajax"," 86","Ajax",N,N,"",3,471,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,6
+35001,"Ajax","Ajax"," 87","Ajax",N,N,"86",0,448,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 87","Ajax",N,N,"86",0,448,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 87","Ajax",N,N,"86",0,448,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 87","Ajax",N,N,"86",0,448,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 88","Ajax",N,N,"",10,510,"Awan","","Arshad","Conservative","Conservateur",N,N,92
+35001,"Ajax","Ajax"," 88","Ajax",N,N,"",10,510,"Holland","","Mark","Liberal","Libéral",Y,Y,162
+35001,"Ajax","Ajax"," 88","Ajax",N,N,"",10,510,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35001,"Ajax","Ajax"," 88","Ajax",N,N,"",10,510,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,4
+35001,"Ajax","Ajax"," 89","Ajax",N,N,"88",0,481,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 89","Ajax",N,N,"88",0,481,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 89","Ajax",N,N,"88",0,481,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 89","Ajax",N,N,"88",0,481,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 90","Ajax",N,N,"",4,551,"Awan","","Arshad","Conservative","Conservateur",N,N,86
+35001,"Ajax","Ajax"," 90","Ajax",N,N,"",4,551,"Holland","","Mark","Liberal","Libéral",Y,Y,168
+35001,"Ajax","Ajax"," 90","Ajax",N,N,"",4,551,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35001,"Ajax","Ajax"," 90","Ajax",N,N,"",4,551,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,9
+35001,"Ajax","Ajax"," 91","Ajax",N,N,"90",0,541,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 91","Ajax",N,N,"90",0,541,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 91","Ajax",N,N,"90",0,541,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 91","Ajax",N,N,"90",0,541,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 92","Ajax",N,N,"107",0,441,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 92","Ajax",N,N,"107",0,441,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 92","Ajax",N,N,"107",0,441,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 92","Ajax",N,N,"107",0,441,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 93","Ajax",N,N,"94",0,466,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 93","Ajax",N,N,"94",0,466,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 93","Ajax",N,N,"94",0,466,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 93","Ajax",N,N,"94",0,466,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 94","Ajax",N,N,"",0,467,"Awan","","Arshad","Conservative","Conservateur",N,N,80
+35001,"Ajax","Ajax"," 94","Ajax",N,N,"",0,467,"Holland","","Mark","Liberal","Libéral",Y,Y,192
+35001,"Ajax","Ajax"," 94","Ajax",N,N,"",0,467,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+35001,"Ajax","Ajax"," 94","Ajax",N,N,"",0,467,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,7
+35001,"Ajax","Ajax"," 95","Ajax",N,N,"96",0,505,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 95","Ajax",N,N,"96",0,505,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 95","Ajax",N,N,"96",0,505,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 95","Ajax",N,N,"96",0,505,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 96","Ajax",N,N,"",1,523,"Awan","","Arshad","Conservative","Conservateur",N,N,104
+35001,"Ajax","Ajax"," 96","Ajax",N,N,"",1,523,"Holland","","Mark","Liberal","Libéral",Y,Y,224
+35001,"Ajax","Ajax"," 96","Ajax",N,N,"",1,523,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+35001,"Ajax","Ajax"," 96","Ajax",N,N,"",1,523,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,17
+35001,"Ajax","Ajax"," 97","Ajax",N,N,"",5,518,"Awan","","Arshad","Conservative","Conservateur",N,N,101
+35001,"Ajax","Ajax"," 97","Ajax",N,N,"",5,518,"Holland","","Mark","Liberal","Libéral",Y,Y,190
+35001,"Ajax","Ajax"," 97","Ajax",N,N,"",5,518,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35001,"Ajax","Ajax"," 97","Ajax",N,N,"",5,518,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,9
+35001,"Ajax","Ajax"," 98","Ajax",N,N,"",5,586,"Awan","","Arshad","Conservative","Conservateur",N,N,31
+35001,"Ajax","Ajax"," 98","Ajax",N,N,"",5,586,"Holland","","Mark","Liberal","Libéral",Y,Y,125
+35001,"Ajax","Ajax"," 98","Ajax",N,N,"",5,586,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+35001,"Ajax","Ajax"," 98","Ajax",N,N,"",5,586,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,1
+35001,"Ajax","Ajax"," 99","Ajax",N,N,"97",0,467,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 99","Ajax",N,N,"97",0,467,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 99","Ajax",N,N,"97",0,467,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 99","Ajax",N,N,"97",0,467,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 100","Ajax",N,N,"101",0,407,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 100","Ajax",N,N,"101",0,407,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 100","Ajax",N,N,"101",0,407,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 100","Ajax",N,N,"101",0,407,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 101","Ajax",N,N,"",2,414,"Awan","","Arshad","Conservative","Conservateur",N,N,83
+35001,"Ajax","Ajax"," 101","Ajax",N,N,"",2,414,"Holland","","Mark","Liberal","Libéral",Y,Y,169
+35001,"Ajax","Ajax"," 101","Ajax",N,N,"",2,414,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35001,"Ajax","Ajax"," 101","Ajax",N,N,"",2,414,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,3
+35001,"Ajax","Ajax"," 102","Ajax",N,N,"",0,526,"Awan","","Arshad","Conservative","Conservateur",N,N,88
+35001,"Ajax","Ajax"," 102","Ajax",N,N,"",0,526,"Holland","","Mark","Liberal","Libéral",Y,Y,166
+35001,"Ajax","Ajax"," 102","Ajax",N,N,"",0,526,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+35001,"Ajax","Ajax"," 102","Ajax",N,N,"",0,526,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,3
+35001,"Ajax","Ajax"," 103","Ajax",N,N,"102",0,414,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 103","Ajax",N,N,"102",0,414,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 103","Ajax",N,N,"102",0,414,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 103","Ajax",N,N,"102",0,414,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 104","Ajax",N,N,"105",0,450,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 104","Ajax",N,N,"105",0,450,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 104","Ajax",N,N,"105",0,450,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 104","Ajax",N,N,"105",0,450,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 105","Ajax",N,N,"",5,552,"Awan","","Arshad","Conservative","Conservateur",N,N,96
+35001,"Ajax","Ajax"," 105","Ajax",N,N,"",5,552,"Holland","","Mark","Liberal","Libéral",Y,Y,199
+35001,"Ajax","Ajax"," 105","Ajax",N,N,"",5,552,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,77
+35001,"Ajax","Ajax"," 105","Ajax",N,N,"",5,552,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,11
+35001,"Ajax","Ajax"," 106","Ajax",N,N,"",2,526,"Awan","","Arshad","Conservative","Conservateur",N,N,46
+35001,"Ajax","Ajax"," 106","Ajax",N,N,"",2,526,"Holland","","Mark","Liberal","Libéral",Y,Y,120
+35001,"Ajax","Ajax"," 106","Ajax",N,N,"",2,526,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35001,"Ajax","Ajax"," 106","Ajax",N,N,"",2,526,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,4
+35001,"Ajax","Ajax"," 107","Ajax",N,N,"",6,517,"Awan","","Arshad","Conservative","Conservateur",N,N,100
+35001,"Ajax","Ajax"," 107","Ajax",N,N,"",6,517,"Holland","","Mark","Liberal","Libéral",Y,Y,195
+35001,"Ajax","Ajax"," 107","Ajax",N,N,"",6,517,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+35001,"Ajax","Ajax"," 107","Ajax",N,N,"",6,517,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,13
+35001,"Ajax","Ajax"," 108","Ajax",N,N,"",0,559,"Awan","","Arshad","Conservative","Conservateur",N,N,69
+35001,"Ajax","Ajax"," 108","Ajax",N,N,"",0,559,"Holland","","Mark","Liberal","Libéral",Y,Y,117
+35001,"Ajax","Ajax"," 108","Ajax",N,N,"",0,559,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35001,"Ajax","Ajax"," 108","Ajax",N,N,"",0,559,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,4
+35001,"Ajax","Ajax"," 109","Ajax",N,N,"",0,524,"Awan","","Arshad","Conservative","Conservateur",N,N,94
+35001,"Ajax","Ajax"," 109","Ajax",N,N,"",0,524,"Holland","","Mark","Liberal","Libéral",Y,Y,179
+35001,"Ajax","Ajax"," 109","Ajax",N,N,"",0,524,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+35001,"Ajax","Ajax"," 109","Ajax",N,N,"",0,524,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,18
+35001,"Ajax","Ajax"," 110","Ajax",N,N,"109",0,502,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 110","Ajax",N,N,"109",0,502,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 110","Ajax",N,N,"109",0,502,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 110","Ajax",N,N,"109",0,502,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 111","Ajax",N,N,"",2,528,"Awan","","Arshad","Conservative","Conservateur",N,N,138
+35001,"Ajax","Ajax"," 111","Ajax",N,N,"",2,528,"Holland","","Mark","Liberal","Libéral",Y,Y,224
+35001,"Ajax","Ajax"," 111","Ajax",N,N,"",2,528,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35001,"Ajax","Ajax"," 111","Ajax",N,N,"",2,528,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,10
+35001,"Ajax","Ajax"," 112","Ajax",N,N,"111",0,461,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 112","Ajax",N,N,"111",0,461,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 112","Ajax",N,N,"111",0,461,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 112","Ajax",N,N,"111",0,461,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 113","Ajax",N,N,"",3,478,"Awan","","Arshad","Conservative","Conservateur",N,N,62
+35001,"Ajax","Ajax"," 113","Ajax",N,N,"",3,478,"Holland","","Mark","Liberal","Libéral",Y,Y,152
+35001,"Ajax","Ajax"," 113","Ajax",N,N,"",3,478,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35001,"Ajax","Ajax"," 113","Ajax",N,N,"",3,478,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,12
+35001,"Ajax","Ajax"," 114","Ajax",N,N,"113",0,345,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 114","Ajax",N,N,"113",0,345,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 114","Ajax",N,N,"113",0,345,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 114","Ajax",N,N,"113",0,345,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 115","Ajax",N,N,"116",0,424,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 115","Ajax",N,N,"116",0,424,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 115","Ajax",N,N,"116",0,424,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 115","Ajax",N,N,"116",0,424,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 116","Ajax",N,N,"",4,480,"Awan","","Arshad","Conservative","Conservateur",N,N,103
+35001,"Ajax","Ajax"," 116","Ajax",N,N,"",4,480,"Holland","","Mark","Liberal","Libéral",Y,Y,86
+35001,"Ajax","Ajax"," 116","Ajax",N,N,"",4,480,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+35001,"Ajax","Ajax"," 116","Ajax",N,N,"",4,480,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,16
+35001,"Ajax","Ajax"," 117","Ajax",N,N,"",4,448,"Awan","","Arshad","Conservative","Conservateur",N,N,71
+35001,"Ajax","Ajax"," 117","Ajax",N,N,"",4,448,"Holland","","Mark","Liberal","Libéral",Y,Y,167
+35001,"Ajax","Ajax"," 117","Ajax",N,N,"",4,448,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35001,"Ajax","Ajax"," 117","Ajax",N,N,"",4,448,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,8
+35001,"Ajax","Ajax"," 118","Ajax",N,N,"117",0,390,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 118","Ajax",N,N,"117",0,390,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 118","Ajax",N,N,"117",0,390,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 118","Ajax",N,N,"117",0,390,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 119","Ajax",N,N,"",3,605,"Awan","","Arshad","Conservative","Conservateur",N,N,67
+35001,"Ajax","Ajax"," 119","Ajax",N,N,"",3,605,"Holland","","Mark","Liberal","Libéral",Y,Y,133
+35001,"Ajax","Ajax"," 119","Ajax",N,N,"",3,605,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35001,"Ajax","Ajax"," 119","Ajax",N,N,"",3,605,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,4
+35001,"Ajax","Ajax"," 120","Ajax",N,N,"",4,571,"Awan","","Arshad","Conservative","Conservateur",N,N,45
+35001,"Ajax","Ajax"," 120","Ajax",N,N,"",4,571,"Holland","","Mark","Liberal","Libéral",Y,Y,78
+35001,"Ajax","Ajax"," 120","Ajax",N,N,"",4,571,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+35001,"Ajax","Ajax"," 120","Ajax",N,N,"",4,571,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,4
+35001,"Ajax","Ajax"," 121","Ajax",N,N,"",2,547,"Awan","","Arshad","Conservative","Conservateur",N,N,102
+35001,"Ajax","Ajax"," 121","Ajax",N,N,"",2,547,"Holland","","Mark","Liberal","Libéral",Y,Y,218
+35001,"Ajax","Ajax"," 121","Ajax",N,N,"",2,547,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35001,"Ajax","Ajax"," 121","Ajax",N,N,"",2,547,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,8
+35001,"Ajax","Ajax"," 122","Ajax",N,N,"121",0,489,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 122","Ajax",N,N,"121",0,489,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 122","Ajax",N,N,"121",0,489,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 122","Ajax",N,N,"121",0,489,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 123","Ajax",N,N,"",2,690,"Awan","","Arshad","Conservative","Conservateur",N,N,67
+35001,"Ajax","Ajax"," 123","Ajax",N,N,"",2,690,"Holland","","Mark","Liberal","Libéral",Y,Y,159
+35001,"Ajax","Ajax"," 123","Ajax",N,N,"",2,690,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35001,"Ajax","Ajax"," 123","Ajax",N,N,"",2,690,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,9
+35001,"Ajax","Ajax"," 124","Ajax",N,N,"125",0,480,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 124","Ajax",N,N,"125",0,480,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 124","Ajax",N,N,"125",0,480,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 124","Ajax",N,N,"125",0,480,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 125","Ajax",N,N,"",1,535,"Awan","","Arshad","Conservative","Conservateur",N,N,52
+35001,"Ajax","Ajax"," 125","Ajax",N,N,"",1,535,"Holland","","Mark","Liberal","Libéral",Y,Y,215
+35001,"Ajax","Ajax"," 125","Ajax",N,N,"",1,535,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+35001,"Ajax","Ajax"," 125","Ajax",N,N,"",1,535,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,6
+35001,"Ajax","Ajax"," 126","Ajax",N,N,"127",0,492,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 126","Ajax",N,N,"127",0,492,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 126","Ajax",N,N,"127",0,492,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 126","Ajax",N,N,"127",0,492,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 127","Ajax",N,N,"",2,492,"Awan","","Arshad","Conservative","Conservateur",N,N,95
+35001,"Ajax","Ajax"," 127","Ajax",N,N,"",2,492,"Holland","","Mark","Liberal","Libéral",Y,Y,188
+35001,"Ajax","Ajax"," 127","Ajax",N,N,"",2,492,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+35001,"Ajax","Ajax"," 127","Ajax",N,N,"",2,492,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,7
+35001,"Ajax","Ajax"," 128","Ajax",N,N,"",1,479,"Awan","","Arshad","Conservative","Conservateur",N,N,73
+35001,"Ajax","Ajax"," 128","Ajax",N,N,"",1,479,"Holland","","Mark","Liberal","Libéral",Y,Y,150
+35001,"Ajax","Ajax"," 128","Ajax",N,N,"",1,479,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+35001,"Ajax","Ajax"," 128","Ajax",N,N,"",1,479,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,7
+35001,"Ajax","Ajax"," 129","Ajax",N,N,"128",0,341,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 129","Ajax",N,N,"128",0,341,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 129","Ajax",N,N,"128",0,341,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 129","Ajax",N,N,"128",0,341,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 130","Ajax",N,N,"",9,444,"Awan","","Arshad","Conservative","Conservateur",N,N,66
+35001,"Ajax","Ajax"," 130","Ajax",N,N,"",9,444,"Holland","","Mark","Liberal","Libéral",Y,Y,171
+35001,"Ajax","Ajax"," 130","Ajax",N,N,"",9,444,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+35001,"Ajax","Ajax"," 130","Ajax",N,N,"",9,444,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,4
+35001,"Ajax","Ajax"," 131","Ajax",N,N,"130",0,419,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 131","Ajax",N,N,"130",0,419,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 131","Ajax",N,N,"130",0,419,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 131","Ajax",N,N,"130",0,419,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 132","Ajax",N,N,"",3,540,"Awan","","Arshad","Conservative","Conservateur",N,N,62
+35001,"Ajax","Ajax"," 132","Ajax",N,N,"",3,540,"Holland","","Mark","Liberal","Libéral",Y,Y,52
+35001,"Ajax","Ajax"," 132","Ajax",N,N,"",3,540,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35001,"Ajax","Ajax"," 132","Ajax",N,N,"",3,540,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,5
+35001,"Ajax","Ajax"," 133","Ajax",N,N,"134",0,405,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 133","Ajax",N,N,"134",0,405,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 133","Ajax",N,N,"134",0,405,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 133","Ajax",N,N,"134",0,405,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 134","Ajax",N,N,"",5,487,"Awan","","Arshad","Conservative","Conservateur",N,N,67
+35001,"Ajax","Ajax"," 134","Ajax",N,N,"",5,487,"Holland","","Mark","Liberal","Libéral",Y,Y,170
+35001,"Ajax","Ajax"," 134","Ajax",N,N,"",5,487,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+35001,"Ajax","Ajax"," 134","Ajax",N,N,"",5,487,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,6
+35001,"Ajax","Ajax"," 135","Ajax",N,N,"",2,366,"Awan","","Arshad","Conservative","Conservateur",N,N,73
+35001,"Ajax","Ajax"," 135","Ajax",N,N,"",2,366,"Holland","","Mark","Liberal","Libéral",Y,Y,61
+35001,"Ajax","Ajax"," 135","Ajax",N,N,"",2,366,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+35001,"Ajax","Ajax"," 135","Ajax",N,N,"",2,366,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,7
+35001,"Ajax","Ajax"," 136","Ajax",N,N,"",1,455,"Awan","","Arshad","Conservative","Conservateur",N,N,85
+35001,"Ajax","Ajax"," 136","Ajax",N,N,"",1,455,"Holland","","Mark","Liberal","Libéral",Y,Y,65
+35001,"Ajax","Ajax"," 136","Ajax",N,N,"",1,455,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+35001,"Ajax","Ajax"," 136","Ajax",N,N,"",1,455,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,12
+35001,"Ajax","Ajax"," 137","Ajax",N,N,"",2,735,"Awan","","Arshad","Conservative","Conservateur",N,N,87
+35001,"Ajax","Ajax"," 137","Ajax",N,N,"",2,735,"Holland","","Mark","Liberal","Libéral",Y,Y,152
+35001,"Ajax","Ajax"," 137","Ajax",N,N,"",2,735,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+35001,"Ajax","Ajax"," 137","Ajax",N,N,"",2,735,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,19
+35001,"Ajax","Ajax"," 138","Ajax",N,N,"135",0,109,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 138","Ajax",N,N,"135",0,109,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 138","Ajax",N,N,"135",0,109,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 138","Ajax",N,N,"135",0,109,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 139","Ajax",N,N,"",0,426,"Awan","","Arshad","Conservative","Conservateur",N,N,80
+35001,"Ajax","Ajax"," 139","Ajax",N,N,"",0,426,"Holland","","Mark","Liberal","Libéral",Y,Y,124
+35001,"Ajax","Ajax"," 139","Ajax",N,N,"",0,426,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35001,"Ajax","Ajax"," 139","Ajax",N,N,"",0,426,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,3
+35001,"Ajax","Ajax"," 140","Ajax",N,N,"139",0,412,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 140","Ajax",N,N,"139",0,412,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 140","Ajax",N,N,"139",0,412,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 140","Ajax",N,N,"139",0,412,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 141","Ajax",N,N,"",1,501,"Awan","","Arshad","Conservative","Conservateur",N,N,49
+35001,"Ajax","Ajax"," 141","Ajax",N,N,"",1,501,"Holland","","Mark","Liberal","Libéral",Y,Y,104
+35001,"Ajax","Ajax"," 141","Ajax",N,N,"",1,501,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+35001,"Ajax","Ajax"," 141","Ajax",N,N,"",1,501,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,8
+35001,"Ajax","Ajax"," 142","Ajax",N,N,"143",0,477,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 142","Ajax",N,N,"143",0,477,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 142","Ajax",N,N,"143",0,477,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 142","Ajax",N,N,"143",0,477,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 143","Ajax",N,N,"",0,473,"Awan","","Arshad","Conservative","Conservateur",N,N,77
+35001,"Ajax","Ajax"," 143","Ajax",N,N,"",0,473,"Holland","","Mark","Liberal","Libéral",Y,Y,108
+35001,"Ajax","Ajax"," 143","Ajax",N,N,"",0,473,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+35001,"Ajax","Ajax"," 143","Ajax",N,N,"",0,473,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,8
+35001,"Ajax","Ajax"," 144","Ajax",N,N,"",0,491,"Awan","","Arshad","Conservative","Conservateur",N,N,32
+35001,"Ajax","Ajax"," 144","Ajax",N,N,"",0,491,"Holland","","Mark","Liberal","Libéral",Y,Y,75
+35001,"Ajax","Ajax"," 144","Ajax",N,N,"",0,491,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+35001,"Ajax","Ajax"," 144","Ajax",N,N,"",0,491,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,12
+35001,"Ajax","Ajax"," 145","Ajax",N,N,"",0,431,"Awan","","Arshad","Conservative","Conservateur",N,N,42
+35001,"Ajax","Ajax"," 145","Ajax",N,N,"",0,431,"Holland","","Mark","Liberal","Libéral",Y,Y,160
+35001,"Ajax","Ajax"," 145","Ajax",N,N,"",0,431,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+35001,"Ajax","Ajax"," 145","Ajax",N,N,"",0,431,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,7
+35001,"Ajax","Ajax"," 146","Ajax",N,N,"145",0,418,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 146","Ajax",N,N,"145",0,418,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 146","Ajax",N,N,"145",0,418,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 146","Ajax",N,N,"145",0,418,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 147","Ajax",N,N,"",3,502,"Awan","","Arshad","Conservative","Conservateur",N,N,73
+35001,"Ajax","Ajax"," 147","Ajax",N,N,"",3,502,"Holland","","Mark","Liberal","Libéral",Y,Y,114
+35001,"Ajax","Ajax"," 147","Ajax",N,N,"",3,502,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35001,"Ajax","Ajax"," 147","Ajax",N,N,"",3,502,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,4
+35001,"Ajax","Ajax"," 148","Ajax",N,N,"147",0,408,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 148","Ajax",N,N,"147",0,408,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 148","Ajax",N,N,"147",0,408,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 148","Ajax",N,N,"147",0,408,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 149","Ajax",N,N,"",4,413,"Awan","","Arshad","Conservative","Conservateur",N,N,105
+35001,"Ajax","Ajax"," 149","Ajax",N,N,"",4,413,"Holland","","Mark","Liberal","Libéral",Y,Y,145
+35001,"Ajax","Ajax"," 149","Ajax",N,N,"",4,413,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+35001,"Ajax","Ajax"," 149","Ajax",N,N,"",4,413,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,18
+35001,"Ajax","Ajax"," 150","Ajax",N,N,"149",0,370,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 150","Ajax",N,N,"149",0,370,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 150","Ajax",N,N,"149",0,370,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 150","Ajax",N,N,"149",0,370,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 151","Ajax",N,N,"152",0,519,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 151","Ajax",N,N,"152",0,519,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 151","Ajax",N,N,"152",0,519,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 151","Ajax",N,N,"152",0,519,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 152","Ajax",N,N,"",0,681,"Awan","","Arshad","Conservative","Conservateur",N,N,64
+35001,"Ajax","Ajax"," 152","Ajax",N,N,"",0,681,"Holland","","Mark","Liberal","Libéral",Y,Y,169
+35001,"Ajax","Ajax"," 152","Ajax",N,N,"",0,681,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+35001,"Ajax","Ajax"," 152","Ajax",N,N,"",0,681,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,12
+35001,"Ajax","Ajax"," 153","Ajax",N,N,"",3,532,"Awan","","Arshad","Conservative","Conservateur",N,N,81
+35001,"Ajax","Ajax"," 153","Ajax",N,N,"",3,532,"Holland","","Mark","Liberal","Libéral",Y,Y,128
+35001,"Ajax","Ajax"," 153","Ajax",N,N,"",3,532,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,81
+35001,"Ajax","Ajax"," 153","Ajax",N,N,"",3,532,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,15
+35001,"Ajax","Ajax"," 154","Ajax",N,N,"153",0,494,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 154","Ajax",N,N,"153",0,494,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 154","Ajax",N,N,"153",0,494,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 154","Ajax",N,N,"153",0,494,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 155","Ajax",N,N,"149",0,396,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 155","Ajax",N,N,"149",0,396,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 155","Ajax",N,N,"149",0,396,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 155","Ajax",N,N,"149",0,396,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 156","Ajax",N,N,"",2,479,"Awan","","Arshad","Conservative","Conservateur",N,N,76
+35001,"Ajax","Ajax"," 156","Ajax",N,N,"",2,479,"Holland","","Mark","Liberal","Libéral",Y,Y,137
+35001,"Ajax","Ajax"," 156","Ajax",N,N,"",2,479,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35001,"Ajax","Ajax"," 156","Ajax",N,N,"",2,479,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,15
+35001,"Ajax","Ajax"," 157","Ajax",N,N,"156",0,439,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 157","Ajax",N,N,"156",0,439,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 157","Ajax",N,N,"156",0,439,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 157","Ajax",N,N,"156",0,439,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 158","Ajax",N,N,"",2,403,"Awan","","Arshad","Conservative","Conservateur",N,N,80
+35001,"Ajax","Ajax"," 158","Ajax",N,N,"",2,403,"Holland","","Mark","Liberal","Libéral",Y,Y,124
+35001,"Ajax","Ajax"," 158","Ajax",N,N,"",2,403,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+35001,"Ajax","Ajax"," 158","Ajax",N,N,"",2,403,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,7
+35001,"Ajax","Ajax"," 159","Ajax",N,N,"158",0,365,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 159","Ajax",N,N,"158",0,365,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 159","Ajax",N,N,"158",0,365,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 159","Ajax",N,N,"158",0,365,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 160","Ajax",N,N,"161",0,371,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 160","Ajax",N,N,"161",0,371,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 160","Ajax",N,N,"161",0,371,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 160","Ajax",N,N,"161",0,371,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 161","Ajax",N,N,"",1,491,"Awan","","Arshad","Conservative","Conservateur",N,N,101
+35001,"Ajax","Ajax"," 161","Ajax",N,N,"",1,491,"Holland","","Mark","Liberal","Libéral",Y,Y,118
+35001,"Ajax","Ajax"," 161","Ajax",N,N,"",1,491,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+35001,"Ajax","Ajax"," 161","Ajax",N,N,"",1,491,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,12
+35001,"Ajax","Ajax"," 162","Ajax",N,N,"",2,489,"Awan","","Arshad","Conservative","Conservateur",N,N,59
+35001,"Ajax","Ajax"," 162","Ajax",N,N,"",2,489,"Holland","","Mark","Liberal","Libéral",Y,Y,60
+35001,"Ajax","Ajax"," 162","Ajax",N,N,"",2,489,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+35001,"Ajax","Ajax"," 162","Ajax",N,N,"",2,489,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,4
+35001,"Ajax","Ajax"," 163","Ajax",N,N,"164",0,360,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 163","Ajax",N,N,"164",0,360,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 163","Ajax",N,N,"164",0,360,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 163","Ajax",N,N,"164",0,360,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 164","Ajax",N,N,"",0,498,"Awan","","Arshad","Conservative","Conservateur",N,N,88
+35001,"Ajax","Ajax"," 164","Ajax",N,N,"",0,498,"Holland","","Mark","Liberal","Libéral",Y,Y,115
+35001,"Ajax","Ajax"," 164","Ajax",N,N,"",0,498,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35001,"Ajax","Ajax"," 164","Ajax",N,N,"",0,498,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,12
+35001,"Ajax","Ajax"," 165","Ajax",N,N,"",4,437,"Awan","","Arshad","Conservative","Conservateur",N,N,89
+35001,"Ajax","Ajax"," 165","Ajax",N,N,"",4,437,"Holland","","Mark","Liberal","Libéral",Y,Y,101
+35001,"Ajax","Ajax"," 165","Ajax",N,N,"",4,437,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+35001,"Ajax","Ajax"," 165","Ajax",N,N,"",4,437,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,9
+35001,"Ajax","Ajax"," 166","Ajax",N,N,"165",0,426,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 166","Ajax",N,N,"165",0,426,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 166","Ajax",N,N,"165",0,426,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 166","Ajax",N,N,"165",0,426,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 167","Ajax",N,N,"168",0,448,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 167","Ajax",N,N,"168",0,448,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 167","Ajax",N,N,"168",0,448,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 167","Ajax",N,N,"168",0,448,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 168","Ajax",N,N,"",0,513,"Awan","","Arshad","Conservative","Conservateur",N,N,74
+35001,"Ajax","Ajax"," 168","Ajax",N,N,"",0,513,"Holland","","Mark","Liberal","Libéral",Y,Y,121
+35001,"Ajax","Ajax"," 168","Ajax",N,N,"",0,513,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+35001,"Ajax","Ajax"," 168","Ajax",N,N,"",0,513,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,13
+35001,"Ajax","Ajax"," 169","Ajax",N,N,"170",0,408,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 169","Ajax",N,N,"170",0,408,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 169","Ajax",N,N,"170",0,408,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 169","Ajax",N,N,"170",0,408,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 170","Ajax",N,N,"",1,425,"Awan","","Arshad","Conservative","Conservateur",N,N,72
+35001,"Ajax","Ajax"," 170","Ajax",N,N,"",1,425,"Holland","","Mark","Liberal","Libéral",Y,Y,94
+35001,"Ajax","Ajax"," 170","Ajax",N,N,"",1,425,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+35001,"Ajax","Ajax"," 170","Ajax",N,N,"",1,425,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,12
+35001,"Ajax","Ajax"," 171","Ajax",N,N,"",3,400,"Awan","","Arshad","Conservative","Conservateur",N,N,51
+35001,"Ajax","Ajax"," 171","Ajax",N,N,"",3,400,"Holland","","Mark","Liberal","Libéral",Y,Y,99
+35001,"Ajax","Ajax"," 171","Ajax",N,N,"",3,400,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+35001,"Ajax","Ajax"," 171","Ajax",N,N,"",3,400,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,9
+35001,"Ajax","Ajax"," 172","Ajax",N,N,"171",0,386,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 172","Ajax",N,N,"171",0,386,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 172","Ajax",N,N,"171",0,386,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 172","Ajax",N,N,"171",0,386,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 173","Ajax",N,N,"",2,442,"Awan","","Arshad","Conservative","Conservateur",N,N,79
+35001,"Ajax","Ajax"," 173","Ajax",N,N,"",2,442,"Holland","","Mark","Liberal","Libéral",Y,Y,100
+35001,"Ajax","Ajax"," 173","Ajax",N,N,"",2,442,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+35001,"Ajax","Ajax"," 173","Ajax",N,N,"",2,442,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,14
+35001,"Ajax","Ajax"," 174","Ajax",N,N,"173",0,395,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 174","Ajax",N,N,"173",0,395,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 174","Ajax",N,N,"173",0,395,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 174","Ajax",N,N,"173",0,395,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 175","Ajax",N,N,"176",0,406,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 175","Ajax",N,N,"176",0,406,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 175","Ajax",N,N,"176",0,406,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 175","Ajax",N,N,"176",0,406,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 176","Ajax",N,N,"",3,502,"Awan","","Arshad","Conservative","Conservateur",N,N,88
+35001,"Ajax","Ajax"," 176","Ajax",N,N,"",3,502,"Holland","","Mark","Liberal","Libéral",Y,Y,145
+35001,"Ajax","Ajax"," 176","Ajax",N,N,"",3,502,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+35001,"Ajax","Ajax"," 176","Ajax",N,N,"",3,502,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,6
+35001,"Ajax","Ajax"," 177","Ajax",N,N,"",2,446,"Awan","","Arshad","Conservative","Conservateur",N,N,61
+35001,"Ajax","Ajax"," 177","Ajax",N,N,"",2,446,"Holland","","Mark","Liberal","Libéral",Y,Y,112
+35001,"Ajax","Ajax"," 177","Ajax",N,N,"",2,446,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+35001,"Ajax","Ajax"," 177","Ajax",N,N,"",2,446,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,4
+35001,"Ajax","Ajax"," 178","Ajax",N,N,"179",0,462,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 178","Ajax",N,N,"179",0,462,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 178","Ajax",N,N,"179",0,462,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 178","Ajax",N,N,"179",0,462,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 179","Ajax",N,N,"",2,475,"Awan","","Arshad","Conservative","Conservateur",N,N,86
+35001,"Ajax","Ajax"," 179","Ajax",N,N,"",2,475,"Holland","","Mark","Liberal","Libéral",Y,Y,128
+35001,"Ajax","Ajax"," 179","Ajax",N,N,"",2,475,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+35001,"Ajax","Ajax"," 179","Ajax",N,N,"",2,475,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,13
+35001,"Ajax","Ajax"," 180","Ajax",N,N,"",5,493,"Awan","","Arshad","Conservative","Conservateur",N,N,109
+35001,"Ajax","Ajax"," 180","Ajax",N,N,"",5,493,"Holland","","Mark","Liberal","Libéral",Y,Y,157
+35001,"Ajax","Ajax"," 180","Ajax",N,N,"",5,493,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+35001,"Ajax","Ajax"," 180","Ajax",N,N,"",5,493,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,10
+35001,"Ajax","Ajax"," 181","Ajax",N,N,"180",0,450,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 181","Ajax",N,N,"180",0,450,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 181","Ajax",N,N,"180",0,450,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 181","Ajax",N,N,"180",0,450,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 182","Ajax",N,N,"183",0,348,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 182","Ajax",N,N,"183",0,348,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 182","Ajax",N,N,"183",0,348,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 182","Ajax",N,N,"183",0,348,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 183","Ajax",N,N,"",2,476,"Awan","","Arshad","Conservative","Conservateur",N,N,118
+35001,"Ajax","Ajax"," 183","Ajax",N,N,"",2,476,"Holland","","Mark","Liberal","Libéral",Y,Y,119
+35001,"Ajax","Ajax"," 183","Ajax",N,N,"",2,476,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+35001,"Ajax","Ajax"," 183","Ajax",N,N,"",2,476,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,5
+35001,"Ajax","Ajax"," 184","Ajax",N,N,"",0,443,"Awan","","Arshad","Conservative","Conservateur",N,N,100
+35001,"Ajax","Ajax"," 184","Ajax",N,N,"",0,443,"Holland","","Mark","Liberal","Libéral",Y,Y,102
+35001,"Ajax","Ajax"," 184","Ajax",N,N,"",0,443,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+35001,"Ajax","Ajax"," 184","Ajax",N,N,"",0,443,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,6
+35001,"Ajax","Ajax"," 185","Ajax",N,N,"184",0,353,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 185","Ajax",N,N,"184",0,353,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 185","Ajax",N,N,"184",0,353,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 185","Ajax",N,N,"184",0,353,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 400","Ajax",N,N,"",4,105,"Awan","","Arshad","Conservative","Conservateur",N,N,20
+35001,"Ajax","Ajax"," 400","Ajax",N,N,"",4,105,"Holland","","Mark","Liberal","Libéral",Y,Y,52
+35001,"Ajax","Ajax"," 400","Ajax",N,N,"",4,105,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+35001,"Ajax","Ajax"," 400","Ajax",N,N,"",4,105,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 401","Ajax",N,N,"",3,227,"Awan","","Arshad","Conservative","Conservateur",N,N,35
+35001,"Ajax","Ajax"," 401","Ajax",N,N,"",3,227,"Holland","","Mark","Liberal","Libéral",Y,Y,83
+35001,"Ajax","Ajax"," 401","Ajax",N,N,"",3,227,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+35001,"Ajax","Ajax"," 401","Ajax",N,N,"",3,227,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,2
+35001,"Ajax","Ajax"," 402","Ajax",N,N,"",3,192,"Awan","","Arshad","Conservative","Conservateur",N,N,56
+35001,"Ajax","Ajax"," 402","Ajax",N,N,"",3,192,"Holland","","Mark","Liberal","Libéral",Y,Y,59
+35001,"Ajax","Ajax"," 402","Ajax",N,N,"",3,192,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+35001,"Ajax","Ajax"," 402","Ajax",N,N,"",3,192,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,2
+35001,"Ajax","Ajax"," 403","Ajax",N,N,"",6,332,"Awan","","Arshad","Conservative","Conservateur",N,N,47
+35001,"Ajax","Ajax"," 403","Ajax",N,N,"",6,332,"Holland","","Mark","Liberal","Libéral",Y,Y,104
+35001,"Ajax","Ajax"," 403","Ajax",N,N,"",6,332,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+35001,"Ajax","Ajax"," 403","Ajax",N,N,"",6,332,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,4
+35001,"Ajax","Ajax"," 404","Ajax",N,N,"",13,303,"Awan","","Arshad","Conservative","Conservateur",N,N,50
+35001,"Ajax","Ajax"," 404","Ajax",N,N,"",13,303,"Holland","","Mark","Liberal","Libéral",Y,Y,91
+35001,"Ajax","Ajax"," 404","Ajax",N,N,"",13,303,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+35001,"Ajax","Ajax"," 404","Ajax",N,N,"",13,303,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,5
+35001,"Ajax","Ajax"," 405","Ajax",N,N,"177",0,330,"Awan","","Arshad","Conservative","Conservateur",N,N,0
+35001,"Ajax","Ajax"," 405","Ajax",N,N,"177",0,330,"Holland","","Mark","Liberal","Libéral",Y,Y,0
+35001,"Ajax","Ajax"," 405","Ajax",N,N,"177",0,330,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 405","Ajax",N,N,"177",0,330,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 406","Ajax",N,N,"",2,311,"Awan","","Arshad","Conservative","Conservateur",N,N,48
+35001,"Ajax","Ajax"," 406","Ajax",N,N,"",2,311,"Holland","","Mark","Liberal","Libéral",Y,Y,90
+35001,"Ajax","Ajax"," 406","Ajax",N,N,"",2,311,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+35001,"Ajax","Ajax"," 406","Ajax",N,N,"",2,311,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,6
+35001,"Ajax","Ajax"," 407","Ajax",N,N,"",0,345,"Awan","","Arshad","Conservative","Conservateur",N,N,35
+35001,"Ajax","Ajax"," 407","Ajax",N,N,"",0,345,"Holland","","Mark","Liberal","Libéral",Y,Y,74
+35001,"Ajax","Ajax"," 407","Ajax",N,N,"",0,345,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+35001,"Ajax","Ajax"," 407","Ajax",N,N,"",0,345,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,4
+35001,"Ajax","Ajax"," 408","Ajax",N,N,"",0,279,"Awan","","Arshad","Conservative","Conservateur",N,N,27
+35001,"Ajax","Ajax"," 408","Ajax",N,N,"",0,279,"Holland","","Mark","Liberal","Libéral",Y,Y,73
+35001,"Ajax","Ajax"," 408","Ajax",N,N,"",0,279,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+35001,"Ajax","Ajax"," 408","Ajax",N,N,"",0,279,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,4
+35001,"Ajax","Ajax"," 500","Mobile poll/Bureau itinérant",N,N,"",0,64,"Awan","","Arshad","Conservative","Conservateur",N,N,8
+35001,"Ajax","Ajax"," 500","Mobile poll/Bureau itinérant",N,N,"",0,64,"Holland","","Mark","Liberal","Libéral",Y,Y,7
+35001,"Ajax","Ajax"," 500","Mobile poll/Bureau itinérant",N,N,"",0,64,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 500","Mobile poll/Bureau itinérant",N,N,"",0,64,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 501","Mobile poll/Bureau itinérant",N,N,"",3,113,"Awan","","Arshad","Conservative","Conservateur",N,N,16
+35001,"Ajax","Ajax"," 501","Mobile poll/Bureau itinérant",N,N,"",3,113,"Holland","","Mark","Liberal","Libéral",Y,Y,31
+35001,"Ajax","Ajax"," 501","Mobile poll/Bureau itinérant",N,N,"",3,113,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35001,"Ajax","Ajax"," 501","Mobile poll/Bureau itinérant",N,N,"",3,113,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,2
+35001,"Ajax","Ajax"," 502","Mobile poll/Bureau itinérant",N,N,"",0,55,"Awan","","Arshad","Conservative","Conservateur",N,N,6
+35001,"Ajax","Ajax"," 502","Mobile poll/Bureau itinérant",N,N,"",0,55,"Holland","","Mark","Liberal","Libéral",Y,Y,5
+35001,"Ajax","Ajax"," 502","Mobile poll/Bureau itinérant",N,N,"",0,55,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+35001,"Ajax","Ajax"," 502","Mobile poll/Bureau itinérant",N,N,"",0,55,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,0
+35001,"Ajax","Ajax"," 503","Mobile poll/Bureau itinérant",N,N,"",0,86,"Awan","","Arshad","Conservative","Conservateur",N,N,4
+35001,"Ajax","Ajax"," 503","Mobile poll/Bureau itinérant",N,N,"",0,86,"Holland","","Mark","Liberal","Libéral",Y,Y,29
+35001,"Ajax","Ajax"," 503","Mobile poll/Bureau itinérant",N,N,"",0,86,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+35001,"Ajax","Ajax"," 503","Mobile poll/Bureau itinérant",N,N,"",0,86,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,1
+35001,"Ajax","Ajax"," 504","Mobile poll/Bureau itinérant",N,N,"",5,126,"Awan","","Arshad","Conservative","Conservateur",N,N,7
+35001,"Ajax","Ajax"," 504","Mobile poll/Bureau itinérant",N,N,"",5,126,"Holland","","Mark","Liberal","Libéral",Y,Y,38
+35001,"Ajax","Ajax"," 504","Mobile poll/Bureau itinérant",N,N,"",5,126,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+35001,"Ajax","Ajax"," 504","Mobile poll/Bureau itinérant",N,N,"",5,126,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,1
+35001,"Ajax","Ajax"," 505","Mobile poll/Bureau itinérant",N,N,"",1,75,"Awan","","Arshad","Conservative","Conservateur",N,N,12
+35001,"Ajax","Ajax"," 505","Mobile poll/Bureau itinérant",N,N,"",1,75,"Holland","","Mark","Liberal","Libéral",Y,Y,26
+35001,"Ajax","Ajax"," 505","Mobile poll/Bureau itinérant",N,N,"",1,75,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+35001,"Ajax","Ajax"," 505","Mobile poll/Bureau itinérant",N,N,"",1,75,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,1
+35001,"Ajax","Ajax"," 600","Ajax",N,N,"",5,0,"Awan","","Arshad","Conservative","Conservateur",N,N,195
+35001,"Ajax","Ajax"," 600","Ajax",N,N,"",5,0,"Holland","","Mark","Liberal","Libéral",Y,Y,483
+35001,"Ajax","Ajax"," 600","Ajax",N,N,"",5,0,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+35001,"Ajax","Ajax"," 600","Ajax",N,N,"",5,0,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,13
+35001,"Ajax","Ajax"," 601","Ajax",N,N,"",4,0,"Awan","","Arshad","Conservative","Conservateur",N,N,192
+35001,"Ajax","Ajax"," 601","Ajax",N,N,"",4,0,"Holland","","Mark","Liberal","Libéral",Y,Y,670
+35001,"Ajax","Ajax"," 601","Ajax",N,N,"",4,0,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,88
+35001,"Ajax","Ajax"," 601","Ajax",N,N,"",4,0,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,14
+35001,"Ajax","Ajax"," 602","Ajax",N,N,"",5,0,"Awan","","Arshad","Conservative","Conservateur",N,N,240
+35001,"Ajax","Ajax"," 602","Ajax",N,N,"",5,0,"Holland","","Mark","Liberal","Libéral",Y,Y,607
+35001,"Ajax","Ajax"," 602","Ajax",N,N,"",5,0,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,108
+35001,"Ajax","Ajax"," 602","Ajax",N,N,"",5,0,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,26
+35001,"Ajax","Ajax"," 603","Ajax",N,N,"",1,0,"Awan","","Arshad","Conservative","Conservateur",N,N,248
+35001,"Ajax","Ajax"," 603","Ajax",N,N,"",1,0,"Holland","","Mark","Liberal","Libéral",Y,Y,653
+35001,"Ajax","Ajax"," 603","Ajax",N,N,"",1,0,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,91
+35001,"Ajax","Ajax"," 603","Ajax",N,N,"",1,0,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,12
+35001,"Ajax","Ajax"," 604","Ajax",N,N,"",2,0,"Awan","","Arshad","Conservative","Conservateur",N,N,202
+35001,"Ajax","Ajax"," 604","Ajax",N,N,"",2,0,"Holland","","Mark","Liberal","Libéral",Y,Y,717
+35001,"Ajax","Ajax"," 604","Ajax",N,N,"",2,0,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,96
+35001,"Ajax","Ajax"," 604","Ajax",N,N,"",2,0,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,19
+35001,"Ajax","Ajax"," 605","Ajax",N,N,"",3,0,"Awan","","Arshad","Conservative","Conservateur",N,N,227
+35001,"Ajax","Ajax"," 605","Ajax",N,N,"",3,0,"Holland","","Mark","Liberal","Libéral",Y,Y,467
+35001,"Ajax","Ajax"," 605","Ajax",N,N,"",3,0,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,90
+35001,"Ajax","Ajax"," 605","Ajax",N,N,"",3,0,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,11
+35001,"Ajax","Ajax"," 606","Ajax",N,N,"",7,0,"Awan","","Arshad","Conservative","Conservateur",N,N,263
+35001,"Ajax","Ajax"," 606","Ajax",N,N,"",7,0,"Holland","","Mark","Liberal","Libéral",Y,Y,657
+35001,"Ajax","Ajax"," 606","Ajax",N,N,"",7,0,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,129
+35001,"Ajax","Ajax"," 606","Ajax",N,N,"",7,0,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,24
+35001,"Ajax","Ajax"," 607","Ajax",N,N,"",4,0,"Awan","","Arshad","Conservative","Conservateur",N,N,302
+35001,"Ajax","Ajax"," 607","Ajax",N,N,"",4,0,"Holland","","Mark","Liberal","Libéral",Y,Y,496
+35001,"Ajax","Ajax"," 607","Ajax",N,N,"",4,0,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,94
+35001,"Ajax","Ajax"," 607","Ajax",N,N,"",4,0,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,16
+35001,"Ajax","Ajax"," 608","Ajax",N,N,"",8,0,"Awan","","Arshad","Conservative","Conservateur",N,N,223
+35001,"Ajax","Ajax"," 608","Ajax",N,N,"",8,0,"Holland","","Mark","Liberal","Libéral",Y,Y,531
+35001,"Ajax","Ajax"," 608","Ajax",N,N,"",8,0,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,104
+35001,"Ajax","Ajax"," 608","Ajax",N,N,"",8,0,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,10
+35001,"Ajax","Ajax"," 609","Ajax",N,N,"",0,0,"Awan","","Arshad","Conservative","Conservateur",N,N,336
+35001,"Ajax","Ajax"," 609","Ajax",N,N,"",0,0,"Holland","","Mark","Liberal","Libéral",Y,Y,695
+35001,"Ajax","Ajax"," 609","Ajax",N,N,"",0,0,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,88
+35001,"Ajax","Ajax"," 609","Ajax",N,N,"",0,0,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,17
+35001,"Ajax","Ajax"," 610","Ajax",N,N,"",5,0,"Awan","","Arshad","Conservative","Conservateur",N,N,362
+35001,"Ajax","Ajax"," 610","Ajax",N,N,"",5,0,"Holland","","Mark","Liberal","Libéral",Y,Y,549
+35001,"Ajax","Ajax"," 610","Ajax",N,N,"",5,0,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,119
+35001,"Ajax","Ajax"," 610","Ajax",N,N,"",5,0,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,21
+35001,"Ajax","Ajax"," 611","Ajax",N,N,"",2,0,"Awan","","Arshad","Conservative","Conservateur",N,N,273
+35001,"Ajax","Ajax"," 611","Ajax",N,N,"",2,0,"Holland","","Mark","Liberal","Libéral",Y,Y,539
+35001,"Ajax","Ajax"," 611","Ajax",N,N,"",2,0,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,119
+35001,"Ajax","Ajax"," 611","Ajax",N,N,"",2,0,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,30
+35001,"Ajax","Ajax"," 612","Ajax",N,N,"",5,0,"Awan","","Arshad","Conservative","Conservateur",N,N,225
+35001,"Ajax","Ajax"," 612","Ajax",N,N,"",5,0,"Holland","","Mark","Liberal","Libéral",Y,Y,568
+35001,"Ajax","Ajax"," 612","Ajax",N,N,"",5,0,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,106
+35001,"Ajax","Ajax"," 612","Ajax",N,N,"",5,0,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,36
+35001,"Ajax","Ajax"," 613","Ajax",N,N,"",8,0,"Awan","","Arshad","Conservative","Conservateur",N,N,261
+35001,"Ajax","Ajax"," 613","Ajax",N,N,"",8,0,"Holland","","Mark","Liberal","Libéral",Y,Y,396
+35001,"Ajax","Ajax"," 613","Ajax",N,N,"",8,0,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,112
+35001,"Ajax","Ajax"," 613","Ajax",N,N,"",8,0,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,13
+35001,"Ajax","Ajax"," 614","Ajax",N,N,"",6,0,"Awan","","Arshad","Conservative","Conservateur",N,N,466
+35001,"Ajax","Ajax"," 614","Ajax",N,N,"",6,0,"Holland","","Mark","Liberal","Libéral",Y,Y,632
+35001,"Ajax","Ajax"," 614","Ajax",N,N,"",6,0,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,127
+35001,"Ajax","Ajax"," 614","Ajax",N,N,"",6,0,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,36
+35001,"Ajax","Ajax"," 615","Ajax",N,N,"",7,0,"Awan","","Arshad","Conservative","Conservateur",N,N,522
+35001,"Ajax","Ajax"," 615","Ajax",N,N,"",7,0,"Holland","","Mark","Liberal","Libéral",Y,Y,717
+35001,"Ajax","Ajax"," 615","Ajax",N,N,"",7,0,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,176
+35001,"Ajax","Ajax"," 615","Ajax",N,N,"",7,0,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,38
+35001,"Ajax","Ajax"," 616","Ajax",N,N,"",7,0,"Awan","","Arshad","Conservative","Conservateur",N,N,502
+35001,"Ajax","Ajax"," 616","Ajax",N,N,"",7,0,"Holland","","Mark","Liberal","Libéral",Y,Y,775
+35001,"Ajax","Ajax"," 616","Ajax",N,N,"",7,0,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,168
+35001,"Ajax","Ajax"," 616","Ajax",N,N,"",7,0,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,59
+35001,"Ajax","Ajax"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",16,167,"Awan","","Arshad","Conservative","Conservateur",N,N,82
+35001,"Ajax","Ajax"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",16,167,"Holland","","Mark","Liberal","Libéral",Y,Y,149
+35001,"Ajax","Ajax"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",16,167,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,97
+35001,"Ajax","Ajax"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",16,167,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,11
+35001,"Ajax","Ajax"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",137,0,"Awan","","Arshad","Conservative","Conservateur",N,N,604
+35001,"Ajax","Ajax"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",137,0,"Holland","","Mark","Liberal","Libéral",Y,Y,1325
+35001,"Ajax","Ajax"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",137,0,"Hughes","","Monique","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,313
+35001,"Ajax","Ajax"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",137,0,"Paulseth","","Leigh","Green Party","Parti Vert",N,N,73

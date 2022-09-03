@@ -1,0 +1,981 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+12011,"West Nova","Nova-Ouest"," 1","Canada Creek",N,N,"",0,326,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12011,"West Nova","Nova-Ouest"," 1","Canada Creek",N,N,"",0,326,"Chamberlain","","Alxys","Liberal","Libéral",N,N,47
+12011,"West Nova","Nova-Ouest"," 1","Canada Creek",N,N,"",0,326,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,61
+12011,"West Nova","Nova-Ouest"," 1","Canada Creek",N,N,"",0,326,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,13
+12011,"West Nova","Nova-Ouest"," 2","Harbourville",N,N,"",1,366,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+12011,"West Nova","Nova-Ouest"," 2","Harbourville",N,N,"",1,366,"Chamberlain","","Alxys","Liberal","Libéral",N,N,49
+12011,"West Nova","Nova-Ouest"," 2","Harbourville",N,N,"",1,366,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,79
+12011,"West Nova","Nova-Ouest"," 2","Harbourville",N,N,"",1,366,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,28
+12011,"West Nova","Nova-Ouest"," 3","Grafton",N,N,"",0,305,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12011,"West Nova","Nova-Ouest"," 3","Grafton",N,N,"",0,305,"Chamberlain","","Alxys","Liberal","Libéral",N,N,32
+12011,"West Nova","Nova-Ouest"," 3","Grafton",N,N,"",0,305,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,41
+12011,"West Nova","Nova-Ouest"," 3","Grafton",N,N,"",0,305,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,12
+12011,"West Nova","Nova-Ouest"," 4","Somerset",N,N,"",2,298,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12011,"West Nova","Nova-Ouest"," 4","Somerset",N,N,"",2,298,"Chamberlain","","Alxys","Liberal","Libéral",N,N,38
+12011,"West Nova","Nova-Ouest"," 4","Somerset",N,N,"",2,298,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,55
+12011,"West Nova","Nova-Ouest"," 4","Somerset",N,N,"",2,298,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,11
+12011,"West Nova","Nova-Ouest"," 5","Berwick",N,N,"",0,409,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12011,"West Nova","Nova-Ouest"," 5","Berwick",N,N,"",0,409,"Chamberlain","","Alxys","Liberal","Libéral",N,N,73
+12011,"West Nova","Nova-Ouest"," 5","Berwick",N,N,"",0,409,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,33
+12011,"West Nova","Nova-Ouest"," 5","Berwick",N,N,"",0,409,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,8
+12011,"West Nova","Nova-Ouest"," 6","Somerset",N,N,"",1,383,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12011,"West Nova","Nova-Ouest"," 6","Somerset",N,N,"",1,383,"Chamberlain","","Alxys","Liberal","Libéral",N,N,60
+12011,"West Nova","Nova-Ouest"," 6","Somerset",N,N,"",1,383,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,52
+12011,"West Nova","Nova-Ouest"," 6","Somerset",N,N,"",1,383,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,11
+12011,"West Nova","Nova-Ouest"," 7","South Berwick",N,N,"",1,446,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12011,"West Nova","Nova-Ouest"," 7","South Berwick",N,N,"",1,446,"Chamberlain","","Alxys","Liberal","Libéral",N,N,62
+12011,"West Nova","Nova-Ouest"," 7","South Berwick",N,N,"",1,446,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,63
+12011,"West Nova","Nova-Ouest"," 7","South Berwick",N,N,"",1,446,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,11
+12011,"West Nova","Nova-Ouest"," 8","Waterville",N,N,"",1,333,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12011,"West Nova","Nova-Ouest"," 8","Waterville",N,N,"",1,333,"Chamberlain","","Alxys","Liberal","Libéral",N,N,37
+12011,"West Nova","Nova-Ouest"," 8","Waterville",N,N,"",1,333,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,51
+12011,"West Nova","Nova-Ouest"," 8","Waterville",N,N,"",1,333,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,15
+12011,"West Nova","Nova-Ouest"," 9","Waterville",N,N,"",0,338,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+12011,"West Nova","Nova-Ouest"," 9","Waterville",N,N,"",0,338,"Chamberlain","","Alxys","Liberal","Libéral",N,N,44
+12011,"West Nova","Nova-Ouest"," 9","Waterville",N,N,"",0,338,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,45
+12011,"West Nova","Nova-Ouest"," 9","Waterville",N,N,"",0,338,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,13
+12011,"West Nova","Nova-Ouest"," 10","Waterville",N,N,"",0,344,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12011,"West Nova","Nova-Ouest"," 10","Waterville",N,N,"",0,344,"Chamberlain","","Alxys","Liberal","Libéral",N,N,53
+12011,"West Nova","Nova-Ouest"," 10","Waterville",N,N,"",0,344,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,50
+12011,"West Nova","Nova-Ouest"," 10","Waterville",N,N,"",0,344,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,18
+12011,"West Nova","Nova-Ouest"," 11","Windermere--South Waterville",N,N,"",0,275,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12011,"West Nova","Nova-Ouest"," 11","Windermere--South Waterville",N,N,"",0,275,"Chamberlain","","Alxys","Liberal","Libéral",N,N,17
+12011,"West Nova","Nova-Ouest"," 11","Windermere--South Waterville",N,N,"",0,275,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,39
+12011,"West Nova","Nova-Ouest"," 11","Windermere--South Waterville",N,N,"",0,275,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,9
+12011,"West Nova","Nova-Ouest"," 12","Mobile poll/Bureau itinérant",N,N,"",0,159,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12011,"West Nova","Nova-Ouest"," 12","Mobile poll/Bureau itinérant",N,N,"",0,159,"Chamberlain","","Alxys","Liberal","Libéral",N,N,25
+12011,"West Nova","Nova-Ouest"," 12","Mobile poll/Bureau itinérant",N,N,"",0,159,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,17
+12011,"West Nova","Nova-Ouest"," 12","Mobile poll/Bureau itinérant",N,N,"",0,159,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,0
+12011,"West Nova","Nova-Ouest"," 13","Morden",N,N,"",0,444,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12011,"West Nova","Nova-Ouest"," 13","Morden",N,N,"",0,444,"Chamberlain","","Alxys","Liberal","Libéral",N,N,64
+12011,"West Nova","Nova-Ouest"," 13","Morden",N,N,"",0,444,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,104
+12011,"West Nova","Nova-Ouest"," 13","Morden",N,N,"",0,444,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,24
+12011,"West Nova","Nova-Ouest"," 14","Aylesford",N,N,"",0,294,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12011,"West Nova","Nova-Ouest"," 14","Aylesford",N,N,"",0,294,"Chamberlain","","Alxys","Liberal","Libéral",N,N,47
+12011,"West Nova","Nova-Ouest"," 14","Aylesford",N,N,"",0,294,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,66
+12011,"West Nova","Nova-Ouest"," 14","Aylesford",N,N,"",0,294,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,13
+12011,"West Nova","Nova-Ouest"," 15","Aylesford",N,N,"",0,462,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+12011,"West Nova","Nova-Ouest"," 15","Aylesford",N,N,"",0,462,"Chamberlain","","Alxys","Liberal","Libéral",N,N,72
+12011,"West Nova","Nova-Ouest"," 15","Aylesford",N,N,"",0,462,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,83
+12011,"West Nova","Nova-Ouest"," 15","Aylesford",N,N,"",0,462,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,22
+12011,"West Nova","Nova-Ouest"," 16","Aylesford",N,N,"",0,350,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+12011,"West Nova","Nova-Ouest"," 16","Aylesford",N,N,"",0,350,"Chamberlain","","Alxys","Liberal","Libéral",N,N,56
+12011,"West Nova","Nova-Ouest"," 16","Aylesford",N,N,"",0,350,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,58
+12011,"West Nova","Nova-Ouest"," 16","Aylesford",N,N,"",0,350,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,20
+12011,"West Nova","Nova-Ouest"," 17A","Berwick",N,N,"",0,271,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12011,"West Nova","Nova-Ouest"," 17A","Berwick",N,N,"",0,271,"Chamberlain","","Alxys","Liberal","Libéral",N,N,34
+12011,"West Nova","Nova-Ouest"," 17A","Berwick",N,N,"",0,271,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,32
+12011,"West Nova","Nova-Ouest"," 17A","Berwick",N,N,"",0,271,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,8
+12011,"West Nova","Nova-Ouest"," 17B","Mobile poll/Bureau itinérant",N,N,"",0,28,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+12011,"West Nova","Nova-Ouest"," 17B","Mobile poll/Bureau itinérant",N,N,"",0,28,"Chamberlain","","Alxys","Liberal","Libéral",N,N,12
+12011,"West Nova","Nova-Ouest"," 17B","Mobile poll/Bureau itinérant",N,N,"",0,28,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,11
+12011,"West Nova","Nova-Ouest"," 17B","Mobile poll/Bureau itinérant",N,N,"",0,28,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,3
+12011,"West Nova","Nova-Ouest"," 18","Berwick",N,N,"",1,511,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+12011,"West Nova","Nova-Ouest"," 18","Berwick",N,N,"",1,511,"Chamberlain","","Alxys","Liberal","Libéral",N,N,73
+12011,"West Nova","Nova-Ouest"," 18","Berwick",N,N,"",1,511,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,45
+12011,"West Nova","Nova-Ouest"," 18","Berwick",N,N,"",1,511,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,8
+12011,"West Nova","Nova-Ouest"," 19","Berwick",N,N,"",0,336,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12011,"West Nova","Nova-Ouest"," 19","Berwick",N,N,"",0,336,"Chamberlain","","Alxys","Liberal","Libéral",N,N,46
+12011,"West Nova","Nova-Ouest"," 19","Berwick",N,N,"",0,336,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,24
+12011,"West Nova","Nova-Ouest"," 19","Berwick",N,N,"",0,336,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,4
+12011,"West Nova","Nova-Ouest"," 20","Berwick",N,N,"",0,348,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12011,"West Nova","Nova-Ouest"," 20","Berwick",N,N,"",0,348,"Chamberlain","","Alxys","Liberal","Libéral",N,N,34
+12011,"West Nova","Nova-Ouest"," 20","Berwick",N,N,"",0,348,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,42
+12011,"West Nova","Nova-Ouest"," 20","Berwick",N,N,"",0,348,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,3
+12011,"West Nova","Nova-Ouest"," 21","Berwick West",N,N,"",0,305,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12011,"West Nova","Nova-Ouest"," 21","Berwick West",N,N,"",0,305,"Chamberlain","","Alxys","Liberal","Libéral",N,N,22
+12011,"West Nova","Nova-Ouest"," 21","Berwick West",N,N,"",0,305,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,42
+12011,"West Nova","Nova-Ouest"," 21","Berwick West",N,N,"",0,305,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,16
+12011,"West Nova","Nova-Ouest"," 22","Morristown--Aylesford East",N,N,"",0,238,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12011,"West Nova","Nova-Ouest"," 22","Morristown--Aylesford East",N,N,"",0,238,"Chamberlain","","Alxys","Liberal","Libéral",N,N,27
+12011,"West Nova","Nova-Ouest"," 22","Morristown--Aylesford East",N,N,"",0,238,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,40
+12011,"West Nova","Nova-Ouest"," 22","Morristown--Aylesford East",N,N,"",0,238,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,5
+12011,"West Nova","Nova-Ouest"," 23","East Kingston--Auburn",N,N,"",0,350,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12011,"West Nova","Nova-Ouest"," 23","East Kingston--Auburn",N,N,"",0,350,"Chamberlain","","Alxys","Liberal","Libéral",N,N,36
+12011,"West Nova","Nova-Ouest"," 23","East Kingston--Auburn",N,N,"",0,350,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,68
+12011,"West Nova","Nova-Ouest"," 23","East Kingston--Auburn",N,N,"",0,350,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,7
+12011,"West Nova","Nova-Ouest"," 24","North Kingston",N,N,"",1,284,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12011,"West Nova","Nova-Ouest"," 24","North Kingston",N,N,"",1,284,"Chamberlain","","Alxys","Liberal","Libéral",N,N,44
+12011,"West Nova","Nova-Ouest"," 24","North Kingston",N,N,"",1,284,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,44
+12011,"West Nova","Nova-Ouest"," 24","North Kingston",N,N,"",1,284,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,5
+12011,"West Nova","Nova-Ouest"," 25","Kingston",N,N,"",3,411,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12011,"West Nova","Nova-Ouest"," 25","Kingston",N,N,"",3,411,"Chamberlain","","Alxys","Liberal","Libéral",N,N,50
+12011,"West Nova","Nova-Ouest"," 25","Kingston",N,N,"",3,411,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,70
+12011,"West Nova","Nova-Ouest"," 25","Kingston",N,N,"",3,411,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,5
+12011,"West Nova","Nova-Ouest"," 26","Kingston",N,N,"",0,626,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12011,"West Nova","Nova-Ouest"," 26","Kingston",N,N,"",0,626,"Chamberlain","","Alxys","Liberal","Libéral",N,N,63
+12011,"West Nova","Nova-Ouest"," 26","Kingston",N,N,"",0,626,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,76
+12011,"West Nova","Nova-Ouest"," 26","Kingston",N,N,"",0,626,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,17
+12011,"West Nova","Nova-Ouest"," 27","Kingston",N,N,"",0,456,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12011,"West Nova","Nova-Ouest"," 27","Kingston",N,N,"",0,456,"Chamberlain","","Alxys","Liberal","Libéral",N,N,61
+12011,"West Nova","Nova-Ouest"," 27","Kingston",N,N,"",0,456,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,67
+12011,"West Nova","Nova-Ouest"," 27","Kingston",N,N,"",0,456,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,5
+12011,"West Nova","Nova-Ouest"," 28","Kingston",N,N,"",0,382,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12011,"West Nova","Nova-Ouest"," 28","Kingston",N,N,"",0,382,"Chamberlain","","Alxys","Liberal","Libéral",N,N,42
+12011,"West Nova","Nova-Ouest"," 28","Kingston",N,N,"",0,382,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,57
+12011,"West Nova","Nova-Ouest"," 28","Kingston",N,N,"",0,382,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,5
+12011,"West Nova","Nova-Ouest"," 29","Kingston",N,N,"",0,360,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12011,"West Nova","Nova-Ouest"," 29","Kingston",N,N,"",0,360,"Chamberlain","","Alxys","Liberal","Libéral",N,N,34
+12011,"West Nova","Nova-Ouest"," 29","Kingston",N,N,"",0,360,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,35
+12011,"West Nova","Nova-Ouest"," 29","Kingston",N,N,"",0,360,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,11
+12011,"West Nova","Nova-Ouest"," 30","Auburn",N,N,"",2,428,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12011,"West Nova","Nova-Ouest"," 30","Auburn",N,N,"",2,428,"Chamberlain","","Alxys","Liberal","Libéral",N,N,59
+12011,"West Nova","Nova-Ouest"," 30","Auburn",N,N,"",2,428,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,63
+12011,"West Nova","Nova-Ouest"," 30","Auburn",N,N,"",2,428,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,8
+12011,"West Nova","Nova-Ouest"," 31","Millville--South Greenwood",N,N,"",1,443,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+12011,"West Nova","Nova-Ouest"," 31","Millville--South Greenwood",N,N,"",1,443,"Chamberlain","","Alxys","Liberal","Libéral",N,N,52
+12011,"West Nova","Nova-Ouest"," 31","Millville--South Greenwood",N,N,"",1,443,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,67
+12011,"West Nova","Nova-Ouest"," 31","Millville--South Greenwood",N,N,"",1,443,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,19
+12011,"West Nova","Nova-Ouest"," 32","Greenwood",N,N,"",1,502,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12011,"West Nova","Nova-Ouest"," 32","Greenwood",N,N,"",1,502,"Chamberlain","","Alxys","Liberal","Libéral",N,N,27
+12011,"West Nova","Nova-Ouest"," 32","Greenwood",N,N,"",1,502,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,41
+12011,"West Nova","Nova-Ouest"," 32","Greenwood",N,N,"",1,502,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,10
+12011,"West Nova","Nova-Ouest"," 33","Margaretsville",N,N,"",1,444,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+12011,"West Nova","Nova-Ouest"," 33","Margaretsville",N,N,"",1,444,"Chamberlain","","Alxys","Liberal","Libéral",N,N,64
+12011,"West Nova","Nova-Ouest"," 33","Margaretsville",N,N,"",1,444,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,85
+12011,"West Nova","Nova-Ouest"," 33","Margaretsville",N,N,"",1,444,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,27
+12011,"West Nova","Nova-Ouest"," 34","Kingston",N,N,"",0,341,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12011,"West Nova","Nova-Ouest"," 34","Kingston",N,N,"",0,341,"Chamberlain","","Alxys","Liberal","Libéral",N,N,26
+12011,"West Nova","Nova-Ouest"," 34","Kingston",N,N,"",0,341,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,43
+12011,"West Nova","Nova-Ouest"," 34","Kingston",N,N,"",0,341,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,5
+12011,"West Nova","Nova-Ouest"," 35","Kingston--Greenwood",N,N,"",0,359,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12011,"West Nova","Nova-Ouest"," 35","Kingston--Greenwood",N,N,"",0,359,"Chamberlain","","Alxys","Liberal","Libéral",N,N,34
+12011,"West Nova","Nova-Ouest"," 35","Kingston--Greenwood",N,N,"",0,359,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,40
+12011,"West Nova","Nova-Ouest"," 35","Kingston--Greenwood",N,N,"",0,359,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,15
+12011,"West Nova","Nova-Ouest"," 36","Greenwood",N,N,"",0,420,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12011,"West Nova","Nova-Ouest"," 36","Greenwood",N,N,"",0,420,"Chamberlain","","Alxys","Liberal","Libéral",N,N,30
+12011,"West Nova","Nova-Ouest"," 36","Greenwood",N,N,"",0,420,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,41
+12011,"West Nova","Nova-Ouest"," 36","Greenwood",N,N,"",0,420,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,4
+12011,"West Nova","Nova-Ouest"," 37","Melvern Square",N,N,"",1,444,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+12011,"West Nova","Nova-Ouest"," 37","Melvern Square",N,N,"",1,444,"Chamberlain","","Alxys","Liberal","Libéral",N,N,60
+12011,"West Nova","Nova-Ouest"," 37","Melvern Square",N,N,"",1,444,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,108
+12011,"West Nova","Nova-Ouest"," 37","Melvern Square",N,N,"",1,444,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,27
+12011,"West Nova","Nova-Ouest"," 38","Wilmot",N,N,"",1,346,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12011,"West Nova","Nova-Ouest"," 38","Wilmot",N,N,"",1,346,"Chamberlain","","Alxys","Liberal","Libéral",N,N,38
+12011,"West Nova","Nova-Ouest"," 38","Wilmot",N,N,"",1,346,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,65
+12011,"West Nova","Nova-Ouest"," 38","Wilmot",N,N,"",1,346,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,12
+12011,"West Nova","Nova-Ouest"," 39","Wilmot",N,N,"",1,454,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12011,"West Nova","Nova-Ouest"," 39","Wilmot",N,N,"",1,454,"Chamberlain","","Alxys","Liberal","Libéral",N,N,76
+12011,"West Nova","Nova-Ouest"," 39","Wilmot",N,N,"",1,454,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,86
+12011,"West Nova","Nova-Ouest"," 39","Wilmot",N,N,"",1,454,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,19
+12011,"West Nova","Nova-Ouest"," 40","Greenwood",N,N,"",0,312,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12011,"West Nova","Nova-Ouest"," 40","Greenwood",N,N,"",0,312,"Chamberlain","","Alxys","Liberal","Libéral",N,N,27
+12011,"West Nova","Nova-Ouest"," 40","Greenwood",N,N,"",0,312,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,42
+12011,"West Nova","Nova-Ouest"," 40","Greenwood",N,N,"",0,312,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,3
+12011,"West Nova","Nova-Ouest"," 41","Morristown",N,N,"",0,326,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12011,"West Nova","Nova-Ouest"," 41","Morristown",N,N,"",0,326,"Chamberlain","","Alxys","Liberal","Libéral",N,N,55
+12011,"West Nova","Nova-Ouest"," 41","Morristown",N,N,"",0,326,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,70
+12011,"West Nova","Nova-Ouest"," 41","Morristown",N,N,"",0,326,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,12
+12011,"West Nova","Nova-Ouest"," 42","Morristown",N,N,"",0,356,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12011,"West Nova","Nova-Ouest"," 42","Morristown",N,N,"",0,356,"Chamberlain","","Alxys","Liberal","Libéral",N,N,54
+12011,"West Nova","Nova-Ouest"," 42","Morristown",N,N,"",0,356,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,69
+12011,"West Nova","Nova-Ouest"," 42","Morristown",N,N,"",0,356,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,23
+12011,"West Nova","Nova-Ouest"," 43","Greenwood",N,N,"",1,563,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+12011,"West Nova","Nova-Ouest"," 43","Greenwood",N,N,"",1,563,"Chamberlain","","Alxys","Liberal","Libéral",N,N,14
+12011,"West Nova","Nova-Ouest"," 43","Greenwood",N,N,"",1,563,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,71
+12011,"West Nova","Nova-Ouest"," 43","Greenwood",N,N,"",1,563,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,10
+12011,"West Nova","Nova-Ouest"," 44","Greenwood",N,N,"",1,401,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12011,"West Nova","Nova-Ouest"," 44","Greenwood",N,N,"",1,401,"Chamberlain","","Alxys","Liberal","Libéral",N,N,53
+12011,"West Nova","Nova-Ouest"," 44","Greenwood",N,N,"",1,401,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,49
+12011,"West Nova","Nova-Ouest"," 44","Greenwood",N,N,"",1,401,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,9
+12011,"West Nova","Nova-Ouest"," 45","Greenwood",N,N,"",1,492,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12011,"West Nova","Nova-Ouest"," 45","Greenwood",N,N,"",1,492,"Chamberlain","","Alxys","Liberal","Libéral",N,N,56
+12011,"West Nova","Nova-Ouest"," 45","Greenwood",N,N,"",1,492,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,68
+12011,"West Nova","Nova-Ouest"," 45","Greenwood",N,N,"",1,492,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,6
+12011,"West Nova","Nova-Ouest"," 46","South Greenwood--Tremont",N,N,"",0,491,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+12011,"West Nova","Nova-Ouest"," 46","South Greenwood--Tremont",N,N,"",0,491,"Chamberlain","","Alxys","Liberal","Libéral",N,N,57
+12011,"West Nova","Nova-Ouest"," 46","South Greenwood--Tremont",N,N,"",0,491,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,80
+12011,"West Nova","Nova-Ouest"," 46","South Greenwood--Tremont",N,N,"",0,491,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,9
+12011,"West Nova","Nova-Ouest"," 47","Port George",N,N,"",0,381,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+12011,"West Nova","Nova-Ouest"," 47","Port George",N,N,"",0,381,"Chamberlain","","Alxys","Liberal","Libéral",N,N,62
+12011,"West Nova","Nova-Ouest"," 47","Port George",N,N,"",0,381,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,65
+12011,"West Nova","Nova-Ouest"," 47","Port George",N,N,"",0,381,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,8
+12011,"West Nova","Nova-Ouest"," 48","Wilmot",N,N,"",1,401,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12011,"West Nova","Nova-Ouest"," 48","Wilmot",N,N,"",1,401,"Chamberlain","","Alxys","Liberal","Libéral",N,N,31
+12011,"West Nova","Nova-Ouest"," 48","Wilmot",N,N,"",1,401,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,47
+12011,"West Nova","Nova-Ouest"," 48","Wilmot",N,N,"",1,401,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,10
+12011,"West Nova","Nova-Ouest"," 49","Wilmot",N,N,"",0,451,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12011,"West Nova","Nova-Ouest"," 49","Wilmot",N,N,"",0,451,"Chamberlain","","Alxys","Liberal","Libéral",N,N,52
+12011,"West Nova","Nova-Ouest"," 49","Wilmot",N,N,"",0,451,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,52
+12011,"West Nova","Nova-Ouest"," 49","Wilmot",N,N,"",0,451,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,1
+12011,"West Nova","Nova-Ouest"," 50","Middleton",N,N,"",0,369,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12011,"West Nova","Nova-Ouest"," 50","Middleton",N,N,"",0,369,"Chamberlain","","Alxys","Liberal","Libéral",N,N,56
+12011,"West Nova","Nova-Ouest"," 50","Middleton",N,N,"",0,369,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,36
+12011,"West Nova","Nova-Ouest"," 50","Middleton",N,N,"",0,369,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,3
+12011,"West Nova","Nova-Ouest"," 51","Middleton",N,N,"",0,355,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12011,"West Nova","Nova-Ouest"," 51","Middleton",N,N,"",0,355,"Chamberlain","","Alxys","Liberal","Libéral",N,N,48
+12011,"West Nova","Nova-Ouest"," 51","Middleton",N,N,"",0,355,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,33
+12011,"West Nova","Nova-Ouest"," 51","Middleton",N,N,"",0,355,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,11
+12011,"West Nova","Nova-Ouest"," 52","Middleton",N,N,"",0,398,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12011,"West Nova","Nova-Ouest"," 52","Middleton",N,N,"",0,398,"Chamberlain","","Alxys","Liberal","Libéral",N,N,38
+12011,"West Nova","Nova-Ouest"," 52","Middleton",N,N,"",0,398,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,27
+12011,"West Nova","Nova-Ouest"," 52","Middleton",N,N,"",0,398,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,5
+12011,"West Nova","Nova-Ouest"," 53","Brooklyn",N,N,"",0,320,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12011,"West Nova","Nova-Ouest"," 53","Brooklyn",N,N,"",0,320,"Chamberlain","","Alxys","Liberal","Libéral",N,N,48
+12011,"West Nova","Nova-Ouest"," 53","Brooklyn",N,N,"",0,320,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,46
+12011,"West Nova","Nova-Ouest"," 53","Brooklyn",N,N,"",0,320,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,5
+12011,"West Nova","Nova-Ouest"," 54","Middleton",N,N,"",0,396,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12011,"West Nova","Nova-Ouest"," 54","Middleton",N,N,"",0,396,"Chamberlain","","Alxys","Liberal","Libéral",N,N,33
+12011,"West Nova","Nova-Ouest"," 54","Middleton",N,N,"",0,396,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,28
+12011,"West Nova","Nova-Ouest"," 54","Middleton",N,N,"",0,396,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,12
+12011,"West Nova","Nova-Ouest"," 55","Meadowvale",N,N,"",0,441,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+12011,"West Nova","Nova-Ouest"," 55","Meadowvale",N,N,"",0,441,"Chamberlain","","Alxys","Liberal","Libéral",N,N,64
+12011,"West Nova","Nova-Ouest"," 55","Meadowvale",N,N,"",0,441,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,90
+12011,"West Nova","Nova-Ouest"," 55","Meadowvale",N,N,"",0,441,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,11
+12011,"West Nova","Nova-Ouest"," 56","Torbrook",N,N,"",0,408,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12011,"West Nova","Nova-Ouest"," 56","Torbrook",N,N,"",0,408,"Chamberlain","","Alxys","Liberal","Libéral",N,N,45
+12011,"West Nova","Nova-Ouest"," 56","Torbrook",N,N,"",0,408,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,94
+12011,"West Nova","Nova-Ouest"," 56","Torbrook",N,N,"",0,408,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,16
+12011,"West Nova","Nova-Ouest"," 57","East Dalhousie",N,N,"",1,203,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12011,"West Nova","Nova-Ouest"," 57","East Dalhousie",N,N,"",1,203,"Chamberlain","","Alxys","Liberal","Libéral",N,N,56
+12011,"West Nova","Nova-Ouest"," 57","East Dalhousie",N,N,"",1,203,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,45
+12011,"West Nova","Nova-Ouest"," 57","East Dalhousie",N,N,"",1,203,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,8
+12011,"West Nova","Nova-Ouest"," 58","Port Lorne",N,N,"",0,195,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12011,"West Nova","Nova-Ouest"," 58","Port Lorne",N,N,"",0,195,"Chamberlain","","Alxys","Liberal","Libéral",N,N,28
+12011,"West Nova","Nova-Ouest"," 58","Port Lorne",N,N,"",0,195,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,26
+12011,"West Nova","Nova-Ouest"," 58","Port Lorne",N,N,"",0,195,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,4
+12011,"West Nova","Nova-Ouest"," 59","Hampton",N,N,"",0,279,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+12011,"West Nova","Nova-Ouest"," 59","Hampton",N,N,"",0,279,"Chamberlain","","Alxys","Liberal","Libéral",N,N,56
+12011,"West Nova","Nova-Ouest"," 59","Hampton",N,N,"",0,279,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,46
+12011,"West Nova","Nova-Ouest"," 59","Hampton",N,N,"",0,279,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,4
+12011,"West Nova","Nova-Ouest"," 60","Lawrencetown",N,N,"",2,403,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+12011,"West Nova","Nova-Ouest"," 60","Lawrencetown",N,N,"",2,403,"Chamberlain","","Alxys","Liberal","Libéral",N,N,40
+12011,"West Nova","Nova-Ouest"," 60","Lawrencetown",N,N,"",2,403,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,58
+12011,"West Nova","Nova-Ouest"," 60","Lawrencetown",N,N,"",2,403,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,10
+12011,"West Nova","Nova-Ouest"," 61","South Williamston",N,N,"",0,310,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12011,"West Nova","Nova-Ouest"," 61","South Williamston",N,N,"",0,310,"Chamberlain","","Alxys","Liberal","Libéral",N,N,33
+12011,"West Nova","Nova-Ouest"," 61","South Williamston",N,N,"",0,310,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,45
+12011,"West Nova","Nova-Ouest"," 61","South Williamston",N,N,"",0,310,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,8
+12011,"West Nova","Nova-Ouest"," 62","West Lawrencetown",N,N,"",1,290,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12011,"West Nova","Nova-Ouest"," 62","West Lawrencetown",N,N,"",1,290,"Chamberlain","","Alxys","Liberal","Libéral",N,N,44
+12011,"West Nova","Nova-Ouest"," 62","West Lawrencetown",N,N,"",1,290,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,35
+12011,"West Nova","Nova-Ouest"," 62","West Lawrencetown",N,N,"",1,290,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,9
+12011,"West Nova","Nova-Ouest"," 63","Central Clarence",N,N,"",0,380,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12011,"West Nova","Nova-Ouest"," 63","Central Clarence",N,N,"",0,380,"Chamberlain","","Alxys","Liberal","Libéral",N,N,38
+12011,"West Nova","Nova-Ouest"," 63","Central Clarence",N,N,"",0,380,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,42
+12011,"West Nova","Nova-Ouest"," 63","Central Clarence",N,N,"",0,380,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,8
+12011,"West Nova","Nova-Ouest"," 64","Clarence West",N,N,"",0,305,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+12011,"West Nova","Nova-Ouest"," 64","Clarence West",N,N,"",0,305,"Chamberlain","","Alxys","Liberal","Libéral",N,N,44
+12011,"West Nova","Nova-Ouest"," 64","Clarence West",N,N,"",0,305,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,27
+12011,"West Nova","Nova-Ouest"," 64","Clarence West",N,N,"",0,305,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,10
+12011,"West Nova","Nova-Ouest"," 65","Bridgetown",N,N,"",2,388,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12011,"West Nova","Nova-Ouest"," 65","Bridgetown",N,N,"",2,388,"Chamberlain","","Alxys","Liberal","Libéral",N,N,65
+12011,"West Nova","Nova-Ouest"," 65","Bridgetown",N,N,"",2,388,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,39
+12011,"West Nova","Nova-Ouest"," 65","Bridgetown",N,N,"",2,388,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,5
+12011,"West Nova","Nova-Ouest"," 66","Carleton Corner",N,N,"",1,279,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12011,"West Nova","Nova-Ouest"," 66","Carleton Corner",N,N,"",1,279,"Chamberlain","","Alxys","Liberal","Libéral",N,N,51
+12011,"West Nova","Nova-Ouest"," 66","Carleton Corner",N,N,"",1,279,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,20
+12011,"West Nova","Nova-Ouest"," 66","Carleton Corner",N,N,"",1,279,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,13
+12011,"West Nova","Nova-Ouest"," 67","Meadowvale",N,N,"",0,343,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12011,"West Nova","Nova-Ouest"," 67","Meadowvale",N,N,"",0,343,"Chamberlain","","Alxys","Liberal","Libéral",N,N,34
+12011,"West Nova","Nova-Ouest"," 67","Meadowvale",N,N,"",0,343,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,36
+12011,"West Nova","Nova-Ouest"," 67","Meadowvale",N,N,"",0,343,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,7
+12011,"West Nova","Nova-Ouest"," 68","Nictaux",N,N,"",0,455,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+12011,"West Nova","Nova-Ouest"," 68","Nictaux",N,N,"",0,455,"Chamberlain","","Alxys","Liberal","Libéral",N,N,77
+12011,"West Nova","Nova-Ouest"," 68","Nictaux",N,N,"",0,455,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,78
+12011,"West Nova","Nova-Ouest"," 68","Nictaux",N,N,"",0,455,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,8
+12011,"West Nova","Nova-Ouest"," 69","Nictaux Falls",N,N,"",0,472,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+12011,"West Nova","Nova-Ouest"," 69","Nictaux Falls",N,N,"",0,472,"Chamberlain","","Alxys","Liberal","Libéral",N,N,60
+12011,"West Nova","Nova-Ouest"," 69","Nictaux Falls",N,N,"",0,472,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,83
+12011,"West Nova","Nova-Ouest"," 69","Nictaux Falls",N,N,"",0,472,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,29
+12011,"West Nova","Nova-Ouest"," 70","Nictaux West",N,N,"",2,479,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+12011,"West Nova","Nova-Ouest"," 70","Nictaux West",N,N,"",2,479,"Chamberlain","","Alxys","Liberal","Libéral",N,N,79
+12011,"West Nova","Nova-Ouest"," 70","Nictaux West",N,N,"",2,479,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,80
+12011,"West Nova","Nova-Ouest"," 70","Nictaux West",N,N,"",2,479,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,10
+12011,"West Nova","Nova-Ouest"," 71","Albany",N,N,"",0,195,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12011,"West Nova","Nova-Ouest"," 71","Albany",N,N,"",0,195,"Chamberlain","","Alxys","Liberal","Libéral",N,N,16
+12011,"West Nova","Nova-Ouest"," 71","Albany",N,N,"",0,195,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,26
+12011,"West Nova","Nova-Ouest"," 71","Albany",N,N,"",0,195,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,9
+12011,"West Nova","Nova-Ouest"," 72","Bridgetown",N,N,"",1,387,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+12011,"West Nova","Nova-Ouest"," 72","Bridgetown",N,N,"",1,387,"Chamberlain","","Alxys","Liberal","Libéral",N,N,61
+12011,"West Nova","Nova-Ouest"," 72","Bridgetown",N,N,"",1,387,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,40
+12011,"West Nova","Nova-Ouest"," 72","Bridgetown",N,N,"",1,387,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,10
+12011,"West Nova","Nova-Ouest"," 73","Upper Granville",N,N,"",2,436,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12011,"West Nova","Nova-Ouest"," 73","Upper Granville",N,N,"",2,436,"Chamberlain","","Alxys","Liberal","Libéral",N,N,56
+12011,"West Nova","Nova-Ouest"," 73","Upper Granville",N,N,"",2,436,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,50
+12011,"West Nova","Nova-Ouest"," 73","Upper Granville",N,N,"",2,436,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,9
+12011,"West Nova","Nova-Ouest"," 74","Carleton Corner",N,N,"",2,255,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12011,"West Nova","Nova-Ouest"," 74","Carleton Corner",N,N,"",2,255,"Chamberlain","","Alxys","Liberal","Libéral",N,N,46
+12011,"West Nova","Nova-Ouest"," 74","Carleton Corner",N,N,"",2,255,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,28
+12011,"West Nova","Nova-Ouest"," 74","Carleton Corner",N,N,"",2,255,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,13
+12011,"West Nova","Nova-Ouest"," 75","Springfield",N,N,"",0,356,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12011,"West Nova","Nova-Ouest"," 75","Springfield",N,N,"",0,356,"Chamberlain","","Alxys","Liberal","Libéral",N,N,63
+12011,"West Nova","Nova-Ouest"," 75","Springfield",N,N,"",0,356,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,73
+12011,"West Nova","Nova-Ouest"," 75","Springfield",N,N,"",0,356,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,20
+12011,"West Nova","Nova-Ouest"," 76","Young Cove",N,N,"",1,256,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12011,"West Nova","Nova-Ouest"," 76","Young Cove",N,N,"",1,256,"Chamberlain","","Alxys","Liberal","Libéral",N,N,48
+12011,"West Nova","Nova-Ouest"," 76","Young Cove",N,N,"",1,256,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,41
+12011,"West Nova","Nova-Ouest"," 76","Young Cove",N,N,"",1,256,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,6
+12011,"West Nova","Nova-Ouest"," 77","Round Hill",N,N,"",0,339,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+12011,"West Nova","Nova-Ouest"," 77","Round Hill",N,N,"",0,339,"Chamberlain","","Alxys","Liberal","Libéral",N,N,50
+12011,"West Nova","Nova-Ouest"," 77","Round Hill",N,N,"",0,339,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,53
+12011,"West Nova","Nova-Ouest"," 77","Round Hill",N,N,"",0,339,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,14
+12011,"West Nova","Nova-Ouest"," 78","Mochelle",N,N,"",2,364,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12011,"West Nova","Nova-Ouest"," 78","Mochelle",N,N,"",2,364,"Chamberlain","","Alxys","Liberal","Libéral",N,N,55
+12011,"West Nova","Nova-Ouest"," 78","Mochelle",N,N,"",2,364,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,51
+12011,"West Nova","Nova-Ouest"," 78","Mochelle",N,N,"",2,364,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,4
+12011,"West Nova","Nova-Ouest"," 79","Hillsburn",N,N,"",3,377,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12011,"West Nova","Nova-Ouest"," 79","Hillsburn",N,N,"",3,377,"Chamberlain","","Alxys","Liberal","Libéral",N,N,59
+12011,"West Nova","Nova-Ouest"," 79","Hillsburn",N,N,"",3,377,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,88
+12011,"West Nova","Nova-Ouest"," 79","Hillsburn",N,N,"",3,377,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,14
+12011,"West Nova","Nova-Ouest"," 80","West Dalhousie",N,N,"",0,123,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12011,"West Nova","Nova-Ouest"," 80","West Dalhousie",N,N,"",0,123,"Chamberlain","","Alxys","Liberal","Libéral",N,N,26
+12011,"West Nova","Nova-Ouest"," 80","West Dalhousie",N,N,"",0,123,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,14
+12011,"West Nova","Nova-Ouest"," 80","West Dalhousie",N,N,"",0,123,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,9
+12011,"West Nova","Nova-Ouest"," 81","Granville Ferry",N,N,"",0,470,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+12011,"West Nova","Nova-Ouest"," 81","Granville Ferry",N,N,"",0,470,"Chamberlain","","Alxys","Liberal","Libéral",N,N,80
+12011,"West Nova","Nova-Ouest"," 81","Granville Ferry",N,N,"",0,470,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,65
+12011,"West Nova","Nova-Ouest"," 81","Granville Ferry",N,N,"",0,470,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,17
+12011,"West Nova","Nova-Ouest"," 82","Belleisle",N,N,"",0,311,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12011,"West Nova","Nova-Ouest"," 82","Belleisle",N,N,"",0,311,"Chamberlain","","Alxys","Liberal","Libéral",N,N,59
+12011,"West Nova","Nova-Ouest"," 82","Belleisle",N,N,"",0,311,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,32
+12011,"West Nova","Nova-Ouest"," 82","Belleisle",N,N,"",0,311,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,13
+12011,"West Nova","Nova-Ouest"," 83","Annapolis Royal",N,N,"",0,560,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+12011,"West Nova","Nova-Ouest"," 83","Annapolis Royal",N,N,"",0,560,"Chamberlain","","Alxys","Liberal","Libéral",N,N,75
+12011,"West Nova","Nova-Ouest"," 83","Annapolis Royal",N,N,"",0,560,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,31
+12011,"West Nova","Nova-Ouest"," 83","Annapolis Royal",N,N,"",0,560,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,9
+12011,"West Nova","Nova-Ouest"," 84","Lequille",N,N,"",0,262,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12011,"West Nova","Nova-Ouest"," 84","Lequille",N,N,"",0,262,"Chamberlain","","Alxys","Liberal","Libéral",N,N,38
+12011,"West Nova","Nova-Ouest"," 84","Lequille",N,N,"",0,262,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,37
+12011,"West Nova","Nova-Ouest"," 84","Lequille",N,N,"",0,262,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,11
+12011,"West Nova","Nova-Ouest"," 85","Upper Clements",N,N,"",0,288,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12011,"West Nova","Nova-Ouest"," 85","Upper Clements",N,N,"",0,288,"Chamberlain","","Alxys","Liberal","Libéral",N,N,50
+12011,"West Nova","Nova-Ouest"," 85","Upper Clements",N,N,"",0,288,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,40
+12011,"West Nova","Nova-Ouest"," 85","Upper Clements",N,N,"",0,288,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,6
+12011,"West Nova","Nova-Ouest"," 86","Clementsport",N,N,"",0,240,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12011,"West Nova","Nova-Ouest"," 86","Clementsport",N,N,"",0,240,"Chamberlain","","Alxys","Liberal","Libéral",N,N,37
+12011,"West Nova","Nova-Ouest"," 86","Clementsport",N,N,"",0,240,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,31
+12011,"West Nova","Nova-Ouest"," 86","Clementsport",N,N,"",0,240,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,6
+12011,"West Nova","Nova-Ouest"," 87","Port Wade",N,N,"",1,384,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12011,"West Nova","Nova-Ouest"," 87","Port Wade",N,N,"",1,384,"Chamberlain","","Alxys","Liberal","Libéral",N,N,87
+12011,"West Nova","Nova-Ouest"," 87","Port Wade",N,N,"",1,384,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,51
+12011,"West Nova","Nova-Ouest"," 87","Port Wade",N,N,"",1,384,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,17
+12011,"West Nova","Nova-Ouest"," 88","Annapolis, Subd. A",N,N,"",0,412,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12011,"West Nova","Nova-Ouest"," 88","Annapolis, Subd. A",N,N,"",0,412,"Chamberlain","","Alxys","Liberal","Libéral",N,N,51
+12011,"West Nova","Nova-Ouest"," 88","Annapolis, Subd. A",N,N,"",0,412,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,43
+12011,"West Nova","Nova-Ouest"," 88","Annapolis, Subd. A",N,N,"",0,412,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,11
+12011,"West Nova","Nova-Ouest"," 89","Deep Brook",N,N,"",2,360,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12011,"West Nova","Nova-Ouest"," 89","Deep Brook",N,N,"",2,360,"Chamberlain","","Alxys","Liberal","Libéral",N,N,51
+12011,"West Nova","Nova-Ouest"," 89","Deep Brook",N,N,"",2,360,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,53
+12011,"West Nova","Nova-Ouest"," 89","Deep Brook",N,N,"",2,360,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,8
+12011,"West Nova","Nova-Ouest"," 90","Bear River East",N,N,"",1,407,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+12011,"West Nova","Nova-Ouest"," 90","Bear River East",N,N,"",1,407,"Chamberlain","","Alxys","Liberal","Libéral",N,N,50
+12011,"West Nova","Nova-Ouest"," 90","Bear River East",N,N,"",1,407,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,72
+12011,"West Nova","Nova-Ouest"," 90","Bear River East",N,N,"",1,407,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,23
+12011,"West Nova","Nova-Ouest"," 91","South Milford",N,N,"",1,387,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12011,"West Nova","Nova-Ouest"," 91","South Milford",N,N,"",1,387,"Chamberlain","","Alxys","Liberal","Libéral",N,N,54
+12011,"West Nova","Nova-Ouest"," 91","South Milford",N,N,"",1,387,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,77
+12011,"West Nova","Nova-Ouest"," 91","South Milford",N,N,"",1,387,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,16
+12011,"West Nova","Nova-Ouest"," 92","Mount Pleasant",N,N,"",0,429,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12011,"West Nova","Nova-Ouest"," 92","Mount Pleasant",N,N,"",0,429,"Chamberlain","","Alxys","Liberal","Libéral",N,N,38
+12011,"West Nova","Nova-Ouest"," 92","Mount Pleasant",N,N,"",0,429,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,78
+12011,"West Nova","Nova-Ouest"," 92","Mount Pleasant",N,N,"",0,429,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,3
+12011,"West Nova","Nova-Ouest"," 93","Digby",N,N,"",1,318,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12011,"West Nova","Nova-Ouest"," 93","Digby",N,N,"",1,318,"Chamberlain","","Alxys","Liberal","Libéral",N,N,25
+12011,"West Nova","Nova-Ouest"," 93","Digby",N,N,"",1,318,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,55
+12011,"West Nova","Nova-Ouest"," 93","Digby",N,N,"",1,318,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,2
+12011,"West Nova","Nova-Ouest"," 94","Digby",N,N,"",0,255,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12011,"West Nova","Nova-Ouest"," 94","Digby",N,N,"",0,255,"Chamberlain","","Alxys","Liberal","Libéral",N,N,26
+12011,"West Nova","Nova-Ouest"," 94","Digby",N,N,"",0,255,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,31
+12011,"West Nova","Nova-Ouest"," 94","Digby",N,N,"",0,255,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,1
+12011,"West Nova","Nova-Ouest"," 95","Culloden",N,N,"",0,363,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12011,"West Nova","Nova-Ouest"," 95","Culloden",N,N,"",0,363,"Chamberlain","","Alxys","Liberal","Libéral",N,N,40
+12011,"West Nova","Nova-Ouest"," 95","Culloden",N,N,"",0,363,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,49
+12011,"West Nova","Nova-Ouest"," 95","Culloden",N,N,"",0,363,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,1
+12011,"West Nova","Nova-Ouest"," 96","Maitland Bridge",N,N,"",0,112,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12011,"West Nova","Nova-Ouest"," 96","Maitland Bridge",N,N,"",0,112,"Chamberlain","","Alxys","Liberal","Libéral",N,N,25
+12011,"West Nova","Nova-Ouest"," 96","Maitland Bridge",N,N,"",0,112,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,27
+12011,"West Nova","Nova-Ouest"," 96","Maitland Bridge",N,N,"",0,112,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,2
+12011,"West Nova","Nova-Ouest"," 97","Conway",N,N,"",0,252,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12011,"West Nova","Nova-Ouest"," 97","Conway",N,N,"",0,252,"Chamberlain","","Alxys","Liberal","Libéral",N,N,16
+12011,"West Nova","Nova-Ouest"," 97","Conway",N,N,"",0,252,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,23
+12011,"West Nova","Nova-Ouest"," 97","Conway",N,N,"",0,252,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,4
+12011,"West Nova","Nova-Ouest"," 98","Smiths Cove",N,N,"",0,412,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12011,"West Nova","Nova-Ouest"," 98","Smiths Cove",N,N,"",0,412,"Chamberlain","","Alxys","Liberal","Libéral",N,N,62
+12011,"West Nova","Nova-Ouest"," 98","Smiths Cove",N,N,"",0,412,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,85
+12011,"West Nova","Nova-Ouest"," 98","Smiths Cove",N,N,"",0,412,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,14
+12011,"West Nova","Nova-Ouest"," 99","Digby",N,N,"",1,421,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+12011,"West Nova","Nova-Ouest"," 99","Digby",N,N,"",1,421,"Chamberlain","","Alxys","Liberal","Libéral",N,N,37
+12011,"West Nova","Nova-Ouest"," 99","Digby",N,N,"",1,421,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,33
+12011,"West Nova","Nova-Ouest"," 99","Digby",N,N,"",1,421,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,9
+12011,"West Nova","Nova-Ouest"," 100","Digby",N,N,"",0,393,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12011,"West Nova","Nova-Ouest"," 100","Digby",N,N,"",0,393,"Chamberlain","","Alxys","Liberal","Libéral",N,N,39
+12011,"West Nova","Nova-Ouest"," 100","Digby",N,N,"",0,393,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,29
+12011,"West Nova","Nova-Ouest"," 100","Digby",N,N,"",0,393,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,10
+12011,"West Nova","Nova-Ouest"," 101","Digby",N,N,"",0,359,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12011,"West Nova","Nova-Ouest"," 101","Digby",N,N,"",0,359,"Chamberlain","","Alxys","Liberal","Libéral",N,N,29
+12011,"West Nova","Nova-Ouest"," 101","Digby",N,N,"",0,359,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,51
+12011,"West Nova","Nova-Ouest"," 101","Digby",N,N,"",0,359,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,5
+12011,"West Nova","Nova-Ouest"," 102","Acaciaville",N,N,"",3,430,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12011,"West Nova","Nova-Ouest"," 102","Acaciaville",N,N,"",3,430,"Chamberlain","","Alxys","Liberal","Libéral",N,N,31
+12011,"West Nova","Nova-Ouest"," 102","Acaciaville",N,N,"",3,430,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,52
+12011,"West Nova","Nova-Ouest"," 102","Acaciaville",N,N,"",3,430,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,8
+12011,"West Nova","Nova-Ouest"," 103","Rossway",N,N,"",0,246,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+12011,"West Nova","Nova-Ouest"," 103","Rossway",N,N,"",0,246,"Chamberlain","","Alxys","Liberal","Libéral",N,N,17
+12011,"West Nova","Nova-Ouest"," 103","Rossway",N,N,"",0,246,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,76
+12011,"West Nova","Nova-Ouest"," 103","Rossway",N,N,"",0,246,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,4
+12011,"West Nova","Nova-Ouest"," 104","Bear River East",N,N,"",0,328,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12011,"West Nova","Nova-Ouest"," 104","Bear River East",N,N,"",0,328,"Chamberlain","","Alxys","Liberal","Libéral",N,N,26
+12011,"West Nova","Nova-Ouest"," 104","Bear River East",N,N,"",0,328,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,73
+12011,"West Nova","Nova-Ouest"," 104","Bear River East",N,N,"",0,328,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,23
+12011,"West Nova","Nova-Ouest"," 105","Bear River",N,N,"",2,363,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12011,"West Nova","Nova-Ouest"," 105","Bear River",N,N,"",2,363,"Chamberlain","","Alxys","Liberal","Libéral",N,N,47
+12011,"West Nova","Nova-Ouest"," 105","Bear River",N,N,"",2,363,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,54
+12011,"West Nova","Nova-Ouest"," 105","Bear River",N,N,"",2,363,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,7
+12011,"West Nova","Nova-Ouest"," 106","Morganville",N,N,"",0,246,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12011,"West Nova","Nova-Ouest"," 106","Morganville",N,N,"",0,246,"Chamberlain","","Alxys","Liberal","Libéral",N,N,29
+12011,"West Nova","Nova-Ouest"," 106","Morganville",N,N,"",0,246,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,44
+12011,"West Nova","Nova-Ouest"," 106","Morganville",N,N,"",0,246,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,17
+12011,"West Nova","Nova-Ouest"," 107","Brighton",N,N,"",0,293,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12011,"West Nova","Nova-Ouest"," 107","Brighton",N,N,"",0,293,"Chamberlain","","Alxys","Liberal","Libéral",N,N,45
+12011,"West Nova","Nova-Ouest"," 107","Brighton",N,N,"",0,293,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,64
+12011,"West Nova","Nova-Ouest"," 107","Brighton",N,N,"",0,293,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,8
+12011,"West Nova","Nova-Ouest"," 108","North Range",N,N,"",0,290,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12011,"West Nova","Nova-Ouest"," 108","North Range",N,N,"",0,290,"Chamberlain","","Alxys","Liberal","Libéral",N,N,16
+12011,"West Nova","Nova-Ouest"," 108","North Range",N,N,"",0,290,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,61
+12011,"West Nova","Nova-Ouest"," 108","North Range",N,N,"",0,290,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,8
+12011,"West Nova","Nova-Ouest"," 109","Plympton",N,N,"",4,423,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12011,"West Nova","Nova-Ouest"," 109","Plympton",N,N,"",4,423,"Chamberlain","","Alxys","Liberal","Libéral",N,N,38
+12011,"West Nova","Nova-Ouest"," 109","Plympton",N,N,"",4,423,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,101
+12011,"West Nova","Nova-Ouest"," 109","Plympton",N,N,"",4,423,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,10
+12011,"West Nova","Nova-Ouest"," 110","Ashmore",N,N,"",1,396,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12011,"West Nova","Nova-Ouest"," 110","Ashmore",N,N,"",1,396,"Chamberlain","","Alxys","Liberal","Libéral",N,N,41
+12011,"West Nova","Nova-Ouest"," 110","Ashmore",N,N,"",1,396,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,77
+12011,"West Nova","Nova-Ouest"," 110","Ashmore",N,N,"",1,396,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,18
+12011,"West Nova","Nova-Ouest"," 111","Sandy Cove",N,N,"",0,239,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12011,"West Nova","Nova-Ouest"," 111","Sandy Cove",N,N,"",0,239,"Chamberlain","","Alxys","Liberal","Libéral",N,N,26
+12011,"West Nova","Nova-Ouest"," 111","Sandy Cove",N,N,"",0,239,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,51
+12011,"West Nova","Nova-Ouest"," 111","Sandy Cove",N,N,"",0,239,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,4
+12011,"West Nova","Nova-Ouest"," 112","East Ferry",N,N,"",3,236,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12011,"West Nova","Nova-Ouest"," 112","East Ferry",N,N,"",3,236,"Chamberlain","","Alxys","Liberal","Libéral",N,N,17
+12011,"West Nova","Nova-Ouest"," 112","East Ferry",N,N,"",3,236,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,60
+12011,"West Nova","Nova-Ouest"," 112","East Ferry",N,N,"",3,236,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,7
+12011,"West Nova","Nova-Ouest"," 113","Weymouth",N,N,"",0,336,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12011,"West Nova","Nova-Ouest"," 113","Weymouth",N,N,"",0,336,"Chamberlain","","Alxys","Liberal","Libéral",N,N,28
+12011,"West Nova","Nova-Ouest"," 113","Weymouth",N,N,"",0,336,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,51
+12011,"West Nova","Nova-Ouest"," 113","Weymouth",N,N,"",0,336,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,17
+12011,"West Nova","Nova-Ouest"," 114","Weymouth North",N,N,"",0,328,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12011,"West Nova","Nova-Ouest"," 114","Weymouth North",N,N,"",0,328,"Chamberlain","","Alxys","Liberal","Libéral",N,N,31
+12011,"West Nova","Nova-Ouest"," 114","Weymouth North",N,N,"",0,328,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,83
+12011,"West Nova","Nova-Ouest"," 114","Weymouth North",N,N,"",0,328,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,7
+12011,"West Nova","Nova-Ouest"," 115","New Edinburgh",N,N,"",2,342,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12011,"West Nova","Nova-Ouest"," 115","New Edinburgh",N,N,"",2,342,"Chamberlain","","Alxys","Liberal","Libéral",N,N,39
+12011,"West Nova","Nova-Ouest"," 115","New Edinburgh",N,N,"",2,342,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,56
+12011,"West Nova","Nova-Ouest"," 115","New Edinburgh",N,N,"",2,342,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,10
+12011,"West Nova","Nova-Ouest"," 116","Weymouth",N,N,"",2,323,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+12011,"West Nova","Nova-Ouest"," 116","Weymouth",N,N,"",2,323,"Chamberlain","","Alxys","Liberal","Libéral",N,N,49
+12011,"West Nova","Nova-Ouest"," 116","Weymouth",N,N,"",2,323,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,51
+12011,"West Nova","Nova-Ouest"," 116","Weymouth",N,N,"",2,323,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,9
+12011,"West Nova","Nova-Ouest"," 117","Belliveaus Cove",N,N,"",3,357,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12011,"West Nova","Nova-Ouest"," 117","Belliveaus Cove",N,N,"",3,357,"Chamberlain","","Alxys","Liberal","Libéral",N,N,59
+12011,"West Nova","Nova-Ouest"," 117","Belliveaus Cove",N,N,"",3,357,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,71
+12011,"West Nova","Nova-Ouest"," 117","Belliveaus Cove",N,N,"",3,357,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,5
+12011,"West Nova","Nova-Ouest"," 118","Danvers",N,N,"",0,243,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12011,"West Nova","Nova-Ouest"," 118","Danvers",N,N,"",0,243,"Chamberlain","","Alxys","Liberal","Libéral",N,N,26
+12011,"West Nova","Nova-Ouest"," 118","Danvers",N,N,"",0,243,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,42
+12011,"West Nova","Nova-Ouest"," 118","Danvers",N,N,"",0,243,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,11
+12011,"West Nova","Nova-Ouest"," 119","Grosses Coques",N,N,"",0,384,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12011,"West Nova","Nova-Ouest"," 119","Grosses Coques",N,N,"",0,384,"Chamberlain","","Alxys","Liberal","Libéral",N,N,52
+12011,"West Nova","Nova-Ouest"," 119","Grosses Coques",N,N,"",0,384,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,64
+12011,"West Nova","Nova-Ouest"," 119","Grosses Coques",N,N,"",0,384,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,4
+12011,"West Nova","Nova-Ouest"," 120","Church Point",N,N,"",0,260,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12011,"West Nova","Nova-Ouest"," 120","Church Point",N,N,"",0,260,"Chamberlain","","Alxys","Liberal","Libéral",N,N,35
+12011,"West Nova","Nova-Ouest"," 120","Church Point",N,N,"",0,260,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,54
+12011,"West Nova","Nova-Ouest"," 120","Church Point",N,N,"",0,260,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,4
+12011,"West Nova","Nova-Ouest"," 121","Tiverton",N,N,"",1,180,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12011,"West Nova","Nova-Ouest"," 121","Tiverton",N,N,"",1,180,"Chamberlain","","Alxys","Liberal","Libéral",N,N,31
+12011,"West Nova","Nova-Ouest"," 121","Tiverton",N,N,"",1,180,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,57
+12011,"West Nova","Nova-Ouest"," 121","Tiverton",N,N,"",1,180,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,10
+12011,"West Nova","Nova-Ouest"," 122","Concession",N,N,"",0,343,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12011,"West Nova","Nova-Ouest"," 122","Concession",N,N,"",0,343,"Chamberlain","","Alxys","Liberal","Libéral",N,N,45
+12011,"West Nova","Nova-Ouest"," 122","Concession",N,N,"",0,343,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,75
+12011,"West Nova","Nova-Ouest"," 122","Concession",N,N,"",0,343,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,7
+12011,"West Nova","Nova-Ouest"," 123","Little Brook",N,N,"",0,352,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12011,"West Nova","Nova-Ouest"," 123","Little Brook",N,N,"",0,352,"Chamberlain","","Alxys","Liberal","Libéral",N,N,42
+12011,"West Nova","Nova-Ouest"," 123","Little Brook",N,N,"",0,352,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,68
+12011,"West Nova","Nova-Ouest"," 123","Little Brook",N,N,"",0,352,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,0
+12011,"West Nova","Nova-Ouest"," 124","Havelock",N,N,"",2,260,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12011,"West Nova","Nova-Ouest"," 124","Havelock",N,N,"",2,260,"Chamberlain","","Alxys","Liberal","Libéral",N,N,34
+12011,"West Nova","Nova-Ouest"," 124","Havelock",N,N,"",2,260,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,74
+12011,"West Nova","Nova-Ouest"," 124","Havelock",N,N,"",2,260,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,18
+12011,"West Nova","Nova-Ouest"," 125","Corberrie",N,N,"",0,220,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12011,"West Nova","Nova-Ouest"," 125","Corberrie",N,N,"",0,220,"Chamberlain","","Alxys","Liberal","Libéral",N,N,19
+12011,"West Nova","Nova-Ouest"," 125","Corberrie",N,N,"",0,220,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,51
+12011,"West Nova","Nova-Ouest"," 125","Corberrie",N,N,"",0,220,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,5
+12011,"West Nova","Nova-Ouest"," 126","Comeauville",N,N,"",6,304,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12011,"West Nova","Nova-Ouest"," 126","Comeauville",N,N,"",6,304,"Chamberlain","","Alxys","Liberal","Libéral",N,N,40
+12011,"West Nova","Nova-Ouest"," 126","Comeauville",N,N,"",6,304,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,62
+12011,"West Nova","Nova-Ouest"," 126","Comeauville",N,N,"",6,304,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,2
+12011,"West Nova","Nova-Ouest"," 127","Kemptville",N,N,"",2,238,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+12011,"West Nova","Nova-Ouest"," 127","Kemptville",N,N,"",2,238,"Chamberlain","","Alxys","Liberal","Libéral",N,N,44
+12011,"West Nova","Nova-Ouest"," 127","Kemptville",N,N,"",2,238,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,73
+12011,"West Nova","Nova-Ouest"," 127","Kemptville",N,N,"",2,238,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,9
+12011,"West Nova","Nova-Ouest"," 128","Freeport",N,N,"",1,241,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12011,"West Nova","Nova-Ouest"," 128","Freeport",N,N,"",1,241,"Chamberlain","","Alxys","Liberal","Libéral",N,N,29
+12011,"West Nova","Nova-Ouest"," 128","Freeport",N,N,"",1,241,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,67
+12011,"West Nova","Nova-Ouest"," 128","Freeport",N,N,"",1,241,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,8
+12011,"West Nova","Nova-Ouest"," 129","Saulnierville",N,N,"",1,266,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12011,"West Nova","Nova-Ouest"," 129","Saulnierville",N,N,"",1,266,"Chamberlain","","Alxys","Liberal","Libéral",N,N,30
+12011,"West Nova","Nova-Ouest"," 129","Saulnierville",N,N,"",1,266,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,60
+12011,"West Nova","Nova-Ouest"," 129","Saulnierville",N,N,"",1,266,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,4
+12011,"West Nova","Nova-Ouest"," 130","Saulnierville",N,N,"",0,201,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+12011,"West Nova","Nova-Ouest"," 130","Saulnierville",N,N,"",0,201,"Chamberlain","","Alxys","Liberal","Libéral",N,N,23
+12011,"West Nova","Nova-Ouest"," 130","Saulnierville",N,N,"",0,201,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,58
+12011,"West Nova","Nova-Ouest"," 130","Saulnierville",N,N,"",0,201,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,3
+12011,"West Nova","Nova-Ouest"," 131","Saulnierville Station",N,N,"",0,440,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12011,"West Nova","Nova-Ouest"," 131","Saulnierville Station",N,N,"",0,440,"Chamberlain","","Alxys","Liberal","Libéral",N,N,49
+12011,"West Nova","Nova-Ouest"," 131","Saulnierville Station",N,N,"",0,440,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,130
+12011,"West Nova","Nova-Ouest"," 131","Saulnierville Station",N,N,"",0,440,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,7
+12011,"West Nova","Nova-Ouest"," 132","Lower Saulnierville",N,N,"",6,397,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12011,"West Nova","Nova-Ouest"," 132","Lower Saulnierville",N,N,"",6,397,"Chamberlain","","Alxys","Liberal","Libéral",N,N,51
+12011,"West Nova","Nova-Ouest"," 132","Lower Saulnierville",N,N,"",6,397,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,107
+12011,"West Nova","Nova-Ouest"," 132","Lower Saulnierville",N,N,"",6,397,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,2
+12011,"West Nova","Nova-Ouest"," 133","Meteghan River",N,N,"",0,216,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+12011,"West Nova","Nova-Ouest"," 133","Meteghan River",N,N,"",0,216,"Chamberlain","","Alxys","Liberal","Libéral",N,N,23
+12011,"West Nova","Nova-Ouest"," 133","Meteghan River",N,N,"",0,216,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,44
+12011,"West Nova","Nova-Ouest"," 133","Meteghan River",N,N,"",0,216,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,3
+12011,"West Nova","Nova-Ouest"," 134","Meteghan Centre",N,N,"",0,325,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12011,"West Nova","Nova-Ouest"," 134","Meteghan Centre",N,N,"",0,325,"Chamberlain","","Alxys","Liberal","Libéral",N,N,31
+12011,"West Nova","Nova-Ouest"," 134","Meteghan Centre",N,N,"",0,325,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,75
+12011,"West Nova","Nova-Ouest"," 134","Meteghan Centre",N,N,"",0,325,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,2
+12011,"West Nova","Nova-Ouest"," 135","Meteghan",N,N,"",1,283,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+12011,"West Nova","Nova-Ouest"," 135","Meteghan",N,N,"",1,283,"Chamberlain","","Alxys","Liberal","Libéral",N,N,30
+12011,"West Nova","Nova-Ouest"," 135","Meteghan",N,N,"",1,283,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,65
+12011,"West Nova","Nova-Ouest"," 135","Meteghan",N,N,"",1,283,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,5
+12011,"West Nova","Nova-Ouest"," 136","St. Martin",N,N,"",2,371,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12011,"West Nova","Nova-Ouest"," 136","St. Martin",N,N,"",2,371,"Chamberlain","","Alxys","Liberal","Libéral",N,N,39
+12011,"West Nova","Nova-Ouest"," 136","St. Martin",N,N,"",2,371,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,84
+12011,"West Nova","Nova-Ouest"," 136","St. Martin",N,N,"",2,371,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,5
+12011,"West Nova","Nova-Ouest"," 137","Meteghan",N,N,"",2,346,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12011,"West Nova","Nova-Ouest"," 137","Meteghan",N,N,"",2,346,"Chamberlain","","Alxys","Liberal","Libéral",N,N,32
+12011,"West Nova","Nova-Ouest"," 137","Meteghan",N,N,"",2,346,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,86
+12011,"West Nova","Nova-Ouest"," 137","Meteghan",N,N,"",2,346,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,6
+12011,"West Nova","Nova-Ouest"," 138","Westport",N,N,"",0,178,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+12011,"West Nova","Nova-Ouest"," 138","Westport",N,N,"",0,178,"Chamberlain","","Alxys","Liberal","Libéral",N,N,14
+12011,"West Nova","Nova-Ouest"," 138","Westport",N,N,"",0,178,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,79
+12011,"West Nova","Nova-Ouest"," 138","Westport",N,N,"",0,178,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,5
+12011,"West Nova","Nova-Ouest"," 139","Carleton",N,N,"",1,395,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12011,"West Nova","Nova-Ouest"," 139","Carleton",N,N,"",1,395,"Chamberlain","","Alxys","Liberal","Libéral",N,N,48
+12011,"West Nova","Nova-Ouest"," 139","Carleton",N,N,"",1,395,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,102
+12011,"West Nova","Nova-Ouest"," 139","Carleton",N,N,"",1,395,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,11
+12011,"West Nova","Nova-Ouest"," 140","St. Alphonse",N,N,"",0,314,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12011,"West Nova","Nova-Ouest"," 140","St. Alphonse",N,N,"",0,314,"Chamberlain","","Alxys","Liberal","Libéral",N,N,57
+12011,"West Nova","Nova-Ouest"," 140","St. Alphonse",N,N,"",0,314,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,79
+12011,"West Nova","Nova-Ouest"," 140","St. Alphonse",N,N,"",0,314,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,6
+12011,"West Nova","Nova-Ouest"," 141","Cape St. Marys",N,N,"",2,243,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+12011,"West Nova","Nova-Ouest"," 141","Cape St. Marys",N,N,"",2,243,"Chamberlain","","Alxys","Liberal","Libéral",N,N,44
+12011,"West Nova","Nova-Ouest"," 141","Cape St. Marys",N,N,"",2,243,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,75
+12011,"West Nova","Nova-Ouest"," 141","Cape St. Marys",N,N,"",2,243,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,5
+12011,"West Nova","Nova-Ouest"," 142","Hectanooga",N,N,"",3,299,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+12011,"West Nova","Nova-Ouest"," 142","Hectanooga",N,N,"",3,299,"Chamberlain","","Alxys","Liberal","Libéral",N,N,61
+12011,"West Nova","Nova-Ouest"," 142","Hectanooga",N,N,"",3,299,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,65
+12011,"West Nova","Nova-Ouest"," 142","Hectanooga",N,N,"",3,299,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,6
+12011,"West Nova","Nova-Ouest"," 143","Salmon River",N,N,"",4,324,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12011,"West Nova","Nova-Ouest"," 143","Salmon River",N,N,"",4,324,"Chamberlain","","Alxys","Liberal","Libéral",N,N,65
+12011,"West Nova","Nova-Ouest"," 143","Salmon River",N,N,"",4,324,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,95
+12011,"West Nova","Nova-Ouest"," 143","Salmon River",N,N,"",4,324,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,5
+12011,"West Nova","Nova-Ouest"," 144","Quinan",N,N,"",0,290,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+12011,"West Nova","Nova-Ouest"," 144","Quinan",N,N,"",0,290,"Chamberlain","","Alxys","Liberal","Libéral",N,N,40
+12011,"West Nova","Nova-Ouest"," 144","Quinan",N,N,"",0,290,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,118
+12011,"West Nova","Nova-Ouest"," 144","Quinan",N,N,"",0,290,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,5
+12011,"West Nova","Nova-Ouest"," 145","Brazil Lake",N,N,"",2,313,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+12011,"West Nova","Nova-Ouest"," 145","Brazil Lake",N,N,"",2,313,"Chamberlain","","Alxys","Liberal","Libéral",N,N,27
+12011,"West Nova","Nova-Ouest"," 145","Brazil Lake",N,N,"",2,313,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,81
+12011,"West Nova","Nova-Ouest"," 145","Brazil Lake",N,N,"",2,313,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,6
+12011,"West Nova","Nova-Ouest"," 146","Pleasant Valley",N,N,"",0,349,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12011,"West Nova","Nova-Ouest"," 146","Pleasant Valley",N,N,"",0,349,"Chamberlain","","Alxys","Liberal","Libéral",N,N,50
+12011,"West Nova","Nova-Ouest"," 146","Pleasant Valley",N,N,"",0,349,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,86
+12011,"West Nova","Nova-Ouest"," 146","Pleasant Valley",N,N,"",0,349,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,4
+12011,"West Nova","Nova-Ouest"," 147","Brenton",N,N,"",2,302,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12011,"West Nova","Nova-Ouest"," 147","Brenton",N,N,"",2,302,"Chamberlain","","Alxys","Liberal","Libéral",N,N,45
+12011,"West Nova","Nova-Ouest"," 147","Brenton",N,N,"",2,302,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,83
+12011,"West Nova","Nova-Ouest"," 147","Brenton",N,N,"",2,302,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,9
+12011,"West Nova","Nova-Ouest"," 148","Raynardton",N,N,"",0,494,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12011,"West Nova","Nova-Ouest"," 148","Raynardton",N,N,"",0,494,"Chamberlain","","Alxys","Liberal","Libéral",N,N,72
+12011,"West Nova","Nova-Ouest"," 148","Raynardton",N,N,"",0,494,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,180
+12011,"West Nova","Nova-Ouest"," 148","Raynardton",N,N,"",0,494,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,7
+12011,"West Nova","Nova-Ouest"," 149","Port Maitland",N,N,"",0,383,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+12011,"West Nova","Nova-Ouest"," 149","Port Maitland",N,N,"",0,383,"Chamberlain","","Alxys","Liberal","Libéral",N,N,60
+12011,"West Nova","Nova-Ouest"," 149","Port Maitland",N,N,"",0,383,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,106
+12011,"West Nova","Nova-Ouest"," 149","Port Maitland",N,N,"",0,383,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,12
+12011,"West Nova","Nova-Ouest"," 150","Brenton",N,N,"",2,309,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+12011,"West Nova","Nova-Ouest"," 150","Brenton",N,N,"",2,309,"Chamberlain","","Alxys","Liberal","Libéral",N,N,34
+12011,"West Nova","Nova-Ouest"," 150","Brenton",N,N,"",2,309,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,103
+12011,"West Nova","Nova-Ouest"," 150","Brenton",N,N,"",2,309,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,5
+12011,"West Nova","Nova-Ouest"," 151","South Ohio",N,N,"",0,371,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+12011,"West Nova","Nova-Ouest"," 151","South Ohio",N,N,"",0,371,"Chamberlain","","Alxys","Liberal","Libéral",N,N,46
+12011,"West Nova","Nova-Ouest"," 151","South Ohio",N,N,"",0,371,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,117
+12011,"West Nova","Nova-Ouest"," 151","South Ohio",N,N,"",0,371,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,6
+12011,"West Nova","Nova-Ouest"," 152","Sandford",N,N,"",1,380,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+12011,"West Nova","Nova-Ouest"," 152","Sandford",N,N,"",1,380,"Chamberlain","","Alxys","Liberal","Libéral",N,N,34
+12011,"West Nova","Nova-Ouest"," 152","Sandford",N,N,"",1,380,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,73
+12011,"West Nova","Nova-Ouest"," 152","Sandford",N,N,"",1,380,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,8
+12011,"West Nova","Nova-Ouest"," 153","Belleville",N,N,"",0,394,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12011,"West Nova","Nova-Ouest"," 153","Belleville",N,N,"",0,394,"Chamberlain","","Alxys","Liberal","Libéral",N,N,25
+12011,"West Nova","Nova-Ouest"," 153","Belleville",N,N,"",0,394,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,106
+12011,"West Nova","Nova-Ouest"," 153","Belleville",N,N,"",0,394,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,5
+12011,"West Nova","Nova-Ouest"," 154","Ste. Anne du Ruisseau",N,N,"",1,313,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+12011,"West Nova","Nova-Ouest"," 154","Ste. Anne du Ruisseau",N,N,"",1,313,"Chamberlain","","Alxys","Liberal","Libéral",N,N,37
+12011,"West Nova","Nova-Ouest"," 154","Ste. Anne du Ruisseau",N,N,"",1,313,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,111
+12011,"West Nova","Nova-Ouest"," 154","Ste. Anne du Ruisseau",N,N,"",1,313,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,1
+12011,"West Nova","Nova-Ouest"," 155","Wellington",N,N,"",0,416,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12011,"West Nova","Nova-Ouest"," 155","Wellington",N,N,"",0,416,"Chamberlain","","Alxys","Liberal","Libéral",N,N,44
+12011,"West Nova","Nova-Ouest"," 155","Wellington",N,N,"",0,416,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,86
+12011,"West Nova","Nova-Ouest"," 155","Wellington",N,N,"",0,416,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,9
+12011,"West Nova","Nova-Ouest"," 156","Greenville",N,N,"",3,363,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12011,"West Nova","Nova-Ouest"," 156","Greenville",N,N,"",3,363,"Chamberlain","","Alxys","Liberal","Libéral",N,N,39
+12011,"West Nova","Nova-Ouest"," 156","Greenville",N,N,"",3,363,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,75
+12011,"West Nova","Nova-Ouest"," 156","Greenville",N,N,"",3,363,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,15
+12011,"West Nova","Nova-Ouest"," 157","Central Argyle",N,N,"",2,406,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12011,"West Nova","Nova-Ouest"," 157","Central Argyle",N,N,"",2,406,"Chamberlain","","Alxys","Liberal","Libéral",N,N,24
+12011,"West Nova","Nova-Ouest"," 157","Central Argyle",N,N,"",2,406,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,154
+12011,"West Nova","Nova-Ouest"," 157","Central Argyle",N,N,"",2,406,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,10
+12011,"West Nova","Nova-Ouest"," 158","Hebron",N,N,"",2,510,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12011,"West Nova","Nova-Ouest"," 158","Hebron",N,N,"",2,510,"Chamberlain","","Alxys","Liberal","Libéral",N,N,72
+12011,"West Nova","Nova-Ouest"," 158","Hebron",N,N,"",2,510,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,109
+12011,"West Nova","Nova-Ouest"," 158","Hebron",N,N,"",2,510,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,14
+12011,"West Nova","Nova-Ouest"," 159","North Chegoggin",N,N,"",2,453,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12011,"West Nova","Nova-Ouest"," 159","North Chegoggin",N,N,"",2,453,"Chamberlain","","Alxys","Liberal","Libéral",N,N,65
+12011,"West Nova","Nova-Ouest"," 159","North Chegoggin",N,N,"",2,453,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,114
+12011,"West Nova","Nova-Ouest"," 159","North Chegoggin",N,N,"",2,453,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,10
+12011,"West Nova","Nova-Ouest"," 160","Tusket",N,N,"",0,354,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+12011,"West Nova","Nova-Ouest"," 160","Tusket",N,N,"",0,354,"Chamberlain","","Alxys","Liberal","Libéral",N,N,20
+12011,"West Nova","Nova-Ouest"," 160","Tusket",N,N,"",0,354,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,53
+12011,"West Nova","Nova-Ouest"," 160","Tusket",N,N,"",0,354,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,3
+12011,"West Nova","Nova-Ouest"," 161","Hubbards Point",N,N,"",1,235,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+12011,"West Nova","Nova-Ouest"," 161","Hubbards Point",N,N,"",1,235,"Chamberlain","","Alxys","Liberal","Libéral",N,N,14
+12011,"West Nova","Nova-Ouest"," 161","Hubbards Point",N,N,"",1,235,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,64
+12011,"West Nova","Nova-Ouest"," 161","Hubbards Point",N,N,"",1,235,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,1
+12011,"West Nova","Nova-Ouest"," 162","Amiraults Hill",N,N,"",1,372,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+12011,"West Nova","Nova-Ouest"," 162","Amiraults Hill",N,N,"",1,372,"Chamberlain","","Alxys","Liberal","Libéral",N,N,39
+12011,"West Nova","Nova-Ouest"," 162","Amiraults Hill",N,N,"",1,372,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,120
+12011,"West Nova","Nova-Ouest"," 162","Amiraults Hill",N,N,"",1,372,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,6
+12011,"West Nova","Nova-Ouest"," 163","Dayton",N,N,"",1,425,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12011,"West Nova","Nova-Ouest"," 163","Dayton",N,N,"",1,425,"Chamberlain","","Alxys","Liberal","Libéral",N,N,44
+12011,"West Nova","Nova-Ouest"," 163","Dayton",N,N,"",1,425,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,79
+12011,"West Nova","Nova-Ouest"," 163","Dayton",N,N,"",1,425,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,6
+12011,"West Nova","Nova-Ouest"," 164","Pembroke",N,N,"",1,344,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12011,"West Nova","Nova-Ouest"," 164","Pembroke",N,N,"",1,344,"Chamberlain","","Alxys","Liberal","Libéral",N,N,45
+12011,"West Nova","Nova-Ouest"," 164","Pembroke",N,N,"",1,344,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,94
+12011,"West Nova","Nova-Ouest"," 164","Pembroke",N,N,"",1,344,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,10
+12011,"West Nova","Nova-Ouest"," 165","South Chegoggin",N,N,"",1,394,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12011,"West Nova","Nova-Ouest"," 165","South Chegoggin",N,N,"",1,394,"Chamberlain","","Alxys","Liberal","Libéral",N,N,37
+12011,"West Nova","Nova-Ouest"," 165","South Chegoggin",N,N,"",1,394,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,101
+12011,"West Nova","Nova-Ouest"," 165","South Chegoggin",N,N,"",1,394,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,11
+12011,"West Nova","Nova-Ouest"," 166","Yarmouth",N,N,"",0,332,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12011,"West Nova","Nova-Ouest"," 166","Yarmouth",N,N,"",0,332,"Chamberlain","","Alxys","Liberal","Libéral",N,N,32
+12011,"West Nova","Nova-Ouest"," 166","Yarmouth",N,N,"",0,332,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,55
+12011,"West Nova","Nova-Ouest"," 166","Yarmouth",N,N,"",0,332,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,5
+12011,"West Nova","Nova-Ouest"," 167","Yarmouth",N,N,"",2,403,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+12011,"West Nova","Nova-Ouest"," 167","Yarmouth",N,N,"",2,403,"Chamberlain","","Alxys","Liberal","Libéral",N,N,50
+12011,"West Nova","Nova-Ouest"," 167","Yarmouth",N,N,"",2,403,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,59
+12011,"West Nova","Nova-Ouest"," 167","Yarmouth",N,N,"",2,403,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,7
+12011,"West Nova","Nova-Ouest"," 168","Yarmouth",N,N,"",0,471,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12011,"West Nova","Nova-Ouest"," 168","Yarmouth",N,N,"",0,471,"Chamberlain","","Alxys","Liberal","Libéral",N,N,60
+12011,"West Nova","Nova-Ouest"," 168","Yarmouth",N,N,"",0,471,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,76
+12011,"West Nova","Nova-Ouest"," 168","Yarmouth",N,N,"",0,471,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,3
+12011,"West Nova","Nova-Ouest"," 169A","Yarmouth",N,N,"",2,428,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+12011,"West Nova","Nova-Ouest"," 169A","Yarmouth",N,N,"",2,428,"Chamberlain","","Alxys","Liberal","Libéral",N,N,62
+12011,"West Nova","Nova-Ouest"," 169A","Yarmouth",N,N,"",2,428,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,74
+12011,"West Nova","Nova-Ouest"," 169A","Yarmouth",N,N,"",2,428,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,7
+12011,"West Nova","Nova-Ouest"," 169B","Mobile poll/Bureau itinérant",N,N,"",2,15,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+12011,"West Nova","Nova-Ouest"," 169B","Mobile poll/Bureau itinérant",N,N,"",2,15,"Chamberlain","","Alxys","Liberal","Libéral",N,N,2
+12011,"West Nova","Nova-Ouest"," 169B","Mobile poll/Bureau itinérant",N,N,"",2,15,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,8
+12011,"West Nova","Nova-Ouest"," 169B","Mobile poll/Bureau itinérant",N,N,"",2,15,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,0
+12011,"West Nova","Nova-Ouest"," 170","Brooklyn",N,N,"",0,416,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12011,"West Nova","Nova-Ouest"," 170","Brooklyn",N,N,"",0,416,"Chamberlain","","Alxys","Liberal","Libéral",N,N,51
+12011,"West Nova","Nova-Ouest"," 170","Brooklyn",N,N,"",0,416,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,49
+12011,"West Nova","Nova-Ouest"," 170","Brooklyn",N,N,"",0,416,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,2
+12011,"West Nova","Nova-Ouest"," 171","Arcadia",N,N,"",1,290,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+12011,"West Nova","Nova-Ouest"," 171","Arcadia",N,N,"",1,290,"Chamberlain","","Alxys","Liberal","Libéral",N,N,45
+12011,"West Nova","Nova-Ouest"," 171","Arcadia",N,N,"",1,290,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,91
+12011,"West Nova","Nova-Ouest"," 171","Arcadia",N,N,"",1,290,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,9
+12011,"West Nova","Nova-Ouest"," 172","Yarmouth",N,N,"",0,447,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+12011,"West Nova","Nova-Ouest"," 172","Yarmouth",N,N,"",0,447,"Chamberlain","","Alxys","Liberal","Libéral",N,N,43
+12011,"West Nova","Nova-Ouest"," 172","Yarmouth",N,N,"",0,447,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,61
+12011,"West Nova","Nova-Ouest"," 172","Yarmouth",N,N,"",0,447,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,6
+12011,"West Nova","Nova-Ouest"," 173","Yarmouth",N,N,"",1,474,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+12011,"West Nova","Nova-Ouest"," 173","Yarmouth",N,N,"",1,474,"Chamberlain","","Alxys","Liberal","Libéral",N,N,44
+12011,"West Nova","Nova-Ouest"," 173","Yarmouth",N,N,"",1,474,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,55
+12011,"West Nova","Nova-Ouest"," 173","Yarmouth",N,N,"",1,474,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,10
+12011,"West Nova","Nova-Ouest"," 174","Yarmouth",N,N,"",1,375,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12011,"West Nova","Nova-Ouest"," 174","Yarmouth",N,N,"",1,375,"Chamberlain","","Alxys","Liberal","Libéral",N,N,41
+12011,"West Nova","Nova-Ouest"," 174","Yarmouth",N,N,"",1,375,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,45
+12011,"West Nova","Nova-Ouest"," 174","Yarmouth",N,N,"",1,375,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,5
+12011,"West Nova","Nova-Ouest"," 175","Yarmouth",N,N,"",0,426,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+12011,"West Nova","Nova-Ouest"," 175","Yarmouth",N,N,"",0,426,"Chamberlain","","Alxys","Liberal","Libéral",N,N,40
+12011,"West Nova","Nova-Ouest"," 175","Yarmouth",N,N,"",0,426,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,43
+12011,"West Nova","Nova-Ouest"," 175","Yarmouth",N,N,"",0,426,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,8
+12011,"West Nova","Nova-Ouest"," 176","Yarmouth",N,N,"",0,321,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12011,"West Nova","Nova-Ouest"," 176","Yarmouth",N,N,"",0,321,"Chamberlain","","Alxys","Liberal","Libéral",N,N,29
+12011,"West Nova","Nova-Ouest"," 176","Yarmouth",N,N,"",0,321,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,60
+12011,"West Nova","Nova-Ouest"," 176","Yarmouth",N,N,"",0,321,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,5
+12011,"West Nova","Nova-Ouest"," 177","Yarmouth",N,N,"",0,457,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+12011,"West Nova","Nova-Ouest"," 177","Yarmouth",N,N,"",0,457,"Chamberlain","","Alxys","Liberal","Libéral",N,N,37
+12011,"West Nova","Nova-Ouest"," 177","Yarmouth",N,N,"",0,457,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,36
+12011,"West Nova","Nova-Ouest"," 177","Yarmouth",N,N,"",0,457,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,16
+12011,"West Nova","Nova-Ouest"," 178A","Yarmouth",N,N,"",0,551,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12011,"West Nova","Nova-Ouest"," 178A","Yarmouth",N,N,"",0,551,"Chamberlain","","Alxys","Liberal","Libéral",N,N,45
+12011,"West Nova","Nova-Ouest"," 178A","Yarmouth",N,N,"",0,551,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,68
+12011,"West Nova","Nova-Ouest"," 178A","Yarmouth",N,N,"",0,551,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,10
+12011,"West Nova","Nova-Ouest"," 178B","Mobile poll/Bureau itinérant",N,N,"",0,19,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+12011,"West Nova","Nova-Ouest"," 178B","Mobile poll/Bureau itinérant",N,N,"",0,19,"Chamberlain","","Alxys","Liberal","Libéral",N,N,3
+12011,"West Nova","Nova-Ouest"," 178B","Mobile poll/Bureau itinérant",N,N,"",0,19,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,5
+12011,"West Nova","Nova-Ouest"," 178B","Mobile poll/Bureau itinérant",N,N,"",0,19,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,0
+12011,"West Nova","Nova-Ouest"," 179","Yarmouth",N,N,"",0,378,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12011,"West Nova","Nova-Ouest"," 179","Yarmouth",N,N,"",0,378,"Chamberlain","","Alxys","Liberal","Libéral",N,N,42
+12011,"West Nova","Nova-Ouest"," 179","Yarmouth",N,N,"",0,378,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,48
+12011,"West Nova","Nova-Ouest"," 179","Yarmouth",N,N,"",0,378,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,5
+12011,"West Nova","Nova-Ouest"," 180","Pubnico",N,N,"",1,282,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+12011,"West Nova","Nova-Ouest"," 180","Pubnico",N,N,"",1,282,"Chamberlain","","Alxys","Liberal","Libéral",N,N,8
+12011,"West Nova","Nova-Ouest"," 180","Pubnico",N,N,"",1,282,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,59
+12011,"West Nova","Nova-Ouest"," 180","Pubnico",N,N,"",1,282,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,0
+12011,"West Nova","Nova-Ouest"," 181","East Pubnico",N,N,"",0,433,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12011,"West Nova","Nova-Ouest"," 181","East Pubnico",N,N,"",0,433,"Chamberlain","","Alxys","Liberal","Libéral",N,N,21
+12011,"West Nova","Nova-Ouest"," 181","East Pubnico",N,N,"",0,433,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,209
+12011,"West Nova","Nova-Ouest"," 181","East Pubnico",N,N,"",0,433,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,6
+12011,"West Nova","Nova-Ouest"," 182","Sand Beach",N,N,"",0,394,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12011,"West Nova","Nova-Ouest"," 182","Sand Beach",N,N,"",0,394,"Chamberlain","","Alxys","Liberal","Libéral",N,N,47
+12011,"West Nova","Nova-Ouest"," 182","Sand Beach",N,N,"",0,394,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,84
+12011,"West Nova","Nova-Ouest"," 182","Sand Beach",N,N,"",0,394,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,11
+12011,"West Nova","Nova-Ouest"," 183","Overton",N,N,"",0,314,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+12011,"West Nova","Nova-Ouest"," 183","Overton",N,N,"",0,314,"Chamberlain","","Alxys","Liberal","Libéral",N,N,34
+12011,"West Nova","Nova-Ouest"," 183","Overton",N,N,"",0,314,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,109
+12011,"West Nova","Nova-Ouest"," 183","Overton",N,N,"",0,314,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,15
+12011,"West Nova","Nova-Ouest"," 184","Surettes Island",N,N,"",0,336,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+12011,"West Nova","Nova-Ouest"," 184","Surettes Island",N,N,"",0,336,"Chamberlain","","Alxys","Liberal","Libéral",N,N,32
+12011,"West Nova","Nova-Ouest"," 184","Surettes Island",N,N,"",0,336,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,133
+12011,"West Nova","Nova-Ouest"," 184","Surettes Island",N,N,"",0,336,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,4
+12011,"West Nova","Nova-Ouest"," 185","Yarmouth",N,N,"",0,308,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+12011,"West Nova","Nova-Ouest"," 185","Yarmouth",N,N,"",0,308,"Chamberlain","","Alxys","Liberal","Libéral",N,N,37
+12011,"West Nova","Nova-Ouest"," 185","Yarmouth",N,N,"",0,308,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,22
+12011,"West Nova","Nova-Ouest"," 185","Yarmouth",N,N,"",0,308,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,9
+12011,"West Nova","Nova-Ouest"," 186","Kelleys Cove",N,N,"",0,412,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+12011,"West Nova","Nova-Ouest"," 186","Kelleys Cove",N,N,"",0,412,"Chamberlain","","Alxys","Liberal","Libéral",N,N,43
+12011,"West Nova","Nova-Ouest"," 186","Kelleys Cove",N,N,"",0,412,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,82
+12011,"West Nova","Nova-Ouest"," 186","Kelleys Cove",N,N,"",0,412,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,7
+12011,"West Nova","Nova-Ouest"," 187","Upper West Pubnico",N,N,"",0,377,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12011,"West Nova","Nova-Ouest"," 187","Upper West Pubnico",N,N,"",0,377,"Chamberlain","","Alxys","Liberal","Libéral",N,N,13
+12011,"West Nova","Nova-Ouest"," 187","Upper West Pubnico",N,N,"",0,377,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,96
+12011,"West Nova","Nova-Ouest"," 187","Upper West Pubnico",N,N,"",0,377,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,0
+12011,"West Nova","Nova-Ouest"," 188","Middle West Pubnico",N,N,"",0,352,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+12011,"West Nova","Nova-Ouest"," 188","Middle West Pubnico",N,N,"",0,352,"Chamberlain","","Alxys","Liberal","Libéral",N,N,18
+12011,"West Nova","Nova-Ouest"," 188","Middle West Pubnico",N,N,"",0,352,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,67
+12011,"West Nova","Nova-Ouest"," 188","Middle West Pubnico",N,N,"",0,352,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,1
+12011,"West Nova","Nova-Ouest"," 189","Middle West Pubnico",N,N,"",1,417,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+12011,"West Nova","Nova-Ouest"," 189","Middle West Pubnico",N,N,"",1,417,"Chamberlain","","Alxys","Liberal","Libéral",N,N,13
+12011,"West Nova","Nova-Ouest"," 189","Middle West Pubnico",N,N,"",1,417,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,98
+12011,"West Nova","Nova-Ouest"," 189","Middle West Pubnico",N,N,"",1,417,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,7
+12011,"West Nova","Nova-Ouest"," 190","Lower West Pubnico",N,N,"",0,375,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+12011,"West Nova","Nova-Ouest"," 190","Lower West Pubnico",N,N,"",0,375,"Chamberlain","","Alxys","Liberal","Libéral",N,N,3
+12011,"West Nova","Nova-Ouest"," 190","Lower West Pubnico",N,N,"",0,375,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,106
+12011,"West Nova","Nova-Ouest"," 190","Lower West Pubnico",N,N,"",0,375,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,2
+12011,"West Nova","Nova-Ouest"," 191","Arcadia",N,N,"",0,332,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+12011,"West Nova","Nova-Ouest"," 191","Arcadia",N,N,"",0,332,"Chamberlain","","Alxys","Liberal","Libéral",N,N,21
+12011,"West Nova","Nova-Ouest"," 191","Arcadia",N,N,"",0,332,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,91
+12011,"West Nova","Nova-Ouest"," 191","Arcadia",N,N,"",0,332,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,9
+12011,"West Nova","Nova-Ouest"," 192","Pinkneys Point",N,N,"",2,286,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12011,"West Nova","Nova-Ouest"," 192","Pinkneys Point",N,N,"",2,286,"Chamberlain","","Alxys","Liberal","Libéral",N,N,26
+12011,"West Nova","Nova-Ouest"," 192","Pinkneys Point",N,N,"",2,286,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,114
+12011,"West Nova","Nova-Ouest"," 192","Pinkneys Point",N,N,"",2,286,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,7
+12011,"West Nova","Nova-Ouest"," 193","Plymouth",N,N,"",0,358,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+12011,"West Nova","Nova-Ouest"," 193","Plymouth",N,N,"",0,358,"Chamberlain","","Alxys","Liberal","Libéral",N,N,42
+12011,"West Nova","Nova-Ouest"," 193","Plymouth",N,N,"",0,358,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,126
+12011,"West Nova","Nova-Ouest"," 193","Plymouth",N,N,"",0,358,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,4
+12011,"West Nova","Nova-Ouest"," 194","Upper Wedgeport",N,N,"",1,279,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12011,"West Nova","Nova-Ouest"," 194","Upper Wedgeport",N,N,"",1,279,"Chamberlain","","Alxys","Liberal","Libéral",N,N,55
+12011,"West Nova","Nova-Ouest"," 194","Upper Wedgeport",N,N,"",1,279,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,187
+12011,"West Nova","Nova-Ouest"," 194","Upper Wedgeport",N,N,"",1,279,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,12
+12011,"West Nova","Nova-Ouest"," 195","Comeaus Hill",N,N,"194",0,229,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12011,"West Nova","Nova-Ouest"," 195","Comeaus Hill",N,N,"194",0,229,"Chamberlain","","Alxys","Liberal","Libéral",N,N,0
+12011,"West Nova","Nova-Ouest"," 195","Comeaus Hill",N,N,"194",0,229,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,0
+12011,"West Nova","Nova-Ouest"," 195","Comeaus Hill",N,N,"194",0,229,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,0
+12011,"West Nova","Nova-Ouest"," 196","Wedgeport",N,N,"",1,331,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+12011,"West Nova","Nova-Ouest"," 196","Wedgeport",N,N,"",1,331,"Chamberlain","","Alxys","Liberal","Libéral",N,N,48
+12011,"West Nova","Nova-Ouest"," 196","Wedgeport",N,N,"",1,331,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,132
+12011,"West Nova","Nova-Ouest"," 196","Wedgeport",N,N,"",1,331,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,11
+12011,"West Nova","Nova-Ouest"," 197","Lower Wedgeport",N,N,"",1,420,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12011,"West Nova","Nova-Ouest"," 197","Lower Wedgeport",N,N,"",1,420,"Chamberlain","","Alxys","Liberal","Libéral",N,N,64
+12011,"West Nova","Nova-Ouest"," 197","Lower Wedgeport",N,N,"",1,420,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,161
+12011,"West Nova","Nova-Ouest"," 197","Lower Wedgeport",N,N,"",1,420,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,5
+12011,"West Nova","Nova-Ouest"," 500","Mobile poll/Bureau itinérant",N,N,"",0,20,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+12011,"West Nova","Nova-Ouest"," 500","Mobile poll/Bureau itinérant",N,N,"",0,20,"Chamberlain","","Alxys","Liberal","Libéral",N,N,7
+12011,"West Nova","Nova-Ouest"," 500","Mobile poll/Bureau itinérant",N,N,"",0,20,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,8
+12011,"West Nova","Nova-Ouest"," 500","Mobile poll/Bureau itinérant",N,N,"",0,20,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,2
+12011,"West Nova","Nova-Ouest"," 501","Mobile poll/Bureau itinérant",N,N,"",0,10,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+12011,"West Nova","Nova-Ouest"," 501","Mobile poll/Bureau itinérant",N,N,"",0,10,"Chamberlain","","Alxys","Liberal","Libéral",N,N,4
+12011,"West Nova","Nova-Ouest"," 501","Mobile poll/Bureau itinérant",N,N,"",0,10,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,5
+12011,"West Nova","Nova-Ouest"," 501","Mobile poll/Bureau itinérant",N,N,"",0,10,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,0
+12011,"West Nova","Nova-Ouest"," 502","Mobile poll/Bureau itinérant",N,Y,"",0,24,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12011,"West Nova","Nova-Ouest"," 502","Mobile poll/Bureau itinérant",N,Y,"",0,24,"Chamberlain","","Alxys","Liberal","Libéral",N,N,0
+12011,"West Nova","Nova-Ouest"," 502","Mobile poll/Bureau itinérant",N,Y,"",0,24,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,0
+12011,"West Nova","Nova-Ouest"," 502","Mobile poll/Bureau itinérant",N,Y,"",0,24,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,0
+12011,"West Nova","Nova-Ouest"," 503","Mobile poll/Bureau itinérant",N,N,"",0,24,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+12011,"West Nova","Nova-Ouest"," 503","Mobile poll/Bureau itinérant",N,N,"",0,24,"Chamberlain","","Alxys","Liberal","Libéral",N,N,11
+12011,"West Nova","Nova-Ouest"," 503","Mobile poll/Bureau itinérant",N,N,"",0,24,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,3
+12011,"West Nova","Nova-Ouest"," 503","Mobile poll/Bureau itinérant",N,N,"",0,24,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,2
+12011,"West Nova","Nova-Ouest"," 504","Mobile poll/Bureau itinérant",N,N,"",0,50,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+12011,"West Nova","Nova-Ouest"," 504","Mobile poll/Bureau itinérant",N,N,"",0,50,"Chamberlain","","Alxys","Liberal","Libéral",N,N,10
+12011,"West Nova","Nova-Ouest"," 504","Mobile poll/Bureau itinérant",N,N,"",0,50,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,14
+12011,"West Nova","Nova-Ouest"," 504","Mobile poll/Bureau itinérant",N,N,"",0,50,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,1
+12011,"West Nova","Nova-Ouest"," 505","Mobile poll/Bureau itinérant",N,N,"64",0,10,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12011,"West Nova","Nova-Ouest"," 505","Mobile poll/Bureau itinérant",N,N,"64",0,10,"Chamberlain","","Alxys","Liberal","Libéral",N,N,0
+12011,"West Nova","Nova-Ouest"," 505","Mobile poll/Bureau itinérant",N,N,"64",0,10,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,0
+12011,"West Nova","Nova-Ouest"," 505","Mobile poll/Bureau itinérant",N,N,"64",0,10,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,0
+12011,"West Nova","Nova-Ouest"," 506","Mobile poll/Bureau itinérant",N,N,"",0,121,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+12011,"West Nova","Nova-Ouest"," 506","Mobile poll/Bureau itinérant",N,N,"",0,121,"Chamberlain","","Alxys","Liberal","Libéral",N,N,22
+12011,"West Nova","Nova-Ouest"," 506","Mobile poll/Bureau itinérant",N,N,"",0,121,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,21
+12011,"West Nova","Nova-Ouest"," 506","Mobile poll/Bureau itinérant",N,N,"",0,121,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,3
+12011,"West Nova","Nova-Ouest"," 507","Mobile poll/Bureau itinérant",N,N,"",0,50,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+12011,"West Nova","Nova-Ouest"," 507","Mobile poll/Bureau itinérant",N,N,"",0,50,"Chamberlain","","Alxys","Liberal","Libéral",N,N,15
+12011,"West Nova","Nova-Ouest"," 507","Mobile poll/Bureau itinérant",N,N,"",0,50,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,9
+12011,"West Nova","Nova-Ouest"," 507","Mobile poll/Bureau itinérant",N,N,"",0,50,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,2
+12011,"West Nova","Nova-Ouest"," 508","Mobile poll/Bureau itinérant",N,N,"",0,90,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+12011,"West Nova","Nova-Ouest"," 508","Mobile poll/Bureau itinérant",N,N,"",0,90,"Chamberlain","","Alxys","Liberal","Libéral",N,N,16
+12011,"West Nova","Nova-Ouest"," 508","Mobile poll/Bureau itinérant",N,N,"",0,90,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,10
+12011,"West Nova","Nova-Ouest"," 508","Mobile poll/Bureau itinérant",N,N,"",0,90,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,2
+12011,"West Nova","Nova-Ouest"," 509","Mobile poll/Bureau itinérant",N,N,"",0,33,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+12011,"West Nova","Nova-Ouest"," 509","Mobile poll/Bureau itinérant",N,N,"",0,33,"Chamberlain","","Alxys","Liberal","Libéral",N,N,13
+12011,"West Nova","Nova-Ouest"," 509","Mobile poll/Bureau itinérant",N,N,"",0,33,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,4
+12011,"West Nova","Nova-Ouest"," 509","Mobile poll/Bureau itinérant",N,N,"",0,33,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,1
+12011,"West Nova","Nova-Ouest"," 510","Mobile poll/Bureau itinérant",N,N,"",3,64,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12011,"West Nova","Nova-Ouest"," 510","Mobile poll/Bureau itinérant",N,N,"",3,64,"Chamberlain","","Alxys","Liberal","Libéral",N,N,11
+12011,"West Nova","Nova-Ouest"," 510","Mobile poll/Bureau itinérant",N,N,"",3,64,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,12
+12011,"West Nova","Nova-Ouest"," 510","Mobile poll/Bureau itinérant",N,N,"",3,64,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,1
+12011,"West Nova","Nova-Ouest"," 511","Mobile poll/Bureau itinérant",N,N,"",0,23,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12011,"West Nova","Nova-Ouest"," 511","Mobile poll/Bureau itinérant",N,N,"",0,23,"Chamberlain","","Alxys","Liberal","Libéral",N,N,11
+12011,"West Nova","Nova-Ouest"," 511","Mobile poll/Bureau itinérant",N,N,"",0,23,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,8
+12011,"West Nova","Nova-Ouest"," 511","Mobile poll/Bureau itinérant",N,N,"",0,23,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,1
+12011,"West Nova","Nova-Ouest"," 512","Mobile poll/Bureau itinérant",N,N,"",0,17,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12011,"West Nova","Nova-Ouest"," 512","Mobile poll/Bureau itinérant",N,N,"",0,17,"Chamberlain","","Alxys","Liberal","Libéral",N,N,6
+12011,"West Nova","Nova-Ouest"," 512","Mobile poll/Bureau itinérant",N,N,"",0,17,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,7
+12011,"West Nova","Nova-Ouest"," 512","Mobile poll/Bureau itinérant",N,N,"",0,17,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,1
+12011,"West Nova","Nova-Ouest"," 513","Mobile poll/Bureau itinérant",N,N,"",0,77,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+12011,"West Nova","Nova-Ouest"," 513","Mobile poll/Bureau itinérant",N,N,"",0,77,"Chamberlain","","Alxys","Liberal","Libéral",N,N,10
+12011,"West Nova","Nova-Ouest"," 513","Mobile poll/Bureau itinérant",N,N,"",0,77,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,19
+12011,"West Nova","Nova-Ouest"," 513","Mobile poll/Bureau itinérant",N,N,"",0,77,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,1
+12011,"West Nova","Nova-Ouest"," 514","Mobile poll/Bureau itinérant",N,N,"",1,98,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,5
+12011,"West Nova","Nova-Ouest"," 514","Mobile poll/Bureau itinérant",N,N,"",1,98,"Chamberlain","","Alxys","Liberal","Libéral",N,N,7
+12011,"West Nova","Nova-Ouest"," 514","Mobile poll/Bureau itinérant",N,N,"",1,98,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,12
+12011,"West Nova","Nova-Ouest"," 514","Mobile poll/Bureau itinérant",N,N,"",1,98,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,0
+12011,"West Nova","Nova-Ouest"," 515","Mobile poll/Bureau itinérant",N,N,"",1,22,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12011,"West Nova","Nova-Ouest"," 515","Mobile poll/Bureau itinérant",N,N,"",1,22,"Chamberlain","","Alxys","Liberal","Libéral",N,N,2
+12011,"West Nova","Nova-Ouest"," 515","Mobile poll/Bureau itinérant",N,N,"",1,22,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,7
+12011,"West Nova","Nova-Ouest"," 515","Mobile poll/Bureau itinérant",N,N,"",1,22,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,0
+12011,"West Nova","Nova-Ouest"," 516","Mobile poll/Bureau itinérant",N,N,"",1,18,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+12011,"West Nova","Nova-Ouest"," 516","Mobile poll/Bureau itinérant",N,N,"",1,18,"Chamberlain","","Alxys","Liberal","Libéral",N,N,3
+12011,"West Nova","Nova-Ouest"," 516","Mobile poll/Bureau itinérant",N,N,"",1,18,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,2
+12011,"West Nova","Nova-Ouest"," 516","Mobile poll/Bureau itinérant",N,N,"",1,18,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,1
+12011,"West Nova","Nova-Ouest"," 517","Mobile poll/Bureau itinérant",N,N,"",1,47,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12011,"West Nova","Nova-Ouest"," 517","Mobile poll/Bureau itinérant",N,N,"",1,47,"Chamberlain","","Alxys","Liberal","Libéral",N,N,6
+12011,"West Nova","Nova-Ouest"," 517","Mobile poll/Bureau itinérant",N,N,"",1,47,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,6
+12011,"West Nova","Nova-Ouest"," 517","Mobile poll/Bureau itinérant",N,N,"",1,47,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,1
+12011,"West Nova","Nova-Ouest"," 518","Mobile poll/Bureau itinérant",N,N,"",1,17,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+12011,"West Nova","Nova-Ouest"," 518","Mobile poll/Bureau itinérant",N,N,"",1,17,"Chamberlain","","Alxys","Liberal","Libéral",N,N,5
+12011,"West Nova","Nova-Ouest"," 518","Mobile poll/Bureau itinérant",N,N,"",1,17,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,8
+12011,"West Nova","Nova-Ouest"," 518","Mobile poll/Bureau itinérant",N,N,"",1,17,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,0
+12011,"West Nova","Nova-Ouest"," 519","Mobile poll/Bureau itinérant",N,N,"",1,164,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+12011,"West Nova","Nova-Ouest"," 519","Mobile poll/Bureau itinérant",N,N,"",1,164,"Chamberlain","","Alxys","Liberal","Libéral",N,N,11
+12011,"West Nova","Nova-Ouest"," 519","Mobile poll/Bureau itinérant",N,N,"",1,164,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,4
+12011,"West Nova","Nova-Ouest"," 519","Mobile poll/Bureau itinérant",N,N,"",1,164,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,2
+12011,"West Nova","Nova-Ouest"," 600","Berwick",N,N,"",2,0,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,104
+12011,"West Nova","Nova-Ouest"," 600","Berwick",N,N,"",2,0,"Chamberlain","","Alxys","Liberal","Libéral",N,N,374
+12011,"West Nova","Nova-Ouest"," 600","Berwick",N,N,"",2,0,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,380
+12011,"West Nova","Nova-Ouest"," 600","Berwick",N,N,"",2,0,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,49
+12011,"West Nova","Nova-Ouest"," 601","Waterville",N,N,"",1,0,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+12011,"West Nova","Nova-Ouest"," 601","Waterville",N,N,"",1,0,"Chamberlain","","Alxys","Liberal","Libéral",N,N,211
+12011,"West Nova","Nova-Ouest"," 601","Waterville",N,N,"",1,0,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,223
+12011,"West Nova","Nova-Ouest"," 601","Waterville",N,N,"",1,0,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,10
+12011,"West Nova","Nova-Ouest"," 602","Aylesford",N,N,"",4,0,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+12011,"West Nova","Nova-Ouest"," 602","Aylesford",N,N,"",4,0,"Chamberlain","","Alxys","Liberal","Libéral",N,N,194
+12011,"West Nova","Nova-Ouest"," 602","Aylesford",N,N,"",4,0,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,284
+12011,"West Nova","Nova-Ouest"," 602","Aylesford",N,N,"",4,0,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,23
+12011,"West Nova","Nova-Ouest"," 603","Kingston--Greenwood",N,N,"",7,0,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,128
+12011,"West Nova","Nova-Ouest"," 603","Kingston--Greenwood",N,N,"",7,0,"Chamberlain","","Alxys","Liberal","Libéral",N,N,297
+12011,"West Nova","Nova-Ouest"," 603","Kingston--Greenwood",N,N,"",7,0,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,433
+12011,"West Nova","Nova-Ouest"," 603","Kingston--Greenwood",N,N,"",7,0,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,32
+12011,"West Nova","Nova-Ouest"," 604","Kingston",N,N,"",5,0,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+12011,"West Nova","Nova-Ouest"," 604","Kingston",N,N,"",5,0,"Chamberlain","","Alxys","Liberal","Libéral",N,N,239
+12011,"West Nova","Nova-Ouest"," 604","Kingston",N,N,"",5,0,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,338
+12011,"West Nova","Nova-Ouest"," 604","Kingston",N,N,"",5,0,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,22
+12011,"West Nova","Nova-Ouest"," 605","Margaretsville--Wilmot",N,N,"",3,0,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+12011,"West Nova","Nova-Ouest"," 605","Margaretsville--Wilmot",N,N,"",3,0,"Chamberlain","","Alxys","Liberal","Libéral",N,N,144
+12011,"West Nova","Nova-Ouest"," 605","Margaretsville--Wilmot",N,N,"",3,0,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,250
+12011,"West Nova","Nova-Ouest"," 605","Margaretsville--Wilmot",N,N,"",3,0,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,24
+12011,"West Nova","Nova-Ouest"," 606","Middleton",N,N,"",0,0,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+12011,"West Nova","Nova-Ouest"," 606","Middleton",N,N,"",0,0,"Chamberlain","","Alxys","Liberal","Libéral",N,N,215
+12011,"West Nova","Nova-Ouest"," 606","Middleton",N,N,"",0,0,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,218
+12011,"West Nova","Nova-Ouest"," 606","Middleton",N,N,"",0,0,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,18
+12011,"West Nova","Nova-Ouest"," 607","Nictaux",N,N,"",1,0,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,91
+12011,"West Nova","Nova-Ouest"," 607","Nictaux",N,N,"",1,0,"Chamberlain","","Alxys","Liberal","Libéral",N,N,188
+12011,"West Nova","Nova-Ouest"," 607","Nictaux",N,N,"",1,0,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,232
+12011,"West Nova","Nova-Ouest"," 607","Nictaux",N,N,"",1,0,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,28
+12011,"West Nova","Nova-Ouest"," 608","Bridgetown",N,N,"",2,0,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,100
+12011,"West Nova","Nova-Ouest"," 608","Bridgetown",N,N,"",2,0,"Chamberlain","","Alxys","Liberal","Libéral",N,N,261
+12011,"West Nova","Nova-Ouest"," 608","Bridgetown",N,N,"",2,0,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,263
+12011,"West Nova","Nova-Ouest"," 608","Bridgetown",N,N,"",2,0,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,24
+12011,"West Nova","Nova-Ouest"," 609","Annapolis Royal",N,N,"",7,0,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,142
+12011,"West Nova","Nova-Ouest"," 609","Annapolis Royal",N,N,"",7,0,"Chamberlain","","Alxys","Liberal","Libéral",N,N,278
+12011,"West Nova","Nova-Ouest"," 609","Annapolis Royal",N,N,"",7,0,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,235
+12011,"West Nova","Nova-Ouest"," 609","Annapolis Royal",N,N,"",7,0,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,33
+12011,"West Nova","Nova-Ouest"," 610","Cornwallis Park",N,N,"",0,0,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+12011,"West Nova","Nova-Ouest"," 610","Cornwallis Park",N,N,"",0,0,"Chamberlain","","Alxys","Liberal","Libéral",N,N,161
+12011,"West Nova","Nova-Ouest"," 610","Cornwallis Park",N,N,"",0,0,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,210
+12011,"West Nova","Nova-Ouest"," 610","Cornwallis Park",N,N,"",0,0,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,21
+12011,"West Nova","Nova-Ouest"," 611","Digby",N,N,"",0,0,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+12011,"West Nova","Nova-Ouest"," 611","Digby",N,N,"",0,0,"Chamberlain","","Alxys","Liberal","Libéral",N,N,152
+12011,"West Nova","Nova-Ouest"," 611","Digby",N,N,"",0,0,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,275
+12011,"West Nova","Nova-Ouest"," 611","Digby",N,N,"",0,0,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,33
+12011,"West Nova","Nova-Ouest"," 612","Digby",N,N,"",7,0,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+12011,"West Nova","Nova-Ouest"," 612","Digby",N,N,"",7,0,"Chamberlain","","Alxys","Liberal","Libéral",N,N,199
+12011,"West Nova","Nova-Ouest"," 612","Digby",N,N,"",7,0,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,335
+12011,"West Nova","Nova-Ouest"," 612","Digby",N,N,"",7,0,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,26
+12011,"West Nova","Nova-Ouest"," 613","Little River",N,N,"",1,0,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+12011,"West Nova","Nova-Ouest"," 613","Little River",N,N,"",1,0,"Chamberlain","","Alxys","Liberal","Libéral",N,N,36
+12011,"West Nova","Nova-Ouest"," 613","Little River",N,N,"",1,0,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,107
+12011,"West Nova","Nova-Ouest"," 613","Little River",N,N,"",1,0,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,10
+12011,"West Nova","Nova-Ouest"," 614","Church Point",N,N,"",2,0,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+12011,"West Nova","Nova-Ouest"," 614","Church Point",N,N,"",2,0,"Chamberlain","","Alxys","Liberal","Libéral",N,N,209
+12011,"West Nova","Nova-Ouest"," 614","Church Point",N,N,"",2,0,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,408
+12011,"West Nova","Nova-Ouest"," 614","Church Point",N,N,"",2,0,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,13
+12011,"West Nova","Nova-Ouest"," 615","Weymouth",N,N,"",2,0,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+12011,"West Nova","Nova-Ouest"," 615","Weymouth",N,N,"",2,0,"Chamberlain","","Alxys","Liberal","Libéral",N,N,153
+12011,"West Nova","Nova-Ouest"," 615","Weymouth",N,N,"",2,0,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,301
+12011,"West Nova","Nova-Ouest"," 615","Weymouth",N,N,"",2,0,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,14
+12011,"West Nova","Nova-Ouest"," 616","Yarmouth",N,N,"",0,0,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+12011,"West Nova","Nova-Ouest"," 616","Yarmouth",N,N,"",0,0,"Chamberlain","","Alxys","Liberal","Libéral",N,N,67
+12011,"West Nova","Nova-Ouest"," 616","Yarmouth",N,N,"",0,0,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,192
+12011,"West Nova","Nova-Ouest"," 616","Yarmouth",N,N,"",0,0,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,14
+12011,"West Nova","Nova-Ouest"," 617","Meteghan",N,N,"",0,0,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+12011,"West Nova","Nova-Ouest"," 617","Meteghan",N,N,"",0,0,"Chamberlain","","Alxys","Liberal","Libéral",N,N,186
+12011,"West Nova","Nova-Ouest"," 617","Meteghan",N,N,"",0,0,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,419
+12011,"West Nova","Nova-Ouest"," 617","Meteghan",N,N,"",0,0,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,23
+12011,"West Nova","Nova-Ouest"," 618","Yarmouth",N,N,"",0,0,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+12011,"West Nova","Nova-Ouest"," 618","Yarmouth",N,N,"",0,0,"Chamberlain","","Alxys","Liberal","Libéral",N,N,147
+12011,"West Nova","Nova-Ouest"," 618","Yarmouth",N,N,"",0,0,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,308
+12011,"West Nova","Nova-Ouest"," 618","Yarmouth",N,N,"",0,0,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,21
+12011,"West Nova","Nova-Ouest"," 619","Arcadia",N,N,"",4,0,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+12011,"West Nova","Nova-Ouest"," 619","Arcadia",N,N,"",4,0,"Chamberlain","","Alxys","Liberal","Libéral",N,N,206
+12011,"West Nova","Nova-Ouest"," 619","Arcadia",N,N,"",4,0,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,374
+12011,"West Nova","Nova-Ouest"," 619","Arcadia",N,N,"",4,0,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,12
+12011,"West Nova","Nova-Ouest"," 620","Yarmouth",N,N,"",10,0,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,93
+12011,"West Nova","Nova-Ouest"," 620","Yarmouth",N,N,"",10,0,"Chamberlain","","Alxys","Liberal","Libéral",N,N,449
+12011,"West Nova","Nova-Ouest"," 620","Yarmouth",N,N,"",10,0,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,558
+12011,"West Nova","Nova-Ouest"," 620","Yarmouth",N,N,"",10,0,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,27
+12011,"West Nova","Nova-Ouest"," 621","Amiraults Hill",N,N,"",1,0,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+12011,"West Nova","Nova-Ouest"," 621","Amiraults Hill",N,N,"",1,0,"Chamberlain","","Alxys","Liberal","Libéral",N,N,145
+12011,"West Nova","Nova-Ouest"," 621","Amiraults Hill",N,N,"",1,0,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,505
+12011,"West Nova","Nova-Ouest"," 621","Amiraults Hill",N,N,"",1,0,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,15
+12011,"West Nova","Nova-Ouest"," 622","Middle West Pubnico",N,N,"",2,0,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+12011,"West Nova","Nova-Ouest"," 622","Middle West Pubnico",N,N,"",2,0,"Chamberlain","","Alxys","Liberal","Libéral",N,N,74
+12011,"West Nova","Nova-Ouest"," 622","Middle West Pubnico",N,N,"",2,0,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,902
+12011,"West Nova","Nova-Ouest"," 622","Middle West Pubnico",N,N,"",2,0,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,21
+12011,"West Nova","Nova-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",32,93,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,153
+12011,"West Nova","Nova-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",32,93,"Chamberlain","","Alxys","Liberal","Libéral",N,N,128
+12011,"West Nova","Nova-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",32,93,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,382
+12011,"West Nova","Nova-Ouest"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",32,93,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,46
+12011,"West Nova","Nova-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",40,0,"Burbidge","","Cheryl","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,121
+12011,"West Nova","Nova-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",40,0,"Chamberlain","","Alxys","Liberal","Libéral",N,N,485
+12011,"West Nova","Nova-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",40,0,"d'Entremont","","Chris","Conservative","Conservateur",Y,Y,702
+12011,"West Nova","Nova-Ouest"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",40,0,"Spidle","","Scott","People's Party - PPC","Parti populaire - PPC",N,N,65

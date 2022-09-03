@@ -1,0 +1,571 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+11001,"Cardigan","Cardigan"," 1","North Lake",N,N,"",2,294,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+11001,"Cardigan","Cardigan"," 1","North Lake",N,N,"",2,294,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,80
+11001,"Cardigan","Cardigan"," 1","North Lake",N,N,"",2,294,"MacLean","","Michael","Green Party","Parti Vert",N,N,8
+11001,"Cardigan","Cardigan"," 1","North Lake",N,N,"",2,294,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 1","North Lake",N,N,"",2,294,"Phelan","","Wayne","Conservative","Conservateur",N,N,48
+11001,"Cardigan","Cardigan"," 1","North Lake",N,N,"",2,294,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+11001,"Cardigan","Cardigan"," 2","Red Point",N,N,"",4,329,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+11001,"Cardigan","Cardigan"," 2","Red Point",N,N,"",4,329,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,74
+11001,"Cardigan","Cardigan"," 2","Red Point",N,N,"",4,329,"MacLean","","Michael","Green Party","Parti Vert",N,N,8
+11001,"Cardigan","Cardigan"," 2","Red Point",N,N,"",4,329,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+11001,"Cardigan","Cardigan"," 2","Red Point",N,N,"",4,329,"Phelan","","Wayne","Conservative","Conservateur",N,N,78
+11001,"Cardigan","Cardigan"," 2","Red Point",N,N,"",4,329,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+11001,"Cardigan","Cardigan"," 3","New Zealand",N,N,"",2,309,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+11001,"Cardigan","Cardigan"," 3","New Zealand",N,N,"",2,309,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,60
+11001,"Cardigan","Cardigan"," 3","New Zealand",N,N,"",2,309,"MacLean","","Michael","Green Party","Parti Vert",N,N,9
+11001,"Cardigan","Cardigan"," 3","New Zealand",N,N,"",2,309,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 3","New Zealand",N,N,"",2,309,"Phelan","","Wayne","Conservative","Conservateur",N,N,36
+11001,"Cardigan","Cardigan"," 3","New Zealand",N,N,"",2,309,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+11001,"Cardigan","Cardigan"," 4","Naufrage--New Acadia--Rollo Bay",N,N,"",1,364,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+11001,"Cardigan","Cardigan"," 4","Naufrage--New Acadia--Rollo Bay",N,N,"",1,364,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,78
+11001,"Cardigan","Cardigan"," 4","Naufrage--New Acadia--Rollo Bay",N,N,"",1,364,"MacLean","","Michael","Green Party","Parti Vert",N,N,11
+11001,"Cardigan","Cardigan"," 4","Naufrage--New Acadia--Rollo Bay",N,N,"",1,364,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 4","Naufrage--New Acadia--Rollo Bay",N,N,"",1,364,"Phelan","","Wayne","Conservative","Conservateur",N,N,42
+11001,"Cardigan","Cardigan"," 4","Naufrage--New Acadia--Rollo Bay",N,N,"",1,364,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+11001,"Cardigan","Cardigan"," 5","Chepstow",N,N,"",1,364,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+11001,"Cardigan","Cardigan"," 5","Chepstow",N,N,"",1,364,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,71
+11001,"Cardigan","Cardigan"," 5","Chepstow",N,N,"",1,364,"MacLean","","Michael","Green Party","Parti Vert",N,N,4
+11001,"Cardigan","Cardigan"," 5","Chepstow",N,N,"",1,364,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 5","Chepstow",N,N,"",1,364,"Phelan","","Wayne","Conservative","Conservateur",N,N,56
+11001,"Cardigan","Cardigan"," 5","Chepstow",N,N,"",1,364,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+11001,"Cardigan","Cardigan"," 6","Souris River",N,N,"",5,318,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+11001,"Cardigan","Cardigan"," 6","Souris River",N,N,"",5,318,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,66
+11001,"Cardigan","Cardigan"," 6","Souris River",N,N,"",5,318,"MacLean","","Michael","Green Party","Parti Vert",N,N,6
+11001,"Cardigan","Cardigan"," 6","Souris River",N,N,"",5,318,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 6","Souris River",N,N,"",5,318,"Phelan","","Wayne","Conservative","Conservateur",N,N,33
+11001,"Cardigan","Cardigan"," 6","Souris River",N,N,"",5,318,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+11001,"Cardigan","Cardigan"," 7","Souris",N,N,"",0,257,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+11001,"Cardigan","Cardigan"," 7","Souris",N,N,"",0,257,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,42
+11001,"Cardigan","Cardigan"," 7","Souris",N,N,"",0,257,"MacLean","","Michael","Green Party","Parti Vert",N,N,4
+11001,"Cardigan","Cardigan"," 7","Souris",N,N,"",0,257,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+11001,"Cardigan","Cardigan"," 7","Souris",N,N,"",0,257,"Phelan","","Wayne","Conservative","Conservateur",N,N,29
+11001,"Cardigan","Cardigan"," 7","Souris",N,N,"",0,257,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+11001,"Cardigan","Cardigan"," 8","Souris East",N,N,"",0,321,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+11001,"Cardigan","Cardigan"," 8","Souris East",N,N,"",0,321,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,55
+11001,"Cardigan","Cardigan"," 8","Souris East",N,N,"",0,321,"MacLean","","Michael","Green Party","Parti Vert",N,N,2
+11001,"Cardigan","Cardigan"," 8","Souris East",N,N,"",0,321,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 8","Souris East",N,N,"",0,321,"Phelan","","Wayne","Conservative","Conservateur",N,N,31
+11001,"Cardigan","Cardigan"," 8","Souris East",N,N,"",0,321,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,8
+11001,"Cardigan","Cardigan"," 9","Souris West",N,N,"",3,349,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+11001,"Cardigan","Cardigan"," 9","Souris West",N,N,"",3,349,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,83
+11001,"Cardigan","Cardigan"," 9","Souris West",N,N,"",3,349,"MacLean","","Michael","Green Party","Parti Vert",N,N,14
+11001,"Cardigan","Cardigan"," 9","Souris West",N,N,"",3,349,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+11001,"Cardigan","Cardigan"," 9","Souris West",N,N,"",3,349,"Phelan","","Wayne","Conservative","Conservateur",N,N,49
+11001,"Cardigan","Cardigan"," 9","Souris West",N,N,"",3,349,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+11001,"Cardigan","Cardigan"," 10","Cable Head",N,N,"",0,422,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,14
+11001,"Cardigan","Cardigan"," 10","Cable Head",N,N,"",0,422,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,119
+11001,"Cardigan","Cardigan"," 10","Cable Head",N,N,"",0,422,"MacLean","","Michael","Green Party","Parti Vert",N,N,7
+11001,"Cardigan","Cardigan"," 10","Cable Head",N,N,"",0,422,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,6
+11001,"Cardigan","Cardigan"," 10","Cable Head",N,N,"",0,422,"Phelan","","Wayne","Conservative","Conservateur",N,N,58
+11001,"Cardigan","Cardigan"," 10","Cable Head",N,N,"",0,422,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+11001,"Cardigan","Cardigan"," 11","Five Houses",N,N,"",0,372,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,11
+11001,"Cardigan","Cardigan"," 11","Five Houses",N,N,"",0,372,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,110
+11001,"Cardigan","Cardigan"," 11","Five Houses",N,N,"",0,372,"MacLean","","Michael","Green Party","Parti Vert",N,N,8
+11001,"Cardigan","Cardigan"," 11","Five Houses",N,N,"",0,372,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 11","Five Houses",N,N,"",0,372,"Phelan","","Wayne","Conservative","Conservateur",N,N,48
+11001,"Cardigan","Cardigan"," 11","Five Houses",N,N,"",0,372,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+11001,"Cardigan","Cardigan"," 12","Milburn",N,N,"",0,345,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+11001,"Cardigan","Cardigan"," 12","Milburn",N,N,"",0,345,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,68
+11001,"Cardigan","Cardigan"," 12","Milburn",N,N,"",0,345,"MacLean","","Michael","Green Party","Parti Vert",N,N,2
+11001,"Cardigan","Cardigan"," 12","Milburn",N,N,"",0,345,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 12","Milburn",N,N,"",0,345,"Phelan","","Wayne","Conservative","Conservateur",N,N,49
+11001,"Cardigan","Cardigan"," 12","Milburn",N,N,"",0,345,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+11001,"Cardigan","Cardigan"," 13","Fortune Bridge--Eglington",N,N,"",0,351,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,9
+11001,"Cardigan","Cardigan"," 13","Fortune Bridge--Eglington",N,N,"",0,351,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,72
+11001,"Cardigan","Cardigan"," 13","Fortune Bridge--Eglington",N,N,"",0,351,"MacLean","","Michael","Green Party","Parti Vert",N,N,7
+11001,"Cardigan","Cardigan"," 13","Fortune Bridge--Eglington",N,N,"",0,351,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+11001,"Cardigan","Cardigan"," 13","Fortune Bridge--Eglington",N,N,"",0,351,"Phelan","","Wayne","Conservative","Conservateur",N,N,60
+11001,"Cardigan","Cardigan"," 13","Fortune Bridge--Eglington",N,N,"",0,351,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+11001,"Cardigan","Cardigan"," 14","Morell",N,N,"",2,364,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+11001,"Cardigan","Cardigan"," 14","Morell",N,N,"",2,364,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,113
+11001,"Cardigan","Cardigan"," 14","Morell",N,N,"",2,364,"MacLean","","Michael","Green Party","Parti Vert",N,N,7
+11001,"Cardigan","Cardigan"," 14","Morell",N,N,"",2,364,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+11001,"Cardigan","Cardigan"," 14","Morell",N,N,"",2,364,"Phelan","","Wayne","Conservative","Conservateur",N,N,67
+11001,"Cardigan","Cardigan"," 14","Morell",N,N,"",2,364,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+11001,"Cardigan","Cardigan"," 15","Green Meadows",N,N,"",0,371,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,7
+11001,"Cardigan","Cardigan"," 15","Green Meadows",N,N,"",0,371,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,67
+11001,"Cardigan","Cardigan"," 15","Green Meadows",N,N,"",0,371,"MacLean","","Michael","Green Party","Parti Vert",N,N,12
+11001,"Cardigan","Cardigan"," 15","Green Meadows",N,N,"",0,371,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 15","Green Meadows",N,N,"",0,371,"Phelan","","Wayne","Conservative","Conservateur",N,N,66
+11001,"Cardigan","Cardigan"," 15","Green Meadows",N,N,"",0,371,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+11001,"Cardigan","Cardigan"," 16","Dundas",N,N,"",2,372,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,11
+11001,"Cardigan","Cardigan"," 16","Dundas",N,N,"",2,372,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,104
+11001,"Cardigan","Cardigan"," 16","Dundas",N,N,"",2,372,"MacLean","","Michael","Green Party","Parti Vert",N,N,11
+11001,"Cardigan","Cardigan"," 16","Dundas",N,N,"",2,372,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+11001,"Cardigan","Cardigan"," 16","Dundas",N,N,"",2,372,"Phelan","","Wayne","Conservative","Conservateur",N,N,47
+11001,"Cardigan","Cardigan"," 16","Dundas",N,N,"",2,372,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+11001,"Cardigan","Cardigan"," 17","Savage Harbour",N,N,"",3,454,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,9
+11001,"Cardigan","Cardigan"," 17","Savage Harbour",N,N,"",3,454,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,101
+11001,"Cardigan","Cardigan"," 17","Savage Harbour",N,N,"",3,454,"MacLean","","Michael","Green Party","Parti Vert",N,N,14
+11001,"Cardigan","Cardigan"," 17","Savage Harbour",N,N,"",3,454,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+11001,"Cardigan","Cardigan"," 17","Savage Harbour",N,N,"",3,454,"Phelan","","Wayne","Conservative","Conservateur",N,N,60
+11001,"Cardigan","Cardigan"," 17","Savage Harbour",N,N,"",3,454,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+11001,"Cardigan","Cardigan"," 18","Mount Stewart",N,N,"",3,453,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,7
+11001,"Cardigan","Cardigan"," 18","Mount Stewart",N,N,"",3,453,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,75
+11001,"Cardigan","Cardigan"," 18","Mount Stewart",N,N,"",3,453,"MacLean","","Michael","Green Party","Parti Vert",N,N,2
+11001,"Cardigan","Cardigan"," 18","Mount Stewart",N,N,"",3,453,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+11001,"Cardigan","Cardigan"," 18","Mount Stewart",N,N,"",3,453,"Phelan","","Wayne","Conservative","Conservateur",N,N,52
+11001,"Cardigan","Cardigan"," 18","Mount Stewart",N,N,"",3,453,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+11001,"Cardigan","Cardigan"," 19","Scotchfort 4",N,N,"",2,162,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+11001,"Cardigan","Cardigan"," 19","Scotchfort 4",N,N,"",2,162,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,68
+11001,"Cardigan","Cardigan"," 19","Scotchfort 4",N,N,"",2,162,"MacLean","","Michael","Green Party","Parti Vert",N,N,5
+11001,"Cardigan","Cardigan"," 19","Scotchfort 4",N,N,"",2,162,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 19","Scotchfort 4",N,N,"",2,162,"Phelan","","Wayne","Conservative","Conservateur",N,N,0
+11001,"Cardigan","Cardigan"," 19","Scotchfort 4",N,N,"",2,162,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+11001,"Cardigan","Cardigan"," 20","Glenfanning",N,N,"",3,330,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+11001,"Cardigan","Cardigan"," 20","Glenfanning",N,N,"",3,330,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,90
+11001,"Cardigan","Cardigan"," 20","Glenfanning",N,N,"",3,330,"MacLean","","Michael","Green Party","Parti Vert",N,N,11
+11001,"Cardigan","Cardigan"," 20","Glenfanning",N,N,"",3,330,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+11001,"Cardigan","Cardigan"," 20","Glenfanning",N,N,"",3,330,"Phelan","","Wayne","Conservative","Conservateur",N,N,55
+11001,"Cardigan","Cardigan"," 20","Glenfanning",N,N,"",3,330,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+11001,"Cardigan","Cardigan"," 21","Cardigan--Launching Place",N,N,"",0,421,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,9
+11001,"Cardigan","Cardigan"," 21","Cardigan--Launching Place",N,N,"",0,421,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,96
+11001,"Cardigan","Cardigan"," 21","Cardigan--Launching Place",N,N,"",0,421,"MacLean","","Michael","Green Party","Parti Vert",N,N,11
+11001,"Cardigan","Cardigan"," 21","Cardigan--Launching Place",N,N,"",0,421,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 21","Cardigan--Launching Place",N,N,"",0,421,"Phelan","","Wayne","Conservative","Conservateur",N,N,58
+11001,"Cardigan","Cardigan"," 21","Cardigan--Launching Place",N,N,"",0,421,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+11001,"Cardigan","Cardigan"," 22","Head of Cardigan",N,N,"",3,405,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,9
+11001,"Cardigan","Cardigan"," 22","Head of Cardigan",N,N,"",3,405,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,69
+11001,"Cardigan","Cardigan"," 22","Head of Cardigan",N,N,"",3,405,"MacLean","","Michael","Green Party","Parti Vert",N,N,11
+11001,"Cardigan","Cardigan"," 22","Head of Cardigan",N,N,"",3,405,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 22","Head of Cardigan",N,N,"",3,405,"Phelan","","Wayne","Conservative","Conservateur",N,N,73
+11001,"Cardigan","Cardigan"," 22","Head of Cardigan",N,N,"",3,405,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+11001,"Cardigan","Cardigan"," 23","New Perth",N,N,"",4,426,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+11001,"Cardigan","Cardigan"," 23","New Perth",N,N,"",4,426,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,66
+11001,"Cardigan","Cardigan"," 23","New Perth",N,N,"",4,426,"MacLean","","Michael","Green Party","Parti Vert",N,N,1
+11001,"Cardigan","Cardigan"," 23","New Perth",N,N,"",4,426,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+11001,"Cardigan","Cardigan"," 23","New Perth",N,N,"",4,426,"Phelan","","Wayne","Conservative","Conservateur",N,N,53
+11001,"Cardigan","Cardigan"," 23","New Perth",N,N,"",4,426,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+11001,"Cardigan","Cardigan"," 24","Tracadie Cross",N,N,"",0,344,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,11
+11001,"Cardigan","Cardigan"," 24","Tracadie Cross",N,N,"",0,344,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,98
+11001,"Cardigan","Cardigan"," 24","Tracadie Cross",N,N,"",0,344,"MacLean","","Michael","Green Party","Parti Vert",N,N,7
+11001,"Cardigan","Cardigan"," 24","Tracadie Cross",N,N,"",0,344,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 24","Tracadie Cross",N,N,"",0,344,"Phelan","","Wayne","Conservative","Conservateur",N,N,42
+11001,"Cardigan","Cardigan"," 24","Tracadie Cross",N,N,"",0,344,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+11001,"Cardigan","Cardigan"," 25","Peakes",N,N,"",3,358,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+11001,"Cardigan","Cardigan"," 25","Peakes",N,N,"",3,358,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,100
+11001,"Cardigan","Cardigan"," 25","Peakes",N,N,"",3,358,"MacLean","","Michael","Green Party","Parti Vert",N,N,10
+11001,"Cardigan","Cardigan"," 25","Peakes",N,N,"",3,358,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 25","Peakes",N,N,"",3,358,"Phelan","","Wayne","Conservative","Conservateur",N,N,71
+11001,"Cardigan","Cardigan"," 25","Peakes",N,N,"",3,358,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+11001,"Cardigan","Cardigan"," 26","Grand Tracadie",N,N,"",3,504,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,7
+11001,"Cardigan","Cardigan"," 26","Grand Tracadie",N,N,"",3,504,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,154
+11001,"Cardigan","Cardigan"," 26","Grand Tracadie",N,N,"",3,504,"MacLean","","Michael","Green Party","Parti Vert",N,N,16
+11001,"Cardigan","Cardigan"," 26","Grand Tracadie",N,N,"",3,504,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+11001,"Cardigan","Cardigan"," 26","Grand Tracadie",N,N,"",3,504,"Phelan","","Wayne","Conservative","Conservateur",N,N,82
+11001,"Cardigan","Cardigan"," 26","Grand Tracadie",N,N,"",3,504,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+11001,"Cardigan","Cardigan"," 27","Georgetown",N,N,"",2,456,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,13
+11001,"Cardigan","Cardigan"," 27","Georgetown",N,N,"",2,456,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,92
+11001,"Cardigan","Cardigan"," 27","Georgetown",N,N,"",2,456,"MacLean","","Michael","Green Party","Parti Vert",N,N,13
+11001,"Cardigan","Cardigan"," 27","Georgetown",N,N,"",2,456,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 27","Georgetown",N,N,"",2,456,"Phelan","","Wayne","Conservative","Conservateur",N,N,93
+11001,"Cardigan","Cardigan"," 27","Georgetown",N,N,"",2,456,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+11001,"Cardigan","Cardigan"," 28","Georgetown",N,N,"",0,403,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,13
+11001,"Cardigan","Cardigan"," 28","Georgetown",N,N,"",0,403,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,98
+11001,"Cardigan","Cardigan"," 28","Georgetown",N,N,"",0,403,"MacLean","","Michael","Green Party","Parti Vert",N,N,4
+11001,"Cardigan","Cardigan"," 28","Georgetown",N,N,"",0,403,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,5
+11001,"Cardigan","Cardigan"," 28","Georgetown",N,N,"",0,403,"Phelan","","Wayne","Conservative","Conservateur",N,N,72
+11001,"Cardigan","Cardigan"," 28","Georgetown",N,N,"",0,403,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+11001,"Cardigan","Cardigan"," 29","Bedford Station",N,N,"",1,413,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,12
+11001,"Cardigan","Cardigan"," 29","Bedford Station",N,N,"",1,413,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,113
+11001,"Cardigan","Cardigan"," 29","Bedford Station",N,N,"",1,413,"MacLean","","Michael","Green Party","Parti Vert",N,N,17
+11001,"Cardigan","Cardigan"," 29","Bedford Station",N,N,"",1,413,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+11001,"Cardigan","Cardigan"," 29","Bedford Station",N,N,"",1,413,"Phelan","","Wayne","Conservative","Conservateur",N,N,65
+11001,"Cardigan","Cardigan"," 29","Bedford Station",N,N,"",1,413,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+11001,"Cardigan","Cardigan"," 30","Fort Augustus",N,N,"",1,368,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+11001,"Cardigan","Cardigan"," 30","Fort Augustus",N,N,"",1,368,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,102
+11001,"Cardigan","Cardigan"," 30","Fort Augustus",N,N,"",1,368,"MacLean","","Michael","Green Party","Parti Vert",N,N,7
+11001,"Cardigan","Cardigan"," 30","Fort Augustus",N,N,"",1,368,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+11001,"Cardigan","Cardigan"," 30","Fort Augustus",N,N,"",1,368,"Phelan","","Wayne","Conservative","Conservateur",N,N,50
+11001,"Cardigan","Cardigan"," 30","Fort Augustus",N,N,"",1,368,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+11001,"Cardigan","Cardigan"," 31","Glenfinnan",N,N,"",1,457,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,13
+11001,"Cardigan","Cardigan"," 31","Glenfinnan",N,N,"",1,457,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,131
+11001,"Cardigan","Cardigan"," 31","Glenfinnan",N,N,"",1,457,"MacLean","","Michael","Green Party","Parti Vert",N,N,16
+11001,"Cardigan","Cardigan"," 31","Glenfinnan",N,N,"",1,457,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+11001,"Cardigan","Cardigan"," 31","Glenfinnan",N,N,"",1,457,"Phelan","","Wayne","Conservative","Conservateur",N,N,65
+11001,"Cardigan","Cardigan"," 31","Glenfinnan",N,N,"",1,457,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+11001,"Cardigan","Cardigan"," 32","Brudenell",N,N,"",3,442,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+11001,"Cardigan","Cardigan"," 32","Brudenell",N,N,"",3,442,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,91
+11001,"Cardigan","Cardigan"," 32","Brudenell",N,N,"",3,442,"MacLean","","Michael","Green Party","Parti Vert",N,N,7
+11001,"Cardigan","Cardigan"," 32","Brudenell",N,N,"",3,442,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+11001,"Cardigan","Cardigan"," 32","Brudenell",N,N,"",3,442,"Phelan","","Wayne","Conservative","Conservateur",N,N,54
+11001,"Cardigan","Cardigan"," 32","Brudenell",N,N,"",3,442,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+11001,"Cardigan","Cardigan"," 33","Montague",N,N,"",3,467,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,10
+11001,"Cardigan","Cardigan"," 33","Montague",N,N,"",3,467,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,61
+11001,"Cardigan","Cardigan"," 33","Montague",N,N,"",3,467,"MacLean","","Michael","Green Party","Parti Vert",N,N,4
+11001,"Cardigan","Cardigan"," 33","Montague",N,N,"",3,467,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+11001,"Cardigan","Cardigan"," 33","Montague",N,N,"",3,467,"Phelan","","Wayne","Conservative","Conservateur",N,N,36
+11001,"Cardigan","Cardigan"," 33","Montague",N,N,"",3,467,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+11001,"Cardigan","Cardigan"," 34","Montague",N,N,"",2,307,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+11001,"Cardigan","Cardigan"," 34","Montague",N,N,"",2,307,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,51
+11001,"Cardigan","Cardigan"," 34","Montague",N,N,"",2,307,"MacLean","","Michael","Green Party","Parti Vert",N,N,7
+11001,"Cardigan","Cardigan"," 34","Montague",N,N,"",2,307,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+11001,"Cardigan","Cardigan"," 34","Montague",N,N,"",2,307,"Phelan","","Wayne","Conservative","Conservateur",N,N,25
+11001,"Cardigan","Cardigan"," 34","Montague",N,N,"",2,307,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+11001,"Cardigan","Cardigan"," 35","Lower Montague",N,N,"",1,464,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,13
+11001,"Cardigan","Cardigan"," 35","Lower Montague",N,N,"",1,464,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,102
+11001,"Cardigan","Cardigan"," 35","Lower Montague",N,N,"",1,464,"MacLean","","Michael","Green Party","Parti Vert",N,N,7
+11001,"Cardigan","Cardigan"," 35","Lower Montague",N,N,"",1,464,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 35","Lower Montague",N,N,"",1,464,"Phelan","","Wayne","Conservative","Conservateur",N,N,70
+11001,"Cardigan","Cardigan"," 35","Lower Montague",N,N,"",1,464,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+11001,"Cardigan","Cardigan"," 36","Sturgeon",N,N,"",0,420,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,14
+11001,"Cardigan","Cardigan"," 36","Sturgeon",N,N,"",0,420,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,98
+11001,"Cardigan","Cardigan"," 36","Sturgeon",N,N,"",0,420,"MacLean","","Michael","Green Party","Parti Vert",N,N,11
+11001,"Cardigan","Cardigan"," 36","Sturgeon",N,N,"",0,420,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 36","Sturgeon",N,N,"",0,420,"Phelan","","Wayne","Conservative","Conservateur",N,N,67
+11001,"Cardigan","Cardigan"," 36","Sturgeon",N,N,"",0,420,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+11001,"Cardigan","Cardigan"," 37","Brooklyn",N,N,"",0,416,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+11001,"Cardigan","Cardigan"," 37","Brooklyn",N,N,"",0,416,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,73
+11001,"Cardigan","Cardigan"," 37","Brooklyn",N,N,"",0,416,"MacLean","","Michael","Green Party","Parti Vert",N,N,1
+11001,"Cardigan","Cardigan"," 37","Brooklyn",N,N,"",0,416,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 37","Brooklyn",N,N,"",0,416,"Phelan","","Wayne","Conservative","Conservateur",N,N,16
+11001,"Cardigan","Cardigan"," 37","Brooklyn",N,N,"",0,416,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+11001,"Cardigan","Cardigan"," 38","Johnstons River",N,N,"",5,530,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+11001,"Cardigan","Cardigan"," 38","Johnstons River",N,N,"",5,530,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,116
+11001,"Cardigan","Cardigan"," 38","Johnstons River",N,N,"",5,530,"MacLean","","Michael","Green Party","Parti Vert",N,N,19
+11001,"Cardigan","Cardigan"," 38","Johnstons River",N,N,"",5,530,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 38","Johnstons River",N,N,"",5,530,"Phelan","","Wayne","Conservative","Conservateur",N,N,85
+11001,"Cardigan","Cardigan"," 38","Johnstons River",N,N,"",5,530,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+11001,"Cardigan","Cardigan"," 39","Hermitage",N,N,"",2,410,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,11
+11001,"Cardigan","Cardigan"," 39","Hermitage",N,N,"",2,410,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,92
+11001,"Cardigan","Cardigan"," 39","Hermitage",N,N,"",2,410,"MacLean","","Michael","Green Party","Parti Vert",N,N,7
+11001,"Cardigan","Cardigan"," 39","Hermitage",N,N,"",2,410,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 39","Hermitage",N,N,"",2,410,"Phelan","","Wayne","Conservative","Conservateur",N,N,82
+11001,"Cardigan","Cardigan"," 39","Hermitage",N,N,"",2,410,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+11001,"Cardigan","Cardigan"," 40","Millview",N,N,"",1,371,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+11001,"Cardigan","Cardigan"," 40","Millview",N,N,"",1,371,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,86
+11001,"Cardigan","Cardigan"," 40","Millview",N,N,"",1,371,"MacLean","","Michael","Green Party","Parti Vert",N,N,13
+11001,"Cardigan","Cardigan"," 40","Millview",N,N,"",1,371,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 40","Millview",N,N,"",1,371,"Phelan","","Wayne","Conservative","Conservateur",N,N,63
+11001,"Cardigan","Cardigan"," 40","Millview",N,N,"",1,371,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+11001,"Cardigan","Cardigan"," 41","Montague",N,N,"",0,377,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+11001,"Cardigan","Cardigan"," 41","Montague",N,N,"",0,377,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,67
+11001,"Cardigan","Cardigan"," 41","Montague",N,N,"",0,377,"MacLean","","Michael","Green Party","Parti Vert",N,N,7
+11001,"Cardigan","Cardigan"," 41","Montague",N,N,"",0,377,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 41","Montague",N,N,"",0,377,"Phelan","","Wayne","Conservative","Conservateur",N,N,26
+11001,"Cardigan","Cardigan"," 41","Montague",N,N,"",0,377,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+11001,"Cardigan","Cardigan"," 42","Montague",N,N,"",1,353,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+11001,"Cardigan","Cardigan"," 42","Montague",N,N,"",1,353,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,62
+11001,"Cardigan","Cardigan"," 42","Montague",N,N,"",1,353,"MacLean","","Michael","Green Party","Parti Vert",N,N,14
+11001,"Cardigan","Cardigan"," 42","Montague",N,N,"",1,353,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 42","Montague",N,N,"",1,353,"Phelan","","Wayne","Conservative","Conservateur",N,N,36
+11001,"Cardigan","Cardigan"," 42","Montague",N,N,"",1,353,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,7
+11001,"Cardigan","Cardigan"," 43","Victoria Cross",N,N,"",0,434,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,11
+11001,"Cardigan","Cardigan"," 43","Victoria Cross",N,N,"",0,434,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,89
+11001,"Cardigan","Cardigan"," 43","Victoria Cross",N,N,"",0,434,"MacLean","","Michael","Green Party","Parti Vert",N,N,7
+11001,"Cardigan","Cardigan"," 43","Victoria Cross",N,N,"",0,434,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+11001,"Cardigan","Cardigan"," 43","Victoria Cross",N,N,"",0,434,"Phelan","","Wayne","Conservative","Conservateur",N,N,54
+11001,"Cardigan","Cardigan"," 43","Victoria Cross",N,N,"",0,434,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+11001,"Cardigan","Cardigan"," 44","Valleyfield",N,N,"",1,335,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+11001,"Cardigan","Cardigan"," 44","Valleyfield",N,N,"",1,335,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,56
+11001,"Cardigan","Cardigan"," 44","Valleyfield",N,N,"",1,335,"MacLean","","Michael","Green Party","Parti Vert",N,N,4
+11001,"Cardigan","Cardigan"," 44","Valleyfield",N,N,"",1,335,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+11001,"Cardigan","Cardigan"," 44","Valleyfield",N,N,"",1,335,"Phelan","","Wayne","Conservative","Conservateur",N,N,39
+11001,"Cardigan","Cardigan"," 44","Valleyfield",N,N,"",1,335,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,13
+11001,"Cardigan","Cardigan"," 45","Murray Harbour North",N,N,"",0,359,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,19
+11001,"Cardigan","Cardigan"," 45","Murray Harbour North",N,N,"",0,359,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,83
+11001,"Cardigan","Cardigan"," 45","Murray Harbour North",N,N,"",0,359,"MacLean","","Michael","Green Party","Parti Vert",N,N,8
+11001,"Cardigan","Cardigan"," 45","Murray Harbour North",N,N,"",0,359,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+11001,"Cardigan","Cardigan"," 45","Murray Harbour North",N,N,"",0,359,"Phelan","","Wayne","Conservative","Conservateur",N,N,56
+11001,"Cardigan","Cardigan"," 45","Murray Harbour North",N,N,"",0,359,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,9
+11001,"Cardigan","Cardigan"," 46","Mount Herbert",N,N,"",3,676,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,12
+11001,"Cardigan","Cardigan"," 46","Mount Herbert",N,N,"",3,676,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,183
+11001,"Cardigan","Cardigan"," 46","Mount Herbert",N,N,"",3,676,"MacLean","","Michael","Green Party","Parti Vert",N,N,19
+11001,"Cardigan","Cardigan"," 46","Mount Herbert",N,N,"",3,676,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+11001,"Cardigan","Cardigan"," 46","Mount Herbert",N,N,"",3,676,"Phelan","","Wayne","Conservative","Conservateur",N,N,93
+11001,"Cardigan","Cardigan"," 46","Mount Herbert",N,N,"",3,676,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+11001,"Cardigan","Cardigan"," 47","Stratford",N,N,"",0,558,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+11001,"Cardigan","Cardigan"," 47","Stratford",N,N,"",0,558,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,125
+11001,"Cardigan","Cardigan"," 47","Stratford",N,N,"",0,558,"MacLean","","Michael","Green Party","Parti Vert",N,N,13
+11001,"Cardigan","Cardigan"," 47","Stratford",N,N,"",0,558,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+11001,"Cardigan","Cardigan"," 47","Stratford",N,N,"",0,558,"Phelan","","Wayne","Conservative","Conservateur",N,N,61
+11001,"Cardigan","Cardigan"," 47","Stratford",N,N,"",0,558,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+11001,"Cardigan","Cardigan"," 48","Kinross",N,N,"",0,320,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+11001,"Cardigan","Cardigan"," 48","Kinross",N,N,"",0,320,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,50
+11001,"Cardigan","Cardigan"," 48","Kinross",N,N,"",0,320,"MacLean","","Michael","Green Party","Parti Vert",N,N,7
+11001,"Cardigan","Cardigan"," 48","Kinross",N,N,"",0,320,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+11001,"Cardigan","Cardigan"," 48","Kinross",N,N,"",0,320,"Phelan","","Wayne","Conservative","Conservateur",N,N,70
+11001,"Cardigan","Cardigan"," 48","Kinross",N,N,"",0,320,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+11001,"Cardigan","Cardigan"," 49","Beach Point",N,N,"",0,308,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,11
+11001,"Cardigan","Cardigan"," 49","Beach Point",N,N,"",0,308,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,70
+11001,"Cardigan","Cardigan"," 49","Beach Point",N,N,"",0,308,"MacLean","","Michael","Green Party","Parti Vert",N,N,8
+11001,"Cardigan","Cardigan"," 49","Beach Point",N,N,"",0,308,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+11001,"Cardigan","Cardigan"," 49","Beach Point",N,N,"",0,308,"Phelan","","Wayne","Conservative","Conservateur",N,N,47
+11001,"Cardigan","Cardigan"," 49","Beach Point",N,N,"",0,308,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+11001,"Cardigan","Cardigan"," 50","Murray Harbour--Gladstone",N,N,"",0,311,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,17
+11001,"Cardigan","Cardigan"," 50","Murray Harbour--Gladstone",N,N,"",0,311,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,69
+11001,"Cardigan","Cardigan"," 50","Murray Harbour--Gladstone",N,N,"",0,311,"MacLean","","Michael","Green Party","Parti Vert",N,N,5
+11001,"Cardigan","Cardigan"," 50","Murray Harbour--Gladstone",N,N,"",0,311,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+11001,"Cardigan","Cardigan"," 50","Murray Harbour--Gladstone",N,N,"",0,311,"Phelan","","Wayne","Conservative","Conservateur",N,N,55
+11001,"Cardigan","Cardigan"," 50","Murray Harbour--Gladstone",N,N,"",0,311,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+11001,"Cardigan","Cardigan"," 51","Cherry Valley",N,N,"",1,304,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+11001,"Cardigan","Cardigan"," 51","Cherry Valley",N,N,"",1,304,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,75
+11001,"Cardigan","Cardigan"," 51","Cherry Valley",N,N,"",1,304,"MacLean","","Michael","Green Party","Parti Vert",N,N,11
+11001,"Cardigan","Cardigan"," 51","Cherry Valley",N,N,"",1,304,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+11001,"Cardigan","Cardigan"," 51","Cherry Valley",N,N,"",1,304,"Phelan","","Wayne","Conservative","Conservateur",N,N,68
+11001,"Cardigan","Cardigan"," 51","Cherry Valley",N,N,"",1,304,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+11001,"Cardigan","Cardigan"," 52","Stratford",N,N,"",0,470,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+11001,"Cardigan","Cardigan"," 52","Stratford",N,N,"",0,470,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,77
+11001,"Cardigan","Cardigan"," 52","Stratford",N,N,"",0,470,"MacLean","","Michael","Green Party","Parti Vert",N,N,9
+11001,"Cardigan","Cardigan"," 52","Stratford",N,N,"",0,470,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+11001,"Cardigan","Cardigan"," 52","Stratford",N,N,"",0,470,"Phelan","","Wayne","Conservative","Conservateur",N,N,43
+11001,"Cardigan","Cardigan"," 52","Stratford",N,N,"",0,470,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+11001,"Cardigan","Cardigan"," 53","Stratford",N,N,"",1,410,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+11001,"Cardigan","Cardigan"," 53","Stratford",N,N,"",1,410,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,102
+11001,"Cardigan","Cardigan"," 53","Stratford",N,N,"",1,410,"MacLean","","Michael","Green Party","Parti Vert",N,N,7
+11001,"Cardigan","Cardigan"," 53","Stratford",N,N,"",1,410,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+11001,"Cardigan","Cardigan"," 53","Stratford",N,N,"",1,410,"Phelan","","Wayne","Conservative","Conservateur",N,N,48
+11001,"Cardigan","Cardigan"," 53","Stratford",N,N,"",1,410,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+11001,"Cardigan","Cardigan"," 54","Stratford",N,N,"",0,586,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+11001,"Cardigan","Cardigan"," 54","Stratford",N,N,"",0,586,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,170
+11001,"Cardigan","Cardigan"," 54","Stratford",N,N,"",0,586,"MacLean","","Michael","Green Party","Parti Vert",N,N,14
+11001,"Cardigan","Cardigan"," 54","Stratford",N,N,"",0,586,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+11001,"Cardigan","Cardigan"," 54","Stratford",N,N,"",0,586,"Phelan","","Wayne","Conservative","Conservateur",N,N,92
+11001,"Cardigan","Cardigan"," 54","Stratford",N,N,"",0,586,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+11001,"Cardigan","Cardigan"," 55","Stratford",N,N,"",0,418,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+11001,"Cardigan","Cardigan"," 55","Stratford",N,N,"",0,418,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,114
+11001,"Cardigan","Cardigan"," 55","Stratford",N,N,"",0,418,"MacLean","","Michael","Green Party","Parti Vert",N,N,5
+11001,"Cardigan","Cardigan"," 55","Stratford",N,N,"",0,418,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 55","Stratford",N,N,"",0,418,"Phelan","","Wayne","Conservative","Conservateur",N,N,59
+11001,"Cardigan","Cardigan"," 55","Stratford",N,N,"",0,418,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,17
+11001,"Cardigan","Cardigan"," 56","Stratford",N,N,"",4,484,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+11001,"Cardigan","Cardigan"," 56","Stratford",N,N,"",4,484,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,88
+11001,"Cardigan","Cardigan"," 56","Stratford",N,N,"",4,484,"MacLean","","Michael","Green Party","Parti Vert",N,N,16
+11001,"Cardigan","Cardigan"," 56","Stratford",N,N,"",4,484,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 56","Stratford",N,N,"",4,484,"Phelan","","Wayne","Conservative","Conservateur",N,N,78
+11001,"Cardigan","Cardigan"," 56","Stratford",N,N,"",4,484,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+11001,"Cardigan","Cardigan"," 57","Stratford",N,N,"",0,588,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+11001,"Cardigan","Cardigan"," 57","Stratford",N,N,"",0,588,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,108
+11001,"Cardigan","Cardigan"," 57","Stratford",N,N,"",0,588,"MacLean","","Michael","Green Party","Parti Vert",N,N,12
+11001,"Cardigan","Cardigan"," 57","Stratford",N,N,"",0,588,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 57","Stratford",N,N,"",0,588,"Phelan","","Wayne","Conservative","Conservateur",N,N,79
+11001,"Cardigan","Cardigan"," 57","Stratford",N,N,"",0,588,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+11001,"Cardigan","Cardigan"," 58","Stratford",N,N,"",0,635,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,7
+11001,"Cardigan","Cardigan"," 58","Stratford",N,N,"",0,635,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,112
+11001,"Cardigan","Cardigan"," 58","Stratford",N,N,"",0,635,"MacLean","","Michael","Green Party","Parti Vert",N,N,18
+11001,"Cardigan","Cardigan"," 58","Stratford",N,N,"",0,635,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 58","Stratford",N,N,"",0,635,"Phelan","","Wayne","Conservative","Conservateur",N,N,56
+11001,"Cardigan","Cardigan"," 58","Stratford",N,N,"",0,635,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+11001,"Cardigan","Cardigan"," 59","Stratford",N,N,"",0,430,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+11001,"Cardigan","Cardigan"," 59","Stratford",N,N,"",0,430,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,78
+11001,"Cardigan","Cardigan"," 59","Stratford",N,N,"",0,430,"MacLean","","Michael","Green Party","Parti Vert",N,N,16
+11001,"Cardigan","Cardigan"," 59","Stratford",N,N,"",0,430,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 59","Stratford",N,N,"",0,430,"Phelan","","Wayne","Conservative","Conservateur",N,N,30
+11001,"Cardigan","Cardigan"," 59","Stratford",N,N,"",0,430,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+11001,"Cardigan","Cardigan"," 60","Stratford",N,N,"",2,522,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+11001,"Cardigan","Cardigan"," 60","Stratford",N,N,"",2,522,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,117
+11001,"Cardigan","Cardigan"," 60","Stratford",N,N,"",2,522,"MacLean","","Michael","Green Party","Parti Vert",N,N,21
+11001,"Cardigan","Cardigan"," 60","Stratford",N,N,"",2,522,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+11001,"Cardigan","Cardigan"," 60","Stratford",N,N,"",2,522,"Phelan","","Wayne","Conservative","Conservateur",N,N,66
+11001,"Cardigan","Cardigan"," 60","Stratford",N,N,"",2,522,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+11001,"Cardigan","Cardigan"," 61","Stratford",N,N,"",0,352,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+11001,"Cardigan","Cardigan"," 61","Stratford",N,N,"",0,352,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,52
+11001,"Cardigan","Cardigan"," 61","Stratford",N,N,"",0,352,"MacLean","","Michael","Green Party","Parti Vert",N,N,10
+11001,"Cardigan","Cardigan"," 61","Stratford",N,N,"",0,352,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 61","Stratford",N,N,"",0,352,"Phelan","","Wayne","Conservative","Conservateur",N,N,22
+11001,"Cardigan","Cardigan"," 61","Stratford",N,N,"",0,352,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+11001,"Cardigan","Cardigan"," 62","Stratford",N,N,"",3,563,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,7
+11001,"Cardigan","Cardigan"," 62","Stratford",N,N,"",3,563,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,102
+11001,"Cardigan","Cardigan"," 62","Stratford",N,N,"",3,563,"MacLean","","Michael","Green Party","Parti Vert",N,N,14
+11001,"Cardigan","Cardigan"," 62","Stratford",N,N,"",3,563,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 62","Stratford",N,N,"",3,563,"Phelan","","Wayne","Conservative","Conservateur",N,N,66
+11001,"Cardigan","Cardigan"," 62","Stratford",N,N,"",3,563,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+11001,"Cardigan","Cardigan"," 63","Stratford",N,N,"",3,435,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,8
+11001,"Cardigan","Cardigan"," 63","Stratford",N,N,"",3,435,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,109
+11001,"Cardigan","Cardigan"," 63","Stratford",N,N,"",3,435,"MacLean","","Michael","Green Party","Parti Vert",N,N,9
+11001,"Cardigan","Cardigan"," 63","Stratford",N,N,"",3,435,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+11001,"Cardigan","Cardigan"," 63","Stratford",N,N,"",3,435,"Phelan","","Wayne","Conservative","Conservateur",N,N,50
+11001,"Cardigan","Cardigan"," 63","Stratford",N,N,"",3,435,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+11001,"Cardigan","Cardigan"," 64","Stratford",N,N,"",0,662,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+11001,"Cardigan","Cardigan"," 64","Stratford",N,N,"",0,662,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,155
+11001,"Cardigan","Cardigan"," 64","Stratford",N,N,"",0,662,"MacLean","","Michael","Green Party","Parti Vert",N,N,22
+11001,"Cardigan","Cardigan"," 64","Stratford",N,N,"",0,662,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 64","Stratford",N,N,"",0,662,"Phelan","","Wayne","Conservative","Conservateur",N,N,94
+11001,"Cardigan","Cardigan"," 64","Stratford",N,N,"",0,662,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+11001,"Cardigan","Cardigan"," 65","Stratford",N,N,"",0,504,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+11001,"Cardigan","Cardigan"," 65","Stratford",N,N,"",0,504,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,112
+11001,"Cardigan","Cardigan"," 65","Stratford",N,N,"",0,504,"MacLean","","Michael","Green Party","Parti Vert",N,N,14
+11001,"Cardigan","Cardigan"," 65","Stratford",N,N,"",0,504,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+11001,"Cardigan","Cardigan"," 65","Stratford",N,N,"",0,504,"Phelan","","Wayne","Conservative","Conservateur",N,N,93
+11001,"Cardigan","Cardigan"," 65","Stratford",N,N,"",0,504,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+11001,"Cardigan","Cardigan"," 66","Hazelbrook",N,N,"",0,359,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,14
+11001,"Cardigan","Cardigan"," 66","Hazelbrook",N,N,"",0,359,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,65
+11001,"Cardigan","Cardigan"," 66","Hazelbrook",N,N,"",0,359,"MacLean","","Michael","Green Party","Parti Vert",N,N,3
+11001,"Cardigan","Cardigan"," 66","Hazelbrook",N,N,"",0,359,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 66","Hazelbrook",N,N,"",0,359,"Phelan","","Wayne","Conservative","Conservateur",N,N,44
+11001,"Cardigan","Cardigan"," 66","Hazelbrook",N,N,"",0,359,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+11001,"Cardigan","Cardigan"," 67","Pownal",N,N,"",1,426,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,8
+11001,"Cardigan","Cardigan"," 67","Pownal",N,N,"",1,426,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,91
+11001,"Cardigan","Cardigan"," 67","Pownal",N,N,"",1,426,"MacLean","","Michael","Green Party","Parti Vert",N,N,16
+11001,"Cardigan","Cardigan"," 67","Pownal",N,N,"",1,426,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+11001,"Cardigan","Cardigan"," 67","Pownal",N,N,"",1,426,"Phelan","","Wayne","Conservative","Conservateur",N,N,79
+11001,"Cardigan","Cardigan"," 67","Pownal",N,N,"",1,426,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+11001,"Cardigan","Cardigan"," 68","Alexandra",N,N,"",2,324,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,6
+11001,"Cardigan","Cardigan"," 68","Alexandra",N,N,"",2,324,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,63
+11001,"Cardigan","Cardigan"," 68","Alexandra",N,N,"",2,324,"MacLean","","Michael","Green Party","Parti Vert",N,N,9
+11001,"Cardigan","Cardigan"," 68","Alexandra",N,N,"",2,324,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+11001,"Cardigan","Cardigan"," 68","Alexandra",N,N,"",2,324,"Phelan","","Wayne","Conservative","Conservateur",N,N,63
+11001,"Cardigan","Cardigan"," 68","Alexandra",N,N,"",2,324,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+11001,"Cardigan","Cardigan"," 69","Iona",N,N,"",1,274,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+11001,"Cardigan","Cardigan"," 69","Iona",N,N,"",1,274,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,66
+11001,"Cardigan","Cardigan"," 69","Iona",N,N,"",1,274,"MacLean","","Michael","Green Party","Parti Vert",N,N,9
+11001,"Cardigan","Cardigan"," 69","Iona",N,N,"",1,274,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,6
+11001,"Cardigan","Cardigan"," 69","Iona",N,N,"",1,274,"Phelan","","Wayne","Conservative","Conservateur",N,N,61
+11001,"Cardigan","Cardigan"," 69","Iona",N,N,"",1,274,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+11001,"Cardigan","Cardigan"," 70","Murray River",N,N,"",1,366,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,5
+11001,"Cardigan","Cardigan"," 70","Murray River",N,N,"",1,366,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,88
+11001,"Cardigan","Cardigan"," 70","Murray River",N,N,"",1,366,"MacLean","","Michael","Green Party","Parti Vert",N,N,6
+11001,"Cardigan","Cardigan"," 70","Murray River",N,N,"",1,366,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 70","Murray River",N,N,"",1,366,"Phelan","","Wayne","Conservative","Conservateur",N,N,66
+11001,"Cardigan","Cardigan"," 70","Murray River",N,N,"",1,366,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,10
+11001,"Cardigan","Cardigan"," 71","Lewes",N,N,"",2,327,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,4
+11001,"Cardigan","Cardigan"," 71","Lewes",N,N,"",2,327,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,38
+11001,"Cardigan","Cardigan"," 71","Lewes",N,N,"",2,327,"MacLean","","Michael","Green Party","Parti Vert",N,N,3
+11001,"Cardigan","Cardigan"," 71","Lewes",N,N,"",2,327,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,2
+11001,"Cardigan","Cardigan"," 71","Lewes",N,N,"",2,327,"Phelan","","Wayne","Conservative","Conservateur",N,N,45
+11001,"Cardigan","Cardigan"," 71","Lewes",N,N,"",2,327,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,6
+11001,"Cardigan","Cardigan"," 72","Abney",N,N,"",3,425,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,19
+11001,"Cardigan","Cardigan"," 72","Abney",N,N,"",3,425,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,81
+11001,"Cardigan","Cardigan"," 72","Abney",N,N,"",3,425,"MacLean","","Michael","Green Party","Parti Vert",N,N,11
+11001,"Cardigan","Cardigan"," 72","Abney",N,N,"",3,425,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,6
+11001,"Cardigan","Cardigan"," 72","Abney",N,N,"",3,425,"Phelan","","Wayne","Conservative","Conservateur",N,N,71
+11001,"Cardigan","Cardigan"," 72","Abney",N,N,"",3,425,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+11001,"Cardigan","Cardigan"," 73","Mount Buchanan",N,N,"",3,418,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+11001,"Cardigan","Cardigan"," 73","Mount Buchanan",N,N,"",3,418,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,129
+11001,"Cardigan","Cardigan"," 73","Mount Buchanan",N,N,"",3,418,"MacLean","","Michael","Green Party","Parti Vert",N,N,10
+11001,"Cardigan","Cardigan"," 73","Mount Buchanan",N,N,"",3,418,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+11001,"Cardigan","Cardigan"," 73","Mount Buchanan",N,N,"",3,418,"Phelan","","Wayne","Conservative","Conservateur",N,N,56
+11001,"Cardigan","Cardigan"," 73","Mount Buchanan",N,N,"",3,418,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+11001,"Cardigan","Cardigan"," 74","Wood Islands",N,N,"",0,365,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,7
+11001,"Cardigan","Cardigan"," 74","Wood Islands",N,N,"",0,365,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,59
+11001,"Cardigan","Cardigan"," 74","Wood Islands",N,N,"",0,365,"MacLean","","Michael","Green Party","Parti Vert",N,N,18
+11001,"Cardigan","Cardigan"," 74","Wood Islands",N,N,"",0,365,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 74","Wood Islands",N,N,"",0,365,"Phelan","","Wayne","Conservative","Conservateur",N,N,38
+11001,"Cardigan","Cardigan"," 74","Wood Islands",N,N,"",0,365,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+11001,"Cardigan","Cardigan"," 75","Flat River",N,N,"",2,400,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,10
+11001,"Cardigan","Cardigan"," 75","Flat River",N,N,"",2,400,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,70
+11001,"Cardigan","Cardigan"," 75","Flat River",N,N,"",2,400,"MacLean","","Michael","Green Party","Parti Vert",N,N,8
+11001,"Cardigan","Cardigan"," 75","Flat River",N,N,"",2,400,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,7
+11001,"Cardigan","Cardigan"," 75","Flat River",N,N,"",2,400,"Phelan","","Wayne","Conservative","Conservateur",N,N,55
+11001,"Cardigan","Cardigan"," 75","Flat River",N,N,"",2,400,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+11001,"Cardigan","Cardigan"," 500","Mobile poll/Bureau itinérant",N,N,"",0,51,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,1
+11001,"Cardigan","Cardigan"," 500","Mobile poll/Bureau itinérant",N,N,"",0,51,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,14
+11001,"Cardigan","Cardigan"," 500","Mobile poll/Bureau itinérant",N,N,"",0,51,"MacLean","","Michael","Green Party","Parti Vert",N,N,0
+11001,"Cardigan","Cardigan"," 500","Mobile poll/Bureau itinérant",N,N,"",0,51,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 500","Mobile poll/Bureau itinérant",N,N,"",0,51,"Phelan","","Wayne","Conservative","Conservateur",N,N,4
+11001,"Cardigan","Cardigan"," 500","Mobile poll/Bureau itinérant",N,N,"",0,51,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+11001,"Cardigan","Cardigan"," 501","Mobile poll/Bureau itinérant",N,N,"",1,23,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+11001,"Cardigan","Cardigan"," 501","Mobile poll/Bureau itinérant",N,N,"",1,23,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,9
+11001,"Cardigan","Cardigan"," 501","Mobile poll/Bureau itinérant",N,N,"",1,23,"MacLean","","Michael","Green Party","Parti Vert",N,N,1
+11001,"Cardigan","Cardigan"," 501","Mobile poll/Bureau itinérant",N,N,"",1,23,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 501","Mobile poll/Bureau itinérant",N,N,"",1,23,"Phelan","","Wayne","Conservative","Conservateur",N,N,1
+11001,"Cardigan","Cardigan"," 501","Mobile poll/Bureau itinérant",N,N,"",1,23,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+11001,"Cardigan","Cardigan"," 502","Mobile poll/Bureau itinérant",N,N,"",0,48,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+11001,"Cardigan","Cardigan"," 502","Mobile poll/Bureau itinérant",N,N,"",0,48,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,11
+11001,"Cardigan","Cardigan"," 502","Mobile poll/Bureau itinérant",N,N,"",0,48,"MacLean","","Michael","Green Party","Parti Vert",N,N,0
+11001,"Cardigan","Cardigan"," 502","Mobile poll/Bureau itinérant",N,N,"",0,48,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 502","Mobile poll/Bureau itinérant",N,N,"",0,48,"Phelan","","Wayne","Conservative","Conservateur",N,N,1
+11001,"Cardigan","Cardigan"," 502","Mobile poll/Bureau itinérant",N,N,"",0,48,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+11001,"Cardigan","Cardigan"," 503","Mobile poll/Bureau itinérant",N,N,"",3,62,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+11001,"Cardigan","Cardigan"," 503","Mobile poll/Bureau itinérant",N,N,"",3,62,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,17
+11001,"Cardigan","Cardigan"," 503","Mobile poll/Bureau itinérant",N,N,"",3,62,"MacLean","","Michael","Green Party","Parti Vert",N,N,1
+11001,"Cardigan","Cardigan"," 503","Mobile poll/Bureau itinérant",N,N,"",3,62,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 503","Mobile poll/Bureau itinérant",N,N,"",3,62,"Phelan","","Wayne","Conservative","Conservateur",N,N,15
+11001,"Cardigan","Cardigan"," 503","Mobile poll/Bureau itinérant",N,N,"",3,62,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+11001,"Cardigan","Cardigan"," 504","Mobile poll/Bureau itinérant",N,N,"",0,18,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,2
+11001,"Cardigan","Cardigan"," 504","Mobile poll/Bureau itinérant",N,N,"",0,18,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,2
+11001,"Cardigan","Cardigan"," 504","Mobile poll/Bureau itinérant",N,N,"",0,18,"MacLean","","Michael","Green Party","Parti Vert",N,N,0
+11001,"Cardigan","Cardigan"," 504","Mobile poll/Bureau itinérant",N,N,"",0,18,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+11001,"Cardigan","Cardigan"," 504","Mobile poll/Bureau itinérant",N,N,"",0,18,"Phelan","","Wayne","Conservative","Conservateur",N,N,9
+11001,"Cardigan","Cardigan"," 504","Mobile poll/Bureau itinérant",N,N,"",0,18,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+11001,"Cardigan","Cardigan"," 505","Mobile poll/Bureau itinérant",N,N,"",0,103,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+11001,"Cardigan","Cardigan"," 505","Mobile poll/Bureau itinérant",N,N,"",0,103,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,29
+11001,"Cardigan","Cardigan"," 505","Mobile poll/Bureau itinérant",N,N,"",0,103,"MacLean","","Michael","Green Party","Parti Vert",N,N,0
+11001,"Cardigan","Cardigan"," 505","Mobile poll/Bureau itinérant",N,N,"",0,103,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 505","Mobile poll/Bureau itinérant",N,N,"",0,103,"Phelan","","Wayne","Conservative","Conservateur",N,N,7
+11001,"Cardigan","Cardigan"," 505","Mobile poll/Bureau itinérant",N,N,"",0,103,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,3
+11001,"Cardigan","Cardigan"," 506","Mobile poll/Bureau itinérant",N,N,"",1,79,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+11001,"Cardigan","Cardigan"," 506","Mobile poll/Bureau itinérant",N,N,"",1,79,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,36
+11001,"Cardigan","Cardigan"," 506","Mobile poll/Bureau itinérant",N,N,"",1,79,"MacLean","","Michael","Green Party","Parti Vert",N,N,3
+11001,"Cardigan","Cardigan"," 506","Mobile poll/Bureau itinérant",N,N,"",1,79,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 506","Mobile poll/Bureau itinérant",N,N,"",1,79,"Phelan","","Wayne","Conservative","Conservateur",N,N,18
+11001,"Cardigan","Cardigan"," 506","Mobile poll/Bureau itinérant",N,N,"",1,79,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+11001,"Cardigan","Cardigan"," 507","Mobile poll/Bureau itinérant",N,N,"",0,24,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+11001,"Cardigan","Cardigan"," 507","Mobile poll/Bureau itinérant",N,N,"",0,24,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,8
+11001,"Cardigan","Cardigan"," 507","Mobile poll/Bureau itinérant",N,N,"",0,24,"MacLean","","Michael","Green Party","Parti Vert",N,N,0
+11001,"Cardigan","Cardigan"," 507","Mobile poll/Bureau itinérant",N,N,"",0,24,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 507","Mobile poll/Bureau itinérant",N,N,"",0,24,"Phelan","","Wayne","Conservative","Conservateur",N,N,7
+11001,"Cardigan","Cardigan"," 507","Mobile poll/Bureau itinérant",N,N,"",0,24,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1
+11001,"Cardigan","Cardigan"," 508","Mobile poll/Bureau itinérant",N,N,"",0,16,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,0
+11001,"Cardigan","Cardigan"," 508","Mobile poll/Bureau itinérant",N,N,"",0,16,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,11
+11001,"Cardigan","Cardigan"," 508","Mobile poll/Bureau itinérant",N,N,"",0,16,"MacLean","","Michael","Green Party","Parti Vert",N,N,0
+11001,"Cardigan","Cardigan"," 508","Mobile poll/Bureau itinérant",N,N,"",0,16,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," 508","Mobile poll/Bureau itinérant",N,N,"",0,16,"Phelan","","Wayne","Conservative","Conservateur",N,N,1
+11001,"Cardigan","Cardigan"," 508","Mobile poll/Bureau itinérant",N,N,"",0,16,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+11001,"Cardigan","Cardigan"," 600","Souris",N,N,"",13,0,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,31
+11001,"Cardigan","Cardigan"," 600","Souris",N,N,"",13,0,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,539
+11001,"Cardigan","Cardigan"," 600","Souris",N,N,"",13,0,"MacLean","","Michael","Green Party","Parti Vert",N,N,29
+11001,"Cardigan","Cardigan"," 600","Souris",N,N,"",13,0,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,7
+11001,"Cardigan","Cardigan"," 600","Souris",N,N,"",13,0,"Phelan","","Wayne","Conservative","Conservateur",N,N,304
+11001,"Cardigan","Cardigan"," 600","Souris",N,N,"",13,0,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+11001,"Cardigan","Cardigan"," 601","Mount Stewart",N,N,"",0,0,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,25
+11001,"Cardigan","Cardigan"," 601","Mount Stewart",N,N,"",0,0,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,510
+11001,"Cardigan","Cardigan"," 601","Mount Stewart",N,N,"",0,0,"MacLean","","Michael","Green Party","Parti Vert",N,N,27
+11001,"Cardigan","Cardigan"," 601","Mount Stewart",N,N,"",0,0,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+11001,"Cardigan","Cardigan"," 601","Mount Stewart",N,N,"",0,0,"Phelan","","Wayne","Conservative","Conservateur",N,N,272
+11001,"Cardigan","Cardigan"," 601","Mount Stewart",N,N,"",0,0,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+11001,"Cardigan","Cardigan"," 602","Central Kings--Three Rivers",N,N,"",9,0,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,25
+11001,"Cardigan","Cardigan"," 602","Central Kings--Three Rivers",N,N,"",9,0,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,381
+11001,"Cardigan","Cardigan"," 602","Central Kings--Three Rivers",N,N,"",9,0,"MacLean","","Michael","Green Party","Parti Vert",N,N,29
+11001,"Cardigan","Cardigan"," 602","Central Kings--Three Rivers",N,N,"",9,0,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,11
+11001,"Cardigan","Cardigan"," 602","Central Kings--Three Rivers",N,N,"",9,0,"Phelan","","Wayne","Conservative","Conservateur",N,N,236
+11001,"Cardigan","Cardigan"," 602","Central Kings--Three Rivers",N,N,"",9,0,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+11001,"Cardigan","Cardigan"," 603","Montague",N,N,"",9,0,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,25
+11001,"Cardigan","Cardigan"," 603","Montague",N,N,"",9,0,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,316
+11001,"Cardigan","Cardigan"," 603","Montague",N,N,"",9,0,"MacLean","","Michael","Green Party","Parti Vert",N,N,18
+11001,"Cardigan","Cardigan"," 603","Montague",N,N,"",9,0,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+11001,"Cardigan","Cardigan"," 603","Montague",N,N,"",9,0,"Phelan","","Wayne","Conservative","Conservateur",N,N,180
+11001,"Cardigan","Cardigan"," 603","Montague",N,N,"",9,0,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+11001,"Cardigan","Cardigan"," 604","Vernon River, Part 1",N,N,"",12,0,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,20
+11001,"Cardigan","Cardigan"," 604","Vernon River, Part 1",N,N,"",12,0,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,366
+11001,"Cardigan","Cardigan"," 604","Vernon River, Part 1",N,N,"",12,0,"MacLean","","Michael","Green Party","Parti Vert",N,N,25
+11001,"Cardigan","Cardigan"," 604","Vernon River, Part 1",N,N,"",12,0,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+11001,"Cardigan","Cardigan"," 604","Vernon River, Part 1",N,N,"",12,0,"Phelan","","Wayne","Conservative","Conservateur",N,N,263
+11001,"Cardigan","Cardigan"," 604","Vernon River, Part 1",N,N,"",12,0,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+11001,"Cardigan","Cardigan"," 605","Stratford",N,N,"",3,0,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,12
+11001,"Cardigan","Cardigan"," 605","Stratford",N,N,"",3,0,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,389
+11001,"Cardigan","Cardigan"," 605","Stratford",N,N,"",3,0,"MacLean","","Michael","Green Party","Parti Vert",N,N,43
+11001,"Cardigan","Cardigan"," 605","Stratford",N,N,"",3,0,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,7
+11001,"Cardigan","Cardigan"," 605","Stratford",N,N,"",3,0,"Phelan","","Wayne","Conservative","Conservateur",N,N,214
+11001,"Cardigan","Cardigan"," 605","Stratford",N,N,"",3,0,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+11001,"Cardigan","Cardigan"," 606","Stratford",N,N,"",17,0,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,9
+11001,"Cardigan","Cardigan"," 606","Stratford",N,N,"",17,0,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,633
+11001,"Cardigan","Cardigan"," 606","Stratford",N,N,"",17,0,"MacLean","","Michael","Green Party","Parti Vert",N,N,53
+11001,"Cardigan","Cardigan"," 606","Stratford",N,N,"",17,0,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,1
+11001,"Cardigan","Cardigan"," 606","Stratford",N,N,"",17,0,"Phelan","","Wayne","Conservative","Conservateur",N,N,286
+11001,"Cardigan","Cardigan"," 606","Stratford",N,N,"",17,0,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,99
+11001,"Cardigan","Cardigan"," 607","Stratford",N,N,"",8,0,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,10
+11001,"Cardigan","Cardigan"," 607","Stratford",N,N,"",8,0,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,491
+11001,"Cardigan","Cardigan"," 607","Stratford",N,N,"",8,0,"MacLean","","Michael","Green Party","Parti Vert",N,N,42
+11001,"Cardigan","Cardigan"," 607","Stratford",N,N,"",8,0,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,4
+11001,"Cardigan","Cardigan"," 607","Stratford",N,N,"",8,0,"Phelan","","Wayne","Conservative","Conservateur",N,N,274
+11001,"Cardigan","Cardigan"," 607","Stratford",N,N,"",8,0,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+11001,"Cardigan","Cardigan"," 608","Wood Islands",N,N,"",7,0,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,25
+11001,"Cardigan","Cardigan"," 608","Wood Islands",N,N,"",7,0,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,313
+11001,"Cardigan","Cardigan"," 608","Wood Islands",N,N,"",7,0,"MacLean","","Michael","Green Party","Parti Vert",N,N,22
+11001,"Cardigan","Cardigan"," 608","Wood Islands",N,N,"",7,0,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,9
+11001,"Cardigan","Cardigan"," 608","Wood Islands",N,N,"",7,0,"Phelan","","Wayne","Conservative","Conservateur",N,N,200
+11001,"Cardigan","Cardigan"," 608","Wood Islands",N,N,"",7,0,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+11001,"Cardigan","Cardigan"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,58,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,3
+11001,"Cardigan","Cardigan"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,58,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,95
+11001,"Cardigan","Cardigan"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,58,"MacLean","","Michael","Green Party","Parti Vert",N,N,12
+11001,"Cardigan","Cardigan"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,58,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,0
+11001,"Cardigan","Cardigan"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,58,"Phelan","","Wayne","Conservative","Conservateur",N,N,53
+11001,"Cardigan","Cardigan"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",5,58,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+11001,"Cardigan","Cardigan"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",9,0,"Hardy","","Kevin","People's Party - PPC","Parti populaire - PPC",N,N,18
+11001,"Cardigan","Cardigan"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",9,0,"MacAulay","","Lawrence","Liberal","Libéral",Y,Y,345
+11001,"Cardigan","Cardigan"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",9,0,"MacLean","","Michael","Green Party","Parti Vert",N,N,35
+11001,"Cardigan","Cardigan"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",9,0,"MacLeod","","Fred","Christian Heritage Party","Parti de l'Héritage Chrétien",N,N,3
+11001,"Cardigan","Cardigan"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",9,0,"Phelan","","Wayne","Conservative","Conservateur",N,N,227
+11001,"Cardigan","Cardigan"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",9,0,"Thiele","","Lynne","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73

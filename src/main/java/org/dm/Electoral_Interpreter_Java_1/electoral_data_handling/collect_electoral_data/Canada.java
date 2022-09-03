@@ -67,6 +67,10 @@ public class Canada
 	 */
 	public static Canada execute2021(String folder_str)
 	{
+	
+		// All right so how am I gonna get SHP data from shp_data_handling.ReadSHP
+		// I can only know that once I actually make ReadSHP return things
+		// So in ReadSHP i have to uuuh uh uh uuuh make a HashMap that goes...
 		
 		File folder = new File( folder_str );
 		File[] listOfFiles = folder.listFiles();
@@ -100,7 +104,6 @@ public class Canada
 				info = getNeccesaryInfoFromLine(sc.nextLine());
 				
 					// If the first line merges, save its number of electors for later mapped from the number of the polling station it merges to.
-					// Honestly, checking for merging should probably be done in the Riding class.
 				if (!info[4].equals(""))
 				{
 					merge_map.put(info[4], new mergeNode( Integer.parseInt(info[5]), info[2])  );
@@ -128,6 +131,7 @@ public class Canada
 					{
 						if (!mergeBool) 
 						{
+							// At each of three lines which create Polling_Stations, call the already interpreted SHP data and add it to this new PS.
 							current_riding.put( new Polling_Station(first_poll_name,first_poll_num,first_electors,getCandidateList(candidate_arraylist)) );
 						}
 						mergeBool = false;

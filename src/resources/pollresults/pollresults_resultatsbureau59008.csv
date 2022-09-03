@@ -1,0 +1,897 @@
+﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 1","Coquitlam",N,N,"",0,369,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,43
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 1","Coquitlam",N,N,"",0,369,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,4
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 1","Coquitlam",N,N,"",0,369,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 1","Coquitlam",N,N,"",0,369,"McKinnon","","Ron","Liberal","Libéral",Y,Y,44
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 2","Coquitlam",N,N,"",0,432,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,27
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 2","Coquitlam",N,N,"",0,432,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,4
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 2","Coquitlam",N,N,"",0,432,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 2","Coquitlam",N,N,"",0,432,"McKinnon","","Ron","Liberal","Libéral",Y,Y,62
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 3","Coquitlam",N,N,"",0,460,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,55
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 3","Coquitlam",N,N,"",0,460,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,3
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 3","Coquitlam",N,N,"",0,460,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 3","Coquitlam",N,N,"",0,460,"McKinnon","","Ron","Liberal","Libéral",Y,Y,69
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 4","Coquitlam",N,N,"",0,398,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,54
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 4","Coquitlam",N,N,"",0,398,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,1
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 4","Coquitlam",N,N,"",0,398,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 4","Coquitlam",N,N,"",0,398,"McKinnon","","Ron","Liberal","Libéral",Y,Y,73
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 5","Coquitlam",N,N,"",0,392,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,48
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 5","Coquitlam",N,N,"",0,392,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,2
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 5","Coquitlam",N,N,"",0,392,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 5","Coquitlam",N,N,"",0,392,"McKinnon","","Ron","Liberal","Libéral",Y,Y,65
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 6","Coquitlam",N,N,"",0,378,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,48
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 6","Coquitlam",N,N,"",0,378,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,7
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 6","Coquitlam",N,N,"",0,378,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 6","Coquitlam",N,N,"",0,378,"McKinnon","","Ron","Liberal","Libéral",Y,Y,88
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 7","Coquitlam",N,N,"",1,435,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,43
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 7","Coquitlam",N,N,"",1,435,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,4
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 7","Coquitlam",N,N,"",1,435,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 7","Coquitlam",N,N,"",1,435,"McKinnon","","Ron","Liberal","Libéral",Y,Y,67
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 8","Coquitlam",N,N,"",1,381,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,39
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 8","Coquitlam",N,N,"",1,381,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,10
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 8","Coquitlam",N,N,"",1,381,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 8","Coquitlam",N,N,"",1,381,"McKinnon","","Ron","Liberal","Libéral",Y,Y,54
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 9","Coquitlam",N,N,"",2,556,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,45
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 9","Coquitlam",N,N,"",2,556,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,1
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 9","Coquitlam",N,N,"",2,556,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 9","Coquitlam",N,N,"",2,556,"McKinnon","","Ron","Liberal","Libéral",Y,Y,66
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 10","Coquitlam",N,N,"",3,401,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,44
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 10","Coquitlam",N,N,"",3,401,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,3
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 10","Coquitlam",N,N,"",3,401,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,11
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 10","Coquitlam",N,N,"",3,401,"McKinnon","","Ron","Liberal","Libéral",Y,Y,54
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 11","Coquitlam",N,N,"",0,642,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,91
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 11","Coquitlam",N,N,"",0,642,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,5
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 11","Coquitlam",N,N,"",0,642,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 11","Coquitlam",N,N,"",0,642,"McKinnon","","Ron","Liberal","Libéral",Y,Y,84
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 12","Coquitlam",N,N,"",0,569,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,98
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 12","Coquitlam",N,N,"",0,569,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,2
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 12","Coquitlam",N,N,"",0,569,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 12","Coquitlam",N,N,"",0,569,"McKinnon","","Ron","Liberal","Libéral",Y,Y,108
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 13","Coquitlam",N,N,"",1,480,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,66
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 13","Coquitlam",N,N,"",1,480,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,6
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 13","Coquitlam",N,N,"",1,480,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 13","Coquitlam",N,N,"",1,480,"McKinnon","","Ron","Liberal","Libéral",Y,Y,48
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 14","Coquitlam",N,N,"",1,391,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,51
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 14","Coquitlam",N,N,"",1,391,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,4
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 14","Coquitlam",N,N,"",1,391,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 14","Coquitlam",N,N,"",1,391,"McKinnon","","Ron","Liberal","Libéral",Y,Y,49
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 15","Coquitlam",N,N,"",0,537,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,64
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 15","Coquitlam",N,N,"",0,537,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,2
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 15","Coquitlam",N,N,"",0,537,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 15","Coquitlam",N,N,"",0,537,"McKinnon","","Ron","Liberal","Libéral",Y,Y,75
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 16","Coquitlam",N,N,"",0,407,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,28
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 16","Coquitlam",N,N,"",0,407,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,7
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 16","Coquitlam",N,N,"",0,407,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 16","Coquitlam",N,N,"",0,407,"McKinnon","","Ron","Liberal","Libéral",Y,Y,53
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 17","Coquitlam",N,N,"",0,424,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,29
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 17","Coquitlam",N,N,"",0,424,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,1
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 17","Coquitlam",N,N,"",0,424,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 17","Coquitlam",N,N,"",0,424,"McKinnon","","Ron","Liberal","Libéral",Y,Y,57
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 18","Coquitlam",N,N,"",0,426,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,45
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 18","Coquitlam",N,N,"",0,426,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,11
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 18","Coquitlam",N,N,"",0,426,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 18","Coquitlam",N,N,"",0,426,"McKinnon","","Ron","Liberal","Libéral",Y,Y,62
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 19","Coquitlam",N,N,"",3,480,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,62
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 19","Coquitlam",N,N,"",3,480,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,0
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 19","Coquitlam",N,N,"",3,480,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 19","Coquitlam",N,N,"",3,480,"McKinnon","","Ron","Liberal","Libéral",Y,Y,87
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 20","Coquitlam",N,N,"",2,421,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,53
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 20","Coquitlam",N,N,"",2,421,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,1
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 20","Coquitlam",N,N,"",2,421,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 20","Coquitlam",N,N,"",2,421,"McKinnon","","Ron","Liberal","Libéral",Y,Y,63
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 21","Coquitlam",N,N,"",2,355,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,47
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 21","Coquitlam",N,N,"",2,355,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,0
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 21","Coquitlam",N,N,"",2,355,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 21","Coquitlam",N,N,"",2,355,"McKinnon","","Ron","Liberal","Libéral",Y,Y,42
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 22","Coquitlam",N,N,"",2,384,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,40
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 22","Coquitlam",N,N,"",2,384,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,11
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 22","Coquitlam",N,N,"",2,384,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 22","Coquitlam",N,N,"",2,384,"McKinnon","","Ron","Liberal","Libéral",Y,Y,68
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 23","Coquitlam",N,N,"",0,377,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,43
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 23","Coquitlam",N,N,"",0,377,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,2
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 23","Coquitlam",N,N,"",0,377,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 23","Coquitlam",N,N,"",0,377,"McKinnon","","Ron","Liberal","Libéral",Y,Y,54
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 24","Coquitlam",N,N,"",0,410,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,30
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 24","Coquitlam",N,N,"",0,410,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,1
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 24","Coquitlam",N,N,"",0,410,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 24","Coquitlam",N,N,"",0,410,"McKinnon","","Ron","Liberal","Libéral",Y,Y,82
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 25","Coquitlam",N,N,"",0,383,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,46
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 25","Coquitlam",N,N,"",0,383,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,5
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 25","Coquitlam",N,N,"",0,383,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 25","Coquitlam",N,N,"",0,383,"McKinnon","","Ron","Liberal","Libéral",Y,Y,69
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 26","Coquitlam",N,N,"",1,505,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,71
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 26","Coquitlam",N,N,"",1,505,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,13
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 26","Coquitlam",N,N,"",1,505,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,33
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 26","Coquitlam",N,N,"",1,505,"McKinnon","","Ron","Liberal","Libéral",Y,Y,114
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 27","Coquitlam",N,N,"",1,334,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,34
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 27","Coquitlam",N,N,"",1,334,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,2
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 27","Coquitlam",N,N,"",1,334,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,23
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 27","Coquitlam",N,N,"",1,334,"McKinnon","","Ron","Liberal","Libéral",Y,Y,43
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 28","Coquitlam",N,N,"",0,396,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,20
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 28","Coquitlam",N,N,"",0,396,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,4
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 28","Coquitlam",N,N,"",0,396,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 28","Coquitlam",N,N,"",0,396,"McKinnon","","Ron","Liberal","Libéral",Y,Y,51
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 29","Coquitlam",N,N,"",0,472,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,38
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 29","Coquitlam",N,N,"",0,472,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,5
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 29","Coquitlam",N,N,"",0,472,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 29","Coquitlam",N,N,"",0,472,"McKinnon","","Ron","Liberal","Libéral",Y,Y,66
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 30","Coquitlam",N,N,"",1,463,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,67
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 30","Coquitlam",N,N,"",1,463,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,3
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 30","Coquitlam",N,N,"",1,463,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,14
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 30","Coquitlam",N,N,"",1,463,"McKinnon","","Ron","Liberal","Libéral",Y,Y,65
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 31","Coquitlam",N,N,"",1,409,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,56
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 31","Coquitlam",N,N,"",1,409,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,8
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 31","Coquitlam",N,N,"",1,409,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 31","Coquitlam",N,N,"",1,409,"McKinnon","","Ron","Liberal","Libéral",Y,Y,56
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 32","Coquitlam",N,N,"",0,433,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,40
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 32","Coquitlam",N,N,"",0,433,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,5
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 32","Coquitlam",N,N,"",0,433,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 32","Coquitlam",N,N,"",0,433,"McKinnon","","Ron","Liberal","Libéral",Y,Y,52
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 33","Coquitlam",N,N,"",0,514,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,44
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 33","Coquitlam",N,N,"",0,514,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,3
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 33","Coquitlam",N,N,"",0,514,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,20
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 33","Coquitlam",N,N,"",0,514,"McKinnon","","Ron","Liberal","Libéral",Y,Y,93
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 34","Coquitlam",N,N,"",0,458,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,45
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 34","Coquitlam",N,N,"",0,458,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,4
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 34","Coquitlam",N,N,"",0,458,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 34","Coquitlam",N,N,"",0,458,"McKinnon","","Ron","Liberal","Libéral",Y,Y,51
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 35","Coquitlam",N,N,"",1,528,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,35
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 35","Coquitlam",N,N,"",1,528,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,5
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 35","Coquitlam",N,N,"",1,528,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 35","Coquitlam",N,N,"",1,528,"McKinnon","","Ron","Liberal","Libéral",Y,Y,72
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 36","Coquitlam",N,N,"",0,387,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,38
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 36","Coquitlam",N,N,"",0,387,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,3
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 36","Coquitlam",N,N,"",0,387,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,15
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 36","Coquitlam",N,N,"",0,387,"McKinnon","","Ron","Liberal","Libéral",Y,Y,50
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 37","Coquitlam",N,N,"",1,475,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,38
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 37","Coquitlam",N,N,"",1,475,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,4
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 37","Coquitlam",N,N,"",1,475,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 37","Coquitlam",N,N,"",1,475,"McKinnon","","Ron","Liberal","Libéral",Y,Y,62
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 38","Coquitlam",N,N,"",0,481,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,26
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 38","Coquitlam",N,N,"",0,481,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,5
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 38","Coquitlam",N,N,"",0,481,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 38","Coquitlam",N,N,"",0,481,"McKinnon","","Ron","Liberal","Libéral",Y,Y,62
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 39","Coquitlam",N,N,"",3,450,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,28
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 39","Coquitlam",N,N,"",3,450,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,2
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 39","Coquitlam",N,N,"",3,450,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 39","Coquitlam",N,N,"",3,450,"McKinnon","","Ron","Liberal","Libéral",Y,Y,45
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 40","Coquitlam",N,N,"",0,408,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,23
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 40","Coquitlam",N,N,"",0,408,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,3
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 40","Coquitlam",N,N,"",0,408,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,12
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 40","Coquitlam",N,N,"",0,408,"McKinnon","","Ron","Liberal","Libéral",Y,Y,45
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 41","Coquitlam",N,N,"",1,376,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,34
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 41","Coquitlam",N,N,"",1,376,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,1
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 41","Coquitlam",N,N,"",1,376,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 41","Coquitlam",N,N,"",1,376,"McKinnon","","Ron","Liberal","Libéral",Y,Y,45
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 42","Coquitlam",N,N,"",2,364,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,17
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 42","Coquitlam",N,N,"",2,364,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,5
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 42","Coquitlam",N,N,"",2,364,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 42","Coquitlam",N,N,"",2,364,"McKinnon","","Ron","Liberal","Libéral",Y,Y,59
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 43","Coquitlam",N,N,"",1,366,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,46
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 43","Coquitlam",N,N,"",1,366,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,4
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 43","Coquitlam",N,N,"",1,366,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,28
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 43","Coquitlam",N,N,"",1,366,"McKinnon","","Ron","Liberal","Libéral",Y,Y,44
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 44","Coquitlam",N,N,"",2,369,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,47
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 44","Coquitlam",N,N,"",2,369,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,3
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 44","Coquitlam",N,N,"",2,369,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,26
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 44","Coquitlam",N,N,"",2,369,"McKinnon","","Ron","Liberal","Libéral",Y,Y,55
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 45","Coquitlam",N,N,"",1,455,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,50
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 45","Coquitlam",N,N,"",1,455,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,3
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 45","Coquitlam",N,N,"",1,455,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 45","Coquitlam",N,N,"",1,455,"McKinnon","","Ron","Liberal","Libéral",Y,Y,55
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 46","Coquitlam",N,N,"",0,488,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,47
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 46","Coquitlam",N,N,"",0,488,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,6
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 46","Coquitlam",N,N,"",0,488,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 46","Coquitlam",N,N,"",0,488,"McKinnon","","Ron","Liberal","Libéral",Y,Y,86
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 47","Coquitlam",N,N,"",0,409,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,41
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 47","Coquitlam",N,N,"",0,409,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,4
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 47","Coquitlam",N,N,"",0,409,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 47","Coquitlam",N,N,"",0,409,"McKinnon","","Ron","Liberal","Libéral",Y,Y,48
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 48","Coquitlam",N,N,"",2,717,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,66
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 48","Coquitlam",N,N,"",2,717,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,4
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 48","Coquitlam",N,N,"",2,717,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 48","Coquitlam",N,N,"",2,717,"McKinnon","","Ron","Liberal","Libéral",Y,Y,97
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 49","Coquitlam",N,N,"",1,471,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,47
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 49","Coquitlam",N,N,"",1,471,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,5
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 49","Coquitlam",N,N,"",1,471,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 49","Coquitlam",N,N,"",1,471,"McKinnon","","Ron","Liberal","Libéral",Y,Y,59
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 50","Coquitlam",N,N,"",1,615,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,48
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 50","Coquitlam",N,N,"",1,615,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,7
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 50","Coquitlam",N,N,"",1,615,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,49
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 50","Coquitlam",N,N,"",1,615,"McKinnon","","Ron","Liberal","Libéral",Y,Y,81
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 51","Coquitlam",N,N,"",1,475,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,64
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 51","Coquitlam",N,N,"",1,475,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,7
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 51","Coquitlam",N,N,"",1,475,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 51","Coquitlam",N,N,"",1,475,"McKinnon","","Ron","Liberal","Libéral",Y,Y,88
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 52","Coquitlam",N,N,"",2,514,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,41
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 52","Coquitlam",N,N,"",2,514,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,2
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 52","Coquitlam",N,N,"",2,514,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 52","Coquitlam",N,N,"",2,514,"McKinnon","","Ron","Liberal","Libéral",Y,Y,78
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 53","Coquitlam",N,N,"",0,548,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,35
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 53","Coquitlam",N,N,"",0,548,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,2
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 53","Coquitlam",N,N,"",0,548,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 53","Coquitlam",N,N,"",0,548,"McKinnon","","Ron","Liberal","Libéral",Y,Y,59
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 54","Coquitlam",N,N,"",1,515,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,45
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 54","Coquitlam",N,N,"",1,515,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,1
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 54","Coquitlam",N,N,"",1,515,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,55
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 54","Coquitlam",N,N,"",1,515,"McKinnon","","Ron","Liberal","Libéral",Y,Y,74
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 55","Coquitlam",N,N,"",0,455,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,32
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 55","Coquitlam",N,N,"",0,455,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,5
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 55","Coquitlam",N,N,"",0,455,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 55","Coquitlam",N,N,"",0,455,"McKinnon","","Ron","Liberal","Libéral",Y,Y,53
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 56","Coquitlam",N,N,"",0,425,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,24
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 56","Coquitlam",N,N,"",0,425,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,4
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 56","Coquitlam",N,N,"",0,425,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 56","Coquitlam",N,N,"",0,425,"McKinnon","","Ron","Liberal","Libéral",Y,Y,61
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 57","Coquitlam",N,N,"",0,434,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,23
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 57","Coquitlam",N,N,"",0,434,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,5
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 57","Coquitlam",N,N,"",0,434,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 57","Coquitlam",N,N,"",0,434,"McKinnon","","Ron","Liberal","Libéral",Y,Y,44
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 58","Coquitlam",N,N,"",1,403,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,21
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 58","Coquitlam",N,N,"",1,403,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,6
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 58","Coquitlam",N,N,"",1,403,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 58","Coquitlam",N,N,"",1,403,"McKinnon","","Ron","Liberal","Libéral",Y,Y,35
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 59","Coquitlam",N,N,"",4,565,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,73
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 59","Coquitlam",N,N,"",4,565,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,5
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 59","Coquitlam",N,N,"",4,565,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 59","Coquitlam",N,N,"",4,565,"McKinnon","","Ron","Liberal","Libéral",Y,Y,116
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 60","Coquitlam",N,N,"",2,526,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,70
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 60","Coquitlam",N,N,"",2,526,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,8
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 60","Coquitlam",N,N,"",2,526,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 60","Coquitlam",N,N,"",2,526,"McKinnon","","Ron","Liberal","Libéral",Y,Y,52
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 61","Coquitlam",N,N,"",0,602,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,70
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 61","Coquitlam",N,N,"",0,602,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,7
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 61","Coquitlam",N,N,"",0,602,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 61","Coquitlam",N,N,"",0,602,"McKinnon","","Ron","Liberal","Libéral",Y,Y,84
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 62","Coquitlam",N,N,"",1,554,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,77
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 62","Coquitlam",N,N,"",1,554,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,7
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 62","Coquitlam",N,N,"",1,554,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 62","Coquitlam",N,N,"",1,554,"McKinnon","","Ron","Liberal","Libéral",Y,Y,101
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 63","Coquitlam",N,N,"65",0,334,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,0
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 63","Coquitlam",N,N,"65",0,334,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,0
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 63","Coquitlam",N,N,"65",0,334,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 63","Coquitlam",N,N,"65",0,334,"McKinnon","","Ron","Liberal","Libéral",Y,Y,0
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 64","Coquitlam",N,N,"",0,808,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,86
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 64","Coquitlam",N,N,"",0,808,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,3
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 64","Coquitlam",N,N,"",0,808,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 64","Coquitlam",N,N,"",0,808,"McKinnon","","Ron","Liberal","Libéral",Y,Y,108
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 65","Coquitlam",N,N,"",3,306,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,75
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 65","Coquitlam",N,N,"",3,306,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,2
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 65","Coquitlam",N,N,"",3,306,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 65","Coquitlam",N,N,"",3,306,"McKinnon","","Ron","Liberal","Libéral",Y,Y,86
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 66","Coquitlam",N,N,"",0,955,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,103
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 66","Coquitlam",N,N,"",0,955,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,11
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 66","Coquitlam",N,N,"",0,955,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 66","Coquitlam",N,N,"",0,955,"McKinnon","","Ron","Liberal","Libéral",Y,Y,137
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 67","Coquitlam",N,N,"",0,467,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,59
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 67","Coquitlam",N,N,"",0,467,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,8
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 67","Coquitlam",N,N,"",0,467,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 67","Coquitlam",N,N,"",0,467,"McKinnon","","Ron","Liberal","Libéral",Y,Y,56
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 68","Coquitlam",N,N,"",1,455,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,50
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 68","Coquitlam",N,N,"",1,455,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,2
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 68","Coquitlam",N,N,"",1,455,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 68","Coquitlam",N,N,"",1,455,"McKinnon","","Ron","Liberal","Libéral",Y,Y,66
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 69","Coquitlam",N,N,"",1,507,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,60
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 69","Coquitlam",N,N,"",1,507,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,7
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 69","Coquitlam",N,N,"",1,507,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 69","Coquitlam",N,N,"",1,507,"McKinnon","","Ron","Liberal","Libéral",Y,Y,85
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 70","Coquitlam",N,N,"",0,452,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,53
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 70","Coquitlam",N,N,"",0,452,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,15
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 70","Coquitlam",N,N,"",0,452,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 70","Coquitlam",N,N,"",0,452,"McKinnon","","Ron","Liberal","Libéral",Y,Y,83
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 71","Coquitlam",N,N,"",0,400,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,63
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 71","Coquitlam",N,N,"",0,400,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,4
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 71","Coquitlam",N,N,"",0,400,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 71","Coquitlam",N,N,"",0,400,"McKinnon","","Ron","Liberal","Libéral",Y,Y,60
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 72","Coquitlam",N,N,"",0,360,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,37
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 72","Coquitlam",N,N,"",0,360,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,7
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 72","Coquitlam",N,N,"",0,360,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 72","Coquitlam",N,N,"",0,360,"McKinnon","","Ron","Liberal","Libéral",Y,Y,69
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 73","Coquitlam",N,N,"",0,253,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,16
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 73","Coquitlam",N,N,"",0,253,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,2
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 73","Coquitlam",N,N,"",0,253,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,22
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 73","Coquitlam",N,N,"",0,253,"McKinnon","","Ron","Liberal","Libéral",Y,Y,28
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 74","Coquitlam",N,N,"",0,438,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,20
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 74","Coquitlam",N,N,"",0,438,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,3
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 74","Coquitlam",N,N,"",0,438,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 74","Coquitlam",N,N,"",0,438,"McKinnon","","Ron","Liberal","Libéral",Y,Y,32
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 75","Coquitlam",N,N,"",0,437,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,27
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 75","Coquitlam",N,N,"",0,437,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,7
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 75","Coquitlam",N,N,"",0,437,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,30
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 75","Coquitlam",N,N,"",0,437,"McKinnon","","Ron","Liberal","Libéral",Y,Y,43
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 76","Coquitlam",N,N,"",0,454,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,33
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 76","Coquitlam",N,N,"",0,454,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,12
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 76","Coquitlam",N,N,"",0,454,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 76","Coquitlam",N,N,"",0,454,"McKinnon","","Ron","Liberal","Libéral",Y,Y,46
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 77","Coquitlam",N,N,"",0,528,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,46
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 77","Coquitlam",N,N,"",0,528,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,10
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 77","Coquitlam",N,N,"",0,528,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 77","Coquitlam",N,N,"",0,528,"McKinnon","","Ron","Liberal","Libéral",Y,Y,76
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 78","Coquitlam",N,N,"",0,587,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,43
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 78","Coquitlam",N,N,"",0,587,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,9
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 78","Coquitlam",N,N,"",0,587,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 78","Coquitlam",N,N,"",0,587,"McKinnon","","Ron","Liberal","Libéral",Y,Y,67
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 79","Coquitlam",N,N,"",2,399,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,48
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 79","Coquitlam",N,N,"",2,399,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,6
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 79","Coquitlam",N,N,"",2,399,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,39
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 79","Coquitlam",N,N,"",2,399,"McKinnon","","Ron","Liberal","Libéral",Y,Y,45
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 80","Coquitlam",N,N,"",0,476,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,39
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 80","Coquitlam",N,N,"",0,476,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,9
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 80","Coquitlam",N,N,"",0,476,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 80","Coquitlam",N,N,"",0,476,"McKinnon","","Ron","Liberal","Libéral",Y,Y,39
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 81","Coquitlam",N,N,"",1,390,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,31
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 81","Coquitlam",N,N,"",1,390,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,5
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 81","Coquitlam",N,N,"",1,390,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 81","Coquitlam",N,N,"",1,390,"McKinnon","","Ron","Liberal","Libéral",Y,Y,40
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 82","Coquitlam",N,N,"",0,500,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,25
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 82","Coquitlam",N,N,"",0,500,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,7
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 82","Coquitlam",N,N,"",0,500,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,41
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 82","Coquitlam",N,N,"",0,500,"McKinnon","","Ron","Liberal","Libéral",Y,Y,51
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 83","Coquitlam",N,N,"",1,374,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,22
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 83","Coquitlam",N,N,"",1,374,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,8
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 83","Coquitlam",N,N,"",1,374,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 83","Coquitlam",N,N,"",1,374,"McKinnon","","Ron","Liberal","Libéral",Y,Y,25
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 84","Coquitlam",N,N,"",1,585,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,39
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 84","Coquitlam",N,N,"",1,585,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,6
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 84","Coquitlam",N,N,"",1,585,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 84","Coquitlam",N,N,"",1,585,"McKinnon","","Ron","Liberal","Libéral",Y,Y,60
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 85","Coquitlam",N,N,"",0,560,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,37
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 85","Coquitlam",N,N,"",0,560,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,5
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 85","Coquitlam",N,N,"",0,560,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,32
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 85","Coquitlam",N,N,"",0,560,"McKinnon","","Ron","Liberal","Libéral",Y,Y,51
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 86","Coquitlam",N,N,"",0,557,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,18
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 86","Coquitlam",N,N,"",0,557,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,3
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 86","Coquitlam",N,N,"",0,557,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 86","Coquitlam",N,N,"",0,557,"McKinnon","","Ron","Liberal","Libéral",Y,Y,60
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 87","Coquitlam",N,N,"",3,560,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,44
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 87","Coquitlam",N,N,"",3,560,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,14
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 87","Coquitlam",N,N,"",3,560,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 87","Coquitlam",N,N,"",3,560,"McKinnon","","Ron","Liberal","Libéral",Y,Y,59
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 88","Coquitlam",N,N,"",0,591,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,32
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 88","Coquitlam",N,N,"",0,591,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,6
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 88","Coquitlam",N,N,"",0,591,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 88","Coquitlam",N,N,"",0,591,"McKinnon","","Ron","Liberal","Libéral",Y,Y,65
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 89","Coquitlam",N,N,"",0,419,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,26
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 89","Coquitlam",N,N,"",0,419,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,1
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 89","Coquitlam",N,N,"",0,419,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 89","Coquitlam",N,N,"",0,419,"McKinnon","","Ron","Liberal","Libéral",Y,Y,48
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 90","Coquitlam",N,N,"",0,436,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,24
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 90","Coquitlam",N,N,"",0,436,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,8
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 90","Coquitlam",N,N,"",0,436,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,36
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 90","Coquitlam",N,N,"",0,436,"McKinnon","","Ron","Liberal","Libéral",Y,Y,48
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 91","Coquitlam",N,N,"",2,374,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,29
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 91","Coquitlam",N,N,"",2,374,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,3
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 91","Coquitlam",N,N,"",2,374,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,37
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 91","Coquitlam",N,N,"",2,374,"McKinnon","","Ron","Liberal","Libéral",Y,Y,45
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 92","Coquitlam",N,N,"",0,420,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,41
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 92","Coquitlam",N,N,"",0,420,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,4
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 92","Coquitlam",N,N,"",0,420,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 92","Coquitlam",N,N,"",0,420,"McKinnon","","Ron","Liberal","Libéral",Y,Y,56
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 93","Coquitlam",N,N,"",0,763,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,47
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 93","Coquitlam",N,N,"",0,763,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,4
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 93","Coquitlam",N,N,"",0,763,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 93","Coquitlam",N,N,"",0,763,"McKinnon","","Ron","Liberal","Libéral",Y,Y,104
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 94","Coquitlam",N,N,"",1,537,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,29
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 94","Coquitlam",N,N,"",1,537,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,6
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 94","Coquitlam",N,N,"",1,537,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 94","Coquitlam",N,N,"",1,537,"McKinnon","","Ron","Liberal","Libéral",Y,Y,71
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 95","Coquitlam",N,N,"",0,376,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,22
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 95","Coquitlam",N,N,"",0,376,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,3
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 95","Coquitlam",N,N,"",0,376,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,27
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 95","Coquitlam",N,N,"",0,376,"McKinnon","","Ron","Liberal","Libéral",Y,Y,40
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 96","Coquitlam",N,N,"",0,1161,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,65
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 96","Coquitlam",N,N,"",0,1161,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,8
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 96","Coquitlam",N,N,"",0,1161,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,79
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 96","Coquitlam",N,N,"",0,1161,"McKinnon","","Ron","Liberal","Libéral",Y,Y,165
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 97","Coquitlam",N,N,"",1,514,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,45
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 97","Coquitlam",N,N,"",1,514,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,4
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 97","Coquitlam",N,N,"",1,514,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,38
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 97","Coquitlam",N,N,"",1,514,"McKinnon","","Ron","Liberal","Libéral",Y,Y,57
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 98","Port Coquitlam",N,N,"",2,532,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,40
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 98","Port Coquitlam",N,N,"",2,532,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,15
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 98","Port Coquitlam",N,N,"",2,532,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 98","Port Coquitlam",N,N,"",2,532,"McKinnon","","Ron","Liberal","Libéral",Y,Y,68
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 99","Port Coquitlam",N,N,"",2,571,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,49
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 99","Port Coquitlam",N,N,"",2,571,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,13
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 99","Port Coquitlam",N,N,"",2,571,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 99","Port Coquitlam",N,N,"",2,571,"McKinnon","","Ron","Liberal","Libéral",Y,Y,58
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 100","Port Coquitlam",N,N,"",1,441,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,53
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 100","Port Coquitlam",N,N,"",1,441,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,7
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 100","Port Coquitlam",N,N,"",1,441,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 100","Port Coquitlam",N,N,"",1,441,"McKinnon","","Ron","Liberal","Libéral",Y,Y,68
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 101","Port Coquitlam",N,N,"",1,435,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,31
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 101","Port Coquitlam",N,N,"",1,435,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,2
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 101","Port Coquitlam",N,N,"",1,435,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 101","Port Coquitlam",N,N,"",1,435,"McKinnon","","Ron","Liberal","Libéral",Y,Y,43
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 102","Port Coquitlam",N,N,"",1,452,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,36
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 102","Port Coquitlam",N,N,"",1,452,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,9
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 102","Port Coquitlam",N,N,"",1,452,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,35
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 102","Port Coquitlam",N,N,"",1,452,"McKinnon","","Ron","Liberal","Libéral",Y,Y,52
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 103","Port Coquitlam",N,N,"",1,524,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,64
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 103","Port Coquitlam",N,N,"",1,524,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,4
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 103","Port Coquitlam",N,N,"",1,524,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 103","Port Coquitlam",N,N,"",1,524,"McKinnon","","Ron","Liberal","Libéral",Y,Y,72
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 104","Coquitlam",N,N,"",0,485,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,64
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 104","Coquitlam",N,N,"",0,485,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,11
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 104","Coquitlam",N,N,"",0,485,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,25
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 104","Coquitlam",N,N,"",0,485,"McKinnon","","Ron","Liberal","Libéral",Y,Y,73
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 105","Coquitlam",N,N,"",1,515,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,59
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 105","Coquitlam",N,N,"",1,515,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,2
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 105","Coquitlam",N,N,"",1,515,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 105","Coquitlam",N,N,"",1,515,"McKinnon","","Ron","Liberal","Libéral",Y,Y,65
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 106","Port Coquitlam",N,N,"",2,415,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,51
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 106","Port Coquitlam",N,N,"",2,415,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,6
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 106","Port Coquitlam",N,N,"",2,415,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 106","Port Coquitlam",N,N,"",2,415,"McKinnon","","Ron","Liberal","Libéral",Y,Y,44
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 107","Coquitlam",N,N,"",0,611,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,82
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 107","Coquitlam",N,N,"",0,611,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,6
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 107","Coquitlam",N,N,"",0,611,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 107","Coquitlam",N,N,"",0,611,"McKinnon","","Ron","Liberal","Libéral",Y,Y,73
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 108","Port Coquitlam",N,N,"",0,481,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,59
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 108","Port Coquitlam",N,N,"",0,481,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,9
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 108","Port Coquitlam",N,N,"",0,481,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 108","Port Coquitlam",N,N,"",0,481,"McKinnon","","Ron","Liberal","Libéral",Y,Y,56
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 109","Port Coquitlam",N,N,"",1,424,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,52
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 109","Port Coquitlam",N,N,"",1,424,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,9
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 109","Port Coquitlam",N,N,"",1,424,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 109","Port Coquitlam",N,N,"",1,424,"McKinnon","","Ron","Liberal","Libéral",Y,Y,45
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 110","Port Coquitlam",N,N,"",0,426,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,42
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 110","Port Coquitlam",N,N,"",0,426,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,8
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 110","Port Coquitlam",N,N,"",0,426,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 110","Port Coquitlam",N,N,"",0,426,"McKinnon","","Ron","Liberal","Libéral",Y,Y,58
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 111","Port Coquitlam",N,N,"",1,385,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,42
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 111","Port Coquitlam",N,N,"",1,385,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,3
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 111","Port Coquitlam",N,N,"",1,385,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 111","Port Coquitlam",N,N,"",1,385,"McKinnon","","Ron","Liberal","Libéral",Y,Y,53
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 112","Port Coquitlam",N,N,"",0,399,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,44
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 112","Port Coquitlam",N,N,"",0,399,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,8
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 112","Port Coquitlam",N,N,"",0,399,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 112","Port Coquitlam",N,N,"",0,399,"McKinnon","","Ron","Liberal","Libéral",Y,Y,37
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 113","Port Coquitlam",N,N,"",0,469,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,46
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 113","Port Coquitlam",N,N,"",0,469,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,12
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 113","Port Coquitlam",N,N,"",0,469,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 113","Port Coquitlam",N,N,"",0,469,"McKinnon","","Ron","Liberal","Libéral",Y,Y,59
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 114","Port Coquitlam",N,N,"",2,611,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,48
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 114","Port Coquitlam",N,N,"",2,611,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,4
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 114","Port Coquitlam",N,N,"",2,611,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 114","Port Coquitlam",N,N,"",2,611,"McKinnon","","Ron","Liberal","Libéral",Y,Y,54
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 115","Port Coquitlam",N,N,"",2,465,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,50
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 115","Port Coquitlam",N,N,"",2,465,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,11
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 115","Port Coquitlam",N,N,"",2,465,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,76
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 115","Port Coquitlam",N,N,"",2,465,"McKinnon","","Ron","Liberal","Libéral",Y,Y,58
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 116","Port Coquitlam",N,N,"",0,481,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,53
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 116","Port Coquitlam",N,N,"",0,481,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,13
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 116","Port Coquitlam",N,N,"",0,481,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,69
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 116","Port Coquitlam",N,N,"",0,481,"McKinnon","","Ron","Liberal","Libéral",Y,Y,93
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 117","Port Coquitlam",N,N,"",0,412,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,39
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 117","Port Coquitlam",N,N,"",0,412,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,2
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 117","Port Coquitlam",N,N,"",0,412,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 117","Port Coquitlam",N,N,"",0,412,"McKinnon","","Ron","Liberal","Libéral",Y,Y,50
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 118","Port Coquitlam",N,N,"",0,507,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,49
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 118","Port Coquitlam",N,N,"",0,507,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,10
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 118","Port Coquitlam",N,N,"",0,507,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 118","Port Coquitlam",N,N,"",0,507,"McKinnon","","Ron","Liberal","Libéral",Y,Y,55
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 119","Port Coquitlam",N,N,"",0,449,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,55
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 119","Port Coquitlam",N,N,"",0,449,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,6
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 119","Port Coquitlam",N,N,"",0,449,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 119","Port Coquitlam",N,N,"",0,449,"McKinnon","","Ron","Liberal","Libéral",Y,Y,49
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 120","Port Coquitlam",N,N,"",1,463,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,49
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 120","Port Coquitlam",N,N,"",1,463,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,11
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 120","Port Coquitlam",N,N,"",1,463,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,64
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 120","Port Coquitlam",N,N,"",1,463,"McKinnon","","Ron","Liberal","Libéral",Y,Y,39
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 121","Port Coquitlam",N,N,"",0,481,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,49
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 121","Port Coquitlam",N,N,"",0,481,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,5
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 121","Port Coquitlam",N,N,"",0,481,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 121","Port Coquitlam",N,N,"",0,481,"McKinnon","","Ron","Liberal","Libéral",Y,Y,56
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 122","Port Coquitlam",N,N,"",0,468,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,41
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 122","Port Coquitlam",N,N,"",0,468,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,15
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 122","Port Coquitlam",N,N,"",0,468,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 122","Port Coquitlam",N,N,"",0,468,"McKinnon","","Ron","Liberal","Libéral",Y,Y,45
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 123","Port Coquitlam",N,N,"",1,542,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,42
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 123","Port Coquitlam",N,N,"",1,542,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,9
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 123","Port Coquitlam",N,N,"",1,542,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,68
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 123","Port Coquitlam",N,N,"",1,542,"McKinnon","","Ron","Liberal","Libéral",Y,Y,62
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 124","Port Coquitlam",N,N,"",2,560,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,40
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 124","Port Coquitlam",N,N,"",2,560,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,11
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 124","Port Coquitlam",N,N,"",2,560,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 124","Port Coquitlam",N,N,"",2,560,"McKinnon","","Ron","Liberal","Libéral",Y,Y,62
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 125","Port Coquitlam",N,N,"",1,555,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,52
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 125","Port Coquitlam",N,N,"",1,555,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,3
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 125","Port Coquitlam",N,N,"",1,555,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,82
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 125","Port Coquitlam",N,N,"",1,555,"McKinnon","","Ron","Liberal","Libéral",Y,Y,72
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 126","Port Coquitlam",N,N,"",1,496,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,56
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 126","Port Coquitlam",N,N,"",1,496,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,10
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 126","Port Coquitlam",N,N,"",1,496,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,82
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 126","Port Coquitlam",N,N,"",1,496,"McKinnon","","Ron","Liberal","Libéral",Y,Y,75
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 127","Port Coquitlam",N,N,"",2,429,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,31
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 127","Port Coquitlam",N,N,"",2,429,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,5
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 127","Port Coquitlam",N,N,"",2,429,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 127","Port Coquitlam",N,N,"",2,429,"McKinnon","","Ron","Liberal","Libéral",Y,Y,62
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 128","Port Coquitlam",N,N,"",2,527,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,54
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 128","Port Coquitlam",N,N,"",2,527,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,11
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 128","Port Coquitlam",N,N,"",2,527,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,75
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 128","Port Coquitlam",N,N,"",2,527,"McKinnon","","Ron","Liberal","Libéral",Y,Y,54
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 129","Port Coquitlam",N,N,"",3,503,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,54
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 129","Port Coquitlam",N,N,"",3,503,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,11
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 129","Port Coquitlam",N,N,"",3,503,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 129","Port Coquitlam",N,N,"",3,503,"McKinnon","","Ron","Liberal","Libéral",Y,Y,79
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 130","Port Coquitlam",N,N,"",2,607,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,60
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 130","Port Coquitlam",N,N,"",2,607,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,14
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 130","Port Coquitlam",N,N,"",2,607,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,92
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 130","Port Coquitlam",N,N,"",2,607,"McKinnon","","Ron","Liberal","Libéral",Y,Y,110
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 131","Port Coquitlam",N,N,"132",0,330,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,0
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 131","Port Coquitlam",N,N,"132",0,330,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,0
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 131","Port Coquitlam",N,N,"132",0,330,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 131","Port Coquitlam",N,N,"132",0,330,"McKinnon","","Ron","Liberal","Libéral",Y,Y,0
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 132","Port Coquitlam",N,N,"",2,418,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,55
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 132","Port Coquitlam",N,N,"",2,418,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,16
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 132","Port Coquitlam",N,N,"",2,418,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 132","Port Coquitlam",N,N,"",2,418,"McKinnon","","Ron","Liberal","Libéral",Y,Y,74
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 133","Port Coquitlam",N,N,"",1,507,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,32
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 133","Port Coquitlam",N,N,"",1,507,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,8
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 133","Port Coquitlam",N,N,"",1,507,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 133","Port Coquitlam",N,N,"",1,507,"McKinnon","","Ron","Liberal","Libéral",Y,Y,55
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 134","Port Coquitlam",N,N,"",0,579,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,34
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 134","Port Coquitlam",N,N,"",0,579,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,5
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 134","Port Coquitlam",N,N,"",0,579,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 134","Port Coquitlam",N,N,"",0,579,"McKinnon","","Ron","Liberal","Libéral",Y,Y,50
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 135","Port Coquitlam",N,N,"",2,515,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,60
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 135","Port Coquitlam",N,N,"",2,515,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,5
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 135","Port Coquitlam",N,N,"",2,515,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,59
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 135","Port Coquitlam",N,N,"",2,515,"McKinnon","","Ron","Liberal","Libéral",Y,Y,43
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 136","Port Coquitlam",N,N,"",2,490,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,43
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 136","Port Coquitlam",N,N,"",2,490,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,13
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 136","Port Coquitlam",N,N,"",2,490,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 136","Port Coquitlam",N,N,"",2,490,"McKinnon","","Ron","Liberal","Libéral",Y,Y,70
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 137","Port Coquitlam",N,N,"",1,427,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,61
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 137","Port Coquitlam",N,N,"",1,427,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,6
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 137","Port Coquitlam",N,N,"",1,427,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 137","Port Coquitlam",N,N,"",1,427,"McKinnon","","Ron","Liberal","Libéral",Y,Y,87
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 138","Port Coquitlam",N,N,"",2,467,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,51
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 138","Port Coquitlam",N,N,"",2,467,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,11
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 138","Port Coquitlam",N,N,"",2,467,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,84
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 138","Port Coquitlam",N,N,"",2,467,"McKinnon","","Ron","Liberal","Libéral",Y,Y,66
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 139","Port Coquitlam",N,N,"",4,548,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,58
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 139","Port Coquitlam",N,N,"",4,548,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,14
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 139","Port Coquitlam",N,N,"",4,548,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 139","Port Coquitlam",N,N,"",4,548,"McKinnon","","Ron","Liberal","Libéral",Y,Y,71
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 140","Port Coquitlam",N,N,"",0,449,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,38
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 140","Port Coquitlam",N,N,"",0,449,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,8
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 140","Port Coquitlam",N,N,"",0,449,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 140","Port Coquitlam",N,N,"",0,449,"McKinnon","","Ron","Liberal","Libéral",Y,Y,60
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 141","Port Coquitlam",N,N,"",0,423,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,39
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 141","Port Coquitlam",N,N,"",0,423,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,9
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 141","Port Coquitlam",N,N,"",0,423,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,53
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 141","Port Coquitlam",N,N,"",0,423,"McKinnon","","Ron","Liberal","Libéral",Y,Y,39
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 142","Port Coquitlam",N,N,"144",0,403,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,0
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 142","Port Coquitlam",N,N,"144",0,403,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,0
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 142","Port Coquitlam",N,N,"144",0,403,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 142","Port Coquitlam",N,N,"144",0,403,"McKinnon","","Ron","Liberal","Libéral",Y,Y,0
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 143","Port Coquitlam",N,N,"",1,441,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,43
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 143","Port Coquitlam",N,N,"",1,441,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,5
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 143","Port Coquitlam",N,N,"",1,441,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 143","Port Coquitlam",N,N,"",1,441,"McKinnon","","Ron","Liberal","Libéral",Y,Y,35
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 144","Port Coquitlam",N,N,"",0,346,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,47
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 144","Port Coquitlam",N,N,"",0,346,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,3
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 144","Port Coquitlam",N,N,"",0,346,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 144","Port Coquitlam",N,N,"",0,346,"McKinnon","","Ron","Liberal","Libéral",Y,Y,70
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 145","Port Coquitlam",N,N,"",1,561,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,33
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 145","Port Coquitlam",N,N,"",1,561,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,10
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 145","Port Coquitlam",N,N,"",1,561,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 145","Port Coquitlam",N,N,"",1,561,"McKinnon","","Ron","Liberal","Libéral",Y,Y,50
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 146","Port Coquitlam",N,N,"",0,457,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,54
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 146","Port Coquitlam",N,N,"",0,457,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,7
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 146","Port Coquitlam",N,N,"",0,457,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 146","Port Coquitlam",N,N,"",0,457,"McKinnon","","Ron","Liberal","Libéral",Y,Y,50
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 147","Port Coquitlam",N,N,"",0,408,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,35
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 147","Port Coquitlam",N,N,"",0,408,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,5
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 147","Port Coquitlam",N,N,"",0,408,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,63
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 147","Port Coquitlam",N,N,"",0,408,"McKinnon","","Ron","Liberal","Libéral",Y,Y,44
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 148","Port Coquitlam",N,N,"",0,391,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,56
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 148","Port Coquitlam",N,N,"",0,391,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,7
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 148","Port Coquitlam",N,N,"",0,391,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 148","Port Coquitlam",N,N,"",0,391,"McKinnon","","Ron","Liberal","Libéral",Y,Y,40
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 149","Port Coquitlam",N,N,"",1,532,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,56
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 149","Port Coquitlam",N,N,"",1,532,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,4
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 149","Port Coquitlam",N,N,"",1,532,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,43
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 149","Port Coquitlam",N,N,"",1,532,"McKinnon","","Ron","Liberal","Libéral",Y,Y,88
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 150","Port Coquitlam",N,N,"",3,463,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,49
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 150","Port Coquitlam",N,N,"",3,463,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,2
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 150","Port Coquitlam",N,N,"",3,463,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,45
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 150","Port Coquitlam",N,N,"",3,463,"McKinnon","","Ron","Liberal","Libéral",Y,Y,63
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 151","Port Coquitlam",N,N,"",1,583,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,66
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 151","Port Coquitlam",N,N,"",1,583,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,5
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 151","Port Coquitlam",N,N,"",1,583,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,44
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 151","Port Coquitlam",N,N,"",1,583,"McKinnon","","Ron","Liberal","Libéral",Y,Y,77
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 152","Port Coquitlam",N,N,"",0,662,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,72
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 152","Port Coquitlam",N,N,"",0,662,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,7
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 152","Port Coquitlam",N,N,"",0,662,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,98
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 152","Port Coquitlam",N,N,"",0,662,"McKinnon","","Ron","Liberal","Libéral",Y,Y,92
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 153","Port Coquitlam",N,N,"",0,570,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,39
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 153","Port Coquitlam",N,N,"",0,570,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,16
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 153","Port Coquitlam",N,N,"",0,570,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,57
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 153","Port Coquitlam",N,N,"",0,570,"McKinnon","","Ron","Liberal","Libéral",Y,Y,43
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 154","Port Coquitlam",N,N,"",1,438,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,60
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 154","Port Coquitlam",N,N,"",1,438,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,8
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 154","Port Coquitlam",N,N,"",1,438,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 154","Port Coquitlam",N,N,"",1,438,"McKinnon","","Ron","Liberal","Libéral",Y,Y,78
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 155","Port Coquitlam",N,N,"",2,475,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,45
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 155","Port Coquitlam",N,N,"",2,475,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,8
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 155","Port Coquitlam",N,N,"",2,475,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 155","Port Coquitlam",N,N,"",2,475,"McKinnon","","Ron","Liberal","Libéral",Y,Y,93
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 156","Port Coquitlam",N,N,"",1,385,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,32
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 156","Port Coquitlam",N,N,"",1,385,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,5
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 156","Port Coquitlam",N,N,"",1,385,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 156","Port Coquitlam",N,N,"",1,385,"McKinnon","","Ron","Liberal","Libéral",Y,Y,64
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 157","Port Coquitlam",N,N,"",0,530,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,31
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 157","Port Coquitlam",N,N,"",0,530,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,13
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 157","Port Coquitlam",N,N,"",0,530,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,80
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 157","Port Coquitlam",N,N,"",0,530,"McKinnon","","Ron","Liberal","Libéral",Y,Y,72
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 158","Port Coquitlam",N,N,"",1,587,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,70
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 158","Port Coquitlam",N,N,"",1,587,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,18
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 158","Port Coquitlam",N,N,"",1,587,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 158","Port Coquitlam",N,N,"",1,587,"McKinnon","","Ron","Liberal","Libéral",Y,Y,96
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 159","Port Coquitlam",N,N,"",1,420,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,40
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 159","Port Coquitlam",N,N,"",1,420,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,12
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 159","Port Coquitlam",N,N,"",1,420,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 159","Port Coquitlam",N,N,"",1,420,"McKinnon","","Ron","Liberal","Libéral",Y,Y,54
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 160","Port Coquitlam",N,N,"",0,453,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,57
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 160","Port Coquitlam",N,N,"",0,453,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,11
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 160","Port Coquitlam",N,N,"",0,453,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,66
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 160","Port Coquitlam",N,N,"",0,453,"McKinnon","","Ron","Liberal","Libéral",Y,Y,57
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 161","Port Coquitlam",N,N,"",0,540,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,67
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 161","Port Coquitlam",N,N,"",0,540,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,8
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 161","Port Coquitlam",N,N,"",0,540,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,62
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 161","Port Coquitlam",N,N,"",0,540,"McKinnon","","Ron","Liberal","Libéral",Y,Y,79
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 162","Port Coquitlam",N,N,"",0,445,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,53
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 162","Port Coquitlam",N,N,"",0,445,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,20
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 162","Port Coquitlam",N,N,"",0,445,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,61
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 162","Port Coquitlam",N,N,"",0,445,"McKinnon","","Ron","Liberal","Libéral",Y,Y,58
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 163","Port Coquitlam",N,N,"",1,497,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,55
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 163","Port Coquitlam",N,N,"",1,497,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,10
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 163","Port Coquitlam",N,N,"",1,497,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,71
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 163","Port Coquitlam",N,N,"",1,497,"McKinnon","","Ron","Liberal","Libéral",Y,Y,70
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 164","Port Coquitlam",N,N,"",1,496,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,85
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 164","Port Coquitlam",N,N,"",1,496,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,8
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 164","Port Coquitlam",N,N,"",1,496,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,82
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 164","Port Coquitlam",N,N,"",1,496,"McKinnon","","Ron","Liberal","Libéral",Y,Y,65
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 165","Port Coquitlam",N,N,"",1,447,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,87
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 165","Port Coquitlam",N,N,"",1,447,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,12
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 165","Port Coquitlam",N,N,"",1,447,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,81
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 165","Port Coquitlam",N,N,"",1,447,"McKinnon","","Ron","Liberal","Libéral",Y,Y,77
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 166","Port Coquitlam",N,N,"",0,360,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,42
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 166","Port Coquitlam",N,N,"",0,360,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,2
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 166","Port Coquitlam",N,N,"",0,360,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,24
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 166","Port Coquitlam",N,N,"",0,360,"McKinnon","","Ron","Liberal","Libéral",Y,Y,52
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 167","Port Coquitlam",N,N,"",0,405,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,67
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 167","Port Coquitlam",N,N,"",0,405,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,7
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 167","Port Coquitlam",N,N,"",0,405,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,50
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 167","Port Coquitlam",N,N,"",0,405,"McKinnon","","Ron","Liberal","Libéral",Y,Y,70
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 168","Port Coquitlam",N,N,"",0,573,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,77
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 168","Port Coquitlam",N,N,"",0,573,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,3
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 168","Port Coquitlam",N,N,"",0,573,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 168","Port Coquitlam",N,N,"",0,573,"McKinnon","","Ron","Liberal","Libéral",Y,Y,80
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 169","Port Coquitlam",N,N,"",1,451,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,52
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 169","Port Coquitlam",N,N,"",1,451,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,6
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 169","Port Coquitlam",N,N,"",1,451,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,47
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 169","Port Coquitlam",N,N,"",1,451,"McKinnon","","Ron","Liberal","Libéral",Y,Y,86
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 170","Port Coquitlam",N,N,"",0,592,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,58
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 170","Port Coquitlam",N,N,"",0,592,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,8
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 170","Port Coquitlam",N,N,"",0,592,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 170","Port Coquitlam",N,N,"",0,592,"McKinnon","","Ron","Liberal","Libéral",Y,Y,56
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 171","Port Coquitlam",N,N,"",1,392,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,44
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 171","Port Coquitlam",N,N,"",1,392,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,10
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 171","Port Coquitlam",N,N,"",1,392,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,29
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 171","Port Coquitlam",N,N,"",1,392,"McKinnon","","Ron","Liberal","Libéral",Y,Y,56
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 172","Port Coquitlam",N,N,"",0,608,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,63
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 172","Port Coquitlam",N,N,"",0,608,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,4
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 172","Port Coquitlam",N,N,"",0,608,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,51
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 172","Port Coquitlam",N,N,"",0,608,"McKinnon","","Ron","Liberal","Libéral",Y,Y,43
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 173","Port Coquitlam",N,N,"",0,742,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,51
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 173","Port Coquitlam",N,N,"",0,742,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,7
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 173","Port Coquitlam",N,N,"",0,742,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,54
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 173","Port Coquitlam",N,N,"",0,742,"McKinnon","","Ron","Liberal","Libéral",Y,Y,82
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 174","Port Coquitlam",N,N,"",0,743,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,63
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 174","Port Coquitlam",N,N,"",0,743,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,12
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 174","Port Coquitlam",N,N,"",0,743,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,58
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 174","Port Coquitlam",N,N,"",0,743,"McKinnon","","Ron","Liberal","Libéral",Y,Y,102
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 175","Port Coquitlam",N,N,"",3,458,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,34
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 175","Port Coquitlam",N,N,"",3,458,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,8
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 175","Port Coquitlam",N,N,"",3,458,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,65
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 175","Port Coquitlam",N,N,"",3,458,"McKinnon","","Ron","Liberal","Libéral",Y,Y,71
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 176","Port Coquitlam",N,N,"",1,387,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,56
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 176","Port Coquitlam",N,N,"",1,387,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,3
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 176","Port Coquitlam",N,N,"",1,387,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,85
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 176","Port Coquitlam",N,N,"",1,387,"McKinnon","","Ron","Liberal","Libéral",Y,Y,55
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 177","Port Coquitlam",N,N,"",0,595,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,84
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 177","Port Coquitlam",N,N,"",0,595,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,12
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 177","Port Coquitlam",N,N,"",0,595,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,115
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 177","Port Coquitlam",N,N,"",0,595,"McKinnon","","Ron","Liberal","Libéral",Y,Y,68
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 178","Port Coquitlam",N,N,"",1,362,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,45
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 178","Port Coquitlam",N,N,"",1,362,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,7
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 178","Port Coquitlam",N,N,"",1,362,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 178","Port Coquitlam",N,N,"",1,362,"McKinnon","","Ron","Liberal","Libéral",Y,Y,79
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 179","Port Coquitlam",N,N,"",1,550,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,71
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 179","Port Coquitlam",N,N,"",1,550,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,8
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 179","Port Coquitlam",N,N,"",1,550,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,73
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 179","Port Coquitlam",N,N,"",1,550,"McKinnon","","Ron","Liberal","Libéral",Y,Y,86
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 180","Port Coquitlam",N,N,"",0,519,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,80
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 180","Port Coquitlam",N,N,"",0,519,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,12
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 180","Port Coquitlam",N,N,"",0,519,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,72
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 180","Port Coquitlam",N,N,"",0,519,"McKinnon","","Ron","Liberal","Libéral",Y,Y,54
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 181","Port Coquitlam",N,N,"",3,608,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,67
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 181","Port Coquitlam",N,N,"",3,608,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,10
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 181","Port Coquitlam",N,N,"",3,608,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,81
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 181","Port Coquitlam",N,N,"",3,608,"McKinnon","","Ron","Liberal","Libéral",Y,Y,88
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 182","Port Coquitlam",N,N,"",0,451,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,59
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 182","Port Coquitlam",N,N,"",0,451,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,2
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 182","Port Coquitlam",N,N,"",0,451,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,52
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 182","Port Coquitlam",N,N,"",0,451,"McKinnon","","Ron","Liberal","Libéral",Y,Y,95
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 183","Port Coquitlam",N,N,"",1,528,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,66
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 183","Port Coquitlam",N,N,"",1,528,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,13
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 183","Port Coquitlam",N,N,"",1,528,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,67
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 183","Port Coquitlam",N,N,"",1,528,"McKinnon","","Ron","Liberal","Libéral",Y,Y,83
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 184","Port Coquitlam",N,N,"",2,466,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,55
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 184","Port Coquitlam",N,N,"",2,466,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,4
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 184","Port Coquitlam",N,N,"",2,466,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,56
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 184","Port Coquitlam",N,N,"",2,466,"McKinnon","","Ron","Liberal","Libéral",Y,Y,61
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 185","Port Coquitlam",N,N,"",0,451,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,54
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 185","Port Coquitlam",N,N,"",0,451,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,10
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 185","Port Coquitlam",N,N,"",0,451,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,48
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 185","Port Coquitlam",N,N,"",0,451,"McKinnon","","Ron","Liberal","Libéral",Y,Y,84
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 186","Port Coquitlam",N,N,"",3,444,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,61
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 186","Port Coquitlam",N,N,"",3,444,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,5
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 186","Port Coquitlam",N,N,"",3,444,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,60
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 186","Port Coquitlam",N,N,"",3,444,"McKinnon","","Ron","Liberal","Libéral",Y,Y,74
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 187","Port Coquitlam",N,N,"",1,462,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,60
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 187","Port Coquitlam",N,N,"",1,462,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,3
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 187","Port Coquitlam",N,N,"",1,462,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,70
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 187","Port Coquitlam",N,N,"",1,462,"McKinnon","","Ron","Liberal","Libéral",Y,Y,95
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 188","Port Coquitlam",N,N,"",0,513,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,126
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 188","Port Coquitlam",N,N,"",0,513,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,11
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 188","Port Coquitlam",N,N,"",0,513,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,42
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 188","Port Coquitlam",N,N,"",0,513,"McKinnon","","Ron","Liberal","Libéral",Y,Y,70
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 189","Port Coquitlam",N,N,"",1,495,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,85
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 189","Port Coquitlam",N,N,"",1,495,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,3
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 189","Port Coquitlam",N,N,"",1,495,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,46
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 189","Port Coquitlam",N,N,"",1,495,"McKinnon","","Ron","Liberal","Libéral",Y,Y,84
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 190","Port Coquitlam",N,N,"",0,525,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,42
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 190","Port Coquitlam",N,N,"",0,525,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,5
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 190","Port Coquitlam",N,N,"",0,525,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,74
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 190","Port Coquitlam",N,N,"",0,525,"McKinnon","","Ron","Liberal","Libéral",Y,Y,106
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 191","Port Coquitlam",N,N,"",0,524,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,79
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 191","Port Coquitlam",N,N,"",0,524,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,1
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 191","Port Coquitlam",N,N,"",0,524,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,31
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 191","Port Coquitlam",N,N,"",0,524,"McKinnon","","Ron","Liberal","Libéral",Y,Y,87
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 192","Port Coquitlam",N,N,"",1,416,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,75
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 192","Port Coquitlam",N,N,"",1,416,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,2
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 192","Port Coquitlam",N,N,"",1,416,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,40
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 192","Port Coquitlam",N,N,"",1,416,"McKinnon","","Ron","Liberal","Libéral",Y,Y,56
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 400","Coquitlam",N,N,"402",0,276,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,0
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 400","Coquitlam",N,N,"402",0,276,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,0
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 400","Coquitlam",N,N,"402",0,276,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 400","Coquitlam",N,N,"402",0,276,"McKinnon","","Ron","Liberal","Libéral",Y,Y,0
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 401","Port Coquitlam",N,N,"402",0,224,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,0
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 401","Port Coquitlam",N,N,"402",0,224,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,0
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 401","Port Coquitlam",N,N,"402",0,224,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,0
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 401","Port Coquitlam",N,N,"402",0,224,"McKinnon","","Ron","Liberal","Libéral",Y,Y,0
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 402","Port Coquitlam",N,N,"",1,87,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,34
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 402","Port Coquitlam",N,N,"",1,87,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,9
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 402","Port Coquitlam",N,N,"",1,87,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,34
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 402","Port Coquitlam",N,N,"",1,87,"McKinnon","","Ron","Liberal","Libéral",Y,Y,50
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 500","Mobile poll/Bureau itinérant",N,N,"",4,118,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,33
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 500","Mobile poll/Bureau itinérant",N,N,"",4,118,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,0
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 500","Mobile poll/Bureau itinérant",N,N,"",4,118,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,21
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 500","Mobile poll/Bureau itinérant",N,N,"",4,118,"McKinnon","","Ron","Liberal","Libéral",Y,Y,40
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 501","Mobile poll/Bureau itinérant",N,N,"",0,26,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,5
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 501","Mobile poll/Bureau itinérant",N,N,"",0,26,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,0
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 501","Mobile poll/Bureau itinérant",N,N,"",0,26,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,16
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 501","Mobile poll/Bureau itinérant",N,N,"",0,26,"McKinnon","","Ron","Liberal","Libéral",Y,Y,12
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 502","Mobile poll/Bureau itinérant",N,N,"",1,18,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,2
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 502","Mobile poll/Bureau itinérant",N,N,"",1,18,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,1
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 502","Mobile poll/Bureau itinérant",N,N,"",1,18,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,4
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 502","Mobile poll/Bureau itinérant",N,N,"",1,18,"McKinnon","","Ron","Liberal","Libéral",Y,Y,8
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 503","Mobile poll/Bureau itinérant",N,N,"",0,21,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,8
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 503","Mobile poll/Bureau itinérant",N,N,"",0,21,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,1
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 503","Mobile poll/Bureau itinérant",N,N,"",0,21,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,2
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 503","Mobile poll/Bureau itinérant",N,N,"",0,21,"McKinnon","","Ron","Liberal","Libéral",Y,Y,5
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 504","Mobile poll/Bureau itinérant",N,N,"",1,88,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,12
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 504","Mobile poll/Bureau itinérant",N,N,"",1,88,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,0
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 504","Mobile poll/Bureau itinérant",N,N,"",1,88,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 504","Mobile poll/Bureau itinérant",N,N,"",1,88,"McKinnon","","Ron","Liberal","Libéral",Y,Y,21
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 505","Mobile poll/Bureau itinérant",N,N,"",0,114,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,28
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 505","Mobile poll/Bureau itinérant",N,N,"",0,114,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,0
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 505","Mobile poll/Bureau itinérant",N,N,"",0,114,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,19
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 505","Mobile poll/Bureau itinérant",N,N,"",0,114,"McKinnon","","Ron","Liberal","Libéral",Y,Y,35
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 506","Mobile poll/Bureau itinérant",N,N,"",2,70,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,5
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 506","Mobile poll/Bureau itinérant",N,N,"",2,70,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,0
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 506","Mobile poll/Bureau itinérant",N,N,"",2,70,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 506","Mobile poll/Bureau itinérant",N,N,"",2,70,"McKinnon","","Ron","Liberal","Libéral",Y,Y,13
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 507","Mobile poll/Bureau itinérant",N,N,"",0,97,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,16
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 507","Mobile poll/Bureau itinérant",N,N,"",0,97,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,3
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 507","Mobile poll/Bureau itinérant",N,N,"",0,97,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,18
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 507","Mobile poll/Bureau itinérant",N,N,"",0,97,"McKinnon","","Ron","Liberal","Libéral",Y,Y,30
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 600","Coquitlam",N,N,"",7,0,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,348
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 600","Coquitlam",N,N,"",7,0,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,60
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 600","Coquitlam",N,N,"",7,0,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,203
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 600","Coquitlam",N,N,"",7,0,"McKinnon","","Ron","Liberal","Libéral",Y,Y,401
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 601","Coquitlam",N,N,"",2,0,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,341
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 601","Coquitlam",N,N,"",2,0,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,31
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 601","Coquitlam",N,N,"",2,0,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,93
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 601","Coquitlam",N,N,"",2,0,"McKinnon","","Ron","Liberal","Libéral",Y,Y,304
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 602","Coquitlam",N,N,"",1,0,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,307
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 602","Coquitlam",N,N,"",1,0,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,25
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 602","Coquitlam",N,N,"",1,0,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,116
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 602","Coquitlam",N,N,"",1,0,"McKinnon","","Ron","Liberal","Libéral",Y,Y,353
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 603","Coquitlam",N,N,"",5,0,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,408
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 603","Coquitlam",N,N,"",5,0,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,58
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 603","Coquitlam",N,N,"",5,0,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,306
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 603","Coquitlam",N,N,"",5,0,"McKinnon","","Ron","Liberal","Libéral",Y,Y,482
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 604","Coquitlam",N,N,"",2,0,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,399
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 604","Coquitlam",N,N,"",2,0,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,53
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 604","Coquitlam",N,N,"",2,0,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,270
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 604","Coquitlam",N,N,"",2,0,"McKinnon","","Ron","Liberal","Libéral",Y,Y,485
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 605","Coquitlam",N,N,"",7,0,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,406
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 605","Coquitlam",N,N,"",7,0,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,61
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 605","Coquitlam",N,N,"",7,0,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,293
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 605","Coquitlam",N,N,"",7,0,"McKinnon","","Ron","Liberal","Libéral",Y,Y,572
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 606","Coquitlam",N,N,"",3,0,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,394
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 606","Coquitlam",N,N,"",3,0,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,84
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 606","Coquitlam",N,N,"",3,0,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,375
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 606","Coquitlam",N,N,"",3,0,"McKinnon","","Ron","Liberal","Libéral",Y,Y,528
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 607","Port Coquitlam",N,N,"",2,0,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,374
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 607","Port Coquitlam",N,N,"",2,0,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,49
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 607","Port Coquitlam",N,N,"",2,0,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,268
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 607","Port Coquitlam",N,N,"",2,0,"McKinnon","","Ron","Liberal","Libéral",Y,Y,414
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 608","Coquitlam",N,N,"",0,0,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,246
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 608","Coquitlam",N,N,"",0,0,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,24
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 608","Coquitlam",N,N,"",0,0,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,128
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 608","Coquitlam",N,N,"",0,0,"McKinnon","","Ron","Liberal","Libéral",Y,Y,231
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 609","Port Coquitlam",N,N,"",6,0,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,422
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 609","Port Coquitlam",N,N,"",6,0,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,68
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 609","Port Coquitlam",N,N,"",6,0,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,398
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 609","Port Coquitlam",N,N,"",6,0,"McKinnon","","Ron","Liberal","Libéral",Y,Y,441
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 610","Port Coquitlam",N,N,"",1,0,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,228
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 610","Port Coquitlam",N,N,"",1,0,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,55
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 610","Port Coquitlam",N,N,"",1,0,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,237
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 610","Port Coquitlam",N,N,"",1,0,"McKinnon","","Ron","Liberal","Libéral",Y,Y,282
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 611","Port Coquitlam",N,N,"",4,0,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,235
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 611","Port Coquitlam",N,N,"",4,0,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,54
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 611","Port Coquitlam",N,N,"",4,0,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,232
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 611","Port Coquitlam",N,N,"",4,0,"McKinnon","","Ron","Liberal","Libéral",Y,Y,245
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 612","Port Coquitlam",N,N,"",3,0,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,196
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 612","Port Coquitlam",N,N,"",3,0,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,46
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 612","Port Coquitlam",N,N,"",3,0,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,223
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 612","Port Coquitlam",N,N,"",3,0,"McKinnon","","Ron","Liberal","Libéral",Y,Y,275
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 613","Port Coquitlam",N,N,"",2,0,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,257
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 613","Port Coquitlam",N,N,"",2,0,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,69
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 613","Port Coquitlam",N,N,"",2,0,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,295
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 613","Port Coquitlam",N,N,"",2,0,"McKinnon","","Ron","Liberal","Libéral",Y,Y,315
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 614","Port Coquitlam",N,N,"",2,0,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,310
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 614","Port Coquitlam",N,N,"",2,0,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,47
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 614","Port Coquitlam",N,N,"",2,0,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,250
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 614","Port Coquitlam",N,N,"",2,0,"McKinnon","","Ron","Liberal","Libéral",Y,Y,371
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 615","Port Coquitlam",N,N,"",2,0,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,308
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 615","Port Coquitlam",N,N,"",2,0,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,53
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 615","Port Coquitlam",N,N,"",2,0,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,260
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 615","Port Coquitlam",N,N,"",2,0,"McKinnon","","Ron","Liberal","Libéral",Y,Y,446
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 616","Port Coquitlam",N,N,"",1,0,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,284
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 616","Port Coquitlam",N,N,"",1,0,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,62
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 616","Port Coquitlam",N,N,"",1,0,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,229
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 616","Port Coquitlam",N,N,"",1,0,"McKinnon","","Ron","Liberal","Libéral",Y,Y,281
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 617","Port Coquitlam",N,N,"",1,0,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,408
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 617","Port Coquitlam",N,N,"",1,0,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,38
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 617","Port Coquitlam",N,N,"",1,0,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,152
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 617","Port Coquitlam",N,N,"",1,0,"McKinnon","","Ron","Liberal","Libéral",Y,Y,334
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 618","Coquitlam",N,N,"",2,0,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,203
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 618","Coquitlam",N,N,"",2,0,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,13
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 618","Coquitlam",N,N,"",2,0,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,84
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," 618","Coquitlam",N,N,"",2,0,"McKinnon","","Ron","Liberal","Libéral",Y,Y,225
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",24,244,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,139
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",24,244,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,15
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",24,244,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,132
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," S/R 1","SVR Group 1/RÉS Groupe 1",N,N,"",24,244,"McKinnon","","Ron","Liberal","Libéral",Y,Y,174
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",167,0,"Anastasiadis","","Katerina","Conservative","Conservateur",N,N,1202
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",167,0,"Brundell","","Kimberly","People's Party - PPC","Parti populaire - PPC",N,N,163
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",167,0,"Dupont","","Laura","NDP-New Democratic Party","NPD-Nouveau Parti démocratique",N,N,1186
+59008,"Coquitlam--Port Coquitlam","Coquitlam--Port Coquitlam"," S/R 2","SVR Group 2/RÉS Groupe 2",N,N,"",167,0,"McKinnon","","Ron","Liberal","Libéral",Y,Y,1714

@@ -4,6 +4,8 @@ import java.io.File;
 //import java.io.FileNotFoundException;
 //import java.io.FileWriter;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 /**
@@ -17,11 +19,22 @@ public class Main
 	public static void main(String[] args) 
 	{
 		// might be better to do Canada.execute(folder,year,month). I don't think I will though.
-		//Canada election_object = Canada.execute2021("C:\\Users\\15148\\OneDrive\\Desktop\\Programming\\Personal Programming\\Java Stuff\\proportional_v2\\src\\collect_electoral_data\\pollresults");
+		// Canada election_object = Canada.execute2021("src\\resources\\pollresults_debug");
+		// System.out.println( election_object.getProvince(24) );
+		
+		//System.out.println(election_object);
+		
+		String a = "aaa";
+		List<String> b = new ArrayList<>();
+		
+		b.add(a);
+		a = "zzz";
+		
+		System.out.println( b.get(0) );
 		
 		
-		File file = new File("src\\collect_electoral_data\\pollresults_debug\\pollresults_resultatsbureau35094.csv");
-		//File file_new = new File("src\\collect_electoral_data\\pollresults_debug\\pollresults_resultatsbureau48021_VCP.csv");
+		/*
+		File file = new File("src\\resources\\pollresults_debug\\pollresults_resultatsbureau35094.csv");
 		
 		Scanner sc_old;
 		
@@ -57,7 +70,7 @@ public class Main
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		
+		*/
 		
 		
 		// 13, 17
